@@ -62,7 +62,6 @@ social:
     link: uploads/cv.pdf
   
   - icon: sc
-    icon_pack: custom
     link: https://soundcloud.com/euphort_wind 
 
 
