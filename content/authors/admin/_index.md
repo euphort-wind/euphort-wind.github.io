@@ -58,8 +58,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/cv.pdf
+
   - icon: instagram
-    icon_pack: hb
+    icon_pack: fab
     link: https://instagram.com/euphort_wind 
 
 # Highlight the author in author lists? (true/false)
