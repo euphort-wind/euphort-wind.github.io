@@ -1,13 +1,11 @@
 ---
 # Display name
-title: 吳健雄
+title: Vladislav Indykov
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Vladislav
+last_name: Indykov
 
 # Status emoji
 status:
@@ -17,7 +15,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -105,5 +103,4 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Hej! My name is <b><u>Vladislav Indykov</b></u>. I am also known as <b><u>Euphort Wind</b></u>. I work at the Computer Science & Engineering Department (<a href = "https://www.gu.se/en/computer-science-engineering" target="_blank"> University of Gothenburg</a> | <a href = "https://www.chalmers.se/en/departments/cse/" target="_blank"> Chalmers University of Technology</a>). I am currently deeply interested in the architectural issues of AI-based systems. {style="text-align: justify;"}
