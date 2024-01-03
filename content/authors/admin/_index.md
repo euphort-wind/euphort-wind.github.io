@@ -29,8 +29,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Software Architecture
   - Machine Learning
-  - Electronic Music
   - Business Analysis
+  - Electronic Music
 
 # Education to show in About widget
 education:
@@ -58,6 +58,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/cv.pdf
+  - icon: instagram
+    icon_pack: hb
+    link: https://instagram.com/euphort_wind 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
