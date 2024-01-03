@@ -62,7 +62,8 @@ social:
     link: uploads/cv.pdf
   
   - icon: sc
-    link: uploads/cv.pdf
+    link: https://soundcloud.com/euphort_wind 
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
