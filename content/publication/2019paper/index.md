@@ -1,23 +1,19 @@
 ---
-title: 'An example conference paper'
+title: 'Study of aerodynamics of stream flow in server rooms using numerical modeling'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Galina Trubitsyna
+  - Maxim Surovtsov
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2019-07-01T00:00:00Z'
+doi: '10.1088/1757-899X/687/4/044029'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2019-07-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,32 +21,22 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *International Conference on Construction, Architecture and Technosphere Safety 2019*
+publication_short: In *ICCATS 2019*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: This paper analyzes various schemes of air exchange in server rooms. Top-down and down-top vertical cooling schemes for small server rooms using local AC systems were analyzed. Numerical models were developed for the study of heat and mass transfer and server aerodynamics, which make it possible to evaluate the cooling efficiency of electronic equipment when placed in an arbitrary configuration. To study the thermal and velocity fields, numerical simulation of the stream flow processes was performed using the FlowVision software. This paper shows the advantage of the selected air-conditioning scheme compared to the existing ventilation system. Modeling results may be used for designing small server rooms.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: 'https://iopscience.iop.org/article/10.1088/1757-899X/687/4/044029/pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -64,15 +50,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
