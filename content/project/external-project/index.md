@@ -1,6 +1,6 @@
 ---
 title: Euphort Wind - Respire
-summary: Created in 2020, inspired by COVID-19 pandemic.
+summary: Created in 2020, inspired by COVID-19 pandemic. Genre - Future Garage, Electronic. 
 tags:
   - Demo
 date: "2020-09-27T00:00:00Z"
