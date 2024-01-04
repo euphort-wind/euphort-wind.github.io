@@ -53,8 +53,6 @@ sections:
   - block: experience
     content:
       title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
@@ -62,19 +60,31 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Doctoral Candidate
+          company: University of Gothenburg
+          company_url: 'https://www.gu.se/en'
+          company_logo: gu
+          location: Gothenburg
+          date_start: '2023-05-23'
           date_end: ''
           description: |2-
               Responsibilities include:
+              * PhD Research: Architectural Approach to SE4ML
+              * Teaching: "Agile Software Project Management" course
+              * Supervision: BSc & MSc Theses  
 
-              * Analysing
-              * Modelling
-              * Deploying
+        - title: Lecturer
+          company: Ural Federal University
+          company_url: 'https://urfu.ru/en/'
+          company_logo: urfu
+          location: Ekaterinburg
+          date_start: '2022-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Teaching: "Business Analysis Tools" & "Internet Marketing" courses
+              * Departamental Duties
+
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
