@@ -10,12 +10,15 @@ main:
  # - name: Posts
  #   url: '#posts'
  #   weight: 20
-  - name: Projects
+  - name: Music
     url: '#projects'
     weight: 30
   - name: Publications
-    url: '#featured'
+    url: '#recent'
     weight: 50
+  - name: Travelling
+    url: '#posts'
+    weight: 55
   - name: Contact
     url: '#contact'
     weight: 60
