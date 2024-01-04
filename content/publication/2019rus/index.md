@@ -1,19 +1,17 @@
 ---
-title: 'Study of aerodynamics of stream flow in server rooms using numerical modeling'
+title: 'Development of the educational game concept'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Galina Trubitsyna
-  - Maxim Surovtsov
 
-date: '2019-07-01T00:00:00Z'
-doi: '10.1088/1757-899X/687/4/044029'
+date: '2019-01-01T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-07-01T00:00:00Z'
+publishDate: '2019-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,10 +19,10 @@ publishDate: '2019-07-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Construction, Architecture and Technosphere Safety 2019*
-publication_short: In *ICCATS 2019*
+publication: In *Bulletin of Modern Research 2019*
+publication_short: In *BMR 2019*
 
-abstract: 
+abstract: This article discusses the concept of a game product intended for interdisciplinary education of schoolchildren. The system of gamification of the educational process contains elements of a quest, role-playing game, and visual novel. The game layout was created, containing the main menu, rating system, map of the main stages of the game and a testing area.
 
 tags: []
 
@@ -36,7 +34,6 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://iopscience.iop.org/article/10.1088/1757-899X/687/4/044029/pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
