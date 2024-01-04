@@ -76,7 +76,7 @@ sections:
   - block: collection
     id: recent
     content:
-      title: Recent Publications
+      title: Publications
       filters:
         folders:
           - publication
