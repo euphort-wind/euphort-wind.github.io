@@ -12,7 +12,7 @@ gallery_item:
     caption: Write your image 2 caption here 
 ---
 
-<a href ="https://euphort.se/post/aland/#gallery-demo-1"><img src = "chris.png">fd</img></a>
+{{< gallery album="demo" resize_options="150x150" >}}
    
 ## Organize your notebooks
 
