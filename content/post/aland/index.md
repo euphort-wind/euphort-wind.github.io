@@ -12,7 +12,7 @@ gallery_item:
     caption: Write your image 2 caption here 
 ---
 
-{{< gallery album="demo" resize_options="150x150" >}}
+{{< gallery album="demo" crop_options="150x150" >}}
    
 ## Organize your notebooks
 
