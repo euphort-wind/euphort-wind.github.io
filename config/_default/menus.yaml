@@ -16,7 +16,7 @@ main:
   - name: Music
     url: '#projects'
     weight: 30
-  - name: Travelling
+  - name: Wanderlust
     url: '#posts'
     weight: 40
   - name: Contact
