@@ -2,9 +2,9 @@
 title: 🇦🇽 Åland Islands 
 date: '2023-12-30'
 summary: Trip to Ålands
----
 
-{{<gallery album="demo" view="card">}}
+
+{{<gallery album="demo" view="card" resize_options="250x250">}}
 
 gallery_item:
   - album: demo
@@ -14,6 +14,7 @@ gallery_item:
     image: dan.jpg
     caption: Write your image 2 caption here    
 
+---
 ## Organize your notebooks
 
 Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
