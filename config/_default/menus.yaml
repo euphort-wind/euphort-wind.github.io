@@ -10,7 +10,7 @@ main:
  # - name: Posts
  #   url: '#posts'
  #   weight: 20
-  - name: Publications
+  - name: Science
     url: '#recent'
     weight: 20
   - name: Music
