@@ -48,7 +48,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2023} Euphort Wind'
+    notice: '© 2024 Euphort Wind'
     license:
       enable: false
       allow_derivatives: false
