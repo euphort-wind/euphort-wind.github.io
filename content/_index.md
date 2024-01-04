@@ -40,6 +40,7 @@ sections:
           company_logo: lurfu
           location: Ekaterinburg
           date_start: '2022-09-01'
+          date_end: '2023-06-30'
           description: |2-
               Responsibilities include:
               * Teaching: "Business Analysis Tools" & "Internet Marketing" courses

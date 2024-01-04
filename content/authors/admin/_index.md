@@ -36,9 +36,9 @@ interests:
 education:
   courses:
     - course: PhD in Software Engineering
-      institution: 2028 (active) - University of Gothenburg 
+      institution: active - University of Gothenburg 
     - course: PhD in Org. System Management
-      institution: 2027 (incomplete) - Ural Federal University 
+      institution: incomplete - Ural Federal University 
     - course: MSc in Applied Computer Science
       institution: 2022 (complete) - Ural Federal University 
     - course: MSc in Computer Science
@@ -70,4 +70,4 @@ social:
 highlight_name: true
 ---
 
-Hej! My name is <b><u>Vladislav Indykov</b></u>. I am also known as <b><u>Euphort Wind</b></u>. I work at the Computer Science & Engineering Department (<a href = "https://www.gu.se/en/computer-science-engineering" target="_blank">University of Gothenburg</a> | <a href = "https://www.chalmers.se/en/departments/cse/" target="_blank"> Chalmers University of Technology</a>). I am currently deeply interested in the architectural issues of AI-based systems. 
+Hej! My name is <b><u>Vlad Indykov</b></u>. I am also known as <b><u>Euphort Wind</b></u>. I work at the Computer Science & Engineering Department (<a href = "https://www.gu.se/en/computer-science-engineering" target="_blank">University of Gothenburg</a> | <a href = "https://www.chalmers.se/en/departments/cse/" target="_blank"> Chalmers University of Technology</a>). I am currently deeply interested in the architectural issues of AI-based systems. 
