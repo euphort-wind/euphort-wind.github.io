@@ -88,7 +88,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Music
       filters:
         folders:
           - project
