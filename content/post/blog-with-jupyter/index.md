@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: Åland Islands 🇦🇽
+date: '2023-12-30'
+summary: Trip to Ålands
 ---
 
 
