@@ -34,6 +34,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
+url_pdf: 'https://www.elibrary.ru/item.asp?id=36885208'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
