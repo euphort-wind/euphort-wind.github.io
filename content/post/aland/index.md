@@ -11,6 +11,7 @@ gallery_item:
     image: dan.jpg
     caption: Write your image 2 caption here 
 ---
+Text about Ålands
 
 {{< gallery album="demo" crop_options="150x150" >}}
    
