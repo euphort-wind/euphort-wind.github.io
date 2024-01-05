@@ -36,7 +36,7 @@ Hej! I want to share an extract of my experience of visiting magnificent Latvia.
     - Riga castle <i>(Rīgas pils)</i>
 2. Jurmala
     - Dzintari Forest Park <i>(Dzintaru Mežaparks)</i>
-    - Open-air Museum <i>(Jūrmala Babītes pilskalns)</i>
+    - Open-air Museum <i>(Jūrmala Brīvdabas Muzejs)</i>
 
 <b>🎧 Local musicians: </b>
 - Prāta Vētra (band). Genre: pop 
