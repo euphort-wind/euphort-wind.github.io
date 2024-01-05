@@ -4,19 +4,31 @@ date: '2023-12-30'
 summary: Trip to Ålands
 
 gallery_item:
-  - album: demo
-    image: chris.jpg
-    caption: Write your image 1 caption here
-  - album: demo
-    image: dan.jpg
-    caption: Write your image 2 caption here 
+  - album: aland
+    image: 1fish.jpg
+    caption: Eckerö museum of fisheries and navigation
+  - album: aland
+    image: 2post.jpg
+    caption: Eckerö post office
+  - album: aland
+    image: 3museum.jpg
+    caption: Maritime museum and Pommern ship
+  - album: aland
+    image: 4pirate.jpg
+    caption: Original Jolly Roger in Maritime Museum (XVIII century)
+  - album: aland
+    image: 5sjo.jpg
+    caption: The sea quarter
+  - album: aland
+    image: 6pancake.jpg
+    caption: Åland Pancake
 ---
 Hej! I want to share an extract of my experience from visiting the beautiful Ålands. I was there just at Christmas. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things what I personally liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places visited:</b> Mariehamn, Eckerö.<br>
+<b>🗺 Places:</b> Mariehamn, Eckerö.<br>
 
-<b>🏛 Top sights visited (personal recommendation): </b>
+<b>🏛 Top sights visited: </b>
 1. Eckerö
     - Post office <i>(Post- och tullhus)</i>;
     - Museum of fisheries and navigation <i>(Ålands jakt- och fiskemuseum)</i>.
@@ -45,6 +57,6 @@ Hej! I want to share an extract of my experience from visiting the beautiful Ål
 - Devil's Bride <i>(Tulen morsian)</i>. Year: 2016. Genre: Horror/Drama
 <br>
 
-{{< gallery album="demo" crop_options="150x150" >}}
+{{< gallery album="aland" crop_options="150x150" >}}
    
 
