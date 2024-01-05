@@ -30,12 +30,12 @@ Hej! I want to share an extract of my experience of visiting the beautiful Ålan
 
 <b>🏛 Top sights visited: </b>
 1. Eckerö
-    - Post office <i>(Post- och tullhus)</i>;
-    - Museum of fisheries and navigation <i>(Ålands jakt- och fiskemuseum)</i>.
+    - Post office <i>(Post- och tullhus)</i>
+    - Museum of fisheries and navigation <i>(Ålands jakt- och fiskemuseum)</i>
 2. Mariehamn
-    - The sea quarter <i>(Sjökvarteret)</i>;
-    - Maritime museum and Pommern ship <i>(Ålands sjöfartsmuseum)</i>;
-    - Central park <i>(Esplanaden)</i>.
+    - The sea quarter <i>(Sjökvarteret)</i>
+    - Maritime museum and Pommern ship <i>(Ålands sjöfartsmuseum)</i>
+    - Central park <i>(Esplanaden)</i>
 
 
 
@@ -56,6 +56,9 @@ Hej! I want to share an extract of my experience of visiting the beautiful Ålan
 <b>🎬 Local movies:</b>
 - Devil's Bride <i>(Tulen morsian)</i>. Year: 2016. Genre: Horror/Drama
 <br>
+
+<b>🦉 Local wisdom</b>
+- "Adventure is not something we need to look for. It's exciting enough to live" / "Äventyr är inte något vi behöver leta efter. Det är ju tillräckligt spännande att leva" — AnneAnka (<a href = "https://www.pernillalindroos.com/">Pernilla Lindroos.</a>)
 
 {{< gallery album="aland" crop_options="150x150" >}}
    
