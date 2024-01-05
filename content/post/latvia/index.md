@@ -4,57 +4,59 @@ date: '2023-12-01'
 summary: Trip to Latvia
 
 gallery_item:
-  - album: aland
-    image: 1fish.jpg
-    caption: Eckerö museum of fisheries and navigation
-  - album: aland
-    image: 2post.jpg
-    caption: Eckerö post office
-  - album: aland
-    image: 3museum.jpg
-    caption: Maritime museum and Pommern ship
-  - album: aland
-    image: 4pirate.jpg
-    caption: Original Jolly Roger in Maritime Museum (XVIII century)
-  - album: aland
-    image: 5sjo.jpg
-    caption: The sea quarter
-  - album: aland
-    image: 6pancake.jpg
-    caption: Åland Pancake
+  - album: latvia
+    image: 1pano.jpg
+    caption: The view on Old Riga
+  - album: latvia
+    image: 2cerno.jpg
+    caption: House of the Blackheads (Riga)
+  - album: latvia
+    image: 3lib.jpg
+    caption: Freedom Monument (Riga)
+  - album: latvia
+    image: 4tower.jpg
+    caption: Dzintari Forest Park (Jurmala)
+  - album: latvia
+    image: 5forest.jpg
+    caption: Jurmala Open-Air Museum
+  - album: latvia
+    image: 6dish.jpg
+    caption: Latvian Gray Peas with Bacon and Onion
 ---
-Hej! I want to share an extract of my experience from visiting the beautiful Ålands. I was there just at Christmas. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I want to share an extract of my experience from visiting the magnificent Latvia. I was there in December 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things what I personally liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Riga, Jurmala, Tukums.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Riga
-    - Post office <i>(Post- och tullhus)</i>;
-    - Museum of fisheries and navigation <i>(Ålands jakt- och fiskemuseum)</i>.
+    - Old Riga <i>(Vecrīga)</i>;
+    - House of the Blackheads <i>(Melngalvju nams)</i>;
+    - Freedom monument <i>(Brīvības piemineklis)</i>;
+    - Riga castle <i>(Rīgas pils)</i>.
 2. Jurmala
-    - The sea quarter <i>(Sjökvarteret)</i>;
-    - Maritime museum and Pommern ship <i>(Ålands sjöfartsmuseum)</i>;
-    - Central park <i>(Esplanaden)</i>.
-
-
+    - Dzintari Forest Park <i>(Dzintaru Mežaparks)</i>;
+    - Open-air Museum <i>(Jūrmala Babītes pilskalns)</i>.
 
 <b>🎧 Local musicians: </b>
-- Åland Islands Anthem <i>(Ålänningens sång)</i>. Genre: folk 
-- Julia Clara (singer). Genre: pop
-- Henrik Klingenberg (keytarist). Genre: metal
+- Prāta Vētra (band). Genre: pop 
+- Antra Stafecka (singer). Genre: pop
+- Jumprava (band). Genre: retro-pop
+- Otra Puse (band). Genre: pop
+- Tumsa (band). Genre: rock
 
 
 <b>🫕 Local food & drinks: </b>
-- Åland pancake with cream and plum jam <i>(Åländsk pannkaka)</i>
-- "Buried whitefish" <i>(Gravad sik)</i>
-- Local beer <i>(Stallhagen)</i>
-- Local apple juice <i>(Grannas Äppel Åland)</i>
-
+- Latvian Gray Peas with bacon and onion <i>(Pelēkie zirņi)</i>
+- Riga Black balsam <i>(Rīgas Melnais balzams)</i>
+- Latvian black bread <i>(Rupjmaize)</i>
+- Riga smoked sprats
+- Latvian bread dessert <i>(Rupjmaizes kārtojums)</i>
+- Latvian porridge (Putra)
 
 
 <b>🎬 Local movies:</b>
-- Devil's Bride <i>(Tulen morsian)</i>. Year: 2016. Genre: Horror/Drama
+- The Shot <i>(Nošāva)</i>. Year: 2019. Genre: Short / Comedy.
 <br>
 
 {{< gallery album="aland" crop_options="150x150" >}}
