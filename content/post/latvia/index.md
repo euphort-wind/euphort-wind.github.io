@@ -59,7 +59,7 @@ Hej! I want to share an extract of my experience of visiting magnificent Latvia.
 - The Shot <i>(Nošāva)</i>. Year: 2019. Genre: Short / Comedy.
 <br>
 
-<b>🦉 Local wisdom</b>
+<b>🦉 Local wisdom:</b>
 - "Koks nekrīt uz pirmā cirtiena" / <i>"A tree does not fall on the first cut"</i> — Latvian Proverb)
 
 {{< gallery album="latvia" crop_options="150x150" >}}
