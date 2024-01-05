@@ -24,16 +24,19 @@ Hej! I want to share an extract of my experience from visiting the beautiful Ål
     - Maritime museum and Pommern ship <i>(Ålands sjöfartsmuseum)</i>
     - Central park <i>(Esplanaden)</i>
 <br>
+<br>
 <b>Local musicians: </b>
 - Åland Islands Anthem <i>(Ålänningens sång)</i>. Genre: folk 
 - Julia Clara (singer). Genre: pop
 - Henrik Klingenberg (keytarist). Genre: metal
+<br>
 <br>
 <b>Local food & drinks: </b>
 - Åland pancake with cream and plum jam <i>(Åländsk pannkaka)</i>
 - "Buried whitefish" <i>(Gravad sik)</i>
 - Local beer <i>(Stallhagen)</i>
 - Local apple juice <i>(Grannas Äppel Åland)</i>
+<br>
 <br>
 <b>Local cinema: </b>
 - Devil's Bride <i>(Tulen morsian)</i>. Year: 2016. Genre: Horror/Drama
