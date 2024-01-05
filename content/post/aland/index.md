@@ -14,8 +14,9 @@ gallery_item:
 Hej! I want to share an extract of my experience from visiting the beautiful Ålands. I was there just at Christmas. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things what I personally liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>Places visited:</b> Mariehamn, Eckerö.<br>
-<b>Top sights visited (personal recommendation): </b>
+<b>🗺 Places visited:</b> Mariehamn, Eckerö.<br>
+
+<b>🏛 Top sights visited (personal recommendation): </b>
 1. Eckerö
     - Post office <i>(Post- och tullhus)</i>;
     - Museum of fisheries and navigation <i>(Ålands jakt- och fiskemuseum)</i>.
@@ -26,13 +27,13 @@ Hej! I want to share an extract of my experience from visiting the beautiful Ål
 
 
 
-<b>Local musicians: </b>
+<b>🎧 Local musicians: </b>
 - Åland Islands Anthem <i>(Ålänningens sång)</i>. Genre: folk 
 - Julia Clara (singer). Genre: pop
 - Henrik Klingenberg (keytarist). Genre: metal
 
 
-<b>Local food & drinks: </b>
+<b>🫕 Local food & drinks: </b>
 - Åland pancake with cream and plum jam <i>(Åländsk pannkaka)</i>
 - "Buried whitefish" <i>(Gravad sik)</i>
 - Local beer <i>(Stallhagen)</i>
@@ -40,7 +41,7 @@ Hej! I want to share an extract of my experience from visiting the beautiful Ål
 
 
 
-<b>Local movies:</b>
+<b>🎬 Local movies:</b>
 - Devil's Bride <i>(Tulen morsian)</i>. Year: 2016. Genre: Horror/Drama
 <br>
 
