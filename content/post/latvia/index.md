@@ -59,6 +59,6 @@ Hej! I want to share an extract of my experience from visiting the magnificent L
 - The Shot <i>(Nošāva)</i>. Year: 2019. Genre: Short / Comedy.
 <br>
 
-{{< gallery album="aland" crop_options="150x150" >}}
+{{< gallery album="latvia" crop_options="150x150" >}}
    
 
