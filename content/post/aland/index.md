@@ -11,8 +11,11 @@ gallery_item:
     image: dan.jpg
     caption: Write your image 2 caption here 
 ---
-Text about Ålands
-
+<b>Places visited:</b> Mariehamn, Eckerö.<br>
+<b>Top sights: </b>
+- [x] Write math example
+  - [x] Write diagram example
+- [ ] Do something else
 {{< gallery album="demo" crop_options="150x150" >}}
    
 
