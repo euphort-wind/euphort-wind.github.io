@@ -68,6 +68,7 @@ Hej! I want to share an extract of my experience of visiting marvelous Denmark. 
 
 <b>🦉 Local wisdom:</b>
 - "Many small streams make a big river" / "<i>Mange bække små gør en stor å</i>" — Danish proverb
+
 {{< gallery album="denmark" crop_options="150x150" >}}
    
 
