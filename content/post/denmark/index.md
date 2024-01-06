@@ -1,6 +1,6 @@
 ---
 title: 🇩🇰 Denmark
-date: '2023-12-30'
+date: '2023-11-18'
 summary: Trip to Denmark
 
 gallery_item:
