@@ -21,45 +21,53 @@ gallery_item:
     caption: Central Sæby
   - album: denmark
     image: 6stegt.jpg
-    caption: Dannish Stegt Flæsk 
+    caption: Danish Stegt Flæsk 
 ---
-Hej! I want to share an extract of my experience of visiting the beautiful Ålands. I was there just at Christmas (2023). Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I want to share an extract of my experience of visiting marvelous Denmark. I was ther in the autumn of 2021, summer of 2023 and autumn of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things that I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Mariehamn, Eckerö.<br>
+<b>🗺 Places:</b> Copenhagen, Helsingør, Frederikshavn, Sæby. <br>
 
 <b>🏛 Top sights visited: </b>
-1. Eckerö
-    - Post office <i>(Post- och tullhus)</i>
-    - Museum of fisheries and navigation <i>(Ålands jakt- och fiskemuseum)</i>
-2. Mariehamn
-    - The sea quarter <i>(Sjökvarteret)</i>
-    - Maritime museum and Pommern ship <i>(Ålands sjöfartsmuseum)</i>
-    - Central park <i>(Esplanaden)</i>
-
+1. Copenhagen
+    - New harbour <i>(Nyhavn)</i>
+    - The Little Mermaid statue <i>(Den Lille Havfrue)</i>
+    - Amalienborg Castle <i>(Amalienborg slott)</i>
+    - Rosenborg Castle <i>(Rosenborg slot)</i>
+    - Christiansborg Castle <i>(Christiansborg slot)</i>
+    - The Round Tower <i>(Rundetaarn)</i>
+    - The Opera <i>(Operaen)</i>
+2. Helsingør
+    - Kronborg Castle <i>(Kronborg Slot)</i>
+    - Helsingør Centre <i>(Helsingør Centrum)</i>
+3. Sæby
+    - Old Sæby <i>(Gamle Sæby)</i>
 
 
 <b>🎧 Local musicians: </b>
-- Åland Islands Anthem <i>(Ålänningens sång)</i>. Genre: folk 
-- Julia Clara (singer). Genre: pop
-- Henrik Klingenberg (keytarist). Genre: metal
-
+- Kim Larsen (singer). Genre: retro-pop
+- Tobias Rahim (singer). Genre: reggaeton
+- Nephew (band). Genre: rock
+- Hanne Boel (singer). Genre: retro-pop
+- Rune RK / Kölsch (DJ). Genre: techno
+- Morten (DJ). Genre: future rave
 
 <b>🫕 Local food & drinks: </b>
-- Åland pancake with cream and plum jam <i>(Åländsk pannkaka)</i>
-- "Buried whitefish" <i>(Gravad sik)</i>
-- Local beer <i>(Stallhagen)</i>
-- Local apple juice <i>(Grannas Äppel Åland)</i>
-
-
+- Open-faced sandwich <i>(Smørrebrød)</i>
+- Danish fried pork <i>(Stegt flæsk)</i>
+- Local beer <i>(Carlsberg, Tuborg)</i>
+- Danish pastry <i>(Wienerbrød)</i>
 
 <b>🎬 Local movies:</b>
-- Devil's Bride <i>(Tulen morsian)</i>. Year: 2016. Genre: Horror/Drama
+- The Hunt <i>(Jagten)</i>. Year: 2012. Genre: Drama/Criminal
+- Another Round <i>(Druk)</i>. Year: 2020. Genre: Drama/Comedy
+- Riders of Justice <i>(Retfærdighedens Ryttere)</i>. Year: 2020. Genre: Action/Comedy
+- Dogville <i>(Dogville)</i>. Year: 2003. Genre: Crime/Thriller
+- The Keeper of Lost Causes <i>(Kvinden i buret)</i>. Year: 2013. Genre: Crime/Thriller
 <br>
 
 <b>🦉 Local wisdom:</b>
-- "Adventure is not something we need to look for. It's exciting enough to live" / "<i>Äventyr är inte något vi behöver leta efter. Det är ju tillräckligt spännande att leva</i>" — AnneAnka (<a href = "https://www.pernillalindroos.com/" target="_blank">Pernilla Lindroos</a>)
-
-{{< gallery album="aland" crop_options="150x150" >}}
+- "Many small streams make a big river" / "<i>Mange bække små gør en stor å</i>" — Danish proverb
+{{< gallery album="denmark" crop_options="150x150" >}}
    
 
