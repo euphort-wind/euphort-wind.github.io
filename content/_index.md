@@ -56,6 +56,7 @@ sections:
           date_end: '2021-12-01'
           description: |2-
               Responsibilities include:
+              * Product Management
               * SCRUM Project Management
               * Frontend Development
 
@@ -69,7 +70,6 @@ sections:
           description: |2-
               Responsibilities include:
               * ITSM365 Product Management
-              * ITSM & ITIL Processes
               * Business Analysis
               * Customer Support  
     design:
