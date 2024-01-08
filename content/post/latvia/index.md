@@ -46,7 +46,7 @@ Hej! I want to share an extract of my experience of visiting magnificent Latvia.
 - Tumsa (band). Genre: rock
 
 
-<b>🫕 Local food & drinks: </b>
+<b>🥘 Local food & drinks: </b>
 - Latvian Gray Peas with bacon and onion <i>(Pelēkie zirņi)</i>
 - Riga Black balsam <i>(Rīgas Melnais balzams)</i>
 - Latvian black bread <i>(Rupjmaize)</i>

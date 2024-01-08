@@ -58,7 +58,7 @@ Hej! I want to share an extract of my experience of visiting magical Norway. I w
 - Alan Walker (DJ). Genre: pop
 - Nico & Vinz (duo). Genre: pop
 
-<b>🫕 Local food & drinks: </b>
+<b>🥘 Local food & drinks: </b>
 - Norwegian Brown Cheese <i>(Brunost)</i>
 - Mutton and Cabbage <i>(Fårikål)</i>
 - Smoked and "buried"salmon <i>(Rökt och gravad Lax)</i>

@@ -52,7 +52,7 @@ Hej! I want to share an extract of my experience of visiting marvelous Denmark. 
 - Rune RK / Kölsch (DJ). Genre: techno
 - Morten (DJ). Genre: future rave
 
-<b>🫕 Local food & drinks: </b>
+<b>🥘 Local food & drinks: </b>
 - Open-faced sandwich <i>(Smørrebrød)</i>
 - Danish fried pork <i>(Stegt flæsk)</i>
 - Local beer <i>(Carlsberg, Tuborg)</i>

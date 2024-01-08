@@ -45,7 +45,7 @@ Hej! I want to share an extract of my experience of visiting the beautiful Ålan
 - Henrik Klingenberg (keytarist). Genre: metal
 
 
-<b>🫕 Local food & drinks: </b>
+<b>🥘 Local food & drinks: </b>
 - Åland pancake with cream and plum jam <i>(Åländsk pannkaka)</i>
 - "Buried whitefish" <i>(Gravad sik)</i>
 - Local beer <i>(Stallhagen)</i>
