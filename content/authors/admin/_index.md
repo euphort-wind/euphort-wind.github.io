@@ -37,12 +37,10 @@ education:
   courses:
     - course: PhD in Software Engineering
       institution: University of Gothenburg, 2023 - active
-    - course: PhD in Org. System Management
-      institution: Ural Federal University, 2022 - incomplete
     - course: MSc in Applied Computer Science
       institution: Ural Federal University, 2020 - 2022
     - course: MSc in Computer Science
-      institution: Mid Sweden University, 2021 (exchange)
+      institution: Mid Sweden University, 2021 (exchange studies)
     - course: BSc in Software Engineering
       institution: Ural Federal University, 2016 - 2020
     - course: BSc in International Business
