@@ -1,82 +1,65 @@
 ---
-title: 🇳🇴 Norway
-date: '2023-10-01'
-summary: Trip to Norway
+title: 🇷🇴 Romania
+date: '2023-08-01'
+summary: Trip to Romania
 
 gallery_item:
-  - album: norway
-    image: 1oslo.jpg
-    caption: Bispevika (Oslo)
-  - album: norway
-    image: 2vigi.jpg
-    caption: The Vigeland Park (Oslo)
-  - album: norway
-    image: 3bergen.jpg
-    caption: Bryggen (Bergen)
-  - album: norway
-    image: 4water.jpg
-    caption: Nærøyfjord
-  - album: norway
-    image: 5nar.jpg
-    caption: Flåm
-  - album: norway
-    image: 6far.jpg
-    caption: Norwegian Fårikål
+  - album: romania
+    image: 1buhbank.jpg
+    caption: National Bank of Romania (Banca Națională a României)
+  - album: romania
+    image: 2chirch.jpg
+    caption: Stavropoleos Monastery
+  - album: romania
+    image: 3casi.jpg
+    caption: Cazinoul Sinaia
+  - album: romania
+    image: 4castle.jpg
+    caption: Peleș Castle
+  - album: romania
+    image: 5drak.jpg
+    caption: Dracula Castle
+  - album: romania
+    image: 6torch.jpg
+    caption: Romanian Tochitură
 ---
-Hej! I want to share an extract of my experience of visiting magical Norway. I was there in November 2021 and September 2023. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I want to share an extract of my experience of visiting fabulous Romania. I was there in the summer of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things that I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Oslo, Bergen, Nærøyfjord, Fredrikstad.<br>
+<b>🗺 Places:</b> Bucharest, Sinaia, Bran. <br>
 
 <b>🏛 Top sights visited: </b>
-1. Oslo
-    - The Norwegian National Opera & Ballet <i>(Den Norske Opera & Ballett)</i>
-    - Vigeland Sculpture Park <i>(Vigelandsanlegget)</i>
-    - Akerhus Fortress  <i>(Akerhus festning)</i>
-    - Oslo Centrum <i>(Oslo Sentrum)</i>
-    - The Royal Palace <i>(Det kongelige slott)</i>
-2. Bergen
-    - Bryggen Hanseatic Wharf <i>(Bryggen)</i>
-    - Bergenhus Fortress <i>(Bergenhus Festning)</i>
-    - Bergen Fishmarket <i>(Bergen Fisketorget)</i>
-    - Bergen Cathedral <i>(Bergen domkirke)</i>
-3. Nærøyfjord
-    - Naroy fjord <i>(Nærøyfjord)</i>
-    - Flåm Railway <i>(Flåm jernbane)</i>
-    - Gudvangen Viking Village <i>(Gudvangen)</i>
-4. Fredrikstad
-    - Fredrikstad's Old Town <i>(Gamle Fredrikstad)</i>
-    - Kongsten Fort <i>(Kongsten)</i>
-    - Isegran Fort <i>(Isegran)</i>
+1. Bucharest
+    - The Parliament of Romania <i>(Parlamentul României)</i>
+    - Stavropoleos Monastery <i>(Mănăstirea Stavropoleos)</i>
+    - Bucharest Old Town <i>(Orasul Vechi Bucuresti)</i>
+    - The CEC Palace <i>(Palatul CEC)</i>
+2. Sinaia
+    - Pelesh Castle <i>(Peleș Castle)</i>
+    - Pelishor Castle <i>(Pelișor Castle)</i>
+    - Sinaia Monastery <i>(Mănăstirea Sinaia)</i>
+    - Sinaia Centre <i>(Centrul Sinaia)</i>
+3. Bran
+    - Bran Castle <i>(Castelul Bran)</i>
 
-   
+
 <b>🎧 Local musicians: </b>
-- Katastrofe (singer). Genre: pop
-- Ørjan Nilsen (DJ). Genre: trance
-- Kygo (DJ). Genre: tropical house
-- Røyksopp (duo). Genre: electronic
-- Alan Walker (DJ). Genre: pop
-- Nico & Vinz (duo). Genre: pop
+- Akcent (band). Genre: eurodance
+- Morandi (duo). Genre: eurodance
+- INNA (singer).  Genre: pop
+- Edward Maya (DJ). Genre: eurodance
 
 <b>🥘 Local food & drinks: </b>
-- Norwegian Brown Cheese <i>(Brunost)</i>
-- Mutton and Cabbage <i>(Fårikål)</i>
-- Smoked and "buried"salmon <i>(Rökt och gravad Lax)</i>
-- Sour Cream Porridge <i>(Rømmegrøt)</i>
+- Romanian stew <i>(Tochitură)</i>
+- Cabbage Rolls <i>(Sarmale)</i>
+- Romanian Soups <i>(Ciorba)</i>
+- Romanian polenta <i>(Mămăligă)</i>
 
 <b>🎬 Local movies:</b>
-- Headhunters <i>(Hodejegerne)</i>. Year: 2011. Genre: Action/Thriller.
-- Kon-Tiki <i>(Kon-Tiki)</i>. Year: 2012. Genre: Adventure/Action.
-- The Bothersome Man <i>(Den brysomme mannen)</i>. Year: 2006. Genre: Fantasy.
-- The Tunnel <i>(Tunnelen)</i>. Year: 2019. Genre: Action.
-- The Worst Person in the World <i>(Verdens verste menneske)</i>. Year: 2021. Genre: Romance/Comedy.
-- Thelma <i>(Thelma)</i>. Year: 2017. Genre: Fantasy/Horror.
-- Beforeigners <i>(Førignere)</i>. Year: 2019. Genre: Fantasy (series).
-<br>
+- The Death of Mr. Lazarescu <i>(Moartea domnului Lăzărescu)</i>. Year: 2005. Genre: Drama / Tragedy
 
 <b>🦉 Local wisdom:</b>
-- "The grass is green enough on our side of the fence if we just remember to water it" / <i>"Gresset er grønt nok på vår side av gjerdet når vi bare husker å vanne det"</i> — Norwegian Proverb
+- "The good man values goodness, as the bee values the flower." / "<i> Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea.</i>" — Romanian proverb
 
-{{< gallery album="norway" crop_options="150x150" >}}
+{{< gallery album="romania" crop_options="150x150" >}}
    
-
