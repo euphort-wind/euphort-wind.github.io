@@ -43,7 +43,7 @@ sections:
           date_end: '2023-06-30'
           description: |2-
               Responsibilities include:
-              * PhD Research in Organizational System Management
+              * PhD Research: Organizational System Management
               * Teaching: "Business Analysis Tools" & "Internet Marketing" courses
               * Departamental Duties
 
