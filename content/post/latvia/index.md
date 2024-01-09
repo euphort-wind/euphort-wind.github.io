@@ -60,7 +60,7 @@ Hej! I want to share an extract of my experience of visiting magnificent Latvia.
 <br>
 
 <b>🦉 Local wisdom:</b>
-- "A tree does not fall after the first cut" / <i>"Koks nekrīt uz pirmā cirtiena"</i> — Latvian Proverb
+- "A tree does not fall after the first cut" / <i>"Koks nekrīt uz pirmā cirtiena"</i> — Latvian proverb
 
 {{< gallery album="latvia" crop_options="150x150" >}}
    

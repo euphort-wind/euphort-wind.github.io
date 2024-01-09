@@ -75,7 +75,7 @@ Hej! I want to share an extract of my experience of visiting magical Norway. I w
 <br>
 
 <b>🦉 Local wisdom:</b>
-- "The grass is green enough on our side of the fence if we just remember to water it" / <i>"Gresset er grønt nok på vår side av gjerdet når vi bare husker å vanne det"</i> — Norwegian Proverb
+- "The grass is green enough on our side of the fence if we just remember to water it" / <i>"Gresset er grønt nok på vår side av gjerdet når vi bare husker å vanne det"</i> — Norwegian proverb
 
 {{< gallery album="norway" crop_options="150x150" >}}
    
