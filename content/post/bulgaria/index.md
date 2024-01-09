@@ -21,7 +21,7 @@ gallery_item:
     caption: Sveti Anastas (Byala)
   - album: bulgaria
     image: 6kebapche.jpg
-    caption: Cold Soup (Tarator)
+    caption: Bulgarian kebapche
 ---
 Hej! I want to share an extract of my experience of visiting spectacular Bulgaria. I was there in summer 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things that I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
