@@ -143,6 +143,8 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
 28. Norrtälje 
     - Tullports street <i>(Tullportsgatan)</i>
     - South mountain <i>(Södra bergen)</i>
+
+
 <b>🎧 Local musicians: </b>
 - ABBA (band). Genre: retro-rock
 - Roxette (band). Genre: retro-rock
