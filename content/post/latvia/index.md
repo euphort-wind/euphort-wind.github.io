@@ -37,6 +37,11 @@ Hej! I want to share an extract of my experience of visiting magnificent Latvia.
 2. Jurmala
     - Dzintari Forest Park <i>(Dzintaru Mežaparks)</i>
     - Open-air Museum <i>(Jūrmala Brīvdabas Muzejs)</i>
+3. Tukums
+    - Tukuma evangelical lutheran church <i>(Tukuma evaņģēliski luteriskā baznīca)</i>
+    - Freedom square <i>(Brīvības laukums)</i>
+    - Harmony street <i>(Harmonijas iela)</i>
+
 
 <b>🎧 Local musicians: </b>
 - Prāta Vētra (band). Genre: pop 

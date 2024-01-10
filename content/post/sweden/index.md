@@ -26,7 +26,7 @@ gallery_item:
 Hej! I want to share an extract of my life in charming Sweden. I was there in the autumn/winter of 2021 and live there since spring 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things that I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Hönö, Öckerö, Trollhättan, Marstrand, Brännö, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Hönö, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -45,6 +45,7 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
     - Slottsskogen <i>(Slottsskogen Park)</i>
     - Trädgårdsföreningen <i>(The Garden Society)</i>
     - Gothenburg botanical garden <i>(Botaniska)</i>
+    - Brännö island <i>(Brännö)</i>
 3. Mölndal
     - Gunnebo palace <i>(Gunnebo Slott Och Trädgårdar)</i>
     - Town museum <i>(Mölndals stadsmuseum)</i>
@@ -57,79 +58,91 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
     - Södra Berget open-air center <i>(Friluftscentrum Södra Berget)</i>
     - Main square <i>(Stora Torget)</i>
     - Gustav Adolfs church <i>(Gustav Adolfs kyrka)</i>
-5. Örnsköldsvik
+5. Timrå
+    - Merlo castle <i>(Merlo slott)</i>
+6. Örnsköldsvik
     - Örn park <i>(Örnparken)</i>
     - Örnsköldsvik museum <i>(Örnsköldsviks museum)</i>
     - Main street <i>(Storgatan)</i>
-6. Härnösand
+7. Härnösand
     - Car museum Härnösand <i>(Härnösand bilmuseum)</i>
     - Murberget county museum <i>(Västernorrlands museum)</i>
-7. Umeå
+8. Umeå
     - City hall square <i>(Umeå rådhustorget)</i>
     - Varvsparken <i>(Varvsparken)</i>
-8. Östersund
+9. Östersund
     - Jamtli <i>(Jamtli)</i>
     - Gustavsberg mountain <i>(Gustavsberg)</i>
     - City hall <i>(Rådhus)</i>
     - Mid Sweden University <i>(Mittuniversitetet)</i>
-9. Malmö
+10. Malmö
     - Malmö castle <i>(Malmöhus slott)</i>
     - Castle park <i>(Slottsparken)</i>
     - Gustav Adolfs square <i>(Gustav Adolfs torg)</i>
     - Old Malmö <i>(Gamla staden)</i>
-10. Kungälv
+11. Kungälv
     - Västra street <i>(Västra gatan)</i>
     - Bohus fortress <i>(Bohus fästning)</i>
-11. Kungsbacka
+12. Kungsbacka
     - The Tree of life <i>(The Tree of life)</i>
     - Kungsbackaskogen <i>(Kungsbacka forest)</i>
-12. Varberg 
+13. Varberg 
     - Varberg fortress <i>(Varberg fästning)</i>
     - Cold bathes <i>(Kallbadhuset)</i>
-13. Helsingborg
+14. Mölnlycke
+    - Wendelsbergs high school <i>(Wendelsbergs folkhögskola)</i>
+15. Helsingborg
     - City hall <i>(Rådhus)</i>
     - Kernel fortress <i>(Kärnan)</i>
     - Slottshagen <i>(Slottshagen)</i>
     - Fredriksdal museum and gardens <i>(Fredriksdal Museer och trädgårdar)</i>
-14. Jönköping
+16. Partille 
+    - Partille church <i>(Partille kyrkan)</i>
+    - Jonsered factories <i>(Jonsered fabriker)</i>
+17. Jönköping
     - City hall park <i>(Rådhusparken)</i>
     - City park <i>(Stadsparken)</i>  
     - Sofia church <i>(Sofiakyrkan)</i> 
-15. Linköping
+18. Linköping
     - Main square <i>(Stora torget)</i>
     - Trädgårdsföreningen <i>(The Garden Society)</i> 
     - Linköping Cathedral <i>(Linköping Domkyrka)</i>
-16. Alingsås
+19. Lerum
+    - Lerum church <i>(Lerums kyrka)</i>
+20. Alingsås
     - Nolhaga park <i>(Nolhaga lantgård)</i>
     - Alingsås centre <i>(Alingsås centre)</i>
-17. Hönö & Öckerö
+21. Hönö & Öckerö
     - Hönö Klåva <i>(Hönö Klåva)</i>
     - Hönö homestead <i>(Hönö hembygdsförening)</i>
     - Öckerö harbour <i>(Öckerö hamn)</i>
     - Öckerö church <i>(Öckerö kyrka)</i>
-18. Trollhättan
+22. Trollhättan
     - Trollhättan waterfall <i>(Trollhättefallen)</i>
     - Kings' cave <i>(Kungsgrottan)</i>
     - SAAB car museum <i>(SAAB bilmuseum)</i>
-19. Marstrand 
+23. Marstrand 
     - Marstrand centre <i>(Marstrand centre)</i>
     - Carlstens fortress <i>(Carlstens fästning)</i>
-20. Skärhamn
+24. Skärhamn
     - Skärhamn centre <i>(Skärhamn centre)</i>
     - Nordic watercolor museum <i>(Nordiska Akvarellmuseet)</i>
     - Skärhamn church <i>(Skärhamn kyrkan)</i>
-21. Uppsala
+25. Sollentuna
+    - Edsberg castle <i>(Edsberg slott)</i>
+    - Stallbacken museum <i>(Stallbacken)</i>
+26. Uppsala
     - Uppsala Cathedral & Treasury <i>(Uppsala Domkyrka)</i>
     - Uppsala Castle <i>(Uppsala Slott)</i>
     - Uppsala University <i>(Uppsala Universitet)</i>
-22. Sigtuna
+27. Sigtuna
     - Main street <i>(Stora gatan)</i>    
     - St. Pers church <i>(St. Pers kyrkoruin)</i>    
     - St. Olofs church <i>(St. Olofs kyrkoruin)</i>  
     - Sigtuna runestones <i>(Sigtuna runstenar)</i>
-23. Norrtälje 
+28. Norrtälje 
     - Tullports street <i>(Tullportsgatan)</i>
-
+    - South mountain <i>(Södra bergen)</i>
 <b>🎧 Local musicians: </b>
 - ABBA (band). Genre: retro-rock
 - Roxette (band). Genre: retro-rock

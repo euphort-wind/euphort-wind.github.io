@@ -40,9 +40,11 @@ Hej! I want to share an extract of my experience of visiting marvelous Denmark. 
 2. Helsingør
     - Kronborg Castle <i>(Kronborg Slot)</i>
     - Helsingør Centre <i>(Helsingør Centrum)</i>
-3. Sæby
+3. Frederikshavn
+    - Gunpowder tower <i>(Krudttårnet)</i> 
+    - Frederikshavn square <i>(Frederikshavn torv)</i> 
+4. Sæby
     - Old Sæby <i>(Gamle Sæby)</i>
-
 
 <b>🎧 Local musicians: </b>
 - Kim Larsen (singer). Genre: retro-pop

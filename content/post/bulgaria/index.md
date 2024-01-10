@@ -36,26 +36,24 @@ Hej! I want to share an extract of my experience of visiting spectacular Bulgari
     - The Rotunda Church of St George <i>(Ротонда "Свети Георги")</i>
     - Amphitheatre of Serdica <i>(Амфитеатър на Сердика)</i>
     - National Palace of Culture <i>(Национален дворец на културата)</i>
-
 2. Nessebar
     - Old Nessebar <i>(Стар Несебър)</i>
     - Sunny Beach <i>(Слънчев бряг)</i>
-
 3. Burgas
     - Sea Garden <i>(Морска градина)</i>
-  
 4. Varna
     - Cathedral of the Assumption of the Virgin <i>(Катедралата Успение Богородично)</i>
     - Sea Garden <i>(Морска градина)</i>
     - The Roman Thermae <i>(Римски терми)</i>
-
-5. Pomorie
+5. Sveti Vlas
+    - Church "Saint Vlasiy" <i>(Свети Влас)</i>
+    - Marina Dinevi Port <i>(Марина Диневи)</i>
+6. Pomorie
     - Monastery of St. George <i>(Манастир Свети Георги)</i>
     - Old Houses of Pomorie architectural reserve <i>(Старо Поморие)</i>
     - The Salt Museum <i>(Музей на солта)</i>
     - Free Mud Bahtes <i>(Безплатни кални бахти)</i>
-
-6. Byala
+7. Byala
     - Cape St. Athanasius ancient settlement <i>(Свети Анастас)</i>
     - White Cliffs <i>(Бели скали)</i>
    
