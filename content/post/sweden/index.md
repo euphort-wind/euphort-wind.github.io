@@ -161,6 +161,7 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
 - Chocolate cake <i>(Kladdkaka)</i>
 - Christmas fuzzy drink <i>(Julmust)</i>
 - Jansson's temptation <i>(Janssons frestelse)</i>
+- Västerbotten cheese <i>(Västerbottensost)</i> 
 
 <b>🎬 Local movies:</b>
 - A Man Called Ove <i>(En man som heter Ove)</i>. Year: 2015. Genre: Drama/Comedy
