@@ -91,8 +91,6 @@ Hej! I want to share an extract of my experience of visiting magnificent Türkiy
 <b>🎬 Local movies:</b>
 - Miracle in Cell No. 7 <i>(7. Koğuştaki Mucize)</i>. Year: 2019. Genre: Drama.
 
-<br>
-
 <b>🦉 Local wisdom:</b>
 - "A wise man does not say what he knows; The stupid man does not know what he is saying" / <i>"Akıllı adam bildiğini söylemez; salak adam söylediğini bilmez"</i> — Turkish proverb
 
