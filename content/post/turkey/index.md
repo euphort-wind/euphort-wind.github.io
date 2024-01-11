@@ -11,11 +11,11 @@ gallery_item:
     image: 2cisterna.jpg
     caption: Basilica Cistern (Istanbul)
   - album: turkey
-    image: 3pamukkale.jpg
-    caption: Hierapolis ancient theater
+    image: 3gate.jpg
+    caption: Galata Tower (Istanbul)
   - album: turkey
-    image: 4gate.jpg
-    caption: Hadrian's Gate (Antalya)
+    image: 4pamukkale.jpg
+    caption: Hierapolis ancient theater
   - album: turkey
     image: 5antalya.jpg
     caption: Antalya
@@ -26,7 +26,7 @@ gallery_item:
 Hej! I want to share an extract of my experience of visiting magnificent Türkiye. I was there in 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2019 and 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things that I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> İstanbul, Side, Belek, Kemer, Demre, Marmaris, Pamukkale, Antalya.<br>
+<b>🗺 Places:</b> İstanbul, Side, Belek, Kemer, Demre, Marmaris, Selçuk, Pamukkale, Antalya.<br>
 
 <b>🏛 Top sights visited: </b>
 1. İstanbul
@@ -54,19 +54,21 @@ Hej! I want to share an extract of my experience of visiting magnificent Türkiy
     - Marmaris Mountains <i>(Marmaris Dağları)</i>
     - Dalyan Mud Bath <i>(Dalyan Çamur Banyosu)</i>
     - Carian rock tombs <i>(Karya kaya mezarları)</i>
-4. Pamukkale
+4. Selçuk
+    - Ephesus Ancient City <i>(Efes)</i>    
+5. Pamukkale
     - Travertines of Pamukkale <i>(Pamukkale travertenleri)</i>
     - Hierapolis Ancient City <i>(Hierapolis)</i>
-5. Demre
+6. Demre
     - Myra Ancient City <i>(Myra)</i>
     - Kekova Island <i>(Kekova Adası)</i>
-6. Kemer
+7. Kemer
     - Çamyuva beaches <i>(Çamyuva)</i>
     - Beldibi beaches <i>(Beldibi)</i>
     - Kiriş beaches <i>(Kiriş)</i>
-7. Belek 
+8. Belek 
     - Belek beaches <i>(Belek)</i>
-8. Side
+9. Side
     - Side beaches <i>(Side)</i>  
 
  
@@ -77,7 +79,6 @@ Hej! I want to share an extract of my experience of visiting magnificent Türkiy
 - Ummet Ozcan (DJ). Genre: progressive house
 - Serhat Durmus (DJ). Genre: house
 - Zerrin Temiz (singer). Genre: pop
-
 
 <b>🥘 Local food & drinks: </b>
 - Döner Kebab <i>(Döner Kebab)</i>
