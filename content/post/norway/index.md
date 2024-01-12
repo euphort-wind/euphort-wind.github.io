@@ -23,8 +23,8 @@ gallery_item:
     image: 6far.jpg
     caption: Norwegian Fårikål
 ---
-Hej! I want to share an extract of my experience of visiting magical Norway. I was there in November 2021 and September 2023. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things that I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I want to share an extract of my experience of visiting magical Norway. I was there in the autumn of 2021 and autumn of 2023. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Oslo, Bergen, Nærøyfjord, Fredrikstad.<br>
 

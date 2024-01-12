@@ -24,7 +24,7 @@ gallery_item:
     caption: Åland Pancake
 ---
 Hej! I want to share an extract of my experience of visiting the beautiful Ålands. I was there just at Christmas (2023). Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things that I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Mariehamn, Eckerö.<br>
 
