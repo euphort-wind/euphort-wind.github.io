@@ -4,23 +4,23 @@ date: '2022-09-01'
 summary: Trip to Kyrgyzstan
 
 gallery_item:
-  - album: kirgizia
-    image: 1bishkek.jpeg
+  - album: kg
+    image: 1bishkek.jpg
     caption: Ala-Too Square (Bishkek)
-  - album: kirgizia
-    image: 2bishkek.jpeg
+  - album: kg
+    image: 2bishkek.jpg
     caption: Bishkek monument
-  - album: kirgizia
-    image: 3mosque.jpeg
+  - album: kg
+    image: 3mosque.jpg
     caption: Dungan Mosque (Karakol)
-  - album: kirgizia
-    image: 4bars.jpeg
+  - album: kg
+    image: 4bars.jpg
     caption: Barskoon
-  - album: kirgizia
-    image: 5skazka.jpeg
+  - album: kg
+    image: 5skazka.jpg
     caption: Skazka Canyon
-  - album: kirgizia
-    image: 6ashlyan.jpeg
+  - album: kg
+    image: 6ashlyan.jpg
     caption: Kyrgyz Ash-lyanfu
 ---
 Hej! I want to share an extract of my experience of visiting majestic Kyrgyzstan. I was there in the summer of 2022. Below are some notes on what I tasted, saw and listened to.<br>
@@ -74,6 +74,6 @@ Hej! I want to share an extract of my experience of visiting majestic Kyrgyzstan
 <b>🦉 Local wisdom:</b>
 - "The wolf cannot get enough of sheep, the ear cannot get enough of words, the mind cannot get enough of thoughts, the eye cannot get enough of seeing, the bird cannot get enough of flying." / <i>"Бөрү — койго тойбойт, кулак — сөзгө тойбойт, көңүл — ойго тойбойт, көз — көргөнгө тойбойт, куш — учканга тойбойт."</i> — Kyrgyz proverb
 
-{{< gallery album="kirgizia" crop_options="150x150" >}}
+{{< gallery album="kg" crop_options="150x150" >}}
    
 
