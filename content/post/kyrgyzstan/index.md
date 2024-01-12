@@ -5,23 +5,23 @@ summary: Trip to Kyrgyzstan
 
 gallery_item:
   - album: kirgizia
-    image: 1mus.jpg
+    image: 1bishkek.jpeg
     caption: Ala-Too Square (Bishkek)
   - album: kirgizia
-    image: 2baiterek.jpg
+    image: 2bishkek.jpeg
     caption: Bishkek monument
   - album: kirgizia
-    image: 3mosque.jpg
+    image: 3mosque.jpeg
     caption: Dungan Mosque (Karakol)
   - album: kirgizia
-    image: 4bars.jpg
+    image: 4bars.jpeg
     caption: Barskoon
   - album: kirgizia
-    image: 5skazka.jpg
+    image: 5skazka.jpeg
     caption: Skazka Canyon
   - album: kirgizia
-    image: 6ashlyan.jpg
-    caption: Kyrgyz Ash-lyanfu soup
+    image: 6ashlyan.jpeg
+    caption: Kyrgyz Ash-lyanfu
 ---
 Hej! I want to share an extract of my experience of visiting majestic Kyrgyzstan. I was there in the summer of 2022. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
@@ -67,7 +67,8 @@ Hej! I want to share an extract of my experience of visiting majestic Kyrgyzstan
 - Aralash drink <i>(Аралаш)</i>
 
 <b>🎬 Local movies:</b>
--  Seide <i>(Сейде)</i>. Year: 2015. Genre: Short / Drama.
+-  Farewell <i>(Шамчырак)</i>. Year: 2012. Genre: Short / Drama.
+-  51+ <i>(51+)</i>. Year: 2020. Genre: Short / Drama.
 <br>
 
 <b>🦉 Local wisdom:</b>
