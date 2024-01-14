@@ -26,7 +26,7 @@ gallery_item:
 Hej! I want to share an extract of my experience of visiting magical Norway. I was there in the autumn of 2021 and autumn of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Oslo, Bergen, Nærøyfjord, Fredrikstad.<br>
+<b>🗺 Places:</b> Oslo, Bergen, Nærøyfjord, Fredrikstad, Moss, Horten.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Oslo
@@ -48,6 +48,15 @@ Hej! I want to share an extract of my experience of visiting magical Norway. I w
     - Fredrikstad's Old Town <i>(Gamle Fredrikstad)</i>
     - Kongsten Fort <i>(Kongsten)</i>
     - Isegran Fort <i>(Isegran)</i>
+5. Moss 
+    - Industrial District <i>(Møllebyen)</i>
+    - Jeloya Island <i>(Jeløy)</i>
+    - Refsnes Gods <i>(Refsnes Gods)</i>
+6. Horten
+    - Karljohansvern <i>(Karljohansvern)</i>
+    - KNM Utstein <i>(KNM Utstein)</i>
+    - Midgard <i>(Vikingsenter)</i>
+
 
    
 <b>🎧 Local musicians: </b>
@@ -63,6 +72,7 @@ Hej! I want to share an extract of my experience of visiting magical Norway. I w
 - Mutton and Cabbage <i>(Fårikål)</i>
 - Smoked and "buried"salmon <i>(Rökt och gravad Lax)</i>
 - Sour Cream Porridge <i>(Rømmegrøt)</i>
+- Norwegian Meatcakes with pea puree<i>(Kjøttkaker med ertepuré)</i>
 
 <b>🎬 Local movies:</b>
 - Headhunters <i>(Hodejegerne)</i>. Year: 2011. Genre: Action/Thriller.
