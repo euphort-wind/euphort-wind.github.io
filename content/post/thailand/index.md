@@ -54,7 +54,7 @@ Hej! I want to share an extract of my experience of visiting bright Thailand. I 
 <br>
 
 <b>🦉 Local wisdom:</b>
-- "Keep you fire inside and don't take from someone else" / <i>"ไฟในอย่านำออก ไฟนอกอย่านำเข้า"</i> — Thai proverb
+- "Keep your fire inside and don't take it from someone else" / <i>"ไฟในอย่านำออก ไฟนอกอย่านำเข้า"</i> — Thai proverb
 
 {{< gallery album="thailand" crop_options="150x150" >}}
    
