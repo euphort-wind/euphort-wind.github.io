@@ -33,6 +33,7 @@ Hej! I want to share an extract of my experience of visiting bright Thailand. I 
     - Bangla Road <i>(ถนนบางลา)</i>
     - Patong Beaches <i>(หาดป่าตอง)</i>
     - Patong Promenade <i>(ป่าตองพรอมนาด)</i>
+    - Thai massage salons <i>(ร้านนวดแผนไทย)</i>
 2. Phuket
     - Flying Hanuman Zipline <i>(ซิปไลน์)</i>
     - Elephant Care <i>(การดูแลช้าง)</i>

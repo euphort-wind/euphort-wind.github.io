@@ -72,7 +72,7 @@ Hej! I want to share an extract of my experience of visiting astonishing Kazakhs
 <br>
 
 <b>🦉 Local wisdom:</b>
-- "A journey of a thousand days began in one step" / <i>"Myñ kündık sapar bır qadamnan bastalady"</i> — Kazakh proverb
+- "A united hundred is stronger than a divided thousand." / <i>"Біріккен жүз, бытыраңқы мыңды алады."</i> — Kazakh proverb
 
 {{< gallery album="kazakhstan" crop_options="150x150" >}}
    
