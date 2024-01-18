@@ -62,7 +62,7 @@ Hej! I want to share an extract of my experience of visiting stately Finland. I 
 - Lent buns <i>(Laskiaispulla)</i>
 
 <b>🎬 Local movies:</b>
-- Heavy Trip <i>(Hevi reissu)</i>. Year: 2018. Genre: Comedy.
+- Heavy Trip <i>(Hevi reissu)</i>. Year: 2018. Genre: Comedy
 <br>
 
 <b>🦉 Local wisdom:</b>
