@@ -19,6 +19,9 @@ gallery_item:
   - album: spain
     image: 5mons.jpg
     caption: Santa Maria de Montserrat Abbey
+  - album: spain
+    image: 6paella.jpg
+    caption: Spanish Paella
 ---
 Hej! I want to share an extract of my experience of visiting resplendent Spain. I was there in the summer of 2013. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
@@ -51,6 +54,7 @@ Hej! I want to share an extract of my experience of visiting resplendent Spain. 
 - Jamon <i>(Jamon)</i>
 - Churro <i>(Churro)</i>
 - Tapas <i>(Tapas)</i>
+- Chorizo <i>(Chorizo)</i>
 
 <b>🎬 Local movies:</b>
 -  The Invisible Guest <i>(Contratiempo)</i>. Year: 2016. Genre: Thriller/Crime

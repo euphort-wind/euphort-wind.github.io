@@ -21,7 +21,7 @@ gallery_item:
     caption: Troodos Mountains
   - album: cyprus
     image: 6cheese.jpg
-    caption: Cypriot Grilled Halloumi 
+    caption: Cyprus Grilled Halloumi 
 ---
 Hej! I want to share an extract of my experience of visiting impressive Cyprus. I was there in the summer of 2016. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
