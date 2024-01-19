@@ -53,13 +53,14 @@ Hej! I want to share an extract of my experience of visiting resplendent Spain. 
 - Tapas <i>(Tapas)</i>
 
 <b>🎬 Local movies:</b>
--  The Invisible Guest <i>(Contratiempo)</i>. Year: 2016. Genre: Thriller/Crime.
--  The Invisible Guest <i>(Contratiempo)</i>. Year: 2016. Genre: Thriller/Crime.
+-  The Invisible Guest <i>(Contratiempo)</i>. Year: 2016. Genre: Thriller/Crime
+-  The Body <i>(El cuerpo)</i>. Year: 2012. Genre: Thriller/Crime
+-  Klaus <i>(Klaus)</i>. Year: 2019. Genre: Adventure/Comedy 
 <br>
 
 <b>🦉 Local wisdom:</b>
-- "Some live by the effort and others live by the way" / <i>"Άλλοι ζιούσιν με τον κόπον κι άλλοι ζιούσιν με τον τρόπον"</i> — Cypriot proverb
+- "Distance is to love what the wind is to a fire: it extinguishes the small things, but fuels the large ones." / <i>"La distancia es al amor lo que el viento al fuego: apaga el pequeño, pero aviva el grande."</i> — "Mar de fuego", Chufo Lloréns
 
-{{< gallery album="cyprus" crop_options="150x150" >}}
+{{< gallery album="spain" crop_options="150x150" >}}
    
 
