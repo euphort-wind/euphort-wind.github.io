@@ -26,7 +26,7 @@ gallery_item:
 Hej! I want to share an extract of my experience of visiting graceful Greece. I was there just in the summer of 2012 and in the summer of 2015. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Rhodes, Agios Nikolaos, Heraklion, Oia.<br>
+<b>🗺 Places:</b> Rhodes, Agios Nikolaos, Heraklion, Gournes,  Oia.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Rhodes
@@ -47,7 +47,9 @@ Hej! I want to share an extract of my experience of visiting graceful Greece. I 
     - The Castle of St Nicholas <i>(Το Κάστρο του Αγίου Νικολάου)</i>
     - Church of Panagia <i>(Εκκλησία της Παναγίας)</i>
     - Nikolaou Nomikou <i>(Νικολάου Νομικού)</i>
-    - Oia streets <i>(οδούς Οίας)</i>  
+    - Oia streets <i>(οδούς Οίας)</i> 
+5. Gournes
+    - Cretaquarium <i>(Θαλασσόκοσμος)</i> 
 
 <b>🎧 Local musicians: </b>
 - Antique (band). Genre: pop
