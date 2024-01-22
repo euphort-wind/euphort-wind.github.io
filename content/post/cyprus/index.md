@@ -55,7 +55,7 @@ Hej! I want to share an extract of my experience of visiting impressive Cyprus. 
 - Zivania <i>(Ζιβανία)</i>
 
 <b>🎬 Local movies:</b>
--  Leonidas and the Fish <i>(Ο Λεωνίδας και το Ψάρι)</i>. Year: 2021. Genre: Short.
+-  Leonidas and the Fish <i>(Ο Λεωνίδας και το Ψάρι)</i>. Year: 2021. Genre: Short
 <br>
 
 <b>🦉 Local wisdom:</b>

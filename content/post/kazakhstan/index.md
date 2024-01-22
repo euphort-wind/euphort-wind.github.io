@@ -68,7 +68,7 @@ Hej! I want to share an extract of my experience of visiting astonishing Kazakhs
 - Kazakh soup <i>(Sorpa)</i>
 
 <b>🎬 Local movies:</b>
-- The Old Man <i>(Şal)</i>. Year: 2012. Genre: Drama.
+- The Old Man <i>(Şal)</i>. Year: 2012. Genre: Drama
 <br>
 
 <b>🦉 Local wisdom:</b>

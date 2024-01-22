@@ -51,7 +51,7 @@ Hej! I want to share an extract of my experience of visiting bright Thailand. I 
 - Thai Seafood Barbeque on sticks <i>(บาร์บีคิวทะเล)</i>
 
 <b>🎬 Local movies:</b>
--  Thirteen Lives <i>(สิบสามชีวิต)</i>. Year: 2022. Genre: Action / Drama.
+-  Thirteen Lives <i>(สิบสามชีวิต)</i>. Year: 2022. Genre: Action / Drama
 <br>
 
 <b>🦉 Local wisdom:</b>

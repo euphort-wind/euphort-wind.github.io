@@ -61,7 +61,7 @@ Hej! I want to share an extract of my experience of visiting magnificent Latvia.
 
 
 <b>🎬 Local movies:</b>
-- The Shot <i>(Nošāva)</i>. Year: 2019. Genre: Short / Comedy.
+- The Shot <i>(Nošāva)</i>. Year: 2019. Genre: Short / Comedy
 <br>
 
 <b>🦉 Local wisdom:</b>

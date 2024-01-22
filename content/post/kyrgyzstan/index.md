@@ -67,8 +67,8 @@ Hej! I want to share an extract of my experience of visiting majestic Kyrgyzstan
 - Aralash drink <i>(Аралаш)</i>
 
 <b>🎬 Local movies:</b>
--  Farewell <i>(Шамчырак)</i>. Year: 2012. Genre: Short / Drama.
--  51+ <i>(51+)</i>. Year: 2020. Genre: Short / Drama.
+-  Farewell <i>(Шамчырак)</i>. Year: 2012. Genre: Short / Drama
+-  51+ <i>(51+)</i>. Year: 2020. Genre: Short / Drama
 <br>
 
 <b>🦉 Local wisdom:</b>
