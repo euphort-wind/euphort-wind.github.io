@@ -19,9 +19,7 @@ gallery_item:
   - album: india
     image: 5temple.jpg
     caption: Ibrahim Roza (Bijapur)
-  - album: india
-    image: 6butter.jpg
-    caption: Indian Butter Chicken
+
 ---
 Hej! I want to share an extract of my experience of visiting contrasting and spectacular India. I was there in the spring of 2014. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
