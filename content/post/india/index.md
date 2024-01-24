@@ -18,13 +18,13 @@ gallery_item:
     caption: Dudhsagar Falls
   - album: india
     image: 5temple.jpg
-    caption: Ibrahim Roza (Bijapur)
+    caption: Ibrahim Roza (Vijayapura)
 
 ---
 Hej! I want to share an extract of my experience of visiting contrasting and spectacular India. I was there in the spring of 2014. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Candolim, Bijapur, Badami.<br>
+<b>🗺 Places:</b> Candolim, Vijayapura, Badami.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Candolim
