@@ -48,6 +48,7 @@ Hej! I want to share an extract of my experience of visiting fabulous Romania. I
 - Morandi (duo). Genre: eurodance
 - INNA (singer).  Genre: pop
 - Edward Maya (DJ). Genre: eurodance
+- Mario Fresh (singer). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
 - Romanian stew <i>(Tochitură)</i>
