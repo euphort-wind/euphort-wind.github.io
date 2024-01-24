@@ -62,7 +62,8 @@ Hej! I want to share an extract of my experience of visiting contrasting and spe
 <br>
 
 <b>🦉 Local wisdom:</b>
-- "It is health which is our true wealth, the value of gold and silver is nothing in comparison to it." / "<i>Нयह स्वास्थय ही है जो हमारा सही धन है, सोने और चांदी का मूल्य इसके सामने कुछ नहीं।<i>" — Mahatma Gandhi (Indian independence activist)
+- "It is health which is our true wealth, the value of gold and silver is nothing in comparison to it." / "<i>यह स्वास्थय ही है जो हमारा सही धन है, सोने और चांदी का मूल्य इसके सामने कुछ नहीं।
+</i>" — Mahatma Gandhi (Indian independence activist)
 
 {{< gallery album="india" crop_options="150x150" >}}
    
