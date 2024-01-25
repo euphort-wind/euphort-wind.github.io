@@ -11,7 +11,7 @@ gallery_item:
     image: 2temple.jpg
     caption: Pattadakal Temple
   - album: india
-    image: 3bijapur.jpg
+    image: 3dance.jpg
     caption: Dancing Shiva as Nataraja (Badami cave temples)
   - album: india
     image: 4waterfall.jpg
@@ -19,6 +19,9 @@ gallery_item:
   - album: india
     image: 5temple.jpg
     caption: Ibrahim Roza (Vijayapura)
+  - album: india
+    image: 6chick.jpg
+    caption: Butter chicken (Murgh Makhani)
 
 ---
 Hej! I want to share an extract of my experience of visiting contrasting and spectacular India. I was there in the spring of 2014. Below are some notes on what I tasted, saw and listened to.<br>
