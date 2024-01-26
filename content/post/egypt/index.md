@@ -45,7 +45,7 @@ Hej! I want to share an extract of my experience of visiting authentic Egypt. I 
 - Basbousa <i>(بسبوسه)</i>
 
 <b>🎬 Local movies:</b>
-- Café Regular, Cairo <i>(مقهى عادي)</i>. Year: 2012. Genre: Short / Drama
+- Café Regular, Cairo <i>(قهوة عادي)</i>. Year: 2012. Genre: Short / Drama
 <br>
 
 <b>🦉 Local wisdom:</b>
