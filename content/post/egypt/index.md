@@ -19,6 +19,9 @@ gallery_item:
   - album: egypt
     image: 5stones.jpg
     caption: Ras Mohamed Nature Reserve
+  - album: egypt
+    image: 6ful.jpg
+    caption: Ful medames
 
 ---
 Hej! I want to share an extract of my experience of visiting authentic Egypt. I was there in the autumn of 2011. Below are some notes on what I tasted, saw and listened to. 
