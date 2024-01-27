@@ -51,7 +51,6 @@ Hej! I want to share an extract of my experience of visiting ancient Jordan. I w
 <b>🎬 Local movies:</b>
 - Captain Abu Raed <i>(كابتن أبو رائد)</i>. Year: 2007. Genres: Drama
 
-<br>
 
 <b>🦉 Local wisdom:</b>
 - "The one who knocks on the door hears the answer." / "<i>إلي بدُق ع الباب بسمع الجواب</i>" — Jordanian proverb 
