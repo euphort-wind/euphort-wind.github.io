@@ -20,7 +20,7 @@ gallery_item:
     image: 5byala.jpg
     caption: Sveti Anastas (Byala)
   - album: bulgaria
-    image: 6kebapche.jpg
+    image: 6kebabche.jpg
     caption: Bulgarian kebapche
 ---
 Hej! I want to share an extract of my experience of visiting spectacular Bulgaria. I was there in the summer of 2023. Below are some notes on what I tasted, saw and listened to.<br>
