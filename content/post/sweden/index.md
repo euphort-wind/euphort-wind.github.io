@@ -182,7 +182,7 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
 - A Man Called Ove <i>(En man som heter Ove)</i>. Year: 2015. Genre: Drama/Comedy
 - The 100 Year-Old Man Who Climbed Out the Window and Disappeared <i>(Hundraåringen som klev ut genom fönstret och försvann)</i>. Year: 2013. Genre: Comedy
 - Border <i>(Gräns)</i>. Year: 2018. Genre: Fantasy
-- Anxious People <i>(Folk med ångest)</i>. Year: 2021. Genre: Drama
+- Anxious People <i>(Folk med ångest)</i>. Year: 2021. Genre: Drama (series)
 - Triangle of Sadness <i>(Triangle of Sadness)</i>. Year: 2022. Genre: Black comedy
 <br>
 
