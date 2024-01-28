@@ -27,7 +27,7 @@ gallery_item:
 Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Bannoye lake, Abzakovo, Saint Petersburg, Sugomak, Pavlovsk, Gatchina, Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralny Vody, Fiagdon, Dargavs, Fasnal & Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
+<b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Bannoye lake, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Kyshtym, Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralny Vody, Fiagdon, Dargavs, Fasnal & Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Moscow
@@ -66,7 +66,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - Sugomak cave <i>(Пещера Сугомак)</i> 
     - "Ural Bali" <i>("Уральское Бали")</i> 
 7. Saint Petersburg
-    - State Hermitage Museum <i>(г. Сугомак)</i> Эрмитаж
+    - State Hermitage Museum <i>(Эрмитаж)</i>
     - Nevsky Avenue <i>(Невский проспект)</i> 
     - Pushkin's Appartment <i>(Мемориальный музей-квартира А. С. Пушкина)</i> 
     - Savior on the Spilled Blood <i>(Спас на Крови)</i> 
