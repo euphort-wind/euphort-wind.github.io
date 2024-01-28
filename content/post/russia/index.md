@@ -189,7 +189,6 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Vinegret <i>(Винегрет)</i> 
 - Russian Aspic <i>(Холодец)</i> 
 - Solyanka <i>(Солянка)</i> 
-- Shchi <i>(Щи)</i> 
 - Ukha <i>(Уха)</i> 
 - Okroshka <i>(Окрошка)</i>   
 - Pozharsky cutlet <i>(Пожарские котлеты)</i> 
