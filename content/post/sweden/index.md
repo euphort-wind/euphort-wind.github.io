@@ -165,6 +165,7 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
 - Dr. Alban (singer). Genre: retro-pop
 - E-type (DJ & singer). Genre: eurodance
 - Alesso (DJ). Genre: house
+- Crazy Frog (musician). Genre: eurodance
 
 <b>🥘 Local food & drinks: </b>
 - Coffee break <i>(Fika)</i>

@@ -57,9 +57,9 @@ Hej! I want to share an extract of my experience of visiting contrasting and spe
 
 
 <b>🎬 Local movies:</b>
+- Bollywood movies <i>(बॉलीवुड फिल्में)</i>. Year: since 1913. Genres: all
 - Slumdog Millionaire <i>(स्लमडॉग करोड़पती)</i>. Year: 2008. Genres: Drama
 - Shantaram <i>(शांताराम)</i>. Year: 2022. Genres: Drama (series)
-- Bollywood movies <i>(बॉलीवुड फिल्में)</i>. Year: since 1913. Genres: all
 <br>
 
 <b>🦉 Local wisdom:</b>
