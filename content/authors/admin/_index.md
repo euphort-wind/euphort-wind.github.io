@@ -52,7 +52,7 @@ social:
     link: https://www.linkedin.com/in/euphort
 
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: "mailto:indykov@chalmers.se"
   
   - icon: google-scholar 

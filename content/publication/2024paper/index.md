@@ -8,7 +8,7 @@ authors:
   - admin
 
 date: '2024-01-31T00:00:00Z'
-doi: 'https://doi.org/10.1145/3644815.3'
+doi: '10.1145/3644815.3'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-01T00:00:00Z'
@@ -34,7 +34,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.euphort.se/assets/media/CAIN.pdf'
+url_pdf: 'uploads/cain.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
