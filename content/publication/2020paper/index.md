@@ -10,7 +10,7 @@ authors:
   - Maxim Shcherbak
 
 date: '2020-07-01T00:00:00Z'
-doi: '10.1088/1757-899X/962/3/0320119'
+doi: '10.1088/1757-899X/962/3/032011'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-07-01T00:00:00Z'
