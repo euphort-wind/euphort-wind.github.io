@@ -51,8 +51,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/euphort
 
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: envelope
+    icon_pack: fab
+    link: "mailto:indykov@chalmers.se"
+  
+  - icon: google-scholar 
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=ieRGxSQAAAAJ&hl=en
 
   - icon: instagram
