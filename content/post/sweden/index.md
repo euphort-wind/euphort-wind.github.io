@@ -26,7 +26,7 @@ gallery_item:
 Hej! I want to share an extract of my life in charming Sweden. I was there in the autumn/winter of 2021 and live there since the spring of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Hönö, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Hönö, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -147,6 +147,11 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
     - Main square <i>(Stora torget)</i>
     - Caroli church <i>(Caroli kyrkan)</i>
     - The Textile Museum <i>(Textilmuseet)</i>
+30. Falköping
+    - Mösseberg's Park <i>(Mösseberg kurorten och parken)</i> 
+    - The observation tower <i>(Mösseberg torn)</i> 
+    - Mösseberg's Zoo <i>(Mössebergs Djurpark)</i> 
+    - Falbygdens museum <i>(Falbygdens museum)</i> 
 
 <b>🎧 Local musicians: </b>
 - ABBA (band). Genre: retro-rock
