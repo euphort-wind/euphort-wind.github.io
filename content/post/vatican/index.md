@@ -46,7 +46,7 @@ Hej! I want to share an extract of my experience of visiting blessed Vatican. I 
 
 
 <b>🎬 Local movies:</b>
-- The Two Popes <i>(Duo Pontifices)</i>. Year: 2019. Genres: Drama
+- The Two Popes <i>(Duo Pfsontifices)</i>. Year: 2019. Genres: Drama
 
 
 <b>🦉 Local wisdom:</b>
