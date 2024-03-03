@@ -27,10 +27,10 @@ gallery_item:
 Hej! I want to share an extract of my experience of visiting blessed Vatican. I was there in the winter of 2024. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Vatican city.<br>
+<b>🗺 Places:</b> Vatican City.<br>
 
 <b>🏛 Top sights visited: </b>
-1. Vatican city
+1. Vatican City
     - St. Peter's Basilica <i>(Basilica Sancti Petri)</i>
     - Vatican Museums <i>(Musea Vaticana)</i>
     - The Sistine Chapel <i>(Sacellum Sixtinum)</i>

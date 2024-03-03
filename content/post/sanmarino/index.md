@@ -27,7 +27,7 @@ gallery_item:
 Hej! I want to share an extract of my experience of visiting dreamlike San Marino. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> San Marino city.<br>
+<b>🗺 Places:</b> San Marino City.<br>
 
 <b>🏛 Top sights visited: </b>
 1. San Marino City
