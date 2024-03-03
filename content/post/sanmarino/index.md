@@ -42,8 +42,8 @@ Hej! I want to share an extract of my experience of visiting dreamlike San Marin
 
 
 <b>🥘 Local food & drinks: </b>
-- Piadina <i>(piada)</i>
-- Sammarinese wine <i>(vino sammarinese)</i>
+- Piadina <i>(Piada)</i>
+- Sammarinese wine <i>(Vino Sammarinese)</i>
 - Three Mountain Cake <i>(Torta Tre Monti)</i>
 
 
