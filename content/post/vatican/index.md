@@ -5,7 +5,7 @@ summary: Trip to Vatican
 
 gallery_item:
   - album: vatican
-    image: 1port.jpeg
+    image: 1peter.jpeg
     caption: St. Peter's Basilica
   - album: vatican
     image: 2inside.jpeg
@@ -50,7 +50,7 @@ Hej! I want to share an extract of my experience of visiting blessed Vatican. I 
 
 
 <b>🦉 Local wisdom:</b>
-- "In the face of unjust and painful situations, faith brings us the light which scatters the darkness.”  / "<i> Contra iniustas ac laboriosas condiciones fides nos lucem profert quae tenebras spargit </i>" — Pope Francis 
+- "In the face of unjust and painful situations, faith brings us the light which scatters the darkness"  / "<i> Contra iniustas ac laboriosas condiciones fides nos lucem profert quae tenebras spargit </i>" — Pope Francis 
 
 {{< gallery album="vatican" crop_options="150x150" >}}
    

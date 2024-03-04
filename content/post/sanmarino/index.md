@@ -5,7 +5,7 @@ summary: Trip to San Marino
 
 gallery_item:
   - album: sanmarino
-    image: 1valdragon.jpeg
+    image: 1valdragone.jpeg
     caption: Valdragone (settlement)
   - album: sanmarino
     image: 2chesta.jpeg
@@ -48,7 +48,7 @@ Hej! I want to share an extract of my experience of visiting dreamlike San Marin
 
 
 <b>🦉 Local wisdom:</b>
-- "An egg today is better than a chicken tomorrow”  / "<i>Meglio un uovo oggi che una gallina domani </i>" — Sammarinese proverb
+- "An egg today is better than a chicken tomorrow"  / "<i>Meglio un uovo oggi che una gallina domani</i>" — Sammarinese proverb
 
 {{< gallery album="sanmarino" crop_options="150x150" >}}
    
