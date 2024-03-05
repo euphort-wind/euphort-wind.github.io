@@ -88,21 +88,21 @@ Hej! I want to share an extract of my experience of visiting magical Italy. I wa
 - The First Day of My Life <i>(Il primo giorno della mia vita)</i>. Year: 2023. Genres: drama
 
 <b>🥘 Local food & drinks: </b>
-- Meat Products <i>(Carpaccio, Bresaola, Mortadella, Prosciutto, etc.)</i>
-- Italian Cheese <i>(Parmigiano Reggiano, Mozzarella, Ricotta, etc.)</i>
-- Pasta <i>(Carbonara, ragù alla bolognese, etc.)</i>
+- Meat Products <i>(Carpaccio, Bresaola, Mortadella, Prosciutto, Salami, etc.)</i>
+- Italian Cheese <i>(Parmigiano Reggiano, Mozzarella, Ricotta, Mascarpone etc.)</i>
+- Pasta <i>(Carbonara, Ragù alla Bolognese, etc.)</i>
 - Pizza <i>(Quattro Formaggi, Margherita, Capricciosa, etc.)</i>
 - Italian Coffee Drinks <i>(Cappucino, Latte, etc.)</i>
 - Bruschetta <i>(Bruschetta)</i>
+- Panini sandwich <i>(Panino)</i>
 - Risotto <i>(Risotto)</i>
 - Frittata <i>(Frittata)</i>
 - Pesto sauce <i>(Pesto)</i>
 - Florentine Steak <i>(Bistecca alla fiorentina)</i>
 - Saltimbocca <i>(Saltimbocca)</i>
-- Panini sandwich <i>(Panino)</i>
 - Ossobuco <i>(Osso buco)</i>
 - Lasagna <i>(Lasagna)</i>
-- Panna cotta <i>(Panna cotta)</i>
+- Panna Cotta <i>(Panna Cotta)</i>
 - Tiramisu <i>(Tiramisu)</i>
 - Cannoli <i>(Cannoli)</i>
 - Rice Cake <i>(Torta di Riso)</i>
