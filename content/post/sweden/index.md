@@ -26,7 +26,7 @@ gallery_item:
 Hej! I want to share an extract of my life in charming Sweden. I was there in the autumn/winter of 2021 and live there since the spring of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Hönö, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Hönö, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -152,6 +152,10 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
     - The observation tower <i>(Mösseberg torn)</i> 
     - Mösseberg's Zoo <i>(Mössebergs Djurpark)</i> 
     - Falbygdens museum <i>(Falbygdens museum)</i> 
+31. Vårgårda
+    - Mopar Café <i>(Mopar Café)</i> 
+    - Vårgårda museum <i>(Vårgårda hembygdsförening)</i> 
+    - Kullings-Skövde church <i>(Kullings-Skövde kyrka)</i> 
 
 <b>🎧 Local musicians: </b>
 - ABBA (band). Genre: retro-rock
@@ -176,16 +180,17 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
 - Coffee break <i>(Fika)</i>
 - Swedish meatballs with mashed potatoes, lingonberry jam and cream sauce <i>(Köttbullar)</i>
 - Fermented herring <i>(Surströmming)</i>
-- This crispy bread <i>(Knäckebröd)</i>
+- Crispbread <i>(Knäckebröd)</i>
 - "Small pieces in a pan" <i>(Pytt i Panna)</i>
 - Potato pancakes with bacon and lingonberry sauce <i>(Raggmunk)</i>
 - Cinnamon buns <i>(Kanelbullar)</i>
 - Princess cake <i>(Prinsesstårta)</i>
 - Saffron buns <i>(Lussekatter)</i>
 - Chocolate cake <i>(Kladdkaka)</i>
-- Christmas fuzzy drink <i>(Julmust)</i>
+- Christmas & Easter fuzzy drinks <i>(Julmust och Påskmust)</i>
 - Jansson's temptation <i>(Janssons frestelse)</i>
 - Västerbotten cheese <i>(Västerbottensost)</i> 
+- Boiled egg with caviar <i>(Ägg med kaviar)</i> 
 
 <b>🎬 Local movies:</b>
 - A Man Called Ove <i>(En man som heter Ove)</i>. Year: 2015. Genre: Drama/Comedy
