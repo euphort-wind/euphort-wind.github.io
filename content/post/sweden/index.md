@@ -198,6 +198,7 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
 - Border <i>(Gräns)</i>. Year: 2018. Genre: Fantasy
 - Anxious People <i>(Folk med ångest)</i>. Year: 2021. Genre: Drama (series)
 - Triangle of Sadness <i>(Triangle of Sadness)</i>. Year: 2022. Genre: Black comedy
+- The Perfect Patient <i>(Quick)</i>. Year: 2019. Genre: Drama
 <br>
 
 <b>🦉 Local wisdom:</b>
