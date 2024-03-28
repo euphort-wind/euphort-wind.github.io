@@ -59,7 +59,6 @@ social:
     icon_pack: fas
     link: "mailto:indykov@chalmers.se"
   
-
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/euphort_wind 
