@@ -123,37 +123,37 @@ sections:
       items:
         - date_start: '2024-03-27'
           icon: gaia
-          organization: Participant, Gothenburg
+          organization: Participant, AI Alliance, Gothenburg
           organization_url: https://www.gaia.fish/
           title:  GAIA conference 2024
         - date_start: '2023-10-30'
           icon: chalmers
-          organization: Speaker, Gothenburg
+          organization: Speaker, Chalmers University, Gothenburg
           organization_url: http://sirensweden.org/
           title:  SiREN Meeting 2023
         - date_start: '2023-07-01'
           icon: lurfu
-          organization: Guest Lecturer, Ekaterinburg
+          organization: Guest Lecturer, Ural Federal University, Ekaterinburg
           organization_url: https://russtudies.urfu.ru/en/summer-winter-schools/summer-program/
           title:  UrFU International Summer School 2023
         - date_start: '2023-02-01'
           icon: ppk
-          organization: Participant, Ekaterinburg
+          organization: Participant, Ural Federal University, Ekaterinburg
           organization_url: https://ippk-urgi.urfu.ru/ru/
-          title: UrFU Qualification Course "Project-based Education" 
+          title: Qualification Course "Project-based Education" 
         - date_start: '2021-09-01'
           icon: ovik
-          organization: Participant, Örnsköldsvik
+          organization: Participant, High Coast Hub, Örnsköldsvik
           organization_url: https://highcoasthub.com/the-high-coast-international-day
           title: The High Coast International Day 2021
         - date_start: '2021-03-01'
           icon: coursera
-          organization: Participant, Rotterdam
+          organization: Participant, Erasmus University, Rotterdam
           organization_url: https://www.coursera.org/account/accomplishments/verify/4Y7H3PTZGEKX
-          title: Erasmus Course "Innovation Management"
+          title: Course "Innovation Management"
         - date_start: '2018-03-01'
           icon: geek
-          organization: Participant, Abzakovo
+          organization: Participant, Geek Camp, Abzakovo
           organization_url: https://www.facebook.com/UGCmgn/
           title: Ural Geek Camp 2018
     design:
