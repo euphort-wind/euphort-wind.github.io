@@ -139,6 +139,12 @@ sections:
           organization: Guest Lecturer
           organization_url: https://russtudies.urfu.ru/en/summer-winter-schools/summer-program/
           title:  UrFU International Summer School 2023
+        - date_start: '2023-02-01'
+          description: ''
+          icon: pvo
+          organization: Participant
+          organization_url: https://ippk-urgi.urfu.ru/ru/
+          title: UrFU Qualification Course "Project-based Education" 
     design:
       columns: '2'
       
