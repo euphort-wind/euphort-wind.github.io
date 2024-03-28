@@ -122,11 +122,11 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_start: '2024-03-27'
-          description: 'Participant'
+          description: ''
           icon: gaia
-          organization: Gothenburg Artificial Intelligence Alliance
+          organization: Participant
           organization_url: https://www.gaia.fish/
-          title: GAIA conference 2024
+          title:  GAIA conference 2024
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
