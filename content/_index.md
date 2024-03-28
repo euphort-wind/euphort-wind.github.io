@@ -123,7 +123,7 @@ sections:
       items:
         - date_start: '2024-03-27'
           icon: gaia
-          organization: Participant, AI Alliance, Gothenburg
+          organization: Participant, Artificial Intelligence Alliance, Gothenburg
           organization_url: https://www.gaia.fish/
           title:  GAIA conference 2024
         - date_start: '2023-10-30'
@@ -153,7 +153,7 @@ sections:
           title: Course "Innovation Management"
         - date_start: '2018-03-01'
           icon: geek
-          organization: Participant, Geek Camp, Abzakovo
+          organization: Participant, Digital Ural Geek Camp, Abzakovo
           organization_url: https://www.facebook.com/UGCmgn/
           title: Ural Geek Camp 2018
     design:
