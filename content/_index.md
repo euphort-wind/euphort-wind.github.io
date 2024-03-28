@@ -142,7 +142,7 @@ sections:
       title: Contacts
       email: indykov@chalmers.se
       address:
-        street: 5 Hörselgången
+        street: 5 Hörselgången, office 411
         city: Gothenburg
         postcode: '417 56'
         country: Sweden

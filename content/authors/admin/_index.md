@@ -50,22 +50,19 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/euphort
-
-  - icon: envelope
+ 
+ - icon: google-scholar 
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=ieRGxSQAAAAJ&hl=en
+ 
+ - icon: envelope
     icon_pack: fas
     link: "mailto:indykov@chalmers.se"
   
-  - icon: google-scholar 
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=ieRGxSQAAAAJ&hl=en
 
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/euphort_wind 
-
-  - icon: cv
-    icon_pack: ai
-    link: uploads/cv.pdf
   
   - icon: soundcloud
     icon_pack: fab
@@ -76,4 +73,4 @@ social:
 highlight_name: true
 ---
 
-Hej! My name is <b><u>Vladislav Indykov</b></u>. I am also known as <b><u>Euphort Wind</b></u>. I work at the Computer Science & Engineering Department (<a href = "https://www.gu.se/en/computer-science-engineering" target="_blank">University of Gothenburg</a> | <a href = "https://www.chalmers.se/en/departments/cse/" target="_blank"> Chalmers University of Technology</a>). I am working on the architectural issues of AI-based systems. 
+Hej! My name is <b><u>Vladislav Indykov</b></u>. I am also known as <b><u>Euphort Wind</b></u>. I work at the Joint Department of Computer Science & Engineering (<a href = "https://www.gu.se/en/computer-science-engineering" target="_blank">University of Gothenburg</a> | <a href = "https://www.chalmers.se/en/departments/cse/" target="_blank"> Chalmers University of Technology</a>). I am working on the architectural issues of AI-based systems. 
