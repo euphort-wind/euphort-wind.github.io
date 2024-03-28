@@ -124,24 +124,36 @@ sections:
         - date_start: '2024-03-27'
           description: ''
           icon: gaia
-          organization: Participant
+          organization: Participant, Gothenburg
           organization_url: https://www.gaia.fish/
           title:  GAIA conference 2024
         - date_start: '2023-10-30'
           description: ''
           icon: chalmers
-          organization: Speaker
+          organization: Speaker, Gothenburg
           organization_url: http://sirensweden.org/
           title:  SiREN Meeting 2023
         - date_start: '2023-07-01'
           description: ''
           icon: lurfu
-          organization: Guest Lecturer
+          organization: Guest Lecturer, Ekaterinburg
           organization_url: https://russtudies.urfu.ru/en/summer-winter-schools/summer-program/
           title:  UrFU International Summer School 2023
         - date_start: '2023-02-01'
           description: ''
-          icon: pvo
+          icon: ppk
+          organization: Participant, Ekaterinburg
+          organization_url: https://ippk-urgi.urfu.ru/ru/
+          title: UrFU Qualification Course "Project-based Education" 
+        - date_start: '2021-09-01'
+          description: ''
+          icon: ovik
+          organization: Participant, Örnsköldsvik
+          organization_url: https://highcoasthub.com/the-high-coast-international-day
+          title: The High Coast International Day 2021
+        - date_start: '2023-02-01'
+          description: ''
+          icon: ppk
           organization: Participant
           organization_url: https://ippk-urgi.urfu.ru/ru/
           title: UrFU Qualification Course "Project-based Education" 
