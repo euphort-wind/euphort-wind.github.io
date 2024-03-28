@@ -129,7 +129,7 @@ sections:
           title:  GAIA conference 2024
         - date_start: '2023-10-30'
           description: ''
-          icon: siren
+          icon: chalmers
           organization: Speaker
           organization_url: http://sirensweden.org/
           title:  SiREN Meeting 2023
