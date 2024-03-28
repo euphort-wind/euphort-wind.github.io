@@ -114,13 +114,19 @@ sections:
       title: 'Events'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Mar 2024
+      date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_start: '2024-03-27'
+          description: 'Participant'
+          icon: gaia
+          organization: Gothenburg Artificial Intelligence Alliance
+          organization_url: https://www.gaia.fish/
+          title: GAIA conference 2024
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
@@ -185,7 +191,7 @@ sections:
       title: Contacts
       email: indykov@chalmers.se
       address:
-        street: 5 Hörselgången, office 411
+        street: 5 Hörselgången (office 411)
         city: Gothenburg
         postcode: '417 56'
         country: Sweden
