@@ -195,7 +195,7 @@ sections:
       address:
         street: 5 Hörselgången (office 411)
         city: Gothenburg
-        #postcode: '41756'
+        postcode: 'Sweden'
         country: Sweden
         country_code: SE
       # Choose a map provider in `params.yaml` to show a map from these coordinates
