@@ -26,7 +26,7 @@ gallery_item:
 Hej! I want to share an extract of my life in charming Sweden. I was there in the autumn/winter of 2021 and live there since the spring of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Hönö, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Hönö, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -156,6 +156,10 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
     - Mopar Café <i>(Mopar Café)</i> 
     - Vårgårda museum <i>(Vårgårda hembygdsförening)</i> 
     - Kullings-Skövde church <i>(Kullings-Skövde kyrka)</i> 
+32. Vänersborg
+    - Vänersborg museum <i>(Vänersborg museum)</i> 
+    - Vänersborg kyrka <i>(Vänersborg church)</i> 
+    - Frida's statue <i>(Fridastatyn)</i> 
 
 <b>🎧 Local musicians: </b>
 - ABBA (band). Genre: retro-rock
