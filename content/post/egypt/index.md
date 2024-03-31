@@ -51,8 +51,9 @@ Hej! I want to share an extract of my experience of visiting authentic Egypt. I 
 - Café Regular, Cairo <i>(قهوة عادي)</i>. Year: 2012. Genre: Short / Drama
 <br>
 
-<b>🦉 Local wisdom:</b>
-- "Being alone is better than being with someone bad." / <i>"الوحدة خير من جليس السوء"</i> — Egyptian proverb
+<b>🦉 Local wisdom:</b> "Being alone is better than being with someone bad." / <i>"الوحدة خير من جليس السوء"</i> — Egyptian proverb
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://azhar.eg/foreignstudent/en" target="_blank">The Al-Azhar University</a><i>(جامعة الأزهر (الشريف))</i>, Cairo, est. 970.  
 
 {{< gallery album="egypt" crop_options="150x150" >}}
    

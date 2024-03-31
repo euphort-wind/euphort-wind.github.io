@@ -58,8 +58,9 @@ Hej! I want to share an extract of my experience of visiting impressive Cyprus. 
 -  Leonidas and the Fish <i>(Ο Λεωνίδας και το Ψάρι)</i>. Year: 2021. Genre: Short
 <br>
 
-<b>🦉 Local wisdom:</b>
-- "Some live by the effort and others live by the way" / <i>"Άλλοι ζιούσιν με τον κόπον κι άλλοι ζιούσιν με τον τρόπον"</i> — Cypriot proverb
+<b>🦉 Local wisdom:</b> "Some live by the effort and others live by the way" / <i>"Άλλοι ζιούσιν με τον κόπον κι άλλοι ζιούσιν με τον τρόπον"</i> — Cypriot proverb
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://euc.ac.cy/en/" target="_blank">The European University Cyprus</a><i>(Ευρωπαϊκό Πανεπιστήμιο Κύπρου)</i>, Engomi, est. 1961.  
 
 {{< gallery album="cyprus" crop_options="150x150" >}}
    

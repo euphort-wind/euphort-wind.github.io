@@ -68,8 +68,9 @@ Hej! I want to share an extract of my experience of visiting marvelous Denmark. 
 - The Keeper of Lost Causes <i>(Kvinden i buret)</i>. Year: 2013. Genre: Crime/Thriller
 <br>
 
-<b>🦉 Local wisdom:</b>
-- "Many small streams make a big river" / "<i>Mange bække små gør en stor å</i>" — Danish proverb
+<b>🦉 Local wisdom:</b> "Many small streams make a big river" / "<i>Mange bække små gør en stor å</i>" — Danish proverb
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://www.ku.dk/english" target="_blank">The University of Copenhagen</a><i>(Københavns Universitet)</i>, Copenhagen, est. 1479.  
 
 {{< gallery album="denmark" crop_options="150x150" >}}
    
