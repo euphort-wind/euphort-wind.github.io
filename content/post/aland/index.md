@@ -52,13 +52,15 @@ Hej! I want to share an extract of my experience of visiting the beautiful Ålan
 - Local apple juice <i>(Grannas Äppel Åland)</i>
 
 
-
 <b>🎬 Local movies:</b>
 - Devil's Bride <i>(Tulen morsian)</i>. Year: 2016. Genre: Horror/Drama
 <br>
 
 <b>🦉 Local wisdom:</b>
 - "Adventure is not something we need to look for. It's exciting enough to live" / "<i>Äventyr är inte något vi behöver leta efter. Det är ju tillräckligt spännande att leva</i>" — AnneAnka (<a href = "https://www.pernillalindroos.com/" target="_blank">Pernilla Lindroos</a>)
+
+<b>👨‍🎓 Oldest university:</b> Åland University of Applied Sciences (Högskolan på Åland), Mariehamn, est. 2003. 
+
 
 {{< gallery album="aland" crop_options="150x150" >}}
    

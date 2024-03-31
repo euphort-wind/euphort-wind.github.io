@@ -125,7 +125,7 @@ sections:
           icon: gaia
           organization: Participant, Artificial Intelligence Alliance, Gothenburg
           organization_url: https://www.gaia.fish/
-          title:  GAIA conference 2024
+          title:  GAIA Conference 2024
         - date_start: '2023-10-30'
           icon: chalmers
           organization: Speaker, Chalmers University, Gothenburg
