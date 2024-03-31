@@ -52,8 +52,10 @@ Hej! I want to share an extract of my experience of visiting ancient Jordan. I w
 - Captain Abu Raed <i>(كابتن أبو رائد)</i>. Year: 2007. Genres: Drama
 
 
-<b>🦉 Local wisdom:</b>
-- "The one who knocks on the door hears the answer." / "<i>إلي بدُق ع الباب بسمع الجواب</i>" — Jordanian proverb 
+<b>🦉 Local wisdom:</b> "The one who knocks on the door hears the answer." / "<i>إلي بدُق ع الباب بسمع الجواب</i>" — Jordanian proverb 
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://ju.edu.jo/Home.aspx" target="_blank">The University of Jordan</a> <i>(الجامعة الأردنية)</i>, Amman, est. 1962. 
+
 
 {{< gallery album="jordan" crop_options="150x150" >}}
    

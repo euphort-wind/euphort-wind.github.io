@@ -71,8 +71,10 @@ Hej! I want to share an extract of my experience of visiting astonishing Kazakhs
 - The Old Man <i>(Şal)</i>. Year: 2012. Genre: Drama
 <br>
 
-<b>🦉 Local wisdom:</b>
-- "A united hundred is stronger than a divided thousand." / <i>"Біріккен жүз, бытыраңқы мыңды алады."</i> — Kazakh proverb
+<b>🦉 Local wisdom:</b> "A united hundred is stronger than a divided thousand." / <i>"Біріккен жүз, бытыраңқы мыңды алады."</i> — Kazakh proverb
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://www.kaznpu.kz/en/" target="_blank">Abai Kazakh National Pedagogical University</a> <i>(Абай атындағы Қазақ ұлттық педагогикалық университеті)</i>, Almaty, est. 1928. 
+
 
 {{< gallery album="kazakhstan" crop_options="150x150" >}}
    

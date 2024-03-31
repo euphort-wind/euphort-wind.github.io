@@ -54,8 +54,9 @@ Hej! I want to share an extract of my experience of visiting bright Thailand. I 
 -  Thirteen Lives <i>(สิบสามชีวิต)</i>. Year: 2022. Genre: Action / Drama
 <br>
 
-<b>🦉 Local wisdom:</b>
-- "Keep your fire inside and don't take it from someone else" / <i>"ไฟในอย่านำออก ไฟนอกอย่านำเข้า"</i> — Thai proverb
+<b>🦉 Local wisdom:</b> "Keep your fire inside and don't take it from someone else" / <i>"ไฟในอย่านำออก ไฟนอกอย่านำเข้า"</i> — Thai proverb
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://www.mcu.ac.th/" target="_blank">Maha Chulalongkorn Rajavidyalaya University</a> <i>(มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย)</i>, Bangkok, est. 1887. 
 
 {{< gallery album="thailand" crop_options="150x150" >}}
    

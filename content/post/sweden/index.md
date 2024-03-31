@@ -205,8 +205,9 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
 - The Perfect Patient <i>(Quick)</i>. Year: 2019. Genre: Drama
 <br>
 
-<b>🦉 Local wisdom:</b>
-- "He who yawns too much often misses the whole piece" / "<i>Den som gapar över mycket mister ofta hela stycket</i>" — Swedish proverb
+<b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece" / "<i>Den som gapar över mycket mister ofta hela stycket</i>" — Swedish proverb
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://www.uu.se/en" target="_blank">Uppsala University</a> <i>(Uppsala universitet)</i>, Uppsala, est. 1477. 
 
 {{< gallery album="sweden" crop_options="150x150" >}}
    

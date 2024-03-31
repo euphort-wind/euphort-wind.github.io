@@ -205,9 +205,9 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Alyosha Popovich and Tugarin Zmey. <i>(Алеша Попович и Тугарин Змей)</i>. Year: 2004. Genres: Comedy
 - The Humorist <i>(Юморист)</i>. Year: 2019. Genres: Drama
 
-<b>🦉 Local wisdom:</b>
-- "The only thing better than mountains are mountains that you have never been to before." / "<i>Лучше гор могут быть только горы, на которых ещё не бывал</i>" — Vladimir Vysotsky (Soviet singer-songwriter and poet)
+<b>🦉 Local wisdom:</b> "The only thing better than mountains are mountains that you have never been to before." / "<i>Лучше гор могут быть только горы, на которых ещё не бывал</i>" — Vladimir Vysotsky (Soviet singer-songwriter and poet)
 
+<b>👨‍🎓The oldest university:</b> <a href = "https://english.spbu.ru/" target="_blank">Saint Petersburg State University</a> <i>(Санкт-Петербургский государственный университет)</i>, Saint Petersburg, est. 1724. 
 
 {{< gallery album="russia" crop_options="150x150" >}}
    

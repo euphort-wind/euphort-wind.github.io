@@ -49,8 +49,9 @@ Hej! I want to share an extract of my experience of visiting dreamlike San Marin
 <b>🎬 Local movies:</b>
 - San Marino Archive Footage <i>(Filmati d'archivio di San Marino)</i>. Year: 1950/1977. Genres: Archive Footage
 
-<b>🦉 Local wisdom:</b>
-- "An egg today is better than a chicken tomorrow"  / "<i>Meglio un uovo oggi che una gallina domani</i>" — Sammarinese proverb
+<b>🦉 Local wisdom:</b> "An egg today is better than a chicken tomorrow"  / "<i>Meglio un uovo oggi che una gallina domani</i>" — Sammarinese proverb
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://www.unirsm.sm/en/" target="_blank">The University of the Republic of San Marino</a> <i>(Università degli Studi della Repubblica di San Marino)</i>, City of San Marino, est. 1985. 
 
 {{< gallery album="sanmarino" crop_options="150x150" >}}
    

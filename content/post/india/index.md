@@ -63,9 +63,10 @@ Hej! I want to share an extract of my experience of visiting contrasting and spe
 - Shantaram <i>(शांताराम)</i>. Year: 2022. Genres: Drama (series)
 <br>
 
-<b>🦉 Local wisdom:</b>
-- "It is health which is our true wealth, the value of gold and silver is nothing in comparison to it." / "<i>यह स्वास्थय ही है जो हमारा सही धन है, सोने और चांदी का मूल्य इसके सामने कुछ नहीं।
+<b>🦉 Local wisdom:</b> "It is health which is our true wealth, the value of gold and silver is nothing in comparison to it." / "<i>यह स्वास्थय ही है जो हमारा सही धन है, सोने और चांदी का मूल्य इसके सामने कुछ नहीं।
 </i>" — Mahatma Gandhi (Indian independence activist)
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://www.caluniv.ac.in/" target="_blank">The University of Calcutta</a> <i>(কলকাতা বিশ্ববিদ্যালয়)</i>, Kolkata, est. 1857. 
 
 {{< gallery album="india" crop_options="150x150" >}}
    

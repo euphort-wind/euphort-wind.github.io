@@ -84,8 +84,9 @@ Hej! I want to share an extract of my experience of visiting magical Norway. I w
 - Beforeigners <i>(Førignere)</i>. Year: 2019. Genre: Fantasy (series)
 <br>
 
-<b>🦉 Local wisdom:</b>
-- "The grass is green enough on our side of the fence if we just remember to water it" / <i>"Gresset er grønt nok på vår side av gjerdet når vi bare husker å vanne det"</i> — Norwegian proverb
+<b>🦉 Local wisdom:</b> "The grass is green enough on our side of the fence if we just remember to water it" / <i>"Gresset er grønt nok på vår side av gjerdet når vi bare husker å vanne det"</i> — Norwegian proverb
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://www.uio.no/english/" target="_blank">The University of Oslo</a> <i>(Universitetet i Oslo)</i>, Oslo, est. 1811. 
 
 {{< gallery album="norway" crop_options="150x150" >}}
    

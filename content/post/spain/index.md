@@ -63,8 +63,9 @@ Hej! I want to share an extract of my experience of visiting resplendent Spain. 
 -  Under Therapy <i>(Bajo terapia)</i>. Year: 2023. Genre: Drama
 <br>
 
-<b>🦉 Local wisdom:</b>
-- "Distance is to love what the wind is to a fire: it extinguishes the small things, but fuels the large ones." / <i>"La distancia es al amor lo que el viento al fuego: apaga el pequeño, pero aviva el grande."</i> — "Mar de fuego", Chufo Lloréns
+<b>🦉 Local wisdom:</b> "Distance is to love what the wind is to a fire: it extinguishes the small things, but fuels the large ones." / <i>"La distancia es al amor lo que el viento al fuego: apaga el pequeño, pero aviva el grande."</i> — "Mar de fuego", Chufo Lloréns
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://www.usal.es/" target="_blank">The University of Salamanca</a> <i>(Universidad de Salamanca)</i>, Salamanca, est. 1218. 
 
 {{< gallery album="spain" crop_options="150x150" >}}
    

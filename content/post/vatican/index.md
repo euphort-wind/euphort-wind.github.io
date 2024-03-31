@@ -49,8 +49,9 @@ Hej! I want to share an extract of my experience of visiting blessed Vatican. I 
 - The Two Popes <i>(Duo Pontifices)</i>. Year: 2019. Genres: Drama
 
 
-<b>🦉 Local wisdom:</b>
-- "In the face of unjust and painful situations, faith brings us the light which scatters the darkness"  / "<i> Contra iniustas ac laboriosas condiciones fides nos lucem profert quae tenebras spargit </i>" — Pope Francis 
+<b>🦉 Local wisdom:</b> "In the face of unjust and painful situations, faith brings us the light which scatters the darkness"  / "<i> Contra iniustas ac laboriosas condiciones fides nos lucem profert quae tenebras spargit </i>" — Pope Francis 
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://www.pul.va/en/" target="_blank">The Pontifical Lateran University </a> <i>(Pontificia Universitas Lateranensis)</i>, Rome (Holy See), est. 1773. 
 
 {{< gallery album="vatican" crop_options="150x150" >}}
    

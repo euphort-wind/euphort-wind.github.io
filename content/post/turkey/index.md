@@ -92,8 +92,9 @@ Hej! I want to share an extract of my experience of visiting magnificent Türkiy
 <b>🎬 Local movies:</b>
 - Winter Sleep <i>(Kış Uykusu)</i>. Year: 2014. Genre: Drama
 
-<b>🦉 Local wisdom:</b>
-- "A wise man does not say what he knows; The stupid man does not know what he is saying" / <i>"Akıllı adam bildiğini söylemez; salak adam söylediğini bilmez"</i> — Turkish proverb
+<b>🦉 Local wisdom:</b> "A wise man does not say what he knows; The stupid man does not know what he is saying" / <i>"Akıllı adam bildiğini söylemez; salak adam söylediğini bilmez"</i> — Turkish proverb
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://www.istanbul.edu.tr/en/" target="_blank">Istanbul University</a> <i>(İstanbul Üniversitesi)</i>, Istanbul, est. 1453. 
 
 {{< gallery album="turkey" crop_options="150x150" >}}
    

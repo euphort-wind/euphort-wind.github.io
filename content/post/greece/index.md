@@ -70,8 +70,9 @@ Hej! I want to share an extract of my experience of visiting graceful Greece. I 
 - My Big Fat Greek Wedding. Year: 2002. Genre: Comedy
 <br>
 
-<b>🦉 Local wisdom:</b>
-- "The one who lives will see, but the one who walks will see more." / "<i>Όποιος ζήσει θα ιδεί, μα όποιος περπατήσει θα ιδεί περισσότερα.</i>" — Greek proverb
+<b>🦉 Local wisdom:</b> "The one who lives will see, but the one who walks will see more." / "<i>Όποιος ζήσει θα ιδεί, μα όποιος περπατήσει θα ιδεί περισσότερα.</i>" — Greek proverb
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://en.uoa.gr/" target="_blank">The National and Kapodistrian University of Athens</a> <i>(Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών)</i>, Zografou, est. 1837.  
 
 {{< gallery album="greece" crop_options="150x150" >}}
    

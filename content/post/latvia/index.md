@@ -64,8 +64,9 @@ Hej! I want to share an extract of my experience of visiting magnificent Latvia.
 - The Shot <i>(Nošāva)</i>. Year: 2019. Genre: Short / Comedy
 <br>
 
-<b>🦉 Local wisdom:</b>
-- "A tree does not fall after the first cut" / <i>"Koks nekrīt uz pirmā cirtiena"</i> — Latvian proverb
+<b>🦉 Local wisdom:</b> "A tree does not fall after the first cut" / <i>"Koks nekrīt uz pirmā cirtiena"</i> — Latvian proverb
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://www.rtu.lv/en" target="_blank">Riga Technical University</a> <i>(Rīgas Tehniskā universitāte)</i>, Riga, est. 1862. 
 
 {{< gallery album="latvia" crop_options="150x150" >}}
    

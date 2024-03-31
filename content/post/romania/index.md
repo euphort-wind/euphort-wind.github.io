@@ -60,8 +60,9 @@ Hej! I want to share an extract of my experience of visiting fabulous Romania. I
 <b>🎬 Local movies:</b>
 - The Death of Mr. Lazarescu <i>(Moartea domnului Lăzărescu)</i>. Year: 2005. Genre: Drama / Tragedy
 
-<b>🦉 Local wisdom:</b>
-- "The good man values goodness, as the bee values the flower." / "<i> Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea.</i>" — Romanian proverb
+<b>🦉 Local wisdom:</b> "The good man values goodness, as the bee values the flower." / "<i> Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea.</i>" — Romanian proverb
+
+<b>👨‍🎓The oldest university:</b> <a href = "https://www.uaic.ro/en/" target="_blank">The Alexandru Ioan Cuza University</a> <i>(Universitatea „Alexandru Ioan Cuza")</i>, Iași, est. 1640. 
 
 {{< gallery album="romania" crop_options="150x150" >}}
    
