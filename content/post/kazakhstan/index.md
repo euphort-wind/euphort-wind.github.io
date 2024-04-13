@@ -59,6 +59,7 @@ Hej! I want to share an extract of my experience of visiting astonishing Kazakhs
 - Gazizkhan Shekerbekov (singer). Genre: pop
 - Diana Ismail (singer). Genre: pop
 - The Limba (singer). Genre: pop 
+- Adam (singer). Genre: pop 
 
 <b>🥘 Local food & drinks: </b>
 - Beshbarmak <i>(Beshbarmak)</i>
