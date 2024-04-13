@@ -17,7 +17,7 @@ gallery_item:
     image: 4cathedral.jpeg
     caption: Brussels Cathedral 
   - album: belgium
-    image: 5castle.jpg
+    image: 5castle.jpeg
     caption: Royal Palace of Brussels
   - album: belgium
     image: 6mussels.jpeg
