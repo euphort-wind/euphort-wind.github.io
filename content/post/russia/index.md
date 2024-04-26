@@ -176,14 +176,14 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 
   
 <b>🎧 Local musicians: </b>
-- Viktor Tsoi <i>(singer)</i>. Genre: rock
-- Valery Meladze <i>(singer)</i>. Genre: pop
-- Aleksander Popov <i>(DJ)</i>. Genre: trance
-- Arty <i>(DJ)</i>. Genre: progressive house
-- Nina Kraviz <i>(DJ)</i>. Genre: house
-- Zivert <i>(singer)</i>. Genre: pop
-- Макsим <i>(singer)</i>. Genre: pop
-- Swanky Tunes <i>(DJ trio)</i>. Genre: electro house
+- 🇷🇺 Viktor Tsoi <i>(singer)</i>. Genre: post punk
+- 🇷🇺 Valery Meladze <i>(singer)</i>. Genre: pop
+- 🇷🇺 Zivert <i>(singer)</i>. Genre: pop
+- 🇷🇺 Макsим <i>(singer)</i>. Genre: pop
+- 🇷🇺 Aleksander Popov <i>(DJ)</i>. Genre: trance
+- 🇺🇳 Arty <i>(DJ)</i>. Genre: progressive house
+- 🇺🇳 Nina Kraviz <i>(DJ)</i>. Genre: house
+- 🇺🇳 Swanky Tunes <i>(DJ trio)</i>. Genre: electro house
 
 <b>🥘 Local food & drinks: </b>
 - Vinegret <i>(Винегрет)</i> 

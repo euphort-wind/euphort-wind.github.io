@@ -39,7 +39,7 @@ Hej! I want to share an extract of my experience of visiting authentic Egypt. I 
 
 
 <b>🎧 Local musicians: </b>
-- Aly & Fila (DJ duo). Genre: trance
+- 🇺🇳 Aly & Fila (DJ duo). Genre: trance
 
 <b>🥘 Local food & drinks: </b>
 - Ful medames <i>(فول مدمس)</i>

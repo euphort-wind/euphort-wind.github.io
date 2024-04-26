@@ -54,12 +54,13 @@ Hej! I want to share an extract of my experience of visiting astonishing Kazakhs
     - Aktau embankment <i>(Aqtau jağalauy)</i>
 
 <b>🎧 Local musicians: </b>
-- Imanbek (DJ). Genre: slap house
-- Kazybek Kuraiysh (singer). Genre: pop 
-- Gazizkhan Shekerbekov (singer). Genre: pop
-- Diana Ismail (singer). Genre: pop
-- The Limba (singer). Genre: pop 
-- Adam (singer). Genre: pop 
+- 🇰🇿 Adam (singer). Genre: pop 
+- 🇰🇿 Kazybek Kuraiysh (singer). Genre: pop 
+- 🇰🇿 Gazizkhan Shekerbekov (singer). Genre: pop
+- 🇰🇿 Diana Ismail (singer). Genre: pop
+- 🇺🇳 Imanbek (DJ). Genre: slap house
+- 🇺🇳 The Limba (singer). Genre: pop 
+
 
 <b>🥘 Local food & drinks: </b>
 - Beshbarmak <i>(Beshbarmak)</i>

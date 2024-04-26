@@ -37,8 +37,8 @@ Hej! I want to share an extract of my experience of visiting dreamlike San Marin
     - The Cesta tower <i>(Torre della Fratta)</i>
 
 <b>🎧 Local musicians: </b>
-- Little Tony <i>(singer)</i>. Genre: retro
-- Valentina Monetta <i>(singer)</i>. Genre: pop
+- 🇸🇲 Little Tony <i>(singer)</i>. Genre: retro
+- 🇺🇳 Valentina Monetta <i>(singer)</i>. Genre: pop
 
 
 <b>🥘 Local food & drinks: </b>

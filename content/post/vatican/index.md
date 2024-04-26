@@ -36,7 +36,7 @@ Hej! I want to share an extract of my experience of visiting blessed Vatican. I 
     - The Sistine Chapel <i>(Sacellum Sixtinum)</i>
 
 <b>🎧 Local musicians: </b>
-- Sistine Chapel Choir <i>(choir)</i>. Genre: religious
+- 🇻🇦 Sistine Chapel Choir <i>(choir)</i>. Genre: religious
 
 
 <b>🥘 Local food & drinks: </b>

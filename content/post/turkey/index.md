@@ -73,12 +73,12 @@ Hej! I want to share an extract of my experience of visiting magnificent Türkiy
 
  
 <b>🎧 Local musicians: </b>
-- Tarkan (singer). Genre: pop
-- Burak Yeter (DJ). Genre: house
-- Mahmut Orhan (DJ). Genre: house
-- Ummet Ozcan (DJ). Genre: progressive house
-- Serhat Durmus (DJ). Genre: house
-- Zerrin Temiz (singer). Genre: pop
+- 🇹🇷 Tarkan (singer). Genre: pop
+- 🇹🇷 Serhat Durmus (DJ). Genre: house
+- 🇹🇷 Zerrin Temiz (singer). Genre: pop
+- 🇺🇳 Burak Yeter (DJ). Genre: house
+- 🇺🇳 Mahmut Orhan (DJ). Genre: house
+- 🇺🇳 Ummet Ozcan (DJ). Genre: progressive house
 
 <b>🥘 Local food & drinks: </b>
 - Döner Kebab <i>(Döner Kebab)</i>

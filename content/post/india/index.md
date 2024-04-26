@@ -44,9 +44,9 @@ Hej! I want to share an extract of my experience of visiting contrasting and spe
 
 
 <b>🎧 Local musicians: </b>
-- A. R. Rahman <i>(composer/singer)</i>. Genre: indian film pop
-- KSHMR <i>(DJ)</i>. Genre: electro house
-- Panjabi MC <i>(DJ)</i>. Genre: bhangra
+- 🇮🇳 A. R. Rahman <i>(composer/singer)</i>. Genre: indian film pop
+- 🇮🇳 Panjabi MC <i>(DJ)</i>. Genre: bhangra
+- 🇺🇳 KSHMR <i>(DJ)</i>. Genre: electro house
 
 <b>🥘 Local food & drinks: </b>
 - Curry <i>(करी)</i>

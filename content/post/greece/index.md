@@ -52,10 +52,10 @@ Hej! I want to share an extract of my experience of visiting graceful Greece. I 
     - Cretaquarium <i>(Θαλασσόκοσμος)</i> 
 
 <b>🎧 Local musicians: </b>
-- Antique (band). Genre: pop
-- Demis Roussos (singer). Genre: pop
-- Like Mike (DJ). Genre: EDM
-- Aero Chord (DJ). Genre: trap
+- 🇬🇷 Antique (band). Genre: pop
+- 🇬🇷 Demis Roussos (singer). Genre: pop
+- 🇺🇳 Aero Chord (DJ). Genre: trap
+- 🇺🇳 Steve Angello (DJ). Genre: progressive house
 
 <b>🥘 Local food & drinks: </b>
 - Greek salad <i>(ελληνική σαλάτα)</i>

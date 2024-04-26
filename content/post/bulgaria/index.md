@@ -59,10 +59,10 @@ Hej! I want to share an extract of my experience of visiting spectacular Bulgari
    
 
 <b>🎧 Local musicians: </b>
-- Azis <i>(singer)</i>. Genre: pop
-- Avenue (duo). Genre: pop
-- Orlin Goranov (singer). Genre: retro-pop
-- Молец (duo). Genre: pop
+- 🇧🇬 Azis <i>(singer)</i>. Genre: pop
+- 🇧🇬 Avenue (duo). Genre: pop
+- 🇧🇬 Orlin Goranov (singer). Genre: retro-pop
+- 🇧🇬 Молец (duo). Genre: pop
 
 
 <b>🥘 Local food & drinks: </b>

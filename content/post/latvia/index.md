@@ -44,11 +44,11 @@ Hej! I want to share an extract of my experience of visiting magnificent Latvia.
 
 
 <b>🎧 Local musicians: </b>
-- Prāta Vētra (band). Genre: pop 
-- Antra Stafecka (singer). Genre: pop
-- Jumprava (band). Genre: retro-pop
-- Otra Puse (band). Genre: pop
-- Tumsa (band). Genre: rock
+- 🇱🇻 Prāta Vētra (band). Genre: pop 
+- 🇱🇻 Antra Stafecka (singer). Genre: pop
+- 🇱🇻 Jumprava (band). Genre: retro-pop
+- 🇱🇻 Otra Puse (band). Genre: pop
+- 🇱🇻 Tumsa (band). Genre: rock
 
 
 <b>🥘 Local food & drinks: </b>

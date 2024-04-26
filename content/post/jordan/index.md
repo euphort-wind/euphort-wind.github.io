@@ -40,8 +40,8 @@ Hej! I want to share an extract of my experience of visiting ancient Jordan. I w
     - Aqaba harbor <i>(ميناء العقبة)</i>
 
 <b>🎧 Local musicians: </b>
-- Aziz Maraka <i>(singer)</i>. Genre: pop
-- Diana Karazon <i>(singer)</i>. Genre: pop
+- 🇯🇴 Aziz Maraka <i>(singer)</i>. Genre: pop
+- 🇯🇴 Diana Karazon <i>(singer)</i>. Genre: pop
 
 <b>🥘 Local food & drinks: </b>
 - Mansaf <i>(منسف)</i>

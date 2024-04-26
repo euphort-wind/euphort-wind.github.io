@@ -44,13 +44,14 @@ Hej! I want to share an extract of my experience of visiting stately Finland. I 
     - Vaasa Market Square <i>(Vaasan tori)</i>
 
 <b>🎧 Local musicians: </b>
-- H.I.M. (band). Genre: gothic metal
-- The Rasmus (band). Genre: alternative rock
-- Sunrise Avenue (band). Genre: rock
-- Alma (singer). Genre: pop
-- Jenni & Juho (duo). Genre: pop
-- Darude (DJ). Genre: speed house
-- Portion Boys (band). Genre: pop
+- 🇫🇮 Portion Boys (band). Genre: pop
+- 🇫🇮 Jenni & Juho (duo). Genre: pop
+- 🇺🇳 H.I.M. (band). Genre: gothic metal
+- 🇺🇳 The Rasmus (band). Genre: alternative rock
+- 🇺🇳 Sunrise Avenue (band). Genre: rock
+- 🇺🇳 Alma (singer). Genre: pop
+- 🇺🇳 Darude (DJ). Genre: speed house
+
 
 
 <b>🥘 Local food & drinks: </b>

@@ -46,7 +46,7 @@ Hej! I want to share an extract of my experience of visiting impressive Cyprus. 
     - Limassol Beaches <i>(Παραλίες Λεμεσού)</i>
 
 <b>🎧 Local musicians: </b>
-- Eric Alamango (DJ). Genre: pop
+- 🇺🇳 Eric Alamango (DJ). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
 - Halloumi Cheese <i>(Τυρί χαλούμι)</i>

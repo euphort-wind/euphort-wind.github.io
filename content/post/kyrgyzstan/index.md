@@ -50,12 +50,12 @@ Hej! I want to share an extract of my experience of visiting majestic Kyrgyzstan
     - Boz-Uchuk gorge <i>(Боз-Учук)</i>
 
 <b>🎧 Local musicians: </b>
-- Mirbek Atabekov (singer). Genre: pop
-- Anzhelika (singer). Genre: pop 
-- Ralliya (singer). Genre: pop 
-- Aizhamal Kabylova (singer). Genre: pop 
-- Aya Sadyrova (singer). Genre: pop 
-- Talant 60'k (singer). Genre: pop 
+- 🇰🇬 Mirbek Atabekov (singer). Genre: pop
+- 🇰🇬 Anzhelika (singer). Genre: pop 
+- 🇰🇬 Ralliya (singer). Genre: pop 
+- 🇰🇬 Aizhamal Kabylova (singer). Genre: pop 
+- 🇰🇬 Aya Sadyrova (singer). Genre: pop 
+- 🇰🇬 Talant 60'k (singer). Genre: pop 
 
 <b>🥘 Local food & drinks: </b>
 - Ash-lyanfu soup <i>(Аш-лянфу)</i>

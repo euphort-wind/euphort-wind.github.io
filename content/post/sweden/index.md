@@ -162,23 +162,28 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
     - Frida's statue <i>(Fridastatyn)</i> 
 
 <b>🎧 Local musicians: </b>
-- ABBA (band). Genre: retro-rock
-- Roxette (band). Genre: retro-rock
-- Ace of Base (band). Genre: retro-pop
-- Army of lovers (band). Genre: retro-pop
-- Avicii (DJ). Genre: house
-- Europa (band). Genre: retro-pop
-- The Cardigans (band). Genre: pop-rock
-- Swedish House Mafia (DJ band). Genre: house
-- Basshunter (DJ). Genre: eurodance
-- Dead by April (band). Genre: metal
-- Loreen (singer). Genre: pop
-- Tove Lo (singer). Genre: pop
-- Danny Saucedo (singer). Genre: pop
-- Dr. Alban (singer). Genre: retro-pop
-- E-type (DJ & singer). Genre: eurodance
-- Alesso (DJ). Genre: house
-- Crazy Frog (musician). Genre: eurodance
+- 🇸🇪 Tomas Ledin (singer). Genre: pop
+- 🇸🇪 Myra Granberg (singer). Genre: pop
+- 🇸🇪 Danny Saucedo (singer). Genre: pop
+- 🇸🇪 Stiftelsen (band). Genre: pop
+- 🇸🇪 Darin (singer). Genre: pop
+- 🇸🇪 Albin Lee Meldau (singer). Genre: pop
+- 🇸🇪 Basshunter (DJ). Genre: eurodance
+- 🇺🇳 ABBA (band). Genre: retro-rock
+- 🇺🇳 Roxette (band). Genre: retro-rock
+- 🇺🇳 Ace of Base (band). Genre: retro-pop
+- 🇺🇳 Army of lovers (band). Genre: retro-pop
+- 🇺🇳 Avicii (DJ). Genre: house
+- 🇺🇳 Europa (band). Genre: retro-pop
+- 🇺🇳 The Cardigans (band). Genre: pop-rock
+- 🇺🇳 Swedish House Mafia (DJ band). Genre: house
+- 🇺🇳 Dead by April (band). Genre: metal
+- 🇺🇳 Loreen (singer). Genre: pop
+- 🇺🇳 Tove Lo (singer). Genre: pop
+- 🇺🇳 Dr. Alban (singer). Genre: retro-pop
+- 🇺🇳 E-type (DJ & singer). Genre: eurodance
+- 🇺🇳 Alesso (DJ). Genre: house
+- 🇺🇳 Crazy Frog (musician). Genre: eurodance
 
 <b>🥘 Local food & drinks: </b>
 - Coffee break <i>(Fika)</i>
@@ -200,6 +205,7 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
 - A Man Called Ove <i>(En man som heter Ove)</i>. Year: 2015. Genre: Drama/Comedy
 - The 100 Year-Old Man Who Climbed Out the Window and Disappeared <i>(Hundraåringen som klev ut genom fönstret och försvann)</i>. Year: 2013. Genre: Comedy
 - Border <i>(Gräns)</i>. Year: 2018. Genre: Fantasy
+- End of Summer <i>(Slutet på sommaren)</i>. Year: 2023. Genre: Thriller (series)
 - Anxious People <i>(Folk med ångest)</i>. Year: 2021. Genre: Drama (series)
 - Triangle of Sadness <i>(Triangle of Sadness)</i>. Year: 2022. Genre: Black comedy
 - The Perfect Patient <i>(Quick)</i>. Year: 2019. Genre: Drama

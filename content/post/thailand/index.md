@@ -42,7 +42,7 @@ Hej! I want to share an extract of my experience of visiting bright Thailand. I 
     - Racha Coast (Diving places) <i>(ชายฝั่งราชา)</i>
 
 <b>🎧 Local musicians: </b>
-- Safeplanet (band). Genre: pop
+- 🇹🇭 Safeplanet (band). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
 - Tom Yam soup <i>(ต้มยำ)</i>

@@ -44,12 +44,12 @@ Hej! I want to share an extract of my experience of visiting fabulous Romania. I
 
 
 <b>🎧 Local musicians: </b>
-- Akcent (band). Genre: eurodance
-- Morandi (duo). Genre: eurodance
-- INNA (singer).  Genre: pop
-- Edward Maya (DJ). Genre: eurodance
-- Mario Fresh (singer). Genre: pop
-- Minelli (singer). Genre: pop
+- 🇷🇴 Akcent (band). Genre: eurodance
+- 🇷🇴 Mario Fresh (singer). Genre: pop
+- 🇺🇳 Morandi (duo). Genre: eurodance
+- 🇺🇳 INNA (singer).  Genre: pop
+- 🇺🇳 Edward Maya (DJ). Genre: eurodance
+- 🇺🇳 Minelli (singer). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
 - Romanian stew <i>(Tochitură)</i>

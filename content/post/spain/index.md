@@ -42,10 +42,10 @@ Hej! I want to share an extract of my experience of visiting resplendent Spain. 
     - Our Lady of Montserrat  <i>(Mare de Déu de Montserrat)</i>
 
 <b>🎧 Local musicians: </b>
-- Enrique Iglesias (singer). Genre: pop
-- David Tavarre (singer). Genre: pop
-- Dr. Kucho! (DJ). Genre: house
-- Sak Noel (DJ). Genre: pop
+- 🇪🇸 Enrique Iglesias (singer). Genre: pop
+- 🇺🇳 David Tavarre (singer). Genre: pop
+- 🇺🇳 Dr. Kucho! (DJ). Genre: house
+- 🇺🇳 Sak Noel (DJ). Genre: pop
 
 
 <b>🥘 Local food & drinks: </b>

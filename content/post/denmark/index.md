@@ -47,12 +47,14 @@ Hej! I want to share an extract of my experience of visiting marvelous Denmark. 
     - Old Sæby <i>(Gamle Sæby)</i>
 
 <b>🎧 Local musicians: </b>
-- Kim Larsen (singer). Genre: retro-pop
-- Tobias Rahim (singer). Genre: reggaeton
-- Nephew (band). Genre: rock
-- Hanne Boel (singer). Genre: retro-pop
-- Rune RK / Kölsch (DJ). Genre: techno
-- Morten (DJ). Genre: future rave
+- 🇩🇰 Kim Larsen (singer). Genre: retro-pop
+- 🇩🇰 Tobias Rahim (singer). Genre: reggaeton
+- 🇩🇰 Nephew (band). Genre: rock
+- 🇩🇰 Hanne Boel (singer). Genre: retro-pop
+- 🇺🇳 Rune RK / Kölsch (DJ). Genre: techno
+- 🇺🇳 Morten (DJ). Genre: future rave
+- 🇺🇳 Aqua (band). Genre: pop
+- 🇺🇳 MØ (singer). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
 - Open-faced sandwich <i>(Smørrebrød)</i>

@@ -65,18 +65,19 @@ Hej! I want to share an extract of my experience of visiting magical Italy. I wa
     - Tre Martiri Square <i>(Piazza Tre Martiri)</i>
 
 <b>🎧 Local musicians: </b>
-- Adriano Celentano <i>(singer)</i>. Genre: retro pop
-- Al Bano <i>(singer)</i>. Genre: retro pop
-- Eros Ramazzotti <i>(singer)</i>. Genre: pop
-- Giuseppe Ottaviani <i>(DJ)</i>. Genre: trance
-- Benny Benassi <i>(DJ)</i>. Genre: electro house
-- Robert Miles <i>(DJ)</i>. Genre: dream house
-- Meduza <i>(DJ band)</i>. Genre: house
-- Anyma <i>(DJ)</i>. Genre: progressive house
-- Merk & Kremont <i>(DJ duo)</i>. Genre: house
-- Daddy's Groove <i>(DJ band)</i>. Genre: house
-- Ludovico Einaudi <i>(composer)</i>. Genre: neoclassic
-- Luciano Pavarotti <i>(opera singer)</i>. Genre: opera / pop
+- 🇮🇹 Adriano Celentano <i>(singer)</i>. Genre: retro pop
+- 🇮🇹 Al Bano <i>(singer)</i>. Genre: retro pop
+- 🇮🇹 Eros Ramazzotti <i>(singer)</i>. Genre: pop
+- 🇮🇹 Luciano Pavarotti <i>(opera singer)</i>. Genre: opera / pop
+- 🇺🇳 Giuseppe Ottaviani <i>(DJ)</i>. Genre: trance
+- 🇺🇳 Benny Benassi <i>(DJ)</i>. Genre: electro house
+- 🇺🇳 Robert Miles <i>(DJ)</i>. Genre: dream house
+- 🇺🇳 Meduza <i>(DJ band)</i>. Genre: house
+- 🇺🇳 Anyma <i>(DJ)</i>. Genre: progressive house
+- 🇺🇳 Merk & Kremont <i>(DJ duo)</i>. Genre: house
+- 🇺🇳 Daddy's Groove <i>(DJ band)</i>. Genre: house
+- 🇺🇳 Ludovico Einaudi <i>(composer)</i>. Genre: neoclassic
+
 
 <b>🎬 Local movies:</b>
 - Medici <i>(I Medici)</i>. Year: 2016-2019. Genres: historical drama (series)
