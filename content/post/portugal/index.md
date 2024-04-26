@@ -5,22 +5,22 @@ summary: Trip to Portugal
 
 gallery_item:
   - album: portugal
-    image: 1lisbon.jpg
+    image: 1lisbon.jpeg
     caption: City of Lisbon
   - album: portugal
-    image: 2gate.jpg
+    image: 2gate.jpeg
     caption: The Rua Augusta Arch (Lisbon)
   - album: portugal
-    image: 3castle.jpg
+    image: 3castle.jpeg
     caption: The Belém Tower 
   - album: portugal
-    image: 4cascais.jpg
+    image: 4cascais.jpeg
     caption: Palacio Seixas (Cascais)
   - album: portugal
-    image: 5pena.jpg
+    image: 5pena.jpeg
     caption: The Pena Palace (Sintra)
   - album: portugal
-    image: 6ba.jpg
+    image: 6ba.jpeg
     caption: Portuguese Bacalhau com natas
 ---
 Hej! I want to share an extract of my experience of visiting bright and contrasty Portugal. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
