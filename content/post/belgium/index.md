@@ -45,14 +45,14 @@ Hej! I want to share an extract of my experience of visiting beautiful ultifacet
     - Lehon Plein <i>(Lehon Plein / Lehon Plein)</i> 
 
 <b>🎧 Local musicians: </b>
-- Dimitri Vegas & Like Mike (DJ duo). Genre: big room
-- Netsky (DJ). Genre: drum'n'bass
-- Danzel (DJ). Genre: electro house
-- Stromae (singer). Genre: pop
-- Lara Fabian (singer). Genre: pop
-- Basto (DJ). Genre: progressive house
-- Lost Frequencies (DJ). Genre: pop
-- Charlotte de Witte (DJ). Genre: house 
+- 🇧🇪 Stromae (singer). Genre: pop
+- 🇧🇪 Lara Fabian (singer). Genre: pop
+- 🇺🇳 Dimitri Vegas & Like Mike (DJ duo). Genre: big room
+- 🇺🇳 Netsky (DJ). Genre: drum'n'bass
+- 🇺🇳 Danzel (DJ). Genre: electro house
+- 🇺🇳 Basto (DJ). Genre: progressive house
+- 🇺🇳 Lost Frequencies (DJ). Genre: pop
+- 🇺🇳 Charlotte de Witte (DJ). Genre: house 
 
 
 <b>🥘 Local food & drinks: </b>

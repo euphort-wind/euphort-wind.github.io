@@ -40,9 +40,9 @@ Hej! I want to share an extract of my experience of visiting the beautiful Ålan
 
 
 <b>🎧 Local musicians: </b>
-- Åland Islands Anthem <i>(Ålänningens sång)</i>. Genre: folk 
-- Julia Clara (singer). Genre: pop
-- Henrik Klingenberg (keytarist). Genre: metal
+- 🇦🇽 Åland Islands Anthem <i>(Ålänningens sång)</i>. Genre: folk 
+- 🇺🇳 Julia Clara (singer). Genre: pop
+- 🇺🇳 Henrik Klingenberg (keytarist). Genre: metal
 
 
 <b>🥘 Local food & drinks: </b>
