@@ -121,6 +121,16 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_start: '2024-04-15'
+          icon: cain
+          organization: Speaker, IEEE/ACM CAIN , Lisbon
+          organization_url: https://conf.researchr.org/home/cain-2024
+          title:  CAIN Conference 2024
+        - date_start: '2024-04-14'
+          icon: icse
+          organization: Participant, IEEE/ACM ICSE, Lisbon
+          organization_url: https://conf.researchr.org/home/icse-2024
+          title:  ICSE Conference 2024
         - date_start: '2024-03-27'
           icon: gaia
           organization: Participant, Artificial Intelligence Alliance, Gothenburg
