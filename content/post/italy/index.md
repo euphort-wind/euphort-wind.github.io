@@ -67,6 +67,8 @@ Hej! I want to share an extract of my experience of visiting magical Italy. I wa
 <b>🎧 Local musicians: </b>
 - 🇮🇹 Adriano Celentano <i>(singer)</i>. Genre: retro pop
 - 🇮🇹 Al Bano <i>(singer)</i>. Genre: retro pop
+- 🇮🇹 Toto Cutugno <i>(singer)</i>. Genre: retro pop
+- 🇮🇹 Pupo <i>(singer)</i>. Genre: retro pop
 - 🇮🇹 Eros Ramazzotti <i>(singer)</i>. Genre: pop
 - 🇮🇹 Luciano Pavarotti <i>(opera singer)</i>. Genre: opera / pop
 - 🇺🇳 Giuseppe Ottaviani <i>(DJ)</i>. Genre: trance

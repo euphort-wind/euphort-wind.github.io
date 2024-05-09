@@ -26,7 +26,7 @@ gallery_item:
 Hej! I want to share an extract of my life in charming Sweden. I was there in the autumn/winter of 2021 and live there since the spring of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Hönö, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Hönö, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -43,9 +43,9 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
     - Museum of fine art <i>(Goteborgs Konstmuseum)</i> 
     - Gothenburg Cathedral <i>(Göteborg Domkyrkan)</i>
     - Slottsskogen <i>(Slottsskogen Park)</i>
-    - Trädgårdsföreningen <i>(The Garden Society)</i>
+    - The Garden Society <i>(Trädgårdsföreningen)</i>
     - Gothenburg botanical garden <i>(Botaniska)</i>
-    - Brännö island <i>(Brännö)</i>
+    - Southern Gothenburg Archipelago <i>(Brännö, Styrsö och Donsö islands)</i>
 3. Mölndal
     - Gunnebo palace <i>(Gunnebo Slott Och Trädgårdar)</i>
     - Town museum <i>(Mölndals stadsmuseum)</i>
@@ -146,7 +146,7 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
 29. Borås
     - Main square <i>(Stora torget)</i>
     - Caroli church <i>(Caroli kyrkan)</i>
-    - The Textile Museum <i>(Textilmuseet)</i>
+    - The Textile museum <i>(Textilmuseet)</i>
 30. Falköping
     - Mösseberg's Park <i>(Mösseberg kurorten och parken)</i> 
     - The observation tower <i>(Mösseberg torn)</i> 
@@ -161,8 +161,11 @@ Hej! I want to share an extract of my life in charming Sweden. I was there in th
     - Vänersborg church <i>(Vänersborg kyrka)</i> 
     - Frida's statue <i>(Fridastatyn)</i>
 33. Lidköping
-    - Lidköping town hall<i>(Lidköpings rådhus)</i> 
+    - Lidköping town hall <i>(Lidköpings rådhus)</i> 
     - St. Nicolai church <i>(S:t Nicolai kyrka)</i> 
+34. Stenungsund
+    - Stenungsund chapel <i>(Stenungsunds kapell)</i> 
+    - Stenungsund port <i>(Stenungsund hamn)</i> 
 
 <b>🎧 Local musicians: </b>
 - 🇸🇪 Tomas Ledin (singer). Genre: pop
