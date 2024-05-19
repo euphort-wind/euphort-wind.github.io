@@ -69,17 +69,20 @@ Hej! I want to share an extract of my experience of visiting bright and contrast
 - Caldo Verde Soup <i>(Caldo verde)</i>
 - Bifana Sandwich <i>(Bifana)</i>
 - Salt Cod Croquettes <i>(Pastéis de Bacalhau)</i>
-- Port wine <i>(Vinho do Porto)</i>
 - Grilled Sardines <i>(Sardinhas Assadas)</i>
 - Portuguese Stew <i>(Cozido)</i>
-- Cod with Double Cream <i>(Bacalhau com natas)</i>
+- Cod with Double Cream <i>(Bacalhau com Natas)</i>
 - Serra da Estrela Cheese <i>(Queijo Serra da Estrela)</i>
 - Portuguese-style Octopus <i>(Polvo Grelhado)</i>
+- Port Wine <i>(Brand: "Ferreira")</i>
+- Portuguese Beer <i>(Brands: "Super Bock", "Sagres")</i>
+- Green Wine <i>(Brand: "Muralhas Vinho Verde")</i>
+
 
 <b>🎬 Local movies:</b>
--  A Sublime Life <i>(Uma Vida Sublime)</i>. Year: 2018. Genre: Thriller / Drama
--  Ice Merchants <i>(Ice Merchants)</i>. Year: 2022. Genre: Short
--  Momentos <i>(Momentos)</i>. Year: 2010. Genre: Short
+-  A Sublime Life <i>(Uma Vida Sublime)</i>. Year: 2018. Genre: thriller / drama
+-  Ice Merchants <i>(Ice Merchants)</i>. Year: 2022. Genre: short
+-  Momentos <i>(Momentos)</i>. Year: 2010. Genre: short
 <br>
 
 <b>🦉 Local wisdom:</b> "If horseshoes brought luck, donkeys wouldn't pull carts" / <i>"Se ferradura trouxesse sorte, burro não puxava carroça"</i> — Portuguese proverb

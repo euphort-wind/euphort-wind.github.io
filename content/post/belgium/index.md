@@ -23,7 +23,7 @@ gallery_item:
     image: 6mussels.jpeg
     caption: Belgian Moules Frites
 ---
-Hej! I want to share an extract of my experience of visiting beautiful ultifaceted Belgium. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting beautiful ultifaceted Belgium. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Brussels, Saint-Josse-ten-Noode, Schaerbeek.<br>
@@ -32,15 +32,15 @@ Hej! I want to share an extract of my experience of visiting beautiful ultifacet
 1. Brussels
     - Grand Square <i>(Grand-Place / Grote Markt)</i>
     - Manneken Pis <i>(Petit Julien / Manneken Pis)</i>
-    - The Palace of Justice <i>(Palais royal de Bruxelles / Koninklijk Paleis van Brussel)</i>
+    - The Palace of Justice <i>(Palais de Justice de Bruxelles / Justitiepaleis van Brussel)</i>
     - Egmont Park <i>(Parc Egmont / Egmontpark)</i>
-    - The Royal Palace of Brussels & Royal Park <i>(Palais royal de Bruxelles / Koninklijk Paleis van Brussel)</i>
+    - The Royal Palace of Brussels & Royal Park <i>(Palais Royal de Bruxelles / Koninklijk Paleis van Brussel)</i>
     - The Cathedral of St. Michael and St. Gudula <i>(Cathédrale Saints-Michel-et-Gudule / Kathedraal van Sint-Michiel en Sint-Goedele)</i>
 2.  Saint-Josse-ten-Noode
     - Saint-Josse-ten-Noode City Hall <i>(Mairie de Saint-Josse-ten-Noode / Gemeentehuis van Sint-Joost-ten-Node)</i>
-    - The Botanical Garden <i>(Jardin botanique / Kruidtuin)</i>
+    - The Botanical Garden <i>(Jardin Botanique / Kruidtuin)</i>
 3.  Schaerbeek 
-    - Schaerbeek City Hall <i>(Hôtel communal / Gemeentehuis)</i>
+    - Schaerbeek City Hall <i>(Hôtel Communal / Gemeentehuis)</i>
     - Saint Mary's Royal Church <i>(Église Royale Sainte-Marie / Koninklijke Sint-Mariakerk)</i> 
     - Lehon Plein <i>(Lehon Plein / Lehon Plein)</i> 
 
@@ -57,21 +57,20 @@ Hej! I want to share an extract of my experience of visiting beautiful ultifacet
 
 <b>🥘 Local food & drinks: </b>
 - Mussels'n'Fries <i>(Moules-frites / Mosselen-friet)</i>
-- Belgian Chocolate & Pralines <i>(Praliné au chocolat / Chocolade praliné)</i>
-- Belgian Beer <i>(Stella Artois / Jupiler / Blue Moon / Leffe / Delirium)</i>
-- Belgian Waffles <i>(Gauffres belges / Belgische wafels)</i>
-
+- Belgian Chocolate & Pralines <i>(Praliné au Chocolat / Chocolade Praliné)</i>
+- Belgian Waffles <i>(Gauffres Belges / Belgische Wafels)</i>
+- Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Blue Moon", "Leffe", "Delirium", "St. Bernardus")</i>
 
 
 <b>🎬 Local movies:</b>
-- Mr. Nobody <i>(Mr. Nobody)</i>. Year: 2009. Genre: Thriller / Fantasy
-- In Bruges <i>(In Bruges)</i>. Year: 2008. Genre: Drama / Comedy / Thriller
-- Zillion <i>(Zillion)</i>. Year: 2022. Genre: Thriller
-- Loft <i>(Loft)</i>. Year: 2008. Genre: Thriller 
-- Ben X <i>(Ben X))</i>. Year: 2007. Genre: Thriller 
+- Mr. Nobody <i>(Mr. Nobody)</i>. Year: 2009. Genre: thriller / fantasy
+- In Bruges <i>(In Bruges)</i>. Year: 2008. Genre: drama / thriller
+- Zillion <i>(Zillion)</i>. Year: 2022. Genre: thriller
+- Loft <i>(Loft)</i>. Year: 2008. Genre: thriller 
+- Ben X <i>(Ben X))</i>. Year: 2007. Genre: thriller 
 <br>
 
-<b>🦉 Local wisdom:</b> "Si tu veux du beurre, il en faut battre / Als je boter wilt, moet je het kloppen." / <i>"If you want butter, you have to beat it."</i> — Belgian proverb
+<b>🦉 Local wisdom:</b> "If you want butter, you have to beat it" / "<i>Si tu veux du beurre, il en faut battre / Als je boter wilt, moet je het kloppen</i>" — Belgian proverb
 
 <b>👨‍🎓The oldest university:</b> <a href = "https://www.kuleuven.be/english/kuleuven/index.html" target="_blank">The Catholic University of Leuven </a> <i>(Katholieke Universiteit Leuven)</i>, Leuven, est. 1425. 
 
