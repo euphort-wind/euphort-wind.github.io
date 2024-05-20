@@ -58,7 +58,7 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
 
 
 <b>🎬 Local movies:</b>
--  Leonidas and the Fish <i>(Ο Λεωνίδας και το Ψάρι)</i>. Year: 2021. Genre: short
+-  Leonidas and the Fish <i>(Ο Λεωνίδας και το Ψάρι)</i>. Year: 2021. Genre: short / drama
 
 
 <b>🪔 Authentic artifacts:</b>

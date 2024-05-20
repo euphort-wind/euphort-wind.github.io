@@ -24,7 +24,7 @@ gallery_item:
     caption: Butter chicken (Murgh Makhani)
 
 ---
-Hej! I want to share an extract of my experience of visiting contrasting and spectacular India. I was there in the spring of 2014. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting contrasting and spectacular India. I was there in the spring of 2014. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Candolim, Vijayapura, Badami.<br>
@@ -45,29 +45,42 @@ Hej! I want to share an extract of my experience of visiting contrasting and spe
 
 <b>🎧 Local musicians: </b>
 - 🇮🇳 A. R. Rahman <i>(composer/singer)</i>. Genre: indian film pop
-- 🇮🇳 Panjabi MC <i>(DJ)</i>. Genre: bhangra
+- 🇮🇳 Panjabi MC <i>(DJ)</i>. Genre: bhangra music
 - 🇮🇳 Rashmeet Kaur <i>(singer)</i>. Genre: pop
 - 🇺🇳 KSHMR <i>(DJ)</i>. Genre: electro house
 
+
 <b>🥘 Local food & drinks: </b>
 - Curry <i>(करी)</i>
-- Butter chicken <i>(बटर चिकन)</i>
+- Butter Chicken <i>(बटर चिकन)</i>
 - Mukhwas <i>(मुखवास)</i>
-- Lamb korma <i>(मेमने कोरमा)</i>
-- Indian buffalo steak <i>(भारतीय भैंस स्टेक)</i>
+- Lamb Korma <i>(मेमने कोरमा)</i>
+- Indian Buffalo Steak <i>(भारतीय भैंस स्टेक)</i>
 - Naan <i>(नान)</i>
 
 
 <b>🎬 Local movies:</b>
-- Bollywood movies <i>(बॉलीवुड फिल्में)</i>. Year: since 1913. Genres: all
-- Slumdog Millionaire <i>(स्लमडॉग करोड़पती)</i>. Year: 2008. Genres: Drama
-- Shantaram <i>(शांताराम)</i>. Year: 2022. Genres: Drama (series)
+- Slumdog Millionaire <i>(स्लमडॉग करोड़पती)</i>. Year: 2008. Genres: drama
+- Shantaram <i>(शांताराम)</i>. Year: 2022. Genres: drama (series)
 <br>
+
+
+<b>🪔 Authentic artifacts:</b>
+- Hinduism & Dharma <i>(हिन्दू धर्म)</i>
+- Yoga <i>(योग)</i>
+- Sanskrit <i>(संस्कृतम्)</i>
+- Holi <i>(होली)</i>
+- Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
+- Bharatanatyam Dance <i>(भरतनाट्यम)</i>
+- Bhangra <i>(भांगड़ा)</i>
+
 
 <b>🦉 Local wisdom:</b> "It is health which is our true wealth, the value of gold and silver is nothing in comparison to it." / "<i>यह स्वास्थय ही है जो हमारा सही धन है, सोने और चांदी का मूल्य इसके सामने कुछ नहीं।
 </i>" — Mahatma Gandhi (Indian independence activist)
 
+
 <b>👨‍🎓The oldest university:</b> <a href = "https://www.caluniv.ac.in/" target="_blank">The University of Calcutta</a> <i>(কলকাতা বিশ্ববিদ্যালয়)</i>, Kolkata, est. 1857. 
+
 
 {{< gallery album="india" crop_options="150x150" >}}
    

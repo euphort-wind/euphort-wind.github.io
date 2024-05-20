@@ -24,7 +24,7 @@ gallery_item:
     caption: Pasta Carbonara & Pizza Quattro Formaggi
 
 ---
-Hej! I want to share an extract of my experience of visiting magical Italy. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting magical Italy. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Rome, Pisa, Florence, Bologna, Rimini.<br>
@@ -41,28 +41,29 @@ Hej! I want to share an extract of my experience of visiting magical Italy. I wa
     - The Pantheon <i>(Pantheon)</i>
     - The Trevi Fountain <i>(Fontana di Trevi)</i>
     - The Spanish Steps <i>(Scalinata di Trinità dei Monti)</i>
-    - Colle Oppio park <i>(Parco di Colle Oppio)</i>
+    - Colle Oppio Park <i>(Parco di Colle Oppio)</i>
     - The Lateran Basilica & Laternan Obelisk <i>(Archbasilica & Tekhen Waty)</i>
 2. Pisa 
     - The Leaning Tower of Pisa & Miracoli Square <i>(Torre pendente di Pisa & Piazza dei Miracoli)</i>
-    - Knights’ Square <i>(Piazza dei Cavalieri )</i>
-    - Mezzo bridge <i>(Ponte di Mezzo)</i>
+    - Knights’ Square <i>(Piazza dei Cavalieri)</i>
+    - Mezzo Bridge <i>(Ponte di Mezzo)</i>
 3. Florence
     - Florence Cathedral <i>(Duomo di Firenze)</i>
     - Signoria Square <i>(Piazza della Signoria)</i>
-    - The Ponte Vecchio bridge <i>(The Ponte Vecchio)</i>
+    - The Ponte Vecchio Bridge <i>(The Ponte Vecchio)</i>
     - Michelangelo Square <i>(Piazzale Michelangelo)</i>
 4. Bologna
     - Maggiore Square <i>(Piazza Maggiore)</i>
     - D'Accursio Palace <i>(Palazzo d'Accursio)</i>
     - Michelangelo Square <i>(Piazzale Michelangelo)</i>
     - The Archiginnasium of Bologna <i>(Archiginnasio)</i>
-    - The Two Towers <i>(Le due torri)</i>
+    - The Two Towers <i>(Le Due Torri)</i>
 5. Rimini
     - The Tiberius Bridge <i>(Ponte di Tiberio)</i>
     - The Arch of Augustus <i>(Arco d'Augusto)</i>
     - Malatesta Temple <i>(Tempio Malatestiano)</i>
     - Tre Martiri Square <i>(Piazza Tre Martiri)</i>
+
 
 <b>🎧 Local musicians: </b>
 - 🇮🇹 Adriano Celentano <i>(singer)</i>. Genre: retro pop
@@ -71,6 +72,7 @@ Hej! I want to share an extract of my experience of visiting magical Italy. I wa
 - 🇮🇹 Pupo <i>(singer)</i>. Genre: retro pop
 - 🇮🇹 Eros Ramazzotti <i>(singer)</i>. Genre: pop
 - 🇮🇹 Luciano Pavarotti <i>(opera singer)</i>. Genre: opera / pop
+- 🇺🇳 Effel 65 <i>(band)</i>. Genre: eurodance
 - 🇺🇳 Giuseppe Ottaviani <i>(DJ)</i>. Genre: trance
 - 🇺🇳 Benny Benassi <i>(DJ)</i>. Genre: electro house
 - 🇺🇳 Robert Miles <i>(DJ)</i>. Genre: dream house
@@ -84,11 +86,12 @@ Hej! I want to share an extract of my experience of visiting magical Italy. I wa
 <b>🎬 Local movies:</b>
 - Medici <i>(I Medici)</i>. Year: 2016-2019. Genres: historical drama (series)
 - The Place <i>(The Place)</i>. Year: 2017. Genres: thriller
-- The Best Offer <i>(La migliore offerta)</i>. Year: 2013. Genres: thriller
-- Perfect Strangers <i>(Perfetti sconosciuti)</i>. Year: 2016. Genres: drama
+- The Best Offer <i>(La migliore Offerta)</i>. Year: 2013. Genres: thriller
+- Perfect Strangers <i>(Perfetti Sconosciuti)</i>. Year: 2016. Genres: drama
 - Youth <i>(Youth)</i>. Year: 2015. Genres: drama
-- The Great Beauty <i>(La grande bellezza )</i>. Year: 2013. Genres: drama
-- The First Day of My Life <i>(Il primo giorno della mia vita)</i>. Year: 2023. Genres: drama
+- The Great Beauty <i>(La Grande Bellezza)</i>. Year: 2013. Genres: drama
+- The First Day of My Life <i>(Il Primo Giorno della Mia Vita)</i>. Year: 2023. Genres: drama
+
 
 <b>🥘 Local food & drinks: </b>
 - Meat Products <i>(Carpaccio, Bresaola, Mortadella, Prosciutto, Salami, etc.)</i>
@@ -97,23 +100,28 @@ Hej! I want to share an extract of my experience of visiting magical Italy. I wa
 - Pizza <i>(Quattro Formaggi, Margherita, Capricciosa, etc.)</i>
 - Italian Coffee Drinks <i>(Cappucino, Latte, etc.)</i>
 - Bruschetta <i>(Bruschetta)</i>
-- Panini sandwich <i>(Panino)</i>
+- Panini <i>(Panino)</i>
 - Risotto <i>(Risotto)</i>
 - Frittata <i>(Frittata)</i>
 - Pesto sauce <i>(Pesto)</i>
-- Florentine Steak <i>(Bistecca alla fiorentina)</i>
+- Florentine Steak <i>(Bistecca alla Fiorentina)</i>
 - Saltimbocca <i>(Saltimbocca)</i>
-- Ossobuco <i>(Osso buco)</i>
+- Ossobuco <i>(Osso Buco)</i>
 - Lasagna <i>(Lasagna)</i>
 - Panna Cotta <i>(Panna Cotta)</i>
 - Tiramisu <i>(Tiramisu)</i>
 - Cannoli <i>(Cannoli)</i>
 - Rice Cake <i>(Torta di Riso)</i>
+- Limoncello <i>(Brand: "Pallini")</i> 
+- Vermouth <i>(Brand: "Martini")</i> 
+- Italian Liqueurs <i>(Brands: "Campari", "Aperol")</i> 
 
 
 <b>🦉 Local wisdom:</b> "He who leaves the old path for the new knows what he leaves, and does not know what he finds"  / "<i>Chi lascia la via vecchia per la nuova, sa quel che lascia, e non sa quel che trova</i>" — Italian proverb
 
+
 <b>👨‍🎓The oldest university:</b> <a href = "https://www.unibo.it/en/homepage" target="_blank">The University of Bologna</a> <i>(Alma Mater Studiorum – Università di Bologna)</i>, Bologna, est. 1088. 
+
 
 {{< gallery album="italy" crop_options="150x150" >}}
    

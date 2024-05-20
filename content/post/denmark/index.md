@@ -63,7 +63,7 @@ Hej! I share an extract of my experience of visiting marvelous Denmark. I was th
 - Open-faced Sandwich <i>(Smørrebrød)</i>
 - Danish Fried Pork <i>(Stegt Flæsk)</i>
 - Danish Pastry <i>(Wienerbrød)</i>
-- Local Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
+- Danish Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
 
 
 <b>🎬 Local movies:</b>
