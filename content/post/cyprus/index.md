@@ -23,7 +23,7 @@ gallery_item:
     image: 6cheese.jpg
     caption: Cyprus Grilled Halloumi 
 ---
-Hej! I want to share an extract of my experience of visiting impressive Cyprus. I was there in the summer of 2016. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting impressive Cyprus. I was there in the summer of 2016. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Ayia Napa, Lefkara, Kakopetria, Limassol.<br>
@@ -32,11 +32,11 @@ Hej! I want to share an extract of my experience of visiting impressive Cyprus. 
 1. Ayia Napa
     - Cape Greco National Forest Park <i>(Κάβο Γκρέκο)</i>
     - Ayia Napa Square <i>(Πλατεία Αγίας Νάπας)</i>
-    - Ayia Napa beaches <i>(Παραλίες Αγίας Νάπας)</i>
-    - Ayia Napa night clubs <i>(Νυχτερινά κέντρα Αγίας Νάπας)</i>
+    - Ayia Napa Beaches <i>(Παραλίες Αγίας Νάπας)</i>
+    - Ayia Napa Night Clubs <i>(Νυχτερινά κέντρα Αγίας Νάπας)</i>
 2. Lefkara
     - The Church Of Holy Cross <i>(Εκκλησία του Τιμίου Σταυρού)</i>
-    - Lefkara square <i>(Πλατεία Λευκάρων)</i>
+    - Lefkara Square <i>(Πλατεία Λευκάρων)</i>
     - Holy Church of Archangel Michael <i>(Ιερός Ναός Αρχαγγέλου Μιχαήλ)</i>
 3. Kakopetria
     - The Old Kakopetria <i>(Παλιά Κακοπετριά)</i>
@@ -45,22 +45,33 @@ Hej! I want to share an extract of my experience of visiting impressive Cyprus. 
     - Limassol Promenade <i>(Περιπάτου Λεμεσού)</i>
     - Limassol Beaches <i>(Παραλίες Λεμεσού)</i>
 
+
 <b>🎧 Local musicians: </b>
 - 🇺🇳 Eric Alamango (DJ). Genre: pop
+
 
 <b>🥘 Local food & drinks: </b>
 - Halloumi Cheese <i>(Τυρί χαλούμι)</i>
 - Souvlaki <i>(Σουβλάκι)</i>
 - Cyprus Village Salad <i>(Κύπρος Χωριάτικη Σαλάτα)</i>
-- Zivania <i>(Ζιβανία)</i>
+- Zivania <i>(Brand: Zivania LOEL)</i>
+
 
 <b>🎬 Local movies:</b>
--  Leonidas and the Fish <i>(Ο Λεωνίδας και το Ψάρι)</i>. Year: 2021. Genre: Short
-<br>
+-  Leonidas and the Fish <i>(Ο Λεωνίδας και το Ψάρι)</i>. Year: 2021. Genre: short
 
-<b>🦉 Local wisdom:</b> "Some live by the effort and others live by the way" / <i>"Άλλοι ζιούσιν με τον κόπον κι άλλοι ζιούσιν με τον τρόπον"</i> — Cypriot proverb
+
+<b>🪔 Authentic artifacts:</b>
+- Worry Beads <i>(Кομπολόι)</i>
+- The Laouto <i>(Λαούτο)</i>
+- Lefkara Lace <i>(Δαντέλα Λεύκαρα)</i>
+
+
+<b>🦉 Local wisdom:</b> "Some live by the effort and others live by the way" / "<i>Άλλοι ζιούσιν με τον κόπον κι άλλοι ζιούσιν με τον τρόπον</i>" — Cypriot proverb
+
 
 <b>👨‍🎓The oldest university:</b> <a href = "https://euc.ac.cy/en/" target="_blank">The European University Cyprus</a> <i>(Ευρωπαϊκό Πανεπιστήμιο Κύπρου)</i>, Engomi, est. 1961.  
+
 
 {{< gallery album="cyprus" crop_options="150x150" >}}
    

@@ -53,11 +53,18 @@ Hej! I share an extract of my experience of visiting the beautiful Ålands. I wa
 
 <b>🎬 Local movies:</b>
 - Devil's Bride <i>(Tulen Morsian)</i>. Year: 2016. Genre: horror / drama
-<br>
+
+
+<b>🪔 Authentic artifacts:</b>
+- Åland Shipping <i>(Ålands Sjöfart)</i>
+- The Lilla Jul <i>(Lilla Jul)</i>
+
 
 <b>🦉 Local wisdom:</b> "Adventure is not something we need to look for. It's exciting enough to live" / "<i>Äventyr är inte något vi behöver leta efter. Det är ju tillräckligt spännande att leva</i>" — AnneAnka (<a href = "https://www.pernillalindroos.com/" target="_blank">Pernilla Lindroos</a>)
 
+
 <b>👨‍🎓The oldest university:</b> <a href = "https://www.ha.ax/en/" target="_blank">Åland University of Applied Sciences</a> <i>(Högskolan på Åland)</i>, Mariehamn, est. 2003. 
+
 
 {{< gallery album="aland" crop_options="150x150" >}}
    

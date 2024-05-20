@@ -23,28 +23,30 @@ gallery_item:
     image: 6stegt.jpg
     caption: Danish Stegt Flæsk 
 ---
-Hej! I want to share an extract of my experience of visiting marvelous Denmark. I was there in the autumn of 2021, summer of 2023 and autumn of 2023. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting marvelous Denmark. I was there in the autumn of 2021, summer of 2023 and autumn of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Copenhagen, Helsingør, Frederikshavn, Sæby. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Copenhagen
-    - New harbour <i>(Nyhavn)</i>
-    - The Little Mermaid statue <i>(Den Lille Havfrue)</i>
-    - Amalienborg Castle <i>(Amalienborg slott)</i>
-    - Rosenborg Castle <i>(Rosenborg slot)</i>
-    - Christiansborg Castle <i>(Christiansborg slot)</i>
+    - The New Harbour <i>(Nyhavn)</i>
+    - The Little Mermaid Statue <i>(Den Lille Havfrue)</i>
+    - Amalienborg Castle <i>(Amalienborg Slot)</i>
+    - Rosenborg Castle <i>(Rosenborg Slot)</i>
+    - Christiansborg Castle <i>(Christiansborg Slot)</i>
     - The Round Tower <i>(Rundetaarn)</i>
     - The Opera <i>(Operaen)</i>
 2. Helsingør
     - Kronborg Castle <i>(Kronborg Slot)</i>
     - Helsingør Centre <i>(Helsingør Centrum)</i>
 3. Frederikshavn
-    - Gunpowder tower <i>(Krudttårnet)</i> 
-    - Frederikshavn square <i>(Frederikshavn torv)</i> 
+    - Gunpowder Tower <i>(Krudttårnet)</i> 
+    - Frederikshavn Square <i>(Frederikshavn Torv)</i> 
 4. Sæby
     - Old Sæby <i>(Gamle Sæby)</i>
+    - Mini Sæby <i>(Minibyen Sæby)</i>
+
 
 <b>🎧 Local musicians: </b>
 - 🇩🇰 Kim Larsen (singer). Genre: retro-pop
@@ -56,21 +58,30 @@ Hej! I want to share an extract of my experience of visiting marvelous Denmark. 
 - 🇺🇳 Aqua (band). Genre: pop
 - 🇺🇳 MØ (singer). Genre: pop
 
+
 <b>🥘 Local food & drinks: </b>
-- Open-faced sandwich <i>(Smørrebrød)</i>
-- Danish fried pork <i>(Stegt flæsk)</i>
-- Local beer <i>(Carlsberg, Tuborg)</i>
-- Danish pastry <i>(Wienerbrød)</i>
+- Open-faced Sandwich <i>(Smørrebrød)</i>
+- Danish Fried Pork <i>(Stegt Flæsk)</i>
+- Danish Pastry <i>(Wienerbrød)</i>
+- Local Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
+
 
 <b>🎬 Local movies:</b>
-- The Hunt <i>(Jagten)</i>. Year: 2012. Genre: Drama/Criminal
-- Another Round <i>(Druk)</i>. Year: 2020. Genre: Drama/Comedy
-- Riders of Justice <i>(Retfærdighedens Ryttere)</i>. Year: 2020. Genre: Action/Comedy
-- Dogville <i>(Dogville)</i>. Year: 2003. Genre: Crime/Thriller
-- The Keeper of Lost Causes <i>(Kvinden i buret)</i>. Year: 2013. Genre: Crime/Thriller
+- The Hunt <i>(Jagten)</i>. Year: 2012. Genre: drama / criminal
+- Another Round <i>(Druk)</i>. Year: 2020. Genre: drama / comedy
+- Riders of Justice <i>(Retfærdighedens Ryttere)</i>. Year: 2020. Genre: action / comedy
+- Dogville <i>(Dogville)</i>. Year: 2003. Genre: crime / thriller
+- The Keeper of Lost Causes <i>(Kvinden i Buret)</i>. Year: 2013. Genre: crime / thriller
 <br>
 
+
+<b>🪔 Authentic artifacts:</b>
+- Danish Hygge <i>(Hygge)</i>
+- Danish Easter Letters <i>(Gækkebreve)</i>
+
+
 <b>🦉 Local wisdom:</b> "Many small streams make a big river" / "<i>Mange bække små gør en stor å</i>" — Danish proverb
+
 
 <b>👨‍🎓The oldest university:</b> <a href = "https://www.ku.dk/english" target="_blank">The University of Copenhagen</a> <i>(Københavns Universitet)</i>, Copenhagen, est. 1479.  
 

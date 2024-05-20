@@ -44,6 +44,7 @@ Hej! I share an extract of my experience of visiting beautiful ultifaceted Belgi
     - Saint Mary's Royal Church <i>(Église Royale Sainte-Marie / Koninklijke Sint-Mariakerk)</i> 
     - Lehon Plein <i>(Lehon Plein / Lehon Plein)</i> 
 
+
 <b>🎧 Local musicians: </b>
 - 🇧🇪 Stromae (singer). Genre: pop
 - 🇧🇪 Lara Fabian (singer). Genre: pop
@@ -68,11 +69,19 @@ Hej! I share an extract of my experience of visiting beautiful ultifaceted Belgi
 - Zillion <i>(Zillion)</i>. Year: 2022. Genre: thriller
 - Loft <i>(Loft)</i>. Year: 2008. Genre: thriller 
 - Ben X <i>(Ben X))</i>. Year: 2007. Genre: thriller 
-<br>
+
+
+<b>🪔 Authentic artifacts:</b>
+- The Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
+- Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
+- The Friterie Culture <i>(Frituur / Frietkot)</i>
+
 
 <b>🦉 Local wisdom:</b> "If you want butter, you have to beat it" / "<i>Si tu veux du beurre, il en faut battre / Als je boter wilt, moet je het kloppen</i>" — Belgian proverb
 
+
 <b>👨‍🎓The oldest university:</b> <a href = "https://www.kuleuven.be/english/kuleuven/index.html" target="_blank">The Catholic University of Leuven </a> <i>(Katholieke Universiteit Leuven)</i>, Leuven, est. 1425. 
+
 
 {{< gallery album="belgium" crop_options="150x150" >}}
    
