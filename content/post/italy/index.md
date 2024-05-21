@@ -114,7 +114,20 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 - Rice Cake <i>(Torta di Riso)</i>
 - Limoncello <i>(Brand: "Pallini")</i> 
 - Vermouth <i>(Brand: "Martini")</i> 
-- Italian Liqueurs <i>(Brands: "Campari", "Aperol")</i> 
+- Italian Liqueur <i>(Brands: "Campari", "Aperol")</i> 
+
+
+<b>🪔 Authentic artifacts:</b>
+- La Dolce Vita <i>(La Dolce Vita)</i> 
+- Ancient Roman Architecture <i>(Architettura Romana Antica)</i> 
+- Ancient Roman Garb <i>(Abito Romano Antico)</i> 
+- Ancient Roman Roads <i>(Antiche Strade Romane)</i> 
+- Italian Folk Music <i>(Musica Popolare italiana)</i> 
+- Latin Alphabet <i>(Alfabeto Latino)</i> 
+- The Renaissance Cultural Movement <i>(Il Movimento Culturale Rinascimentale)</i> 
+- The Tarantella Dance <i>(Tarantella)</i> 
+- Italian Fashion <i>(Brands: "Gucci", "Prada", "Versage" etc.)</i> 
+- Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT" etc.)</i> 
 
 
 <b>🦉 Local wisdom:</b> "He who leaves the old path for the new knows what he leaves, and does not know what he finds"  / "<i>Chi lascia la via vecchia per la nuova, sa quel che lascia, e non sa quel che trova</i>" — Italian proverb

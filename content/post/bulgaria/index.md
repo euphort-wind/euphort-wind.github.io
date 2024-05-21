@@ -72,7 +72,7 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 - Kebapche <i>(Кебапче)</i>
 - Kyufte <i>(Кюфте)</i>
 - Deep fried sprats / Tsatsa <i>(Цаца)</i>
-- Sour Milk Drink / Ayran <i>(Айрян)</i>
+- Ayran <i>(Айрян)</i>
 - Bulgarian Beer <i>(Brands: "Zagorka", "Burgasko", "Pirinsko")</i>
 - Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
 
@@ -86,7 +86,6 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 - Bulgarian National Garb <i>(Българското Народно Облекло)</i>
 - Bulgarian Horo Dance <i>(Хоро)</i>
 - The Rose Festival <i>(Празник на Розата)</i>
-
 
 <b>🦉 Local wisdom:</b> "The new broom sweeps cleanly, but the old one knows the corners" / "<i>Новата метла чисто мете, но старата пък знае ъглите</i>" — Bulgarian proverb
 

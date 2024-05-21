@@ -66,6 +66,7 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 - Tzatziki <i>(Tζατζίκ)</i>
 - Avgolemono Soup <i>(Αυγολέμονο)</i>
 - Frappé Coffee <i>(Фραπέ)</i>
+- Greek Liqueur <i>(Brand: "Metaxa")</i> 
 
 
 <b>🎬 Local movies:</b>
@@ -80,11 +81,12 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
 - Ancient Greek Philosophy <i>(Αρχαία Ελληνική Φιλοσοφία)</i>
 - Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>
-- The Panegyric <i>(Πανηγυρικός)</i>
+- Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
 - The Meander <i>(Μαίανδρος)</i>
+- The Evil Eye <i>(Κακό Μάτι)</i>
 
 
-<b>🦉 Local wisdom:</b> "The one who lives will see, but the one who walks will see more." / "<i>Όποιος ζήσει θα ιδεί, μα όποιος περπατήσει θα ιδεί περισσότερα.</i>" — Greek proverb
+<b>🦉 Local wisdom:</b> "The one who lives will see, but the one who walks will see more" / "<i>Όποιος ζήσει θα ιδεί, μα όποιος περπατήσει θα ιδεί περισσότερα</i>" — Greek proverb
 
 
 <b>👨‍🎓The oldest university:</b> <a href = "https://en.uoa.gr/" target="_blank">The National and Kapodistrian University of Athens</a> <i>(Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών)</i>, Zografou, est. 1837.  

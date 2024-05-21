@@ -68,14 +68,12 @@ Hej! I share an extract of my experience of visiting beautiful ultifaceted Belgi
 - In Bruges <i>(In Bruges)</i>. Year: 2008. Genre: drama / thriller
 - Zillion <i>(Zillion)</i>. Year: 2022. Genre: thriller
 - Loft <i>(Loft)</i>. Year: 2008. Genre: thriller 
-- Ben X <i>(Ben X))</i>. Year: 2007. Genre: thriller 
-
+- Ben X <i>(Ben X)</i>. Year: 2007. Genre: thriller 
 
 <b>🪔 Authentic artifacts:</b>
 - The Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
 - Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
 - The Friterie Culture <i>(Frituur / Frietkot)</i>
-
 
 <b>🦉 Local wisdom:</b> "If you want butter, you have to beat it" / "<i>Si tu veux du beurre, il en faut battre / Als je boter wilt, moet je het kloppen</i>" — Belgian proverb
 

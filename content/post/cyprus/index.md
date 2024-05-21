@@ -33,7 +33,7 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
     - Cape Greco National Forest Park <i>(Κάβο Γκρέκο)</i>
     - Ayia Napa Square <i>(Πλατεία Αγίας Νάπας)</i>
     - Ayia Napa Beaches <i>(Παραλίες Αγίας Νάπας)</i>
-    - Ayia Napa Night Clubs <i>(Νυχτερινά κέντρα Αγίας Νάπας)</i>
+    - Ayia Napa Night Clubs <i>(Νυχτερινά Κέντρα Αγίας Νάπας)</i>
 2. Lefkara
     - The Church Of Holy Cross <i>(Εκκλησία του Τιμίου Σταυρού)</i>
     - Lefkara Square <i>(Πλατεία Λευκάρων)</i>
@@ -54,7 +54,7 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
 - Halloumi Cheese <i>(Τυρί χαλούμι)</i>
 - Souvlaki <i>(Σουβλάκι)</i>
 - Cyprus Village Salad <i>(Κύπρος Χωριάτικη Σαλάτα)</i>
-- Zivania <i>(Brand: Zivania LOEL)</i>
+- Zivania <i>(Brand: "Zivania LOEL")</i>
 
 
 <b>🎬 Local movies:</b>
