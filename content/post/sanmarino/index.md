@@ -24,7 +24,7 @@ gallery_item:
     caption: Sammarinese Piadina
 
 ---
-Hej! I want to share an extract of my experience of visiting dreamlike San Marino. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting dreamlike San Marino. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> San Marino City.<br>
@@ -34,7 +34,8 @@ Hej! I want to share an extract of my experience of visiting dreamlike San Marin
     - The Liberty Square <i>(Piazza della Libertà)</i>
     - Crossbowmen Quarry <i>(Cava dei Balestrieri)</i>
     - The Basilica of Saint Marinus <i>(Basilica di San Marino)</i>
-    - The Cesta tower <i>(Torre della Fratta)</i>
+    - The Cesta Tower <i>(Torre della Fratta)</i>
+
 
 <b>🎧 Local musicians: </b>
 - 🇸🇲 Little Tony <i>(singer)</i>. Genre: retro
@@ -43,11 +44,18 @@ Hej! I want to share an extract of my experience of visiting dreamlike San Marin
 
 <b>🥘 Local food & drinks: </b>
 - Piadina <i>(Piada)</i>
-- Sammarinese wine <i>(Vino Sammarinese)</i>
 - Three Mountain Cake <i>(Torta Tre Monti)</i>
+- Sammarinese Red Wine <i>(Brand: "Castelli Sammarinesi")</i>
+
 
 <b>🎬 Local movies:</b>
-- San Marino Archive Footage <i>(Filmati d'archivio di San Marino)</i>. Year: 1950/1977. Genres: Archive Footage
+- San Marino Archive Footage <i>(Filmati d'archivio di San Marino)</i>. Year: 1950/1977. Genres: archive footage
+
+
+<b>🪔 Authentic artifacts:</b>
+- Three Towers of San Marino <i>(Tre Torri di San Marino)</i>
+- Legend of Saint Marinus <i>(Leggenda di San Marino)</i>
+
 
 <b>🦉 Local wisdom:</b> "An egg today is better than a chicken tomorrow"  / "<i>Meglio un uovo oggi che una gallina domani</i>" — Sammarinese proverb
 

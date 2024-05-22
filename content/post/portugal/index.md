@@ -56,7 +56,6 @@ Hej! I share an extract of my experience of visiting bright and contrasty Portug
     
 
 <b>🎧 Local musicians: </b>
-- 🇵🇹 Fado (music form). Genre: national
 - 🇵🇹 Kura (DJ). Genre: house
 - 🇵🇹 Os Quatro e Meia (band). Genre: pop
 - 🇵🇹 Diana Lima (singer). Genre: pop
@@ -75,7 +74,6 @@ Hej! I share an extract of my experience of visiting bright and contrasty Portug
 - Serra da Estrela Cheese <i>(Queijo Serra da Estrela)</i>
 - Portuguese-style Octopus <i>(Polvo Grelhado)</i>
 - Port Wine <i>(Brand: "Ferreira")</i>
-- Portuguese Beer <i>(Brands: "Super Bock", "Sagres")</i>
 - Green Wine <i>(Brand: "Muralhas Vinho Verde")</i>
 
 
@@ -84,6 +82,16 @@ Hej! I share an extract of my experience of visiting bright and contrasty Portug
 -  Ice Merchants <i>(Ice Merchants)</i>. Year: 2022. Genre: short
 -  Momentos <i>(Momentos)</i>. Year: 2010. Genre: short
 <br>
+
+
+<b>🪔 Authentic artifacts:</b>
+- The Fado Music <i>(Fado)</i>
+- Portuguese Guitar <i>(Guitarra Portuguesa)</i>
+- Portuguese Architecture <i>(A Arquitetura Portuguesa)</i> 
+- The Azulejo <i>(Azulejo)</i>
+- Portuguese Seamanship and Maritime Exploration <i>(Marinharia e Exploração Marítima)</i>    
+- Authentic Garb: Traje Portugues <i>(Traje Português)</i>
+- Lisbon Yellow Trams <i>(Eléctricos Amarelos de Lisboa)</i>
 
 <b>🦉 Local wisdom:</b> "If horseshoes brought luck, donkeys wouldn't pull carts" / <i>"Se ferradura trouxesse sorte, burro não puxava carroça"</i> — Portuguese proverb
 

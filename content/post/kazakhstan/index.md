@@ -81,7 +81,7 @@ Hej! I share an extract of my experience of visiting astonishing Kazakhstan. I w
 - Authentic Garb: Shapan & Borik <i>(Шапан пен Борик)</i> 
 
 
-<b>🦉 Local wisdom:</b> "A united hundred is stronger than a divided thousand." / <i>"Біріккен жүз, бытыраңқы мыңды алады."</i> — Kazakh proverb
+<b>🦉 Local wisdom:</b> "A united hundred is stronger than a divided thousand" / <i>"Біріккен жүз, бытыраңқы мыңды алады"</i> — Kazakh proverb
 
 
 <b>👨‍🎓The oldest university:</b> <a href = "https://www.kaznpu.kz/en/" target="_blank">Abai Kazakh National Pedagogical University</a> <i>(Абай атындағы Қазақ ұлттық педагогикалық университеті)</i>, Almaty, est. 1928. 

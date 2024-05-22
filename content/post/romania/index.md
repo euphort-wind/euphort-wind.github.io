@@ -23,7 +23,7 @@ gallery_item:
     image: 6torch.jpg
     caption: Romanian Tochitură
 ---
-Hej! I want to share an extract of my experience of visiting fabulous Romania. I was there in the summer of 2023. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting fabulous Romania. I was there in the summer of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Bucharest, Sinaia, Bran. <br>
@@ -52,17 +52,27 @@ Hej! I want to share an extract of my experience of visiting fabulous Romania. I
 - 🇺🇳 Minelli (singer). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
-- Romanian stew <i>(Tochitură)</i>
-- Cabbage Rolls <i>(Sarmale)</i>
+- Romanian Stew / Tochitura <i>(Tochitură)</i>
+- Cabbage Rolls / Sarmale <i>(Sarmale)</i>
 - Romanian Soups <i>(Ciorba)</i>
-- Romanian polenta <i>(Mămăligă)</i>
+- Romanian Polenta <i>(Mămăligă)</i>
 
 <b>🎬 Local movies:</b>
-- The Death of Mr. Lazarescu <i>(Moartea domnului Lăzărescu)</i>. Year: 2005. Genre: Drama / Tragedy
+- The Death of Mr. Lazarescu <i>(Moartea Domnului Lăzărescu)</i>. Year: 2005. Genre: drama / tragedy
 
-<b>🦉 Local wisdom:</b> "The good man values goodness, as the bee values the flower." / "<i> Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea.</i>" — Romanian proverb
+
+<b>🪔 Authentic artifacts:</b>
+- The Culture of Romani <i>(Cultura Romani)</i>
+- Romanian Hora Dance <i>(Hora)</i>
+- Paparuda Ritual <i>(Păpăluga)</i> 
+- Authentic Garb: Caciula and Ie <i>(Căciulă si Ie)</i> 
+
+
+<b>🦉 Local wisdom:</b> "The good man values goodness, as the bee values the flower" / "<i> Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea</i>" — Romanian proverb
+
 
 <b>👨‍🎓The oldest university:</b> <a href = "https://www.uaic.ro/en/" target="_blank">The Alexandru Ioan Cuza University</a> <i>(Universitatea „Alexandru Ioan Cuza")</i>, Iași, est. 1640. 
+
 
 {{< gallery album="romania" crop_options="150x150" >}}
    

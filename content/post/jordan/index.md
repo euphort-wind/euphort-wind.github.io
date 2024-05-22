@@ -59,7 +59,7 @@ Hej! I share an extract of my experience of visiting ancient Jordan. I was there
 - The Culture of Jordanian Bedouins <i>(الثقافة البدوية الأردنية)</i> 
 
 
-<b>🦉 Local wisdom:</b> "The one who knocks on the door hears the answer." / "<i>إلي بدُق ع الباب بسمع الجواب</i>" — Jordanian proverb 
+<b>🦉 Local wisdom:</b> "The one who knocks on the door hears the answer" / "<i>إلي بدُق ع الباب بسمع الجواب</i>" — Jordanian proverb 
 
 
 <b>👨‍🎓The oldest university:</b> <a href = "https://ju.edu.jo/Home.aspx" target="_blank">The University of Jordan</a> <i>(الجامعة الأردنية)</i>, Amman, est. 1962. 
