@@ -66,7 +66,7 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 
 
 <b>🪔 Authentic artifacts:</b>
-- Ahimsa <i>(अहिंसा)</i>
+- Authentic Principle: Ahimsa <i>(अहिंसा)</i>
 - Hinduism & Dharma <i>(हिन्दू धर्म)</i>
 - Yoga <i>(योग)</i>
 - Sanskrit <i>(संस्कृतम्)</i>
@@ -74,6 +74,7 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 - Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
 - Bharatanatyam Dance <i>(भरतनाट्यम)</i>
 - Bhangra <i>(भांगड़ा)</i>
+- Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
 - Indian Cars <i>(Brand: "Mahindra")</i>
 
 

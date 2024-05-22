@@ -23,7 +23,7 @@ gallery_item:
     image: 6dish.jpg
     caption: Latvian Gray Peas with Bacon and Onion
 ---
-Hej! I want to share an extract of my experience of visiting magnificent Latvia. I was there in the winter of 2023. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting magnificent Latvia. I was there in the winter of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Riga, Jurmala, Tukums.<br>
@@ -31,20 +31,20 @@ Hej! I want to share an extract of my experience of visiting magnificent Latvia.
 <b>🏛 Top sights visited: </b>
 1. Riga
     - Old Riga <i>(Vecrīga)</i>
-    - House of the Blackheads <i>(Melngalvju nams)</i>
-    - Freedom monument <i>(Brīvības piemineklis)</i>
-    - Riga castle <i>(Rīgas pils)</i>
+    - House of the Blackheads <i>(Melngalvju Nams)</i>
+    - Freedom Monument <i>(Brīvības Piemineklis)</i>
+    - Riga Castle <i>(Rīgas Pils)</i>
 2. Jurmala
     - Dzintari Forest Park <i>(Dzintaru Mežaparks)</i>
     - Open-air Museum <i>(Jūrmala Brīvdabas Muzejs)</i>
 3. Tukums
-    - Tukuma evangelical lutheran church <i>(Tukuma evaņģēliski luteriskā baznīca)</i>
-    - Freedom square <i>(Brīvības laukums)</i>
-    - Harmony street <i>(Harmonijas iela)</i>
+    - Tukuma Evangelical Lutheran Church <i>(Tukuma Evaņģēliski Luteriskā Baznīca)</i>
+    - Freedom Square <i>(Brīvības Laukums)</i>
+    - Harmony Street <i>(Harmonijas Iela)</i>
 
 
 <b>🎧 Local musicians: </b>
-- 🇱🇻 Prāta Vētra (band). Genre: pop 
+- 🇱🇻 Prāta Vētra / Brainstorm (band). Genre: pop 
 - 🇱🇻 Antra Stafecka (singer). Genre: pop
 - 🇱🇻 Jumprava (band). Genre: retro-pop
 - 🇱🇻 Otra Puse (band). Genre: pop
@@ -52,17 +52,22 @@ Hej! I want to share an extract of my experience of visiting magnificent Latvia.
 
 
 <b>🥘 Local food & drinks: </b>
-- Latvian Gray Peas with bacon and onion <i>(Pelēkie zirņi)</i>
-- Riga Black balsam <i>(Rīgas Melnais balzams)</i>
-- Latvian black bread <i>(Rupjmaize)</i>
-- Riga smoked sprats
-- Latvian bread dessert <i>(Rupjmaizes kārtojums)</i>
-- Latvian porridge (Putra)
+- Latvian Gray Peas with Bacon and Onion <i>(Pelēkie zirņi)</i>
+- Latvian Black Bread <i>(Rupjmaize)</i>
+- Riga Smoked Sprats <i>(Rīgas Šprotes)</i>
+- Latvian Bread Dessert <i>(Rupjmaizes kārtojums)</i>
+- Latvian Porridge <i>(Putra)</i>
+- Latvian Balsam <i>(Brand: "Rīgas Melnais Balzams")</i>
 
 
 <b>🎬 Local movies:</b>
-- The Shot <i>(Nošāva)</i>. Year: 2019. Genre: Short / Comedy
-<br>
+- The Shot <i>(Nošāva)</i>. Year: 2019. Genre: short / comedy
+
+
+<b>🪔 Authentic artifacts:</b>
+- Latvian Vernacular Architecture <i>(Latviešu Tautas Arhitektūra)</i> 
+- Authentic Garb: Latvian Belt <i>(The Lielvārde Belt)</i> 
+- Latvian Christmas Eve <i>(Ziemassvētki)</i> 
 
 <b>🦉 Local wisdom:</b> "A tree does not fall after the first cut" / <i>"Koks nekrīt uz pirmā cirtiena"</i> — Latvian proverb
 

@@ -51,12 +51,12 @@ Hej! I share an extract of my experience of visiting ancient Jordan. I was there
 
 
 <b>🎬 Local movies:</b>
-- Captain Abu Raed <i>(كابتن أبو رائد)</i>. Year: 2007. Genres: Drama
+- Captain Abu Raed <i>(كابتن أبو رائد)</i>. Year: 2007. Genres: drama
 
 <b>🪔 Authentic artifacts:</b>
-- Jordanian Garb <i>(الدشداشة والتقية)</i> 
+- Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والتقية)</i> 
 - Ancient Jordanian Architecture <i>(العمارة الأردنية القديمة)</i> 
-- Jordanian Bedouin Culture <i>(الثقافة البدوية الأردنية)</i> 
+- The Culture of Jordanian Bedouins <i>(الثقافة البدوية الأردنية)</i> 
 
 
 <b>🦉 Local wisdom:</b> "The one who knocks on the door hears the answer." / "<i>إلي بدُق ع الباب بسمع الجواب</i>" — Jordanian proverb 

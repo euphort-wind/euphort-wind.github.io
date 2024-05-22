@@ -23,31 +23,32 @@ gallery_item:
     image: 6ashlyan.jpg
     caption: Kyrgyz Ash-lyanfu
 ---
-Hej! I want to share an extract of my experience of visiting majestic Kyrgyzstan. I was there in the summer of 2022. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was there in the summer of 2022. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Bishkek, Cholpon-Ata, Karakol, Issyk-kul lake.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Bishkek
-    - Ala-Too Square <i>(Ала-тоо аянты)</i>
-    - Victory Square <i>(Жеңиш чарчы)</i>
-    - Oak Park <i>(Эмен паркы)</i>
-    - Kyrgyz National Opera and Ballet Theatre <i>(Кыргыз улуттук опера жана балет театры)</i>
+    - Ala-Too Square <i>(Ала-тоо Аянты)</i>
+    - Victory Square <i>(Жеңиш Чарчы)</i>
+    - Oak Park <i>(Эмен Паркы)</i>
+    - Kyrgyz National Opera and Ballet Theatre <i>(Кыргыз Улуттук Опера жана Балет Театры)</i>
     - Dordoy Bazaar <i>(Дордой Базары)</i>
 2. Cholpon-ata
     - Ruh Ordo Cultural Center <i>(Рух Ордо)</i>
-    - Museum of Petroglyphs <i>(Петроглифтер музейи)</i>
-    - Cholpon-ata beaches <i>(Чолпон-Ата пляждары)</i>
+    - Museum of Petroglyphs <i>(Петроглифтер Музейи)</i>
+    - Cholpon-ata Beaches <i>(Чолпон-Ата Пляждары)</i>
 3. Karakol
-    - Holy Trinity Orthodox church <i>(Ыйык Троица православ чиркөөсү)</i>
-    - Dungan mosque <i>(Дунган мечити)</i>
+    - Holy Trinity Orthodox Church <i>(Ыйык Троица Православ Чиркөөсү)</i>
+    - Dungan Mosque <i>(Дунган Мечити)</i>
 4. Issyk-kul
-    - Skazka Canyon <i>(Сказка каньоны)</i>
-    - Barskoon Waterfall <i>(Барскоон шаркыратмасы)</i>
-    - Jeti-Ögüz Rocks <i>(Жети-Өгүз аскалары)</i>
-    - Grigoryevskoye gorge <i>(Чон-Ак-Суу)</i>
-    - Boz-Uchuk gorge <i>(Боз-Учук)</i>
+    - Skazka Canyon <i>(Сказка Каньоны)</i>
+    - Barskoon Waterfall <i>(Барскоон Шаркыратмасы)</i>
+    - Jeti-Ögüz Rocks <i>(Жети-Өгүз Аскалары)</i>
+    - Grigoryevskoye Gorge <i>(Чон-Ак-Суу)</i>
+    - Boz-Uchuk Gorge <i>(Боз-Учук)</i>
+
 
 <b>🎧 Local musicians: </b>
 - 🇰🇬 Mirbek Atabekov (singer). Genre: pop
@@ -57,19 +58,28 @@ Hej! I want to share an extract of my experience of visiting majestic Kyrgyzstan
 - 🇰🇬 Aya Sadyrova (singer). Genre: pop 
 - 🇰🇬 Talant 60'k (singer). Genre: pop 
 
+
 <b>🥘 Local food & drinks: </b>
-- Ash-lyanfu soup <i>(Аш-лянфу)</i>
-- Fresh horse milk <i>(Кымыз)</i>
+- Ash-lyanfu Soup <i>(Аш-лянфу)</i>
+- Fresh Horse Milk / Kymyz <i>(Кымыз)</i>
 - Laghman <i>(Лагман)</i>
 - Kuurdak <i>(Куурдак)</i>
-- Maksym drink <i>(Максым)</i>
-- Chalap drink <i>(Чалап)</i>
-- Aralash drink <i>(Аралаш)</i>
+- Maksym Drink <i>(Максым)</i>
+- Chalap Drink <i>(Чалап)</i>
+- Aralash Drink <i>(Аралаш)</i>
+
 
 <b>🎬 Local movies:</b>
--  Farewell <i>(Шамчырак)</i>. Year: 2012. Genre: Short / Drama
--  51+ <i>(51+)</i>. Year: 2020. Genre: Short / Drama
-<br>
+-  Farewell <i>(Шамчырак)</i>. Year: 2012. Genre: short / drama
+-  51+ <i>(51+)</i>. Year: 2020. Genre: short / drama
+
+
+<b>🪔 Authentic artifacts:</b>
+- The Epic of Manas <i>(Манас Дастаны)</i> 
+- Kyrgyz Yurts <i>(Кыргыз боз Yйлөрү)</i> 
+- The Culture of Nomads <i>(Көчмөндөрдүн Маданияты)</i> 
+- Authentic Garb: Ak-Kalpak and Beldemchi <i>(Ак-Калпак менен Белдемчи)</i> 
+
 
 <b>🦉 Local wisdom:</b> "The wolf cannot get enough of sheep, the ear cannot get enough of words, the mind cannot get enough of thoughts, the eye cannot get enough of seeing, the bird cannot get enough of flying." / <i>"Бөрү — койго тойбойт, кулак — сөзгө тойбойт, көңүл — ойго тойбойт, көз — көргөнгө тойбойт, куш — учканга тойбойт."</i> — Kyrgyz proverb
 

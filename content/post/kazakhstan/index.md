@@ -23,35 +23,35 @@ gallery_item:
     image: 6bishba.jpg
     caption: Kazakh Beshbarmak
 ---
-Hej! I want to share an extract of my experience of visiting astonishing Kazakhstan. I was there in the spring and winter of 2023. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting astonishing Kazakhstan. I was there in the spring and winter of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Astana, Kostanay, Aktau, Kokshetau.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Astana
-    - Bayterek Tower <i>(Bäiterek)</i>
-    - Khan Shatyr <i>(Han Şatyr)</i>
-    - National Museum of Kazakhstan <i>(Qazaqstan Respýblıkasynyń Ulltyq mýzeıi)</i>
-    - Congress-Centre EXPO <i>(EXPO)</i>
-    - City Park <i>(Qalalıq sayabaq)</i>
-    - Ak Orda Presidential Palace <i>(Aq-Orda)</i>
-    - Palace of Peace and Reconciliation <i>(Beibıtşılık pen kelısım saraiy)</i>
-    - Independence Square and Kazak Eli Monument <i>(Täuelsızdık alañy)</i>
-    - Park of Lovers <i>(Jastar Park)</i>
-    - Hazret Sultan Mosque <i>(Áziret Sultan meshiti)</i>
+    - Bayterek Tower <i>(Бәйтерек)</i>
+    - Khan Shatyr <i>(Хан Шатыр)</i>
+    - National Museum of Kazakhstan <i>(Қазақстан Республикасының Ұлттық)</i>
+    - Congress-Centre EXPO <i>(Конгресс-орталығы ЭКСПО)</i>
+    - City Park <i>(Қалалық Саябақ)</i>
+    - Ak Orda Presidential Palace <i>(Ақорда Резиденциясы)</i>
+    - Palace of Peace and Reconciliation <i>(Бейбітшілік Пен Келісім Сарайы)</i>
+    - Independence Square and Kazak Eli Monument <i>(Тәуелсіздік алаңы)</i>
+    - Park of Lovers <i>(Жастар Cаябағы)</i>
+    - Hazret Sultan Mosque <i>(Хазірет Сұлтан Мешіті)</i>
 2. Kostanay
-    - Central Park <i>(Ortalyq saiabaq)</i>
-    - Conquerors of Virgin Land Monument <i>(Tyñ jerın jaulap aluşylar monumentı)</i>
-    - Drama theater <i>(Qostanai oblysy İ.Omarov atyndağy qazaq drama teatry)</i>
-    - Youth Boulevard <i>(Jastar bülvary)</i>
+    - Central Park <i>(Орталық Саябақ)</i>
+    - Conquerors of Virgin Land Monument <i>(Тың Игерушілер)</i>
+    - Drama Theater <i>(Aтындағы Қостанай Облыстық Қазақ Драма Театры Омарова)</i>
+    - Youth Boulevard <i>(Жастар Бульвары)</i>
 3. Kokshetau
-    - Akmola Regional Museum of History <i>(Aqmola oblystyq tarihi-ölketanu mūrajaiy)</i>
-    - Independence square <i>(Täuelsızdık alañy)</i>
-    - Central Park <i>(Ortalyq saiabaq)</i>
+    - Akmola Regional Museum of History <i>(Ақмола Облыстық Тарихи-өлкетану Музей)</i>
+    - Independence Square <i>(Тәуелсіздік Алаңы)</i>
+    - Central Park <i>(Орталық Саябақ)</i>
 4. Aktau
-    - Rock road <i>(Rok joly)</i>
-    - Aktau embankment <i>(Aqtau jağalauy)</i>
+    - Rock Road <i>(Жартас Соқпағы)</i>
+    - Embankment of Aktau <i>(Ақтау Жағалауы)</i>
 
 <b>🎧 Local musicians: </b>
 - 🇰🇿 Adam (singer). Genre: pop 
@@ -63,17 +63,26 @@ Hej! I want to share an extract of my experience of visiting astonishing Kazakhs
 
 
 <b>🥘 Local food & drinks: </b>
-- Beshbarmak <i>(Beshbarmak)</i>
-- Horse meat sausage <i>(Qazı)</i>
-- Irimshik <i>(Irimshik)</i>
-- Boortsog <i>(Bawïrsaq)</i>
-- Kazakh soup <i>(Sorpa)</i>
+- Beshbarmak <i>(Бешбармақ)</i>
+- Horse Meat Sausage / Qazi <i>(Қазы)</i>
+- Irimshik <i>(Ирімшік)</i>
+- Boortsog <i>(Бауырсақ)</i>
+- Kazakh Soup <i>(Сорпа)</i>
+
 
 <b>🎬 Local movies:</b>
-- The Old Man <i>(Şal)</i>. Year: 2012. Genre: Drama
-<br>
+- The Old Man <i>(Шал)</i>. Year: 2012. Genre: drama
+
+<b>🪔 Authentic artifacts:</b>
+- The System of Jüz / Zhuz <i>(Ұлы Жүз / Орта Жүз / Кіші Жүз)</i> 
+- The Aytıs & Akyns <i>(Айтыс пен Ақыны)</i> 
+- The Dombra <i>(Домбыра)</i> 
+- Kazakh Horse Riding Sport <i>(Аламан Бәйге)</i> 
+- Authentic Garb: Shapan & Borik <i>(Шапан пен Борик)</i> 
+
 
 <b>🦉 Local wisdom:</b> "A united hundred is stronger than a divided thousand." / <i>"Біріккен жүз, бытыраңқы мыңды алады."</i> — Kazakh proverb
+
 
 <b>👨‍🎓The oldest university:</b> <a href = "https://www.kaznpu.kz/en/" target="_blank">Abai Kazakh National Pedagogical University</a> <i>(Абай атындағы Қазақ ұлттық педагогикалық университеті)</i>, Almaty, est. 1928. 
 

@@ -76,7 +76,7 @@ Hej! I share an extract of my experience of visiting marvelous Denmark. I was th
 
 
 <b>🪔 Authentic artifacts:</b>
-- Danish Hygge <i>(Hygge)</i>
+- Authentic Principle: Hygge <i>(Hygge)</i>
 - Danish Easter Letters <i>(Gækkebreve)</i>
 - Danish Fairy Tales <i>(e.g. HC Andersens)</i>
 

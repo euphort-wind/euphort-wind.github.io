@@ -73,7 +73,6 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 - Kyufte <i>(Кюфте)</i>
 - Deep fried sprats / Tsatsa <i>(Цаца)</i>
 - Ayran <i>(Айрян)</i>
-- Bulgarian Beer <i>(Brands: "Zagorka", "Burgasko", "Pirinsko")</i>
 - Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
 
 
@@ -83,7 +82,7 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 
 <b>🪔 Authentic artifacts:</b>
 - The Cyrillic Alphabet <i>(Кирилица)</i>
-- Bulgarian National Garb <i>(Българското Народно Облекло)</i>
+- Authentic Garb: Nosiya <i>(Носия)</i>
 - Bulgarian Horo Dance <i>(Хоро)</i>
 - The Rose Festival <i>(Празник на Розата)</i>
 

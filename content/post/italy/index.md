@@ -118,10 +118,10 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 
 
 <b>🪔 Authentic artifacts:</b>
-- La Dolce Vita <i>(La Dolce Vita)</i> 
+- Authentic Principle: La Dolce Vita <i>(La Dolce Vita)</i> 
 - Ancient Roman Architecture <i>(Architettura Romana Antica)</i> 
-- Ancient Roman Garb <i>(Abito Romano Antico)</i> 
 - Ancient Roman Roads <i>(Antiche Strade Romane)</i> 
+- Authentic Ancient Garb: Toga & Palla <i>(Toga e Palla)</i> 
 - Italian Folk Music <i>(Musica Popolare italiana)</i> 
 - Latin Alphabet <i>(Alfabeto Latino)</i> 
 - The Renaissance Cultural Movement <i>(Il Movimento Culturale Rinascimentale)</i> 
