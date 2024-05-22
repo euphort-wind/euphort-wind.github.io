@@ -66,7 +66,7 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 - Romanian Hora Dance <i>(Hora)</i>
 - Paparuda Ritual <i>(Păpăluga)</i> 
 - Authentic Garb: Caciula and Ie <i>(Căciulă si Ie)</i> 
-
+- Romanian Cars <i>(Brand: "Dacia")</i>
 
 <b>🦉 Local wisdom:</b> "The good man values goodness, as the bee values the flower" / "<i> Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea</i>" — Romanian proverb
 

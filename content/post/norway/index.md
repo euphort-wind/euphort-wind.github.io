@@ -94,6 +94,7 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 - Connection to Nature <i>(Friluftsliv)</i> 
 - The Hardanger Fiddle <i>(Hardingfele)</i>
 - Authentic Garb: Bunad <i>(Bunad)</i>
+- The Skiing Culture <i>(Skikulturen)</i>
 
 
 <b>🦉 Local wisdom:</b> "The grass is green enough on our side of the fence if we just remember to water it" / <i>"Gresset er grønt nok på vår side av gjerdet når vi bare husker å vanne det"</i> — Norwegian proverb

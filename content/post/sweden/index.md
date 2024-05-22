@@ -34,13 +34,13 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Stockholm City Hall <i>(Stockholms Stadshus)</i>
     - Royal Palace <i>(Kungliga Slottet)</i>
     - Swedish Parliament <i>(Riksdagshuset)</i>
-    - Gustav Adolfs Square <i>(Gustav Adolfs torg)</i>
+    - Gustav Adolfs Square <i>(Gustav Adolfs Torg)</i>
 2. Gothenburg
-    - Gustav Adolfs Square <i>(Gustav Adolfs torg)</i>
+    - Gustav Adolfs Square <i>(Gustav Adolfs Torg)</i>
     - Crown Sconce <i>(Skansen Kronan)</i>
     - Haga District <i>(Haga)</i>
     - Fish Market <i>(Feskekörka)</i> 
-    - Museum of Fine Art <i>(Goteborgs Konstmuseum)</i> 
+    - Museum of Fine Art & Poseidon Sculpture <i>(Goteborgs Konstmuseum)</i> 
     - Gothenburg Cathedral <i>(Göteborg Domkyrkan)</i>
     - Slottsskogen <i>(Slottsskogen Park)</i>
     - The Garden Society <i>(Trädgårdsföreningen)</i>
@@ -78,7 +78,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 10. Malmö
     - Malmö Castle <i>(Malmöhus Slott)</i>
     - Castle Park <i>(Slottsparken)</i>
-    - Gustav Adolfs Square <i>(Gustav Adolfs torg)</i>
+    - Gustav Adolfs Square <i>(Gustav Adolfs Torg)</i>
     - Old Malmö <i>(Gamla Staden)</i>
 11. Kungälv
     - Västra Street <i>(Västra Gatan)</i>
@@ -192,7 +192,6 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - 🇺🇳 Crazy Frog (musician). Genre: eurodance
 
 <b>🥘 Local food & drinks: </b>
-- Coffee break <i>(Fika)</i>
 - Swedish Meatballs with Mashed Potatoes, Lingonberry Jam and Cream Sauce <i>(Köttbullar)</i>
 - Fermented Herring <i>(Surströmming)</i>
 - Crispbread <i>(Knäckebröd)</i>
@@ -207,7 +206,6 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Boiled Egg with Caviar <i>(Ägg med Kaviar)</i> 
 - Christmas & Easter Fuzzy Drinks <i>(Julmust och Påskmust)</i>
 - Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin" + Collections)</i>
-- Swedish Beer <i>(Brands: "Pripps Blå", "Eriksberg", "Sofiero" + Craft Brands)</i>
 - Blueberry Wine <i>(Brand: "Rålund")</i>
 
 <b>🎬 Local movies:</b>
@@ -218,7 +216,17 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Anxious People <i>(Folk med ångest)</i>. Year: 2021. Genre: drama (series)
 - Triangle of Sadness <i>(Triangle of Sadness)</i>. Year: 2022. Genre: black comedy
 - The Perfect Patient <i>(Quick)</i>. Year: 2019. Genre: drama
-<br>
+
+
+<b>🪔 Authentic artifacts:</b>
+- Authentic Principle: Lagom <i>(Lagom)</i>
+- The Swedish Coffee Break <i>(Fika)</i>
+- Crayfish Party <i>(Kräftskiva)</i>
+- Midsummer Celebration <i>(Midsommar)</i>
+- Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
+- Authentic Garb: Klädedräkten <i>(Klädedräkten)</i>
+- The Hambo Dance <i>(Hambo)</i>
+
 
 <b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece" / "<i>Den som gapar över mycket mister ofta hela stycket</i>" — Swedish proverb
 

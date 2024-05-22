@@ -23,7 +23,7 @@ gallery_item:
     image: 6tomyam.jpg
     caption: Tom Yam Soup
 ---
-Hej! I want to share an extract of my experience of visiting bright Thailand. I was there in the winter of 2018. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting bright Thailand. I was there in the winter of 2018. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Patong, Phuket, Racha Yai<br>
@@ -33,7 +33,7 @@ Hej! I want to share an extract of my experience of visiting bright Thailand. I 
     - Bangla Road <i>(ถนนบางลา)</i>
     - Patong Beaches <i>(หาดป่าตอง)</i>
     - Patong Promenade <i>(ป่าตองพรอมนาด)</i>
-    - Thai massage salons <i>(ร้านนวดแผนไทย)</i>
+    - Thai Massage Salons <i>(ร้านนวดแผนไทย)</i>
 2. Phuket
     - Flying Hanuman Zipline <i>(ซิปไลน์)</i>
     - Elephant Care <i>(การดูแลช้าง)</i>
@@ -47,12 +47,20 @@ Hej! I want to share an extract of my experience of visiting bright Thailand. I 
 <b>🥘 Local food & drinks: </b>
 - Tom Yam soup <i>(ต้มยำ)</i>
 - Thai Seafood Fried Rice <i>(ข้าวผัด)</i>
-- Thai Rolled ice cream <i>(ไอศกรีมม้วนไทย)</i>
-- Thai Seafood Barbeque on sticks <i>(บาร์บีคิวทะเล)</i>
+- Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
+- Thai Seafood Barbeque on Sticks <i>(บาร์บีคิวทะเล)</i>
+- Thai Rum <i>(Brand: "Sang Som")</i>
 
 <b>🎬 Local movies:</b>
--  Thirteen Lives <i>(สิบสามชีวิต)</i>. Year: 2022. Genre: Action / Drama
-<br>
+-  Thirteen Lives <i>(สิบสามชีวิต)</i>. Year: 2022. Genre: action / drama
+
+<b>🪔 Authentic artifacts:</b>
+- Authentic Principle: Thainess <i>(ความเป็นไทย)</i>
+- Thai Massage <i>(นวดแผนไทย)</i>
+- The Kathoey <i>(กะเทย)</i>
+- Thai Script <i>(อักษรไทย)</i>
+- Authentic Garb: Panung <i>(ผ้านุ่ง)</i>
+
 
 <b>🦉 Local wisdom:</b> "Keep your fire inside and don't take it from someone else" / <i>"ไฟในอย่านำออก ไฟนอกอย่านำเข้า"</i> — Thai proverb
 

@@ -23,7 +23,7 @@ gallery_item:
     image: 6doner.jpg
     caption: Turkish Döner Kebab
 ---
-Hej! I want to share an extract of my experience of visiting magnificent Türkiye. I was there in 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2019 and 2023. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting magnificent Türkiye. I was there in 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2019 and 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> İstanbul, Side, Belek, Kemer, Demre, Marmaris, Selçuk, Pamukkale, Antalya.<br>
@@ -50,10 +50,10 @@ Hej! I want to share an extract of my experience of visiting magnificent Türkiy
     - Hidirlik Tower <i>(Hıdırlık Kulesi)</i>
 3. Marmaris
     - Marmaris Marina <i>(Marmaris Yat Limanı)</i>
-    - Marmaris Centre <i>(Marmaris merkez)</i>
+    - Marmaris Centre <i>(Marmaris Merkez)</i>
     - Marmaris Mountains <i>(Marmaris Dağları)</i>
     - Dalyan Mud Bath <i>(Dalyan Çamur Banyosu)</i>
-    - Carian rock tombs <i>(Karya kaya mezarları)</i>
+    - Carian Rock Tombs <i>(Karya Kaya Mezarları)</i>
 4. Selçuk
     - Ephesus Ancient City <i>(Efes)</i>    
 5. Pamukkale
@@ -67,9 +67,9 @@ Hej! I want to share an extract of my experience of visiting magnificent Türkiy
     - Beldibi beaches <i>(Beldibi)</i>
     - Kiriş beaches <i>(Kiriş)</i>
 8. Belek 
-    - Belek beaches <i>(Belek)</i>
+    - Belek Beaches <i>(Belek)</i>
 9. Side
-    - Side beaches <i>(Side)</i>  
+    - Side Beaches <i>(Side)</i>  
 
  
 <b>🎧 Local musicians: </b>
@@ -80,17 +80,30 @@ Hej! I want to share an extract of my experience of visiting magnificent Türkiy
 - 🇺🇳 Mahmut Orhan (DJ). Genre: house
 - 🇺🇳 Ummet Ozcan (DJ). Genre: progressive house
 
+
 <b>🥘 Local food & drinks: </b>
 - Döner Kebab <i>(Döner Kebab)</i>
 - Baklava <i>(Baklava) </i>
 - Gözleme <i>(Gözleme)</i>
 - Burek <i>(Börek)</i>
-- Turkish ice-cream <i>(Dondurma)</i>
-- Turkish coffee <i>(Türk kahvesi)</i>
-- Turkish flat bread <i>(Pide)</i>
+- Turkish Ice-cream <i>(Dondurma)</i>
+- Turkish Coffee <i>(Türk kahvesi)</i>
+- Turkish Flat Bread <i>(Pide)</i>
+- Turkish Raki <i>(Brand: "Yeni Raki")</i>
+
 
 <b>🎬 Local movies:</b>
-- Winter Sleep <i>(Kış Uykusu)</i>. Year: 2014. Genre: Drama
+- Winter Sleep <i>(Kış Uykusu)</i>. Year: 2014. Genre: drama
+
+
+<b>🪔 Authentic artifacts:</b>
+- Turkish Hammam <i>(Hamam)</i>
+- The Halay Dance <i>(Halay)</i>
+- The Bağlama <i>(Bağlama)</i>
+- Authentic Garb: Kaftan and Shalvar and Yelek <i>(Kaftan ve Şalvar ve Yelek)</i>
+- The Meddahs <i>(Meddah)</i>
+- Turkish Arhcitecture <i>(Türk Mimarisi)</i>
+
 
 <b>🦉 Local wisdom:</b> "A wise man does not say what he knows; The stupid man does not know what he is saying" / <i>"Akıllı adam bildiğini söylemez; salak adam söylediğini bilmez"</i> — Turkish proverb
 

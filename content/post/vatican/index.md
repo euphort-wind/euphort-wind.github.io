@@ -24,7 +24,7 @@ gallery_item:
     caption: Baked Pasta in Vatikan Museum
 
 ---
-Hej! I want to share an extract of my experience of visiting blessed Vatican. I was there in the winter of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting blessed Vatican. I was there in the winter of 2024. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Vatican City.<br>
@@ -40,13 +40,18 @@ Hej! I want to share an extract of my experience of visiting blessed Vatican. I 
 
 
 <b>🥘 Local food & drinks: </b>
-- Dry red wine <i>(Vinum siccum rubrum)</i>
-- Baked pasta <i>(Coxit adipiscing)</i>
+- Dry Red Wine <i>(Vinum Siccum Rubrum)</i>
+- Baked pasta <i>(Coxit Adipiscing)</i>
 - Grissini <i>(Grissini)</i>
 
 
 <b>🎬 Local movies:</b>
-- The Two Popes <i>(Duo Pontifices)</i>. Year: 2019. Genres: Drama
+- The Two Popes <i>(Duo Pontifices)</i>. Year: 2019. Genres: drama
+
+
+<b>🪔 Authentic artifacts:</b>
+- The Catholic Church <i>(Ecclesia Catholica)</i>
+- The Pope's Weekly Public Audiences <i>(Audientiis Publicis Summi Pontificis)</i>
 
 
 <b>🦉 Local wisdom:</b> "In the face of unjust and painful situations, faith brings us the light which scatters the darkness"  / "<i> Contra iniustas ac laboriosas condiciones fides nos lucem profert quae tenebras spargit </i>" — Pope Francis 
