@@ -126,7 +126,7 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 - Latin Alphabet <i>(Alfabeto Latino)</i> 
 - The Renaissance Cultural Movement <i>(Il Movimento Culturale Rinascimentale)</i> 
 - The Tarantella Dance <i>(Tarantella)</i> 
-- Italian Fashion <i>(Brands: "Gucci", "Prada", "Versage" etc.)</i> 
+- Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace" etc.)</i> 
 - Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT" etc.)</i> 
 
 

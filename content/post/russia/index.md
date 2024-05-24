@@ -218,6 +218,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - The Horovod Dance <i>(Хоровод)</i> 
 - Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-ушанка)</i> 
 - The Culture of Old Believers <i>(Культура Староверов)</i> 
+- Russian Cars <i>(Brands: "GAZ", "LADA" etc.)</i> 
 
 
 <b>🦉 Local wisdom:</b> "The only thing better than mountains are mountains that you have never been to before" / "<i>Лучше гор могут быть только горы, на которых ещё не бывал</i>" — Vladimir Vysotsky (Soviet singer-songwriter and poet)

@@ -57,6 +57,7 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 - Lamb Korma <i>(मेमने कोरमा)</i>
 - Indian Buffalo Steak <i>(भारतीय भैंस स्टेक)</i>
 - Naan <i>(नान)</i>
+- Tandoori Chicken <i>(तंदुरी चिकन)</i>
 
 
 <b>🎬 Local movies:</b>
