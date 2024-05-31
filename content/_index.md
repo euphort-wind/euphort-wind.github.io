@@ -44,8 +44,8 @@ sections:
           description: |2-
               Responsibilities include:
               * PhD Research: Organizational System Management
-              * Teaching: "Business Analysis Tools" & "Internet Marketing" courses
-              * Departamental Duties
+              * Teaching: "Business Intelligence Tools" & "Internet Marketing" courses
+              * Departmental Duties
 
         - title: Project Manager
           company: SPV
