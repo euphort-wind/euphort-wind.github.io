@@ -26,7 +26,7 @@ gallery_item:
 Hej! I share an extract of my life in charming Sweden. I was there in the autumn of 2021 and live there since the spring of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -170,6 +170,19 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Vallarna Park <i>(Vallarna Park)</i> 
     - Tullbron & Old City <i>(Tullbron och Gamla Stan)</i> 
     - Skrea Beach <i>(Skrea Strand)</i> 
+36. Örebro
+    - Örebro Castle <i>(Örebro Slott)</i> 
+    - Wadköping <i>(Wadköping)</i> 
+    - Svampen Water Tower <i>(Svampen)</i> 
+37. Ekerö
+    - Drottningholm Palace <i>(Drottningholm Slott)</i> 
+    - Ekebyhov Castle <i>(Ekebyhov Slott)</i> 
+38. Västerås
+    - Vasa Park <i>(Vasaparken)</i>
+    - Västerås Castle <i>(Västerås Slott)</i>
+    - Västerås Cathedral <i>(Västerås Domkyrka)</i>
+    - Kyrkbacken <i>(Kyrkbacken)</i>
+    - Anundshög <i>(Anundshög)</i>
 
 <b>🎧 Local musicians: </b>
 - 🇸🇪 Tomas Ledin (singer). Genre: pop
