@@ -236,6 +236,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Anxious People <i>(Folk med ångest)</i>. Year: 2021. Genre: drama (series)
 - Triangle of Sadness <i>(Triangle of Sadness)</i>. Year: 2022. Genre: black comedy
 - The Perfect Patient <i>(Quick)</i>. Year: 2019. Genre: drama
+- The Playlist <i>(The Playlist)</i>. Year: 2022. Genre: biography (series)
 
 
 <b>🪔 Authentic artifacts:</b>
