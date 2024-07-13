@@ -96,7 +96,7 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 <b>🥘 Local food & drinks: </b>
 - Meat Products <i>(Carpaccio, Bresaola, Mortadella, Prosciutto, Salami, etc.)</i>
 - Italian Cheese <i>(Parmigiano Reggiano, Mozzarella, Ricotta, Mascarpone etc.)</i>
-- Pasta <i>(Carbonara, Ragù alla Bolognese, etc.)</i>
+- Pasta <i>(Farfalle, Spaghetti, Fettuccine, Fusilli etc.)</i>
 - Pizza <i>(Quattro Formaggi, Margherita, Capricciosa, etc.)</i>
 - Italian Coffee Drinks <i>(Cappucino, Latte, etc.)</i>
 - Bruschetta <i>(Bruschetta)</i>
@@ -104,17 +104,19 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 - Risotto <i>(Risotto)</i>
 - Frittata <i>(Frittata)</i>
 - Pesto sauce <i>(Pesto)</i>
-- Florentine Steak <i>(Bistecca alla Fiorentina)</i>
-- Saltimbocca <i>(Saltimbocca)</i>
 - Ossobuco <i>(Osso Buco)</i>
-- Lasagna <i>(Lasagna)</i>
 - Panna Cotta <i>(Panna Cotta)</i>
 - Tiramisu <i>(Tiramisu)</i>
 - Cannoli <i>(Cannoli)</i>
-- Rice Cake <i>(Torta di Riso)</i>
 - Limoncello <i>(Brand: "Pallini")</i> 
 - Vermouth <i>(Brand: "Martini")</i> 
 - Italian Liqueur <i>(Brands: "Campari", "Aperol")</i> 
+- <b>Lazio Special:</b> Pasta Carbonara <i>(Pasta alla Carbonara)</i>
+- <b>Lazio Special:</b> Saltimbocca <i>(Saltimbocca)</i>
+- <b>Emilia-Romagna Special:</b> Pasta Bolognese <i>(Ragu alla Bolognese)</i>
+- <b>Emilia-Romagna Special:</b> Lasagna <i>(Lasagna)</i>
+- <b>Emilia-Romagna Special:</b> Torta di Riso <i>(Torta di Riso)</i>
+- <b>Tuscany Special:</b> Florentine Steak <i>(Bistecca alla Fiorentina)</i>
 
 
 <b>🪔 Authentic artifacts:</b>
