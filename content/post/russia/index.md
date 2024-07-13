@@ -192,18 +192,23 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 
 <b>🥘 Local food & drinks: </b>
 - Vinegret <i>(Винегрет)</i> 
-- Russian Aspic / Holodec <i>(Холодец)</i> 
+- Holodec <i>(Холодец)</i> 
 - Solyanka <i>(Солянка)</i> 
 - Ukha <i>(Уха)</i> 
 - Okroshka <i>(Окрошка)</i>   
-- Pozharsky Cutlet <i>(Пожарские Котлеты)</i> 
+- Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
 - Russian Dumplings <i>(Пельмени)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
-- Ossetian Pies <i>(Осетинские Пироги)</i> 
-- Balkarian Hychin <i>(Балкарские Хычины)</i> 
-- Peremech <i>(Беляш)</i> 
 - Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya" etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
+- <b>Bashkir Special:</b> Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
+- <b>Bashkir Special:</b> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
+- <b>Kabardian Special :</b> Libzhe <i>(Либжа / Либжэ)</i>
+- <b>Balkarian Special:</b> Balkarian Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
+- <b>Karachay Special:</b> Hychin Pie <i>(Хычин / Хычын)</i>
+- <b>Ossetian Special:</b> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
+- <b>Ossetian Special:</b> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
+- <b>Ossetian Special:</b> Dzykka Porridge <i>(Дзыкка / Дзыкка)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -228,7 +233,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 
 <b>🦉 Local wisdom:</b> "The only thing better than mountains are mountains that you have never been to before" / "<i>Лучше гор могут быть только горы, на которых ещё не бывал</i>" — Vladimir Vysotsky (Soviet singer-songwriter and poet)
 
-<b>👨‍🎓The oldest university:</b> <a href = "https://english.spbu.ru/" target="_blank">Saint Petersburg State University</a> <i>(Санкт-Петербургский государственный университет)</i>, Saint Petersburg, est. 1724. 
+<b>👨‍🎓The oldest university:</b> <a href = "https://english.spbu.ru/" target="_blank">Saint Petersburg State University</a> <i>(Санкт-Петербургский Государственный Университет)</i>, Saint Petersburg, est. 1724. 
 
 {{< gallery album="russia" crop_options="150x150" >}}
    

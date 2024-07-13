@@ -26,7 +26,7 @@ gallery_item:
 Hej! I share an extract of my life in charming Sweden. I was there in the autumn of 2021 and live there since the spring of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Gotland. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -186,6 +186,18 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 39. Uddevalla 
     - Bohusläns Museum <i>(Bohusläns Museum)</i>
     - Kungs Square <i>(Kungstorget)</i>
+40. Visby
+    - Visby City Wall <i>(Visby Ringmur)</i>
+    - Gotlands Museum <i>(Gotlands Fornsal)</i>
+    - Church Ruins <i>(Kyrkoruiner)</i>
+    - Botanic Gardens <i>(Botaniska Trädgården)</i>
+    - Visby Cathedral <i>(Visby Domkyrka)</i>
+41. Gotland
+    - Lummelunda Cave <i>(Lummelundagrottan)</i>
+    - Högklint Nature Reserve <i>(Högklint Naturreservat)</i>
+    - Sea Stacks <i>(Raukar)</i>
+    - Vitvärs Fisher Village <i>(Vitvärs Fiskeläge)</i>
+
 
 <b>🎧 Local musicians: </b>
 - 🇸🇪 Tomas Ledin (singer). Genre: pop
@@ -222,11 +234,14 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Saffron Buns <i>(Lussekatter)</i>
 - Swedish Chocolate Cake <i>(Kladdkaka)</i>
 - Jansson's Temptation <i>(Janssons Frestelse)</i>
-- Västerbotten Cheese <i>(Västerbottensost)</i> 
 - Boiled Egg with Caviar <i>(Ägg med Kaviar)</i> 
 - Christmas & Easter Fuzzy Drinks <i>(Julmust och Påskmust)</i>
 - Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin" + Collections)</i>
 - Blueberry Wine <i>(Brand: "Rålund")</i>
+- <b>Vasternorrlandic Special:</b> Toast with Chanterelles <i>(Rostat Bröd med Kantareller)</i>
+- <b>Vasterbottenic Special:</b> Västerbotten Cheese <i>(Västerbottensost)</i> 
+- <b>Gotlandic Special:</b> Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
+ - <b>Gotlandic Special:</b> Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
 
 <b>🎬 Local movies:</b>
 - A Man Called Ove <i>(En Man Som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
