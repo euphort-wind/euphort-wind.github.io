@@ -201,14 +201,14 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya" etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
-- <b>Bashkir Special:</b> Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
-- <b>Bashkir Special:</b> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
-- <b>Kabardian Special :</b> Libzhe <i>(Либжа / Либжэ)</i>
-- <b>Balkarian Special:</b> Balkarian Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
-- <b>Karachay Special:</b> Hychin Pie <i>(Хычин / Хычын)</i>
-- <b>Ossetian Special:</b> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
-- <b>Ossetian Special:</b> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
-- <b>Ossetian Special:</b> Dzykka Porridge <i>(Дзыкка / Дзыкка)</i>
+- <b>Bashkiria (special):</b> Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
+- <b>Bashkiria (special):</b> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
+- <b>Kabardino-Balkaria (special) :</b> Libzhe <i>(Либжа / Либжэ)</i>
+- <b>Balkarian-Balkaria (special):</b> Balkarian Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
+- <b>Karachay-Cherkessia (special):</b> Hychin Pie <i>(Хычин / Хычын)</i>
+- <b>North Ossetia (special):</b> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
+- <b>North Ossetia (special):</b> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
+- <b>North Ossetia (special):</b> Dzykka Porridge <i>(Дзыкка / Дзыкка)</i>
 
 
 <b>🎬 Local movies:</b>

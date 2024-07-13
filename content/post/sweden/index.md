@@ -238,10 +238,11 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Christmas & Easter Fuzzy Drinks <i>(Julmust och Påskmust)</i>
 - Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin" + Collections)</i>
 - Blueberry Wine <i>(Brand: "Rålund")</i>
-- <b>Vasternorrlandic Special:</b> Toast with Chanterelles <i>(Rostat Bröd med Kantareller)</i>
-- <b>Vasterbottenic Special:</b> Västerbotten Cheese <i>(Västerbottensost)</i> 
-- <b>Gotlandic Special:</b> Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
- - <b>Gotlandic Special:</b> Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
+- <b>Västernorrland (special):</b> Toast with Chanterelles <i>(Rostat Bröd med Kantareller)</i>
+- <b>Västernorrland (special):</b> Venison with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 
+- <b>Västerbotten (special):</b> Västerbotten Cheese <i>(Västerbottensost)</i> 
+- <b>Gotland (special):</b> Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
+ - <b>Gotland (special):</b> Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
 
 <b>🎬 Local movies:</b>
 - A Man Called Ove <i>(En Man Som Heter Ove)</i>. Year: 2015. Genre: drama / comedy

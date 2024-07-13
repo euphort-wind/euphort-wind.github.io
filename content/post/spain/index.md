@@ -56,7 +56,7 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 - Churro <i>(Churro)</i>
 - Tapas <i>(Tapas)</i>
 - Spanish Sausage / Chorizo <i>(Chorizo)</i>
-- <b>Catalan Special:</b> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
+- <b>Catalonia (special):</b> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
 
 
 <b>🎬 Local movies:</b>
