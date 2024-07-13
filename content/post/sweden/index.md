@@ -245,11 +245,11 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
  - <b>Gotland (special):</b> Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
 
 <b>🎬 Local movies:</b>
-- A Man Called Ove <i>(En Man Som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
+- A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
 - The 100 Year-Old Man Who Climbed Out the Window and Disappeared <i>(Hundraåringen som Klev Ut Genom Fönstret och Försvann)</i>. Year: 2013. Genre: comedy
 - Border <i>(Gräns)</i>. Year: 2018. Genre: fantasy
 - End of Summer <i>(Slutet på Sommaren)</i>. Year: 2023. Genre: thriller (series)
-- Anxious People <i>(Folk med ångest)</i>. Year: 2021. Genre: drama (series)
+- Anxious People <i>(Folk med Ångest)</i>. Year: 2021. Genre: drama (series)
 - Triangle of Sadness <i>(Triangle of Sadness)</i>. Year: 2022. Genre: black comedy
 - The Perfect Patient <i>(Quick)</i>. Year: 2019. Genre: drama
 - The Playlist <i>(The Playlist)</i>. Year: 2022. Genre: biography (series)
