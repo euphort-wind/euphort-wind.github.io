@@ -26,7 +26,7 @@ gallery_item:
 Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was there in the summer of 2022. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Bishkek, Cholpon-Ata, Karakol, Tosor, Boz-Uchuk.<br>
+<b>🗺 Places:</b> Bishkek, Cholpon-Ata, Karakol, Tosor, Barskoon, Jeti-Ögüz, Boz-Uchuk.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Bishkek
@@ -45,9 +45,11 @@ Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was 
     - Dungan Mosque <i>(Дунган Мечити)</i>
 4. Tosor
     - Skazka Canyon <i>(Сказка Каньоны)</i>
+5. Barskoon
     - Barskoon Waterfall <i>(Барскоон Шаркыратмасы)</i>
+6. Jeti-Ögüz
     - Jeti-Ögüz Rocks <i>(Жети-Өгүз Аскалары)</i>
-5. Boz-Uchuk     
+7. Boz-Uchuk     
     - Boz-Uchuk Gorge <i>(Боз-Учук)</i>
 
 
