@@ -27,7 +27,7 @@ gallery_item:
 Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Zelyonaya Polyana, Kusimovsky Rudnik, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Kyshtym, Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralny Vody, Fiagdon, Dargavs, Fasnal, Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
+<b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Zelyonaya Polyana, Kusimovsky Rudnik, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Kyshtym, Aleksandrovskii-Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralny Vody, Fiagdon, Dargavs, Fasnal, Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Moscow
@@ -82,7 +82,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - Palace of Culture <i>(Дворец Культуры)</i> 
 12. Revda
     - Karl Liebknecht Street <i>(Улица Карла Либнехта)</i> 
-13. Arkaim
+13. Aleksandrovskii-Arkaim
     - Settlement "Arkaim" <i>(Городище "Аркаим")</i> 
     - Museum of Ancient Productions <i>(Музей Древних Производств)</i> 
     - Shamanka mount <i>(Гора Шаманка)</i>
