@@ -111,12 +111,12 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 - Limoncello <i>(Brand: "Pallini")</i> 
 - Vermouth <i>(Brand: "Martini")</i> 
 - Italian Liqueur <i>(Brands: "Campari", "Aperol")</i> 
-- <b>Lazio (special):</b> Pasta Carbonara <i>(Pasta alla Carbonara)</i>
-- <b>Lazio (special):</b> Saltimbocca <i>(Saltimbocca)</i>
-- <b>Emilia-Romagna (special):</b> Pasta Bolognese <i>(Ragu alla Bolognese)</i>
-- <b>Emilia-Romagna (special):</b> Lasagna <i>(Lasagna)</i>
-- <b>Emilia-Romagna (special):</b> Torta di Riso <i>(Torta di Riso)</i>
-- <b>Tuscany (special):</b> Florentine Steak <i>(Bistecca alla Fiorentina)</i>
+- <u>Lazio (special):</u> Pasta Carbonara <i>(Pasta alla Carbonara)</i>
+- <u>Lazio (special):</u> Saltimbocca <i>(Saltimbocca)</i>
+- <u>Emilia-Romagna (special):</u> Pasta Bolognese <i>(Ragu alla Bolognese)</i>
+- <u>Emilia-Romagna (special):</u> Lasagna <i>(Lasagna)</i>
+- <u>Emilia-Romagna (special):</u> Torta di Riso <i>(Torta di Riso)</i>
+- <u>Tuscany (special):</u> Florentine Steak <i>(Bistecca alla Fiorentina)</i>
 
 
 <b>🪔 Authentic artifacts:</b>

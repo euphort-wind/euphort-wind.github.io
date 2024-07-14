@@ -26,7 +26,7 @@ gallery_item:
 Hej! I share an extract of my experience of visiting bright Thailand. I was there in the winter of 2018. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Patong, Phuket, Racha Yai<br>
+<b>🗺 Places:</b> Patong, Kathu, Racha Yai<br>
 
 <b>🏛 Top sights visited: </b>
 1. Patong
@@ -34,7 +34,7 @@ Hej! I share an extract of my experience of visiting bright Thailand. I was ther
     - Patong Beaches <i>(หาดป่าตอง)</i>
     - Patong Promenade <i>(ป่าตองพรอมนาด)</i>
     - Thai Massage Salons <i>(ร้านนวดแผนไทย)</i>
-2. Phuket
+2. Kathu
     - Flying Hanuman Zipline <i>(ซิปไลน์)</i>
     - Elephant Care <i>(การดูแลช้าง)</i>
 3. Racha Yai
@@ -48,8 +48,8 @@ Hej! I share an extract of my experience of visiting bright Thailand. I was ther
 - Tom Yam soup <i>(ต้มยำ)</i>
 - Thai Seafood Fried Rice <i>(ข้าวผัด)</i>
 - Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
-- Thai Seafood Barbeque on Sticks <i>(บาร์บีคิวทะเล)</i>
 - Thai Rum <i>(Brand: "Sang Som")</i>
+- <u>Phuket (special)</u>: Seafood Barbeque on Sticks <i>(บาร์บีคิวทะเล)</i>
 
 <b>🎬 Local movies:</b>
 -  Thirteen Lives <i>(สิบสามชีวิต)</i>. Year: 2022. Genre: action / drama

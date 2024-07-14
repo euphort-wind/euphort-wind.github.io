@@ -26,7 +26,7 @@ gallery_item:
 Hej! I share an extract of my experience of visiting resplendent Spain. I was there in the summer of 2013. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Barcelona, Salou, Montserrat.<br>
+<b>🗺 Places:</b> Barcelona, Salou, Monistrol de Montserrat.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Barcelona
@@ -36,7 +36,7 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
     - PortAventura <i>(PortAventura)</i>
     - Salou Beaches <i>(Playas de Salou)</i>
     - The Ornamental Fountains <i>(Las Fuentes Ornamentales)</i>
-3. Montserrat
+3. Monistrol de Montserrat
     - Montserrat Mountain Natural Park <i>(Parque Natural de la Montaña de Montserrat)</i>
     - Santa Maria de Montserrat Abbey <i>(Abadía de Santa María de Montserrat)</i>
     - Our Lady of Montserrat <i>(Mare de Déu de Montserrat)</i>
@@ -56,7 +56,7 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 - Churro <i>(Churro)</i>
 - Tapas <i>(Tapas)</i>
 - Spanish Sausage / Chorizo <i>(Chorizo)</i>
-- <b>Catalonia (special):</b> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
+- <u>Catalonia (special):</u> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
 
 
 <b>🎬 Local movies:</b>

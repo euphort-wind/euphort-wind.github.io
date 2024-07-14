@@ -27,7 +27,7 @@ gallery_item:
 Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Bannoye Lake, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Kyshtym, Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralny Vody, Fiagdon, Dargavs, Fasnal & Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
+<b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Zelyonaya Polyana, Kusimovsky Rudnik, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Kyshtym, Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralny Vody, Fiagdon, Dargavs, Fasnal, Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Moscow
@@ -53,45 +53,47 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - Metallurg Arena <i>(Арена "Металлург")</i>
     - Ascension Cathedral <i>(Храм Вознесения Господня)</i>
     - Prityazheniye Park <i>(Парк "Притяжение")</i>
-4. Bannoye Lake
-    - Lake <i>(Банное)</i>
+4. Zelyonaya Polyana
+    - Bannoye Lake <i>(Озеро Банное)</i>
     - Sanatorium "Yubileiny" <i>(Санаторий "Юбилейный")</i>
     - Metallurg Ski-center and the Ural Mountains <i>(ГЛЦ "Металлург" и Уральские Горы)</i>
     - Kuzhanovo Larches <i>(Кужановские Лиственницы)</i>
-5. Abzakovo 
+5. Kusimovsky Rudnik
+    - Sabakty Lake <i>(Озеро Чебачье)</i>
+6. Abzakovo 
     - Abzakovo Ski-centre <i>(ГЛЦ "Абзаково")</i>
     - Kurtash Mount <i>(г. Курташ)</i>
-6. Kyshtym
+7. Kyshtym
     - Sugomak Mount <i>(г. Сугомак)</i>
     - Sugomak Cave <i>(Пещера Сугомак)</i> 
     - "Ural Bali" <i>("Уральское Бали")</i> 
-7. Saint Petersburg
+8. Saint Petersburg
     - State Hermitage Museum <i>(Эрмитаж)</i>
     - Nevsky Avenue <i>(Невский Проспект)</i> 
     - Pushkin's Appartment <i>(Мемориальный музей-квартира А. С. Пушкина)</i> 
     - Savior on the Spilled Blood <i>(Спас на Крови)</i> 
     - Kazan Cathedral <i>(Казанский собор)</i> 
-8. Pavlovsk 
+9. Pavlovsk 
     - Pavlovsk Museum <i>(Павловский Дворец)</i> 
-9. Gatchina
+10. Gatchina
     - The State Museum-Reserve "Gatchina" <i>(Музей "Гатчина")</i> 
-10. Degtyarsk
+11. Degtyarsk
     - Degtyarsk Mines <i>(Дегтярские Шахты)</i> 
     - Palace of Culture <i>(Дворец Культуры)</i> 
-11. Revda
+12. Revda
     - Karl Liebknecht Street <i>(Улица Карла Либнехта)</i> 
-12. Arkaim
+13. Arkaim
     - Settlement "Arkaim" <i>(Городище "Аркаим")</i> 
     - Museum of Ancient Productions <i>(Музей Древних Производств)</i> 
     - Shamanka mount <i>(Гора Шаманка)</i>
     - Museum of Nature and Man <i>(Музей "Природы и человека")</i> 
-13. Roza Khutor
+14. Roza Khutor
     - Mzymta Square <i>(Площадь Мзымта)</i> 
     - Boomerang casino <i>(Казино "Бумеранг")</i> 
     - My Russia Ethnic Park <i>("Моя Россия")</i> 
     - Ski-center "Rosa Khutor" and the Caucasus Mountains <i>(ГЛЦ "Роза Хутор" и Кавказские Горы)</i> 
     - Rodelbahn <i>(Родельбан)</i> 
-14. Sochi
+15. Sochi
     - Sanatorium named after Ordzhonikidze <i>(Санаторий им. Орджоникидзе)</i> 
     - Sochi Central Embankment <i>(Центральная Набережная Сочи)</i> 
     - Skypark <i>(Скайпарк)</i> 
@@ -100,17 +102,17 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - Yew-boxwood Grove <i>(Тисо-Самшитовая Роща)</i> 
     - Agur Waterfalls <i>(Агурские Водопады)</i> 
     - Observation Tower on Mount Akhun <i>(Смотровая Башня на г. Ахун)</i> 
-15. Adler
+16. Adler
     - Olympic Park <i>(Олимпийский Парк)</i> 
     - Adler Central Embankment <i>(Центральная Набережная Адлера)</i> 
     - Sochi Park <i>(Сочи Парк)</i> 
-16. Kislovodsk 
+17. Kislovodsk 
     - Kislovodsk National Park <i>(Курортный Парк)</i>
     - Narzan Gallery <i>(Нарзанная Галерея)</i>
     - Kurortny Boulevard <i>(Курортный Бульвар)</i>
     - Cascade Staircase <i>(Каскадная Лестница)</i>
     - Sanatorium "Victoria" <i>(Санаторий "Виктория")</i> 
-17. Essentuki 
+18. Essentuki 
     - Kurortnyy Park <i>(Ессентукский Курортный Парк)</i> 
     - Essentuki Mud Baths <i>(Ессентукская Грязелечебница)</i> 
     - Rio-de-Kavkaz <i>(Рио-де-Кавказ)</i> 
@@ -118,60 +120,61 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - Sanatorium "Metallurg" <i>(Санаторий "Металлург")</i> 
     - Drinking Gallery Victoria <i>(Питьевая Галерея "Виктория")</i> 
     - Drinking Gallery of Source No. 4 <i>(Питьевая Галерея Источника № 4)</i> 
-18. Pyatigorsk
+19. Pyatigorsk
     - "Tsvetnik" Park <i>(Парк "Цветник")</i> 
     - Lermontov Gallery <i>(Лермонтовская Галерея)</i> 
     - Lake Proval <i>(Озеро Провал)</i> 
     - Aeolian Harp <i>(Эолова арфа)</i> 
     - Museum-reserve of Mikhail Lermontov <i>(Музей-заповедник М.Ю.Лермонтова)</i> 
     - Kirov Avenue <i>(Проспект Кирова)</i> 
-19. Zheleznovodsk
+20. Zheleznovodsk
     - Palace of the Emir of Bukhara <i>(Дворец Эмира Бухарского)</i> 
     - Pushkin Gallery <i>(Пушкинская Галерея)</i> 
     - Smirnosky Spring <i>(Смирноский Источник)</i> 
     - Cascade Staircase <i>(Каскадная Лестница)</i> 
     - Ferrum Square  <i>(Площадь "Ferrum")</i> 
     - Lechebny Park <i>(Лечебный Парк)</i> 
-20. Lermontov
+21. Lermontov
     - Behtau Mount <i>(г. Бештау)</i> 
     - Assumption Monastery Vtoroafonsky Beshtaugorsky <i>(Успенский Второафонский Монастырь)</i> 
-21. Nalchik
+22. Nalchik
     - Atazhukinsky Garden <i>(Атажукинский Сад)</i>
     - Nalchin Sweets <i>("Нальчик Сладость")</i>
     - Kurortnoye Lake <i>(Курортное Озеро)</i>
     - Kabardinskaya Street <i>(Улица Кабардинская)</i>
     - Medovy Waterfalls <i>(Медовые Водопады)</i>
     - Narzan Valley <i>(Долина Нарзанов)</i>
-22. Arhyz
+23. Arhyz
     - "The face of God" <i>("Лик Христа")</i>
     - Ski-center "Arkhyz" and the Caucasus Mountains <i>(ГЛЦ "Архыз" и Кавказские Горы)</i>
     - Special Astrophysical Observatory <i>(Обсерватория)</i>
     - Nizhnearkhyz Settlement <i>(Нижнеархызское Городище)</i>
-23. Mineralny Vody
+24. Mineralny Vody
     - Train Station <i>(Железнодорожный Вокзал)</i>
     - City Park <i>(Городской Парк)</i>
-24. Fiagdon
+25. Fiagdon
     - Tsimiti <i>(Цимити)</i>
     - Kurtatin Gorge <i>(Куртатинское Ущелье)</i>
     - Khidikus Monastery <i>(Аланский Успенский Монастырь)</i>
-25. Dargavs
+26. Dargavs
     - Dargavs Crypt Burial Ground <i>("Город Мёртвых")</i>
     - Karmadon Gorge <i>(Кармадонское Ущелье)</i>
     - Dargavs Gorge <i>(Даргавское Ущелье)</i>
-26. Fasnal & Zadalessk
+27. Fasnal 
     - Fasnal Fabric <i>(Бельгийская Фабрика)</i>
+28. Zadalessk
     - Nana Zadaleski Museum <i>(Музей Наны Задалески)</i>
     - Digori Gorge <i>(Дигорское Ущелье)</i>
-27. Vladikavkaz
+29. Vladikavkaz
     - The Mukhtarov Mosque <i>(Мечеть Мухтарова)</i>
     - Park of Culture and Recreation <i>(Парк Культуры и Отдыха)</i>
     - National Museum of North Ossetia <i>(Национальный Музей Северной Осетии)</i>
     - Embankment of the Terek River <i>(Набережная Реки Терек)</i>
     - Mira Avenue <i>(Проспект Мира)</i>
-28. Sterlitamak
+30. Sterlitamak
     - Cinema "Salavat" <i>(Кинотеатр "Салават")</i>
     - Zemstvo Government Building <i>(Здание Земской Управы)</i>
-29. Orenburg
+31. Orenburg
     - Clock Tower <i>(Башня с Часами)</i>
     - Sovietskaya Street <i>(Улица Советская)</i>
     - Elizabethan Gate <i>(Елизаветинские Ворота)</i>
@@ -201,14 +204,14 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya" etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
-- <b>Bashkiria (special):</b> Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
-- <b>Bashkiria (special):</b> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
-- <b>Kabardino-Balkaria (special) :</b> Libzhe <i>(Либжа / Либжэ)</i>
-- <b>Balkarian-Balkaria (special):</b> Balkarian Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
-- <b>Karachay-Cherkessia (special):</b> Hychin Pie <i>(Хычин / Хычын)</i>
-- <b>North Ossetia (special):</b> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
-- <b>North Ossetia (special):</b> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
-- <b>North Ossetia (special):</b> Dzykka Porridge <i>(Дзыкка / Дзыкка)</i>
+- <u>Bashkiria (special):</u> Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
+- <u>Bashkiria (special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
+- <u>Kabardino-Balkaria (special) :</u> Libzhe <i>(Либжа / Либжэ)</i>
+- <u>Balkarian-Balkaria (special):</u> Balkarian Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
+- <u>Karachay-Cherkessia (special):</u> Hychin Pie <i>(Хычин / Хычын)</i>
+- <u>North Ossetia (special):</u> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
+- <u>North Ossetia (special):</u> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
+- <u>North Ossetia (special):</u> Dzykka Porridge <i>(Дзыкка / Дзыкка)</i>
 
 
 <b>🎬 Local movies:</b>

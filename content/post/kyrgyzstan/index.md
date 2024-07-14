@@ -26,7 +26,7 @@ gallery_item:
 Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was there in the summer of 2022. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Bishkek, Cholpon-Ata, Karakol, Issyk-kul lake.<br>
+<b>🗺 Places:</b> Bishkek, Cholpon-Ata, Karakol, Tosor, Boz-Uchuk.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Bishkek
@@ -39,14 +39,15 @@ Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was 
     - Ruh Ordo Cultural Center <i>(Рух Ордо)</i>
     - Museum of Petroglyphs <i>(Петроглифтер Музейи)</i>
     - Cholpon-ata Beaches <i>(Чолпон-Ата Пляждары)</i>
+    - Grigoryevskoye Gorge <i>(Чон-Ак-Суу)</i>
 3. Karakol
     - Holy Trinity Orthodox Church <i>(Ыйык Троица Православ Чиркөөсү)</i>
     - Dungan Mosque <i>(Дунган Мечити)</i>
-4. Issyk-kul
+4. Tosor
     - Skazka Canyon <i>(Сказка Каньоны)</i>
     - Barskoon Waterfall <i>(Барскоон Шаркыратмасы)</i>
     - Jeti-Ögüz Rocks <i>(Жети-Өгүз Аскалары)</i>
-    - Grigoryevskoye Gorge <i>(Чон-Ак-Суу)</i>
+5. Boz-Uchuk     
     - Boz-Uchuk Gorge <i>(Боз-Учук)</i>
 
 
@@ -66,7 +67,7 @@ Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was 
 - Maksym Drink <i>(Максым)</i>
 - Chalap Drink <i>(Чалап)</i>
 - Aralash Drink <i>(Аралаш)</i>
-- <b>Issyk-Kul (special):</b> Ash-lyanfu Soup <i>(Аш-лянфу)</i>
+- <u>Issyk-Kul (special):</u> Ash-lyanfu Soup <i>(Аш-лянфу)</i>
 
 
 <b>🎬 Local movies:</b>

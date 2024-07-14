@@ -26,7 +26,7 @@ gallery_item:
 Hej! I share an extract of my experience of visiting magical Norway. I was there in the autumn of 2021 and autumn of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Oslo, Bergen, Nærøyfjord, Fredrikstad, Moss, Horten.<br>
+<b>🗺 Places:</b> Oslo, Bergen, Flåm, Fredrikstad, Moss, Horten.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Oslo
@@ -40,7 +40,7 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
     - Bergenhus Fortress <i>(Bergenhus Festning)</i>
     - Bergen Fishmarket <i>(Bergen Fisketorget)</i>
     - Bergen Cathedral <i>(Bergen Domkirke)</i>
-3. Nærøyfjord
+3. Flåm
     - Naroy fjord <i>(Nærøyfjord)</i>
     - Flåm Railway <i>(Flåm Jernbane)</i>
     - Gudvangen Viking Village <i>(Gudvangen)</i>

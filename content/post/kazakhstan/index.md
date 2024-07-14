@@ -68,7 +68,7 @@ Hej! I share an extract of my experience of visiting astonishing Kazakhstan. I w
 - Irimshik <i>(Ирімшік)</i>
 - Boortsog <i>(Бауырсақ)</i>
 - Kazakh Soup <i>(Сорпа)</i>
-- <b>Mangystau (special):</b> Beshbarmak with Sturgeon <i>(Фишбармақ)</i>
+- <u>Mangystau (special):</u> Beshbarmak with Sturgeon <i>(Фишбармақ)</i>
 
 <b>🎬 Local movies:</b>
 - The Old Man <i>(Шал)</i>. Year: 2012. Genre: drama

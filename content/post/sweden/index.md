@@ -26,7 +26,7 @@ gallery_item:
 Hej! I share an extract of my life in charming Sweden. I was there in the autumn of 2021 and live there since the spring of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Gotland. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -192,9 +192,9 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Church Ruins <i>(Kyrkoruiner)</i>
     - Botanic Gardens <i>(Botaniska Trädgården)</i>
     - Visby Cathedral <i>(Visby Domkyrka)</i>
-41. Gotland
     - Lummelunda Cave <i>(Lummelundagrottan)</i>
     - Högklint Nature Reserve <i>(Högklint Naturreservat)</i>
+41. Ljugarn
     - Sea Stacks <i>(Raukar)</i>
     - Vitvärs Fisher Village <i>(Vitvärs Fiskeläge)</i>
 
@@ -238,11 +238,11 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Christmas & Easter Fuzzy Drinks <i>(Julmust och Påskmust)</i>
 - Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin" + Collections)</i>
 - Blueberry Wine <i>(Brand: "Rålund")</i>
-- <b>Västernorrland (special):</b> Toast with Chanterelles <i>(Rostat Bröd med Kantareller)</i>
-- <b>Västernorrland (special):</b> Venison with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 
-- <b>Västerbotten (special):</b> Västerbotten Cheese <i>(Västerbottensost)</i> 
-- <b>Gotland (special):</b> Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
- - <b>Gotland (special):</b> Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
+- <u>Västernorrland (special):</u> Toast with Chanterelles <i>(Rostat Bröd med Kantareller)</i>
+- <u>Västernorrland (special):</u> Venison with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 
+- <u>Västerbotten (special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
+- <u>Gotland (special):</u> Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
+- <u>Gotland (special):</u> Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
 
 <b>🎬 Local movies:</b>
 - A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
