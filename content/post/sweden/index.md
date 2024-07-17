@@ -243,6 +243,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - <u>Västerbotten (special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
 - <u>Gotland (special):</u> Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
 - <u>Gotland (special):</u> Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
+- <u>Västra Götaland (special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Hel Special / Halv Special)</i>
 
 <b>🎬 Local movies:</b>
 - A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy

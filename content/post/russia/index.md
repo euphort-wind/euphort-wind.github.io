@@ -200,7 +200,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Ukha <i>(Уха)</i> 
 - Okroshka <i>(Окрошка)</i>   
 - Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
-- Russian Dumplings <i>(Пельмени)</i> 
+- Russian Dumplings <i>(Пельмени)</i>
+- Coulibiac <i>(Кулебяка)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya" etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
