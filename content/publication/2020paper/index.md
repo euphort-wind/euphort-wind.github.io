@@ -5,9 +5,9 @@ title: 'Developing optimal ventilation system for a pasta production workshop us
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Larisa Starkova
   - Maxim Shcherbak
+  - admin
 
 date: '2020-07-01T00:00:00Z'
 doi: '10.1088/1757-899X/962/3/032011'

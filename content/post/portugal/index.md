@@ -64,7 +64,6 @@ Hej! I share an extract of my experience of visiting bright and contrasty Portug
 - 🇵🇹 Ivandro (singer). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
-- Portuguese Pastry <i>(Pastel de Nata & Pastel de Belém)</i>
 - Caldo Verde Soup <i>(Caldo verde)</i>
 - Bifana Sandwich <i>(Bifana)</i>
 - Salt Cod Croquettes <i>(Pastéis de Bacalhau)</i>
@@ -73,8 +72,10 @@ Hej! I share an extract of my experience of visiting bright and contrasty Portug
 - Cod with Double Cream <i>(Bacalhau com Natas)</i>
 - Serra da Estrela Cheese <i>(Queijo Serra da Estrela)</i>
 - Portuguese-style Octopus <i>(Polvo Grelhado)</i>
+- Portuguese Pastry <i>(Pastel de Nata)</i>
 - Port Wine <i>(Brand: "Ferreira")</i>
 - Green Wine <i>(Brand: "Muralhas Vinho Verde")</i>
+- <u>Lisbon (Regional Special):</u> De Belém Pastry <i>(Pastel de Belém)</i>
 
 
 <b>🎬 Local movies:</b>

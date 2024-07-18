@@ -238,12 +238,12 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Christmas & Easter Fuzzy Drinks <i>(Julmust och Påskmust)</i>
 - Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin" + Collections)</i>
 - Blueberry Wine <i>(Brand: "Rålund")</i>
-- <u>Västernorrland (special):</u> Toast with Chanterelles <i>(Rostat Bröd med Kantareller)</i>
-- <u>Västernorrland (special):</u> Venison with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 
-- <u>Västerbotten (special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
-- <u>Gotland (special):</u> Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
-- <u>Gotland (special):</u> Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
-- <u>Västra Götaland (special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Hel Special / Halv Special)</i>
+- <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Rostat Bröd med Kantareller)</i>
+- <u>Västernorrland (Regional Special):</u> Venison with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 
+- <u>Västerbotten (Regional Special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
+- <u>Gotland (Regional Special):</u> Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
+- <u>Gotland (Regional Special):</u> Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
+- <u>Västra Götaland (Regional Special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Hel Special / Halv Special)</i>
 
 <b>🎬 Local movies:</b>
 - A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy

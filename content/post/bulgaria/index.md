@@ -67,11 +67,11 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 
 <b>🥘 Local food & drinks: </b>
 - Shopska Salad <i>(Шопска салата)</i>
-- Bulgarian Pastry with Filling / Banica <i>(Баница)</i>
-- Cold Cucumber Soup / Tarator <i>(Таратор)</i>
+- Banica Pie <i>(Баница)</i>
+- Tarator Soup <i>(Таратор)</i>
 - Kebapche <i>(Кебапче)</i>
 - Kyufte <i>(Кюфте)</i>
-- Deep fried sprats / Tsatsa <i>(Цаца)</i>
+- Deep Fried Sprats / Tsatsa <i>(Цаца)</i>
 - Ayran <i>(Айрян)</i>
 - Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
 

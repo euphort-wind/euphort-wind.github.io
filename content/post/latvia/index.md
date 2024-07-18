@@ -54,11 +54,10 @@ Hej! I share an extract of my experience of visiting magnificent Latvia. I was t
 <b>🥘 Local food & drinks: </b>
 - Latvian Gray Peas with Bacon and Onion <i>(Pelēkie zirņi)</i>
 - Latvian Black Bread <i>(Rupjmaize)</i>
-- Riga Smoked Sprats <i>(Rīgas Šprotes)</i>
 - Latvian Bread Dessert <i>(Rupjmaizes kārtojums)</i>
 - Latvian Porridge <i>(Putra)</i>
 - Latvian Balsam <i>(Brand: "Rīgas Melnais Balzams")</i>
-
+- <u>Riga (Regional Special):</u> Smoked Sprats <i>(Rīgas Šprotes)</i>
 
 <b>🎬 Local movies:</b>
 - The Shot <i>(Nošāva)</i>. Year: 2019. Genre: short / comedy

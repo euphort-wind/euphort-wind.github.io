@@ -205,14 +205,14 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya" etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
-- <u>Bashkiria (special):</u> Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
-- <u>Bashkiria (special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
-- <u>Kabardino-Balkaria (special) :</u> Libzhe <i>(Либжа / Либжэ)</i>
-- <u>Balkarian-Balkaria (special):</u> Balkarian Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
-- <u>Karachay-Cherkessia (special):</u> Hychin Pie <i>(Хычин / Хычын)</i>
-- <u>North Ossetia (special):</u> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
-- <u>North Ossetia (special):</u> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
-- <u>North Ossetia (special):</u> Dzykka Porridge <i>(Дзыкка / Дзыкка)</i>
+- <u>Bashkiria (Regional Special):</u> Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
+- <u>Bashkiria (Regional Special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
+- <u>Kabardino-Balkaria (Regional Special) :</u> Libzhe <i>(Либжа / Либжэ)</i>
+- <u>Balkarian-Balkaria (Regional Special):</u> Balkarian Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
+- <u>Karachay-Cherkessia (Regional Special):</u> Hychin Pie <i>(Хычин / Хычын)</i>
+- <u>North Ossetia (Regional Special):</u> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
+- <u>North Ossetia (Regional Special):</u> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
+- <u>North Ossetia (Regional Special):</u> Dzykka Porridge <i>(Дзыкка / Дзыкка)</i>
 
 
 <b>🎬 Local movies:</b>

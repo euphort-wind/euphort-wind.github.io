@@ -88,7 +88,7 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
 - Burek <i>(Börek)</i>
 - Turkish Ice-cream <i>(Dondurma)</i>
 - Turkish Coffee <i>(Türk kahvesi)</i>
-- Turkish Flat Bread <i>(Pide)</i>
+- Pide <i>(Pide)</i>
 - Turkish Raki <i>(Brand: "Yeni Raki")</i>
 
 

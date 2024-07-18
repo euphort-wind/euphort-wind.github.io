@@ -61,7 +61,7 @@ Hej! I share an extract of my experience of visiting beautiful ultifaceted Belgi
 - Belgian Chocolate & Pralines <i>(Praliné au Chocolat / Chocolade Praliné)</i>
 - Belgian Waffles <i>(Gauffres Belges / Belgische Wafels)</i>
 - Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Blue Moon", "Leffe", "Delirium", "St. Bernardus")</i>
-- <u>Brussels (special):</u> Brussels Sprout <i>(Chou de Bruxelles / Spruitjes)</i>
+- <u>Brussels (Regional Special):</u> Brussels Sprout <i>(Chou de Bruxelles / Spruitjes)</i>
 
 
 <b>🎬 Local movies:</b>

@@ -49,7 +49,7 @@ Hej! I share an extract of my experience of visiting bright Thailand. I was ther
 - Thai Seafood Fried Rice <i>(ข้าวผัด)</i>
 - Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
 - Thai Rum <i>(Brand: "Sang Som")</i>
-- <u>Phuket (special)</u>: Seafood Barbeque on Sticks <i>(บาร์บีคิวทะเล)</i>
+- <u>Phuket (Regional Special)</u>: Seafood Barbeque on Sticks <i>(บาร์บีคิวทะเล)</i>
 
 <b>🎬 Local movies:</b>
 -  Thirteen Lives <i>(สิบสามชีวิต)</i>. Year: 2022. Genre: action / drama

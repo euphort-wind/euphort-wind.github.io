@@ -67,11 +67,11 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 - Avgolemono Soup <i>(Αυγολέμονο)</i>
 - Frappé Coffee <i>(Фραπέ)</i>
 - Greek Liqueur <i>(Brand: "Metaxa")</i> 
-- <u>Crete (special):</u> “Turban” Pies <i>(Σαρικό Πίτες)</i>
+- <u>Crete (Regional Special):</u> “Turban” Pies <i>(Σαρικό Πίτες)</i>
 
 
 <b>🎬 Local movies:</b>
-- What is it? <i>(Τι είναι αυτό?)</i>. Year: 2007. Genre: short / drama
+- What is it? <i>(Τι Eίναι Αυτό?)</i>. Year: 2007. Genre: short / drama
 - My Big Fat Greek Wedding. Year: 2002. Genre: comedy
 <br>
 

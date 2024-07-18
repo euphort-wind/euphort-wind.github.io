@@ -5,11 +5,11 @@ title: 'Modeling Business Processes Technology in the Information Service of Int
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Marina Medvedeva
   - Vladimir Timokhin
   - Helen Iskra
   - Vladimir Belousov
+  - admin
 
 date: '2021-07-01T00:00:00Z'
 

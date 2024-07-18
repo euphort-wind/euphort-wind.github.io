@@ -58,7 +58,7 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 - Indian Buffalo Steak <i>(भारतीय भैंस स्टेक)</i>
 - Naan <i>(नान)</i>
 - Tandoori Chicken <i>(तंदुरी चिकन)</i>
-- <u>Karnataka (special):</u> Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
+- <u>Karnataka (Regional Special):</u> Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
 
 
 <b>🎬 Local movies:</b>

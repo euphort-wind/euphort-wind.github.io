@@ -72,7 +72,7 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 <b>🥘 Local food & drinks: </b>
 - Norwegian Brown Cheese <i>(Brunost)</i>
 - Mutton and Cabbage <i>(Fårikål)</i>
-- Smoked and "Buried" Salmon <i>(Rökt och Gravad Lax)</i>
+- Smoked and "Buried" Salmon <i>(Røkt och Gravet Laks)</i>
 - Sour Cream Porridge <i>(Rømmegrøt)</i>
 - Norwegian Meatcakes with Pea Puree <i>(Kjøttkaker med Ertepuré)</i>
 - Akvavit <i>(Brands: "Løiten", "Linie" + Collections)</i>
