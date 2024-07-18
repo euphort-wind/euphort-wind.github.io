@@ -66,7 +66,7 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 
 
 <b>🥘 Local food & drinks: </b>
-- Shopska Salad <i>(Шопска салата)</i>
+- Shopska Salad <i>(Шопска Салата)</i>
 - Banica Pie <i>(Баница)</i>
 - Tarator Soup <i>(Таратор)</i>
 - Kebapche <i>(Кебапче)</i>

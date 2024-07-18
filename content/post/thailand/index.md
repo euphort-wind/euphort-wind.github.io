@@ -26,7 +26,7 @@ gallery_item:
 Hej! I share an extract of my experience of visiting bright Thailand. I was there in the winter of 2018. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Patong, Kathu, Racha Yai<br>
+<b>🗺 Places:</b> Patong, Kathu, Racha Yai.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Patong

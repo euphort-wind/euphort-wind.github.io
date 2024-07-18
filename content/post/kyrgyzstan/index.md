@@ -69,7 +69,7 @@ Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was 
 - Maksym Drink <i>(Максым)</i>
 - Chalap Drink <i>(Чалап)</i>
 - Aralash Drink <i>(Аралаш)</i>
-- <u>Issyk-Kul (Regional Special):</u> Ash-lyanfu Soup <i>(Аш-лянфу)</i>
+- <u>Issyk-Kul (Regional Special):</u> Ash-Lyanfu Soup <i>(Аш-Лянфу)</i>
 
 
 <b>🎬 Local movies:</b>
