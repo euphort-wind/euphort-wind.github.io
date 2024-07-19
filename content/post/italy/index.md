@@ -94,7 +94,7 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 
 
 <b>🥘 Local food & drinks: </b>
-- Meat Products <i>(Carpaccio, Bresaola, Mortadella, Prosciutto, Salami, etc.)</i>
+- Italian Lunch Meats <i>(Carpaccio, Bresaola, Mortadella, Prosciutto, Salami, etc.)</i>
 - Italian Cheese <i>(Parmigiano Reggiano, Mozzarella, Ricotta, Mascarpone etc.)</i>
 - Pasta <i>(Farfalle, Spaghetti, Fettuccine, Fusilli etc.)</i>
 - Pizza <i>(Quattro Formaggi, Margherita, Capricciosa, etc.)</i>
@@ -103,7 +103,7 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 - Panini <i>(Panino)</i>
 - Risotto <i>(Risotto)</i>
 - Frittata <i>(Frittata)</i>
-- Pesto sauce <i>(Pesto)</i>
+- Pesto Sauce <i>(Pesto)</i>
 - Ossobuco <i>(Osso Buco)</i>
 - Panna Cotta <i>(Panna Cotta)</i>
 - Tiramisu <i>(Tiramisu)</i>
