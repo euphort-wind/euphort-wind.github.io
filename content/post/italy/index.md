@@ -44,7 +44,7 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
     - Colle Oppio Park <i>(Parco di Colle Oppio)</i>
     - The Lateran Basilica & Laternan Obelisk <i>(Archbasilica & Tekhen Waty)</i>
 2. Pisa 
-    - The Leaning Tower of Pisa & Miracoli Square <i>(Torre pendente di Pisa & Piazza dei Miracoli)</i>
+    - The Leaning Tower of Pisa & Miracoli Square <i>(Torre Pendente di Pisa & Piazza dei Miracoli)</i>
     - Knights’ Square <i>(Piazza dei Cavalieri)</i>
     - Mezzo Bridge <i>(Ponte di Mezzo)</i>
 3. Florence
