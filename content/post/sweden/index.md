@@ -266,6 +266,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - The Swedish Coffee Break <i>(Fika)</i>
 - Crayfish Party <i>(Kräftskiva)</i>
 - Midsummer Celebration <i>(Midsommar)</i>
+- St. Lucy's Day <i>(Lucia)</i>
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - Authentic Garb: Klädedräkten <i>(Klädedräkten)</i>
 - The Hambo Dance <i>(Hambo)</i>
