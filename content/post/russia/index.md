@@ -245,7 +245,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - <u>Orenburzhie (Regional Special):</u> Culture of the Orenburg Cossacks <i>(Культура Оренбургских Казаков)</i>
 - <u>Orenburzhie (Regional Special):</u> Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i>
 - <u>Chelyabinsk (Regional Special):</u> Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
-- <u>Chelyabinsk (Regional Special):</u> Culture of Nağaybäks <i>(Культура Нагайбаков / Нагайбәкләр))</i>
+- <u>Chelyabinsk (Regional Special):</u> Culture of Nağaybäks <i>(Культура Нагайбаков / Нагайбәкләр)</i>
 
 
 
