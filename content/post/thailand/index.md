@@ -57,6 +57,7 @@ Hej! I share an extract of my experience of visiting bright Thailand. I was ther
 <b>🪔 Authentic artifacts:</b>
 - Authentic Principle: Thainess <i>(ความเป็นไทย)</i>
 - Thai Massage <i>(นวดแผนไทย)</i>
+- Muay Thai <i>(มวยไทย)</i>
 - The Kathoey <i>(กะเทย)</i>
 - Thai Script <i>(อักษรไทย)</i>
 - Authentic Garb: Panung <i>(ผ้านุ่ง)</i>

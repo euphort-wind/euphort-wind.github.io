@@ -79,6 +79,7 @@ Hej! I share an extract of my experience of visiting astonishing Kazakhstan. I w
 - The Dombra <i>(Домбыра)</i> 
 - Kazakh Horse Riding Sport <i>(Аламан Бәйге)</i> 
 - Authentic Garb: Shapan & Borik <i>(Шапан пен Борик)</i> 
+- The Legacy of Abai <i>(Абай Мұрасы)</i> 
 
 
 <b>🦉 Local wisdom:</b> "A united hundred is stronger than a divided thousand" / <i>"Біріккен жүз, бытыраңқы мыңды алады"</i> — Kazakh proverb

@@ -270,6 +270,10 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - Authentic Garb: Klädedräkten <i>(Klädedräkten)</i>
 - The Hambo Dance <i>(Hambo)</i>
+- <u>Gotland (Regional Special):</u> Guta Saga <i>(Gutasagan / Gutasaga)</i>
+- <u>Gotland (Regional Special):</u> Visby Medieval Architecture <i>(Visby Medeltidsarkitektur / Häus u Häusar)</i>
+- <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
+
 
 
 <b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece" / "<i>Den som gapar över mycket mister ofta hela stycket</i>" — Swedish proverb

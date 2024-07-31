@@ -64,6 +64,7 @@ Hej! I share an extract of my experience of visiting marvelous Denmark. I was th
 - Danish Fried Pork <i>(Stegt Flæsk)</i>
 - Danish Pastry <i>(Wienerbrød)</i>
 - Danish Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
+- <u>North Jutland (Regional Special):</u> Skagen Shrimp Mix <i>(Skagenrøre)</i>
 
 
 <b>🎬 Local movies:</b>

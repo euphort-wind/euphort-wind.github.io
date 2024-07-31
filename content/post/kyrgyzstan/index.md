@@ -82,6 +82,7 @@ Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was 
 - Kyrgyz Yurts <i>(Кыргыз боз Yйлөрү)</i> 
 - The Culture of Nomads <i>(Көчмөндөрдүн Маданияты)</i> 
 - Authentic Garb: Ak-Kalpak and Beldemchi <i>(Ак-Калпак менен Белдемчи)</i> 
+- <u>Issyk-Kul (Regional Special):</u> Legends of Issyk-Kul & Cholpon-Ata <i>(Ысык-Көл жана Чолпон-Ата Легендалары)</i>
 
 
 <b>🦉 Local wisdom:</b> "The wolf cannot get enough of sheep, the ear cannot get enough of words, the mind cannot get enough of thoughts, the eye cannot get enough of seeing, the bird cannot get enough of flying" / <i>"Бөрү — койго тойбойт, кулак — сөзгө тойбойт, көңүл — ойго тойбойт, көз — көргөнгө тойбойт, куш — учканга тойбойт"</i> — Kyrgyz proverb

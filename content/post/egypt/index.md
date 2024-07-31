@@ -55,12 +55,14 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 
 
 <b>🪔 Authentic artifacts:</b>
+- The Culture of Copts <i>(الثقافة القبطية / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>
 - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
 - Ancient Egyptian Sarcophaguses & Mummies <i>(التوابيت المصرية القديمة)</i>
 - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
 - Desert Safari <i>(رحلات السفاري الصحراوية)</i>
 - The Henna Painting <i>(رسمة الحناء)</i>
 - Authentic Garb: Galabiya <i>(جالبيا)</i>
+
 
 <b>🦉 Local wisdom:</b> "Being alone is better than being with someone bad" / <i>"الوحدة خير من جليس السوء"</i> — Egyptian proverb
 

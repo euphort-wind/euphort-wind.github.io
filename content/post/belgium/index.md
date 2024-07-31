@@ -61,7 +61,7 @@ Hej! I share an extract of my experience of visiting beautiful ultifaceted Belgi
 - Belgian Chocolate & Pralines <i>(Praliné au Chocolat / Chocolade Praliné)</i>
 - Belgian Waffles <i>(Gauffres Belges / Belgische Wafels)</i>
 - Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Blue Moon", "Leffe", "Delirium", "St. Bernardus")</i>
-- <u>Brussels (Regional Special):</u> Brussels Sprout <i>(Chou de Bruxelles / Spruitjes)</i>
+- <u>Brussels-Capital (Regional Special):</u> Brussels Sprout <i>(Chou de Bruxelles / Spruitjes)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -75,6 +75,7 @@ Hej! I share an extract of my experience of visiting beautiful ultifaceted Belgi
 - The Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
 - Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
 - The Friterie Culture <i>(Frituur / Frietkot)</i>
+- <u>Brussels-Capital (Regional Special):</u> Flower Carpet <i>(Tapis de Fleurs / Bloementapijt)</i>
 
 <b>🦉 Local wisdom:</b> "If you want butter, you have to beat it" / "<i>Si tu veux du beurre, il en faut battre / Als je boter wilt, moet je het kloppen</i>" — Belgian proverb
 

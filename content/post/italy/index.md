@@ -126,10 +126,13 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 - Authentic Ancient Garb: Toga & Palla <i>(Toga e Palla)</i> 
 - Italian Folk Music <i>(Musica Popolare italiana)</i> 
 - Latin Alphabet <i>(Alfabeto Latino)</i> 
-- The Renaissance Cultural Movement <i>(Il Movimento Culturale Rinascimentale)</i> 
 - The Tarantella Dance <i>(Tarantella)</i> 
 - Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace" etc.)</i> 
-- Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT" etc.)</i> 
+- Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT" etc.)</i>
+- <u>Tuscany (Regional Special):</u> The Renaissance Cultural Movement <i>(Il Movimento Culturale Rinascimentale)</i> 
+- <u>Tuscany (Regional Special):</u> Medici Porcelain <i>(Porcellane Medicee)</i> 
+- <u>Emilia-Romagna (Regional Special):</u> Bologna Process <i>(Processo di Bologna)</i> 
+- <u>Emilia-Romagna (Regional Special):</u> Liscio <i>(Ballo Liscio)</i> 
 
 
 <b>🦉 Local wisdom:</b> "He who leaves the old path for the new knows what he leaves, and does not know what he finds"  / "<i>Chi lascia la via vecchia per la nuova, sa quel che lascia, e non sa quel che trova</i>" — Italian proverb

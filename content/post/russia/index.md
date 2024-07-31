@@ -207,7 +207,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
 - <u>Bashkiria (Regional Special):</u> Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
 - <u>Bashkiria (Regional Special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
-- <u>Kabardino-Balkaria (Regional Special) :</u> Libzhe <i>(Либжа / Либжэ)</i>
+- <u>Kabardino-Balkaria (Regional Special):</u> Libzhe <i>(Либжа / Либжэ)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkarian Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Hychin Pie <i>(Хычин / Хычын)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
@@ -233,6 +233,22 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-ушанка)</i> 
 - The Culture of Old Believers <i>(Культура Староверов)</i> 
 - Russian Cars <i>(Brands: "GAZ", "LADA" etc.)</i> 
+- <u>Bashkiria (Regional Special):</u> Sabantuy <i>(Сабантуй / һабантуй)</i>
+- <u>Bashkiria (Regional Special):</u> Epos of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
+- <u>Bashkiria (Regional Special):</u> The Quray <i>(Курай / Ҡурай)</i>
+- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Kiyiz <i>(Балкарский Войлок / Кийизы)</i>
+- <u>Kabardino-Balkaria (Regional Special):</u> Bychak Knife <i>(Бичак / Бычак)</i>
+- <u>Karachay-Cherkessia (Regional Special):</u> Cherkessian Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
+- <u>Karachay-Cherkessia (Regional Special):</u> Karachay-Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
+- <u>North Ossetia (Regional Special):</u> Uasdin Religion <i>(Уашдин / Уасдин)</i>
+- <u>North Ossetia (Regional Special):</u> Simd Dance <i>(Симд / Синд)</i>
+- <u>Orenburzhie (Regional Special):</u> Culture of the Orenburg Cossacks <i>(Культура Оренбургских Казаков)</i>
+- <u>Orenburzhie (Regional Special):</u> Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i>
+- <u>Chelyabinsk (Regional Special):</u> Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
+- <u>Chelyabinsk (Regional Special):</u> Culture of Nağaybäks <i>(Культура Нагайбаков / Нагайбәкләр))</i>
+
+
+
 
 
 <b>🦉 Local wisdom:</b> "The only thing better than mountains are mountains that you have never been to before" / "<i>Лучше гор могут быть только горы, на которых ещё не бывал</i>" — Vladimir Vysotsky (Soviet singer-songwriter and poet)

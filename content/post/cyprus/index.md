@@ -64,7 +64,7 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
 <b>🪔 Authentic artifacts:</b>
 - Worry Beads <i>(Кομπολόι)</i>
 - The Laouto <i>(Λαούτο)</i>
-- Lefkara Lace <i>(Δαντέλα Λεύκαρα)</i>
+- <u> Larnaca (Regional Special):</u> Lefkara Lace <i>(Δαντέλα Λεύκαρα)</i>
 
 
 <b>🦉 Local wisdom:</b> "Some live by the effort and others live by the way" / "<i>Άλλοι ζιούσιν με τον κόπον κι άλλοι ζιούσιν με τον τρόπον</i>" — Cypriot proverb

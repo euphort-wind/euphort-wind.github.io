@@ -73,6 +73,7 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 - Kyufte <i>(Кюфте)</i>
 - Deep Fried Sprats / Tsatsa <i>(Цаца)</i>
 - Ayran <i>(Айрян)</i>
+- Chushki Burek <i>(Чушка Бюрек)</i>
 - Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
 
 

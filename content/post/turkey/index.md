@@ -89,7 +89,10 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
 - Turkish Ice-cream <i>(Dondurma)</i>
 - Turkish Coffee <i>(Türk kahvesi)</i>
 - Pide <i>(Pide)</i>
+- Turkish Turnip Water <i>(Şalgam Suyu)</i>
 - Turkish Raki <i>(Brand: "Yeni Raki")</i>
+- <u>İstanbul (Regional Special):</u> Balık Ekmek <i>(Balık Ekmek)</i>
+- <u>Antalya (Regional Special):</u> Shish Kofta <i>(Şiş Köfte)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -103,6 +106,8 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
 - Authentic Garb: Kaftan and Shalvar and Yelek <i>(Kaftan ve Şalvar ve Yelek)</i>
 - The Meddahs <i>(Meddah)</i>
 - Turkish Arhcitecture <i>(Türk Mimarisi)</i>
+- <u>İstanbul (Regional Special):</u> Byzantine Culture <i>(Bizans Kültürü)</i>
+- <u>İstanbul (Regional Special):</u> Shoeshiners <i>(Ayakkabı Boyacısı)</i>
 
 
 <b>🦉 Local wisdom:</b> "A wise man does not say what he knows; The stupid man does not know what he is saying" / <i>"Akıllı adam bildiğini söylemez; salak adam söylediğini bilmez"</i> — Turkish proverb
