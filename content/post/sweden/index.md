@@ -26,7 +26,7 @@ gallery_item:
 Hej! I share an extract of my life in charming Sweden. I was there in the autumn of 2021 and live there since the spring of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Jönköping, Linköping, Lerum, Alingsås, Öckerö, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Brännö, Strysö, Donsö, Vrångö, Ockerö, Hönö, Björkö,  Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -45,7 +45,6 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Slottsskogen <i>(Slottsskogen Park)</i>
     - The Garden Society <i>(Trädgårdsföreningen)</i>
     - Gothenburg Botanical Garden <i>(Botaniska)</i>
-    - Southern Gothenburg Archipelago <i>(Brännö, Styrsö, Donsö, Vrångö)</i>
 3. Mölndal
     - Gunnebo Palace <i>(Gunnebo Slott och Trädgårdar)</i>
     - Town Museum <i>(Mölndals Stadsmuseum)</i>
@@ -99,94 +98,105 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 16. Partille 
     - Partille Church <i>(Partille Kyrkan)</i>
     - Jonsered Factories <i>(Jonsered Fabriker)</i>
-17. Jönköping
+17. Brännö
+    - Brännö Brygga <i>(Brännö Brygga)</i>
+18. Styrsö
+    - Stora Rös <i>(Stora Rös)</i>
+19. Donsö
+    - Donsö Harbour <i>(Donsö Hamn)</i>
+20. Vrångö
+    - Vrångö Beach <i>(Vrångö Sandstrand)</i>
+    - Lotsutkiken <i>(Lotsutkiken)</i>
+21. Ockerö
+    - Öckerö Harbour <i>(Öckerö Hamn)</i>
+22. Hönö
+    - Hönö Klåva <i>(Hönö Klåva)</i>
+23. Björkö
+    - Björkö Harbour <i>(Björkö Hamn)</i>
+    - Björkö Minigolf <i>(Björkö Minigolfbanan)</i>
+24. Jönköping
     - City Hall Park <i>(Rådhusparken)</i>
     - City Park <i>(Stadsparken)</i>  
     - Sofia Church <i>(Sofiakyrkan)</i> 
-18. Linköping
+25. Linköping
     - Main Square <i>(Stora Torget)</i>
     - Trädgårdsföreningen <i>(The Garden Society)</i> 
     - Linköping Cathedral <i>(Linköping Domkyrka)</i>
-19. Lerum
+26. Lerum
     - Lerum Church <i>(Lerums Kyrka)</i>
-20. Alingsås
+27. Alingsås
     - Nolhaga Park <i>(Nolhaga Lantgård)</i>
     - Alingsås Centre <i>(Alingsås Centre)</i>
-21. Öckerö
-    - Hönö Klåva <i>(Hönö Klåva)</i>
-    - Öckerö Harbour <i>(Öckerö Hamn)</i>
-    - Björkö Harbour <i>(Björkö Hamn)</i>
-    - Björkö Minigolf <i>(Björkö Minigolfbanan)</i>
-22. Trollhättan
+28. Trollhättan
     - Trollhättan Waterfall <i>(Trollhättefallen)</i>
     - Kings' Cave <i>(Kungsgrottan)</i>
     - SAAB Car Museum <i>(SAAB Bilmuseum)</i>
-23. Marstrand 
+29. Marstrand 
     - Marstrand Centre <i>(Marstrand Centre)</i>
     - Carlstens Fortress <i>(Carlstens Fästning)</i>
-24. Skärhamn
+30. Skärhamn
     - Skärhamn Centre <i>(Skärhamn Centre)</i>
     - Nordic Watercolor Museum <i>(Nordiska Akvarellmuseet)</i>
     - Skärhamn Church <i>(Skärhamn Kyrkan)</i>
-25. Sollentuna
+31. Sollentuna
     - Edsberg Castle <i>(Edsberg Slott)</i>
     - Stallbacken Museum <i>(Stallbacken)</i>
-26. Uppsala
+32. Uppsala
     - Uppsala Cathedral & Treasury <i>(Uppsala Domkyrka)</i>
     - Uppsala Castle <i>(Uppsala Slott)</i>
     - Uppsala University <i>(Uppsala Universitet)</i>
-27. Sigtuna
+33. Sigtuna
     - Main Street <i>(Stora Gatan)</i>    
     - St. Pers Church <i>(St. Pers Kyrkoruin)</i>    
     - St. Olofs Church <i>(St. Olofs Kyrkoruin)</i>  
     - Sigtuna Runestones <i>(Sigtuna Runstenar)</i>
-28. Norrtälje 
+34. Norrtälje 
     - Tullports Street <i>(Tullportsgatan)</i>
     - South Mountain <i>(Södra Bergen)</i>
-29. Borås
+35. Borås
     - Main Square <i>(Stora Torget)</i>
     - Caroli Church <i>(Caroli Kyrkan)</i>
     - The Textile Museum <i>(Textilmuseet)</i>
-30. Falköping
+36. Falköping
     - Mösseberg's Park <i>(Mösseberg Kurorten och Parken)</i> 
     - The Observation Tower <i>(Mösseberg Torn)</i> 
     - Mösseberg's Zoo <i>(Mössebergs Djurpark)</i> 
     - Falbygdens Museum <i>(Falbygdens Museum)</i> 
-31. Vårgårda
+37. Vårgårda
     - Mopar Café <i>(Mopar Café)</i> 
     - Vårgårda Museum <i>(Vårgårda Hembygdsförening)</i> 
     - Kullings-Skövde Church <i>(Kullings-Skövde Kyrka)</i> 
-32. Vänersborg
+38. Vänersborg
     - Vänersborg Museum <i>(Vänersborg Museum)</i> 
     - Vänersborg Church <i>(Vänersborg Kyrka)</i> 
     - Frida's Statue <i>(Fridastatyn)</i>
-33. Lidköping
+39. Lidköping
     - Lidköping Town Hall <i>(Lidköpings Rådhus)</i> 
     - St. Nicolai Church <i>(S:t Nicolai Kyrka)</i> 
-34. Stenungsund
+40. Stenungsund
     - Stenungsund Chapel <i>(Stenungsunds Kapell)</i> 
     - Stenungsund Port <i>(Stenungsund Hamn)</i> 
-35. Falkenberg
+41. Falkenberg
     - Vallarna Park <i>(Vallarna Park)</i> 
     - Tullbron & Old City <i>(Tullbron och Gamla Stan)</i> 
     - Skrea Beach <i>(Skrea Strand)</i> 
-36. Örebro
+42. Örebro
     - Örebro Castle <i>(Örebro Slott)</i> 
     - Wadköping <i>(Wadköping)</i> 
     - Svampen Water Tower <i>(Svampen)</i> 
-37. Ekerö
+43. Ekerö
     - Drottningholm Palace <i>(Drottningholm Slott)</i> 
     - Ekebyhov Castle <i>(Ekebyhov Slott)</i> 
-38. Västerås
+44. Västerås
     - Vasa Park <i>(Vasaparken)</i>
     - Västerås Castle <i>(Västerås Slott)</i>
     - Västerås Cathedral <i>(Västerås Domkyrka)</i>
     - Kyrkbacken <i>(Kyrkbacken)</i>
     - Anundshög <i>(Anundshög)</i>
-39. Uddevalla 
+45. Uddevalla 
     - Bohusläns Museum <i>(Bohusläns Museum)</i>
     - Kungs Square <i>(Kungstorget)</i>
-40. Visby
+46. Visby
     - Visby City Wall <i>(Visby Ringmur)</i>
     - Gotlands Museum <i>(Gotlands Fornsal)</i>
     - Church Ruins <i>(Kyrkoruiner)</i>
@@ -194,12 +204,12 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Visby Cathedral <i>(Visby Domkyrka)</i>
     - Lummelunda Cave <i>(Lummelundagrottan)</i>
     - Högklint Nature Reserve <i>(Högklint Naturreservat)</i>
-41. Ljugarn
+47. Ljugarn
     - Sea Stacks <i>(Raukar)</i>
     - Vitvärs Fisher Village <i>(Vitvärs Fiskeläge)</i>
-42. Henån
+48. Henån
     - Småholmarna Beach <i>(Småholmarna)</i>
-43. Solna
+49. Solna
     - Haga Park <i>(Hagaparken)</i>
     - Solna Church <i>(Solna Kyrka)</i>
 
