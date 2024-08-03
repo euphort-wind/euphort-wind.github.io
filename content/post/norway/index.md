@@ -76,7 +76,7 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 - Sour Cream Porridge <i>(Rømmegrøt)</i>
 - Norwegian Meatcakes with Pea Puree <i>(Kjøttkaker med Ertepuré)</i>
 - Akvavit <i>(Brands: "Løiten", "Linie" + Collections)</i>
-- <u>Vestland (Regional Special):</u> Pressed Cod <i>(Persetorsk)</i>
+- <u>Vestland (Regional Special):</u> Bergen Pressed Cod <i>(Persetorsk)</i>
 
 <b>🎬 Local movies:</b>
 - Headhunters <i>(Hodejegerne)</i>. Year: 2011. Genre: Action/Thriller

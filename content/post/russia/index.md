@@ -232,6 +232,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - The Horovod Dance <i>(Хоровод)</i> 
 - Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-ушанка)</i> 
 - The Culture of Old Believers <i>(Культура Староверов)</i> 
+- Russian Hardbass <i>(Хардбасс)</i> 
 - Russian Cars <i>(Brands: "GAZ", "LADA" etc.)</i> 
 - <u>Bashkiria (Regional Special):</u> Sabantuy <i>(Сабантуй / һабантуй)</i>
 - <u>Bashkiria (Regional Special):</u> Epos of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>

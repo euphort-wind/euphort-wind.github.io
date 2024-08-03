@@ -60,7 +60,7 @@ Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was 
 - 🇰🇬 Aizhamal Kabylova (singer). Genre: pop 
 - 🇰🇬 Aya Sadyrova (singer). Genre: pop 
 - 🇰🇬 Talant 60'k (singer). Genre: pop 
-
+- 🇺🇳 Vtoroi Ka (band). Genre: post punk
 
 <b>🥘 Local food & drinks: </b>
 - Laghman <i>(Лагман)</i>
