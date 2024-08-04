@@ -216,11 +216,14 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 
 
 <b>🎬 Local movies:</b>
-- The Fool <i>(Дурак)</i>. Year: 2014. Genres: drama / thriller
-- Kitchen <i>(Кухня)</i>. Year: 2012-2016. Genres: sitcom (series)
-- Trigger <i>(Триггер)</i>. Year: 2020-2022. Genres: thriller (series)
-- Alyosha Popovich and Tugarin Zmey <i>(Алеша Попович и Тугарин Змей)</i>. Year: 2004. Genres: comedy
-- The Humorist <i>(Юморист)</i>. Year: 2019. Genres: drama
+- The Fool <i>(Дурак)</i>. Year: 2014. Genre: drama / thriller
+- To Live <i>(Жить)</i>. Year: 2010. Genre: drama / thriller
+- The Kitchen <i>(Кухня)</i>. Year: 2012-2016. Genre: sitcom (series)
+- The Trigger <i>(Триггер)</i>. Year: 2020-2022. Genre: thriller (series)
+- How Vitka Chesnok Drove Lyokha Shtyr to the House for Disabled <i>(Как Витька Чеснок Вёз Лёху Штыря в Дом Инвалидов)</i>. Year: 2017. Genre: road movie / drama
+- The Text <i>(Текст)</i>. Year: 2019. Genre: drama
+- Alyosha Popovich and Tugarin Zmey <i>(Алеша Попович и Тугарин Змей)</i>. Year: 2004. Genre: cartoon
+- The Humorist <i>(Юморист)</i>. Year: 2019. Genre: drama
 
 
 <b>🪔 Authentic artifacts:</b>
