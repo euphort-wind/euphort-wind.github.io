@@ -61,4 +61,8 @@ security:
 sitemap:
   _merge: deep
 minify:
-  _merge: deep
+  _merge: 
+
+theme:
+  - hugo-shortcode-roneo-collection
+  - YourCurrentTheme
