@@ -1,8 +1,6 @@
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
-  
-theme = ['hugo-shortcode-roneo-collection', 'YourCurrentTheme']
 
 [build.environment]
   HUGO_VERSION = "0.119.0"

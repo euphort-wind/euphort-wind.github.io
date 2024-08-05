@@ -2,6 +2,7 @@
 title: 🇻🇦 Vatican
 date: '2024-03-01'
 summary: Trip to Vatican
+theme = ['hugo-shortcode-roneo-collection', 'YourCurrentTheme']
 
 gallery_item:
   - album: vatican
