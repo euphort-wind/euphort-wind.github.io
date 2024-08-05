@@ -41,7 +41,7 @@ Hej! I share an extract of my experience of visiting blessed Vatican. I was ther
 
 
 <b>🥘 Local food & drinks: </b>
-- {{< ico "heart" >}} Dry Red Wine <i>(Vinum Siccum Rubrum)</i>
+- Dry Red Wine <i>(Vinum Siccum Rubrum)</i>
 - Baked pasta <i>(Coxit Adipiscing)</i>
 - Grissini <i>(Grissini)</i>
 
