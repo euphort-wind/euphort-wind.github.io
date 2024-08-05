@@ -40,7 +40,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Crown Sconce <i>(Skansen Kronan)</i>
     - Haga District <i>(Haga)</i>
     - Fish Market <i>(Feskekörka)</i> 
-    - Museum of Fine Art & Poseidon Sculpture <i>(Goteborgs Konstmuseum)</i> 
+    - Museum of Fine Art & Poseidon Sculpture <i>(Göteborgs Konstmuseum)</i> 
     - Gothenburg Cathedral <i>(Göteborg Domkyrkan)</i>
     - Slottsskogen <i>(Slottsskogen Park)</i>
     - The Garden Society <i>(Trädgårdsföreningen)</i>
