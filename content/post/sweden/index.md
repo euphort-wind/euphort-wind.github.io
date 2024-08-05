@@ -239,7 +239,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - 🇺🇳 Crazy Frog (musician). Genre: eurodance
 
 <b>🥘 Local food & drinks: </b>
-- Swedish Meatballs with Mashed Potatoes, Lingonberry Jam and Cream Sauce <i>(Köttbullar)</i>
+- {{< icon name="lgu.svg" >}}Swedish Meatballs with Mashed Potatoes, Lingonberry Jam and Cream Sauce <i>(Köttbullar)</i>
 - Fermented Herring <i>(Surströmming)</i>
 - Crispbread <i>(Knäckebröd)</i>
 - Pyttipanna <i>(Pytt-i-Panna)</i>
