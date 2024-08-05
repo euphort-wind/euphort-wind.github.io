@@ -249,6 +249,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Saffron Buns <i>(Lussekatter)</i>
 - Swedish Chocolate Cake <i>(Kladdkaka)</i>
 - Jansson's Temptation <i>(Janssons Frestelse)</i>
+- Flying Jacob <i>(Flygande Jacob)</i>
 - Boiled Egg with Caviar <i>(Ägg med Kaviar)</i> 
 - Christmas & Easter Fuzzy Drinks <i>(Julmust och Påskmust)</i>
 - Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin" + Collections)</i>
