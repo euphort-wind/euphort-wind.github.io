@@ -62,7 +62,3 @@ sitemap:
   _merge: deep
 minify:
   _merge: 
-
-theme:
-  - hugo-shortcode-roneo-collection
-  - YourCurrentTheme
