@@ -244,7 +244,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - <u>Kabardino-Balkaria (Regional Special):</u> Bychak Knife <i>(Бичак / Бычак)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Cherkessian Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Karachay-Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
-- <u>North Ossetia (Regional Special):</u> Uasdin Religion <i>(Уашдин / Уасдин)</i>
+- <u>North Ossetia (Regional Special):</u> Assianism <i>(Уасдин / Уацдин)</i>
 - <u>North Ossetia (Regional Special):</u> Simd Dance <i>(Симд / Синд)</i>
 - <u>Orenburzhie (Regional Special):</u> Culture of the Orenburg Cossacks <i>(Культура Оренбургских Казаков)</i>
 - <u>Orenburzhie (Regional Special):</u> Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i>
