@@ -20,8 +20,8 @@ gallery_item:
     image: 5church.jpg
     caption: Church of Hagia Trias (Agios Nikolaos)
   - album: greece
-    image: 6giros.jpg
-    caption: Greek gyros
+    image: 6giros.jpeg
+    caption: Greek Gyros
 ---
 Hej! I share an extract of my experience of visiting graceful Greece. I was there just in the summer of 2012 and in the summer of 2015. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
