@@ -98,7 +98,6 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 
 <b>👨‍🎓The oldest university:</b> Vilnius University <i>(Vilniaus Universitetas)</i>, Vilnius, est. 1579.  
 
-
-{{< gallery album="greece" crop_options="150x150" >}}
+{{< gallery album="lithuania" crop_options="150x150" >}}
    
 
