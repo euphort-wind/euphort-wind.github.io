@@ -138,7 +138,7 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 <b>🦉 Local wisdom:</b> "He who leaves the old path for the new knows what he leaves, and does not know what he finds"  / "<i>Chi lascia la via vecchia per la nuova, sa quel che lascia, e non sa quel che trova</i>" — Italian proverb
 
 
-<b>👨‍🎓The oldest university:</b> <a href = "https://www.unibo.it/en/homepage" target="_blank">The University of Bologna</a> <i>(Alma Mater Studiorum – Università di Bologna)</i>, Bologna, est. 1088. 
+<b>👨‍🎓The oldest university:</b> The University of Bologna <i>(Alma Mater Studiorum – Università di Bologna)</i>, Bologna, est. 1088. 
 
 
 {{< gallery album="italy" crop_options="150x150" >}}

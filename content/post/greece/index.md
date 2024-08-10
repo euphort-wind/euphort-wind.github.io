@@ -23,7 +23,7 @@ gallery_item:
     image: 6giros.jpeg
     caption: Greek Gyros
 ---
-Hej! I share an extract of my experience of visiting graceful Greece. I was there just in the summer of 2012 and in the summer of 2015. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting graceful Greece. I was there in the summer of 2012 and in the summer of 2015. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> Rhodes, Agios Nikolaos, Heraklion, Gournes, Oia.<br>
@@ -94,7 +94,7 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 <b>🦉 Local wisdom:</b> "The one who lives will see, but the one who walks will see more" / "<i>Όποιος ζήσει θα ιδεί, μα όποιος περπατήσει θα ιδεί περισσότερα</i>" — Greek proverb
 
 
-<b>👨‍🎓The oldest university:</b> <a href = "https://en.uoa.gr/" target="_blank">The National and Kapodistrian University of Athens</a> <i>(Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών)</i>, Zografou, est. 1837.  
+<b>👨‍🎓The oldest university:</b> The National and Kapodistrian University of Athens <i>(Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών)</i>, Zografou, est. 1837.  
 
 
 {{< gallery album="greece" crop_options="150x150" >}}

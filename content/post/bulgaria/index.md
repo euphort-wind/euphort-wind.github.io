@@ -90,7 +90,7 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 <b>🦉 Local wisdom:</b> "The new broom sweeps cleanly, but the old one knows the corners" / "<i>Новата метла чисто мете, но старата пък знае ъглите</i>" — Bulgarian proverb
 
 
-<b>👨‍🎓The oldest university:</b> <a href = "https://uni-sofia.bg/index.php/eng" target="_blank">Sofia University</a> <i>(Софийски университет)</i>, Sofia, est. 1888.  
+<b>👨‍🎓The oldest university:</b> Sofia University <i>(Софийски Университет)</i>, Sofia, est. 1888.  
 
 
 {{< gallery album="bulgaria" crop_options="150x150" >}}

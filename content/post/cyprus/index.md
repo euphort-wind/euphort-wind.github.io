@@ -70,7 +70,7 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
 <b>🦉 Local wisdom:</b> "Some live by the effort and others live by the way" / "<i>Άλλοι ζιούσιν με τον κόπον κι άλλοι ζιούσιν με τον τρόπον</i>" — Cypriot proverb
 
 
-<b>👨‍🎓The oldest university:</b> <a href = "https://euc.ac.cy/en/" target="_blank">The European University Cyprus</a> <i>(Ευρωπαϊκό Πανεπιστήμιο Κύπρου)</i>, Engomi, est. 1961.  
+<b>👨‍🎓The oldest university:</b> The European University Cyprus <i>(Ευρωπαϊκό Πανεπιστήμιο Κύπρου)</i>, Engomi, est. 1961.  
 
 
 {{< gallery album="cyprus" crop_options="150x150" >}}
