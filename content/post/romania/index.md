@@ -62,7 +62,7 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 
 
 <b>🪔 Authentic artifacts:</b>
-- The Culture of Romani <i>(Cultura Romani)</i>
+- The Culture of Romani <i>(Cultura Romani / Roma)</i>
 - Romanian Hora Dance <i>(Hora)</i>
 - Paparuda Ritual <i>(Păpăluga)</i> 
 - Authentic Garb: Caciula and Ie <i>(Căciulă si Ie)</i> 

@@ -81,6 +81,7 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 - Lithuanian Beer <i>(Brand: "Kalnapilis")</i> 
 - <u>Vilnius (Regional Special):</u> Kibinai <i>(Kibinai / Kybynlar)</i>
 
+
 <b>🎬 Local movies:</b>
 - Nova Lituania <i>(Nova Lituania)</i>. Year: 2019. Genre: drama
 - The Generation of Evil <i>(Piktuju Karta)</i>. Year: 2021. Genre: thriller
@@ -89,7 +90,6 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 <b>🪔 Authentic artifacts:</b>
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - Sutartines Songs <i>(Sutartinės)</i>
-- Slap House Music <i>[EDM Genre]</i>
 - <u>Vilnius (Regional Special):</u> Culture of Lithuanian Karaites <i>(Lietuvos Karaimų Kultūra / Karajlar)</i>
 
 <b>🦉 Local wisdom:</b> "Flax is not yet sown and they are already weaving the linen" / "<i>Linai nesėti, o jau drobes audžia</i>" — Lithuanian Proverb
