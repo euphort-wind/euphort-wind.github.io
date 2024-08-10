@@ -82,6 +82,10 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 - 🇺🇳 Daddy's Groove <i>(DJ band)</i>. Genre: house
 - 🇺🇳 Ludovico Einaudi <i>(composer)</i>. Genre: neoclassic
 
+<b>🎚️ Contribution to EDM: </b>
+- Italo Disco. Originated: late 1970s
+- Dream Trance. Originated: late 1990s
+
 
 <b>🎬 Local movies:</b>
 - Medici <i>(I Medici)</i>. Year: 2016-2019. Genres: historical drama (series)

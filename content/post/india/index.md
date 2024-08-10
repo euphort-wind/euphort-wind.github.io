@@ -49,6 +49,10 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 - 🇮🇳 Rashmeet Kaur <i>(singer)</i>. Genre: pop
 - 🇺🇳 KSHMR <i>(DJ)</i>. Genre: electro house
 
+<b>🎚️ Contribution to EDM: </b>
+- Goa Trance. Originated: early 1990s
+- Psy Trance. Originated: late 1990s
+
 
 <b>🥘 Local food & drinks: </b>
 - Curry <i>(करी)</i>

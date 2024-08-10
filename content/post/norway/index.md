@@ -68,6 +68,9 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 - 🇺🇳 Alan Walker (DJ). Genre: pop
 - 🇺🇳 Nico & Vinz (duo). Genre: pop
 
+<b>🎚️ Contribution to EDM: </b>
+- Russ Music. Originated: mid-2000s
+
 
 <b>🥘 Local food & drinks: </b>
 - Norwegian Brown Cheese <i>(Brunost)</i>

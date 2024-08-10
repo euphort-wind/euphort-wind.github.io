@@ -53,6 +53,9 @@ Hej! I share an extract of my experience of visiting stately Finland. I was ther
 - 🇺🇳 Alma (singer). Genre: pop
 - 🇺🇳 Darude (DJ). Genre: speed house
 
+<b>🎚️ Contribution to EDM: </b>
+- Suomisaundi. Originated: mid-1990s
+
 
 <b>🥘 Local food & drinks: </b>
 - Salmon Soup <i>(Lohikeitto)</i>

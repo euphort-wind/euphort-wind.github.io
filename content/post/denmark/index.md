@@ -58,6 +58,8 @@ Hej! I share an extract of my experience of visiting marvelous Denmark. I was th
 - 🇺🇳 Aqua (band). Genre: pop
 - 🇺🇳 MØ (singer). Genre: pop
 
+<b>🎚️ Contribution to EDM: </b>
+- Future Rave. Originated: late 2010s
 
 <b>🥘 Local food & drinks: </b>
 - Open-faced Sandwich <i>(Smørrebrød)</i>

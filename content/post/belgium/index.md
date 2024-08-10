@@ -55,6 +55,9 @@ Hej! I share an extract of my experience of visiting beautiful ultifaceted Belgi
 - 🇺🇳 Lost Frequencies (DJ). Genre: pop
 - 🇺🇳 Charlotte de Witte (DJ). Genre: house 
 
+<b>🎚️ Contribution to EDM: </b>
+- Jumpstyle. Originated: late 2010s
+
 
 <b>🥘 Local food & drinks: </b>
 - Mussels'n'Fries <i>(Moules-frites / Mosselen-friet)</i>

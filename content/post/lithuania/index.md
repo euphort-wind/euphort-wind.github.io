@@ -69,6 +69,8 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 - 🇺🇳 Dynoro (DJ). Genre: slap house
 - 🇺🇳 Gaulin (DJ). Genre: slap house
 
+<b>🎚️ Contribution to EDM: </b>
+- Slap House. Originated: late 2010s
 
 <b>🥘 Local food & drinks: </b>
 - Cepelinai <i>(Cepelinai)</i>
