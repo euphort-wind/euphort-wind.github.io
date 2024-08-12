@@ -238,6 +238,9 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - 🇺🇳 Alesso (DJ). Genre: house
 - 🇺🇳 Crazy Frog (musician). Genre: eurodance
 
+<b>🎚️ Contribution to EDM: </b>
+- Europop. Originated: late 1960s
+
 <b>🥘 Local food & drinks: </b>
 - Swedish Meatballs with Mashed Potatoes, Lingonberry Jam and Cream Sauce <i>(Köttbullar)</i>
 - Fermented Herring <i>(Surströmming)</i>

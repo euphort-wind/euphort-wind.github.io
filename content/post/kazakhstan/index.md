@@ -61,6 +61,9 @@ Hej! I share an extract of my experience of visiting astonishing Kazakhstan. I w
 - 🇺🇳 Imanbek (DJ). Genre: slap house
 - 🇺🇳 The Limba (singer). Genre: pop 
 
+<b>🎚️ Contribution to EDM: </b>
+- Q-Pop. Originated: mid-2010s
+
 
 <b>🥘 Local food & drinks: </b>
 - Beshbarmak <i>(Бешбармақ)</i>

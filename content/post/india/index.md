@@ -50,6 +50,7 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 - 🇺🇳 KSHMR <i>(DJ)</i>. Genre: electro house
 
 <b>🎚️ Contribution to EDM: </b>
+- Bhangra. Originated: mid-1960s
 - Goa Trance. Originated: early 1990s
 - Psy Trance. Originated: late 1990s
 
@@ -80,7 +81,6 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 - Holi <i>(होली)</i>
 - Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
 - Bharatanatyam Dance <i>(भरतनाट्यम)</i>
-- Bhangra <i>(भांगड़ा)</i>
 - Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
 - Indian Cars <i>(Brand: "Mahindra")</i>
 - <u>Karnataka (Regional Special):</u> Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>

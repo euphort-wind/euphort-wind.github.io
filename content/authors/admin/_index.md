@@ -30,7 +30,7 @@ interests:
   - Software Architecture
   - Machine Learning
   - Business Analysis
-  - Electronic Music
+  - Electronic Dance Music
 
 # Education to show in About widget
 education:

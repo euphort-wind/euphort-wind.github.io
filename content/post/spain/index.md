@@ -48,6 +48,10 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 - 🇺🇳 Dr. Kucho! (DJ). Genre: house
 - 🇺🇳 Sak Noel (DJ). Genre: pop
 
+<b>🎚️ Contribution to EDM: </b>
+- Balearic House. Originated: late 1980s
+- Balearic Trance. Originated: early 1990s
+
 
 <b>🥘 Local food & drinks: </b>
 - Paella <i>(Paella)</i>

@@ -51,6 +51,10 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 - 🇺🇳 Edward Maya (DJ). Genre: eurodance
 - 🇺🇳 Minelli (singer). Genre: pop
 
+<b>🎚️ Contribution to EDM: </b>
+- Popcorn Music. Originated: late 2000s
+
+
 <b>🥘 Local food & drinks: </b>
 - Romanian Stew / Tochitura <i>(Tochitură)</i>
 - Cabbage Rolls / Sarmale <i>(Sarmale)</i>
