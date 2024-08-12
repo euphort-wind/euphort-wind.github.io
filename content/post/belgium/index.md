@@ -56,6 +56,7 @@ Hej! I share an extract of my experience of visiting beautiful ultifaceted Belgi
 - 🇺🇳 Charlotte de Witte (DJ). Genre: house 
 
 <b>🎚️ Contribution to EDM: </b>
+- Belgian Popcorn. Originated: late 1970s
 - New Beat. Originated: mid-1980s
 - Belgian Techno. Originated: early 1990s
 - Jumpstyle. Originated: late 1990s

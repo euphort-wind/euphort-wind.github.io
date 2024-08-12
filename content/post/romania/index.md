@@ -52,7 +52,7 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 - 🇺🇳 Minelli (singer). Genre: pop
 
 <b>🎚️ Contribution to EDM: </b>
-- Popcorn Music. Originated: late 2000s
+- Romanian Popcorn. Originated: late 2000s
 
 
 <b>🥘 Local food & drinks: </b>
