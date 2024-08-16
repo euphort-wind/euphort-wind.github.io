@@ -201,7 +201,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Holodec <i>(Холодец)</i> 
 - Solyanka <i>(Солянка)</i> 
 - Ukha <i>(Уха)</i> 
-- Okroshka <i>(Окрошка)</i>   
+- Okroshka <i>(Окрошка)</i>  
+- Tyurya <i>(Тюря)</i> 
 - Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
 - Russian Dumplings <i>(Пельмени)</i>
 - Coulibiac <i>(Кулебяка)</i> 

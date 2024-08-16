@@ -67,6 +67,7 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 - 🇺🇳 Røyksopp (duo). Genre: electronic
 - 🇺🇳 Alan Walker (DJ). Genre: pop
 - 🇺🇳 Nico & Vinz (duo). Genre: pop
+- 🇺🇳 Aurora (singer). Genre: indie pop
 
 <b>🎚️ Contribution to EDM: </b>
 - Russ Music. Originated: mid-2000s
