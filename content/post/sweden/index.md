@@ -247,6 +247,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Crispbread <i>(Knäckebröd)</i>
 - Pyttipanna <i>(Pytt-i-Panna)</i>
 - Potato Pancakes with Bacon and Lingonberry Sauce <i>(Raggmunk)</i>
+- Toast Skagen <i>(Toast Skagen)</i>
 - Cinnamon Buns <i>(Kanelbullar)</i>
 - Princess Cake <i>(Prinsesstårta)</i>
 - Saffron Buns <i>(Lussekatter)</i>
