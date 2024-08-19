@@ -44,6 +44,7 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 
 <b>🎧 Local musicians: </b>
 - 🇪🇸 Enrique Iglesias (singer). Genre: pop
+- 🇪🇸 Los del Río (duo). Genre: pop
 - 🇺🇳 David Tavarre (singer). Genre: pop
 - 🇺🇳 Dr. Kucho! (DJ). Genre: house
 - 🇺🇳 Sak Noel (DJ). Genre: pop
