@@ -85,6 +85,7 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 - The Cyrillic Alphabet <i>(Кирилица)</i>
 - Authentic Garb: Nosiya <i>(Носия)</i>
 - Bulgarian Horo Dance <i>(Хоро)</i>
+- The Culture of Thracians <i>(Траки / Θρᾷκες)</i>
 - The Rose Festival <i>(Празник на Розата)</i>
 
 <b>🦉 Local wisdom:</b> "The new broom sweeps cleanly, but the old one knows the corners" / "<i>Новата метла чисто мете, но старата пък знае ъглите</i>" — Bulgarian proverb

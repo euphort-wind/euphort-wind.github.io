@@ -105,7 +105,7 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
 - The Bağlama <i>(Bağlama)</i>
 - Authentic Garb: Kaftan and Shalvar and Yelek <i>(Kaftan ve Şalvar ve Yelek)</i>
 - The Meddahs <i>(Meddah)</i>
-- Turkish Arhcitecture <i>(Türk Mimarisi)</i>
+- Turkish Architecture <i>(Türk Mimarisi)</i>
 - <u>İstanbul (Regional Special):</u> Byzantine Culture <i>(Bizans Kültürü)</i>
 - <u>İstanbul (Regional Special):</u> Shoeshiners <i>(Ayakkabı Boyacısı)</i>
 

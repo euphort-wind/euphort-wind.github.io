@@ -35,6 +35,7 @@ Hej! I share an extract of my experience of visiting blessed Vatican. I was ther
     - St. Peter's Basilica <i>(Basilica Sancti Petri)</i>
     - Vatican Museums <i>(Musea Vaticana)</i>
     - The Sistine Chapel <i>(Sacellum Sixtinum)</i>
+    - Gardens of Vatican City <i>(Horti Civitatis Vaticanae)</i>
 
 <b>🎧 Local musicians: </b>
 - 🇻🇦 Sistine Chapel Choir <i>(choir)</i>. Genre: religious

@@ -77,7 +77,7 @@ Hej! I share an extract of my experience of visiting astonishing Kazakhstan. I w
 - The Old Man <i>(Шал)</i>. Year: 2012. Genre: drama
 
 <b>🪔 Authentic artifacts:</b>
-- The System of Jüz / Zhuz <i>(Ұлы Жүз / Орта Жүз / Кіші Жүз)</i> 
+- The System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i> 
 - The Aytıs & Akyns <i>(Айтыс пен Ақыны)</i> 
 - The Dombra <i>(Домбыра)</i> 
 - Kazakh Horse Riding Sport <i>(Аламан Бәйге)</i> 

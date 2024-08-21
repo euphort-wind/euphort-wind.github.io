@@ -90,6 +90,7 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 - Zero 2 <i>(Zero 2)</i>. Year: 2010. Genre: thriller / black comedy
 
 <b>🪔 Authentic artifacts:</b>
+- The Legacy of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - Sutartines Songs <i>(Sutartinės)</i>
 - <u>Vilnius (Regional Special):</u> Culture of Lithuanian Karaites <i>(Lietuvos Karaimų Kultūra / Karajlar)</i>

@@ -66,7 +66,6 @@ Hej! I share an extract of my experience of visiting marvelous Denmark. I was th
 - Danish Fried Pork <i>(Stegt Flæsk)</i>
 - Danish Pastry <i>(Wienerbrød)</i>
 - Danish Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
-- <u>North Jutland (Regional Special):</u> Skagen Shrimp Mix <i>(Skagenrøre)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -81,7 +80,7 @@ Hej! I share an extract of my experience of visiting marvelous Denmark. I was th
 <b>🪔 Authentic artifacts:</b>
 - Authentic Principle: Hygge <i>(Hygge)</i>
 - Danish Easter Letters <i>(Gækkebreve)</i>
-- Danish Fairy Tales <i>(e.g. HC Andersens)</i>
+- Danish Fairy Tales <i>(Danske Eventyr)</i>
 
 
 <b>🦉 Local wisdom:</b> "Many small streams make a big river" / "<i>Mange bække små gør en stor å</i>" — Danish proverb

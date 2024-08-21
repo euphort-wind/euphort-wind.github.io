@@ -74,11 +74,11 @@ Hej! I share an extract of my experience of visiting stately Finland. I was ther
 
 <b>🪔 Authentic artifacts:</b>
 - Authentic Principle: Sisu <i>(Sisu)</i>
+- The Culture of Sami <i>(Saamelaiset / Sámit)</i>
 - Finnish Sauna <i>(Saunakulttuuri)</i>
 - Shrove Sunday <i>(Laskiainen)</i>
 - The Moomins <i>(Muumi)</i>
 - Authentic Garb: Kansallispuku <i>(Kansallispuku)</i>
-- The Culture of Sami <i>(Saamelaiskulttuuri)</i>
 
 <b>🦉 Local wisdom:</b> "Better a little given than a lot promised" / <i>"Parempi vähän annettu kuin paljon luvattu"</i> — Finnish proverb
 

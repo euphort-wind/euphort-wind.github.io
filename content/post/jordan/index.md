@@ -56,8 +56,8 @@ Hej! I share an extract of my experience of visiting ancient Jordan. I was there
 <b>🪔 Authentic artifacts:</b>
 - Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والتقية)</i> 
 - Ancient Jordanian Architecture <i>(العمارة الأردنية القديمة)</i> 
-- The Culture of Jordanian Bedouins <i>(الثقافة البدوية الأردنية)</i> 
-- Al-Mansaf: Festive Banquet <i>(المنسف: وليمة العيد)</i> 
+- The Culture of Jordanian Bedouins <i>(البدو / بَدْو)</i> 
+- Al-Mansaf: Festive Banquet <i>(منسف)</i> 
 
 
 <b>🦉 Local wisdom:</b> "The one who knocks on the door hears the answer" / "<i>إلي بدُق ع الباب بسمع الجواب</i>" — Jordanian proverb 

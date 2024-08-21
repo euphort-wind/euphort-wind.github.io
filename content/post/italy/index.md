@@ -125,12 +125,16 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 
 <b>🪔 Authentic artifacts:</b>
 - Authentic Principle: La Dolce Vita <i>(La Dolce Vita)</i> 
+- The Culture of Ancient Romans <i>(Antichi Romani / Rōmānī)</i> 
 - Ancient Roman Architecture <i>(Architettura Romana Antica)</i> 
 - Ancient Roman Roads <i>(Antiche Strade Romane)</i> 
+- Ancient Roman Mythology <i>(Mitologia Romana Antica)</i> 
+- Ancient Roman Gods <i>(Antiche Divinità Romane)</i> 
 - Authentic Ancient Garb: Toga & Palla <i>(Toga e Palla)</i> 
 - Italian Folk Music <i>(Musica Popolare italiana)</i> 
 - Latin Alphabet <i>(Alfabeto Latino)</i> 
 - The Tarantella Dance <i>(Tarantella)</i> 
+- The Culture of Etruscans <i>(Etruschi / Rasenna)</i> 
 - Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace" etc.)</i> 
 - Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT" etc.)</i>
 - <u>Tuscany (Regional Special):</u> The Renaissance Cultural Movement <i>(Il Movimento Culturale Rinascimentale)</i> 

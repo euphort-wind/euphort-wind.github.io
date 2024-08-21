@@ -83,9 +83,9 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 - Bharatanatyam Dance <i>(भरतनाट्यम)</i>
 - Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
 - Indian Cars <i>(Brand: "Mahindra")</i>
+- <u>Karnataka (Regional Special):</u> The Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
 - <u>Karnataka (Regional Special):</u> Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
 - <u>Karnataka (Regional Special):</u> Dasa Sahitya <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
-- <u>Goa (Regional Special):</u> Goa Trance <i>(गोवा ट्रान्स)</i>
 
 
 <b>🦉 Local wisdom:</b> "It is health which is our true wealth, the value of gold and silver is nothing in comparison to it" / "<i>यह स्वास्थय ही है जो हमारा सही धन है, सोने और चांदी का मूल्य इसके सामने कुछ नहीं।</i>" — Mahatma Gandhi (Indian independence activist)

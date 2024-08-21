@@ -234,29 +234,34 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Authentic Principle: Russian Avos' <i>(Русское Авось)</i>
 - Maslennitsa <i>(Масленница)</i>
 - Russian Banya <i>(Русская Баня)</i>
+- Khokhloma Painting <i>(Хохлома)</i>
+- Gzhel <i>(Гжель)</i>
+- Zhostovo Painting <i>(Жостовская Роспись)</i>
 - Russian Folk Songs <i>(Русские Народные Песни)</i> 
 - The Bayan <i>(Баян)</i> 
 - The Horovod Dance <i>(Хоровод)</i> 
 - Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-ушанка)</i> 
-- The Culture of Old Believers <i>(Культура Староверов)</i> 
+- The Culture of Old Believers <i>(Староверы)</i> 
 - Russian Cars <i>(Brands: "GAZ", "LADA" etc.)</i> 
+- <u>Bashkiria (Regional Special):</u> The Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
 - <u>Bashkiria (Regional Special):</u> Sabantuy <i>(Сабантуй / һабантуй)</i>
 - <u>Bashkiria (Regional Special):</u> Epos of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
 - <u>Bashkiria (Regional Special):</u> The Quray <i>(Курай / Ҡурай)</i>
+- <u>Kabardino-Balkaria & Karachay-Cherkessia (Regional Special):</u> The Culture of Circassians <i>(Кабардинцы, Черкессы, Адыгейцы и Шапсуги / Адыгэ)</i>
+- <u>Kabardino-Balkaria & Karachay-Cherkessia (Regional Special):</u> The Culture of Balkars <i>(Балкары, Карачаевцы / Малкъарлыла)</i>
+- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Kiyiz <i>(Балкарский Войлок / Кийизы)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Bychak Knife <i>(Бичак / Бычак)</i>
+- <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Cherkessian Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
-- <u>Karachay-Cherkessia (Regional Special):</u> Karachay-Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
+- <u>North Ossetia (Regional Special):</u> The Culture of Ossetians <i>(Осетины/ Ирæттæ)</i>
+- <u>North Ossetia (Regional Special):</u> Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
 - <u>North Ossetia (Regional Special):</u> Assianism <i>(Уасдин / Уацдин)</i>
 - <u>North Ossetia (Regional Special):</u> Simd Dance <i>(Симд / Синд)</i>
 - <u>Orenburzhie (Regional Special):</u> Culture of the Orenburg Cossacks <i>(Культура Оренбургских Казаков)</i>
 - <u>Orenburzhie (Regional Special):</u> Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i>
 - <u>Chelyabinsk (Regional Special):</u> Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
-- <u>Chelyabinsk (Regional Special):</u> Culture of Nağaybäks <i>(Культура Нагайбаков / Нагайбәкләр)</i>
-
-
-
-
+- <u>Chelyabinsk (Regional Special):</u> The Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>
 
 <b>🦉 Local wisdom:</b> "The only thing better than mountains are mountains that you have never been to before" / "<i>Лучше гор могут быть только горы, на которых ещё не бывал</i>" — Vladimir Vysotsky (Soviet singer-songwriter and poet)
 

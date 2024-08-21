@@ -77,11 +77,13 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 
 
 <b>🪔 Authentic artifacts:</b>
+- The Culture of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
 - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
 - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
 - Ancient Greek Philosophy <i>(Αρχαία Ελληνική Φιλοσοφία)</i>
 - Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>
 - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
+- Ancient Greek Gods <i>(Αρχαίοι Έλληνες Θεοί)</i>
 - Authentic Ancient Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύς)</i>
 - Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - Sirtaki Dance <i>(Σιρτάκη)</i>

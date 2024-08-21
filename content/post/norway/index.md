@@ -95,11 +95,11 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 <b>🪔 Authentic artifacts:</b>
 - Authentic Principle: Kos <i>(Kos)</i> 
 - The Viking Runic Alphabet <i>(Viking Runealfabet)</i> 
-- The Culture of Vikings <i>(Vikingens Kultur)</i> 
+- The Culture of Vikings <i>(Vikinger / Hraustra Vikinga)</i> 
 - Connection to Nature <i>(Friluftsliv)</i> 
 - The Hardanger Fiddle <i>(Hardingfele)</i>
 - Authentic Garb: Bunad <i>(Bunad)</i>
-- The Skiing Culture <i>(Skikulturen)</i>
+- The Skiing Tradition <i>(Skikulturen)</i>
 
 
 <b>🦉 Local wisdom:</b> "The grass is green enough on our side of the fence if we just remember to water it" / <i>"Gresset er grønt nok på vår side av gjerdet når vi bare husker å vanne det"</i> — Norwegian proverb

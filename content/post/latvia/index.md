@@ -69,6 +69,7 @@ Hej! I share an extract of my experience of visiting magnificent Latvia. I was t
 - Latvian Vernacular Architecture <i>(Latviešu Tautas Arhitektūra)</i> 
 - Authentic Garb: Latvian Belt <i>(The Lielvārde Belt)</i> 
 - Latvian Christmas Eve <i>(Ziemassvētki)</i> 
+- The Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
 - <u>Jurmala (Regional Special):</u> Jurmala Festivals <i>(Jūrmalas Festivāli)</i>
 
 <b>🦉 Local wisdom:</b> "A tree does not fall after the first cut" / <i>"Koks nekrīt uz pirmā cirtiena"</i> — Latvian proverb
