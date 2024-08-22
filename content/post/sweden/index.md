@@ -225,7 +225,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - 🇺🇳 ABBA (band). Genre: retro-rock
 - 🇺🇳 Roxette (band). Genre: retro-rock
 - 🇺🇳 Ace of Base (band). Genre: retro-pop
-- 🇺🇳 Army of lovers (band). Genre: retro-pop
+- 🇺🇳 Army of Lovers (band). Genre: retro-pop
 - 🇺🇳 Avicii (DJ). Genre: house
 - 🇺🇳 Europa (band). Genre: retro-pop
 - 🇺🇳 The Cardigans (band). Genre: pop-rock
