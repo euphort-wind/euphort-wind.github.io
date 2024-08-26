@@ -36,7 +36,7 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
     - The CEC Palace <i>(Palatul CEC)</i>
 2. Sinaia
     - Pelesh Castle <i>(Castelul Peleș)</i>
-    - Pelishor Castle <i>( Castelul Pelișor)</i>
+    - Pelishor Castle <i>(Castelul Pelișor)</i>
     - Sinaia Monastery <i>(Mănăstirea Sinaia)</i>
     - Sinaia Centre <i>(Centrul Sinaia)</i>
 3. Bran
