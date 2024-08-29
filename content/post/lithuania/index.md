@@ -81,7 +81,7 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 - Samogitian Pancakes <i>(Žemaičių Blynai)</i>
 - Fried Rye Bread Sticks <i>(Kepta Duona)</i>
 - Lithuanian Beer <i>(Brand: "Kalnapilis")</i> 
-- <u>Vilnius (Regional Special):</u> Kibinai <i>(Kibinai / Kybynlar)</i>
+- <u>Vilnius (Regional Special):</u> Karaite Kibinai <i>(Kibinai / Kybynlar)</i>
 
 
 <b>🎬 Local movies:</b>
