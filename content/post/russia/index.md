@@ -209,14 +209,14 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya" etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
-- <u>Bashkiria (Regional Special):</u> Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
+- <u>Bashkiria (Regional Special):</u> Bashkir Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
 - <u>Bashkiria (Regional Special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
-- <u>Kabardino-Balkaria (Regional Special):</u> Libzhe <i>(Либжа / Либжэ)</i>
-- <u>Kabardino-Balkaria (Regional Special):</u> Balkarian Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
-- <u>Karachay-Cherkessia (Regional Special):</u> Hychin Pie <i>(Хычин / Хычын)</i>
+- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Libzhe <i>(Либжа / Либжэ)</i>
+- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
+- <u>Karachay-Cherkessia (Regional Special):</u> Karachay Hychin <i>(Хычин / Хычын)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
-- <u>North Ossetia (Regional Special):</u> Dzykka Porridge <i>(Дзыкка / Дзыкка)</i>
+- <u>North Ossetia (Regional Special):</u> Ossetian Dzykka <i>(Дзыкка / Дзыкка)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -251,13 +251,13 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - <u>Kabardino-Balkaria & Karachay-Cherkessia (Regional Special):</u> The Culture of Balkars <i>(Балкары, Карачаевцы / Малкъарлыла)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Kiyiz <i>(Балкарский Войлок / Кийизы)</i>
-- <u>Kabardino-Balkaria (Regional Special):</u> Bychak Knife <i>(Бичак / Бычак)</i>
+- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Bychak <i>(Бичак / Бычак)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
-- <u>Karachay-Cherkessia (Regional Special):</u> Cherkessian Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
+- <u>Karachay-Cherkessia (Regional Special):</u> Circassian Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
 - <u>North Ossetia (Regional Special):</u> The Culture of Ossetians <i>(Осетины/ Ирæттæ)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
-- <u>North Ossetia (Regional Special):</u> Assianism <i>(Уасдин / Уацдин)</i>
-- <u>North Ossetia (Regional Special):</u> Simd Dance <i>(Симд / Синд)</i>
+- <u>North Ossetia (Regional Special):</u> Ossetian Assianism <i>(Уасдин / Уацдин)</i>
+- <u>North Ossetia (Regional Special):</u> Ossetian Simd Dance <i>(Симд / Синд)</i>
 - <u>Orenburzhie (Regional Special):</u> Culture of the Orenburg Cossacks <i>(Культура Оренбургских Казаков)</i>
 - <u>Orenburzhie (Regional Special):</u> Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i>
 - <u>Chelyabinsk (Regional Special):</u> Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
