@@ -8,19 +8,19 @@ gallery_item:
     image: 1gdansk.jpeg
     caption: Gdańsk & St. Mary Church
   - album: poland
-    image: 2port.jpg
+    image: 2port.jpeg
     caption: Rybackie Pobrzeże (Gdańsk)
   - album: poland
-    image: 3sopot.jpg
+    image: 3sopot.jpeg
     caption: Skwer Kuracyjny (Sopot)
   - album: poland
-    image: 4wladis.jpg
+    image: 4wladis.jpeg
     caption: Władysławowo Church
   - album: poland
-    image: 5hel.jpg
+    image: 5hel.jpeg
     caption: Statue of St. Peter in Hel
   - album: poland
-    image: 6bigos.jpg
+    image: 6bigos.jpeg
     caption: Polish Bigos
 ---
 Hej! I share an extract of my experience of visiting invincible Poland. I was there in the summer of 2024. Below are some notes on what I tasted, saw and listened to.<br>
