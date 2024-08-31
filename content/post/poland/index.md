@@ -1,0 +1,99 @@
+---
+title: 🇵🇱 Poland
+date: '2024-08-31'
+summary: Trip to Poland
+
+gallery_item:
+  - album: poland
+    image: 1gdansk.jpeg
+    caption: Gdańsk & St. Mary Church
+  - album: poland
+    image: 2port.jpg
+    caption: Rybackie Pobrzeże (Gdańsk)
+  - album: poland
+    image: 3sopot.jpg
+    caption: Skwer Kuracyjny (Sopot)
+  - album: poland
+    image: 4wladis.jpg
+    caption: Władysławowo Church
+  - album: poland
+    image: 5hel.jpg
+    caption: Statue of St. Peter in Hel
+  - album: poland
+    image: 6bigos.jpg
+    caption: Polish Bigos
+---
+Hej! I share an extract of my experience of visiting invincible Poland. I was there in the summer of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+
+<b>🗺 Places:</b> Gdańsk, Sopot, Gdynia, Władysławowo, Hel. <br>
+
+<b>🏛 Top sights visited: </b>
+1. Gdańsk
+    - Rybackie Street & Ołowianka Island <i>(Rybackie Pobrzeże i Ołowianka)</i>
+    - Gdańsk City Hall & Neptun Fontain <i>(Ratusz Głównego Miasta w Gdańsku i Fontanna Neptuna)</i>
+    - The Great Mill & Small Mill <i>(Wielki Młyn i Mały Młyn)</i>
+    - St. Mary Church <i>(Bazylika Mariacka)</i>
+    - Długa Street <i>(Ulica Długa)</i>
+    - The Great Armoury <i>(Wielka Zbrojownia)</i>
+    - The Highland Gate & Golden Gate <i>(Brama Wyżynna i Złota Brama)</i>
+2. Sopot
+    - Church of St. George <i>(Kościół św. Jerzego w Sopocie)</i>
+    - The Crooked House <i>(Krzywy Domek)</i>
+    - Kuracyjny Square <i>(Skwer Kuracyjny)</i>
+    - Sopot Pier <i>(Molo w Sopocie)</i> 
+3. Gdynia 
+    - Starowiejska Street <i>(Ulica Starowiejska)</i> 
+    - Museum Ship "Dar Pomorza" <i>(Dar Pomorza)</i> 
+    - Gdynia City Beach <i>(Plaża Miejska)</i> 
+4. Władysławowo
+    - Władysławowo Church <i>(Kościół pw. Wniebowzięcia)</i> 
+    - Władysławowo Park <i>(Park Miejski)</i>
+    - Władysławowo City Hall <i>(Dom Rybaka)</i>
+5. Hel
+    - Hel Lighthouse <i>(Latarnia Morska Hel)</i>
+    - Hel Beaches <i>(Plaża Helska)</i>
+    - Wiejska Street <i>(Ulica Wiejska)</i>
+
+<b>🎧 Local musicians: </b>
+- 🇵🇱 Brodka (singer). Genre: pop
+- 🇵🇱 Jula (singer). Genre: pop
+- 🇵🇱 Myslovitz (band). Genre: rock
+- 🇵🇱 Natalia Przybysz (singer). Genre: R&B
+- 🇵🇱 LemON (band). Genre: rock
+- 🇵🇱 Oskar Cyms (singer). Genre: pop
+- 🇺🇳 C-Bool (DJ). Genre: house
+- 🇺🇳 Tom Swoon (DJ). Genre: progressive house
+
+<b>🥘 Local food & drinks: </b>
+- Bigos <i>(Bigos)</i>
+- Żurek Soup <i>(Żurek)</i>
+- Pierogi <i>(Pierogi)</i>
+- Zapiekanka <i>(Zapiekanka)</i>
+- Kotlet Schabowy <i>(Kotlet Schabowy)</i>
+- Polish Cheesecake <i>(Sernik)</i> 
+- Makowiec <i>(Makowiec)</i>
+- Polish Bison Grass Vodka <i>(Brand: "Żubrówka")</i>
+- <u>Pomeranian (Regional Special):</u> Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
+
+
+<b>🎬 Local movies:</b>
+- The Peasants <i>(Chłopi)</i>. Year: 2023. Genre: drama 
+- Forgotten Love <i>(Znachor)</i>. Year: 2023. Genre: drama 
+- Corpus Christi <i>(Boże Ciało)</i>. Year: 2019. Genre: drama 
+
+
+<b>🪔 Authentic artifacts:</b>
+- The Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
+- The Polonaise Dance <i>(Polonez)</i>
+- The Mazurka Dance <i>(Mazurek)</i>
+- Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i> 
+
+<b>🦉 Local wisdom:</b> "The turkey had a plan for Sunday, but it was eaten on Saturday" / "<i>Indyk myślał o niedzieli, a w sobotę łeb mu ścięli</i>" — Polish proverb
+
+
+<b>👨‍🎓The oldest university:</b> The Jagiellonian University <i>(Uniwersytet Jagielloński)</i>, Kraków, est. 1364. 
+
+
+{{< gallery album="poland" crop_options="150x150" >}}
+   

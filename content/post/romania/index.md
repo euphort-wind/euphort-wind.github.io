@@ -56,8 +56,8 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 
 
 <b>🥘 Local food & drinks: </b>
-- Romanian Stew / Tochitura <i>(Tochitură)</i>
-- Cabbage Rolls / Sarmale <i>(Sarmale)</i>
+- Tochitura <i>(Tochitură)</i>
+- Sarmale <i>(Sarmale)</i>
 - Romanian Soups <i>(Ciorba)</i>
 - Romanian Polenta <i>(Mămăligă)</i>
 
@@ -66,13 +66,13 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 
 
 <b>🪔 Authentic artifacts:</b>
-- The Culture of Romani <i>(Poporul Romani / Roma)</i>
+- The Culture of Romani <i>(Romani / Roma)</i>
 - Romanian Hora Dance <i>(Hora)</i>
 - Paparuda Ritual <i>(Păpăluga)</i> 
 - Authentic Garb: Caciula and Ie <i>(Căciulă si Ie)</i> 
 - Romanian Cars <i>(Brand: "Dacia")</i>
 
-<b>🦉 Local wisdom:</b> "The good man values goodness, as the bee values the flower" / "<i> Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea</i>" — Romanian proverb
+<b>🦉 Local wisdom:</b> "The good man values goodness, as the bee values the flower" / "<i>Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea</i>" — Romanian proverb
 
 
 <b>👨‍🎓The oldest university:</b> The Alexandru Ioan Cuza University <i>(Universitatea „Alexandru Ioan Cuza")</i>, Iași, est. 1640. 
