@@ -58,7 +58,7 @@ Hej! I share an extract of my experience of visiting magnificent Latvia. I was t
 - Latvian Bread Dessert <i>(Rupjmaizes kārtojums)</i>
 - Latvian Porridge <i>(Putra)</i>
 - Latvian Balsam <i>(Brand: "Rīgas Melnais Balzams")</i>
-- <u>Riga (Regional Special):</u> Smoked Sprats <i>(Rīgas Šprotes)</i>
+- <u>Riga (Regional Special):</u> Riga Smoked Sprats <i>(Rīgas Šprotes)</i>
 
 <b>🎬 Local movies:</b>
 - The Shot <i>(Nošāva)</i>. Year: 2019. Genre: short / comedy

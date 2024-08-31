@@ -81,7 +81,7 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 - Samogitian Pancakes <i>(Žemaičių Blynai)</i>
 - Fried Rye Bread Sticks <i>(Kepta Duona)</i>
 - Lithuanian Beer <i>(Brand: "Kalnapilis")</i> 
-- <u>Vilnius (Regional Special):</u> Kibinai <i>(Kibinai / Kybynlar)</i>
+- <u>Vilnius (Regional Special):</u> Karaite Kibinai <i>(Kibinai / Kybynlar)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -93,7 +93,7 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 - The Legacy of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - Sutartines Songs <i>(Sutartinės)</i>
-- <u>Vilnius (Regional Special):</u> Culture of Lithuanian Karaites <i>(Lietuvos Karaimų Kultūra / Karajlar)</i>
+- <u>Vilnius (Regional Special):</u> Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
 
 <b>🦉 Local wisdom:</b> "Flax is not yet sown and they are already weaving the linen" / "<i>Linai nesėti, o jau drobes audžia</i>" — Lithuanian Proverb
 

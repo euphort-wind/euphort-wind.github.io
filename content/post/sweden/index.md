@@ -261,8 +261,8 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Rostat Bröd med Kantareller)</i>
 - <u>Västernorrland (Regional Special):</u> Venison with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 
 - <u>Västerbotten (Regional Special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
-- <u>Gotland (Regional Special):</u> Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
-- <u>Gotland (Regional Special):</u> Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
+- <u>Gotland (Regional Special):</u> Gotland Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
+- <u>Gotland (Regional Special):</u> Gotland Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
 - <u>Västra Götaland (Regional Special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Hel Special / Halv Special)</i>
 
 <b>🎬 Local movies:</b>
