@@ -125,7 +125,7 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 
 <b>🪔 Authentic artifacts:</b>
 - Authentic Principle: La Dolce Vita <i>(La Dolce Vita)</i> 
-- The Culture of Ancient Romans <i>(Cittadini Romani/ Populus Romanus)</i> 
+- The Culture of Ancient Romans <i>(Cittadini Romani / Populus Romanus)</i> 
 - Ancient Roman Architecture <i>(Architettura Romana Antica)</i> 
 - Ancient Roman Roads <i>(Antiche Strade Romane)</i> 
 - Ancient Roman Mythology <i>(Mitologia Romana Antica)</i> 

@@ -71,7 +71,7 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 - Tarator Soup <i>(Таратор)</i>
 - Kebapche <i>(Кебапче)</i>
 - Kyufte <i>(Кюфте)</i>
-- Deep Fried Sprats / Tsatsa <i>(Цаца)</i>
+- Deep Fried Sprats <i>(Цаца)</i>
 - Ayran <i>(Айрян)</i>
 - Chushki Burek <i>(Чушка Бюрек)</i>
 - Bulgarian Rakia <i>(Brand: "Burgas 63")</i>

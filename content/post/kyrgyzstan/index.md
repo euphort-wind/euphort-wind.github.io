@@ -65,7 +65,7 @@ Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was 
 <b>🥘 Local food & drinks: </b>
 - Laghman <i>(Лагман)</i>
 - Kuurdak <i>(Куурдак)</i>
-- Fresh Horse Milk / Kymyz <i>(Кымыз)</i>
+- Kymyz <i>(Кымыз)</i>
 - Maksym Drink <i>(Максым)</i>
 - Chalap Drink <i>(Чалап)</i>
 - Aralash Drink <i>(Аралаш)</i>

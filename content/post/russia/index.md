@@ -254,7 +254,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Bychak <i>(Бичак / Бычак)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
-- <u>North Ossetia (Regional Special):</u> The Culture of Ossetians <i>(Осетины/ Ирæттæ)</i>
+- <u>North Ossetia (Regional Special):</u> The Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Assianism <i>(Уасдин / Уацдин)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Simd Dance <i>(Симд / Синд)</i>

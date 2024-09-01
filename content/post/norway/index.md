@@ -83,13 +83,13 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 - <u>Vestland (Regional Special):</u> Bergen Pressed Cod <i>(Persetorsk)</i>
 
 <b>🎬 Local movies:</b>
-- Headhunters <i>(Hodejegerne)</i>. Year: 2011. Genre: Action/Thriller
-- Kon-Tiki <i>(Kon-Tiki)</i>. Year: 2012. Genre: Adventure/Action
-- The Bothersome Man <i>(Den Brysomme Mannen)</i>. Year: 2006. Genre: Fantasy
-- The Tunnel <i>(Tunnelen)</i>. Year: 2019. Genre: Action
-- The Worst Person in the World <i>(Verdens Verste Menneske)</i>. Year: 2021. Genre: Romance/Comedy
-- Thelma <i>(Thelma)</i>. Year: 2017. Genre: Fantasy/Horror
-- Beforeigners <i>(Førignere)</i>. Year: 2019. Genre: Fantasy (series)
+- Headhunters <i>(Hodejegerne)</i>. Year: 2011. Genre: action / thriller
+- Kon-Tiki <i>(Kon-Tiki)</i>. Year: 2012. Genre: adventure / action
+- The Bothersome Man <i>(Den Brysomme Mannen)</i>. Year: 2006. Genre: fantasy
+- The Tunnel <i>(Tunnelen)</i>. Year: 2019. Genre: action
+- The Worst Person in the World <i>(Verdens Verste Menneske)</i>. Year: 2021. Genre: drama / comedy
+- Thelma <i>(Thelma)</i>. Year: 2017. Genre: fantasy / horror
+- Beforeigners <i>(Førignere)</i>. Year: 2019. Genre: fantasy (series)
 
 
 <b>🪔 Authentic artifacts:</b>

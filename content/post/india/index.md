@@ -44,7 +44,7 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 
 
 <b>🎧 Local musicians: </b>
-- 🇮🇳 A. R. Rahman <i>(composer/singer)</i>. Genre: indian film pop
+- 🇮🇳 A. R. Rahman <i>(singer)</i>. Genre: indian film pop
 - 🇮🇳 Panjabi MC <i>(DJ)</i>. Genre: bhangra music
 - 🇮🇳 Rashmeet Kaur <i>(singer)</i>. Genre: pop
 - 🇺🇳 KSHMR <i>(DJ)</i>. Genre: electro house

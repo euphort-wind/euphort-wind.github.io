@@ -67,7 +67,7 @@ Hej! I share an extract of my experience of visiting astonishing Kazakhstan. I w
 
 <b>🥘 Local food & drinks: </b>
 - Beshbarmak <i>(Бешбармақ)</i>
-- Horse Meat Sausage / Qazi <i>(Қазы)</i>
+- Qazi Sausage <i>(Қазы)</i>
 - Irimshik <i>(Ирімшік)</i>
 - Boortsog <i>(Бауырсақ)</i>
 - Kazakh Soup <i>(Сорпа)</i>
