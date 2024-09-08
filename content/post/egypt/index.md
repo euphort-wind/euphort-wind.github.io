@@ -20,8 +20,8 @@ gallery_item:
     image: 5stones.jpg
     caption: Ras Mohamed Nature Reserve
   - album: egypt
-    image: 6ful.jpg
-    caption: Ful medames
+    image: 6koshary.jpeg
+    caption: Egyptian Koshary
 
 ---
 Hej! I share an extract of my experience of visiting authentic Egypt. I was there in the autumn of 2011. Below are some notes on what I tasted, saw and listened to. 
@@ -40,6 +40,9 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 
 <b>🎧 Local musicians: </b>
 - 🇺🇳 Aly & Fila (DJ duo). Genre: trance
+- 🇪🇬 Hisham Abbas (singer). Genre: pop
+- 🇪🇬 Sherine (singer). Genre: pop
+- 🇪🇬 Mohamed Hamaki (singer). Genre: pop
 
 <b>🎚️ Contribution to EDM: </b>
 - Tape Music. Originated: mid-1940s
