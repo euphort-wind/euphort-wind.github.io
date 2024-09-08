@@ -48,6 +48,7 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 - Tape Music. Originated: mid-1940s
 
 <b>🥘 Local food & drinks: </b>
+- Koshary <i>(كشرى)</i>
 - Ful medames <i>(فول مدمس)</i>
 - Karkadé <i>(كركديه)</i>
 - Aish Baladi <i>(عيش بلدي)</i>
