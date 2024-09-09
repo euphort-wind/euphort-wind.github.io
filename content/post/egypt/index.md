@@ -39,10 +39,11 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 
 
 <b>🎧 Local musicians: </b>
-- 🇺🇳 Aly & Fila (DJ duo). Genre: trance
 - 🇪🇬 Hisham Abbas (singer). Genre: pop
 - 🇪🇬 Sherine (singer). Genre: pop
 - 🇪🇬 Mohamed Hamaki (singer). Genre: pop
+- 🇺🇳 Aly & Fila (DJ duo). Genre: trance
+
 
 <b>🎚️ Contribution to EDM: </b>
 - Tape Music. Originated: mid-1940s
