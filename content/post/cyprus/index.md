@@ -47,6 +47,7 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
 
 
 <b>🎧 Local musicians: </b>
+- 🇨🇾 Loukas Yorkas (singer). Genre: pop
 - 🇺🇳 Eric Alamango (DJ). Genre: pop
 
 
