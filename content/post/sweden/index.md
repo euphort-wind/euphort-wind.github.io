@@ -212,6 +212,8 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 49. Solna
     - Haga Park <i>(Hagaparken)</i>
     - Solna Church <i>(Solna Kyrka)</i>
+50. Lödöse
+    - Lödöse Museum <i>(Lödöse Museum)</i>
 
 
 <b>🎧 Local musicians: </b>
