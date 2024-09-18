@@ -61,6 +61,7 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 
 <b>🥘 Local food & drinks: </b>
 - Greek Salad <i>(Ελληνική σαλάτα)</i>
+- Moussaka  <i>(Μουσακάς)</i>
 - Taramasalata <i>(Tαραμοσαλάτα)</i>
 - Gyros <i>(Γύρος)</i>
 - Tzatziki <i>(Tζατζίκ)</i>
