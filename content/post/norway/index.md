@@ -61,13 +61,14 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 <b>🎧 Local musicians: </b>
 - 🇳🇴 Katastrofe (singer). Genre: pop
 - 🇳🇴 Postgirobygget (band). Genre: rock
-- 🇳🇴 Vidar Villa (singer).  Genre: pop
+- 🇳🇴 Vidar Villa (singer). Genre: pop
+- 🇺🇳 A-ha (band). Genre: retro-pop
 - 🇺🇳 Ørjan Nilsen (DJ). Genre: trance
 - 🇺🇳 Kygo (DJ). Genre: tropical house
 - 🇺🇳 Røyksopp (duo). Genre: electronic
 - 🇺🇳 Alan Walker (DJ). Genre: pop
 - 🇺🇳 Nico & Vinz (duo). Genre: pop
-- 🇺🇳 Aurora (singer). Genre: indie pop
+- 🇺🇳 Aurora (singer). Genre: indie-pop
 
 <b>🎚️ Contribution to EDM: </b>
 - Russ Music. Originated: mid-2000s

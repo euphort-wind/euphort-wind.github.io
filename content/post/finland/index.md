@@ -50,8 +50,9 @@ Hej! I share an extract of my experience of visiting stately Finland. I was ther
 - 🇺🇳 H.I.M. (band). Genre: gothic metal
 - 🇺🇳 The Rasmus (band). Genre: alternative rock
 - 🇺🇳 Sunrise Avenue (band). Genre: rock
-- 🇺🇳 Alma (singer). Genre: pop
 - 🇺🇳 Darude (DJ). Genre: speed house
+- 🇺🇳 Alma (singer). Genre: pop
+- 🇺🇳 Bomfunk MC's (band). Genre: hip-hop
 
 <b>🎚️ Contribution to EDM: </b>
 - Suomisaundi. Originated: mid-1990s
