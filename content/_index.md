@@ -150,7 +150,7 @@ sections:
           icon: ppk
           organization: Participant, Ural Federal University, Ekaterinburg
           organization_url: https://ippk-urgi.urfu.ru/ru/
-          title: Qualification Course "Project-based Education" 
+          title: Qualification "Project-based Education" 2023
         - date_start: '2021-09-01'
           icon: ovik
           organization: Participant, High Coast Hub, Örnsköldsvik
@@ -160,7 +160,7 @@ sections:
           icon: coursera
           organization: Participant, Erasmus University, Rotterdam
           organization_url: https://www.coursera.org/account/accomplishments/verify/4Y7H3PTZGEKX
-          title: Course "Innovation Management"
+          title: Course "Innovation Management" 2021
         - date_start: '2018-03-01'
           icon: geek
           organization: Participant, Digital Ural Geek Camp, Abzakovo

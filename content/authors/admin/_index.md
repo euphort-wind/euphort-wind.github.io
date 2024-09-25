@@ -23,13 +23,13 @@ organizations:
     url: https://www.gu.se/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: SE, ML, BI, EDM blah blah blah...
+bio: SE, ML, BI, EDM, etc...
 
 # Interests to show in About widget
 interests:
   - Software Architecture
   - Machine Learning
-  - Business Analysis
+  - Business Intelligence
   - Electronic Dance Music
 
 # Education to show in About widget
