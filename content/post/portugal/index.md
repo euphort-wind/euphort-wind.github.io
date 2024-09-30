@@ -91,7 +91,7 @@ Hej! I share an extract of my experience of visiting bright and contrasty Portug
 - Portuguese Architecture <i>(A Arquitetura Portuguesa)</i> 
 - The Azulejo <i>(Azulejo)</i>
 - Portuguese Seamanship and Maritime Exploration <i>(Marinharia e Exploração Marítima)</i>    
-- Authentic Garb: Traje Portugues <i>(Traje Português)</i>
+- Authentic Garb: Portuguese Traje <i>(Traje Português)</i>
 - Lisbon Yellow Trams <i>(Eléctricos Amarelos de Lisboa)</i>
 
 <b>🦉 Local wisdom:</b> "If horseshoes brought luck, donkeys wouldn't pull carts" / <i>"Se ferradura trouxesse sorte, burro não puxava carroça"</i> — Portuguese proverb
