@@ -5,11 +5,11 @@ summary: Trip to Kyrgyzstan
 
 gallery_item:
   - album: kg
-    image: 1bishkek.jpg
-    caption: Ala-Too Square (Bishkek)
+    image: 1bishkek.jpeg
+    caption: City of Bishkek
   - album: kg
     image: 2bishkek.jpg
-    caption: Bishkek monument
+    caption: Ala-Too Square (Bishkek)
   - album: kg
     image: 3mosque.jpg
     caption: Dungan Mosque (Karakol)

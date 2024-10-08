@@ -15,7 +15,7 @@ gallery_item:
     image: 3book.jpg
     caption: Drama Theater (Kostanay)
   - album: kazakhstan
-    image: 4abyl.jpg
+    image: 4abyl.jpeg
     caption: Abylai-Khan Statue (Kokshetau)
   - album: kazakhstan
     image: 5skala.jpg
