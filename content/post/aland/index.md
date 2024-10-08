@@ -5,20 +5,20 @@ summary: Trip to Ålands
 
 gallery_item:
   - album: aland
-    image: 1fish.jpg
+    image: 1marie.jpeg
+    caption: Mariehamn
+  - album: aland
+    image: 2fish.jpg
     caption: Eckerö museum of fisheries and navigation
   - album: aland
-    image: 2post.jpg
+    image: 3post.jpg
     caption: Eckerö post office
   - album: aland
-    image: 3museum.jpg
+    image: 4museum.jpg
     caption: Maritime museum and Pommern ship
   - album: aland
-    image: 4pirate.jpg
-    caption: Original Jolly Roger in Maritime Museum (XVIII century)
-  - album: aland
     image: 5sjo.jpg
-    caption: The sea quarter
+    caption: The Sea Quarter
   - album: aland
     image: 6pancake.jpg
     caption: Åland Pancake

@@ -5,20 +5,20 @@ summary: Trip to Italy
 
 gallery_item:
   - album: italy
-    image: 1col.jpg
-    caption: Colosseum
+    image: 1bol.jpg
+    caption: Bologna
   - album: italy
-    image: 2fon.jpg
-    caption: Trevi Fountain
-  - album: italy
-    image: 3pisa.jpg
-    caption: Leaning Tower of Pisa
-  - album: italy
-    image: 4flo.jpg
+    image: 2flo.jpg
     caption: Florence Cathedral
   - album: italy
-    image: 5bol.jpg
-    caption: Bologna
+    image: 3col.jpg
+    caption: Colosseum
+  - album: italy
+    image: 4fon.jpg
+    caption: Trevi Fountain
+  - album: italy
+    image: 5pisa.jpg
+    caption: Leaning Tower of Pisa
   - album: italy
     image: 6food.jpg
     caption: Pasta Carbonara & Pizza Quattro Formaggi
