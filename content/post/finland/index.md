@@ -5,14 +5,14 @@ summary: Trip to Finland
 
 gallery_item:
   - album: finland
-    image: 1helsi.jpg
+    image: 1helsinki.jpeg
+    caption: City of Helsinki
+  - album: finland
+    image: 2helsi.jpg
     caption: Helsinki Cathedral
   - album: finland
-    image: 2fish.jpg
+    image: 3fish.jpg
     caption: Old Market Hall (Helsinki)
-  - album: finland
-    image: 3church.jpg
-    caption: Kamppi Chapel of Silence (Helsinki)
   - album: finland
     image: 4suomen.jpg
     caption: Suomenlinna Fortress
