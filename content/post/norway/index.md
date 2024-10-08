@@ -5,13 +5,13 @@ summary: Trip to Norway
 
 gallery_item:
   - album: norway
-    image: 1oslo.jpg
-    caption: Bispevika (Oslo)
+    image: 1oslo.jpeg
+    caption: City of Oslo
   - album: norway
     image: 2vigi.jpg
     caption: The Vigeland Park (Oslo)
   - album: norway
-    image: 3bergen.jpg
+    image: 3bergen.jpeg
     caption: Bryggen (Bergen)
   - album: norway
     image: 4water.jpg

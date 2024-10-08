@@ -17,7 +17,7 @@ gallery_item:
     image: 4fon.jpg
     caption: Trevi Fountain
   - album: italy
-    image: 5pisa.jpg
+    image: 5pisa.jpeg
     caption: Leaning Tower of Pisa
   - album: italy
     image: 6food.jpg
