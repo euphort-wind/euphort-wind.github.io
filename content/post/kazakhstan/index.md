@@ -4,18 +4,19 @@ date: '2023-06-01'
 summary: Trip to Kazakhstan
 
 gallery_item:
+
   - album: kazakhstan
-    image: 1mus.jpg
-    caption: National Museum of Kazakhstan (Astana)
-  - album: kazakhstan
-    image: 2baiterek.jpg
+    image: 1baiterek.jpg
     caption: Baiterek (Astana)
+  - album: kazakhstan
+    image: 2mus.jpg
+    caption: National Museum of Kazakhstan (Astana)
   - album: kazakhstan
     image: 3book.jpg
     caption: Drama Theater (Kostanay)
   - album: kazakhstan
-    image: 4yurta.jpg
-    caption: Kazakh yurt
+    image: 4abyl.jpg
+    caption: Abylai-Khan Statue (Kokshetau)
   - album: kazakhstan
     image: 5skala.jpg
     caption: Rock road (Aktau)
