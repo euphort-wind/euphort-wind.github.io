@@ -5,11 +5,11 @@ summary: Trip to Bulagaria
 
 gallery_item:
   - album: bulgaria
-    image: 1sofnex.jpg
-    caption: St. Alexander Nevski Cathedral
+    image: 1sofia.jpeg
+    caption: City of Sofia
   - album: bulgaria
-    image: 2sofbas.jpg
-    caption: The Rotunda Church of St George
+    image: 2sofnex.jpg
+    caption: St. Alexander Nevski Cathedral
   - album: bulgaria
     image: 3nesebar.jpg
     caption: Old Nesebar
@@ -17,8 +17,8 @@ gallery_item:
     image: 4varna.jpg
     caption: The Varna Opera
   - album: bulgaria
-    image: 5byala.jpg
-    caption: Sveti Anastas (Byala)
+    image: 5vlas.jpeg
+    caption: Church St. Atanasii Veliki (Sveti Vlas)
   - album: bulgaria
     image: 6kebabche.jpg
     caption: Bulgarian kebapche
@@ -47,6 +47,7 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
     - The Roman Thermae <i>(Римски Терми)</i>
 5. Sveti Vlas
     - Church "Saint Vlasiy" <i>(Свети Влас)</i>
+    - Church St. Atanasii Veliki <i>(Храм Св. Атанасий Велики)</i>
     - Marina Dinevi Port <i>(Марина Диневи)</i>
 6. Pomorie
     - Monastery of St. George <i>(Манастир Свети Георги)</i>
