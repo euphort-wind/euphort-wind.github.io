@@ -5,20 +5,20 @@ summary: Trip to Romania
 
 gallery_item:
   - album: romania
-    image: 1buhbank.jpg
+    image: 1bran.jpeg
+    caption: Bran
+  - album: romania
+    image: 2drak.jpg
+    caption: Bran Castle
+  - album: romania
+    image: 3buhbank.jpg
     caption: National Bank of Romania (Banca Națională a României)
   - album: romania
-    image: 2chirch.jpg
+    image: 4chirch.jpg
     caption: Stavropoleos Monastery
   - album: romania
-    image: 3casi.jpg
-    caption: Cazinoul Sinaia
-  - album: romania
-    image: 4castle.jpg
+    image: 5castle.jpg
     caption: Peleș Castle
-  - album: romania
-    image: 5drak.jpg
-    caption: Dracula Castle
   - album: romania
     image: 6torch.jpg
     caption: Romanian Tochitură
