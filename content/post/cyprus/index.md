@@ -5,8 +5,8 @@ summary: Trip to Cyprus
 
 gallery_item:
   - album: cyprus
-    image: 1ayanapa.jpg
-    caption: Ayia Napa
+    image: 1village.jpg
+    caption: Pedoulas Village
   - album: cyprus
     image: 2beach.jpg
     caption: Cape Greco (Ayia Napa)
@@ -17,8 +17,8 @@ gallery_item:
     image: 4cafe.jpg
     caption: Cafe in Kakopetria
   - album: cyprus
-    image: 5village.jpg
-    caption: Troodos Mountains
+    image: 5ayanapa.jpg
+    caption: Ayia Napa
   - album: cyprus
     image: 6cheese.jpg
     caption: Cyprus Grilled Halloumi 

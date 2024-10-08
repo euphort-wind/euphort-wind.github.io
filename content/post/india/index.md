@@ -5,8 +5,8 @@ summary: Trip to India
 
 gallery_item:
   - album: india
-    image: 1monkey.jpg
-    caption: Monkey in Badami
+    image: 1bijapur.jpeg
+    caption: Vijayapura
   - album: india
     image: 2temple.jpg
     caption: Pattadakal Temple
@@ -18,10 +18,10 @@ gallery_item:
     caption: Dudhsagar Falls
   - album: india
     image: 5temple.jpg
-    caption: Ibrahim Roza (Vijayapura)
+    caption: Ibrahim Roza 
   - album: india
     image: 6chick.jpg
-    caption: Butter chicken (Murgh Makhani)
+    caption: Butter Chicken 
 
 ---
 Hej! I share an extract of my experience of visiting contrasting and spectacular India. I was there in the spring of 2014. Below are some notes on what I tasted, saw and listened to.<br>
