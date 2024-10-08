@@ -5,14 +5,14 @@ summary: Trip to Denmark
 
 gallery_item:
   - album: denmark
-    image: 1marm.jpg
-    caption: The Little Mermaid (Copenhagen)
+    image: 1nyhavn.jpg
+    caption: "Nyhavn"
   - album: denmark
     image: 2castle.jpg
     caption: Rosenborg Castle
   - album: denmark
-    image: 3nyhavn.jpg
-    caption: "Nyhavn"
+    image: 3marm.jpg
+    caption: The Little Mermaid (Copenhagen)
   - album: denmark
     image: 4kron.jpg
     caption: Kronborg Castle
