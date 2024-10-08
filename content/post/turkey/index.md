@@ -23,7 +23,7 @@ gallery_item:
     image: 6doner.jpg
     caption: Turkish Döner Kebab
 ---
-Hej! I share an extract of my experience of visiting magnificent Türkiye. I was there in 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2019 and 2023. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my experience of visiting magnificent Türkiye. I was there in 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2019, 2023 and 2024. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
 <b>🗺 Places:</b> İstanbul, Side, Belek, Kemer, Demre, Marmaris, Selçuk, Pamukkale, Antalya.<br>
@@ -54,18 +54,20 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
     - Marmaris Mountains <i>(Marmaris Dağları)</i>
     - Dalyan Mud Bath <i>(Dalyan Çamur Banyosu)</i>
     - Carian Rock Tombs <i>(Karya Kaya Mezarları)</i>
-4. Selçuk
+4. Kemer
+    - Phaselis Ancient City <i>(Faselis)</i>
+    - Göynük Canyon <i>(Göynük Kanyonu)</i>
+    - Lycian Way <i>(Likya Yolu)</i>
+    - Beldibi Beaches <i>(Beldibi)</i>
+    - Kiriş Beaches <i>(Kiriş)</i>
+5. Selçuk
     - Ephesus Ancient City <i>(Efes)</i>    
-5. Pamukkale
-    - Travertines of Pamukkale <i>(Pamukkale travertenleri)</i>
+6. Pamukkale
+    - Travertines of Pamukkale <i>(Pamukkale Travertenleri)</i>
     - Hierapolis Ancient City <i>(Hierapolis)</i>
-6. Demre
+7. Demre
     - Myra Ancient City <i>(Myra)</i>
     - Kekova Island <i>(Kekova Adası)</i>
-7. Kemer
-    - Çamyuva beaches <i>(Çamyuva)</i>
-    - Beldibi beaches <i>(Beldibi)</i>
-    - Kiriş beaches <i>(Kiriş)</i>
 8. Belek 
     - Belek Beaches <i>(Belek)</i>
 9. Side
@@ -74,6 +76,8 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
  
 <b>🎧 Local musicians: </b>
 - 🇹🇷 Tarkan (singer). Genre: pop
+- 🇹🇷 Emre Altuğ (singer). Genre: pop
+- 🇹🇷 Soner Sarıkabadayı (singer). Genre: pop
 - 🇹🇷 Serhat Durmus (DJ). Genre: house
 - 🇹🇷 Zerrin Temiz (singer). Genre: pop
 - 🇺🇳 Burak Yeter (DJ). Genre: house
@@ -85,9 +89,13 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
 - Döner Kebab <i>(Döner Kebab)</i>
 - Baklava <i>(Baklava) </i>
 - Gözleme <i>(Gözleme)</i>
+- Muhlama <i>(Mıhlama)</i>
+- Ashure <i>(Aşure)</i>
+- Kazandibi <i>(Kazandibi)</i>
+- Sekerpare <i>(Şekerpare)</i>
 - Burek <i>(Börek)</i>
 - Turkish Ice-cream <i>(Dondurma)</i>
-- Turkish Coffee <i>(Türk kahvesi)</i>
+- Turkish Tea <i>(Türk Çayı)</i>
 - Pide <i>(Pide)</i>
 - Turkish Turnip Water <i>(Şalgam Suyu)</i>
 - Turkish Raki <i>(Brand: "Yeni Raki")</i>
@@ -97,18 +105,20 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
 
 <b>🎬 Local movies:</b>
 - Winter Sleep <i>(Kış Uykusu)</i>. Year: 2014. Genre: drama
+- Distant <i>(Uzak)</i>. Year: 2002. Genre: drama
 
 
 <b>🪔 Authentic artifacts:</b>
 - Turkish Hammam <i>(Hamam)</i>
 - The Halay Dance <i>(Halay)</i>
 - The Bağlama <i>(Bağlama)</i>
+- Turkish Television Drama <i>(Türk Dizileri)</i>
 - Authentic Garb: Kaftan and Shalvar and Yelek <i>(Kaftan ve Şalvar ve Yelek)</i>
 - The Meddahs <i>(Meddah)</i>
 - Turkish Architecture <i>(Türk Mimarisi)</i>
 - <u>İstanbul (Regional Special):</u> Byzantine Culture <i>(Bizans Kültürü)</i>
 - <u>İstanbul (Regional Special):</u> Shoeshiners <i>(Ayakkabı Boyacısı)</i>
-
+- <u>Antalya (Regional Special):</u> The Culture of Tahtaci <i>(Tahtacılar / Tahtacı)</i>
 
 <b>🦉 Local wisdom:</b> "A wise man does not say what he knows; The stupid man does not know what he is saying" / <i>"Akıllı adam bildiğini söylemez; salak adam söylediğini bilmez"</i> — Turkish proverb
 
