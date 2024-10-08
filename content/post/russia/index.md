@@ -5,17 +5,17 @@ summary: Stay in Russia
 
 gallery_item:
   - album: russia
+    image: 1ekb.jpeg
+    caption: Ekaterinburg
+  - album: russia
     image: 1msk.jpeg
     caption: Saint Basil's Cathedral
   - album: russia
-    image: 2bannoe.jpeg
+    image: 2bannoye.jpeg
     caption: Bannoye lake
   - album: russia
     image: 3kavkaz.jpeg
-    caption: Fiagdon (village)
-  - album: russia
-    image: 4ekb.jpeg
-    caption: Ekaterinburg
+    caption: Fiagdon village
   - album: russia
     image: 5mgn.jpeg
     caption: Magnitogorsk Technical University 
