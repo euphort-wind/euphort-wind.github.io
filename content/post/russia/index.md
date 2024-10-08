@@ -8,14 +8,14 @@ gallery_item:
     image: 1ekb.jpeg
     caption: Ekaterinburg
   - album: russia
-    image: 1msk.jpeg
+    image: 2msk.jpeg
     caption: Saint Basil's Cathedral
-  - album: russia
-    image: 2bannoye.jpeg
-    caption: Bannoye lake
   - album: russia
     image: 3kavkaz.jpeg
     caption: Fiagdon village
+  - album: russia
+    image: 4bannoye.jpeg
+    caption: Bannoye lake
   - album: russia
     image: 5mgn.jpeg
     caption: Magnitogorsk Technical University 
