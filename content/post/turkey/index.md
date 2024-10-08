@@ -5,20 +5,20 @@ summary: Trip to Turkey
 
 gallery_item:
   - album: turkey
-    image: 1ayasofia.jpg
-    caption: Hagia Sophia (Istanbul)
+    image: 1antalya.jpg
+    caption: Antalya
   - album: turkey
-    image: 2cisterna.jpg
-    caption: Basilica Cistern (Istanbul)
+    image: 2ayasofia.jpeg
+    caption: Hagia Sophia (Istanbul)
   - album: turkey
     image: 3gate.jpg
     caption: Galata Tower (Istanbul)
   - album: turkey
-    image: 4pamukkale.jpg
-    caption: Hierapolis ancient theater
+    image: 4cisterna.jpg
+    caption: Basilica Cistern (Istanbul)
   - album: turkey
-    image: 5antalya.jpg
-    caption: Antalya
+    image: 5pamukkale.jpg
+    caption: Hierapolis ancient theater
   - album: turkey
     image: 6doner.jpg
     caption: Turkish Döner Kebab
