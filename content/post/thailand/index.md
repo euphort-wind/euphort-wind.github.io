@@ -5,8 +5,8 @@ summary: Trip to Thailand
 
 gallery_item:
   - album: thailand
-    image: 1patong.jpg
-    caption: Patong beach
+    image: 1patong.jpeg
+    caption: Patong 
   - album: thailand
     image: 2patong.jpg
     caption: Patong Promenade
