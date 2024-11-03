@@ -26,7 +26,7 @@ gallery_item:
 Hej! I share an extract of my life in charming Sweden. I was there in the autumn of 2021 and live there since the spring of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Brännö, Strysö, Donsö, Vrångö, Ockerö, Hönö, Björkö,  Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna, Lödöse, Halmstad. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Brännö, Strysö, Donsö, Vrångö, Ockerö, Hönö, Björkö,  Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna, Lödöse, Halmstad, Nödinge-Nol. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -218,7 +218,9 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Halmstad Castle <i>(Halmstads Slott)</i>
     - Main Square <i>(Stora Torg)</i>
     - Hallandsgården <i>(Hallandsgården)</i>
-
+52. Nödinge-Nol
+    - Nol Church <i>(Nols Kyrka)</i>
+    - Ale Vikingagård <i>(Ale Vikingagård)</i>
 
 
 <b>🎧 Local musicians: </b>
@@ -298,8 +300,6 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - <u>Gotland (Regional Special):</u> Visby Medieval Architecture <i>(Visby Medeltidsarkitektur / Häus u Häusar)</i>
 - <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
 - <u>Halland (Regional Special):</u> Bonad Painting <i>(Bonadsmålning)</i>
-
-
 
 
 <b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece" / "<i>Den som gapar över mycket mister ofta hela stycket</i>" — Swedish proverb
