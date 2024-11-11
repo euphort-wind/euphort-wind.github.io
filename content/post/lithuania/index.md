@@ -93,7 +93,7 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 - The Legacy of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - Sutartines Songs <i>(Sutartinės)</i>
-- <u>Vilnius (Regional Special):</u> Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
+- <u>Vilnius (Regional Special):</u> The Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
 
 <b>🦉 Local wisdom:</b> "Flax is not yet sown and they are already weaving the linen" / "<i>Linai nesėti, o jau drobes audžia</i>" — Lithuanian Proverb
 

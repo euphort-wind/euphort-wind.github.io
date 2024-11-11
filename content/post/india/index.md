@@ -65,6 +65,7 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 - Tandoori Chicken <i>(तंदुरी चिकन)</i>
 - Phool Makhana <i>(फूल मखाने)</i>
 - <u>Karnataka (Regional Special):</u> Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
+- <u>Goa (Regional Special):</u> Goan Fish Curry <i>(गोवा मछली करी / हुमण)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -86,7 +87,8 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 - <u>Karnataka (Regional Special):</u> The Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
 - <u>Karnataka (Regional Special):</u> Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
 - <u>Karnataka (Regional Special):</u> Dasa Sahitya <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
-
+- <u>Goa (Regional Special):</u> The Culture of Goans <i>(गोवा / गोंयकार)</i>
+- <u>Goa (Regional Special):</u> Goa Carnivals <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>
 
 <b>🦉 Local wisdom:</b> "It is health which is our true wealth, the value of gold and silver is nothing in comparison to it" / "<i>यह स्वास्थय ही है जो हमारा सही धन है, सोने और चांदी का मूल्य इसके सामने कुछ नहीं।</i>" — Mahatma Gandhi (Indian independence activist)
 

@@ -258,7 +258,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - <u>North Ossetia (Regional Special):</u> Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Assianism <i>(Уасдин / Уацдин)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Simd Dance <i>(Симд / Синд)</i>
-- <u>Orenburzhie (Regional Special):</u> Culture of the Orenburg Cossacks <i>(Культура Оренбургских Казаков)</i>
+- <u>Orenburzhie (Regional Special):</u> The Culture of the Orenburg Cossacks <i>(Оренбургские Казаки)</i>
 - <u>Orenburzhie (Regional Special):</u> Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i>
 - <u>Chelyabinsk (Regional Special):</u> Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
 - <u>Chelyabinsk (Regional Special):</u> The Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>

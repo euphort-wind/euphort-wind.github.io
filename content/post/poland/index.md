@@ -84,11 +84,11 @@ Hej! I share an extract of my experience of visiting invincible Poland. I was th
 
 
 <b>🪔 Authentic artifacts:</b>
-- The Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
 - The Polonaise Dance <i>(Polonez)</i>
 - The Mazurka Dance <i>(Mazurek)</i>
 - Name Day Celebrations <i>(Imieniny)</i>
 - Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i> 
+- <u>Pomeranian (Regional Special):</u> The Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
 
 <b>🦉 Local wisdom:</b> "The turkey had a plan for Sunday, but it was eaten on Saturday" / "<i>Indyk myślał o niedzieli, a w sobotę łeb mu ścięli</i>" — Polish proverb
 
