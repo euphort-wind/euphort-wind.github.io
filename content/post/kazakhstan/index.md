@@ -73,6 +73,8 @@ Hej! I share an extract of my experience of visiting astonishing Kazakhstan. I w
 - Irimshik <i>(Ирімшік)</i>
 - Boortsog <i>(Бауырсақ)</i>
 - Kazakh Soup <i>(Сорпа)</i>
+- Zhent <i>(Жент)</i>
+- Samsa <i>(Самса)</i>
 - <u>Mangystau (Regional Special):</u> Beshbarmak with Sturgeon <i>(Фишбармақ)</i>
 
 <b>🎬 Local movies:</b>
