@@ -85,6 +85,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 12. Kungsbacka
     - The Tree of Life <i>(The Tree of Life)</i>
     - Kungsbackaskogen <i>(Kungsbacka Forest)</i>
+    - Tjolöholm Castle <i>(Tjolöholm Slott)</i>
 13. Varberg 
     - Varberg Fortress <i>(Varberg Fästning)</i>
     - Cold Bathes <i>(Kallbadhuset)</i>
