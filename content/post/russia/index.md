@@ -186,7 +186,10 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 <b>🎧 Local musicians: </b>
 - 🇷🇺 Viktor Tsoi <i>(singer)</i>. Genre: post punk
 - 🇷🇺 Valery Meladze <i>(singer)</i>. Genre: pop
+- 🇷🇺 Kris Kelmi <i>(singer)</i>. Genre: rock
 - 🇷🇺 Макsим <i>(singer)</i>. Genre: pop
+- 🇷🇺 Дора <i>(singer)</i>. Genre: pop
+- 🇷🇺 Zivert <i>(singer)</i>. Genre: pop
 - 🇺🇳 Aleksander Popov <i>(DJ)</i>. Genre: trance
 - 🇺🇳 Arty <i>(DJ)</i>. Genre: progressive house
 - 🇺🇳 Nina Kraviz <i>(DJ)</i>. Genre: house
