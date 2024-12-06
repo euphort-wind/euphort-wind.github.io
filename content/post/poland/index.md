@@ -74,7 +74,7 @@ Hej! I share an extract of my experience of visiting invincible Poland. I was th
 - Polish Cheesecake <i>(Sernik)</i> 
 - Makowiec <i>(Makowiec)</i>
 - Polish Bison Grass Vodka <i>(Brand: "Żubrówka")</i>
-- {{ partial "emojis.html" "kashub" }} <u>Pomeranian (Regional Special):</u> Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
+- ![My Emoji](/assets/emojis/my-emoji.svg) <u>Pomeranian (Regional Special):</u> Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
 
 
 <b>🎬 Local movies:</b>
