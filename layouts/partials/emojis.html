@@ -1,0 +1,3 @@
+{{ $svgPath := printf "emojis/%s.svg" . }}
+{{ $svg := resources.Get $svgPath | resources.ToCSS }}
+{{ $svg.Content | safeHTML }}
