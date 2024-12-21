@@ -59,7 +59,7 @@ Hej! I share an extract of my experience of visiting cozy Estonia. I was there i
 - 🇺🇳 Luvwn <i>(DJ)</i>. Genre: chillhop
 
 
-<b>🥘 Local food & drinks: </b>'
+<b>🥘 Local food & drinks: </b>
 - Kama <i>(Kama)</i>
 - Rosolje <i>(Rosolje)</i>
 - Mulgipuder <i>(Mulgi Puder)</i>
