@@ -49,7 +49,7 @@ Hej! I share an extract of my experience of visiting dreamlike San Marino. I was
 
 
 <b>🎬 Local movies:</b>
-- San Marino Archive Footage <i>(Filmati d'archivio di San Marino)</i>. Year: 1950/1977. Genres: archive footage
+- San Marino Archive Footage <i>(Filmati d'archivio di San Marino)</i>. Year: 1950/1977. Genre: archive footage
 
 
 <b>🪔 Authentic artifacts:</b>

@@ -62,7 +62,7 @@ Hej! I share an extract of my experience of visiting magnificent Latvia. I was t
 
 <b>🎬 Local movies:</b>
 - The Shot <i>(Nošāva)</i>. Year: 2019. Genre: short / comedy
-- The Cat's Mill <i>(Kaķīša Dzirnavas)</i>. Year: 1993. Genre: cartoon
+- The Cat's Mill <i>(Kaķīša Dzirnavas)</i>. Year: 1993. Genre: animation
 
 
 <b>🪔 Authentic artifacts:</b>
