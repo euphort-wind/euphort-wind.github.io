@@ -66,11 +66,12 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 
 
 <b>🪔 Authentic artifacts:</b>
-- The Culture of Romani <i>(Romani / Roma)</i>
 - Romanian Hora Dance <i>(Hora)</i>
+- The Doina <i>(Doina)</i>
 - Paparuda Ritual <i>(Păpăluga)</i> 
-- Authentic Garb: Caciula and Ie <i>(Căciulă si Ie)</i> 
+- Martisor <i>(Mărțișor)</i> 
 - Romanian Cars <i>(Brand: "Dacia")</i>
+- The Culture of Romani <i>(Romani / Roma)</i>
 
 <b>🦉 Local wisdom:</b> "The good man values goodness, as the bee values the flower" / "<i>Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea</i>" — Romanian proverb
 
