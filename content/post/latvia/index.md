@@ -17,8 +17,8 @@ gallery_item:
     image: 4tower.jpg
     caption: Dzintari Forest Park (Jurmala)
   - album: latvia
-    image: 5forest.jpg
-    caption: Jurmala Open-Air Museum
+    image: 5tukums.jpeg
+    caption: Meierovics Square (Tukums)
   - album: latvia
     image: 6dish.jpg
     caption: Latvian Gray Peas with Bacon and Onion
