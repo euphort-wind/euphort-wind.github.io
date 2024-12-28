@@ -6,7 +6,7 @@ summary: Trip to Kyrgyzstan
 gallery_item:
   - album: kg
     image: 1bishkek.jpeg
-    caption: City of Bishkek
+    caption: Bishkek
   - album: kg
     image: 2bishkek.jpg
     caption: Ala-Too Square (Bishkek)

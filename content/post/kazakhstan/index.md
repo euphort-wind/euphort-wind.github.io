@@ -7,7 +7,7 @@ gallery_item:
 
   - album: kazakhstan
     image: 1baiterek.jpg
-    caption: Baiterek (Astana)
+    caption: Astana
   - album: kazakhstan
     image: 2mus.jpg
     caption: National Museum of Kazakhstan (Astana)

@@ -6,7 +6,7 @@ summary: Trip to Bulagaria
 gallery_item:
   - album: bulgaria
     image: 1sofia.jpeg
-    caption: City of Sofia
+    caption: Sofia
   - album: bulgaria
     image: 2sofnex.jpg
     caption: St. Alexander Nevski Cathedral

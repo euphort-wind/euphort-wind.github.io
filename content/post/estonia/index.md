@@ -6,7 +6,7 @@ summary: Trip to Estonia
 gallery_item:
   - album: estonia
     image: 1tallin.jpeg
-    caption: City of Tallinn
+    caption: Tallinn
   - album: estonia
     image: 2hall.jpeg
     caption: Tallinn city hall

@@ -6,7 +6,7 @@ summary: Trip to Denmark
 gallery_item:
   - album: denmark
     image: 1nyhavn.jpg
-    caption: "Nyhavn"
+    caption: Nyhavn of Copenhagen
   - album: denmark
     image: 2castle.jpg
     caption: Rosenborg Castle

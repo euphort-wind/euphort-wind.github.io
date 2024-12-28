@@ -38,14 +38,14 @@ Hej! I share an extract of my experience of visiting bright Thailand. I was ther
     - Flying Hanuman Zipline <i>(ซิปไลน์)</i>
     - Elephant Care <i>(การดูแลช้าง)</i>
 3. Racha Yai
-    - Racha White-sand Beaches <i>(ชายหาดเกาะราชาใหญ่)</i>
-    - Racha Coast (Diving places) <i>(ชายฝั่งราชา)</i>
+    - Racha White-Sand Beaches <i>(ชายหาดเกาะราชาใหญ่)</i>
+    - Racha Coast (Diving Places) <i>(ชายฝั่งราชา)</i>
 
 <b>🎧 Local musicians: </b>
 - 🇹🇭 Safeplanet (band). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
-- Tom Yam soup <i>(ต้มยำ)</i>
+- Tom Yam Soup <i>(ต้มยำ)</i>
 - Thai Seafood Fried Rice <i>(ข้าวผัด)</i>
 - Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
 - Thai Rum <i>(Brand: "Sang Som")</i>

@@ -6,7 +6,7 @@ summary: Trip to Latvia
 gallery_item:
   - album: latvia
     image: 1pano.jpg
-    caption: The view on Old Riga
+    caption: Riga
   - album: latvia
     image: 2cerno.jpg
     caption: House of the Blackheads (Riga)

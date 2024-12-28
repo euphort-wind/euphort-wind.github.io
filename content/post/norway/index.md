@@ -6,7 +6,7 @@ summary: Trip to Norway
 gallery_item:
   - album: norway
     image: 1oslo.jpeg
-    caption: City of Oslo
+    caption: Oslo
   - album: norway
     image: 2vigi.jpg
     caption: The Vigeland Park (Oslo)

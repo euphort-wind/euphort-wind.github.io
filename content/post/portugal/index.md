@@ -6,7 +6,7 @@ summary: Trip to Portugal
 gallery_item:
   - album: portugal
     image: 1lisbon.jpeg
-    caption: City of Lisbon
+    caption: Lisbon
   - album: portugal
     image: 2gate.jpeg
     caption: The Rua Augusta Arch (Lisbon)

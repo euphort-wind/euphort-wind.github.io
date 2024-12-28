@@ -6,7 +6,7 @@ summary: Trip to Belgium
 gallery_item:
   - album: belgium
     image: 1brussels.jpeg
-    caption: City of Brussels
+    caption: Brussels
   - album: belgium
     image: 2grand.jpeg
     caption: Grand-Place 

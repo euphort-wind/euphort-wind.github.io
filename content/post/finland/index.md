@@ -6,7 +6,7 @@ summary: Trip to Finland
 gallery_item:
   - album: finland
     image: 1helsinki.jpeg
-    caption: City of Helsinki
+    caption: Helsinki
   - album: finland
     image: 2helsi.jpg
     caption: Helsinki Cathedral
