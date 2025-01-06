@@ -34,7 +34,7 @@ Hej! I share an extract of my experience of visiting cozy Estonia. I was there i
     - Town Hall Square <i>(Raekoja Plats)</i>
     - Town Hall Pharmacy <i>(Raeapteek)</i>
     - Fat Margaret <i>(Paks Margareeta)</i>
-    - St Catherine's Passage <i>(Katariina Käik)</i>
+    - St. Catherine's Passage <i>(Katariina Käik)</i>
     - Estonian Parliament <i>(Riigikogu)</i>
     - Cafe Maiasmokk <i>(Maiasmokk)</i>
 2. Tartu
