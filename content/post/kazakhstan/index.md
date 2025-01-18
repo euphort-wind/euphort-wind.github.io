@@ -16,7 +16,7 @@ gallery_item:
     caption: Drama Theater (Kostanay)
   - album: kazakhstan
     image: 4abyl.jpeg
-    caption: Abylai-Khan Statue (Kokshetau)
+    caption: Kokshetau Town Hall
   - album: kazakhstan
     image: 5skala.jpg
     caption: Rock road (Aktau)

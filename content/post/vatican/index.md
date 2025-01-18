@@ -22,7 +22,7 @@ gallery_item:
     caption: The Sistine Chapel
   - album: vatican
     image: 6pasta.jpeg
-    caption: Baked Pasta in Vatikan Museum
+    caption: Baked Pasta in Vatican Museum
 
 ---
 Hej! I share an extract of my experience of visiting blessed Vatican. I was there in the winter of 2024. Below are some notes on what I tasted, saw and listened to.<br>
@@ -43,7 +43,7 @@ Hej! I share an extract of my experience of visiting blessed Vatican. I was ther
 
 <b>🥘 Local food & drinks: </b>
 - Dry Red Wine <i>(Vinum Siccum Rubrum)</i>
-- Baked pasta <i>(Coxit Adipiscing)</i>
+- Baked Pasta <i>(Coxit Adipiscing)</i>
 - Grissini <i>(Grissini)</i>
 
 

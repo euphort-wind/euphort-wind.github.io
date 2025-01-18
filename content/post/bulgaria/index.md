@@ -18,7 +18,7 @@ gallery_item:
     caption: The Varna Opera
   - album: bulgaria
     image: 5vlas.jpeg
-    caption: Church St. Atanasii Veliki (Sveti Vlas)
+    caption: Sveti Vlas
   - album: bulgaria
     image: 6kebabche.jpg
     caption: Bulgarian kebapche
