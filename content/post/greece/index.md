@@ -14,8 +14,8 @@ gallery_item:
     image: 3oia.jpg
     caption: Santorini island
   - album: greece
-    image: 4museum.jpg
-    caption: Heraklion Archaeological Museum
+    image: 4hch.jpeg
+    caption: Saint Minas Cathedral (Heraklion)
   - album: greece
     image: 5church.jpg
     caption: Church of Hagia Trias (Agios Nikolaos)
