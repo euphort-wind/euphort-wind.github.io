@@ -85,7 +85,7 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 - Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>
 - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
 - Authentic Ancient Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύς)</i>
-- Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
+- The Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - Sirtaki Dance <i>(Σιρτάκη)</i>
 - The Meander <i>(Μαίανδρος)</i>
 - The Evil Eye <i>(Κακό Μάτι)</i>

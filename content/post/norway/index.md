@@ -97,6 +97,7 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 - Authentic Principle: Kos <i>(Kos)</i>
 - The Culture of Vikings <i>(Vikinger / Hraustra Vikinga)</i> 
 - The Viking Runic Alphabet <i>(Viking Runealfabet)</i> 
+- The Viking Mythology <i>(Viking Mytologi)</i> 
 - Connection to Nature <i>(Friluftsliv)</i> 
 - The Hardanger Fiddle <i>(Hardingfele)</i>
 - Authentic Garb: Bunad <i>(Bunad)</i>
