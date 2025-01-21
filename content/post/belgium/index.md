@@ -78,6 +78,7 @@ Hej! I share an extract of my experience of visiting beautiful ultifaceted Belgi
 - Ben X <i>(Ben X)</i>. Year: 2007. Genre: thriller 
 
 <b>🪔 Authentic artifacts:</b>
+- Authentic Principle: Belgitude <i>(Belgitude / Belgitude)</i>
 - The Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
 - Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
 - The Friterie Culture <i>(Frituur / Frietkot)</i>

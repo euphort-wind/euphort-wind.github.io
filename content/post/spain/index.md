@@ -72,14 +72,16 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 
 
 <b>🪔 Authentic artifacts:</b>
+- Authentic Principle: Hispanidad <i>(Hispanidad)</i>
 - The Siesta <i>(Siesta)</i>
 - The Flamenco <i>(Flamenco)</i>
 - Spanish Bullfighting <i>(Corrida)</i>
 - Authentic Garb: Mantilla and Peineta and Gilet <i>(Mantilla y Peineta y Chaleco)</i>
 - Spanish Cars <i>(Brand: "SEAT")</i>
 - <u>Catalonia (Regional Special):</u> The Culture of Catalans <i>(Catalanes / Catalans)</i>
+- <u>Catalonia (Regional Special):</u> Authentic Principle: Seny <i>(Seny / Seny)</i>
 - <u>Catalonia (Regional Special):</u> Catalan Rumba <i>(Rumba Catalana / Rumba Catalana)</i>
-
+- <u>Catalonia (Regional Special):</u> Catalan Human Tower <i>(Castell / Castell)</i>
 
 <b>🦉 Local wisdom:</b> "Distance is to love what the wind is to a fire: it extinguishes the small things, but fuels the large ones" / <i>"La distancia es al amor lo que el viento al fuego: apaga el pequeño, pero aviva el grande"</i> — "Mar de fuego", Chufo Lloréns
 
