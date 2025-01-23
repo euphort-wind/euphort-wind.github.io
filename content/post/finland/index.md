@@ -12,7 +12,10 @@ gallery_item:
     caption: Helsinki Cathedral
   - album: finland
     image: 3fish.jpg
-    caption: Old Market Hall (Helsinki)
+    caption: Helsinki Old Market Hall 
+  - album: finland
+    image: 3sib.jpg
+    caption: Sibelius Monument 
   - album: finland
     image: 4suomen.jpg
     caption: Suomenlinna Fortress
@@ -20,7 +23,10 @@ gallery_item:
     image: 5vaasa.jpg
     caption: Vaasa 
   - album: finland
-    image: 6soup.jpg
+    image: 7church.jpg
+    caption: Temppeliaukio Church
+  - album: finland
+    image: 8soup.jpg
     caption: Finnish Fish Soup
 ---
 Hej! I share an extract of my experience of visiting stately Finland. I was there in the autumn of 2021. Below are some notes on what I tasted, saw and listened to. I also visited <a href = "https://euphort.se/post/aland/">Åland Islands</a> (an autonomous and demilitarised region of Finland). <br>

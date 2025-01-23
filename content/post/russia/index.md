@@ -7,20 +7,26 @@ gallery_item:
   - album: russia
     image: 1ekb.jpeg
     caption: Ekaterinburg
+- album: russia
+    image: 2kislo.jpg
+    caption: Main Narzan Baths (Kislovodsk)
   - album: russia
     image: 2msk.jpeg
     caption: Saint Basil's Cathedral
   - album: russia
     image: 3kavkaz.jpeg
-    caption: Fiagdon village
+    caption: Fiagdon Village
   - album: russia
     image: 4bannoye.jpeg
-    caption: Bannoye lake
+    caption: Bannoye Lake
   - album: russia
     image: 5mgn.jpeg
     caption: Magnitogorsk Technical University 
+- album: russia
+    image: 5spb.jpg
+    caption: State Hermitage Museum (St. Petersburg)
   - album: russia
-    image: 6solyanka.jpeg
+    image: 8solyanka.jpeg
     caption: Russian solyanka
 
 ---
