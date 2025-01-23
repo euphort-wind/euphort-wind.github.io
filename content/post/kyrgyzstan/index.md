@@ -23,7 +23,7 @@ gallery_item:
     image: 6skazka.jpg
     caption: Skazka Canyon
   - album: kg
-    image: 7petro.jpg
+    image: 7petra.jpg
     caption: Cholpon-Ata Petroglyphs
   - album: kg
     image: 8ashlyan.jpg
