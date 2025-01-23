@@ -14,6 +14,12 @@ gallery_item:
     image: 3marm.jpg
     caption: The Little Mermaid (Copenhagen)
   - album: denmark
+    image: 4kop.jpg
+    caption: Børsen
+  - album: denmark
+    image: 4xhel.jpg
+    caption: Helsingør
+  - album: denmark
     image: 4kron.jpg
     caption: Kronborg Castle
   - album: denmark

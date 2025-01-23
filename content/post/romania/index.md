@@ -11,7 +11,10 @@ gallery_item:
     image: 2drak.jpg
     caption: Bran Castle
   - album: romania
-    image: 3buhbank.jpg
+    image: 4chy.jpg
+    caption: Sinaia Casino
+  - album: romania
+    image: 5buhbank.jpg
     caption: National Bank of Romania (Banca Națională a României)
   - album: romania
     image: 4chirch.jpg
@@ -19,6 +22,9 @@ gallery_item:
   - album: romania
     image: 5castle.jpg
     caption: Peleș Castle
+  - album: romania
+    image: 6inside.jpg
+    caption: Peleș Castle Inside
   - album: romania
     image: 6torch.jpg
     caption: Romanian Tochitură

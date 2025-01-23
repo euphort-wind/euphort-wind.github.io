@@ -20,6 +20,12 @@ gallery_item:
     image: 5nar.jpg
     caption: Flåm
   - album: norway
+    image: 5ymoss.jpg
+    caption: Moellebyen Industrial Centre
+  - album: norway
+    image: 5zfred.jpg
+    caption: Gamlebyen i Fredrikstad
+  - album: norway
     image: 6far.jpg
     caption: Norwegian Fårikål
 ---

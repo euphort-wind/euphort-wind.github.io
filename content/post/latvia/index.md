@@ -11,6 +11,12 @@ gallery_item:
     image: 2cerno.jpg
     caption: House of the Blackheads (Riga)
   - album: latvia
+    image: 5xmus.jpg
+    caption: Jurmala Open Air Museum
+  - album: latvia
+    image: 4art.jpg
+    caption: Art Nouveau Architecture in Riga
+  - album: latvia
     image: 3lib.jpg
     caption: Freedom Monument (Riga)
   - album: latvia

@@ -27,7 +27,7 @@ gallery_item:
     caption: State Hermitage Museum (St. Petersburg)
 -   album: russia
     image: 8solyanka.jpeg
-    caption: Russian solyanka
+    caption: Russian Solyanka
 
 ---
 Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
