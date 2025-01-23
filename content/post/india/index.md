@@ -12,13 +12,19 @@ gallery_item:
     caption: Pattadakal Temple
   - album: india
     image: 3dance.jpg
-    caption: Dancing Shiva as Nataraja (Badami cave temples)
+    caption: Dancing Shiva as Nataraja (Badami Cave Temples)
   - album: india
     image: 4waterfall.jpg
     caption: Dudhsagar Falls
   - album: india
     image: 5temple.jpg
     caption: Ibrahim Roza 
+   - album: india
+    image: 6badami.jpg
+    caption: Badami 
+   - album: india
+    image: 7port.jpg
+    caption: Fort Aguada 
   - album: india
     image: 6chick.jpg
     caption: Butter Chicken 
