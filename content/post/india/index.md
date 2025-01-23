@@ -19,10 +19,10 @@ gallery_item:
   - album: india
     image: 5temple.jpg
     caption: Ibrahim Roza 
-   - album: india
+  - album: india
     image: 6badami.jpg
     caption: Badami 
-   - album: india
+  - album: india
     image: 7port.jpg
     caption: Fort Aguada 
   - album: india
