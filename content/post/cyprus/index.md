@@ -8,19 +8,25 @@ gallery_item:
     image: 1village.jpg
     caption: Pedoulas Village
   - album: cyprus
-    image: 2beach.jpg
+    image: 2kako.PNG
+    caption: Kakopetria Village
+  - album: cyprus
+    image: 3beach.jpg
     caption: Cape Greco (Ayia Napa)
   - album: cyprus
-    image: 3church.jpg
-    caption: Archangel Michael church (Lefkara)
-  - album: cyprus
-    image: 4cafe.jpg
-    caption: Cafe in Kakopetria
-  - album: cyprus
-    image: 5ayanapa.jpg
+    image: 4ayanapa.jpg
     caption: Ayia Napa
   - album: cyprus
-    image: 6cheese.jpg
+    image: 5church.jpg
+    caption: Archangel Michael Church (Lefkara)
+  - album: cyprus
+    image: 6church.jpg
+    caption: Church of the Holy Cross (Lefkara)
+  - album: cyprus
+    image: 7cafe.jpg
+    caption: Cafe in Kakopetria
+  - album: cyprus
+    image: 8cheese.jpg
     caption: Cyprus Grilled Halloumi 
 ---
 Hej! I share an extract of my experience of visiting impressive Cyprus. I was there in the summer of 2016. Below are some notes on what I tasted, saw and listened to.<br>

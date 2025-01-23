@@ -23,8 +23,8 @@ gallery_item:
     image: 6badami.jpg
     caption: Badami 
   - album: india
-    image: 7port.jpg
-    caption: Fort Aguada 
+    image: 7port.png
+    caption: Fort Aguada (Candolim)
   - album: india
     image: 6chick.jpg
     caption: Butter Chicken 
@@ -69,6 +69,7 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 - Indian Buffalo Steak <i>(भारतीय भैंस स्टेक)</i>
 - Naan <i>(नान)</i>
 - Tandoori Chicken <i>(तंदुरी चिकन)</i>
+- Kulfi <i>(क़ुल्फ़ी)</i>
 - Phool Makhana <i>(फूल मखाने)</i>
 - <u>Karnataka (Regional Special):</u> Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
 - <u>Goa (Regional Special):</u> Goan Fish Curry <i>(गोवा मछली करी / हुमण)</i>
