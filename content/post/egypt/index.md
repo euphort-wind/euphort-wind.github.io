@@ -6,13 +6,13 @@ summary: Trip to Egypt
 gallery_item:
   - album: egypt
     image: 1bedoin.jpg
-    caption: The Bedouins stop
+    caption: The Bedouins Stop
   - album: egypt
     image: 2camel.jpg
-    caption: Dromedary camel
+    caption: Dromedary Camel
   - album: egypt
     image: 3beach.jpg
-    caption: Sharm El-Sheikh beach
+    caption: Sharm El-Sheikh Beach
   - album: egypt
     image: 4river.jpg
     caption: Marsa Bareika
@@ -20,7 +20,13 @@ gallery_item:
     image: 5stones.jpg
     caption: Ras Mohamed Nature Reserve
   - album: egypt
-    image: 6koshary.jpeg
+    image: 6park.jpg
+    caption: Ras Mohamed Nature Reserve
+  - album: egypt
+    image: 7camp.jpg
+    caption: The Bedouin Tent
+  - album: egypt
+    image: 8koshary.jpeg
     caption: Egyptian Koshary
 
 ---

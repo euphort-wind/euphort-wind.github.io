@@ -8,19 +8,25 @@ gallery_item:
     image: 1port.jpg
     caption: Aqaba (town)
   - album: jordan
-    image: 2petra.jpg
-    caption: Al-Khazneh treasury (Petra)
+    image: 2port.jpg
+    caption: Port of Aqaba
   - album: jordan
     image: 3petra.jpg
-    caption: The Urn Tombs (Petra)
+    caption: Al-Khazneh Treasury (Petra)
   - album: jordan
-    image: 4shop.jpg
-    caption: Souvenir shop in Petra
+    image: 4petra.jpg
+    caption: The Urn Tombs (Petra)
   - album: jordan
     image: 5pano.jpg
     caption: Wadi Musa (town)
   - album: jordan
-    image: 6mansaf.jpg
+    image: 6camel.jpg
+    caption: Camels in Petra
+  - album: jordan
+    image: 7shop.jpg
+    caption: Souvenir Shop in Petra
+  - album: jordan
+    image: 8mansaf.jpg
     caption: Jordanian Mansaf
 
 ---
