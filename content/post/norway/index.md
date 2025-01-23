@@ -20,8 +20,8 @@ gallery_item:
     image: 5nar.jpg
     caption: Flåm
   - album: norway
-    image: 5ymoss.jpg
-    caption: Moellebyen Industrial Centre
+    image: 3aslo.jpg
+    caption: The Storting
   - album: norway
     image: 5zfred.jpg
     caption: Gamlebyen i Fredrikstad

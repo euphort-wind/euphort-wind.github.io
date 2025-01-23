@@ -8,14 +8,20 @@ gallery_item:
     image: 1marie.jpeg
     caption: Mariehamn
   - album: aland
+    image: 1parl.jpg
+    caption: Mariehamns Stadshus
+  - album: aland
     image: 2fish.jpg
-    caption: Eckerö museum of fisheries and navigation
+    caption: Eckerö Museum of Fisheries and Navigation
   - album: aland
     image: 3post.jpg
-    caption: Eckerö post office
+    caption: Eckerö Post Office
+  - album: aland
+    image: 4xeck.jpg
+    caption: Eckerö
   - album: aland
     image: 4museum.jpg
-    caption: Maritime museum and Pommern ship
+    caption: Maritime museum and Pommern Ship
   - album: aland
     image: 5sjo.jpg
     caption: The Sea Quarter

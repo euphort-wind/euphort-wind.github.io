@@ -11,6 +11,12 @@ gallery_item:
     image: 2chesta.jpeg
     caption: La Chesta tower
   - album: sanmarino
+    image: 4xcath.jpg
+    caption: Basilica of Saint Marinus
+  - album: sanmarino
+    image: 5xsan.jpg
+    caption: The City of San Marino
+  - album: sanmarino
     image: 3indip.jpeg
     caption: Liberty Square
   - album: sanmarino
