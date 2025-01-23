@@ -11,13 +11,19 @@ gallery_item:
     image: 2sofnex.jpg
     caption: St. Alexander Nevski Cathedral
   - album: bulgaria
-    image: 3nesebar.jpg
+    image: 3banya.jpg
+    caption: Sofia Central Mineral Baths
+  - album: bulgaria
+    image: 4nesebar.jpg
     caption: Old Nesebar
+  - album: bulgaria
+    image: 4ogas.jpg
+    caption: St. Cyril and Methodius Cathedral (Burgas)
   - album: bulgaria
     image: 4varna.jpg
     caption: The Varna Opera
   - album: bulgaria
-    image: 5vlas.jpeg
+    image: 3vlas.jpeg
     caption: Sveti Vlas
   - album: bulgaria
     image: 6kebabche.jpg
