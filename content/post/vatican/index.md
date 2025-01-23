@@ -9,6 +9,12 @@ gallery_item:
     image: 1peter.jpeg
     caption: St. Peter's Basilica
   - album: vatican
+    image: 1a.jpg
+    caption: Apostolic Palace
+  - album: vatican
+    image: 6a.jpg
+    caption: The Gold Path (Vatican Museum)
+  - album: vatican
     image: 2inside.jpeg
     caption: Inside St. Peter's Basilica
   - album: vatican

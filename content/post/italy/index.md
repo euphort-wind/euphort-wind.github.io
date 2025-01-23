@@ -11,6 +11,12 @@ gallery_item:
     image: 2flo.jpg
     caption: Florence Cathedral
   - album: italy
+    image: 5rimini.jpg
+    caption: Piazza Cavour (Rimini)
+  - album: italy
+    image: 6bridge.jpg
+    caption: Ponte Vecchio (Florence)
+  - album: italy
     image: 3col.jpg
     caption: Colosseum
   - album: italy
