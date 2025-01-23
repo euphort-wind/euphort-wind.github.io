@@ -4,28 +4,28 @@ date: '2021-01-31'
 summary: Stay in Russia
 
 gallery_item:
-  - album: russia
+-   album: russia
     image: 1ekb.jpeg
     caption: Ekaterinburg
-  - album: russia
+-   album: russia
     image: 2kislo.jpg
     caption: Main Narzan Baths (Kislovodsk)
-  - album: russia
+-   album: russia
     image: 2msk.jpeg
     caption: Saint Basil's Cathedral
-  - album: russia
+-   album: russia
     image: 3kavkaz.jpeg
     caption: Fiagdon Village
-  - album: russia
+-   album: russia
     image: 4bannoye.jpeg
     caption: Bannoye Lake
-  - album: russia
+-   album: russia
     image: 5mgn.jpeg
     caption: Magnitogorsk Technical University 
-  - album: russia
+-   album: russia
     image: 5spb.jpg
     caption: State Hermitage Museum (St. Petersburg)
-  - album: russia
+-   album: russia
     image: 8solyanka.jpeg
     caption: Russian solyanka
 
