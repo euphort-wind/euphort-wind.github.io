@@ -56,8 +56,8 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 
 <b>🥘 Local food & drinks: </b>
 - Koshary <i>(كشرى)</i>
-- Ful medames <i>(فول مدمس)</i>
-- Karkadé <i>(كركديه)</i>
+- Ful Medames <i>(فول مدمس)</i>
+- Karkadé Tea <i>(كَركَديه)</i>
 - Aish Baladi <i>(عيش بلدي)</i>
 - Basbousa <i>(بسبوسه)</i>
 
@@ -74,12 +74,13 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
 - Ancient Egyptian Sarcophaguses & Mummies <i>(التوابيت المصرية القديمة)</i>
 - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
+- The Maxims of Ptahhotep <i>(أقوال بتاح حتب)</i>
 - Desert Safari <i>(رحلات السفاري الصحراوية)</i>
 - The Henna Painting <i>(رسمة الحناء)</i>
 - Authentic Garb: Galabiya <i>(جالبيا)</i>
 
 
-<b>🦉 Local wisdom:</b> "Being alone is better than being with someone bad" / <i>"الوحدة خير من جليس السوء"</i> — Egyptian proverb
+<b>🦉 Local wisdom:</b> "He who has been burnt by the soup, would puff at the yogurt" / <i>"اللى اتلسع من الشوربة ينفخ فى الزبادى"</i> — Egyptian proverb
 
 
 <b>👨‍🎓The oldest university:</b> The Al-Azhar University <i>(جامعة الأزهر الشريف)</i>, Cairo, est. 970.  
