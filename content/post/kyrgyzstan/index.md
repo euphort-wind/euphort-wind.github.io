@@ -17,10 +17,16 @@ gallery_item:
     image: 4bars.jpg
     caption: Barskoon
   - album: kg
-    image: 5skazka.jpg
+    image: 5yurt.jpg
+    caption: Yurt in Rukh Ordo
+  - album: kg
+    image: 6skazka.jpg
     caption: Skazka Canyon
   - album: kg
-    image: 6ashlyan.jpg
+    image: 7petro.jpg
+    caption: Cholpon-Ata Petroglyphs
+  - album: kg
+    image: 8ashlyan.jpg
     caption: Kyrgyz Ash-lyanfu
 ---
 Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was there in the summer of 2022. Below are some notes on what I tasted, saw and listened to.<br>
