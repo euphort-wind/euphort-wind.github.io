@@ -8,19 +8,28 @@ gallery_item:
     image: 1antalya.jpg
     caption: Antalya
   - album: turkey
-    image: 2ayasofia.jpeg
-    caption: Hagia Sophia (Istanbul)
+    image: 3kemer.jpg
+    caption: Kemer
   - album: turkey
-    image: 3gate.jpg
-    caption: Galata Tower (Istanbul)
-  - album: turkey
-    image: 4cisterna.jpg
-    caption: Basilica Cistern (Istanbul)
-  - album: turkey
-    image: 5pamukkale.jpg
+    image: 2pamukkale.jpg
     caption: Hierapolis ancient theater
   - album: turkey
-    image: 6doner.jpg
+    image: 2mus.jpg
+    caption: Antalya  
+  - album: turkey
+    image: 5ayasofia.jpeg
+    caption: Hagia Sophia (Istanbul)
+  - album: turkey
+    image: 6marmaris.jpeg
+    caption: Marmaris
+  - album: turkey
+    image: 4gate.jpg
+    caption: Galata Tower (Istanbul)
+  - album: turkey
+    image: 7cisterna.jpg
+    caption: Basilica Cistern (Istanbul)
+  - album: turkey
+    image: 8doner.jpg
     caption: Turkish Döner Kebab
 ---
 Hej! I share an extract of my experience of visiting magnificent Türkiye. I was there in 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2019, 2023 and 2024. Below are some notes on what I tasted, saw and listened to.<br>

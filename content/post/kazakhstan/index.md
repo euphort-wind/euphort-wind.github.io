@@ -9,10 +9,16 @@ gallery_item:
     image: 1baiterek.jpg
     caption: Astana
   - album: kazakhstan
+    image: 3eli.jpg
+    caption: Kazakh Eli Monument
+  - album: kazakhstan
     image: 2mus.jpg
     caption: National Museum of Kazakhstan (Astana)
   - album: kazakhstan
-    image: 3book.jpg
+    image: 2han.jpg
+    caption: Khan Shatyr Shopping Mall
+  - album: kazakhstan
+    image: 4book.jpg
     caption: Drama Theater (Kostanay)
   - album: kazakhstan
     image: 4abyl.jpeg
