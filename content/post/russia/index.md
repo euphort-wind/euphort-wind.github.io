@@ -7,7 +7,7 @@ gallery_item:
   - album: russia
     image: 1ekb.jpeg
     caption: Ekaterinburg
-- album: russia
+  - album: russia
     image: 2kislo.jpg
     caption: Main Narzan Baths (Kislovodsk)
   - album: russia
@@ -22,7 +22,7 @@ gallery_item:
   - album: russia
     image: 5mgn.jpeg
     caption: Magnitogorsk Technical University 
-- album: russia
+  - album: russia
     image: 5spb.jpg
     caption: State Hermitage Museum (St. Petersburg)
   - album: russia
