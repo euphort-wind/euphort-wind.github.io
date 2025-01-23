@@ -26,7 +26,7 @@ gallery_item:
     image: 7port.png
     caption: Fort Aguada (Candolim)
   - album: india
-    image: 6chick.jpg
+    image: 8chick.jpg
     caption: Butter Chicken 
 
 ---
