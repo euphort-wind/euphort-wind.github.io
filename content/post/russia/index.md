@@ -23,7 +23,7 @@ gallery_item:
     image: 5mgn.jpeg
     caption: Magnitogorsk Technical University 
 -   album: russia
-    image: 5spb.jpg
+    image: 1spb.jpg
     caption: State Hermitage Museum (St. Petersburg)
 -   album: russia
     image: 8solyanka.jpeg

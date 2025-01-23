@@ -15,7 +15,7 @@ gallery_item:
     image: 2mus.jpg
     caption: National Museum of Kazakhstan (Astana)
   - album: kazakhstan
-    image: 2han.jpg
+    image: 3han.jpg
     caption: Khan Shatyr Shopping Mall
   - album: kazakhstan
     image: 4book.jpg

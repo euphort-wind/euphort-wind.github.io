@@ -20,10 +20,10 @@ gallery_item:
     image: 5yurt.jpg
     caption: Yurt in Rukh Ordo
   - album: kg
-    image: 6skazka.jpg
+    image: 4skazka.jpg
     caption: Skazka Canyon
   - album: kg
-    image: 7petra.jpg
+    image: 7petro.jpg
     caption: Cholpon-Ata Petroglyphs
   - album: kg
     image: 8ashlyan.jpg

@@ -20,7 +20,7 @@ gallery_item:
     image: 5ayasofia.jpeg
     caption: Hagia Sophia (Istanbul)
   - album: turkey
-    image: 6marmaris.jpeg
+    image: 6marmaris.jpg
     caption: Marmaris
   - album: turkey
     image: 4gate.jpg
