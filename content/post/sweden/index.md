@@ -1,12 +1,18 @@
 ---
 title: 🇸🇪 Sweden
-date: '2024-05-10'
+date: '2025-01-10'
 summary: Live in Sweden
 
 gallery_item:
   - album: sweden
     image: 1stok.jpg
     caption: Stockholm
+  - album: sweden
+    image: 3xg.jpg
+    caption: Visby
+  - album: sweden
+    image: 4xa.jpg
+    caption: Nolhaga Slott (Alingsås)
   - album: sweden
     image: 2moln.jpg
     caption: Little Götafors (Mölndal)
