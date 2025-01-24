@@ -8,6 +8,12 @@ gallery_item:
     image: 1brussels.jpeg
     caption: Brussels
   - album: belgium
+    image: 3x.jpg
+    caption: Saint-Josse-ten-Noode City Hall
+  - album: belgium
+    image: 4x.jpg
+    caption: Schaarbeek City Hall
+  - album: belgium
     image: 2grand.jpeg
     caption: Grand-Place 
   - album: belgium

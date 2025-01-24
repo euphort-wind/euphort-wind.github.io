@@ -17,6 +17,12 @@ gallery_item:
     image: 4wladis.jpeg
     caption: Władysławowo Church
   - album: poland
+    image: 5ag.jpg
+    caption: Gdynia
+  - album: poland
+    image: 5av.jpg
+    caption: Władysławowo 
+  - album: poland
     image: 5hel.jpeg
     caption: Statue of St. Peter in Hel
   - album: poland

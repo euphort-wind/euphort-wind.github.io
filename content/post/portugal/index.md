@@ -8,6 +8,12 @@ gallery_item:
     image: 1lisbon.jpeg
     caption: Lisbon
   - album: portugal
+    image: 5a.jpg
+    caption: Sintra 
+  - album: portugal
+    image: 5b.jpg
+    caption: Quinta da Regaleira
+  - album: portugal
     image: 2gate.jpeg
     caption: The Rua Augusta Arch (Lisbon)
   - album: portugal
