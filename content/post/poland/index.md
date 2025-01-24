@@ -17,7 +17,7 @@ gallery_item:
     image: 4wladis.jpeg
     caption: Władysławowo Church
   - album: poland
-    image: 5ag.jpg
+    image: 4ag.jpg
     caption: Gdynia
   - album: poland
     image: 5av.jpg

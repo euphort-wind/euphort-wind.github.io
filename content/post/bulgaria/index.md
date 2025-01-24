@@ -18,7 +18,7 @@ gallery_item:
     caption: Old Nesebar
   - album: bulgaria
     image: 4ogas.jpg
-    caption: St. Cyril and Methodius Cathedral (Burgas)
+    caption: The Sea Garden (Burgas)
   - album: bulgaria
     image: 4varna.jpg
     caption: The Varna Opera

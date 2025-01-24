@@ -12,7 +12,7 @@ gallery_item:
     caption: Dromedary Camel
   - album: egypt
     image: 3beach.jpg
-    caption: Sharm El-Sheikh Beach
+    caption: Sharm El-Sheikh Hotel
   - album: egypt
     image: 4river.jpg
     caption: Marsa Bareika
@@ -20,8 +20,8 @@ gallery_item:
     image: 5stones.jpg
     caption: Ras Mohamed Nature Reserve
   - album: egypt
-    image: 6park.jpg
-    caption: Ras Mohamed Nature Reserve
+    image: 6park.png
+    caption: Sharm El-Sheikh Beach
   - album: egypt
     image: 7camp.jpg
     caption: The Bedouin Tent

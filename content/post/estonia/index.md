@@ -20,6 +20,12 @@ gallery_item:
     image: 5dom.jpeg
     caption: Ruins of Tartu Cathedral
   - album: estonia
+    image: 3x.jpg
+    caption: The Riigikogu
+  - album: estonia
+    image: 4x.jpg
+    caption: Town Hall Pharmacy (Tallinn)
+  - album: estonia
     image: 6mulgi.jpeg
     caption: Estonian mulgipuder
 
