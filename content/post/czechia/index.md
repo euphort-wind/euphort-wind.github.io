@@ -8,11 +8,17 @@ gallery_item:
     image: 1prague.jpeg
     caption: Prague 
   - album: czechia
+    image: 3x.jpg
+    caption: St. Barbara's Church (Kutná Hora)
+  - album: czechia
+    image: 4a.jpg
+    caption: Karlštejn  
+  - album: czechia
     image: 2clock.jpeg
     caption: Prague Astronomical Clock 
   - album: czechia
     image: 3vit.jpeg
-    caption: St. Vitus Cathedral
+    caption: St. Vitus Cathedral (Prague)
   - album: czechia
     image: 4karl.jpeg
     caption: Karlštejn Castle 

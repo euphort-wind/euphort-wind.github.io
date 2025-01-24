@@ -8,6 +8,12 @@ gallery_item:
     image: 1vilnius.jpeg
     caption: Vilnius
   - album: lithuania
+    image: xc.jpg
+    caption:  St. Anne's Church (Vilnius)
+  - album: lithuania
+    image: xs.jpg
+    caption: Kaunas 
+  - album: lithuania
     image: 2kaunas.jpeg
     caption: Kaunas City Hall
   - album: lithuania

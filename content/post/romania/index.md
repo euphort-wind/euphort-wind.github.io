@@ -15,7 +15,7 @@ gallery_item:
     caption: Sinaia Casino
   - album: romania
     image: 5buhbank.jpg
-    caption: National Bank of Romania (Banca Națională a României)
+    caption: National Bank of Romania 
   - album: romania
     image: 4chirch.jpg
     caption: Stavropoleos Monastery
