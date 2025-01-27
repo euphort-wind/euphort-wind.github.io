@@ -12,10 +12,16 @@ gallery_item:
     caption: Ancient site of Kamiros (Rhodes)
   - album: greece
     image: 3oia.jpg
-    caption: Santorini island
+    caption: Santorini Island
   - album: greece
-    image: 4hch.jpeg
+    image: 2ah.jpg
     caption: Saint Minas Cathedral (Heraklion)
+  - album: greece
+    image: 2x.jpg
+    caption: The Street of the Knights
+  - album: greece
+    image: 3sant.PNG
+    caption: Santorini Blue Domes
   - album: greece
     image: 5church.jpg
     caption: Church of Hagia Trias (Agios Nikolaos)

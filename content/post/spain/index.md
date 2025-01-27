@@ -9,13 +9,19 @@ gallery_item:
     caption: Barcelona
   - album: spain
     image: 2church.jpg
-    caption: Park Guell
+    caption: Park Güell Gate 
   - album: spain
     image: 3wow.jpg
     caption: Basílica de la Sagrada Familia
   - album: spain
     image: 4mons.jpg
-    caption: The Montserrat monastery
+    caption: The Montserrat Monastery
+  - album: spain
+    image: 3x.jpg
+    caption: Park Güell Administration Building
+  - album: spain
+    image: 6a.jpg
+    caption: Front facade of the Montserrat Monastery
   - album: spain
     image: 5mons.jpg
     caption: Santa Maria de Montserrat Abbey
