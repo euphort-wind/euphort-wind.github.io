@@ -21,7 +21,7 @@ gallery_item:
     caption: Park Güell Administration Building
   - album: spain
     image: 6a.jpg
-    caption: Front facade of the Montserrat Monastery
+    caption: Front Facade of the Montserrat Monastery
   - album: spain
     image: 5mons.jpg
     caption: Santa Maria de Montserrat Abbey

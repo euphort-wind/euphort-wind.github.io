@@ -14,7 +14,7 @@ gallery_item:
     image: 3oia.jpg
     caption: Santorini Island
   - album: greece
-    image: 2ah.jpg
+    image: 5ah.jpg
     caption: Saint Minas Cathedral (Heraklion)
   - album: greece
     image: 2x.jpg
@@ -23,7 +23,7 @@ gallery_item:
     image: 3sant.PNG
     caption: Santorini Blue Domes
   - album: greece
-    image: 5church.jpg
+    image: 2achurch.jpg
     caption: Church of Hagia Trias (Agios Nikolaos)
   - album: greece
     image: 6giros.jpeg

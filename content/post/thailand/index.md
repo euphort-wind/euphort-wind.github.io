@@ -11,19 +11,19 @@ gallery_item:
     image: 2patong.jpg
     caption: Buddha Statue
   - album: thailand
-    image: 1xpa.jpg
+    image: 6apa.jpg
     caption: Patong Promenade
   - album: thailand
-    image: 1xpa.jpg
+    image: 2xa.jpg
     caption: Jungceylon Shopping Mall
   - album: thailand
-    image: 3sea.jpg
+    image: 2asea.jpg
     caption: Racha Yai
   - album: thailand
     image: 4jungle.jpg
     caption: Flying Hanuman
   - album: thailand
-    image: 5prods.jpg
+    image: 3prods.jpg
     caption: Food Truck (Phuket)
   - album: thailand
     image: 6tomyam.jpg
