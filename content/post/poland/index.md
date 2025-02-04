@@ -99,7 +99,7 @@ Hej! I share an extract of my experience of visiting invincible Poland. I was th
 <b>🦉 Local wisdom:</b> "The turkey had a plan for Sunday, but it was eaten on Saturday" / "<i>Indyk myślał o niedzieli, a w sobotę łeb mu ścięli</i>" — Polish proverb
 
 
-<b>👨‍🎓The oldest university:</b> The Jagiellonian University <i>(Uniwersytet Jagielloński)</i>, Kraków, est. 1364. 
+<b>👨‍🎓 The oldest university:</b> The Jagiellonian University <i>(Uniwersytet Jagielloński)</i>, Kraków, est. 1364. 
 
 
 {{< gallery album="poland" crop_options="150x150" >}}

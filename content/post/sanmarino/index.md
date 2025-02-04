@@ -65,7 +65,7 @@ Hej! I share an extract of my experience of visiting dreamlike San Marino. I was
 
 <b>🦉 Local wisdom:</b> "An egg today is better than a chicken tomorrow"  / "<i>Meglio un uovo oggi che una gallina domani</i>" — Sammarinese proverb
 
-<b>👨‍🎓The oldest university:</b> The University of the Republic of San Marino <i>(Università degli Studi della Repubblica di San Marino)</i>, City of San Marino, est. 1985. 
+<b>👨‍🎓 The oldest university:</b> The University of the Republic of San Marino <i>(Università degli Studi della Repubblica di San Marino)</i>, City of San Marino, est. 1985. 
 
 {{< gallery album="sanmarino" crop_options="150x150" >}}
    

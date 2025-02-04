@@ -100,7 +100,7 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 <b>🦉 Local wisdom:</b> "It is health which is our true wealth, the value of gold and silver is nothing in comparison to it" / "<i>यह स्वास्थय ही है जो हमारा सही धन है, सोने और चांदी का मूल्य इसके सामने कुछ नहीं।</i>" — Mahatma Gandhi (Indian independence activist)
 
 
-<b>👨‍🎓The oldest university:</b> The University of Calcutta <i>(কলকাতা বিশ্ববিদ্যালয়)</i>, Kolkata, est. 1857. 
+<b>👨‍🎓 The oldest university:</b> The University of Calcutta <i>(কলকাতা বিশ্ববিদ্যালয়)</i>, Kolkata, est. 1857. 
 
 
 {{< gallery album="india" crop_options="150x150" >}}

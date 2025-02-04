@@ -69,7 +69,7 @@ Hej! I share an extract of my experience of visiting ancient Jordan. I was there
 <b>🦉 Local wisdom:</b> "The one who knocks on the door hears the answer" / "<i>إلي بدُق ع الباب بسمع الجواب</i>" — Jordanian proverb 
 
 
-<b>👨‍🎓The oldest university:</b> The University of Jordan <i>(الجامعة الأردنية)</i>, Amman, est. 1962. 
+<b>👨‍🎓 The oldest university:</b> The University of Jordan <i>(الجامعة الأردنية)</i>, Amman, est. 1962. 
 
 
 {{< gallery album="jordan" crop_options="150x150" >}}

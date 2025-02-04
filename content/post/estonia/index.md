@@ -99,7 +99,7 @@ Hej! I share an extract of my experience of visiting cozy Estonia. I was there i
 
 <b>🦉 Local wisdom:</b> "Who wags a dog's tail except the dog itself?"  / "<i>Kes koera saba kergitab, kui koer ise</i>" — Estonian proverb
 
-<b>👨‍🎓The oldest university:</b> The University of Tartu <i>(Tartu Ülikool)</i>, Tartu, est. 1632. 
+<b>👨‍🎓 The oldest university:</b> The University of Tartu <i>(Tartu Ülikool)</i>, Tartu, est. 1632. 
 
 {{< gallery album="estonia" crop_options="150x150" >}}
    

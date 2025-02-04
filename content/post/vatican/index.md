@@ -64,7 +64,7 @@ Hej! I share an extract of my experience of visiting blessed Vatican. I was ther
 
 <b>🦉 Local wisdom:</b> "In the face of unjust and painful situations, faith brings us the light which scatters the darkness"  / "<i> Contra iniustas ac laboriosas condiciones fides nos lucem profert quae tenebras spargit </i>" — Pope Francis 
 
-<b>👨‍🎓The oldest university:</b> The Pontifical Lateran University <i>(Pontificia Universitas Lateranensis)</i>, Rome (Holy See), est. 1773. 
+<b>👨‍🎓 The oldest university:</b> The Pontifical Lateran University <i>(Pontificia Universitas Lateranensis)</i>, Rome (Holy See), est. 1773. 
 
 {{< gallery album="vatican" crop_options="150x150" >}}
    

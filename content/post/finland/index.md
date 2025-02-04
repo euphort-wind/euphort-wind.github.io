@@ -90,7 +90,7 @@ Hej! I share an extract of my experience of visiting stately Finland. I was ther
 <b>🦉 Local wisdom:</b> "Better a little given than a lot promised" / <i>"Parempi vähän annettu kuin paljon luvattu"</i> — Finnish proverb
 
 
-<b>👨‍🎓The oldest university:</b> The University of Helsinki <i>(Helsingin Yliopisto)</i>, Helsinki, est. 1640.  
+<b>👨‍🎓 The oldest university:</b> The University of Helsinki <i>(Helsingin Yliopisto)</i>, Helsinki, est. 1640.  
 
 
 {{< gallery album="finland" crop_options="150x150" >}}

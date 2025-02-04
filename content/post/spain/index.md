@@ -91,7 +91,7 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 
 <b>🦉 Local wisdom:</b> "Distance is to love what the wind is to a fire: it extinguishes the small things, but fuels the large ones" / <i>"La distancia es al amor lo que el viento al fuego: apaga el pequeño, pero aviva el grande"</i> — "Mar de fuego", Chufo Lloréns
 
-<b>👨‍🎓The oldest university:</b> The University of Salamanca <i>(Universidad de Salamanca)</i>, Salamanca, est. 1218. 
+<b>👨‍🎓 The oldest university:</b> The University of Salamanca <i>(Universidad de Salamanca)</i>, Salamanca, est. 1218. 
 
 {{< gallery album="spain" crop_options="150x150" >}}
    

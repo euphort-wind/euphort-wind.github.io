@@ -101,7 +101,7 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 
 <b>🪔 Authentic artifacts:</b>
 - Authentic Principle: Kos <i>(Kos)</i>
-- The Culture of Vikings <i>(Vikinger / Hraustra Vikinga)</i> 
+- The Culture of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i> 
 - The Viking Runic Alphabet <i>(Viking Runealfabet)</i> 
 - The Viking Mythology <i>(Viking Mytologi)</i> 
 - Connection to Nature <i>(Friluftsliv)</i> 
@@ -113,7 +113,7 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 <b>🦉 Local wisdom:</b> "The grass is green enough on our side of the fence if we just remember to water it" / <i>"Gresset er grønt nok på vår side av gjerdet når vi bare husker å vanne det"</i> — Norwegian proverb
 
 
-<b>👨‍🎓The oldest university:</b> The University of Oslo <i>(Universitetet i Oslo)</i>, Oslo, est. 1811. 
+<b>👨‍🎓 The oldest university:</b> The University of Oslo <i>(Universitetet i Oslo)</i>, Oslo, est. 1811. 
 
 
 {{< gallery album="norway" crop_options="150x150" >}}

@@ -82,7 +82,7 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 <b>🦉 Local wisdom:</b> "The good man values goodness, as the bee values the flower" / "<i>Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea</i>" — Romanian proverb
 
 
-<b>👨‍🎓The oldest university:</b> The Alexandru Ioan Cuza University <i>(Universitatea „Alexandru Ioan Cuza")</i>, Iași, est. 1640. 
+<b>👨‍🎓 The oldest university:</b> The Alexandru Ioan Cuza University <i>(Universitatea „Alexandru Ioan Cuza")</i>, Iași, est. 1640. 
 
 
 {{< gallery album="romania" crop_options="150x150" >}}

@@ -97,7 +97,7 @@ Hej! I share an extract of my experience of visiting legendary Czech Republic. I
 <b>🦉 Local wisdom:</b> "Co jsi z úst vypustil, ani párem koní nedostaneš zpět." / "<i>What you let out of your mouth, you can't get back even with a couple of horses.</i>" — Czech proverb
 
 
-<b>👨‍🎓The oldest university:</b> Charles University <i>(Univerzita Karlova)</i>, Prague, est. 1347. 
+<b>👨‍🎓 The oldest university:</b> Charles University <i>(Univerzita Karlova)</i>, Prague, est. 1347. 
 
 
 {{< gallery album="czechia" crop_options="150x150" >}}

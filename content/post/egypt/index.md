@@ -70,10 +70,10 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 <b>🪔 Authentic artifacts:</b>
 - The Culture of Copts <i>(أقباط / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>
 - The Culture of Ancient Egyptians <i>(المصريون القدماء / 𓎡𓅓𓏏𓊖)</i>
+- Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
 - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
 - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
 - Ancient Egyptian Sarcophaguses & Mummies <i>(التوابيت المصرية القديمة)</i>
-- Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
 - The Maxims of Ptahhotep <i>(أقوال بتاح حتب)</i>
 - Desert Safari <i>(رحلات السفاري الصحراوية)</i>
 - The Henna Painting <i>(رسمة الحناء)</i>
@@ -83,7 +83,7 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 <b>🦉 Local wisdom:</b> "He who has been burnt by the soup, would puff at the yogurt" / <i>"اللى اتلسع من الشوربة ينفخ فى الزبادى"</i> — Egyptian proverb
 
 
-<b>👨‍🎓The oldest university:</b> The Al-Azhar University <i>(جامعة الأزهر الشريف)</i>, Cairo, est. 970.  
+<b>👨‍🎓 The oldest university:</b> The Al-Azhar University <i>(جامعة الأزهر الشريف)</i>, Cairo, est. 970.  
 
 
 {{< gallery album="egypt" crop_options="150x150" >}}

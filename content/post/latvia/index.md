@@ -80,7 +80,7 @@ Hej! I share an extract of my experience of visiting magnificent Latvia. I was t
 
 <b>🦉 Local wisdom:</b> "A tree does not fall after the first cut" / <i>"Koks nekrīt uz pirmā cirtiena"</i> — Latvian proverb
 
-<b>👨‍🎓The oldest university:</b> Riga Technical University <i>(Rīgas Tehniskā Universitāte)</i>, Riga, est. 1862. 
+<b>👨‍🎓 The oldest university:</b> Riga Technical University <i>(Rīgas Tehniskā Universitāte)</i>, Riga, est. 1862. 
 
 {{< gallery album="latvia" crop_options="150x150" >}}
    

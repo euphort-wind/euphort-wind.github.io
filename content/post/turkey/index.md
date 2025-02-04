@@ -131,7 +131,7 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
 
 <b>🦉 Local wisdom:</b> "A wise man does not say what he knows; The stupid man does not know what he is saying" / <i>"Akıllı adam bildiğini söylemez; salak adam söylediğini bilmez"</i> — Turkish proverb
 
-<b>👨‍🎓The oldest university:</b> Istanbul University <i>(İstanbul Üniversitesi)</i>, Istanbul, est. 1453. 
+<b>👨‍🎓 The oldest university:</b> Istanbul University <i>(İstanbul Üniversitesi)</i>, Istanbul, est. 1453. 
 
 {{< gallery album="turkey" crop_options="150x150" >}}
    

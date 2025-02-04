@@ -93,7 +93,7 @@ Hej! I share an extract of my experience of visiting beautiful ultifaceted Belgi
 <b>🦉 Local wisdom:</b> "If you want butter, you have to beat it" / "<i>Si tu veux du beurre, il en faut battre / Als je boter wilt, moet je het kloppen</i>" — Belgian proverb
 
 
-<b>👨‍🎓The oldest university:</b> The Catholic University of Leuven <i>(Katholieke Universiteit Leuven)</i>, Leuven, est. 1425. 
+<b>👨‍🎓 The oldest university:</b> The Catholic University of Leuven <i>(Katholieke Universiteit Leuven)</i>, Leuven, est. 1425. 
 
 
 {{< gallery album="belgium" crop_options="150x150" >}}

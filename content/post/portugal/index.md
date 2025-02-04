@@ -102,7 +102,7 @@ Hej! I share an extract of my experience of visiting bright and contrasty Portug
 
 <b>🦉 Local wisdom:</b> "If horseshoes brought luck, donkeys wouldn't pull carts" / <i>"Se ferradura trouxesse sorte, burro não puxava carroça"</i> — Portuguese proverb
 
-<b>👨‍🎓The oldest university:</b> The University of Coimbra <i>(Universidade de Coimbra)</i>, Coimbra, est. 1290.  
+<b>👨‍🎓 The oldest university:</b> The University of Coimbra <i>(Universidade de Coimbra)</i>, Coimbra, est. 1290.  
 
 {{< gallery album="portugal" crop_options="150x150" >}}
    

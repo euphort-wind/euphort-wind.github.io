@@ -103,7 +103,7 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 
 <b>🦉 Local wisdom:</b> "Flax is not yet sown and they are already weaving the linen" / "<i>Linai nesėti, o jau drobes audžia</i>" — Lithuanian Proverb
 
-<b>👨‍🎓The oldest university:</b> Vilnius University <i>(Vilniaus Universitetas)</i>, Vilnius, est. 1579.  
+<b>👨‍🎓 The oldest university:</b> Vilnius University <i>(Vilniaus Universitetas)</i>, Vilnius, est. 1579.  
 
 {{< gallery album="lithuania" crop_options="150x150" >}}
    
