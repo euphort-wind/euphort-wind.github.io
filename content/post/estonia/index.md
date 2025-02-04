@@ -57,12 +57,12 @@ Hej! I share an extract of my experience of visiting cozy Estonia. I was there i
   
 
 <b>🎧 Local musicians: </b>
-- 🇪🇪 Laura Põldvere <i>(singer)</i>. Genre: pop
-- 🇪🇪 Mari-Leen <i>(singer)</i>. Genre: eurodance
-- 🇪🇪 Merlyn Uusküla <i>(singer)</i>. Genre: pop
-- 🇪🇪 Getter Jaani <i>(singer)</i>. Genre: pop
-- 🇪🇪 Puuluup <i>(duo)</i>. Genre: folk
-- 🇺🇳 Luvwn <i>(DJ)</i>. Genre: chillhop
+- 🇪🇪 Laura Põldvere (singer). Genre: pop
+- 🇪🇪 Mari-Leen (singer). Genre: eurodance
+- 🇪🇪 Merlyn Uusküla (singer). Genre: pop
+- 🇪🇪 Getter Jaani (singer). Genre: pop
+- 🇪🇪 Puuluup (duo). Genre: folk
+- 🇺🇳 Luvwn (DJ). Genre: chillhop
 
 
 <b>🥘 Local food & drinks: </b>

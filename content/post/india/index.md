@@ -50,10 +50,10 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 
 
 <b>🎧 Local musicians: </b>
-- 🇮🇳 A. R. Rahman <i>(singer)</i>. Genre: indian film pop
-- 🇮🇳 Panjabi MC <i>(DJ)</i>. Genre: bhangra music
-- 🇮🇳 Rashmeet Kaur <i>(singer)</i>. Genre: pop
-- 🇺🇳 KSHMR <i>(DJ)</i>. Genre: electro house
+- 🇮🇳 A. R. Rahman (singer). Genre: indian film pop
+- 🇮🇳 Panjabi MC (DJ). Genre: bhangra music
+- 🇮🇳 Rashmeet Kaur (singer). Genre: pop
+- 🇺🇳 KSHMR (DJ). Genre: electro house
 
 <b>🎚️ Contribution to EDM: </b>
 - Bhangra. Originated: mid-1960s

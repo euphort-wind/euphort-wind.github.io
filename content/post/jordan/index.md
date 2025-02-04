@@ -47,8 +47,8 @@ Hej! I share an extract of my experience of visiting ancient Jordan. I was there
 
 
 <b>🎧 Local musicians: </b>
-- 🇯🇴 Aziz Maraka <i>(singer)</i>. Genre: pop
-- 🇯🇴 Diana Karazon <i>(singer)</i>. Genre: pop
+- 🇯🇴 Aziz Maraka (singer). Genre: pop
+- 🇯🇴 Diana Karazon (singer). Genre: pop
 
 
 <b>🥘 Local food & drinks: </b>

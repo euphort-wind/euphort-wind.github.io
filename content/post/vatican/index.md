@@ -44,7 +44,7 @@ Hej! I share an extract of my experience of visiting blessed Vatican. I was ther
     - Gardens of Vatican City <i>(Horti Civitatis Vaticanae)</i>
 
 <b>🎧 Local musicians: </b>
-- 🇻🇦 Sistine Chapel Choir <i>(choir)</i>. Genre: religious
+- 🇻🇦 Sistine Chapel Choir (choir). Genre: religious
 
 
 <b>🥘 Local food & drinks: </b>

@@ -44,8 +44,8 @@ Hej! I share an extract of my experience of visiting dreamlike San Marino. I was
 
 
 <b>🎧 Local musicians: </b>
-- 🇸🇲 Little Tony <i>(singer)</i>. Genre: retro
-- 🇺🇳 Valentina Monetta <i>(singer)</i>. Genre: pop
+- 🇸🇲 Little Tony (singer). Genre: retro
+- 🇺🇳 Valentina Monetta (singer). Genre: pop
 
 
 <b>🥘 Local food & drinks: </b>

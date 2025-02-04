@@ -72,21 +72,21 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 
 
 <b>🎧 Local musicians: </b>
-- 🇮🇹 Adriano Celentano <i>(singer)</i>. Genre: retro pop
-- 🇮🇹 Al Bano <i>(singer)</i>. Genre: retro pop
-- 🇮🇹 Toto Cutugno <i>(singer)</i>. Genre: retro pop
-- 🇮🇹 Pupo <i>(singer)</i>. Genre: retro pop
-- 🇮🇹 Eros Ramazzotti <i>(singer)</i>. Genre: pop
-- 🇮🇹 Luciano Pavarotti <i>(opera singer)</i>. Genre: opera / pop
-- 🇺🇳 Effel 65 <i>(band)</i>. Genre: eurodance
-- 🇺🇳 Giuseppe Ottaviani <i>(DJ)</i>. Genre: trance
-- 🇺🇳 Benny Benassi <i>(DJ)</i>. Genre: electro house
-- 🇺🇳 Robert Miles <i>(DJ)</i>. Genre: dream house
-- 🇺🇳 Meduza <i>(DJ band)</i>. Genre: house
-- 🇺🇳 Anyma <i>(DJ)</i>. Genre: progressive house
-- 🇺🇳 Merk & Kremont <i>(DJ duo)</i>. Genre: house
-- 🇺🇳 Daddy's Groove <i>(DJ band)</i>. Genre: house
-- 🇺🇳 Ludovico Einaudi <i>(composer)</i>. Genre: neoclassic
+- 🇮🇹 Adriano Celentano (singer). Genre: retro pop
+- 🇮🇹 Al Bano (singer). Genre: retro pop
+- 🇮🇹 Toto Cutugno (singer). Genre: retro pop
+- 🇮🇹 Pupo (singer). Genre: retro pop
+- 🇮🇹 Eros Ramazzotti (singer). Genre: pop
+- 🇮🇹 Luciano Pavarotti (opera singer). Genre: opera / pop
+- 🇺🇳 Effel 65 (band). Genre: eurodance
+- 🇺🇳 Giuseppe Ottaviani (DJ). Genre: trance
+- 🇺🇳 Benny Benassi (DJ). Genre: electro house
+- 🇺🇳 Robert Miles (DJ). Genre: dream house
+- 🇺🇳 Meduza (DJ band). Genre: house
+- 🇺🇳 Anyma (DJ). Genre: progressive house
+- 🇺🇳 Merk & Kremont (DJ duo). Genre: house
+- 🇺🇳 Daddy's Groove (DJ band). Genre: house
+- 🇺🇳 Ludovico Einaudi (composer). Genre: neoclassic
 
 <b>🎚️ Contribution to EDM: </b>
 - Italo Disco. Originated: late 1970s

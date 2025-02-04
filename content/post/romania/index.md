@@ -53,7 +53,7 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 - 🇷🇴 Akcent (band). Genre: eurodance
 - 🇷🇴 Mario Fresh (singer). Genre: pop
 - 🇺🇳 Morandi (duo). Genre: eurodance
-- 🇺🇳 INNA (singer).  Genre: pop
+- 🇺🇳 INNA (singer). Genre: pop
 - 🇺🇳 Edward Maya (DJ). Genre: eurodance
 - 🇺🇳 Minelli (singer). Genre: pop
 
