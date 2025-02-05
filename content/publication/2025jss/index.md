@@ -6,6 +6,8 @@ title: 'Architectural Tactics to Achieve Quality Attributes of Machine-Learning-
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Daniel Strüber
+  - Rebekka Wohlrab
 
 date: '2025-02-05T00:00:00Z'
 doi: ''
