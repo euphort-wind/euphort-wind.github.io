@@ -9,7 +9,7 @@ authors:
   - Daniel Strüber
   - Rebekka Wohlrab
 
-date: '2025-02-05T00:00:00Z'
+date: '2025-02-04T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -36,7 +36,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://download.ssrn.com/2025/2/5/4909520.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDEaCXVzLWVhc3QtMSJHMEUCIGbd%2FOjbXZy%2BnMkaefXZTBgxl09LF2SJMg10ikKdBZAZAiEAx8goDS3BeEqTIVAreK79jC6M99Ix4xFqQtoxsDGTsdAqvQUIShAEGgwzMDg0NzUzMDEyNTciDHIl8XnPJ9yiJNrr9CqaBVNQ3UMfE%2BwEf3It7ImNy0WtgDN2fUPvDIlx%2BzL%2FGep%2B5JViFr9HXJq4kG4TFzYqA7igucmLvoyatFGCe0rY8a3axkfp4vLN32%2BHNIXPZDYQOFhLDipgrurrRYRPxqzJ46IPkM0ReETYnSZAtTcGUprvbq9jHbbSTjaGmLgq%2BWbedpk995yxVIo8GxE3LeHFthOSA0BzDZ%2BH7S%2BiEyGuBHD%2BZiNYa3OegbusJLAbgXt6l8TqlO7xbdw46MG%2BQgkPWTku6cFYGuDNH%2BMRGM9UDDfOIrhM9RwEIz%2BFZWzUpjGwAXzQh0o8s2iY2JcpUsbbTRs5wMsSc1m9ec55jPTdhfqvpQkDtXmPL%2FtUKGyrNP0pq2bqsZOdusoiI92HL%2BjtW8I2vp3C%2BmQ9z%2B9oATCmR6dTVd2T5CyCzv9PQCiiS0jZaCx978VwIkj%2F%2FohBaFISiCUNGCdwpCpHiAsfrrFPWTsVhqOjxn2WGlp9BBlNb97oNnJd%2BmhomsrqjBf92IIQWOJEDbaFIvUiTcC9AvWuOsTIZ81mgdQFlUNXYeKK9cMtHm42KqfgVdAEXO1Z9jDo1DfyFOt6Met%2F5XG%2BA98hZAGod%2B6krQk%2Fe791km%2BN8wUHCTCr7H%2FPZ1CI6i0ih2L2nCmq%2FYb0lI4TzvcOfK1%2BJDlSZ%2BsYhXZwmObpHwxLFcsqllFzLYVZB20%2F7wXm0WI3ovkjxRwl57860I5d3T2zlc2ys7BqxFxYYhDIixTQRCDj3ljQa7zf2X68g%2BwA414pk%2FXZtrWJKtUSSRrdXlBfBi%2Fhwm0SK2ZU6upkMW19jBpcbhdlW8gr5qOxaRDfr0jBD0HleO4T8pyURQkad1BdAgHuWBQ3PbtBbdrD2s6DSNTQTg3DeQDJatJwVDDOo469BjqxAUisqaq2grsnBhMOyCURqffS53hu%2FBC8w2MEs2OZvs%2FR3czz7aR1pQAQPJ9AXXBmcwGEqrc7XGztVVhpSOIRKUPVDJTUChib4aZAj9qldpY0LqHgFX5vGCUCk22Uqdrx4LR%2BXT3lw%2FCB8Gfi8c5kHE%2FtqUw1R2P1VG9VzYm4%2BIV9P%2FDb4UW7IQSNqlvkVhUskoTbaUcAB1Qbr%2BB%2Bw4qOsHfmVyV6J%2FXiaKAhVMq%2BN5DguQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250205T170851Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWEWGEFDNK7%2F20250205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f374485c5956355cedf8d380b75aa5246e89a086305626c7745f29c2cb3f1961&abstractId=4909520'
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909520'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
