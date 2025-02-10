@@ -58,8 +58,8 @@ Hej! I share an extract of my experience of visiting blessed Vatican. I was ther
 
 
 <b>🪔 Authentic artifacts:</b>
-- The Catholic Church <i>(Ecclesia Catholica)</i>
-- The Pope's Weekly Public Audiences <i>(Audientiis Publicis Summi Pontificis)</i>
+- Catholicism <i>(Ecclesia Catholica)</i>
+- The Papal Audiences <i>(Audientiis Publicis Summi Pontificis)</i>
 
 
 <b>🦉 Local wisdom:</b> "In the face of unjust and painful situations, faith brings us the light which scatters the darkness"  / "<i> Contra iniustas ac laboriosas condiciones fides nos lucem profert quae tenebras spargit </i>" — Pope Francis 

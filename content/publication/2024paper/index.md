@@ -19,7 +19,7 @@ publishDate: '2022-07-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *3rd International Conference on AI Engineering 2024*
+publication: In the *3rd International Conference on AI Engineering '24*
 publication_short: In *CAIN 2024*
 
 abstract: Machine Learning (ML) - enabled systems capture new frontiers of industrial use. The development of such systems is becoming a priority course for many vendors due to the unique capabilities of Artificial Intelligence (AI) techniques. The current trend today is to integrate ML functionality into complex systems as architectural components. There are a lot of relevant challenges associated with this strategy in terms of the overall system architecture and in the context of development workflow (MLOps). The probabilistic nature, crucial dependency on data, and work in an environment of high uncertainty do not allow software engineers to apply tradi- tional software development methodologies. As a result, there is a community request to systematize the most relevant experience in building software architectures with ML components, to create new approaches to organizing the process of developing ML-enabled systems, and to build new models for assessing the system qual- ity. Our research contributes to all mentioned directions and aims to create a methodology for the efficient implementation of ML- enabled software and AI components. The results of the research can be used in the design and development in industrial settings, as well as a basis for further studies in the research field, which is of both practical and scientific value.

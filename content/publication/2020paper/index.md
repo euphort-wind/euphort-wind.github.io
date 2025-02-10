@@ -21,7 +21,7 @@ publishDate: '2020-07-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Construction, Architecture and Technosphere Safety 2020*
+publication: In the *International Conference on Construction, Architecture and Technosphere Safety '20*
 publication_short: In *ICCATS 2020*
 
 abstract: The more real conditions differ from the rated ones, the greater error is observed when calculating the aerodynamics and air temperature for specific premises. The paper considers a technique for estimating the efficiency of ventilation systems at the stage of choosing design solutions using mathematical simulation exemplified by a pasta production workshop in Magnitogorsk. Two air change circuits with central and local air conditioners to remove heat have been estimated. Mathematical models were built with the boundary conditions preset, which allowed visually estimating the airflow temperature and velocity field distribution for the circuits studied. Based on the simulation results, conclusions have been drawn on the efficiency of the circuits proposed.

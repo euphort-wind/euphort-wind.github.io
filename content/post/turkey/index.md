@@ -125,8 +125,8 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
 - Authentic Garb: Kaftan and Shalvar and Yelek <i>(Kaftan ve Şalvar ve Yelek)</i>
 - The Meddahs <i>(Meddah)</i>
 - Turkish Architecture <i>(Türk Mimarisi)</i>
+- <u>İstanbul (Regional Special):</u> Eastern Orthodoxy <i>(Ortodoks Kilisesi)</i>
 - <u>İstanbul (Regional Special):</u> Byzantine Culture <i>(Bizans Kültürü)</i>
-- <u>İstanbul (Regional Special):</u> Shoeshiners <i>(Ayakkabı Boyacısı)</i>
 - <u>Antalya (Regional Special):</u> The Culture of Tahtaci <i>(Tahtacılar / Tahtacı)</i>
 
 <b>🦉 Local wisdom:</b> "A wise man does not say what he knows; The stupid man does not know what he is saying" / <i>"Akıllı adam bildiğini söylemez; salak adam söylediğini bilmez"</i> — Turkish proverb

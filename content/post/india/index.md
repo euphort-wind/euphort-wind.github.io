@@ -83,7 +83,8 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 
 <b>🪔 Authentic artifacts:</b>
 - Authentic Principle: Ahimsa <i>(अहिंसा)</i>
-- Hinduism & Dharma <i>(हिन्दू धर्म)</i>
+- Hinduism <i>(हिन्दू)</i>
+- Buddhism <i>(बुद्ध धर्म)</i>
 - Yoga <i>(योग)</i>
 - Sanskrit <i>(संस्कृतम्)</i>
 - Holi <i>(होली)</i>

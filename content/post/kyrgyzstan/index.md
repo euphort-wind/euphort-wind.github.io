@@ -85,6 +85,7 @@ Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was 
 
 <b>🪔 Authentic artifacts:</b>
 - The Epic of Manas <i>(Манас Дастаны)</i> 
+- Tengrism <i>(Теңирчилик)</i> 
 - Kyrgyz Yurts <i>(Кыргыз боз Yйлөрү)</i> 
 - The Komuz <i>(Комуз)</i> 
 - The Culture of Dungan <i>(Дунгандар / Хуэйзў)</i>

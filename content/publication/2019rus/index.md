@@ -19,7 +19,7 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Bulletin of Modern Research 2019*
+publication: In the *Bulletin of Modern Research '19*
 publication_short: In *BMR 2019*
 
 abstract: This article discusses the concept of a game product intended for interdisciplinary education of schoolchildren. The system of gamification of the educational process contains elements of a quest, role-playing game, and visual novel. The game layout was created, containing the main menu, rating system, map of the main stages of the game and a testing area. Presented in Russian.
