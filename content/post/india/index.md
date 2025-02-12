@@ -53,6 +53,8 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 - 🇮🇳 A. R. Rahman (singer). Genre: indian film pop
 - 🇮🇳 Panjabi MC (DJ). Genre: bhangra music
 - 🇮🇳 Rashmeet Kaur (singer). Genre: pop
+- 🇮🇳 Arijit Singh (playback singer). Genre: film score
+- 🇮🇳 Mithoon (composer). Genre: film score
 - 🇺🇳 KSHMR (DJ). Genre: electro house
 
 <b>🎚️ Contribution to EDM: </b>
