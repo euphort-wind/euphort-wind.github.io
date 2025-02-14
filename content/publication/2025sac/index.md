@@ -1,5 +1,5 @@
 ---
-title: 'Quality trade-offs in ML-enabled systems: a multiple-case study'
+title: 'Quality Trade-offs in ML-enabled Systems: A Multiple-case Study'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
