@@ -1,5 +1,5 @@
 ---
-title: 'Architectural Tactics to Achieve Quality Attributes of Machine-Learning-Enabled Systems: A Systematic Literature Review'
+title: 'Architectural tactics to achieve quality attributes of machine-learning-enabled systems: a systematic literature review'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

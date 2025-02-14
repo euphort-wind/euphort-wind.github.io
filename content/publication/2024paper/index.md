@@ -1,5 +1,5 @@
 ---
-title: 'Component-based Approach to Software Engineering of Machine Learning-enabled Systems'
+title: 'Component-based approach to software engineering of machine learning-enabled systems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

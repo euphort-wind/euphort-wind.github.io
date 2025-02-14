@@ -1,5 +1,5 @@
 ---
-title: 'Modeling Business Processes Technology in the Information Service of Interaction'
+title: 'Modeling business processes technology in the information service of interaction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
