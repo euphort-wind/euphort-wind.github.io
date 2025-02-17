@@ -36,7 +36,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S016412122500041X?via%3Dihub'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S016412122500041X'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
