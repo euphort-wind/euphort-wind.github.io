@@ -139,7 +139,7 @@ sections:
         - date_start: '2023-10-30'
           icon: chalmers
           organization: Speaker, Chalmers University, Gothenburg
-          organization_url: http://sirensweden.org/
+          organization_url: https://www.chalmers.se/en/departments/cse/our-research/interaction-design-and-software-engineering/requirements-engineering/
           title:  SiREN Meeting 2023
         - date_start: '2023-07-01'
           icon: lurfu
