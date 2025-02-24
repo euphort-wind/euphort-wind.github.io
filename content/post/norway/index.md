@@ -88,6 +88,8 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 - Norwegian Meatcakes with Pea Puree <i>(Kjøttkaker med Ertepuré)</i>
 - Akvavit <i>(Brands: "Løiten", "Linie" + Collections)</i>
 - <u>Vestland (Regional Special):</u> Bergen Pressed Cod <i>(Persetorsk)</i>
+- <u>Vestfold (Regional Special):</u> Sandefjord Sauce <i>(Sandefjordsås)</i>
+
 
 <b>🎬 Local movies:</b>
 - Headhunters <i>(Hodejegerne)</i>. Year: 2011. Genre: action / thriller
