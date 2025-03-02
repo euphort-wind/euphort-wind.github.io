@@ -84,7 +84,7 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 
 
 <b>🪔 Authentic artifacts:</b>
-- The Culture of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
+- The Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
 - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
 - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
 - Ancient Greek Philosophy <i>(Αρχαία Ελληνική Φιλοσοφία)</i>
@@ -96,7 +96,7 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 - The Meander <i>(Μαίανδρος)</i>
 - The Evil Eye <i>(Κακό Μάτι)</i>
 - <u>Crete (Regional Special):</u> Cretan Lyra <i>(Κρητική λύρα)</i>
-- <u>Crete (Regional Special):</u> Cretan Grab: Stivania & Sariki <i>(Στιβάνια & Σαρίκη)</i>
+- <u>Crete (Regional Special):</u> Cretan Garb: Stivania & Sariki <i>(Στιβάνια & Σαρίκη)</i>
 - <u>South Aegean (Regional Special):</u> Colossus of Rhodes <i>(ὁ Κολοσσὸς Ῥόδιος)</i>
 
 <b>🦉 Local wisdom:</b> "The one who lives will see, but the one who walks will see more" / "<i>Όποιος ζήσει θα ιδεί, μα όποιος περπατήσει θα ιδεί περισσότερα</i>" — Greek proverb

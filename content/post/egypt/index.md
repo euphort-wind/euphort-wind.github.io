@@ -69,7 +69,7 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 
 <b>🪔 Authentic artifacts:</b>
 - The Culture of Copts <i>(أقباط / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>
-- The Culture of Ancient Egyptians <i>(المصريون القدماء / 𓎡𓅓𓏏𓊖)</i>
+- The Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓎡𓅓𓏏𓊖)</i>
 - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
 - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
 - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>

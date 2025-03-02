@@ -103,7 +103,7 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 
 <b>🪔 Authentic artifacts:</b>
 - Authentic Principle: Kos <i>(Kos)</i>
-- The Culture of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i> 
+- The Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i> 
 - The Viking Runic Alphabet <i>(Viking Runealfabet)</i> 
 - The Viking Mythology <i>(Viking Mytologi)</i> 
 - Connection to Nature <i>(Friluftsliv)</i> 

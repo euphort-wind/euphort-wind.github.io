@@ -78,6 +78,7 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 - Martisor <i>(Mărțișor)</i> 
 - Romanian Cars <i>(Brand: "Dacia")</i>
 - The Culture of Romani <i>(Romani / Roma)</i>
+- The Legacy of Dacians <i>(Dacii / Δάκοι)</i>
 
 <b>🦉 Local wisdom:</b> "The good man values goodness, as the bee values the flower" / "<i>Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea</i>" — Romanian proverb
 
