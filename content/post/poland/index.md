@@ -95,7 +95,7 @@ Hej! I share an extract of my experience of visiting invincible Poland. I was th
 - Name Day Celebrations <i>(Imieniny)</i>
 - Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i> 
 - <u>Pomeranian (Regional Special):</u> The Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
-- <u>Pomeranian (Regional Special):</u> The Legacy of Old Prussians <i>(Prusacy / Prūsai)</i>
+- <u>Pomeranian (Regional Special):</u> The Legacy of Prussians <i>(Prusacy / Prūsai)</i>
 
 <b>🦉 Local wisdom:</b> "The turkey had a plan for Sunday, but it was eaten on Saturday" / "<i>Indyk myślał o niedzieli, a w sobotę łeb mu ścięli</i>" — Polish proverb
 
