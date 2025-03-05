@@ -44,13 +44,16 @@ Hej! I share an extract of my experience of visiting the beautiful Ålands. I wa
     - The Sea Quarter <i>(Sjökvarteret)</i>
 
 
+<b>💐National flower: </b> Cowslip <i>(Gullviva)</i>
+
+
 <b>🎧 Local musicians: </b>
 - 🇦🇽 Åland Islands Anthem <i>(Ålänningens sång)</i>. Genre: folk 
 - 🇺🇳 Julia Clara (singer). Genre: pop
 - 🇺🇳 Henrik Klingenberg (keytarist). Genre: metal
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🥘Local food & drinks: </b>
 - Åland Pancake with Cream and Plum Jam <i>(Åländsk Pannkaka)</i>
 - "Buried Whitefish" <i>(Gravad Sik)</i>
 - Åland Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
