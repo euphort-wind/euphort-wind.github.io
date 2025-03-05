@@ -69,9 +69,14 @@ Hej! I share an extract of my experience of visiting bright Thailand. I was ther
 - Authentic Garb: Panung <i>(ผ้านุ่ง)</i>
 
 
+<b>💐National flower: </b> Purging Cassia <i>(ดอกราชพฤกษ์)</i>
+
+
 <b>🦉 Local wisdom:</b> "Keep your fire inside and don't take it from someone else" / <i>"ไฟในอย่านำออก ไฟนอกอย่านำเข้า"</i> — Thai proverb
 
-<b>👨‍🎓 The oldest university:</b> Maha Chulalongkorn Rajavidyalaya University <i>(มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย)</i>, Bangkok, est. 1887. 
+
+<b>👨‍🎓 The oldest university:</b> Maha Chulalongkorn Rajavidyalaya University <i>(มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย)</i>, Bangkok, est. 1887.
+
 
 {{< gallery album="thailand" crop_options="150x150" >}}
    

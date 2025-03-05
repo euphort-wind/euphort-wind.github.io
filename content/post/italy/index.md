@@ -148,6 +148,9 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 - <u>Emilia-Romagna (Regional Special):</u> Liscio <i>(Ballo Liscio)</i> 
 
 
+<b>💐National flower: </b> Flower of the Strawberry Tree <i>(Fiore del Corbezzolo)</i>
+
+
 <b>🦉 Local wisdom:</b> "He who leaves the old path for the new knows what he leaves, and does not know what he finds"  / "<i>Chi lascia la via vecchia per la nuova, sa quel che lascia, e non sa quel che trova</i>" — Italian proverb
 
 

@@ -95,15 +95,22 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 - The Generation of Evil <i>(Piktuju Karta)</i>. Year: 2021. Genre: thriller
 - Zero 2 <i>(Zero 2)</i>. Year: 2010. Genre: thriller / black comedy
 
+
 <b>🪔 Authentic artifacts:</b>
 - The Legacy of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - Sutartines Songs <i>(Sutartinės)</i>
 - <u>Vilnius (Regional Special):</u> The Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
 
+
+<b>💐National flower: </b> Common Rue <i>(Žalioji Rūta)</i>
+
+
 <b>🦉 Local wisdom:</b> "Flax is not yet sown and they are already weaving the linen" / "<i>Linai nesėti, o jau drobes audžia</i>" — Lithuanian Proverb
 
+
 <b>👨‍🎓 The oldest university:</b> Vilnius University <i>(Vilniaus Universitetas)</i>, Vilnius, est. 1579.  
+
 
 {{< gallery album="lithuania" crop_options="150x150" >}}
    

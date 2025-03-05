@@ -89,6 +89,10 @@ Hej! I share an extract of my experience of visiting marvelous Denmark. I was th
 - Danish Fairy Tales <i>(Danske Eventyr)</i>
 - The Legend of Danish Flag <i>(Dannebrog)</i>
 
+
+<b>💐National flower: </b> Marguerite Daisy <i>(Margerit)</i>
+
+
 <b>🦉 Local wisdom:</b> "Many small streams make a big river" / "<i>Mange bække små gør en stor å</i>" — Danish proverb
 
 

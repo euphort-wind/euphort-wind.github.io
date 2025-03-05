@@ -97,7 +97,7 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 - The Rose Festival <i>(Празник на Розата)</i>
 
 
-<b>💐National flower: </b> Yellow Iris <i>(Iris Jaune / Gele Lis)</i>
+<b>💐National flower: </b> Bulgarian Rose <i>(Роза Дамаскена)</i>
 
 
 <b>🦉 Local wisdom:</b> "The new broom sweeps cleanly, but the old one knows the corners" / "<i>Новата метла чисто мете, но старата пък знае ъглите</i>" — Bulgarian proverb

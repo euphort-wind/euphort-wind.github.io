@@ -94,6 +94,10 @@ Hej! I share an extract of my experience of visiting legendary Czech Republic. I
 - Authentic Garb: Czech Kroj <i>(Kroje)</i>
 - <u>Central Bohemian (Regional Special):</u> Bohemian Glass <i>(České Sklo)</i>
 
+
+<b>💐National flower: </b> Wrinkled Rose <i>(Růže Svraskalá)</i>
+
+
 <b>🦉 Local wisdom:</b> "Co jsi z úst vypustil, ani párem koní nedostaneš zpět." / "<i>What you let out of your mouth, you can't get back even with a couple of horses.</i>" — Czech proverb
 
 

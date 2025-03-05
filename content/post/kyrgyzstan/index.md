@@ -94,7 +94,11 @@ Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was 
 - <u>Issyk-Kul (Regional Special):</u> Petroglyphs of Issyk-Kul <i>(Ысык-Көлдүн Петроглифтери)</i>
 
 
+<b>💐National flower: </b> Fritillaria Eduardii <i>(Aйгуль)</i>
+
+
 <b>🦉 Local wisdom:</b> "The wolf cannot get enough of sheep, the ear cannot get enough of words, the mind cannot get enough of thoughts, the eye cannot get enough of seeing, the bird cannot get enough of flying" / <i>"Бөрү — койго тойбойт, кулак — сөзгө тойбойт, көңүл — ойго тойбойт, көз — көргөнгө тойбойт, куш — учканга тойбойт"</i> — Kyrgyz proverb
+
 
 <b>👨‍🎓 The oldest university:</b> The Kyrgyz National University <i>(Жусуп Баласагын Атындагы Кыргыз Улуттук Университети)</i>, Bishkek, est. 1925. 
 
