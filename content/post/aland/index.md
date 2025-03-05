@@ -77,6 +77,6 @@ Hej! I share an extract of my experience of visiting the beautiful Ålands. I wa
 <b>👨‍🎓 The oldest university:</b> Åland University of Applied Sciences <i>(Högskolan på Åland)</i>, Mariehamn, est. 2003. 
 
 
-{{< gallery album="aland" crop_options="150x150" >}}
+{{< gallery album="aland" crop_options="150x150" exclude="6pancake.jpg">}}
    
 

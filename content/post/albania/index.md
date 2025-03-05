@@ -95,6 +95,6 @@ Hej! I share an extract of my experience of visiting picturesque Albania. I was 
 <b>👨‍🎓 The oldest university:</b> The Polytechnic University of Tirana <i>(Universiteti Politeknik I Tiranës)</i>, Tirana, est. 1951. 
 
 
-{{< gallery album="albania" crop_options="150x150" exclude="6pancake.jpg">}}
+{{< gallery album="albania" crop_options="150x150">}}
    
 
