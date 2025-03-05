@@ -86,12 +86,15 @@ Hej! I share an extract of my experience of visiting picturesque Albania. I was 
 - Albanian Bunkers <i>(Bunkerët)</i>
 
 
+<b>💐National flower: </b> Red Poppy <i>(Lulëkuqe)</i>
+
+
 <b>🦉 Local wisdom:</b> "Only two men can disrupt an assembly: one who know and doesn't speak, and the other who doesn't know and speak." / "<i>Dy burra mund ta prishin kuvendin: njëri që di dhe nuk flet dhe tjetri që s’di dhe flet.</i>" — Albanian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The Polytechnic University of Tirana <i>(Universiteti Politeknik I Tiranës)</i>, Tirana, est. 1951. 
 
 
-{{< gallery album="albania" crop_options="150x150" >}}
+{{< gallery album="albania" crop_options="150x150" exclude=".jpg">}}
    
 
