@@ -42,9 +42,8 @@ Hej! I share an extract of my experience of visiting the beautiful Ålands. I wa
     - Maritime Museum and Pommern Ship <i>(Ålands sjöfartsmuseum)</i>
     - Central Park <i>(Esplanaden)</i>
     - The Sea Quarter <i>(Sjökvarteret)</i>
-
-
-<b>💐National flower: </b> Cowslip <i>(Gullviva)</i>
+    - The Town Hall <i>(Mariehamns Stadshus)</i>
+    - St. Görans Church <i>(S:t Görans Kyrka)</i>
 
 
 <b>🎧 Local musicians: </b>
@@ -73,6 +72,9 @@ Hej! I share an extract of my experience of visiting the beautiful Ålands. I wa
 
 
 <b>👨‍🎓 The oldest university:</b> Åland University of Applied Sciences <i>(Högskolan på Åland)</i>, Mariehamn, est. 2003. 
+
+
+<b>💐National flower: </b> Cowslip <i>(Gullviva)</i>
 
 
 {{< gallery album="aland" crop_options="150x150" >}}
