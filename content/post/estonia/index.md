@@ -97,7 +97,7 @@ Hej! I share an extract of my experience of visiting cozy Estonia. I was there i
 - <u>Võru (Regional Special):</u> Seto Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
 
 
-<b>💐National flower: </b> Blue Cornflower <i>(Rukkilill)</i>
+<b>💐 National flower: </b> Blue Cornflower <i>(Rukkilill)</i>
 
 
 <b>🦉 Local wisdom:</b> "Who wags a dog's tail except the dog itself?"  / "<i>Kes koera saba kergitab, kui koer ise</i>" — Estonian proverb

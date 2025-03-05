@@ -91,7 +91,7 @@ Hej! I share an extract of my experience of visiting beautiful ultifaceted Belgi
 - <u>Brussels-Capital (Regional Special):</u> Flower Carpet <i>(Tapis de Fleurs / Bloementapijt)</i>
 
 
-<b>💐National flower: </b> Yellow Iris <i>(Iris Jaune / Gele Lis)</i>
+<b>💐 National flower: </b> Yellow Iris <i>(Iris Jaune / Gele Lis)</i>
 
 
 <b>🦉 Local wisdom:</b> "If you want butter, you have to beat it" / "<i>Si tu veux du beurre, il en faut battre / Als je boter wilt, moet je het kloppen</i>" — Belgian proverb

@@ -80,7 +80,7 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 - Authentic Garb: Galabiya <i>(جالبيا)</i>
 
 
-<b>💐National flower: </b> White Egyptian Lotus <i>(نيلوفر اللوتس)</i>
+<b>💐 National flower: </b> White Egyptian Lotus <i>(نيلوفر اللوتس)</i>
 
 
 <b>🦉 Local wisdom:</b> "He who has been burnt by the soup, would puff at the yogurt" / <i>"اللى اتلسع من الشوربة ينفخ فى الزبادى"</i> — Egyptian proverb

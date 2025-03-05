@@ -63,7 +63,7 @@ Hej! I share an extract of my experience of visiting blessed Vatican. I was ther
 - The Papal Conclave <i>(Papae Conclave)</i>
 
 
-<b>💐National flower: </b> Easter Lily <i>(Lilium Longiflorum)</i>
+<b>💐 National flower: </b> Easter Lily <i>(Lilium Longiflorum)</i>
 
 
 <b>🦉 Local wisdom:</b> "In the face of unjust and painful situations, faith brings us the light which scatters the darkness"  / "<i> Contra iniustas ac laboriosas condiciones fides nos lucem profert quae tenebras spargit </i>" — Pope Francis 

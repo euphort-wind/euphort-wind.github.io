@@ -88,7 +88,7 @@ Hej! I share an extract of my experience of visiting stately Finland. I was ther
 - Authentic Garb: Kansallispuku <i>(Kansallispuku)</i>
 
 
-<b>💐National flower: </b> Lily-of-the-Valley <i>(Kielo)</i>
+<b>💐 National flower: </b> Lily-of-the-Valley <i>(Kielo)</i>
 
 
 <b>🦉 Local wisdom:</b> "Better a little given than a lot promised" / <i>"Parempi vähän annettu kuin paljon luvattu"</i> — Finnish proverb

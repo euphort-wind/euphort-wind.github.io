@@ -75,7 +75,7 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
 - <u> Larnaca (Regional Special):</u> Lefkara Lace <i>(Δαντέλα Λεύκαρα)</i>
 
 
-<b>💐National flower: </b> Cyprus Cyclamen <i>(Κυκλάμινο το Κυπριακό)</i>
+<b>💐 National flower: </b> Cyprus Cyclamen <i>(Κυκλάμινο το Κυπριακό)</i>
 
 
 <b>🦉 Local wisdom:</b> "Some live by the effort and others live by the way" / "<i>Άλλοι ζιούσιν με τον κόπον κι άλλοι ζιούσιν με τον τρόπον</i>" — Cypriot proverb

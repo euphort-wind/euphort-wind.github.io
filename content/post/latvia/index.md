@@ -79,7 +79,7 @@ Hej! I share an extract of my experience of visiting magnificent Latvia. I was t
 - <u>Jurmala (Regional Special):</u> Jurmala Festivals <i>(Jūrmalas Festivāli)</i>
 
 
-<b>💐National flower: </b> Ox-eye Daisy <i>(Parastā Pīpene)</i>
+<b>💐 National flower: </b> Ox-eye Daisy <i>(Parastā Pīpene)</i>
 
 
 <b>🦉 Local wisdom:</b> "A tree does not fall after the first cut" / <i>"Koks nekrīt uz pirmā cirtiena"</i> — Latvian proverb

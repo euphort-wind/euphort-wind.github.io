@@ -314,7 +314,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - <u>Halland (Regional Special):</u> Bonad Painting <i>(Bonadsmålning)</i>
 
 
-<b>💐National flower: </b> Harebell <i>(Liten Blåklocka)</i>
+<b>💐 National flower: </b> Harebell <i>(Liten Blåklocka)</i>
 
 
 <b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece" / "<i>Den som gapar över mycket mister ofta hela stycket</i>" — Swedish proverb

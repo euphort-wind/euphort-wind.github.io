@@ -68,7 +68,7 @@ Hej! I share an extract of my experience of visiting the beautiful Ålands. I wa
 - The Lilla Jul <i>(Lilla Jul)</i>
 
 
-<b>💐National flower: </b> Cowslip Primrose <i>(Gullviva)</i>
+<b>💐 National flower: </b> Cowslip Primrose <i>(Gullviva)</i>
 
 
 <b>🦉 Local wisdom:</b> "Adventure is not something we need to look for. It's exciting enough to live" / "<i>Äventyr är inte något vi behöver leta efter. Det är ju tillräckligt spännande att leva</i>" — AnneAnka (Pernilla Lindroos)

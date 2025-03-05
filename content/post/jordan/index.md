@@ -66,7 +66,7 @@ Hej! I share an extract of my experience of visiting ancient Jordan. I was there
 - Al-Mansaf: Festive Banquet <i>(منسف)</i> 
 
 
-<b>💐National flower: </b> Black Iris <i>(السوسنة السوداء)</i>
+<b>💐 National flower: </b> Black Iris <i>(السوسنة السوداء)</i>
 
 
 <b>🦉 Local wisdom:</b> "The one who knocks on the door hears the answer" / "<i>إلي بدُق ع الباب بسمع الجواب</i>" — Jordanian proverb 

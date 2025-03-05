@@ -273,7 +273,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - <u>Chelyabinsk (Regional Special):</u> The Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>
 
 
-<b>💐National flower: </b> Chamomile <i>(Ромашка Обыкновенная)</i>
+<b>💐 National flower: </b> Chamomile <i>(Ромашка Обыкновенная)</i>
 
 
 <b>🦉 Local wisdom:</b> "The only thing better than mountains are mountains that you have never been to before" / "<i>Лучше гор могут быть только горы, на которых ещё не бывал</i>" — Vladimir Vysotsky (Soviet singer-songwriter and poet)

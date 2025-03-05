@@ -63,7 +63,7 @@ Hej! I share an extract of my experience of visiting dreamlike San Marino. I was
 - Legend of Saint Marinus <i>(Leggenda di San Marino)</i>
 
 
-<b>💐National flower: </b> Purple Cyclamen <i>(Ciclamino Viola)</i>
+<b>💐 National flower: </b> Purple Cyclamen <i>(Ciclamino Viola)</i>
 
 
 <b>🦉 Local wisdom:</b> "An egg today is better than a chicken tomorrow"  / "<i>Meglio un uovo oggi che una gallina domani</i>" — Sammarinese proverb

@@ -96,7 +96,7 @@ Hej! I share an extract of my experience of visiting astonishing Kazakhstan. I w
 - The Assyk Game <i>(Асық)</i> 
 
 
-<b>💐National flower: </b> White Water Lily <i>(Ақ Тұңғиық)</i>
+<b>💐 National flower: </b> White Water Lily <i>(Ақ Тұңғиық)</i>
 
 
 <b>🦉 Local wisdom:</b> "A united hundred is stronger than a divided thousand" / <i>"Біріккен жүз, бытыраңқы мыңды алады"</i> — Kazakh proverb

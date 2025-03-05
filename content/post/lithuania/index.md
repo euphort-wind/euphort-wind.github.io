@@ -103,7 +103,7 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 - <u>Vilnius (Regional Special):</u> The Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
 
 
-<b>💐National flower: </b> Common Rue <i>(Žalioji Rūta)</i>
+<b>💐 National flower: </b> Common Rue <i>(Žalioji Rūta)</i>
 
 
 <b>🦉 Local wisdom:</b> "Flax is not yet sown and they are already weaving the linen" / "<i>Linai nesėti, o jau drobes audžia</i>" — Lithuanian Proverb
