@@ -95,6 +95,8 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 - The Anastenaria <i>(Нестинарство)</i>
 - The Legacy of Thracians <i>(Траки / Θρᾷκες)</i>
 - The Rose Festival <i>(Празник на Розата)</i>
+- The Heritage of the Bulgarian Empire <i>(Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>
+
 
 
 <b>💐 National flower: </b> Bulgarian Rose <i>(Роза Дамаскена)</i>

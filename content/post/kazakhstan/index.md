@@ -92,6 +92,7 @@ Hej! I share an extract of my experience of visiting astonishing Kazakhstan. I w
 - The Dombra <i>(Домбыра)</i> 
 - Baige <i>(Бәйге)</i> 
 - Kazakh Wrestling <i>(Қазақша Күрес)</i> 
+- The Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق خاندیغی)</i> 
 - Authentic Garb: Shapan & Borik <i>(Шапан пен Борик)</i> 
 - The Assyk Game <i>(Асық)</i> 
 

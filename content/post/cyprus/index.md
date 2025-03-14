@@ -72,6 +72,7 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
 <b>🪔 Authentic artifacts:</b>
 - Worry Beads <i>(Кομπολόι)</i>
 - The Laouto <i>(Λαούτο)</i>
+- The Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>
 - <u> Larnaca (Regional Special):</u> Lefkara Lace <i>(Δαντέλα Λεύκαρα)</i>
 
 

@@ -249,6 +249,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Russian Folk Songs <i>(Русские Народные Песни)</i> 
 - The Bayan <i>(Баян)</i> 
 - The Horovod Dance <i>(Хоровод)</i> 
+- The Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
+- The Heritage of the USSR <i>(CCCP)</i>
 - Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-ушанка)</i> 
 - The Culture of Old Believers <i>(Староверы)</i> 
 - Russian Cars <i>(Brands: "GAZ", "LADA" etc.)</i> 

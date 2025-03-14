@@ -124,8 +124,8 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
 - Turkish Television Drama <i>(Türk Dizileri)</i>
 - Authentic Garb: Kaftan and Shalvar and Yelek <i>(Kaftan ve Şalvar ve Yelek)</i>
 - The Meddahs <i>(Meddah)</i>
-- Turkish Architecture <i>(Türk Mimarisi)</i>
-- The Legacy of Byzantians <i>(Bizans / Byzantius)</i>
+- The Heritage of the Byzantine Empire <i>(Bizans İmparatorluğu / Imperium Romanum Orientale)</i>
+- The Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i>
 - <u>İstanbul (Regional Special):</u> Eastern Orthodoxy <i>(Ortodoks Kilisesi)</i>
 - <u>Antalya (Regional Special):</u> The Culture of Tahtaci <i>(Tahtacılar / Tahtacı)</i>
 

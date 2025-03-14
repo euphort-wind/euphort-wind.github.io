@@ -89,6 +89,7 @@ Hej! I share an extract of my experience of visiting enchanting Croatia. I was t
 - The Angular Glagolitic Script <i>(Hrvatska Glagoljica)</i> 
 - Authentic Garb: Cravat and Šibenik Cap <i>(Kravata i Šibenik Kapa)</i>  
 - The Legacy of Illyrians <i>(Iliri / Ἰλλυριοί)</i>
+- The Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>  
 - <u>Zadar (Regional Special):</u> Klapa <i>(Klapa)</i>
 
 

@@ -79,6 +79,7 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 - Romanian Cars <i>(Brand: "Dacia")</i>
 - The Culture of Romani <i>(Romani / Roma)</i>
 - The Legacy of Dacians <i>(Dacii / Δάκοι)</i>
+- The Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
 
 
 <b>💐 National flower: </b> Romanian Peony <i>(Bujor Românesc)</i>

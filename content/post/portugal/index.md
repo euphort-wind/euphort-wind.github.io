@@ -96,6 +96,7 @@ Hej! I share an extract of my experience of visiting bright and contrasty Portug
 - Portuguese Guitar <i>(Guitarra Portuguesa)</i>
 - Portuguese Architecture <i>(A Arquitetura Portuguesa)</i> 
 - The Azulejo <i>(Azulejo)</i>
+- The Heritage of the Portuguese Empire <i>(Império Português)</i>
 - Portuguese Seamanship and Maritime Exploration <i>(Marinharia e Exploração Marítima)</i>    
 - Authentic Garb: Portuguese Traje <i>(Traje Português)</i>
 - <u>Lisbon (Regional Special):</u> Lisbon Yellow Trams <i>(Eléctricos Amarelos de Lisboa)</i>

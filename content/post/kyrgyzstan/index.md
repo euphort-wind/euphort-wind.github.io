@@ -89,6 +89,7 @@ Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was 
 - Kyrgyz Yurts <i>(Кыргыз боз Yйлөрү)</i> 
 - The Komuz <i>(Комуз)</i> 
 - The Culture of Dungan <i>(Дунгандар / Хуэйзў)</i>
+- The Heritage of the Kyrgyz Khanate <i>(Кыргыз Хандыгы / 𐱅𐰭𐰼𐰄:𐰅𐰠)</i> 
 - Authentic Garb: Ak-Kalpak and Beldemchi <i>(Ак-Калпак менен Белдемчи)</i> 
 - <u>Issyk-Kul (Regional Special):</u> Legends of Issyk-Kul & Cholpon-Ata <i>(Ысык-Көл жана Чолпон-Ата Легендалары)</i>
 - <u>Issyk-Kul (Regional Special):</u> Petroglyphs of Issyk-Kul <i>(Ысык-Көлдүн Петроглифтери)</i>

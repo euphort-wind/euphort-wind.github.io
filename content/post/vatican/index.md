@@ -61,7 +61,7 @@ Hej! I share an extract of my experience of visiting blessed Vatican. I was ther
 - Catholicism <i>(Ecclesia Catholica)</i>
 - The Papal Audiences <i>(Audientiis Publicis Summi Pontificis)</i>
 - The Papal Conclave <i>(Papae Conclave)</i>
-
+- The Heritage of the Papal States <i>(Dicio Pontificia)</i>
 
 <b>💐 National flower: </b> Easter Lily <i>(Lilium Longiflorum)</i>
 
