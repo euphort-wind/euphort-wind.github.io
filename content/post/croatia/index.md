@@ -86,6 +86,7 @@ Hej! I share an extract of my experience of visiting enchanting Croatia. I was t
 - Croatian Lace <i>(Čipkarstvo)</i>
 - The Story of Klepetan and Malena <i>(Klepetan i Malena)</i>
 - Zvončari <i>(Zvončari)</i>  
+- The Angular Glagolitic Script <i>(Hrvatska Glagoljica)</i> 
 - Authentic Garb: Cravat and Šibenik Cap <i>(Kravata i Šibenik Kapa)</i>  
 - The Legacy of Illyrians <i>(Iliri / Ἰλλυριοί)</i>
 - <u>Zadar (Regional Special):</u> Klapa <i>(Klapa)</i>
