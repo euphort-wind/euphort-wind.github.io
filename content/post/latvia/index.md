@@ -77,6 +77,7 @@ Hej! I share an extract of my experience of visiting magnificent Latvia. I was t
 - Latvian Christmas Eve <i>(Ziemassvētki)</i> 
 - The Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
 - <u>Jurmala (Regional Special):</u> Jurmala Festivals <i>(Jūrmalas Festivāli)</i>
+- <u>Riga (Regional Special):</u> Riga Art Nouveau Architecture <i>(Jūgendstila Arhitektūra Rīgā)</i>
 
 
 <b>💐 National flower: </b> Ox-eye Daisy <i>(Parastā Pīpene)</i>
