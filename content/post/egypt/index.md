@@ -77,6 +77,7 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 - The Maxims of Ptahhotep <i>(أقوال بتاح حتب)</i>
 - Desert Safari <i>(رحلات السفاري الصحراوية)</i>
 - The Henna Painting <i>(رسمة الحناء)</i>
+- The Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>
 - Authentic Garb: Galabiya <i>(جالبيا)</i>
 
 
