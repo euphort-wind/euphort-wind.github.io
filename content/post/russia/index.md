@@ -272,7 +272,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - <u>North Ossetia (Regional Special):</u> Ossetian Assianism <i>(Уасдин / Уацдин)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Simd Dance <i>(Симд / Синд)</i>
 - <u>North Ossetia (Regional Special):</u> The Heritage of the Kingdom of Alania <i>(Алания / Аланья)</i>
-- <u>Leningrad (Regional Special):</u> The Culture of Izhorians <i>(Ижора / Ižorat)</i>
+- <u>Leningrad (Regional Special):</u> The Culture of Izhorians <i>(Ижоры / Ižorat)</i>
 - <u>Orenburzhie (Regional Special):</u> The Culture of the Orenburg Cossacks <i>(Оренбургские Казаки)</i>
 - <u>Orenburzhie (Regional Special):</u> Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i>
 - <u>Chelyabinsk (Regional Special):</u> Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
