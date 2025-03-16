@@ -93,7 +93,7 @@ Hej! I share an extract of my experience of visiting legendary Czech Republic. I
 - The Culture of Moravians <i>(Moravané / Moraváci)</i>
 - Authentic Garb: Czech Kroj <i>(Kroje)</i>
 - The Heritage of the Kingdom of Bohemia <i>(České Království / Regnum Bohemiae)</i>
-- <u>Central Bohemian (Regional Special):</u> Bohemian Glass <i>(České Sklo)</i>
+- <u>Central Bohemia (Regional Special):</u> Bohemian Glass <i>(České Sklo)</i>
 
 
 <b>💐 National flower: </b> Wrinkled Rose <i>(Růže Svraskalá)</i>

@@ -89,8 +89,8 @@ Hej! I share an extract of my experience of visiting cozy Estonia. I was there i
 <b>🪔 Authentic artifacts:</b>
 - The Epic of Kalevipoeg <i>(Kalevipoeg: Eesti Rahva Eepos)</i>
 - Estonian Song Festival <i>(Üldlaulupidu)</i> 
-- Kiiking <i>(Kiiking)</i>
-- Kannel Music Instrument <i>(Kannel)</i>
+- The Kiiking <i>(Kiiking)</i>
+- The Kannel <i>(Kannel)</i>
 - E-Government <i>(E-Riik)</i>
 - <u>Võru (Regional Special):</u> The Culture of Setos <i>(Setukesed / Setokõsõq)</i>
 - <u>Võru (Regional Special):</u> Seto Polyphonic Singing <i>(Seto Leelo / Seto Leelo)</i>

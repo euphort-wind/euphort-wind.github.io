@@ -70,7 +70,7 @@ Hej! I share an extract of my experience of visiting enchanting Croatia. I was t
 - Kroštule <i>(Kroštule)</i>
 - Maraskino <i>(Brand: "Perković")</i>
 - <u>Zagreb (Regional Special):</u> Štrukli <i>(Štrukli)</i>
-- <u>Zadar (Regional Special):</u> Shrimp Buzara Style <i>(Škampi Na Buzaru)</i>
+- <u>Zadar (Regional Special):</u> Buzara-Style Shrimps <i>(Škampi Na Buzaru)</i>
 - <u>Zadar (Regional Special):</u> Travarica <i>(Brand: "Velebit")</i>
 
 <b>🎬 Local movies:</b>
@@ -82,15 +82,15 @@ Hej! I share an extract of my experience of visiting enchanting Croatia. I was t
 
 <b>🪔 Authentic artifacts:</b>
 - Authentic Principle: Fjaka <i>(Fjaka)</i>
-- Ojkanje Singing <i>(Ojkanje)</i>
+- The Ojkanje Singing <i>(Ojkanje)</i>
 - Croatian Lace <i>(Čipkarstvo)</i>
 - The Story of Klepetan and Malena <i>(Klepetan i Malena)</i>
-- Zvončari <i>(Zvončari)</i>  
+- The Zvončari <i>(Zvončari)</i>  
 - The Angular Glagolitic Script <i>(Hrvatska Glagoljica)</i> 
 - Authentic Garb: Cravat and Šibenik Cap <i>(Kravata i Šibenik Kapa)</i>  
 - The Legacy of Illyrians <i>(Iliri / Ἰλλυριοί)</i>
 - The Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>  
-- <u>Zadar (Regional Special):</u> Klapa <i>(Klapa)</i>
+- <u>Zadar (Regional Special):</u> The Klapa <i>(Klapa)</i>
 
 
 <b>💐 National flower: </b> Croatian Iris <i>(Hrvatska Perunika)</i>

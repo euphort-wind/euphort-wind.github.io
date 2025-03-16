@@ -62,11 +62,11 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 
 <b>🥘 Local food & drinks: </b>
 - Paella <i>(Paella)</i>
-- Spanish omelette <i>(Tortilla)</i>
-- Air Dried Ham / Jamon <i>(Jamon)</i>
+- Spanish Omelette <i>(Tortilla)</i>
+- Jamon <i>(Jamon)</i>
 - Churro <i>(Churro)</i>
-- Tapas <i>(Tapas)</i>
-- Spanish Sausage / Chorizo <i>(Chorizo)</i>
+- Tapas-Style Cheese <i>(Tapas)</i>
+- Chorizo <i>(Chorizo)</i>
 - <u>Catalonia (Regional Special):</u> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
 
 
@@ -82,7 +82,7 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 - The Siesta <i>(Siesta)</i>
 - The Flamenco <i>(Flamenco)</i>
 - Spanish Bullfighting <i>(Corrida)</i>
-- Authentic Garb: Mantilla and Peineta and Gilet <i>(Mantilla y Peineta y Chaleco)</i>
+- Authentic Garb: Mantilla and Traje de Luces <i>(Mantilla y Traje de Luces)</i>
 - Spanish Cars <i>(Brand: "SEAT")</i>
 - The Legacy of Iberians <i>(Iberos / Ἴβηρες)</i> 
 - The Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>

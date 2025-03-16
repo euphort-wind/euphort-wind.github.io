@@ -60,7 +60,7 @@ Hej! I share an extract of my experience of visiting dreamlike San Marino. I was
 
 <b>🪔 Authentic artifacts:</b>
 - Three Towers of San Marino <i>(Tre Torri di San Marino)</i>
-- Legend of Saint Marinus <i>(Leggenda di San Marino)</i>
+- The Legend of Saint Marinus <i>(Leggenda di San Marino)</i>
 
 
 <b>💐 National flower: </b> Purple Cyclamen <i>(Ciclamino Viola)</i>

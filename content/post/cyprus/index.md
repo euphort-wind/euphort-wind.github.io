@@ -60,7 +60,7 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
 
 <b>🥘 Local food & drinks: </b>
 - Halloumi Cheese <i>(Τυρί χαλούμι)</i>
-- Souvlaki <i>(Σουβλάκι)</i>
+- Souvlaki-Style Chicken <i>(Σουβλάκι)</i>
 - Cyprus Village Salad <i>(Κύπρος Χωριάτικη Σαλάτα)</i>
 - Zivania <i>(Brand: "Zivania LOEL")</i>
 
@@ -70,7 +70,7 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
 
 
 <b>🪔 Authentic artifacts:</b>
-- Worry Beads <i>(Кομπολόι)</i>
+- The Worry Beads <i>(Кομπολόι)</i>
 - The Laouto <i>(Λαούτο)</i>
 - The Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>
 - <u> Larnaca (Regional Special):</u> Lefkara Lace <i>(Δαντέλα Λεύκαρα)</i>

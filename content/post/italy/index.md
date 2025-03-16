@@ -149,7 +149,7 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana/ Magnus Ducatus Etruriae)</i> 
 - <u>Emilia-Romagna (Regional Special):</u> Bologna Process <i>(Processo di Bologna)</i> 
-- <u>Emilia-Romagna (Regional Special):</u> Liscio <i>(Ballo Liscio)</i> 
+- <u>Emilia-Romagna (Regional Special):</u> The Liscio <i>(Ballo Liscio)</i> 
 
 
 <b>💐 National flower: </b> Flower of the Strawberry Tree <i>(Fiore del Corbezzolo)</i>

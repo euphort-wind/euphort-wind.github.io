@@ -92,7 +92,7 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
 - Authentic Ancient Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύς)</i>
 - The Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
-- Sirtaki Dance <i>(Σιρτάκη)</i>
+- The Sirtaki Dance <i>(Σιρτάκη)</i>
 - The Meander <i>(Μαίανδρος)</i>
 - The Evil Eye <i>(Κακό Μάτι)</i>
 - <u>Crete (Regional Special):</u> Cretan Lyra <i>(Κρητική λύρα)</i>
