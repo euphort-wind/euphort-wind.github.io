@@ -90,11 +90,11 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 
 <b>🪔 Authentic artifacts:</b>
 - The Cyrillic Alphabet <i>(Кирилица)</i>
-- Authentic Garb: Bulgarian Nosiya <i>(Носия)</i>
 - The Horo Dance <i>(Хоро)</i>
 - The Anastenaria <i>(Нестинарство)</i>
-- The Legacy of Thracians <i>(Траки / Θρᾷκες)</i>
 - The Rose Festival <i>(Празник на Розата)</i>
+- Authentic Garb: Bulgarian Nosiya <i>(Носия)</i>
+- The Legacy of Thracians <i>(Траки / Θρᾷκες)</i>
 - The Heritage of the Bulgarian Empire <i>(Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>
 
 

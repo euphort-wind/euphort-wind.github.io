@@ -82,8 +82,8 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 - The Siesta <i>(Siesta)</i>
 - The Flamenco <i>(Flamenco)</i>
 - Spanish Bullfighting <i>(Corrida)</i>
-- Authentic Garb: Mantilla and Traje de Luces <i>(Mantilla y Traje de Luces)</i>
 - Spanish Cars <i>(Brand: "SEAT")</i>
+- Authentic Garb: Mantilla and Traje de Luces <i>(Mantilla y Traje de Luces)</i>
 - The Legacy of Iberians <i>(Iberos / Ἴβηρες)</i> 
 - The Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - <u>Catalonia (Regional Special):</u> The Culture of Catalans <i>(Catalanes / Catalans)</i>

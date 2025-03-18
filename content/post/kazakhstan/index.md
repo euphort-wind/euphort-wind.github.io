@@ -92,9 +92,9 @@ Hej! I share an extract of my experience of visiting astonishing Kazakhstan. I w
 - The Dombra <i>(Домбыра)</i> 
 - Baige <i>(Бәйге)</i> 
 - Kazakh Wrestling <i>(Қазақша Күрес)</i> 
-- The Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق خاندیغی)</i> 
-- Authentic Garb: Shapan & Borik <i>(Шапан пен Борик)</i> 
 - The Assyk Game <i>(Асық)</i> 
+- Authentic Garb: Shapan & Borik <i>(Шапан пен Борик)</i> 
+- The Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق خاندیغی)</i> 
 
 
 <b>💐 National flower: </b> White Water Lily <i>(Ақ Тұңғиық)</i>

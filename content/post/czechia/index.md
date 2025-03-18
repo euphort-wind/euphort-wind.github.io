@@ -90,8 +90,8 @@ Hej! I share an extract of my experience of visiting legendary Czech Republic. I
 - Czech Puppetry <i>(České Loutkářství)</i>
 - St. Wenceslas Day <i>(Den České Státnosti)</i>
 - Czech Cars <i>(Brand: "Škoda")</i>
-- The Culture of Moravians <i>(Moravané / Moraváci)</i>
 - Authentic Garb: Czech Kroj <i>(Kroje)</i>
+- The Culture of Moravians <i>(Moravané / Moraváci)</i>
 - The Heritage of the Kingdom of Bohemia <i>(České Království / Regnum Bohemiae)</i>
 - <u>Central Bohemia (Regional Special):</u> Bohemian Glass <i>(České Sklo)</i>
 

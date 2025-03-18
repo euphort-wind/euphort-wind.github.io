@@ -78,13 +78,13 @@ Hej! I share an extract of my experience of visiting picturesque Albania. I was 
 - Authentic Principle: Besa <i>(Besa)</i>
 - The System of Albanian Tribes <i>(Fiset Shqiptare)</i>
 - Bektashism <i>(Bektashi)</i>
-- The Culture of Aromanians <i>(Arumunët / Armãnji)</i>
 - Albanaian Iso-Polyphony <i>(Iso-Polifonia)</i>
-- Authentic Garb: Qeleshe and Xhamadan <i>(Qeleshe dhe Xhamadan)</i> 
 - The Shota Dance <i>(Shotë)</i>
 - The Legend of Skanderbeg <i>(Trashëgimia e Skënderbeut)</i>
-- The Heritage of the Kingdom of Albania <i>(Mbretëria e Arbërisë / Regnum Albaniae)</i>
 - Albanian Bunkers <i>(Bunkerët)</i>
+- Authentic Garb: Qeleshe and Xhamadan <i>(Qeleshe dhe Xhamadan)</i> 
+- The Culture of Aromanians <i>(Arumunët / Armãnji)</i>
+- The Heritage of the Kingdom of Albania <i>(Mbretëria e Arbërisë / Regnum Albaniae)</i>
 
 
 <b>💐 National flower: </b> Red Poppy <i>(Lulëkuqe)</i>

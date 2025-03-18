@@ -74,8 +74,8 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 <b>🪔 Authentic artifacts:</b>
 - Romanian Hora Dance <i>(Hora)</i>
 - The Doina <i>(Doina)</i>
-- Paparuda Ritual <i>(Păpăluga)</i> 
-- Martisor <i>(Mărțișor)</i> 
+- The Paparuda Ritual <i>(Păpăluga)</i> 
+- The Martisor <i>(Mărțișor)</i> 
 - Romanian Cars <i>(Brand: "Dacia")</i>
 - The Culture of Romani <i>(Romani / Roma)</i>
 - The Legacy of Dacians <i>(Dacii / Δάκοι)</i>

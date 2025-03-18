@@ -305,8 +305,8 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Midsummer Celebration <i>(Midsommar)</i>
 - St. Lucy's Day <i>(Lucia)</i>
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
-- Authentic Garb: Klädedräkten <i>(Klädedräkten)</i>
 - The Hambo Dance <i>(Hambo)</i>
+- Authentic Garb: Klädedräkten <i>(Klädedräkten)</i>
 - <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar / Gutar)</i>
 - <u>Gotland (Regional Special):</u> The Guta Saga <i>(Gutasagan / Gutasaga)</i>
 - <u>Gotland (Regional Special):</u> Visby Medieval Architecture <i>(Visby Medeltidsarkitektur / Häus u Häusar)</i>

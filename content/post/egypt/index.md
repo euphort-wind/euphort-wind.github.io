@@ -68,6 +68,9 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 
 
 <b>🪔 Authentic artifacts:</b>
+- Desert Safari <i>(رحلات السفاري الصحراوية)</i>
+- The Henna Painting <i>(رسمة الحناء)</i>
+- Authentic Garb: Galabiya <i>(جالبيا)</i>
 - The Culture of Copts <i>(أقباط / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>
 - The Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
 - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
@@ -75,10 +78,8 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
 - Ancient Egyptian Sarcophaguses & Mummies <i>(التوابيت المصرية القديمة)</i>
 - The Maxims of Ptahhotep <i>(أقوال بتاح حتب)</i>
-- Desert Safari <i>(رحلات السفاري الصحراوية)</i>
-- The Henna Painting <i>(رسمة الحناء)</i>
 - The Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>
-- Authentic Garb: Galabiya <i>(جالبيا)</i>
+
 
 
 <b>💐 National flower: </b> White Egyptian Lotus <i>(نيلوفر اللوتس)</i>

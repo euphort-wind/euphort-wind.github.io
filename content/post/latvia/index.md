@@ -73,8 +73,8 @@ Hej! I share an extract of my experience of visiting magnificent Latvia. I was t
 
 <b>🪔 Authentic artifacts:</b>
 - Latvian Vernacular Architecture <i>(Latviešu Tautas Arhitektūra)</i> 
-- Authentic Garb: Latvian Belt <i>(The Lielvārde Belt)</i> 
 - Latvian Christmas Eve <i>(Ziemassvētki)</i> 
+- Authentic Garb: Latvian Belt <i>(The Lielvārde Belt)</i> 
 - The Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
 - <u>Jurmala (Regional Special):</u> Jurmala Festivals <i>(Jūrmalas Festivāli)</i>
 - <u>Riga (Regional Special):</u> Riga Art Nouveau Architecture <i>(Jūgendstila Arhitektūra Rīgā)</i>

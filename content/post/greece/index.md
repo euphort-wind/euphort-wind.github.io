@@ -84,6 +84,11 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 
 
 <b>🪔 Authentic artifacts:</b>
+- Authentic Principle: Philotimo <i>(Φιλότιμο)</i>
+- The Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
+- The Sirtaki Dance <i>(Σιρτάκη)</i>
+- The Meander <i>(Μαίανδρος)</i>
+- The Evil Eye <i>(Κακό Μάτι)</i>
 - The Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
 - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
 - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
@@ -91,10 +96,6 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 - Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>
 - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
 - Authentic Ancient Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύς)</i>
-- The Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
-- The Sirtaki Dance <i>(Σιρτάκη)</i>
-- The Meander <i>(Μαίανδρος)</i>
-- The Evil Eye <i>(Κακό Μάτι)</i>
 - <u>Crete (Regional Special):</u> Cretan Lyra <i>(Κρητική λύρα)</i>
 - <u>Crete (Regional Special):</u> Cretan Garb: Stivania & Sariki <i>(Στιβάνια & Σαρίκη)</i>
 - <u>South Aegean (Regional Special):</u> Colossus of Rhodes <i>(ὁ Κολοσσὸς Ῥόδιος)</i>

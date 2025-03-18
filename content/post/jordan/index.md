@@ -60,10 +60,10 @@ Hej! I share an extract of my experience of visiting ancient Jordan. I was there
 - Captain Abu Raed <i>(كابتن أبو رائد)</i>. Year: 2007. Genres: drama
 
 <b>🪔 Authentic artifacts:</b>
-- Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والتقية)</i> 
-- The Legacy of Nabataeans <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i>  
-- The Culture of Bedouins <i>(البدو / بَدْو)</i> 
 - Al-Mansaf: Festive Banquet <i>(منسف)</i> 
+- Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والتقية)</i> 
+- The Culture of Bedouins <i>(البدو / بَدْو)</i> 
+- The Legacy of Nabataeans <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i>  
 
 
 <b>💐 National flower: </b> Black Iris <i>(السوسنة السوداء)</i>

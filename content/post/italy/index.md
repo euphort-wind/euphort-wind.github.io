@@ -131,23 +131,22 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 
 <b>🪔 Authentic artifacts:</b>
 - Authentic Principle: La Dolce Vita <i>(La Dolce Vita)</i> 
+- Italian Folk Music <i>(Musica Popolare italiana)</i> 
+- The Latin Alphabet <i>(Alfabeto Latino)</i> 
+- The Tarantella Dance <i>(Tarantella)</i> 
+- Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace" etc.)</i> 
+- Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT" etc.)</i>
+- The Legacy of Etruscans <i>(Etruschi / Rasenna)</i> 
 - The Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
 - The Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
-- The Legacy of Ancient Romans <i>(Cittadini Romani / Populus Romanus)</i> 
 - Ancient Roman Architecture <i>(Architettura Romana Antica)</i> 
 - Ancient Roman Roads <i>(Antiche Strade Romane)</i> 
 - Ancient Roman Mythology <i>(Mitologia Romana Antica)</i> 
 - Authentic Ancient Garb: Toga & Palla <i>(Toga e Palla)</i> 
-- Italian Folk Music <i>(Musica Popolare italiana)</i> 
-- The Latin Alphabet <i>(Alfabeto Latino)</i> 
-- The Tarantella Dance <i>(Tarantella)</i> 
-- The Legacy of Etruscans <i>(Etruschi / Rasenna)</i> 
-- Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace" etc.)</i> 
-- Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT" etc.)</i>
-- <u>Tuscany (Regional Special):</u> The Renaissance Cultural Movement <i>(Il Movimento Culturale Rinascimentale)</i> 
-- <u>Tuscany (Regional Special):</u> Medici Porcelain <i>(Porcellane Medicee)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana/ Magnus Ducatus Etruriae)</i> 
+- <u>Tuscany (Regional Special):</u> The Renaissance Cultural Movement <i>(Il Movimento Culturale Rinascimentale)</i> 
+- <u>Tuscany (Regional Special):</u> Medici Porcelain <i>(Porcellane Medicee)</i> 
 - <u>Emilia-Romagna (Regional Special):</u> Bologna Process <i>(Processo di Bologna)</i> 
 - <u>Emilia-Romagna (Regional Special):</u> The Liscio <i>(Ballo Liscio)</i> 
 

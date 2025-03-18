@@ -97,9 +97,9 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 
 
 <b>🪔 Authentic artifacts:</b>
-- The Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - The Sutartines Songs <i>(Sutartinės)</i>
+- The Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>
 - <u>Vilnius (Regional Special):</u> The Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
 
 

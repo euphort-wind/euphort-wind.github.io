@@ -93,8 +93,8 @@ Hej! I share an extract of my experience of visiting invincible Poland. I was th
 - The Polonaise Dance <i>(Polonez)</i>
 - The Mazurka Dance <i>(Mazurek)</i>
 - Name Day Celebrations <i>(Imieniny)</i>
-- The Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i>
 - Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i> 
+- The Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i>
 - <u>Pomeranian (Regional Special):</u> The Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
 - <u>Pomeranian (Regional Special):</u> The Legacy of Prussians <i>(Prusacy / Prūsai)</i>
 
