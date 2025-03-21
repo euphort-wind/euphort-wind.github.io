@@ -74,11 +74,11 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 - The Culture of Copts <i>(أقباط / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>
 - The Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
 - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
-- Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
-- Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
-- Ancient Egyptian Sarcophaguses & Mummies <i>(التوابيت المصرية القديمة)</i>
-- The Maxims of Ptahhotep <i>(أقوال بتاح حتب)</i>
-- The Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>
+  - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
+  - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
+  - Ancient Egyptian Sarcophaguses & Mummies <i>(التوابيت المصرية القديمة)</i>
+  - The Maxims of Ptahhotep <i>(أقوال بتاح حتب)</i>
+  - The Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>
 
 
 
