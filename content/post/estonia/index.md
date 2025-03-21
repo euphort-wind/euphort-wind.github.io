@@ -93,8 +93,8 @@ Hej! I share an extract of my experience of visiting cozy Estonia. I was there i
 - The Kannel <i>(Kannel)</i>
 - E-Government <i>(E-Riik)</i>
 - <u>Võru (Regional Special):</u> The Culture of Setos <i>(Setukesed / Setokõsõq)</i>
-- <u>Võru (Regional Special):</u> Seto Polyphonic Singing <i>(Seto Leelo / Seto Leelo)</i>
-- <u>Võru (Regional Special):</u> Seto Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
+  - <u>Võru (Regional Special):</u> Seto Polyphonic Singing <i>(Seto Leelo / Seto Leelo)</i>
+  - <u>Võru (Regional Special):</u> Seto Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
 
 
 <b>💐 National flower: </b> Blue Cornflower <i>(Rukkilill)</i>

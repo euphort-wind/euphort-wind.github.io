@@ -254,23 +254,23 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - The Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
 - The Heritage of the USSR <i>(CCCP)</i>
 - <u>Bashkiria (Regional Special):</u> The Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
-- <u>Bashkiria (Regional Special):</u> Sabantuy <i>(Сабантуй / Һабантуй)</i>
-- <u>Bashkiria (Regional Special):</u> The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
-- <u>Bashkiria (Regional Special):</u> The Quray <i>(Курай / Ҡурай)</i>
-- <u>Kabardino-Balkaria & Karachay-Cherkessia (Regional Special):</u> The Culture of Circassians <i>(Кабардинцы, Черкессы, Адыгейцы и Шапсуги / Адыгэ)</i>
+    - <u>Bashkiria (Regional Special):</u> Sabantuy <i>(Сабантуй / Һабантуй)</i>
+    - <u>Bashkiria (Regional Special):</u> The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
+    - <u>Bashkiria (Regional Special):</u> The Quray <i>(Курай / Ҡурай)</i>
 - <u>Kabardino-Balkaria & Karachay-Cherkessia (Regional Special):</u> The Culture of Balkars <i>(Балкары, Карачаевцы / Малкъарлыла)</i>
-- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
-- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Kiyiz <i>(Балкарский Войлок / Кийизы)</i>
-- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Bychak <i>(Бичак / Бычак)</i>
-- <u>Karachay-Cherkessia (Regional Special):</u> Authentic Principle: Circassian Xabze <i>(Адыгэ Хабзэ / Адыгэ Хабзэ)</i>
-- <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
-- <u>Karachay-Cherkessia (Regional Special):</u> Circassian Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
-- <u>Karachay-Cherkessia (Regional Special):</u> The Heritage of the Circassia <i>(Черкесия / Адыгэ Хэку)</i>
+    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
+    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Kiyiz <i>(Балкарский Войлок / Кийизы)</i>
+    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Bychak <i>(Бичак / Бычак)</i>
+- <u>Karachay-Cherkessia & Kabardino-Balkaria (Regional Special):</u> The Culture of Circassians <i>(Кабардинцы, Черкессы, Адыгейцы и Шапсуги / Адыгэ)</i>
+    - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Principle: Circassian Xabze <i>(Адыгэ Хабзэ / Адыгэ Хабзэ)</i>
+    - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
+    - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
+    - <u>Karachay-Cherkessia (Regional Special):</u> The Heritage of the Circassia <i>(Черкесия / Адыгэ Хэку)</i>
 - <u>North Ossetia (Regional Special):</u> The Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
-- <u>North Ossetia (Regional Special):</u> Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
-- <u>North Ossetia (Regional Special):</u> Ossetian Assianism <i>(Уасдин / Уацдин)</i>
-- <u>North Ossetia (Regional Special):</u> Ossetian Simd Dance <i>(Симд / Синд)</i>
-- <u>North Ossetia (Regional Special):</u> The Heritage of the Kingdom of Alania <i>(Алания / Аланья)</i>
+    - <u>North Ossetia (Regional Special):</u> Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
+    - <u>North Ossetia (Regional Special):</u> Ossetian Assianism <i>(Уасдин / Уацдин)</i>
+    - <u>North Ossetia (Regional Special):</u> Ossetian Simd Dance <i>(Симд / Синд)</i>
+    - <u>North Ossetia (Regional Special):</u> The Heritage of the Kingdom of Alania <i>(Алания / Аланья)</i>
 - <u>Leningrad (Regional Special):</u> The Culture of Izhorians <i>(Ижоры / Ižorat)</i>
 - <u>Orenburzhie (Regional Special):</u> The Culture of the Orenburg Cossacks <i>(Оренбургские Казаки)</i>
 - <u>Orenburzhie (Regional Special):</u> Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i>

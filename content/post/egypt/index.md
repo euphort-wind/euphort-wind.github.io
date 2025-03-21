@@ -73,7 +73,7 @@ Hej! I share an extract of my experience of visiting authentic Egypt. I was ther
 - Authentic Garb: Galabiya <i>(جالبيا)</i>
 - The Culture of Copts <i>(أقباط / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>
 - The Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
-- Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
+  - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
   - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
   - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
   - Ancient Egyptian Sarcophaguses & Mummies <i>(التوابيت المصرية القديمة)</i>

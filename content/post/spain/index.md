@@ -87,9 +87,9 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 - The Legacy of Iberians <i>(Iberos / Ἴβηρες)</i> 
 - The Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - <u>Catalonia (Regional Special):</u> The Culture of Catalans <i>(Catalanes / Catalans)</i>
-- <u>Catalonia (Regional Special):</u> Authentic Principle: Seny <i>(Seny / Seny)</i>
-- <u>Catalonia (Regional Special):</u> Catalan Rumba <i>(Rumba Catalana / Rumba Catalana)</i>
-- <u>Catalonia (Regional Special):</u> Catalan Human Tower <i>(Castell / Castell)</i>
+  - <u>Catalonia (Regional Special):</u> Authentic Principle: Seny <i>(Seny / Seny)</i>
+  - <u>Catalonia (Regional Special):</u> Catalan Rumba <i>(Rumba Catalana / Rumba Catalana)</i>
+  - <u>Catalonia (Regional Special):</u> Catalan Human Tower <i>(Castell / Castell)</i>
 
 
 <b>💐 National flower: </b> Red Carnation <i>(Clavel Rojo)</i>

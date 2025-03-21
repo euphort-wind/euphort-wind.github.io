@@ -98,6 +98,7 @@ Hej! I share an extract of my experience of visiting invincible Poland. I was th
 - <u>Pomeranian (Regional Special):</u> The Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
 - <u>Pomeranian (Regional Special):</u> The Legacy of Prussians <i>(Prusacy / Prūsai)</i>
 
+
 <b>💐 National flower: </b> Red Poppy <i>(Mak Polny)</i>
 
 

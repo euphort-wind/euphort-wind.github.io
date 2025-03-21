@@ -90,12 +90,12 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 - The Meander <i>(Μαίανδρος)</i>
 - The Evil Eye <i>(Κακό Μάτι)</i>
 - The Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
-- Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
-- Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
-- Ancient Greek Philosophy <i>(Αρχαία Ελληνική Φιλοσοφία)</i>
-- Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>
-- Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
-- Authentic Ancient Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύς)</i>
+  - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
+  - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
+  - Ancient Greek Philosophy <i>(Αρχαία Ελληνική Φιλοσοφία)</i>
+  - Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>
+  - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
+  - Authentic Ancient Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύς)</i>
 - <u>Crete (Regional Special):</u> Cretan Lyra <i>(Κρητική λύρα)</i>
 - <u>Crete (Regional Special):</u> Cretan Garb: Stivania & Sariki <i>(Στιβάνια & Σαρίκη)</i>
 - <u>South Aegean (Regional Special):</u> Colossus of Rhodes <i>(ὁ Κολοσσὸς Ῥόδιος)</i>

@@ -308,8 +308,8 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - The Hambo Dance <i>(Hambo)</i>
 - Authentic Garb: Klädedräkten <i>(Klädedräkten)</i>
 - <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar / Gutar)</i>
-- <u>Gotland (Regional Special):</u> The Guta Saga <i>(Gutasagan / Gutasaga)</i>
-- <u>Gotland (Regional Special):</u> Visby Medieval Architecture <i>(Visby Medeltidsarkitektur / Häus u Häusar)</i>
+    - <u>Gotland (Regional Special):</u> The Guta Saga <i>(Gutasagan / Gutasaga)</i>
+    - <u>Gotland (Regional Special):</u> Visby Medieval Architecture <i>(Visby Medeltidsarkitektur / Häus u Häusar)</i>
 - <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
 - <u>Halland (Regional Special):</u> Bonad Painting <i>(Bonadsmålning)</i>
 

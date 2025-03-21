@@ -95,10 +95,10 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 - Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
 - Indian Cars <i>(Brand: "Mahindra")</i>
 - <u>Karnataka (Regional Special):</u> The Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
-- <u>Karnataka (Regional Special):</u> Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
-- <u>Karnataka (Regional Special):</u> Dasa Sahitya <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
+  - <u>Karnataka (Regional Special):</u> Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
+  - <u>Karnataka (Regional Special):</u> Dasa Sahitya <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
 - <u>Goa (Regional Special):</u> The Culture of Goans <i>(गोवा / गोंयकार)</i>
-- <u>Goa (Regional Special):</u> Goa Carnivals <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>
+  - <u>Goa (Regional Special):</u> Goa Carnivals <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>
 
 
 <b>💐 National flower: </b> Indian Lotus <i>(कमल)</i>

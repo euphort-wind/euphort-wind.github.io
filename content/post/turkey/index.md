@@ -122,8 +122,8 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
 - The Halay Dance <i>(Halay)</i>
 - The Bağlama <i>(Bağlama)</i>
 - Turkish Television Drama <i>(Türk Dizileri)</i>
-- Authentic Garb: Shalvar and Yelek <i>(Şalvar ve Yelek)</i>
 - The Meddahs <i>(Meddah)</i>
+- Authentic Garb: Shalvar and Yelek <i>(Şalvar ve Yelek)</i>
 - The Heritage of the Byzantine Empire <i>(Bizans İmparatorluğu / Imperium Romanum Orientale)</i>
 - The Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i>
 - <u>İstanbul (Regional Special):</u> Eastern Orthodoxy <i>(Ortodoks Kilisesi)</i>
