@@ -75,11 +75,11 @@ Hej! I share an extract of my experience of visiting marvelous Denmark. I was th
 
 
 <b>🎬 Local movies:</b>
-- The Hunt <i>(Jagten)</i>. Year: 2012. Genre: drama / criminal
-- Another Round <i>(Druk)</i>. Year: 2020. Genre: drama / comedy
-- Riders of Justice <i>(Retfærdighedens Ryttere)</i>. Year: 2020. Genre: action / comedy
-- Dogville <i>(Dogville)</i>. Year: 2003. Genre: crime / thriller
-- The Keeper of Lost Causes <i>(Kvinden i Buret)</i>. Year: 2013. Genre: crime / thriller
+- The Hunt <i>(Jagten)</i>. Year: 2012. Genre: drama 
+- Another Round <i>(Druk)</i>. Year: 2020. Genre: drama 
+- Riders of Justice <i>(Retfærdighedens Ryttere)</i>. Year: 2020. Genre: action 
+- Dogville <i>(Dogville)</i>. Year: 2003. Genre: thriller
+- The Keeper of Lost Causes <i>(Kvinden i Buret)</i>. Year: 2013. Genre: thriller
 <br>
 
 
