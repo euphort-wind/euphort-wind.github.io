@@ -284,7 +284,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - <u>Västerbotten (Regional Special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
 - <u>Gotland (Regional Special):</u> Gotland Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
 - <u>Gotland (Regional Special):</u> Gotland Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
-- <u>Västra Götaland (Regional Special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Hel Special / Halv Special)</i>
+- <u>Västra Götaland (Regional Special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Halv Special)</i>
 - <u>Halland (Regional Special):</u> Långkål <i>(Långkål)</i>
 
 <b>🎬 Local movies:</b>
@@ -315,6 +315,11 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 
 
 <b>💐 National flower: </b> Harebell <i>(Liten Blåklocka)</i>
+- <u>Västra Götaland (Regional Special):</u> Common Heather <i>(Ljung)</i>
+- <u>Gotland (Regional Special):</u> European Ivy <i>(Murgröna)</i>
+- <u>Halland (Regional Special):</u> Hairy Greenweed <i>(Hårginst)</i>
+- <u>Jämtland (Regional Special):</u> Black Vanilla Orchid <i>(Brunkulla)</i>
+- <u>Värmland (Regional Special):</u> Arctic Starflower <i>(Skogsstjärna)</i>
 
 
 <b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece" / "<i>Den som gapar över mycket mister ofta hela stycket</i>" — Swedish proverb

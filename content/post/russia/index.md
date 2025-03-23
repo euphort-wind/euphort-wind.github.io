@@ -279,6 +279,11 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 
 
 <b>💐 National flower: </b> Chamomile <i>(Ромашка Обыкновенная)</i>
+- <u>Bashkiria (Regional Special):</u> Pleurospermum Uralense <i>(Реброплодник Уральский / Ҡурай Сәскәһе)</i>
+- <u>Karachay-Cherkessia (Regional Special):</u> Caucasian Rhododendron <i>(Рододендрон Кавказский)</i>
+- <u>North Ossetia (Regional Special):</u> Military Orchid <i>(Ятрышник / Æнæзæнæджыхос)</i>
+- <u>Orenburzhie (Regional Special):</u> Tulipa Schrenkii <i>(Тюльпан Шренка)</i>
+
 
 
 <b>🦉 Local wisdom:</b> "The only thing better than mountains are mountains that you have never been to before" / "<i>Лучше гор могут быть только горы, на которых ещё не бывал</i>" — Vladimir Vysotsky (Soviet singer-songwriter and poet)

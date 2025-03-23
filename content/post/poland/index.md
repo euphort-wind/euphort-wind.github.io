@@ -100,7 +100,7 @@ Hej! I share an extract of my experience of visiting invincible Poland. I was th
 
 
 <b>💐 National flower: </b> Red Poppy <i>(Mak Polny)</i>
-
+- <u>Pomeranian (Regional Special):</u> Kashubian Vetch <i>(Wyka Kaszubska / Kaszëbskô Wika)</i>
 
 <b>🦉 Local wisdom:</b> "The turkey had a plan for Sunday, but it was eaten on Saturday" / "<i>Indyk myślał o niedzieli, a w sobotę łeb mu ścięli</i>" — Polish proverb
 

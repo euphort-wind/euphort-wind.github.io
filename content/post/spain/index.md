@@ -93,6 +93,7 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 
 
 <b>💐 National flower: </b> Red Carnation <i>(Clavel Rojo)</i>
+- <u>Catalonia (Regional Special):</u> Weaver's Broom <i>(Retama / Ginesta)</i>
 
 
 <b>🦉 Local wisdom:</b> "Distance is to love what the wind is to a fire: it extinguishes the small things, but fuels the large ones" / <i>"La distancia es al amor lo que el viento al fuego: apaga el pequeño, pero aviva el grande"</i> — "Mar de fuego", Chufo Lloréns

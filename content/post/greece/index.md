@@ -102,6 +102,7 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 
 
 <b>💐 National flower: </b> Bear's Breech <i>(Άκανθος)</i>
+- <u>Crete (Regional Special):</u> Cretan Dittany <i>(Έρωντας)</i>
 
 
 <b>🦉 Local wisdom:</b> "The one who lives will see, but the one who walks will see more" / "<i>Όποιος ζήσει θα ιδεί, μα όποιος περπατήσει θα ιδεί περισσότερα</i>" — Greek proverb

@@ -102,6 +102,8 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 
 
 <b>💐 National flower: </b> Indian Lotus <i>(कमल)</i>
+- <u>Goa (Regional Special):</u> Red Jasmine <i>(रेड जास्मिन  / चमेली)</i>
+- <u>Karnataka (Regional Special):</u> Indian Lotus <i>(कमल / ಕಮಲ)</i>
 
 
 <b>🦉 Local wisdom:</b> "It is health which is our true wealth, the value of gold and silver is nothing in comparison to it" / "<i>यह स्वास्थय ही है जो हमारा सही धन है, सोने और चांदी का मूल्य इसके सामने कुछ नहीं।</i>" — Mahatma Gandhi (Indian independence activist)
