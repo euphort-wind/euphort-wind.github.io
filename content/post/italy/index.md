@@ -152,6 +152,9 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 
 
 <b>💐 National flower: </b> Flower of the Strawberry Tree <i>(Fiore del Corbezzolo)</i>
+- <u>Tuscany (Regional Special):</u> Sunflower <i>(Girasole)</i>
+- <u>Emilia-Romagna (Regional Special):</u> Cowslip <i>(Primula Appenninica)</i>
+- <u>Lazio (Regional Special):</u> Storax Flower <i>(Fiore di Storace)</i>
 
 
 <b>🦉 Local wisdom:</b> "He who leaves the old path for the new knows what he leaves, and does not know what he finds"  / "<i>Chi lascia la via vecchia per la nuova, sa quel che lascia, e non sa quel che trova</i>" — Italian proverb
