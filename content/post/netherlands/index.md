@@ -98,7 +98,7 @@ Hej! I share an extract of my experience of visiting vibrant Netherlands. I was 
 
 
 <b>🥘 Local food & drinks: </b>
-- Dutch Cheese <i>(Gouda, Edammer, Maasdamer, Emmentaler, etc. )</i>
+- Dutch Cheese <i>(Gouda, Edammer, Maasdamer, Emmentaler, etc.)</i>
 - Bitterballen <i>(Bitterballen)</i>
 - Stroopwafel <i>(Stroopwafel)</i>
 - Soused Herring <i>(Hollandse Nieuwe)</i>
@@ -127,7 +127,7 @@ Hej! I share an extract of my experience of visiting vibrant Netherlands. I was 
 - Delftware <i>(Delfts Blauw)</i>
 - Authentic Garb: Dutch Bonnet & Klomps <i>(Nederlandse Bonnet & Klompen)</i>
 - The Culture of Frisians <i>(Friezen / Fräisen)</i>
-- The Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>]
+- The Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
   - Dutch Golden Age Paintings <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
   - Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i>
  
@@ -136,7 +136,7 @@ Hej! I share an extract of my experience of visiting vibrant Netherlands. I was 
 <b>💐 National flower: </b> [historically] Tulip <i>(Tulp)</i> & [officially] Daisy <i>(Madeliefje)</i>
 
 
-<b>🦉 Local wisdom:</b> "Gooi nooit oude schoenen weg voordat je nieuwe hebt" / "<i> Don't throw away your old shoes until you have got new ones</i>" — Dutch proverb
+<b>🦉 Local wisdom:</b> "Gooi nooit oude schoenen weg voordat je nieuwe hebt" / "<i>Don't throw away your old shoes until you have got new ones</i>" — Dutch proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Leiden University <i>(Universiteit Leiden)</i>, Leiden, est. 1575.  
