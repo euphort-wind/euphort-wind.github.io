@@ -80,8 +80,7 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 
 <b>🎬 Local movies:</b>
 - What is it? <i>(Τι Eίναι Αυτό?)</i>. Year: 2007. Genre: short / drama
-- My Big Fat Greek Wedding. Year: 2002. Genre: comedy
-<br>
+- My Big Fat Greek Wedding <i>(My Big Fat Greek Wedding)</i>. Year: 2002. Genre: comedy
 
 
 <b>🪔 Authentic artifacts:</b>
