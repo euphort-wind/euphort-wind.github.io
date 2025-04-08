@@ -121,6 +121,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_start: '2025-03-31'
+          icon: sac
+          organization: Speaker, ACM SAC (Applied Computing), Catania
+          organization_url: https://www.sigapp.org/sac/sac2025/ 
+          title:  SIGAPP SAC Conference 2025
         - date_start: '2024-04-15'
           icon: cain
           organization: Speaker, IEEE/ACM CAIN (AI Engineering), Lisbon
