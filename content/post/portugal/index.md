@@ -92,6 +92,7 @@ Hej! I share an extract of my experience of visiting bright and contrasty Portug
 
 
 <b>🪔 Authentic artifacts:</b>
+- Authentic Principle: Saudade <i>(Saudade)</i>
 - The Fado Music <i>(Fado)</i>
 - Portuguese Guitar <i>(Guitarra Portuguesa)</i>
 - Portuguese Architecture <i>(A Arquitetura Portuguesa)</i> 
