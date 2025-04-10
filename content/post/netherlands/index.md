@@ -90,7 +90,7 @@ Hej! I share an extract of my experience of visiting vibrant Netherlands. I was 
 - Gabber. Originated: early 1990s
 - Hardstyle. Originated: late 1990s
 - Uplifting Trance. Originated: mid-1990s
-- Dutch house. Originated: late 2000s
+- Dutch House. Originated: late 2000s
 - Dubstyle. Originated: late 2000s
 - Big Room. Originated: late 2000s
 - Jungle Terror. Originated: early 2010s
