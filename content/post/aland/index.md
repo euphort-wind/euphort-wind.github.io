@@ -47,16 +47,16 @@ Hej! I share an extract of my experience of visiting the beautiful Ålands. I wa
 
 
 <b>🎧 Local musicians: </b>
-- 🇦🇽 Åland Islands Anthem <i>(Ålänningens sång)</i>. Genre: folk 
+- 🇦🇽 Ålänningens Sång <i>(anthem)</i>. Genre: folk 
 - 🇺🇳 Julia Clara (singer). Genre: pop
 - 🇺🇳 Henrik Klingenberg (keytarist). Genre: metal
 
 
 <b>🥘Local food & drinks: </b>
-- Åland Pancake with Cream and Plum Jam <i>(Åländsk Pannkaka)</i>
-- "Buried Whitefish" <i>(Gravad Sik)</i>
-- Åland Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
-- Åland Beer <i>(Brand: "Stallhagen")</i>
+- Ålandic Pancake with Cream and Plum Jam <i>(Åländsk Pannkaka)</i>
+- "Buried" Whitefish <i>(Gravad Sik)</i>
+- Ålandic Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
+- Ålandic Beer <i>(Brand: "Stallhagen")</i>
 
 
 <b>🎬 Local movies:</b>
@@ -64,7 +64,8 @@ Hej! I share an extract of my experience of visiting the beautiful Ålands. I wa
 
 
 <b>🪔 Authentic artifacts:</b>
-- Åland Shipping <i>(Ålands Sjöfart)</i>
+- Ålandic Cargo Shipping <i>(Ålands Sjöfart)</i>
+- Ålandic Ship Building <i>(Åländsk Skeppsbyggnad)</i>
 - The Lilla Jul <i>(Lilla Jul)</i>
 
 
