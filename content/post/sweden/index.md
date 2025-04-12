@@ -264,15 +264,15 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 
 <b>🥘 Local food & drinks: </b>
 - Swedish Meatballs with Mashed Potatoes, Lingonberry Jam and Cream Sauce <i>(Köttbullar)</i>
-- Fermented Herring <i>(Surströmming)</i>
+- Surströmming <i>(Surströmming)</i>
 - Crispbread <i>(Knäckebröd)</i>
 - Pyttipanna <i>(Pytt-i-Panna)</i>
-- Potato Pancakes with Bacon and Lingonberry Sauce <i>(Raggmunk)</i>
+- Raggmunk with Bacon and Lingonberry Sauce <i>(Raggmunk)</i>
 - Toast Skagen <i>(Toast Skagen)</i>
 - Cinnamon Buns <i>(Kanelbullar)</i>
 - Princess Cake <i>(Prinsesstårta)</i>
 - Saffron Buns <i>(Lussekatter)</i>
-- Swedish Chocolate Cake <i>(Kladdkaka)</i>
+- Kladdkaka <i>(Kladdkaka)</i>
 - Jansson's Temptation <i>(Janssons Frestelse)</i>
 - Flying Jacob <i>(Flygande Jacob)</i>
 - Boiled Egg with Caviar <i>(Ägg med Kaviar)</i> 
@@ -282,8 +282,8 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Rostat Bröd med Kantareller)</i>
 - <u>Västernorrland (Regional Special):</u> Venison with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 
 - <u>Västerbotten (Regional Special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
-- <u>Gotland (Regional Special):</u> Gotland Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
-- <u>Gotland (Regional Special):</u> Gotland Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
+- <u>Gotland (Regional Special):</u> Gotlandic Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
+- <u>Gotland (Regional Special):</u> Gotlandic Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
 - <u>Västra Götaland (Regional Special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Halv Special)</i>
 - <u>Halland (Regional Special):</u> Långkål <i>(Långkål)</i>
 
@@ -300,7 +300,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 
 <b>🪔 Authentic artifacts:</b>
 - Authentic Principle: Lagom <i>(Lagom)</i>
-- Swedish Coffee Break <i>(Fika)</i>
+- Swedish Fika <i>(Fika)</i>
 - The Crayfish Party <i>(Kräftskiva)</i>
 - Midsummer Celebration <i>(Midsommar)</i>
 - St. Lucy's Day <i>(Lucia)</i>
