@@ -106,7 +106,6 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 - 🇮🇹 Giusy Ferreri (singer). Genre: pop
 - 🇮🇹 Mario Biondi (singer). Genre: R&B
 - 🇮🇹 Carmen Consoli (singer). Genre: pop
-- 🇮🇹 Tacabro (band). Genre: house
 - 🇺🇳 Effel 65 (band). Genre: eurodance
 - 🇺🇳 Giuseppe Ottaviani (DJ). Genre: trance
 - 🇺🇳 Benny Benassi (DJ). Genre: electro house
