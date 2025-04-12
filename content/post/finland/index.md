@@ -84,7 +84,7 @@ Hej! I share an extract of my experience of visiting stately Finland. I was ther
 - Finnish Sauna <i>(Saunakulttuuri)</i>
 - Shrove Sunday <i>(Laskiainen)</i>
 - The Fictional World of Moomins <i>(Muumi)</i>
-- Authentic Garb: Kansallispuku <i>(Kansallispuku)</i>
+- Authentic Garb: Kansallispuku <i>(Suomalainen Sansallispuku)</i>
 - The Culture of Sami <i>(Saamelaiset / Sámit)</i>
 
 
