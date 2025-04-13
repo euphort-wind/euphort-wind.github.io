@@ -73,7 +73,7 @@ Hej! I share an extract of my experience of visiting graceful Greece. I was ther
 - Gyros <i>(Γύρος)</i>
 - Tzatziki <i>(Tζατζίκ)</i>
 - Avgolemono Soup <i>(Αυγολέμονο)</i>
-- Frappé Coffee <i>(Фραπέ)</i>
+- Frappé <i>(Фραπέ)</i>
 - Greek Liqueur <i>(Brand: "Metaxa")</i> 
 - <u>Crete (Regional Special):</u> Cretan “Turban” Pies <i>(Σαρικό Πίτες)</i>
 

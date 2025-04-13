@@ -225,8 +225,12 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - <u>Bashkiria (Regional Special):</u> Bashkir Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
 - <u>Bashkiria (Regional Special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
-- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Libzhe <i>(Либжа / Либжэ)</i>
-- <u>Karachay-Cherkessia (Regional Special):</u> Karachay Hychin <i>(Хычин / Хычын)</i>
+- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Khychin <i>(Хычин / Хычин)</i>
+    - Khychin with Meat <i>(Хычин c Мясом / Эт Хычин)</i>
+    - Khychin with Cheese & Potatoes <i>(Хычин c Сыром и Картошкой / Гардош Хычин)</i> 
+    - Khychin with Beet Leaves <i>(Хычин c Листьями Свёклы / Чюгюндюр Хычин)</i> 
+- <u>Karachay-Cherkessia (Regional Special):</u> Circassian Libzhe <i>(Либжа / Либжэ)</i>
+- <u>Karachay-Cherkessia (Regional Special):</u> Circassian Lyagur <i>(Лягур / Лягур)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Dzykka <i>(Дзыкка / Дзыкка)</i>

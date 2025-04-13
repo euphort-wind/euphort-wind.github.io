@@ -61,12 +61,14 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 
 
 <b>🥘 Local food & drinks: </b>
+- Tapas-Style Snacks <i>(Tapas)</i>
+  - Jamon Serrano <i>(Jamón Serrano)</i>
+  - Jamon Ibérico <i>(Jamón Ibérico)</i>
+  - Chorizo <i>(Chorizo)</i>
+  - Salchichon <i>(Salchichón)</i>
 - Paella <i>(Paella)</i>
 - Spanish Omelette <i>(Tortilla)</i>
-- Jamon <i>(Jamon)</i>
 - Churro <i>(Churro)</i>
-- Tapas-Style Snacks <i>(Tapas)</i>
-- Chorizo <i>(Chorizo)</i>
 - <u>Catalonia (Regional Special):</u> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
 
 

@@ -64,10 +64,10 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 
 
 <b>🥘 Local food & drinks: </b>
-- Curry <i>(करी)</i>
-- Butter Chicken <i>(बटर चिकन)</i>
+- Indian Curry <i>(करी)</i>
+  - Butter Chicken <i>(बटर चिकन)</i>
+  - Lamb Korma <i>(मेमने कोरमा)</i>
 - Mukhwas <i>(मुखवास)</i>
-- Lamb Korma <i>(मेमने कोरमा)</i>
 - Indian Buffalo Steak <i>(भारतीय भैंस स्टेक)</i>
 - Naan <i>(नान)</i>
 - Tandoori Chicken <i>(तंदुरी चिकन)</i>

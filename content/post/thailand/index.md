@@ -55,7 +55,9 @@ Hej! I share an extract of my experience of visiting bright Thailand. I was ther
 - Thai Seafood Fried Rice <i>(ข้าวผัด)</i>
 - Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
 - Thai Rum <i>(Brand: "Sang Som")</i>
-- <u>Phuket (Regional Special)</u>: Seafood Barbeque on Sticks <i>(บาร์บีคิวทะเล)</i>
+- <u>Phuket (Regional Special)</u>: Grilled Seafood on Skewers <i>(บาร์บีคิวทะเล)</i>
+  - Grilled Shrimps on Skewers <i>(กุ้งย่างเสียบไม้)</i>
+  - Grilled Clams on Skewers <i>(หอยย่างเสียบไม้)</i>
 
 <b>🎬 Local movies:</b>
 -  Thirteen Lives <i>(สิบสามชีวิต)</i>. Year: 2022. Genre: action / drama
