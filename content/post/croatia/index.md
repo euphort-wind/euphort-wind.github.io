@@ -69,9 +69,10 @@ Hej! I share an extract of my experience of visiting enchanting Croatia. I was t
 - Pašticada <i>(Pašticada)</i>
 - Kroštule <i>(Kroštule)</i>
 - Maraskino <i>(Brand: "Perković")</i>
+- Travarica <i>(Brand: "Velebit")</i>
 - <u>Zagreb (Regional Special):</u> Štrukli <i>(Štrukli)</i>
 - <u>Zadar (Regional Special):</u> Buzara-Style Shrimps <i>(Škampi Na Buzaru)</i>
-- <u>Zadar (Regional Special):</u> Travarica <i>(Brand: "Velebit")</i>
+
 
 <b>🎬 Local movies:</b>
 - The Constitution <i>(Ustav Republike Hrvatske)</i>. Year: 2016. Genre: drama
