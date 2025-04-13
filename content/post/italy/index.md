@@ -133,11 +133,34 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 
 
 <b>🥘 Local food & drinks: </b>
-- Italian Lunch Meats <i>(Carpaccio, Bresaola, Mortadella, Prosciutto, Salami, etc.)</i>
-- Italian Cheese <i>(Parmigiano Reggiano, Mozzarella, Ricotta, Burrata, Mascarpone etc.)</i>
-- Pasta <i>(Farfalle, Spaghetti, Fettuccine, Fusilli etc.)</i>
-- Pizza <i>(Quattro Formaggi, Margherita, Capricciosa, etc.)</i>
-- Italian Coffee Drinks <i>(Cappucino, Latte, etc.)</i>
+- Italian Lunch Meats <i>(Salumi Italiani)</i>
+  - Carpaccio <i>(Carpaccio)</i>
+  - Bresaola <i>(Bresaola)</i> 
+  - Mortadella <i>(Mortadella)</i> 
+  - Prosciutto <i>(Prosciutto Crudo)</i> 
+  - Salami <i>(Salamini Italiani alla Cacciatora)</i> 
+- Italian Cheese <i>(Formaggio Italiano)</i>
+  - Parmesan <i>(Parmigiano Reggiano)</i>
+  - Mozzarella <i>(Mozzarella)</i>
+  - Gorgonzola <i>(Gorgonzola)</i>
+  - Ricotta <i>(Ricotta)</i>
+  - Burrata <i>(Burrata)</i>
+  - Mascarpone <i>(Mascarpone)</i>
+- Pasta <i>(Pasta)</i>
+  - Farfalle <i>(Farfalle)</i>
+  - Tagliatelle <i>(Tagliatelle)</i>
+  - Spaghetti <i>(Spaghetti)</i>
+  - Fettuccine <i>(Fettuccine)</i> 
+  - Fusilli <i>(Fusilli)</i> 
+- Pizza <i>(Pizza)</i>
+  - Quattro Formaggi <i>(Quattro Formaggi)</i>
+  - Margherita <i>(Margherita)</i>
+  - Capricciosa <i>(Capricciosa)</i>
+  - Quattro Stagioni <i>(Quattro Stagioni)</i>
+- Italian Coffee Drinks <i>(Caffè Italiano)</i> 
+  - Cappucino <i>(Cappucino)</i>
+  - Latte <i>(Caffè e Latte)</i>
+  - Macchiato <i>(Caffè Macchiato)</i> 
 - Bruschetta <i>(Bruschetta)</i>
 - Panini <i>(Panino)</i>
 - Risotto <i>(Risotto)</i>
@@ -155,10 +178,13 @@ Hej! I share an extract of my experience of visiting magical Italy. I was there 
 - <u>Emilia-Romagna (Regional Special):</u> Lasagna <i>(Lasagna)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Torta di Riso <i>(Torta di Riso)</i>
 - <u>Tuscany (Regional Special):</u> Florentine Steak <i>(Bistecca alla Fiorentina)</i>
-- <u>Sicily (Regional Special):</u> Arancini <i>(Arancini al Pistacchio, al Ragu, al Burro, alla Norma)</i>
+- <u>Sicily (Regional Special):</u> Arancini <i>(Arancini / Arancini)</i>
+  - Arancini with Pistachio <i>(Arancini al Pistacchio / Arancini ô Pistacchiu)</i>
+  - Arancini with Ragu <i>(Arancini al Ragù / Arancini cu Ragu)</i> 
+  - Arancini with Mozzarella and Ham <i>(Arancini al Burro / Arancini cu Burru)</i>  
+  - Arancini with Eggplant <i>(Arancini alla Norma / Arancini â Norma)</i>  
 - <u>Sicily (Regional Special):</u> Caponata <i>(Caponata / Capunata)</i>
 - <u>Sicily (Regional Special):</u> Parmigiana <i>(Parmigiana / Parmigiana)</i>
-- <u>Sicily (Regional Special):</u> Sicilian Pizza <i>(Pizza Siciliana / Pizza Siciliana)</i>
 - <u>Sicily (Regional Special):</u> Pasta con le Sarde <i>(Pasta con le Sarde / Pasta chî Sardi)</i>
 - <u>Sicily (Regional Special):</u> Pasta alla Norma <i>(Pasta alla Norma / Pasta â Norma)</i>
 - <u>Sicily (Regional Special):</u> Panella <i>(Panella / Panella)</i>

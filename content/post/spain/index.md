@@ -65,7 +65,7 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 - Spanish Omelette <i>(Tortilla)</i>
 - Jamon <i>(Jamon)</i>
 - Churro <i>(Churro)</i>
-- Tapas-Style Cheese <i>(Tapas)</i>
+- Tapas-Style Snacks <i>(Tapas)</i>
 - Chorizo <i>(Chorizo)</i>
 - <u>Catalonia (Regional Special):</u> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
 

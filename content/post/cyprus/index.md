@@ -60,7 +60,11 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
 
 <b>🥘 Local food & drinks: </b>
 - Halloumi Cheese <i>(Τυρί Χαλούμι)</i>
-- Souvlaki-Style Chicken <i>(Σουβλάκι)</i>
+- Souvlaki-Style Meats <i>(Σουβλάκι)</i>
+  - Souvlaki-Style Chicken <i>(Σουβλάκι Κοτόπουλο)</i>
+  - Souvlaki-Style Pork <i>(Σουβλάκι Χοιρινό)</i>
+  - Souvlaki-Style Lamb <i>(Σουβλάκι Αρνί)</i>
+  - Souvlaki-Style Beef <i>(Σουβλάκι Μοσχάρι)</i>
 - Cyprus Village Salad <i>(Κύπρος Χωριάτικη Σαλάτα)</i>
 - Zivania <i>(Brand: "Zivania LOEL")</i>
 

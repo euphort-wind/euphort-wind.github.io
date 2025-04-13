@@ -214,14 +214,18 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Tyurya <i>(Тюря)</i> 
 - Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
 - Russian Dumplings <i>(Пельмени)</i>
+    - Dumplings with Meat <i>(Пельмени c Мясом)</i>
+    - Dumplings with Tvorog <i>(Варенники с Творогом)</i>
+    - Dumplings with Mashed Potatoes <i>(Варенники с Картошкой)</i>
+    - Dumplings with Cabbage <i>(Варенники с Капустой)</i>
 - Coulibiac <i>(Кулебяка)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
-- Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya" etc.)</i> 
+- Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya", etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
 - <u>Bashkiria (Regional Special):</u> Bashkir Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
 - <u>Bashkiria (Regional Special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
-- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Libzhe <i>(Либжа / Либжэ)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
+- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Libzhe <i>(Либжа / Либжэ)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Karachay Hychin <i>(Хычин / Хычын)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>

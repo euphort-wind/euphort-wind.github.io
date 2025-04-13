@@ -82,12 +82,15 @@ Hej! I share an extract of my experience of visiting inviting Malta. I was there
 
 
 <b>🥘 Local food & drinks: </b>
-- Pastizzi <i>(Pastizzi tal-Ħaxu, tal-Piżelli, etc.)</i>
+- Ġbejna Cheese <i>(Ġbejna Friski)</i>
+- Pastizzi <i>(Pastizzi)</i>
+  - Pastizzi with Curried Peas <i>(Pastizzi tal-Piżelli)</i> 
+  - Pastizzi with Ricotta <i>(Pastizzi tal-Ħaxu)</i> 
+  - Pastizzi with Chicken <i>(Pastizzi tat-Tigieg)</i> 
 - Ftira <i>(Ftira)</i>
 - Aljotta <i>(Aljotta)</i>
 - Maltese Rabbit Stew <i>(Stuffat tal-Fenek)</i>
 - Braġjoli <i>(Braġjoli)</i>
-- Maltese Cheese <i>(Ġbejna Friski)</i>
 - Imqaret <i>(Imqaret)</i>
 - Figolla <i>(Figolla)</i>
 - Maltese Bitterwseet Soda <i>(Brand: "Kinnie")</i>

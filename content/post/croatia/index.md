@@ -64,13 +64,16 @@ Hej! I share an extract of my experience of visiting enchanting Croatia. I was t
 - 🇺🇳 Lost Sky (singer). Genre: future bass
 
 <b>🥘 Local food & drinks: </b>
-- Black Risotto <i>(Crni Rižot)</i>
-- Skradinski Risotto <i>(Skradinski Rižot)</i>
+- Croatian Rižot <i>(Hrvatski Rižot)</i>
+  - Black Rižot <i>(Crni Rižot)</i>
+  - Skradinski Rižot <i>(Skradinski Rižot)</i>
 - Pašticada <i>(Pašticada)</i>
 - Kroštule <i>(Kroštule)</i>
 - Maraskino <i>(Brand: "Perković")</i>
 - Travarica <i>(Brand: "Velebit")</i>
 - <u>Zagreb (Regional Special):</u> Štrukli <i>(Štrukli)</i>
+  - Štrukli with Pumpkin Seeds <i>(Štrukli sa Bučinim Sjemenkama)</i>
+  - Štrukli with Blueberries <i>(Štrukli s Borovnicama)</i>
 - <u>Zadar (Regional Special):</u> Buzara-Style Shrimps <i>(Škampi Na Buzaru)</i>
 
 

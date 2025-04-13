@@ -67,8 +67,8 @@ Hej! I share an extract of my experience of visiting stately Finland. I was ther
 <b>🥘 Local food & drinks: </b>
 - Salmon Soup <i>(Lohikeitto)</i>
 - Fish Soup <i>(Kalakeitto)</i>
-- Karelian Pastry <i>(Karjalanpiirakka)</i>
 - Peas Soup <i>(Hernekeitto)</i>
+- Karelian Pastry <i>(Karjalanpiirakka)</i>
 - Christmas Pastry <i>(Joulutorttu)</i>
 - Lent Buns <i>(Laskiaispulla)</i>
 - Finnish Beer <i>(Brand: "Lapin Kulta")</i>

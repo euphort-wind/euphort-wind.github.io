@@ -72,8 +72,8 @@ Hej! I share an extract of my experience of visiting cozy Estonia. I was there i
 - Mulgikaspad <i>(Mulgi Kaspad)</i>
 - Estonian Blood Sausage <i>(Verivorst)</i>
 - Hiumaa Aspic <i>(Hiiumaa Sült)</i>
-- Estonian Pies <i>(Pirukas)</i>
-- Spotted Dog Cake <i>(Kirju Koer)</i>
+- Pirukas <i>(Pirukas)</i>
+- Kirju Koer <i>(Kirju Koer)</i>
 - Estonian Pickled Eel <i>(Marineeritud Angerjas)</i>
 - <u>Harju (Regional Special):</u> Tallinn Marzipan <i>(Tallinna Martsipan)</i>
 - <u>Võru (Regional Special):</u> Seto Cold Soup <i>(Seto Külmsupp / Suulliim)</i>

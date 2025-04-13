@@ -72,9 +72,12 @@ Hej! I share an extract of my experience of visiting invincible Poland. I was th
 - 🇺🇳 Tom Swoon (DJ). Genre: progressive house
 
 <b>🥘 Local food & drinks: </b>
+- Pierogi <i>(Pierogi)</i>
+  - Pierogi with Beef <i>(Pierogi z Mięsem Wołowym)</i>
+  - Pierogi with Pork <i>(Pierogi z Mięsem Wieprzowym)</i>
+  - Pierogi with Duck <i>(pierogi z Mięsem Kaczki)</i>
 - Bigos <i>(Bigos)</i>
 - Żurek Soup <i>(Żurek)</i>
-- Pierogi <i>(Pierogi)</i>
 - Zapiekanka <i>(Zapiekanka)</i>
 - Kotlet Schabowy <i>(Kotlet Schabowy)</i>
 - Polish Cheesecake <i>(Sernik)</i> 

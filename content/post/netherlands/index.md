@@ -98,7 +98,10 @@ Hej! I share an extract of my experience of visiting vibrant Netherlands. I was 
 
 
 <b>🥘 Local food & drinks: </b>
-- Dutch Cheese <i>(Gouda, Edammer, Maasdamer, Emmentaler, etc.)</i>
+- Dutch Cheese <i>(Nederlandse Kaas)</i>
+  - Gouda <i>(Goudse Kaas)</i>
+  - Edam <i>(Edam)</i>
+  - Maasdam <i>(Maasdamer)</i> 
 - Bitterballen <i>(Bitterballen)</i>
 - Stroopwafel <i>(Stroopwafel)</i>
 - Soused Herring <i>(Hollandse Nieuwe)</i>

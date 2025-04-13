@@ -70,14 +70,14 @@ Hej! I share an extract of my experience of visiting bright and contrasty Portug
 - 🇵🇹 Ivandro (singer). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
+- Serra da Estrela Cheese <i>(Queijo Serra da Estrela)</i>
 - Caldo Verde Soup <i>(Caldo verde)</i>
 - Bifana Sandwich <i>(Bifana)</i>
-- Salt Cod Croquettes <i>(Pastéis de Bacalhau)</i>
+- Pastéis de Bacalhau <i>(Pastéis de Bacalhau)</i>
 - Grilled Sardines <i>(Sardinhas Assadas)</i>
 - Portuguese Stew <i>(Cozido)</i>
-- Cod with Double Cream <i>(Bacalhau com Natas)</i>
-- Serra da Estrela Cheese <i>(Queijo Serra da Estrela)</i>
-- Portuguese-style Octopus <i>(Polvo Grelhado)</i>
+- Bacalhau com Natas <i>(Bacalhau com Natas)</i>
+- Portuguese-Style Octopus <i>(Polvo Grelhado)</i>
 - Portuguese Pastry <i>(Pastel de Nata)</i>
 - Port Wine <i>(Brand: "Ferreira")</i>
 - Green Wine <i>(Brand: "Muralhas Vinho Verde")</i>

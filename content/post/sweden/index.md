@@ -277,7 +277,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Flying Jacob <i>(Flygande Jacob)</i>
 - Boiled Egg with Caviar <i>(Ägg med Kaviar)</i> 
 - Christmas & Easter Fuzzy Drinks <i>(Julmust och Påskmust)</i>
-- Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin" + Collections)</i>
+- Swedish Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
 - Blueberry Wine <i>(Brand: "Rålund")</i>
 - <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Rostat Bröd med Kantareller)</i>
 - <u>Västernorrland (Regional Special):</u> Venison with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 

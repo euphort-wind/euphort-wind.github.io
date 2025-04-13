@@ -64,7 +64,7 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 <b>🥘 Local food & drinks: </b>
 - Tochitura <i>(Tochitură)</i>
 - Sarmale <i>(Sarmale)</i>
-- Romanian Soups <i>(Ciorba)</i>
+- Romanian Soup <i>(Ciorba)</i>
 - Romanian Polenta <i>(Mămăligă)</i>
 
 <b>🎬 Local movies:</b>

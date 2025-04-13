@@ -68,8 +68,11 @@ Hej! I share an extract of my experience of visiting marvelous Denmark. I was th
 - Future Rave. Originated: late 2010s
 
 <b>🥘 Local food & drinks: </b>
-- Open-faced Sandwich <i>(Smørrebrød)</i>
-- Danish Fried Pork <i>(Stegt Flæsk)</i>
+- Smørrebrød <i>(Smørrebrød)</i>
+  - Smørrebrød with Roast Beef <i>(Smørrebrød med Roastbeef)</i>
+  - Smørrebrød with Salmon <i>(Smørrebrød med Laks)</i>
+  - Smørrebrød with Asparagus <i>(Smørrebrød med Asparges)</i>
+- Stegt Flæsk <i>(Stegt Flæsk)</i>
 - Danish Pastry <i>(Wienerbrød)</i>
 - Danish Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
 

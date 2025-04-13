@@ -96,8 +96,18 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
 
 <b>🥘 Local food & drinks: </b>
 - Döner Kebab <i>(Döner Kebab)</i>
-- Baklava <i>(Baklava) </i>
+- Baklava <i>(Baklava)</i>
+  - Pistachio Baklava <i>(Fıstıklı Baklava)</i>
+  - Walnut Baklava <i>(Cevizli Baklava)</i>
+  - Dry Baklava <i>(Kuru Baklava)</i>
+  - Sütlü Nuriye <i>(Sütlü Nuriye)</i>
 - Gözleme <i>(Gözleme)</i>
+  - Gözleme with Meat <i>(Etli Gözleme)</i>
+  - Gözleme with Cheese <i>(Peynirli Gözleme)</i>
+  - Gözleme with Sugar <i>(Şekerli Gözleme)</i>
+- Pide <i>(Pide)</i>
+  - Pide with Minced Beef <i>(Kıymalı Pide)</i>
+  - Pide with Cheese <i>(Peynirli Pide)</i>
 - Muhlama <i>(Mıhlama)</i>
 - Ashure <i>(Aşure)</i>
 - Kazandibi <i>(Kazandibi)</i>
@@ -105,7 +115,6 @@ Hej! I share an extract of my experience of visiting magnificent Türkiye. I was
 - Burek <i>(Börek)</i>
 - Turkish Ice-cream <i>(Dondurma)</i>
 - Turkish Tea <i>(Türk Çayı)</i>
-- Pide <i>(Pide)</i>
 - Turkish Turnip Water <i>(Şalgam Suyu)</i>
 - Turkish Raki <i>(Brand: "Yeni Raki")</i>
 - <u>İstanbul (Regional Special):</u> Balık Ekmek <i>(Balık Ekmek)</i>

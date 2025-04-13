@@ -74,7 +74,10 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 
 <b>🥘 Local food & drinks: </b>
 - Shopska Salad <i>(Шопска Салата)</i>
-- Banica Pie <i>(Баница)</i>
+- Banitsa Pie <i>(Баница)</i>
+  - Banitsa with Crushed White Cheese <i>(Баница със Сирене)</i>
+  - Banitsa with Apples <i>(Баница с Ябълки)</i>
+  - Banitsa with Spinach <i>(Баница със Спанак)</i>
 - Tarator Soup <i>(Таратор)</i>
 - Kebapche <i>(Кебапче)</i>
 - Kyufte <i>(Кюфте)</i>
