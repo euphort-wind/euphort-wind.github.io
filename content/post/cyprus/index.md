@@ -59,7 +59,7 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
 
 
 <b>🥘 Local food & drinks: </b>
-- Halloumi Cheese <i>(Τυρί χαλούμι)</i>
+- Halloumi Cheese <i>(Τυρί Χαλούμι)</i>
 - Souvlaki-Style Chicken <i>(Σουβλάκι)</i>
 - Cyprus Village Salad <i>(Κύπρος Χωριάτικη Σαλάτα)</i>
 - Zivania <i>(Brand: "Zivania LOEL")</i>
