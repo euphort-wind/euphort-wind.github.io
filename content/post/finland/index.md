@@ -64,7 +64,7 @@ Hej! I share an extract of my experience of visiting stately Finland. I was ther
 - Suomisaundi. Originated: mid-1990s
 
 
-<b>🥘 Local food & drinks: </b>'
+<b>🥘 Local food & drinks: </b>
 - Finnish Soups <i>(Suomalaiset Keitot)</i>
   - Salmon Chowder <i>(Lohikeitto)</i>
   - Finnish Fish Soup <i>(Kalakeitto)</i>
