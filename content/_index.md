@@ -121,6 +121,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_start: '2025-04-11'
+          icon: gaia2
+          organization: Participant, Artificial Intelligence Alliance, Gothenburg
+          organization_url: https://www.gaia.fish/
+          title:  GAIA Conference 2025
         - date_start: '2025-03-31'
           icon: sac
           organization: Speaker, ACM SAC (Applied Computing), Catania
