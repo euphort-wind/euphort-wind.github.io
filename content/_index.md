@@ -147,9 +147,9 @@ sections:
           organization_url: https://www.gaia.fish/
           title:  GAIA Conference 2024
         - date_start: '2023-10-30'
-          icon: chalmers
+          icon: siren
           organization: Speaker, Chalmers University, Gothenburg
-          organization_url: https://www.chalmers.se/en/departments/cse/our-research/interaction-design-and-software-engineering/requirements-engineering/
+          organization_url: https://sirensweden.github.io/#swedish-requirements-engineering-network 
           title:  SiREN Meeting 2023
         - date_start: '2023-07-01'
           icon: lurfu
