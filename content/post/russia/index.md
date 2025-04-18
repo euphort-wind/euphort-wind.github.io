@@ -219,6 +219,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - Dumplings with Mashed Potatoes <i>(Варенники с Картошкой)</i>
     - Dumplings with Cabbage <i>(Варенники с Капустой)</i>
 - Coulibiac <i>(Кулебяка)</i> 
+- Paskha <i>(Топлёное Молоко)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya", etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
