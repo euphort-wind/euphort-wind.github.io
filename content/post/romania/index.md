@@ -29,8 +29,8 @@ gallery_item:
     image: 6torch.jpg
     caption: Romanian Tochitură
 ---
-Hej! I share an extract of my experience of visiting fabulous Romania. I was there in the summer of 2023. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was there in the summer of 2023. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Bucharest, Sinaia, Bran. <br>
 
@@ -71,7 +71,7 @@ Hej! I share an extract of my experience of visiting fabulous Romania. I was the
 - The Death of Mr. Lazarescu <i>(Moartea Domnului Lăzărescu)</i>. Year: 2005. Genre: drama / tragedy
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Romanian Hora Dance <i>(Hora)</i>
 - The Doina <i>(Doina)</i>
 - The Paparuda Ritual <i>(Păpăluga)</i> 

@@ -30,8 +30,8 @@ gallery_item:
     caption: Estonian mulgipuder
 
 ---
-Hej! I share an extract of my experience of visiting cozy Estonia. I was there in the winter of 2024. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there in the winter of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Tallinn, Tartu, Värska.<br>
 
@@ -86,7 +86,7 @@ Hej! I share an extract of my experience of visiting cozy Estonia. I was there i
 - Life without Gabriella Ferri <i>(Elu ilma Gabriella Ferrita)</i>. Year: 2008. Genre: animation
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - The Epic of Kalevipoeg <i>(Kalevipoeg: Eesti Rahva Eepos)</i>
 - Estonian Song Festival <i>(Üldlaulupidu)</i> 
 - The Kiiking <i>(Kiiking)</i>

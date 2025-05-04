@@ -29,8 +29,8 @@ gallery_item:
     image: 6kebabche.jpg
     caption: Bulgarian kebapche
 ---
-Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was there in the summer of 2023. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was there in the summer of 2023. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Sofia, Nessebar, Burgas, Varna, Pomorie, Sveti Vlas, Byala.<br>
 
@@ -91,7 +91,7 @@ Hej! I share an extract of my experience of visiting spectacular Bulgaria. I was
 - The World is Big and Salvation Lurks Around the Corner <i>(Светът е Голям и Спасение Дебне Отвсякъде)</i>. Year: 2008. Genre: road movie
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - The Cyrillic Alphabet <i>(Кирилица)</i>
 - The Horo Dance <i>(Хоро)</i>
 - The Anastenaria <i>(Нестинарство)</i>

@@ -29,8 +29,8 @@ gallery_item:
     image: 6dish.jpg
     caption: Latvian Gray Peas with Bacon and Onion
 ---
-Hej! I share an extract of my experience of visiting magnificent Latvia. I was there in the winter of 2023. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was there in the winter of 2023. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Riga, Jurmala, Tukums.<br>
 
@@ -71,7 +71,7 @@ Hej! I share an extract of my experience of visiting magnificent Latvia. I was t
 - The Cat's Mill <i>(Kaķīša Dzirnavas)</i>. Year: 1993. Genre: animation
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Latvian Vernacular Architecture <i>(Latviešu Tautas Arhitektūra)</i> 
 - Latvian Christmas Eve <i>(Ziemassvētki)</i> 
 - Authentic Garb: Latvian Belt <i>(The Lielvārde Belt)</i> 

@@ -29,8 +29,8 @@ gallery_item:
     image: 6pancake.jpg
     caption: Åland Pancake
 ---
-Hej! I share an extract of my experience of visiting the beautiful Ålands. I was there just at Christmas (2023). Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was there just at Christmas (2023). Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Mariehamn, Eckerö.<br>
 
@@ -63,7 +63,7 @@ Hej! I share an extract of my experience of visiting the beautiful Ålands. I wa
 - Devil's Bride <i>(Tulen Morsian)</i>. Year: 2016. Genre: horror / drama
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Ålandic Cargo Shipping <i>(Ålands Sjöfart)</i>
 - Ålandic Ship Building <i>(Åländsk Skeppsbyggnad)</i>
 - The Lilla Jul <i>(Lilla Jul)</i>
@@ -72,7 +72,7 @@ Hej! I share an extract of my experience of visiting the beautiful Ålands. I wa
 <b>💐 National flower: </b> Cowslip Primrose <i>(Gullviva)</i>
 
 
-<b>🦉 Local wisdom:</b> "Adventure is not something we need to look for. It's exciting enough to live" / "<i>Äventyr är inte något vi behöver leta efter. Det är ju tillräckligt spännande att leva</i>" — AnneAnka (Pernilla Lindroos)
+<b>🦉 Local wisdom:</b> "Adventure is not something we need to look for. It's exciting enough to live" / "<i>Äventyr är inte något vi behöver leta efter. Det är ju tillräckligt spännande att leva</i>" — Pernilla Lindroos (Ålandic writer)
 
 
 <b>👨‍🎓 The oldest university:</b> Åland University of Applied Sciences <i>(Högskolan på Åland)</i>, Mariehamn, est. 2003. 

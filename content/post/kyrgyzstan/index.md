@@ -29,8 +29,8 @@ gallery_item:
     image: 8ashlyan.jpg
     caption: Kyrgyz Ash-lyanfu
 ---
-Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was there in the summer of 2022. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was there in the summer of 2022. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Bishkek, Cholpon-Ata, Karakol, Tosor, Barskoon, Jeti-Ögüz, Boz-Uchuk.<br>
 
@@ -83,7 +83,7 @@ Hej! I share an extract of my experience of visiting majestic Kyrgyzstan. I was 
 -  51+ <i>(51+)</i>. Year: 2020. Genre: short / drama
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - The Epic of Manas <i>(Манас Дастаны)</i> 
 - Tengrism <i>(Теңирчилик)</i> 
 - Kyrgyz Yurts <i>(Кыргыз боз Yйлөрү)</i> 

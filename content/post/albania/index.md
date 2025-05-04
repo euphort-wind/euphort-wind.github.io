@@ -29,8 +29,8 @@ gallery_item:
     image: 8food.jpg
     caption: Albanian Tavë Kosi
 ---
-Hej! I share an extract of my experience of visiting picturesque Albania. I was there in the winter of 2025. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was there in the winter of 2025. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Tirana, Krujë, Durrës.<br>
 
@@ -74,7 +74,7 @@ Hej! I share an extract of my experience of visiting picturesque Albania. I was 
 - Bloodlands <i>(Tokë Gjaku)</i>. Year: 2017. Genre: horror
  
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Authentic Principle: Besa <i>(Besa)</i>
 - The System of Albanian Tribes <i>(Fiset Shqiptare)</i>
 - Bektashism <i>(Bektashi)</i>

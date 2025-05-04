@@ -29,8 +29,8 @@ gallery_item:
     image: 6mussels.jpeg
     caption: Belgian Moules Frites
 ---
-Hej! I share an extract of my experience of visiting beautiful multifaceted Belgium. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belgium. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Brussels, Saint-Josse-ten-Noode, Schaerbeek.<br>
 
@@ -83,7 +83,7 @@ Hej! I share an extract of my experience of visiting beautiful multifaceted Belg
 - Loft <i>(Loft)</i>. Year: 2008. Genre: thriller 
 - Ben X <i>(Ben X)</i>. Year: 2007. Genre: thriller 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Authentic Principle: Belgitude <i>(Belgitude / Belgitude)</i>
 - The Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
 - Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>

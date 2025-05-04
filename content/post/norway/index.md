@@ -29,8 +29,8 @@ gallery_item:
     image: 6far.jpg
     caption: Norwegian Fårikål
 ---
-Hej! I share an extract of my experience of visiting magical Norway. I was there in the autumn of 2021 and autumn of 2023. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there in the autumn of 2021 and autumn of 2023. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Oslo, Bergen, Flåm, Fredrikstad, Moss, Horten.<br>
 
@@ -101,7 +101,7 @@ Hej! I share an extract of my experience of visiting magical Norway. I was there
 - Beforeigners <i>(Førignere)</i>. Year: 2019. Genre: fantasy (series)
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Authentic Principle: Kos <i>(Kos)</i>
 - The Open-Air-Life <i>(Friluftsliv)</i> 
 - The Hardanger Fiddle <i>(Hardingfele)</i>

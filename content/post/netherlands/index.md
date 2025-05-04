@@ -29,8 +29,8 @@ gallery_item:
     image: 8fish.jpg
     caption: Dutch Kibbeling and Soused Herring
 ---
-Hej! I share an extract of my experience of visiting vibrant Netherlands. I was there in the spring of 2025. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was there in the spring of 2025. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Amsterdam, Haarlem.<br>
 
@@ -121,7 +121,7 @@ Hej! I share an extract of my experience of visiting vibrant Netherlands. I was 
 - Daylight <i>(Daglicht)</i>. Year: 2013. Genre: thriller
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Authentic Principle: Gezelligheid <i>(Gezelligheid)</i>
 - The Skating Tradition <i>(Het Schaatsen)</i>
 - The Cycling Tradition <i>(Het Fietsen)</i>

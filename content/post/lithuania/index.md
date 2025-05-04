@@ -29,8 +29,8 @@ gallery_item:
     image: 6soup.jpeg
     caption: Lithuanian Cold Borscht
 ---
-Hej! I share an extract of my experience of visiting majestic Lithuania. I was there in the summer of 2024. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was there in the summer of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Vilnius, Kaunas, Trakai.<br>
 
@@ -96,7 +96,7 @@ Hej! I share an extract of my experience of visiting majestic Lithuania. I was t
 - Zero 2 <i>(Zero 2)</i>. Year: 2010. Genre: thriller / black comedy
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - The Sutartines Songs <i>(Sutartinės)</i>
 - The Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>

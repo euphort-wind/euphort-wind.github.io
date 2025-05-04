@@ -30,8 +30,8 @@ gallery_item:
     caption: Butter Chicken 
 
 ---
-Hej! I share an extract of my experience of visiting contrasting and spectacular India. I was there in the spring of 2014. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular India. I was there in the spring of 2014. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Candolim, Vijayapura, Badami.<br>
 
@@ -83,7 +83,7 @@ Hej! I share an extract of my experience of visiting contrasting and spectacular
 <br>
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Authentic Principle: Ahimsa <i>(अहिंसा)</i>
 - Hinduism <i>(हिन्दू)</i>
 - Buddhism <i>(बुद्ध धर्म)</i>

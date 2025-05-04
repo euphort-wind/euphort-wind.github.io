@@ -30,8 +30,8 @@ gallery_item:
     caption: Sammarinese Piadina
 
 ---
-Hej! I share an extract of my experience of visiting dreamlike San Marino. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> San Marino City.<br>
 
@@ -60,7 +60,7 @@ Hej! I share an extract of my experience of visiting dreamlike San Marino. I was
 - San Marino Archive Footage <i>(Filmati d'archivio di San Marino)</i>. Year: 1950/1977. Genre: archive footage
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Three Towers of San Marino <i>(Tre Torri di San Marino)</i>
 - The Legend of Saint Marinus <i>(Leggenda di San Marino)</i>
 

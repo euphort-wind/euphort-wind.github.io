@@ -30,8 +30,8 @@ gallery_item:
     caption: Jordanian Mansaf
 
 ---
-Hej! I share an extract of my experience of visiting ancient Jordan. I was there in the autumn of 2011. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there in the autumn of 2011. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Petra, Aqaba.<br>
 
@@ -59,7 +59,7 @@ Hej! I share an extract of my experience of visiting ancient Jordan. I was there
 <b>🎬 Local movies:</b>
 - Captain Abu Raed <i>(كابتن أبو رائد)</i>. Year: 2007. Genres: drama
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Al-Mansaf: Festive Banquet <i>(منسف)</i> 
 - Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والتقية)</i> 
 - The Culture of Bedouins <i>(البدو / بَدْو)</i> 

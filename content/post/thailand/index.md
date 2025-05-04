@@ -29,8 +29,8 @@ gallery_item:
     image: 6tomyam.jpg
     caption: Tom Yam Soup
 ---
-Hej! I share an extract of my experience of visiting bright Thailand. I was there in the winter of 2018. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting bright Thailand. I was there in the winter of 2018. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Patong, Kathu, Racha Yai.<br>
 
@@ -62,7 +62,7 @@ Hej! I share an extract of my experience of visiting bright Thailand. I was ther
 <b>🎬 Local movies:</b>
 -  Thirteen Lives <i>(สิบสามชีวิต)</i>. Year: 2022. Genre: action / drama
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Authentic Principle: Thainess <i>(ความเป็นไทย)</i>
 - Thai Massage <i>(นวดแผนไทย)</i>
 - Muay Thai <i>(มวยไทย)</i>

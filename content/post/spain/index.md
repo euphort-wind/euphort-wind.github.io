@@ -29,8 +29,8 @@ gallery_item:
     image: 6paella.jpg
     caption: Spanish Paella
 ---
-Hej! I share an extract of my experience of visiting resplendent Spain. I was there in the summer of 2013. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was there in the summer of 2013. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Barcelona, Salou, Monistrol de Montserrat.<br>
 
@@ -79,7 +79,7 @@ Hej! I share an extract of my experience of visiting resplendent Spain. I was th
 -  Under Therapy <i>(Bajo terapia)</i>. Year: 2023. Genre: drama
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Authentic Principle: Hispanidad <i>(Hispanidad)</i>
 - The Siesta <i>(Siesta)</i>
 - The Flamenco <i>(Flamenco)</i>

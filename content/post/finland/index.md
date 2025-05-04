@@ -29,8 +29,8 @@ gallery_item:
     image: 8soup.jpg
     caption: Finnish Salmon Soup
 ---
-Hej! I share an extract of my experience of visiting stately Finland. I was there in the autumn of 2021. Below are some notes on what I tasted, saw and listened to. I also visited <a href = "https://euphort.se/post/aland/">Åland Islands</a> (an autonomous and demilitarised region of Finland). <br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️. 
+Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was there in the autumn of 2021. Below are some notes on what I tasted, saw and listened to. I also visited <a href = "https://euphort.se/post/aland/">Åland Islands</a> (an autonomous and demilitarised region of Finland). <br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️. 
 
 <b>🗺 Places:</b> Helsinki, Vaasa.<br>
 
@@ -80,7 +80,7 @@ Hej! I share an extract of my experience of visiting stately Finland. I was ther
 - Heavy Trip <i>(Hevi Reissu)</i>. Year: 2018. Genre: comedy
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Authentic Principle: Sisu <i>(Sisu)</i>
 - Finnish Sauna <i>(Saunakulttuuri)</i>
 - Shrove Sunday <i>(Laskiainen)</i>

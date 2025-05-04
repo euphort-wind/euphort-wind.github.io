@@ -29,8 +29,8 @@ gallery_item:
     image: 8cheese.jpg
     caption: Cyprus Grilled Halloumi 
 ---
-Hej! I share an extract of my experience of visiting impressive Cyprus. I was there in the summer of 2016. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting impressive Cyprus. I was there in the summer of 2016. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Ayia Napa, Lefkara, Kakopetria, Limassol.<br>
 
@@ -73,7 +73,7 @@ Hej! I share an extract of my experience of visiting impressive Cyprus. I was th
 -  Leonidas and the Fish <i>(Ο Λεωνίδας και το Ψάρι)</i>. Year: 2021. Genre: short / drama
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - The Worry Beads <i>(Кομπολόι)</i>
 - The Laouto <i>(Λαούτο)</i>
 - The Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>

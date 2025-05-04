@@ -29,8 +29,8 @@ gallery_item:
     image: 8pasti.jpeg
     caption: Pašticada
 ---
-Hej! I share an extract of my experience of visiting enchanting Croatia. I was there in the spring of 2025. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was there in the spring of 2025. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Zagreb, Zadar.<br>
 
@@ -84,7 +84,7 @@ Hej! I share an extract of my experience of visiting enchanting Croatia. I was t
 - The Man Who Could Not Remain Silent <i>(Covjek Koji Nije Mogao Sutjeti)</i>. Year: 2024. Genre: short / drama
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Authentic Principle: Fjaka <i>(Fjaka)</i>
 - The Ojkanje Singing <i>(Ojkanje)</i>
 - Croatian Lace <i>(Čipkarstvo)</i>

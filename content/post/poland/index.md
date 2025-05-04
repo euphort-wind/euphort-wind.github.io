@@ -29,8 +29,8 @@ gallery_item:
     image: 6bigos.jpeg
     caption: Polish Bigos
 ---
-Hej! I share an extract of my experience of visiting invincible Poland. I was there in the summer of 2024. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was there in the summer of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Gdańsk, Sopot, Gdynia, Władysławowo, Hel. <br>
 
@@ -92,7 +92,7 @@ Hej! I share an extract of my experience of visiting invincible Poland. I was th
 - Corpus Christi <i>(Boże Ciało)</i>. Year: 2019. Genre: drama 
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - The Polonaise Dance <i>(Polonez)</i>
 - The Mazurka Dance <i>(Mazurek)</i>
 - Name Day Celebrations <i>(Imieniny)</i>

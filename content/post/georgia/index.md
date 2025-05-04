@@ -1,0 +1,165 @@
+---
+title: 🇬🇪 Georgia
+date: '2025-05-01'
+summary: Trip to Georgia
+
+gallery_item:
+  - album: georgia
+    image: 1tbil.jpg
+    caption: Tbilisi
+  - album: georgia
+    image: 2clock.jpg
+    caption: Clock Tower (Tbilisi)
+  - album: georgia
+    image: 3tel.jpg
+    caption: King Erekle II Palace (Telavi)
+  - album: georgia
+    image: 4sig.jpg
+    caption: Sighnaghi
+  - album: georgia
+    image: 5david.jpg
+    caption: David Gareji Monastery
+  - album: georgia
+    image: 6nek.jpg
+    caption: Nekresi Monastery
+  - album: georgia
+    image: 7mts.jpg
+    caption: Svetitskhoveli Cathedral
+  - album: georgia
+    image: 8hin.jpg
+    caption: Georgian Khinkali
+---
+Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was there in the spring of 2025. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+
+<b>🗺 Places:</b> Tbilisi, Mtskheta, Sighnaghi, Telavi, Kvareli, Udabno, Kachreti.<br>
+
+<b>🏛 Top sights visited: </b>
+1. Tbilisi
+    - Abanotubani <i>(აბანოთუბანი)</i>  
+    - Old Town Tbilisi <i>(ძველი თბილისი)</i>
+    - Bridge of Peace <i>(მშვიდობის ხიდი)</i>
+    - Gabriadze Theater <i>(გაბრიაძის თეატრი)</i>
+    - National Botanical Garden <i>(ეროვნული ბოტანიკური ბაღი)</i>
+    - Rustaveli Avenue <i>(რუსთაველის გამზირი)</i>
+    - Public Service Hall <i>(იუსტიციის სახლი)</i>
+    - Meidan Bazaar <i>(მეიდნის ბაზარი)</i>
+    - Kartlis Deda <i>(ქართვლის დედა)</i>
+    - Anchiskhati Basilica <i>(ანჩისხატი)</i>
+2. Mtskheta
+    - Old Town Mtskheta <i>(მცხეთის ძველი ქალაქი)</i>
+    - Jvari Monastery <i>(ჯვრის მონასტერი)</i>
+    - Svetitskhoveli Cathedral <i>(სვეტიცხოვლის საკათედრო ტაძარი)</i>
+    - Shio-Mgvime Monastery <i>(შიომღვიმე)</i>
+3. Sighnaghi
+    - Bodbe Monastery <i>(ბოდბის წმინდა ნინოს მონასტერი)</i>
+    - Sighnaghi City Walls <i>(სიღნაღის ქალაქის კედლები)</i>
+    - St. George’s Church <i>(სიღნაღის წმ. გიორგის ეკლესია)</i>
+4. Telavi
+    - Giant Plane Tree <i>(გიგანტური ჭადრის ხე)</i>
+    - Telavi Historical Museum <i>(თელავის ისტორიული მუზეუმი)</i>
+    - Batonis Tsikhe <i>(ბატონის ციხე)</i>
+    - Alaverdi Monastery <i>(ალავერდის მონასტერი)</i>
+5. Kvareli
+    - Nekresi <i>(ნეკრესი)</i>
+    - Gremi <i>(გრემი)</i>
+    - Khareba Winery <i>(მეღვინეობა ხარება)</i>    
+    - Kindzmarauli Winery <i>(კორპორაცია ქინძმარაული)</i>    
+6. Udabno
+    - David Gareji <i>(დავითგარეჯის სამონასტრო კომპლექსი)</i>
+7. Kachreti
+    - Ambassadori Golf Club <i>(ამბასადორის გოლფის კლუბი)</i>
+
+
+<b>🎧 Local musicians: </b>
+- 🇬🇪 Tamada (singer). Genre: ethnic house
+- 🇬🇪 Reggaeon (band). Genre: reggae 
+- 🇬🇪 Eko & Vinda Folio (duo). Genre: post punk
+- 🇬🇪 Skazz (band). Genre: post punk
+- 🇬🇪 Lela Tataraidze (singer). Genre: folk
+- 🇺🇳 Bedford Falls (band). Genre: indie rock
+- 🇺🇳 Giga Papaskiri (DJ). Genre: house
+- 🇺🇳 Vaxo Melkadze (DJ). Genre: house
+- 🇺🇳 Generali Minerali (DJ). Genre: house
+
+
+<b>🥘 Local food & drinks: </b>
+- Georgian Cheese <i>(ქართული ყველი)</i>
+  - Sulguni <i>(სულგუნი)</i>
+  - Imeretian Cheese <i>(იმერული ყველი)</i>
+  - Guda <i>(გუდა)</i> 
+- Khachapuri <i>(ხაჭაპური)</i>
+  - Mingrelian Khachapuri <i>(მეგრული ხაჭაპური)</i>
+  - Imeretian Khachapuri <i>(იმერული ხაჭაპური)</i>
+  - Adjarian Khachapuri <i>(აჭარული ხაჭაპური)</i>
+  - Penovani Khachapuri <i>(ფენოვანი ხაჭაპური)</i>
+- Georgian Sauces <i>(ქართული სოუსები)</i>
+  - Tkemali <i>(ტყემალი)</i>
+  - Satsebeli <i>(საწებელი)</i>
+  - Bazhe <i>(ბაჟე)</i>
+  - Ajika <i>(აჯიკა)</i>
+- Khinkali <i>(ხინკალი)</i>
+- Satsivi <i>(საცივი)</i>
+- Pkhali <i>(ფხალი)</i>
+- Badrijani <i>(ნიგვზიანი ბადრიჯანი)</i>
+- Georgian Salad <i>(ქართული სალათი)</i>
+- Shoti Bread <i>(შოთის პური)</i>
+- Mchadi <i>(მჭადი)</i>
+- Kharcho Soup <i>(ხარჩო)</i>
+- Chikhirtma Soup <i>(ჩიხირთმა)</i>
+- Lobio <i>(ლობიო)</i>
+- Lobiani <i>(ლობიანი)</i>
+- Chakhokhbili <i>(ჩახოხბილი)</i>
+- Ajapsandali <i>(აჯაფსანდალი)</i>
+- Abkhazura <i>(აბხაზურა)</i>
+- Georgian Wine Ice Cream <i>(ღვინის ნაყინი)</i>
+- Georgian Lemonades <i>(Brands: "Natakhtari Cream Soda", "Kazbegi Tarkhuna", etc.)</i> 
+- Georgian Wine <i>(Brands: "Keburia Rkatsiteli", "Khareba Rkatsiteli", "GRW Saperavi", "Duruji Valley Kisi Qvevri", "Dugladze Mukuzani", "Duruji Valley Kindzmarauli", Kakhetian Home-Made Kindzmarauli, etc.)</i> 
+- Georgian Chacha <i>(Brands: "Askaneli Brothers Chacha", Georgian Home-Made Chacha, etc.)</i> 
+- <u>Kakheti (Regional Special):</u> Chakapuli <i>(ჩაქაფული)</i>
+- <u>Kakheti (Regional Special):</u> Kakhetian Khashlama <i>(ჰაშლამა)</i>
+- <u>Kakheti (Regional Special):</u> Chashushuli <i>(ჩაშუშული)</i>
+- <u>Kakheti (Regional Special):</u> Mtsvadi <i>(მცვადი)</i>
+  - Mtsvadi-Style Pork <i>(ღორის მწვადი)</i>
+  - Mtsvadi-Style Lamb <i>(ცხვრის მწვადი)</i>
+  
+
+<b>🎬 Local movies:</b>
+- The Other Bank <i>(გაღმა ნაპირი)</i>. Year: 2009. Genre: drama 
+- Blind Dates <i>(შემთხვევითი პაემნები)</i>. Year: 2013. Genre: drama
+- L'héritage <i>(L'héritage)</i>. Year: 2006. Genre: drama
+- Svani <i>(სვანი)</i>. Year: 2007. Genre: drama  
+- 8 minutes <i>(8 წუთი)</i>. Year: 2020. Genre: comedy / short
+
+
+<b>🪔 Authentic features:</b>
+- Supra & Tamadas <i>(სუფრა & თამადა)</i>
+- Kvevri-Based Wine Production <i>(ქვევრის ღვინო)</i>
+- Three Georgian Alphabets <i>(სამი ქართული ანბანი)</i>
+- Georgian Polyphonic Singing <i>(ქართული მრავალხმიანობა)</i>
+- Kartuli Dance <i>(ქართული ცეკვა)</i>"
+- Berikaoba <i>(ბერიკაობა)</i>
+- Chidaoba <i>(ჩიდაობა)</i>
+- The Panduri <i>(ფანდური)</i>
+- Authentic Garb: Chokha & Kabalakhi <i>(ჩოხა & ყაბალახი)</i>
+- The Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>
+- <u>Mtskheta-Mtianeti (Regional Special):</u> The Heritage of the Kingdom of Iberia <i>(ქართლის სამეფო / ივერიის სამეფო)</i>
+- <u>Kakheti (Regional Special):</u> Kakhuri Dance <i>(კახურის ცეკვა)</i>
+- <u>Kakheti (Regional Special):</u> Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
+- <u>Kakheti (Regional Special):</u> The Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i>
+- <u>Tbilisi-Capital (Regional Special):</u> Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
+- <u>Tbilisi-Capital (Regional Special):</u> Georgian Kisa Massage <i>(ქისა აბანო)</i>
+
+
+<b>💐 National flower: </b> [unofficially] Georgian Snow Rose <i>(კავკასიური როდოდენდრონი)</i>
+
+
+<b>🦉 Local wisdom:</b> "That which we give makes us richer, that which is hoarded is lost" / "<i>რასაცა გასცემ შენია, რაც არა დაკარგულია</i>" — Shota Rustaveli (Georgian poet) 
+
+
+<b>👨‍🎓 The oldest university:</b> Tbilisi State University <i>(თბილისის სახელმწიფო უნივერსიტეტი)</i>, Tbilisi, est. 1918.  
+
+
+{{< gallery album="georgia" crop_options="150x150" >}}
+   
+

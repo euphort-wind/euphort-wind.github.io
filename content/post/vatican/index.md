@@ -31,8 +31,8 @@ gallery_item:
     caption: Baked Pasta in Vatican Museum
 
 ---
-Hej! I share an extract of my experience of visiting blessed Vatican. I was there in the winter of 2024. Below are some notes on what I tasted, saw and listened to.<br>
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and also does not cover all the wonderful local attributes and places ☺️.
+Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was there in the winter of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Vatican City.<br>
 
@@ -57,7 +57,7 @@ Hej! I share an extract of my experience of visiting blessed Vatican. I was ther
 - The Two Popes <i>(Duo Pontifices)</i>. Year: 2019. Genres: drama
 
 
-<b>🪔 Authentic artifacts:</b>
+<b>🪔 Authentic features:</b>
 - Catholicism <i>(Ecclesia Catholica)</i>
 - The Papal Audiences <i>(Audientiis Publicis Summi Pontificis)</i>
 - The Papal Conclave <i>(Papae Conclave)</i>
