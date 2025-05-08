@@ -88,7 +88,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - The Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
 - Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
 - The Friterie Culture <i>(Frituur / Frietkot)</i>
-- <u>Brussels-Capital (Regional Special):</u> Flower Carpet <i>(Tapis de Fleurs / Bloementapijt)</i>
+- Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
+- <u>Brussels-Capital (Regional Special):</u> The Flower Carpet <i>(Tapis de Fleurs / Bloementapijt)</i>
 
 
 <b>💐 National flower: </b> Red Poppy <i>(Coquelicot Rouge / Rode Klaproos)</i>

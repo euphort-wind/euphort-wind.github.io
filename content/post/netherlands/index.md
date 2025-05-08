@@ -128,6 +128,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - Dutch Windmills <i>(Windmolens)</i>
 - Dutch Canals & Polders <i>(Kanalen & Polders)</i>
 - Delftware <i>(Delfts Blauw)</i>
+- Authentic Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
 - Authentic Garb: Dutch Bonnet & Klomps <i>(Nederlandse Bonnet & Klompen)</i>
 - The Culture of Frisians <i>(Friezen / Fräisen)</i>
 - The Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>

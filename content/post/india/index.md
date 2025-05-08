@@ -92,13 +92,16 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Holi <i>(होली)</i>
 - Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
 - Bharatanatyam Dance <i>(भरतनाट्यम)</i>
+- Authentic Musical Instrument: Saraswati Veena <i>(सरस्वती वीणा)</i>
 - Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
 - Indian Cars <i>(Brand: "Mahindra")</i>
 - <u>Karnataka (Regional Special):</u> The Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
   - <u>Karnataka (Regional Special):</u> Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
-  - <u>Karnataka (Regional Special):</u> Dasa Sahitya <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
+  - <u>Karnataka (Regional Special):</u> The Dasa Sahitya <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
+  - <u>Karnataka (Regional Special):</u> Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
 - <u>Goa (Regional Special):</u> The Culture of Goans <i>(गोवा / गोंयकार)</i>
   - <u>Goa (Regional Special):</u> Goa Carnivals <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>
+  - <u>Goa (Regional Special):</u> Authentic Musical Instrument: Ghumot <i>(घुमोट / घुमट)</i>
 
 
 <b>💐 National flower: </b> Indian Lotus <i>(कमल)</i>

@@ -68,6 +68,7 @@ Hej! I'm sharing a glimpse of my experience visiting bright Thailand. I was ther
 - Muay Thai <i>(มวยไทย)</i>
 - The Kathoey <i>(กะเทย)</i>
 - Thai Script <i>(อักษรไทย)</i>
+- Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
 - Authentic Garb: Panung <i>(ผ้านุ่ง)</i>
 
 

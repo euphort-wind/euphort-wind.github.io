@@ -53,6 +53,7 @@ Hej! I'm sharing a glimpse of my experience visiting authentic Egypt. I was ther
 
 <b>🎚️ Contribution to EDM: </b>
 - Tape Music. Originated: mid-1940s
+- Mahraganat. Originated: early 2000s
 
 <b>🥘 Local food & drinks: </b>
 - Koshary <i>(كشرى)</i>
@@ -68,8 +69,9 @@ Hej! I'm sharing a glimpse of my experience visiting authentic Egypt. I was ther
 
 
 <b>🪔 Authentic features:</b>
-- Desert Safari <i>(رحلات السفاري الصحراوية)</i>
+- The Desert Safari <i>(رحلات السفاري الصحراوية)</i>
 - The Henna Painting <i>(رسمة الحناء)</i>
+- Authentic Musical Instrument: Goblet Drum <i>(دربوكة)</i>
 - Authentic Garb: Galabiya <i>(جالبيا)</i>
 - The Culture of Copts <i>(أقباط / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>
 - The Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
@@ -77,8 +79,9 @@ Hej! I'm sharing a glimpse of my experience visiting authentic Egypt. I was ther
   - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
   - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
   - Ancient Egyptian Sarcophaguses & Mummies <i>(التوابيت المصرية القديمة)</i>
-  - The Maxims of Ptahhotep <i>(أقوال بتاح حتب)</i>
-  - The Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>
+  - Ancient Authentic Musical Instrument: Sistrum <i>(الصلاصل)</i>
+  - Ancient Authentic Garb: Khat & Shendyt <i>(شنديت و الخات)</i>
+- The Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>
 
 
 

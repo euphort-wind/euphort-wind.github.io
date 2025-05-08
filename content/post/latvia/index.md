@@ -64,7 +64,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 - Layered Rye Bread <i>(Rupjmaizes Kārtojums)</i>
 - Latvian Porridge <i>(Putra)</i>
 - Latvian Balsam <i>(Brand: "Rīgas Melnais Balzams")</i>
-- <u>Riga (Regional Special):</u> Riga Smoked Sprats <i>(Rīgas Šprotes)</i>
+- <u>Riga-Capital (Regional Special):</u> Riga Smoked Sprats <i>(Rīgas Šprotes)</i>
 
 <b>🎬 Local movies:</b>
 - The Shot <i>(Nošāva)</i>. Year: 2019. Genre: short / comedy
@@ -74,10 +74,11 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 <b>🪔 Authentic features:</b>
 - Latvian Vernacular Architecture <i>(Latviešu Tautas Arhitektūra)</i> 
 - Latvian Christmas Eve <i>(Ziemassvētki)</i> 
+- Authentic Musical Instrument: Kokle <i>(Kokle)</i> 
 - Authentic Garb: Latvian Belt <i>(The Lielvārde Belt)</i> 
 - The Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
 - <u>Jurmala (Regional Special):</u> Jurmala Festivals <i>(Jūrmalas Festivāli)</i>
-- <u>Riga (Regional Special):</u> Riga Art Nouveau Architecture <i>(Jūgendstila Arhitektūra Rīgā)</i>
+- <u>Riga-Capital (Regional Special):</u> Riga Art Nouveau Architecture <i>(Jūgendstila Arhitektūra Rīgā)</i>
 
 
 <b>💐 National flower: </b> Ox-eye Daisy <i>(Parastā Pīpene)</i>

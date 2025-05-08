@@ -90,8 +90,8 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - The Epic of Kalevipoeg <i>(Kalevipoeg: Eesti Rahva Eepos)</i>
 - Estonian Song Festival <i>(Üldlaulupidu)</i> 
 - The Kiiking <i>(Kiiking)</i>
-- The Kannel <i>(Kannel)</i>
-- E-Government <i>(E-Riik)</i>
+- The E-Government <i>(E-Riik)</i>
+- Authentic Musical Instrument: Kannel <i>(Kannel)</i>
 - <u>Võru (Regional Special):</u> The Culture of Setos <i>(Setukesed / Setokõsõq)</i>
   - <u>Võru (Regional Special):</u> Seto Polyphonic Singing <i>(Seto Leelo / Seto Leelo)</i>
   - <u>Võru (Regional Special):</u> Seto Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>

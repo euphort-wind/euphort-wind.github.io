@@ -64,6 +64,9 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🇺🇳 Aero Chord (DJ). Genre: trap
 - 🇺🇳 Steve Angello (DJ). Genre: progressive house
 
+<b>🎚️ Contribution to EDM: </b>
+- Balkan Beats. Originated: mid-1990s
+
 
 <b>🥘 Local food & drinks: </b>
 - Feta Cheese <i>(Фέτα)</i>
@@ -88,17 +91,19 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - The Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - The Sirtaki Dance <i>(Σιρτάκη)</i>
 - The Meander <i>(Μαίανδρος)</i>
-- The Evil Eye <i>(Κακό Μάτι)</i>
+- The Evil Eye Symbol <i>(Κακό Μάτι)</i>
+- Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
 - The Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
   - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
   - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
   - Ancient Greek Philosophy <i>(Αρχαία Ελληνική Φιλοσοφία)</i>
   - Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>
   - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
-  - Authentic Ancient Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύς)</i>
-- <u>Crete (Regional Special):</u> Cretan Lyra <i>(Κρητική λύρα)</i>
-- <u>Crete (Regional Special):</u> Cretan Garb: Stivania & Sariki <i>(Στιβάνια & Σαρίκη)</i>
-- <u>South Aegean (Regional Special):</u> Colossus of Rhodes <i>(ὁ Κολοσσὸς Ῥόδιος)</i>
+  - Ancient Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
+  - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύς)</i>
+- <u>Crete (Regional Special):</u> Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
+- <u>Crete (Regional Special):</u> Authentic Garb: Stivania & Sariki <i>(Στιβάνια & Σαρίκη)</i>
+- <u>South Aegean (Regional Special):</u> The Legend of the Colossus of Rhodes <i>(ὁ Κολοσσὸς Ῥόδιος)</i>
 
 
 <b>💐 National flower: </b> Bear's Breech <i>(Άκανθος)</i>

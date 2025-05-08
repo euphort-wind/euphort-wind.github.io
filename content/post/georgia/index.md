@@ -140,7 +140,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - Kartuli Dance <i>(ქართული ცეკვა)</i>"
 - Berikaoba <i>(ბერიკაობა)</i>
 - Chidaoba <i>(ჩიდაობა)</i>
-- The Panduri <i>(ფანდური)</i>
+- Authentic Musical Instrument: Panduri <i>(ფანდური)</i>
 - Authentic Garb: Chokha & Kabalakhi <i>(ჩოხა & ყაბალახი)</i>
 - The Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>
 - <u>Mtskheta-Mtianeti (Regional Special):</u> The Heritage of the Kingdom of Iberia <i>(ქართლის სამეფო / ივერიის სამეფო)</i>

@@ -94,10 +94,10 @@ Hej! I'm sharing a glimpse of my experience visiting bright and contrasty Portug
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Saudade <i>(Saudade)</i>
 - The Fado Music <i>(Fado)</i>
-- Portuguese Guitar <i>(Guitarra Portuguesa)</i>
 - Portuguese Architecture <i>(A Arquitetura Portuguesa)</i> 
 - The Azulejo <i>(Azulejo)</i>
-- Portuguese Seamanship and Maritime Exploration <i>(Marinharia e Exploração Marítima)</i>    
+- Portuguese Seamanship and Maritime Exploration <i>(Marinharia e Exploração Marítima)</i> 
+- Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>   
 - Authentic Garb: Portuguese Traje <i>(Traje Português)</i>
 - The Heritage of the Portuguese Empire <i>(Império Português)</i>
 - <u>Lisbon (Regional Special):</u> Lisbon Yellow Trams <i>(Eléctricos Amarelos de Lisboa)</i>

@@ -99,6 +99,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 <b>🪔 Authentic features:</b>
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - The Sutartines Songs <i>(Sutartinės)</i>
+- Authentic Musical Instrument: Birbynė <i>(Birbynė)</i> 
 - The Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>
 - <u>Vilnius (Regional Special):</u> The Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
 

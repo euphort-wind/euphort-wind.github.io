@@ -66,7 +66,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
 <b>🪔 Authentic features:</b>
 - Ålandic Cargo Shipping <i>(Ålands Sjöfart)</i>
 - Ålandic Ship Building <i>(Åländsk Skeppsbyggnad)</i>
-- The Lilla Jul <i>(Lilla Jul)</i>
+- The Lilla Jul Celebration <i>(Lilla Jul)</i>
 
 
 <b>💐 National flower: </b> Cowslip Primrose <i>(Gullviva)</i>

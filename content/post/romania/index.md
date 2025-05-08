@@ -77,7 +77,11 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - The Paparuda Ritual <i>(Păpăluga)</i> 
 - The Martisor <i>(Mărțișor)</i> 
 - Romanian Cars <i>(Brand: "Dacia")</i>
-- The Culture of Romani <i>(Romani / Roma)</i>
+- Authentic Musical Instrument: Romanian Nai <i>(Nai)</i> 
+- The Culture of Romani <i>(Romi / Romane Manusha)</i>
+  - Authentic Principle: Romanipen <i>(Romanipenul / Romanipen)</i>
+  - The Lăutari <i>(Lăutari / Lăutari)</i> 
+  - Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
 - The Legacy of Dacians <i>(Dacii / Δάκοι)</i>
 - The Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
 

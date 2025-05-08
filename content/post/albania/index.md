@@ -82,6 +82,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - The Shota Dance <i>(Shotë)</i>
 - The Legend of Skanderbeg <i>(Trashëgimia e Skënderbeut)</i>
 - Albanian Bunkers <i>(Bunkerët)</i>
+- Authentic Musical Instrument: Çifteli <i>(Çiftelia)</i>
 - Authentic Garb: Qeleshe and Xhamadan <i>(Qeleshe dhe Xhamadan)</i> 
 - The Culture of Aromanians <i>(Arumunët / Armãnji)</i>
 - The Heritage of the Kingdom of Albania <i>(Mbretëria e Arbërisë / Regnum Albaniae)</i>

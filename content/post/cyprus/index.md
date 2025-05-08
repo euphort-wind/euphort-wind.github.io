@@ -75,7 +75,7 @@ Hej! I'm sharing a glimpse of my experience visiting impressive Cyprus. I was th
 
 <b>🪔 Authentic features:</b>
 - The Worry Beads <i>(Кομπολόι)</i>
-- The Laouto <i>(Λαούτο)</i>
+- Authentic Musical Instrument: Laouto <i>(Λαούτο)</i>
 - The Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>
 - <u> Larnaca (Regional Special):</u> Lefkara Lace <i>(Δαντέλα Λεύκαρα)</i>
 

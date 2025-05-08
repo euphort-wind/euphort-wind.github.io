@@ -89,10 +89,10 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 <b>🪔 Authentic features:</b>
 - The System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i> 
 - The Aytıs & Akyns <i>(Айтыс пен Ақыны)</i> 
-- The Dombra <i>(Домбыра)</i> 
-- Baige <i>(Бәйге)</i> 
+- The Baige <i>(Бәйге)</i> 
 - Kazakh Wrestling <i>(Қазақша Күрес)</i> 
 - The Assyk Game <i>(Асық)</i> 
+- Authentic Musical Instrument: Dombra <i>(Домбыра)</i>
 - Authentic Garb: Shapan & Borik <i>(Шапан пен Борик)</i> 
 - The Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق خاندیغی)</i> 
 

@@ -83,11 +83,13 @@ Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was ther
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Sisu <i>(Sisu)</i>
 - Finnish Sauna <i>(Saunakulttuuri)</i>
-- Shrove Sunday <i>(Laskiainen)</i>
+- The Shrove Sunday Celebration <i>(Laskiainen)</i>
 - The Fictional World of Moomins <i>(Muumi)</i>
+- Authentic Musical Instrument: Kantele <i>(Kantele)</i>
 - Authentic Garb: Kansallispuku <i>(Suomalainen Sansallispuku)</i>
 - The Culture of Sami <i>(Saamelaiset / Sámit)</i>
-
+  - Authentic Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
+  - Authentic Garb: Beaska & Four Winds Hat <i>(Beaska & Neljäntuulenlakki / Muoddá & Čiehgahpir)
 
 <b>💐 National flower: </b> Lily-of-the-Valley <i>(Kielo)</i>
 

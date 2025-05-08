@@ -95,7 +95,8 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 <b>🪔 Authentic features:</b>
 - The Polonaise Dance <i>(Polonez)</i>
 - The Mazurka Dance <i>(Mazurek)</i>
-- Name Day Celebrations <i>(Imieniny)</i>
+- Polish Name Day Celebrations <i>(Imieniny)</i>
+- Authentic Musical Instrument: Koza <i>(Koza)</i>
 - Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i> 
 - The Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i>
 - <u>Pomeranian (Regional Special):</u> The Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>

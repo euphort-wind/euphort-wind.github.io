@@ -85,6 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - The Flamenco <i>(Flamenco)</i>
 - Spanish Bullfighting <i>(Corrida)</i>
 - Spanish Cars <i>(Brand: "SEAT")</i>
+- Authentic Musical Instrument: Castanets <i>(Castañuelas)</i> 
 - Authentic Garb: Mantilla and Traje de Luces <i>(Mantilla y Traje de Luces)</i>
 - The Legacy of Iberians <i>(Iberos / Ἴβηρες)</i> 
 - The Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
@@ -92,7 +93,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - <u>Catalonia (Regional Special):</u> Authentic Principle: Seny <i>(Seny / Seny)</i>
   - <u>Catalonia (Regional Special):</u> Catalan Rumba <i>(Rumba Catalana / Rumba Catalana)</i>
   - <u>Catalonia (Regional Special):</u> Catalan Human Tower <i>(Castell / Castell)</i>
-
+  - <u>Catalonia (Regional Special):</u> Authentic Musical Instrument: Flabiol <i>(Flabiol / Flabiol)</i>
 
 <b>💐 National flower: </b> Red Carnation <i>(Clavel Rojo)</i>
 - <u>Catalonia (Regional Special):</u> Weaver's Broom <i>(Retama / Ginesta)</i>

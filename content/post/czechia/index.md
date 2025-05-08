@@ -90,8 +90,9 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - The Beer Culture <i>(Pivní Kultura)</i>
 - The Beseda Dance <i>(Česká Beseda)</i>
 - Czech Puppetry <i>(České Loutkářství)</i>
-- St. Wenceslas Day <i>(Den České Státnosti)</i>
 - Czech Cars <i>(Brand: "Škoda")</i>
+- The St. Wenceslas Day Celebration <i>(Den České Státnosti)</i>
+- Authentic Musical Instrument: Bohemian Harp <i>(Harfa)</i>
 - Authentic Garb: Czech Kroj <i>(Kroje)</i>
 - The Culture of Moravians <i>(Moravané / Moraváci)</i>
 - The Heritage of the Kingdom of Bohemia <i>(České Království / Regnum Bohemiae)</i>

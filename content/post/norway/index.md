@@ -104,8 +104,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Kos <i>(Kos)</i>
 - The Open-Air-Life <i>(Friluftsliv)</i> 
-- The Hardanger Fiddle <i>(Hardingfele)</i>
 - The Skiing Tradition <i>(Ski)</i>
+- Authentic Musical Instrument: Hardanger Fiddle <i>(Hardingfele)</i>
 - Authentic Garb: Bunad <i>(Bunad)</i>
 - The Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i> 
   - The Viking Runic Alphabet <i>(Viking Runealfabet)</i> 

@@ -87,7 +87,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - The Epic of Manas <i>(Манас Дастаны)</i> 
 - Tengrism <i>(Теңирчилик)</i> 
 - Kyrgyz Yurts <i>(Кыргыз боз Yйлөрү)</i> 
-- The Komuz <i>(Комуз)</i> 
+- Authentic Musical Instrument: Komuz <i>(Комуз)</i> 
 - Authentic Garb: Ak-Kalpak and Beldemchi <i>(Ак-Калпак менен Белдемчи)</i> 
 - The Culture of Dungan <i>(Дунгандар / Хуэйзў)</i>
 - The Heritage of the Kyrgyz Khanate <i>(Кыргыз Хандыгы / 𐱅𐰭𐰼𐰄:𐰅𐰠)</i> 

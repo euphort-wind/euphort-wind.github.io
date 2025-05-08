@@ -107,6 +107,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 - Maltese Megalithic Temples <i>(Tempji Megalitiċi)</i>
 - Maltese Traditional Balconies <i>(Gallariji Tradizzjonali Maltin)</i>
 - Il-Passju Game <i>(Il-Passju)</i>
+- Authentic Musical Instrument: Ċuqlajta <i>(Ċuqlajta)</i> 
 - The Heritage of the Hospitaller Malta <i>(Żmien il-Kavallieri / Status Monasticus Ordinis Sancti Ioannis Hierosolymitani)</i>
 
 

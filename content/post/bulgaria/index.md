@@ -94,8 +94,9 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 <b>🪔 Authentic features:</b>
 - The Cyrillic Alphabet <i>(Кирилица)</i>
 - The Horo Dance <i>(Хоро)</i>
-- The Anastenaria <i>(Нестинарство)</i>
+- Anastenaria <i>(Нестинарство)</i>
 - The Rose Festival <i>(Празник на Розата)</i>
+- Authentic Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
 - Authentic Garb: Bulgarian Nosiya <i>(Носия)</i>
 - The Legacy of Thracians <i>(Траки / Θρᾷκες)</i>
 - The Heritage of the Bulgarian Empire <i>(Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>

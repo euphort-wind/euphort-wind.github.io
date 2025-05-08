@@ -49,7 +49,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 <b>🎧 Local musicians: </b>
 - 🇯🇴 Aziz Maraka (singer). Genre: pop
 - 🇯🇴 Diana Karazon (singer). Genre: pop
-
+- 🇺🇳 Ayah Marar (singer). Genre: drum'n'bass
 
 <b>🥘 Local food & drinks: </b>
 - Mansaf <i>(منسف)</i>
@@ -61,6 +61,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 <b>🪔 Authentic features:</b>
 - Al-Mansaf: Festive Banquet <i>(منسف)</i> 
+- Authentic Musical Instrument: Mijwiz <i>(مجوز)</i>
 - Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والتقية)</i> 
 - The Culture of Bedouins <i>(البدو / بَدْو)</i> 
 - The Legacy of Nabataeans <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i>  
