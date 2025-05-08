@@ -263,7 +263,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - The Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
 - The Heritage of the USSR <i>(CCCP)</i>
 - <u>Bashkiria (Regional Special):</u> The Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
-    - <u>Bashkiria (Regional Special):</u> Sabantuy <i>(Сабантуй / Һабантуй)</i>
+    - <u>Bashkiria (Regional Special):</u> The Sabantuy Celebration <i>(Сабантуй / Һабантуй)</i>
     - <u>Bashkiria (Regional Special):</u> The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
     - <u>Bashkiria (Regional Special):</u> Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
 - <u>Kabardino-Balkaria & Karachay-Cherkessia (Regional Special):</u> The Culture of Balkars <i>(Балкары, Карачаевцы / Малкъарлыла)</i>

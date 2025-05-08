@@ -61,7 +61,7 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 
 
 <b>🪔 Authentic features:</b>
-- Three Towers of San Marino <i>(Tre Torri di San Marino)</i>
+- Towers of San Marino <i>(Tre Torri di San Marino)</i>
 - The Legend of Saint Marinus <i>(Leggenda di San Marino)</i>
 
 

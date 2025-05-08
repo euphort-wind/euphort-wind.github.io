@@ -65,7 +65,7 @@ Hej! I'm sharing a glimpse of my experience visiting bright Thailand. I was ther
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Thainess <i>(ความเป็นไทย)</i>
 - Thai Massage <i>(นวดแผนไทย)</i>
-- Muay Thai <i>(มวยไทย)</i>
+- The Muay Thai <i>(มวยไทย)</i>
 - The Kathoey <i>(กะเทย)</i>
 - Thai Script <i>(อักษรไทย)</i>
 - Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 

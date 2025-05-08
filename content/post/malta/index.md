@@ -102,8 +102,8 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 
 <b>🪔 Authentic features:</b>
 - Maltese Village Festa <i>(Festa)</i>
-- Għana Folk Singing <i>(Għana)</i>
-- Luzzu Boats <i>(Luzzu)</i>
+- The Għana Folk Singing <i>(Għana)</i>
+- The Luzzu Boats <i>(Luzzu)</i>
 - Maltese Megalithic Temples <i>(Tempji Megalitiċi)</i>
 - Maltese Traditional Balconies <i>(Gallariji Tradizzjonali Maltin)</i>
 - Il-Passju Game <i>(Il-Passju)</i>

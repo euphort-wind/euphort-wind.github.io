@@ -39,7 +39,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
     - Post Office <i>(Post- och Tullhus)</i>
     - Museum of Fisheries and Navigation <i>(Ålands Jakt- och Fiskemuseum)</i>
 2. Mariehamn
-    - Maritime Museum and Pommern Ship <i>(Ålands sjöfartsmuseum)</i>
+    - Maritime Museum and Pommern Ship <i>(Ålands Sjöfartsmuseum)</i>
     - Central Park <i>(Esplanaden)</i>
     - The Sea Quarter <i>(Sjökvarteret)</i>
     - The Town Hall <i>(Mariehamns Stadshus)</i>

@@ -91,7 +91,6 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - The Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - The Sirtaki Dance <i>(Σιρτάκη)</i>
 - The Meander <i>(Μαίανδρος)</i>
-- The Evil Eye Symbol <i>(Κακό Μάτι)</i>
 - Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
 - The Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
   - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>

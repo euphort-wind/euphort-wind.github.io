@@ -302,8 +302,8 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Authentic Principle: Lagom <i>(Lagom)</i>
 - Swedish Fika <i>(Fika)</i>
 - The Crayfish Party <i>(Kräftskiva)</i>
-- Midsummer Celebration <i>(Midsommar)</i>
-- St. Lucy's Day <i>(Lucia)</i>
+- The Midsummer Celebration <i>(Midsommar)</i>
+- The St. Lucy's Day Celebration <i>(Lucia)</i>
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - The Hambo Dance <i>(Hambo)</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 

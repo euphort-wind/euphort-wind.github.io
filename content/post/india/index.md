@@ -88,15 +88,15 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Hinduism <i>(हिन्दू)</i>
 - Buddhism <i>(बुद्ध धर्म)</i>
 - Yoga <i>(योग)</i>
-- Sanskrit <i>(संस्कृतम्)</i>
-- Holi <i>(होली)</i>
-- Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
-- Bharatanatyam Dance <i>(भरतनाट्यम)</i>
+- The Sanskrit <i>(संस्कृतम्)</i>
+- The Holi Celebrations <i>(होली)</i>
+- The Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
+- The Bharatanatyam Dance <i>(भरतनाट्यम)</i>
 - Authentic Musical Instrument: Saraswati Veena <i>(सरस्वती वीणा)</i>
 - Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
 - Indian Cars <i>(Brand: "Mahindra")</i>
 - <u>Karnataka (Regional Special):</u> The Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
-  - <u>Karnataka (Regional Special):</u> Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
+  - <u>Karnataka (Regional Special):</u> The Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
   - <u>Karnataka (Regional Special):</u> The Dasa Sahitya <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
   - <u>Karnataka (Regional Special):</u> Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
 - <u>Goa (Regional Special):</u> The Culture of Goans <i>(गोवा / गोंयकार)</i>

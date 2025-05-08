@@ -133,18 +133,18 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 
 
 <b>🪔 Authentic features:</b>
-- Supra & Tamadas <i>(სუფრა & თამადა)</i>
-- Kvevri-Based Wine Production <i>(ქვევრის ღვინო)</i>
+- The Supra & Tamadas <i>(სუფრა & თამადა)</i>
+- The Kvevri-Based Wine Production <i>(ქვევრის ღვინო)</i>
 - Three Georgian Alphabets <i>(სამი ქართული ანბანი)</i>
+- The Kartuli Dance <i>(ქართული ცეკვა)</i>"
+- The Berikaoba Theater <i>(ბერიკაობა)</i>
+- The Chidaoba Wrestling <i>(ჩიდაობა)</i>
 - Georgian Polyphonic Singing <i>(ქართული მრავალხმიანობა)</i>
-- Kartuli Dance <i>(ქართული ცეკვა)</i>"
-- Berikaoba <i>(ბერიკაობა)</i>
-- Chidaoba <i>(ჩიდაობა)</i>
 - Authentic Musical Instrument: Panduri <i>(ფანდური)</i>
 - Authentic Garb: Chokha & Kabalakhi <i>(ჩოხა & ყაბალახი)</i>
 - The Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>
 - <u>Mtskheta-Mtianeti (Regional Special):</u> The Heritage of the Kingdom of Iberia <i>(ქართლის სამეფო / ივერიის სამეფო)</i>
-- <u>Kakheti (Regional Special):</u> Kakhuri Dance <i>(კახურის ცეკვა)</i>
+- <u>Kakheti (Regional Special):</u> The Kakhuri Dance <i>(კახურის ცეკვა)</i>
 - <u>Kakheti (Regional Special):</u> Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
 - <u>Kakheti (Regional Special):</u> The Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i>
 - <u>Tbilisi-Capital (Regional Special):</u> Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
