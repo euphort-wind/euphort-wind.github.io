@@ -93,11 +93,6 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
   - Imeretian Khachapuri <i>(იმერული ხაჭაპური)</i>
   - Adjarian Khachapuri <i>(აჭარული ხაჭაპური)</i>
   - Penovani Khachapuri <i>(ფენოვანი ხაჭაპური)</i>
-- Georgian Sauces <i>(ქართული სოუსები)</i>
-  - Tkemali <i>(ტყემალი)</i>
-  - Satsebeli <i>(საწებელი)</i>
-  - Bazhe <i>(ბაჟე)</i>
-  - Ajika <i>(აჯიკა)</i>
 - Khinkali <i>(ხინკალი)</i>
 - Satsivi <i>(საცივი)</i>
 - Pkhali <i>(ფხალი)</i>
@@ -107,11 +102,16 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - Mchadi <i>(მჭადი)</i>
 - Kharcho Soup <i>(ხარჩო)</i>
 - Chikhirtma Soup <i>(ჩიხირთმა)</i>
-- Lobio <i>(ლობიო)</i>
-- Lobiani <i>(ლობიანი)</i>
 - Chakhokhbili <i>(ჩახოხბილი)</i>
 - Ajapsandali <i>(აჯაფსანდალი)</i>
 - Abkhazura <i>(აბხაზურა)</i>
+- Georgian Sauces <i>(ქართული სოუსები)</i>
+  - Tkemali <i>(ტყემალი)</i>
+  - Satsebeli <i>(საწებელი)</i>
+  - Bazhe <i>(ბაჟე)</i>
+  - Ajika <i>(აჯიკა)</i>
+- Lobio <i>(ლობიო)</i>
+- Lobiani <i>(ლობიანი)</i>
 - Georgian Wine Ice Cream <i>(ღვინის ნაყინი)</i>
 - Georgian Lemonades <i>(Brands: "Natakhtari Cream Soda", "Kazbegi Tarkhuna", etc.)</i> 
 - Georgian Wine <i>(Brands: "Keburia Rkatsiteli", "Khareba Rkatsiteli", "GRW Saperavi", "Duruji Valley Kisi Qvevri", "Dugladze Mukuzani", "Duruji Valley Kindzmarauli", Kakhetian Home-Made Kindzmarauli, etc.)</i> 

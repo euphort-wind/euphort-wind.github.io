@@ -207,19 +207,22 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 
 <b>🥘 Local food & drinks: </b>
 - Vinegret <i>(Винегрет)</i> 
-- Holodec <i>(Холодец)</i> 
+- Olivier Salad <i>(Салат Оливье)</i> 
+- Kholodets <i>(Холодец)</i> 
+- Russian Caviar Sandwiches <i>(Бутерброд с Икрой)</i> 
 - Solyanka <i>(Солянка)</i> 
 - Ukha <i>(Уха)</i> 
-- Okroshka <i>(Окрошка)</i>  
-- Tyurya <i>(Тюря)</i> 
 - Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
+- Okroshka <i>(Окрошка)</i>  
+    - Okroshka with Kefir <i>(Окрошка на Кефире)</i> 
+    - Okroshka with Kvas <i>(Окрошка на Квасе)</i> 
 - Russian Dumplings <i>(Пельмени)</i>
     - Dumplings with Meat <i>(Пельмени c Мясом)</i>
     - Dumplings with Tvorog <i>(Варенники с Творогом)</i>
     - Dumplings with Mashed Potatoes <i>(Варенники с Картошкой)</i>
     - Dumplings with Cabbage <i>(Варенники с Капустой)</i>
 - Coulibiac <i>(Кулебяка)</i> 
-- Paskha <i>(Творожная Пасха)</i> 
+- Easter Paskha <i>(Творожная Пасха)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya", etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
@@ -233,8 +236,9 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Libzhe <i>(Либжа / Либжэ)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Lyagur <i>(Лягур / Лягур)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
-- <u>North Ossetia (Regional Special):</u> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Dzykka <i>(Дзыкка / Дзыкка)</i>
+- <u>North Ossetia (Regional Special):</u> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
+
 
 
 <b>🎬 Local movies:</b>
