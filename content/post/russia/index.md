@@ -215,7 +215,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
 - Okroshka <i>(Окрошка)</i>  
     - Okroshka with Kefir <i>(Окрошка на Кефире)</i> 
-    - Okroshka with Kvas <i>(Окрошка на Квасе)</i> 
+    - Okroshka with Kvass <i>(Окрошка на Квасе)</i> 
 - Russian Dumplings <i>(Пельмени)</i>
     - Dumplings with Meat <i>(Пельмени c Мясом)</i>
     - Dumplings with Tvorog <i>(Варенники с Творогом)</i>
