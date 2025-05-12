@@ -1,6 +1,6 @@
 ---
 title: Euphort Wind - Simple Human Happiness
-summary: Created in 2023, inspired by wedding. Genre - Chill Out, Electronic. 
+summary: Produced in 2023. Genre - Ambient.
 tags:
   - Demo
 date: "2023-03-09T00:00:00Z"
