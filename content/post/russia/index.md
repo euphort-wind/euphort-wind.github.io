@@ -265,7 +265,6 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-ушанка)</i> 
 - The Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
-- The Heritage of the USSR <i>(CCCP)</i>
 - <u>Bashkiria (Regional Special):</u> The Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
     - <u>Bashkiria (Regional Special):</u> The Sabantuy Celebration <i>(Сабантуй / Һабантуй)</i>
     - <u>Bashkiria (Regional Special):</u> The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
