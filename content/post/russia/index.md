@@ -49,20 +49,24 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - Sparrow Hills <i>(Ворбьёвы Горы)</i>
 2. Ekaterinburg
     - Sevastyanov's Mansion <i>(Дом Севастьянова)</i>
-    - Vainera street <i>(Улица Вайнера)</i>
+    - Vainera Street <i>(Улица Вайнера)</i>
     - Ganina Yama <i>(Ганина Яма)</i>
     - National Park "Bazhov's places" <i>(Бажовские места)</i>
-    - Plotinka <i>(Плотинка)</i>
+    - Ekaterinburg Plotinka <i>(Плотинка)</i>
+    - Yekaterinburg-City <i>(Екатеринбург-Сити)</i>
+    - Boris Yeltsin Presidential Center <i>(Ельцин-Центр)</i>
 3. Magnitogorsk
     - Pervaya Palatka <i>(Первая Палатка)</i>
     - Magnitogorsk Museum <i>(Магнитогорский Краеведческий Музей)</i>
     - Metallurg Arena <i>(Арена "Металлург")</i>
     - Ascension Cathedral <i>(Храм Вознесения Господня)</i>
     - Prityazheniye Park <i>(Парк "Притяжение")</i>
+    - Magnitogorsk Clock Tower <i>(Куранты)</i>
 4. Zelyonaya Polyana
     - Bannoye Lake <i>(Озеро Банное)</i>
-    - Sanatorium "Yubileiny" <i>(Санаторий "Юбилейный")</i>
-    - Metallurg Ski-center and the Ural Mountains <i>(ГЛЦ "Металлург" и Уральские Горы)</i>
+    - Yubileiny Sanatorium  <i>(Санаторий "Юбилейный")</i>
+    - Yakty-Kul Sanatorium <i>(Санаторий "Якты-Куль")</i>
+    - Metallurg Ski-Center and the Ural Mountains <i>(ГЛЦ "Металлург" и Уральские Горы)</i>
     - Kuzhanovo Larches <i>(Кужановские Лиственницы)</i>
 5. Kusimovsky Rudnik
     - Sabakty Lake <i>(Озеро Чебачье)</i>
@@ -76,9 +80,10 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 8. Saint Petersburg
     - State Hermitage Museum <i>(Эрмитаж)</i>
     - Nevsky Avenue <i>(Невский Проспект)</i> 
-    - Pushkin's Appartment <i>(Мемориальный музей-квартира А. С. Пушкина)</i> 
-    - Savior on the Spilled Blood <i>(Спас на Крови)</i> 
-    - Kazan Cathedral <i>(Казанский собор)</i> 
+    - Pushkin's Appartment <i>(Мемориальный Музей-Квартира А. С. Пушкина)</i> 
+    - Church of the Savior on Blood <i>(Спас-на-Крови)</i> 
+    - Kazan Cathedral <i>(Казанский Собор)</i> 
+    - Vasilyevsky Island <i>( Васильевский Остров)</i> 
 9. Pavlovsk 
     - Pavlovsk Museum <i>(Павловский Дворец)</i> 
 10. Gatchina
@@ -89,49 +94,49 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 12. Revda
     - Karl Liebknecht Street <i>(Улица Карла Либнехта)</i> 
 13. Aleksandrovskii-Arkaim
-    - Settlement "Arkaim" <i>(Городище "Аркаим")</i> 
+    - Arkaim Settlement <i>(Городище "Аркаим")</i> 
     - Museum of Ancient Productions <i>(Музей Древних Производств)</i> 
-    - Shamanka mount <i>(Гора Шаманка)</i>
+    - Shamanka Mount <i>(Гора Шаманка)</i>
     - Museum of Nature and Man <i>(Музей "Природы и человека")</i> 
 14. Roza Khutor
     - Mzymta Square <i>(Площадь Мзымта)</i> 
-    - Boomerang casino <i>(Казино "Бумеранг")</i> 
-    - My Russia Ethnic Park <i>("Моя Россия")</i> 
-    - Ski-center "Rosa Khutor" and the Caucasus Mountains <i>(ГЛЦ "Роза Хутор" и Кавказские Горы)</i> 
+    - Boomerang Casino <i>(Казино "Бумеранг")</i> 
+    - My Russia Ethnic Park <i>(Этнографичкский Парк "Моя Россия")</i> 
+    - Rosa Khutor Ski-Center and the Caucasus Mountains <i>(ГЛЦ "Роза Хутор" и Кавказские Горы)</i> 
     - Rodelbahn <i>(Родельбан)</i> 
 15. Sochi
-    - Sanatorium named after Ordzhonikidze <i>(Санаторий им. Орджоникидзе)</i> 
-    - Sochi Central Embankment <i>(Центральная Набережная Сочи)</i> 
+    - Ordzhonikidze Sanatorium <i>(Санаторий им. Орджоникидзе)</i> 
+    - Sochi Central Waterfront <i>(Центральная Набережная Сочи)</i> 
     - Skypark <i>(Скайпарк)</i> 
-    - Park "Dendrariy" <i>(Парк "Дендрарий")</i> 
-    - Park "Riviera" <i>(Парк "Ревьера")</i> 
-    - Yew-boxwood Grove <i>(Тисо-Самшитовая Роща)</i> 
+    - Dendrariy Park <i>(Парк "Дендрарий")</i> 
+    - Riviera Park <i>(Парк "Ревьера")</i> 
+    - Yew-Boxwood Grove <i>(Тисо-Самшитовая Роща)</i> 
     - Agur Waterfalls <i>(Агурские Водопады)</i> 
     - Observation Tower on Mount Akhun <i>(Смотровая Башня на г. Ахун)</i> 
 16. Adler
     - Olympic Park <i>(Олимпийский Парк)</i> 
-    - Adler Central Embankment <i>(Центральная Набережная Адлера)</i> 
+    - Adler Central Waterfront <i>(Центральная Набережная Адлера)</i> 
     - Sochi Park <i>(Сочи Парк)</i> 
 17. Kislovodsk 
     - Kislovodsk National Park <i>(Курортный Парк)</i>
     - Narzan Gallery <i>(Нарзанная Галерея)</i>
     - Kurortny Boulevard <i>(Курортный Бульвар)</i>
     - Cascade Staircase <i>(Каскадная Лестница)</i>
-    - Sanatorium "Victoria" <i>(Санаторий "Виктория")</i> 
+    - Victoria Sanatorium <i>(Санаторий "Виктория")</i> 
 18. Essentuki 
     - Kurortnyy Park <i>(Ессентукский Курортный Парк)</i> 
     - Essentuki Mud Baths <i>(Ессентукская Грязелечебница)</i> 
     - Rio-de-Kavkaz <i>(Рио-де-Кавказ)</i> 
     - St. Nicholas Church <i>(Свято-Никольская Церковь)</i> 
-    - Sanatorium "Metallurg" <i>(Санаторий "Металлург")</i> 
-    - Drinking Gallery Victoria <i>(Питьевая Галерея "Виктория")</i> 
+    - Metallurg Sanatorium <i>(Санаторий "Металлург")</i> 
+    - Victoria Drinking Gallery <i>(Питьевая Галерея "Виктория")</i> 
     - Drinking Gallery of Source No. 4 <i>(Питьевая Галерея Источника № 4)</i> 
 19. Pyatigorsk
-    - "Tsvetnik" Park <i>(Парк "Цветник")</i> 
+    - Tsvetnik Park <i>(Парк "Цветник")</i> 
     - Lermontov Gallery <i>(Лермонтовская Галерея)</i> 
-    - Lake Proval <i>(Озеро Провал)</i> 
+    - Proval Lake <i>(Озеро Провал)</i> 
     - Aeolian Harp <i>(Эолова арфа)</i> 
-    - Museum-reserve of Mikhail Lermontov <i>(Музей-заповедник М.Ю.Лермонтова)</i> 
+    - Museum-Reserve of Mikhail Lermontov <i>(Музей-Заповедник М.Ю.Лермонтова)</i> 
     - Kirov Avenue <i>(Проспект Кирова)</i> 
 20. Zheleznovodsk
     - Palace of the Emir of Bukhara <i>(Дворец Эмира Бухарского)</i> 
@@ -145,18 +150,18 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - Assumption Monastery Vtoroafonsky Beshtaugorsky <i>(Успенский Второафонский Монастырь)</i> 
 22. Nalchik
     - Atazhukinsky Garden <i>(Атажукинский Сад)</i>
-    - Nalchin Sweets <i>("Нальчик Сладость")</i>
+    - Nalchik Sweets Factory <i>(Фабрика "Нальчик Сладость")</i>
     - Kurortnoye Lake <i>(Курортное Озеро)</i>
     - Kabardinskaya Street <i>(Улица Кабардинская)</i>
     - Medovy Waterfalls <i>(Медовые Водопады)</i>
     - Narzan Valley <i>(Долина Нарзанов)</i>
 23. Arhyz
-    - "The face of God" <i>("Лик Христа")</i>
-    - Ski-center "Arkhyz" and the Caucasus Mountains <i>(ГЛЦ "Архыз" и Кавказские Горы)</i>
+    - "The Face of God" <i>("Лик Христа")</i>
+    - Arkhyz Ski-Center and the Caucasus Mountains <i>(ГЛЦ "Архыз" и Кавказские Горы)</i>
     - Special Astrophysical Observatory <i>(Обсерватория)</i>
     - Nizhnearkhyz Settlement <i>(Нижнеархызское Городище)</i>
 24. Mineralny Vody
-    - Train Station <i>(Железнодорожный Вокзал)</i>
+    - Mineralny Vody Central Station <i>(Железнодорожный Вокзал)</i>
     - City Park <i>(Городской Парк)</i>
 25. Fiagdon
     - Tsimiti <i>(Цимити)</i>
@@ -167,7 +172,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - Karmadon Gorge <i>(Кармадонское Ущелье)</i>
     - Dargavs Gorge <i>(Даргавское Ущелье)</i>
 27. Fasnal 
-    - Fasnal Fabric <i>(Бельгийская Фабрика)</i>
+    - Fasnal Factory <i>(Бельгийская Фабрика)</i>
 28. Zadalessk
     - Nana Zadaleski Museum <i>(Музей Наны Задалески)</i>
     - Digori Gorge <i>(Дигорское Ущелье)</i>
@@ -175,18 +180,18 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - The Mukhtarov Mosque <i>(Мечеть Мухтарова)</i>
     - Park of Culture and Recreation <i>(Парк Культуры и Отдыха)</i>
     - National Museum of North Ossetia <i>(Национальный Музей Северной Осетии)</i>
-    - Embankment of the Terek River <i>(Набережная Реки Терек)</i>
+    - Vladikavkaz Central Waterfront <i>(Набережная Реки Терек)</i>
     - Mira Avenue <i>(Проспект Мира)</i>
 30. Sterlitamak
-    - Cinema "Salavat" <i>(Кинотеатр "Салават")</i>
+    - Salavat Cinema <i>(Кинотеатр "Салават")</i>
     - Zemstvo Government Building <i>(Здание Земской Управы)</i>
 31. Orenburg
     - Clock Tower <i>(Башня с Часами)</i>
     - Sovietskaya Street <i>(Улица Советская)</i>
     - Elizabethan Gate <i>(Елизаветинские Ворота)</i>
-    - Embankment of the Ural River <i>(Оренбургская Набережная)</i>
+    - Orenburg Central Waterfront <i>(Оренбургская Набережная)</i>
     - Water Tower <i>(Водонапорная Башня)</i>
-    - Park "Zelyonaya Roscha" <i>(Парк "Зелёная роща")</i>
+    - Zelyonaya Roscha Park <i>(Парк "Зелёная Роща")</i>
 
   
 <b>🎧 Local musicians: </b>
