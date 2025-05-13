@@ -1,5 +1,5 @@
 ---
-title: 'On the Use of GPT-4 in the Reverse Engineering of Class Diagrams'
+title: 'On the use of GPT-4 in the reverse engineering of class diagrams'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
