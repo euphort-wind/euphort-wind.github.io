@@ -1,6 +1,6 @@
 ---
 title: Euphort Wind - Respire
-summary: Produced in 2020. Genre - Future Garage. 
+summary: 'Produced in 2020. Genre: Future Garage' 
 tags:
   - Demo
 date: "2020-09-27T00:00:00Z"
