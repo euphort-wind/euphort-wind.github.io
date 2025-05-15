@@ -11,7 +11,7 @@ authors:
 
 
 date: '2025-02-05T00:00:00Z'
-doi: ''
+doi: '10.1145/3672608.3707754'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-01T00:00:00Z'
@@ -22,8 +22,8 @@ publishDate: '2022-07-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In the *40th ACM/SIGAPP Symposium On Applied Computing '25* (preprint)
-publication_short: In *SIGAPP SAC 2025* (preprint)
+publication: In the *40th ACM/SIGAPP Symposium On Applied Computing '25*
+publication_short: In *SIGAPP SAC 2025*
 
 abstract: When building a machine-learning-enabled system, quality objectives are achieved through architectural and non-architectural tactics, including general ones as well as specific ones that address machine learning specifics, such as the focus on data. However, implementing these tactics typically compromises other quality attributes that are not the primary focus of the tactic at hand. Previous research has investigated quality aspects and tactics for machine-learning-enabled systems, but there is a lack of detailed insights on quality trade-offs observed in industrial practice, and how companies address them. A study in this direction could especially help start-ups and SMEs to benefit from the insights of other companies, and academics to develop improved tactics addressing these trade-offs in alternative, potentially more effective ways. In this paper, to fill this gap, we present a multiple-case study of four companies in the AI sphere. As AI solution providers, all companies are faced with a variety of quality priorities, tactics, and trade-offs in their addressed application domains. We find that our subject companies consistently address a common set of core quality priorities, encompassing reliability, functional suitability, and resource efficiency, which they address with recurring architectural tactics such as the use of cloud-based components for resource efficiency, and non-architectural ones such as Scrum practices for functionality suitability. Finally, we find a variety of trade-offs appearing in different companies with several recurring ones, two of them efficiency vs. reliability, and system accuracy vs. explainability manifesting themselves in three out of the four companies.
 
@@ -37,7 +37,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.danielstrueber.de/publications/IWS-SAC25.pdf'
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3672608.3707754'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
