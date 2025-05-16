@@ -32,7 +32,7 @@ gallery_item:
 Hej! I share an extract of my life in charming Sweden. I was there in the autumn of 2021 and live there since the spring of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Brännö, Strysö, Donsö, Vrångö, Ockerö, Hönö, Björkö,  Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna, Lödöse, Halmstad, Nödinge-Nol, Karlstad. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Brännö, Strysö, Donsö, Vrångö, Ockerö, Hönö, Björkö,  Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna, Lödöse, Halmstad, Nödinge-Nol, Karlstad, Skövde. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -232,6 +232,10 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Mariebergsskogen <i>(Mariebergsskogen)</i>
     - Main Square <i>(Stora Torg)</i>
     - East Bridge <i>(Gamla Stenbron)</i>
+54. Skövde
+    - Hertig Johans Square <i>(Hertig Johans Torg)</i>
+    - Helensparken <i>(Helensparken)</i>
+    - Boulognerskogen <i>(Boulognerskogen)</i>
 
 <b>🎧 Local musicians: </b>
 - 🇸🇪 Tomas Ledin (singer). Genre: pop
@@ -273,6 +277,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Princess Cake <i>(Prinsesstårta)</i>
 - Saffron Buns <i>(Lussekatter)</i>
 - Kladdkaka <i>(Kladdkaka)</i>
+- Wallenbergare <i>(Wallenbergare)</i>
 - Jansson's Temptation <i>(Janssons Frestelse)</i>
 - Flying Jacob <i>(Flygande Jacob)</i>
 - Boiled Egg with Caviar <i>(Ägg med Kaviar)</i> 
