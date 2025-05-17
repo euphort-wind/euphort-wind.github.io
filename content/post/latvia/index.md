@@ -38,11 +38,18 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 1. Riga
     - Old Riga <i>(Vecrīga)</i>
     - House of the Blackheads <i>(Melngalvju Nams)</i>
+    - Riga Cathedral <i>(Rīgas Doms)</i>
+    - St. Peter's Church <i>(Svētā Pētera Baznīca)</i>
+    - Riga Central Market <i>(Rīgas Centrāltirgus)</i>
+    - The Three Brothers  <i>(Trīs Brāļi)</i> 
     - Freedom Monument <i>(Brīvības Piemineklis)</i>
     - Riga Castle <i>(Rīgas Pils)</i>
 2. Jurmala
     - Dzintari Forest Park <i>(Dzintaru Mežaparks)</i>
-    - Open-air Museum <i>(Jūrmala Brīvdabas Muzejs)</i>
+    - Jurmala Open-air Museum <i>(Jūrmala Brīvdabas Muzejs)</i>
+    - Jomas Street <i>(Jomas Iela)</i>
+    - Dubulti Lutheran Church <i>(Dubultu Luterāņu Baznīca)</i>
+    - Aspazija's House <i>(Aspazijas Māja)</i>
 3. Tukums
     - Tukuma Evangelical Lutheran Church <i>(Tukuma Evaņģēliski Luteriskā Baznīca)</i>
     - Freedom Square <i>(Brīvības Laukums)</i>
