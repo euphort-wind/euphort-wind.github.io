@@ -106,6 +106,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 - The Luzzu Boats <i>(Luzzu)</i>
 - Maltese Megalithic Temples <i>(Tempji Megalitiċi)</i>
 - Maltese Traditional Balconies <i>(Gallariji Tradizzjonali Maltin)</i>
+- Maltese Baroque Architecture <i>(Arkitettura Barokka f'Malta)</i>
 - Il-Passju Game <i>(Il-Passju)</i>
 - Authentic Musical Instrument: Ċuqlajta <i>(Ċuqlajta)</i> 
 - The Heritage of the Hospitaller Malta <i>(Żmien il-Kavallieri / Status Monasticus Ordinis Sancti Ioannis Hierosolymitani)</i>

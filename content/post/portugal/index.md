@@ -69,6 +69,11 @@ Hej! I'm sharing a glimpse of my experience visiting bright and contrasty Portug
 - 🇵🇹 Resistência (band). Genre: retro-pop
 - 🇵🇹 Ivandro (singer). Genre: pop
 
+
+<b>🎚️ Contribution to EDM: </b>
+- Batida. Originated: early 2000s
+
+
 <b>🥘 Local food & drinks: </b>
 - Serra da Estrela Cheese <i>(Queijo Serra da Estrela)</i>
 - Caldo Verde Soup <i>(Caldo verde)</i>
@@ -94,7 +99,8 @@ Hej! I'm sharing a glimpse of my experience visiting bright and contrasty Portug
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Saudade <i>(Saudade)</i>
 - The Fado Music <i>(Fado)</i>
-- Portuguese Architecture <i>(A Arquitetura Portuguesa)</i> 
+- The Manueline Architecture <i>(Estilo Manuelino)</i> 
+- The Pombaline Architecture <i>(Estilo Pombalino)</i> 
 - The Azulejo <i>(Azulejo)</i>
 - Portuguese Seamanship and Maritime Exploration <i>(Marinharia e Exploração Marítima)</i> 
 - Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>   

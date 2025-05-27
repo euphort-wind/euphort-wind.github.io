@@ -91,6 +91,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - The Beseda Dance <i>(Česká Beseda)</i>
 - Czech Puppetry <i>(České Loutkářství)</i>
 - Czech Cars <i>(Brand: "Škoda")</i>
+- Czech Gothic Architecture <i>(Česká Gotická Architektura)</i>
 - The St. Wenceslas Day Celebration <i>(Den České Státnosti)</i>
 - Authentic Musical Instrument: Bohemian Harp <i>(Harfa)</i>
 - Authentic Garb: Czech Kroj <i>(Kroje)</i>

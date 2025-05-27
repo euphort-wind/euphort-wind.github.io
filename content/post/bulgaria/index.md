@@ -27,7 +27,7 @@ gallery_item:
     caption: Sveti Vlas
   - album: bulgaria
     image: 6kebabche.jpg
-    caption: Bulgarian kebapche
+    caption: Bulgarian Kebapche
 ---
 Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was there in the summer of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.

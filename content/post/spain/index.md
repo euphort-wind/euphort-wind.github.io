@@ -84,6 +84,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - The Siesta <i>(Siesta)</i>
 - The Flamenco <i>(Flamenco)</i>
 - Spanish Bullfighting <i>(Corrida)</i>
+- Mudéjar Architecture <i>(Arte Mudéjar)</i>
 - Spanish Cars <i>(Brand: "SEAT")</i>
 - Authentic Musical Instrument: Castanets <i>(Castañuelas)</i> 
 - Authentic Garb: Mantilla and Traje de Luces <i>(Mantilla y Traje de Luces)</i>

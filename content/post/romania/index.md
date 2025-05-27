@@ -53,6 +53,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🇷🇴 Akcent (band). Genre: eurodance
 - 🇷🇴 Mario Fresh (singer). Genre: pop
 - 🇺🇳 Morandi (duo). Genre: eurodance
+- 🇺🇳 Alis Shuka (singer). Genre: pop
 - 🇺🇳 INNA (singer). Genre: pop
 - 🇺🇳 Edward Maya (DJ). Genre: eurodance
 - 🇺🇳 Minelli (singer). Genre: pop
@@ -76,6 +77,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - The Doina <i>(Doina)</i>
 - The Paparuda Ritual <i>(Păpăluga)</i> 
 - The Martisor <i>(Mărțișor)</i> 
+- Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
 - Romanian Cars <i>(Brand: "Dacia")</i>
 - Authentic Musical Instrument: Romanian Nai <i>(Nai)</i> 
 - The Culture of Romani <i>(Romi / Romane Manusha)</i>
