@@ -97,7 +97,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - Bosniak Epic Poetry <i>(Bošnjačke Epske Narodne Pjesme)</i>
 - The Sevdah Music <i>(Sevdah)</i>
 - Konjic Woodcarving <i>(Konjic Woodcarving)</i>
-- Bosnian-Styled Architecture <i>(Bosanski Stil u Arhitekturi)</i>
+- Bosnian-Style Architecture <i>(Bosanski Stil u Arhitekturi)</i>
 - The Heritage of the Bosnian Kingdom <i>(Kraljevina Bosna / Краљевина Босна)</i>
     - Bosnian Church <i>(Crkva Bosanska)</i>
     - Stećci <i>(Stećci)</i>
