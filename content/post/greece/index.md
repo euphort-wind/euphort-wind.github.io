@@ -103,7 +103,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - <u>Crete (Regional Special):</u> Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
 - <u>Crete (Regional Special):</u> Authentic Garb: Stivania & Sariki <i>(Στιβάνια & Σαρίκη)</i>
 - <u>South Aegean (Regional Special):</u> The Legend of the Colossus of Rhodes <i>(ὁ Κολοσσὸς Ῥόδιος)</i>
-
+- <u>South Aegean (Regional Special):</u> Santorini Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
 
 <b>💐 National flower: </b> Bear's Breech <i>(Άκανθος)</i>
 - <u>Crete (Regional Special):</u> Cretan Dittany <i>(Δίκταμο / Έρωντας)</i>

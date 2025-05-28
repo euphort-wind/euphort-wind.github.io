@@ -70,7 +70,8 @@ Hej! I'm sharing a glimpse of my experience visiting bright Thailand. I was ther
 - Thai Script <i>(อักษรไทย)</i>
 - Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
 - Authentic Garb: Panung <i>(ผ้านุ่ง)</i>
-
+- The Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>
+- The Heritage of the Rattanakosin Kingdom <i>(อาณาจักรรัตนโกสินทร์)</i>
 
 <b>💐 National flower: </b> Purging Cassia <i>(ดอกราชพฤกษ์)</i>
 

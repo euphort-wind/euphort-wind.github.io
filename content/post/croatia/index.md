@@ -90,7 +90,8 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - Croatian Lace <i>(Čipkarstvo)</i>
 - The Story of Klepetan and Malena <i>(Klepetan i Malena)</i>
 - The Zvončari Festival <i>(Zvončari)</i>  
-- The Angular Glagolitic Script <i>(Hrvatska Glagoljica)</i> 
+- The Angular Glagolitic Script <i>(Hrvatska Glagoljica)</i>
+- Croatian Pre-Romanesque Architecture <i>(Starohrvatska Umjetnost)</i>
 - Authentic Musical Instrument: Tamburica <i>(Tamburica)</i>
 - Authentic Garb: Cravat and Šibenik Cap <i>(Kravata i Šibenik Kapa)</i>  
 - The Legacy of Illyrians <i>(Iliri / Ἰλλυριοί)</i>

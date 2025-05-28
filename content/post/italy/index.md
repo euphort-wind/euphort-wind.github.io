@@ -200,6 +200,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - Italian Folk Music <i>(Musica Popolare Italiana)</i> 
 - The Latin Alphabet <i>(Alfabeto Latino)</i> 
 - The Tarantella Dance <i>(Tarantella)</i> 
+- Italian Neoclassical Architecture <i>(Architettura Neoclassica Italiana)</i> 
 - Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace" etc.)</i> 
 - Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT" etc.)</i>
 - Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
@@ -213,7 +214,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i> 
-- <u>Tuscany (Regional Special):</u> The Renaissance Cultural Movement <i>(Il Movimento Culturale Rinascimentale)</i> 
+- <u>Tuscany (Regional Special):</u> The Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i> 
 - <u>Tuscany (Regional Special):</u> The Medici Porcelain <i>(Porcellane Medicee)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Bologna Process <i>(Processo di Bologna)</i> 
 - <u>Emilia-Romagna (Regional Special):</u> The Liscio Dance <i>(Ballo Liscio)</i> 
@@ -222,7 +223,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - <u>Sicily (Regional Special):</u> The Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
   - <u>Sicily (Regional Special):</u> The Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
   - <u>Sicily (Regional Special):</u> Sicilian Cart <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
-  - <u>Sicily (Regional Special):</u> Sicilian Baroque <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
+  - <u>Sicily (Regional Special):</u> Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
   - <u>Sicily (Regional Special):</u> Sicilian Moorish Heads <i>(Testa di Moro / Testa di Moor)</i> 
   - <u>Sicily (Regional Special):</u> Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
 

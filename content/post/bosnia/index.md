@@ -98,6 +98,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - The Sevdah Music <i>(Sevdah)</i>
 - Konjic Woodcarving <i>(Konjic Woodcarving)</i>
 - Bosnian-Style Architecture <i>(Bosanski Stil u Arhitekturi)</i>
+- Authentic Musical Instrument: Šargija <i>(Šargija)</i> 
 - The Heritage of the Bosnian Kingdom <i>(Kraljevina Bosna / Краљевина Босна)</i>
     - Bosnian Church <i>(Crkva Bosanska)</i>
     - Stećci <i>(Stećci)</i>

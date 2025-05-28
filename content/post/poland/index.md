@@ -96,6 +96,8 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - The Polonaise Dance <i>(Polonez)</i>
 - The Mazurka Dance <i>(Mazurek)</i>
 - Polish Name Day Celebrations <i>(Imieniny)</i>
+- Brick Gothic Architecture <i>(Gotyk Ceglany)</i>
+- Zakopane Style Architecture <i>(Styl Zakopiańskiy)</i>
 - Authentic Musical Instrument: Koza <i>(Koza)</i>
 - Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i> 
 - The Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i>

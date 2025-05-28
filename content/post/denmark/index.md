@@ -91,6 +91,8 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - Danish Easter Letters <i>(Gækkebreve)</i>
 - Danish Fairy Tales <i>(Danske Eventyr)</i>
 - The Legend of Danish Flag <i>(Dannebrog)</i>
+- The Half-Timbered Architecture <i>(Bindingsværk)</i>
+- The Nordic Classical Architecture <i>(Den Nordiske Klassiske Arkitektur)</i>
 - Authentic Musical Instrument: Lur <i>(Lur)</i>
 
 
