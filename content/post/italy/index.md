@@ -214,7 +214,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i> 
-- <u>Tuscany (Regional Special):</u> The Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i> 
+- <u>Tuscany (Regional Special):</u> Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i> 
 - <u>Tuscany (Regional Special):</u> The Medici Porcelain <i>(Porcellane Medicee)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Bologna Process <i>(Processo di Bologna)</i> 
 - <u>Emilia-Romagna (Regional Special):</u> The Liscio Dance <i>(Ballo Liscio)</i> 
