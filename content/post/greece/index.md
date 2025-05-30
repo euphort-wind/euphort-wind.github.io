@@ -79,6 +79,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - Frappé <i>(Фραπέ)</i>
 - Greek Liqueur <i>(Brand: "Metaxa")</i> 
 - <u>Crete (Regional Special):</u> Cretan “Turban” Pies <i>(Σαρικό Πίτες)</i>
+- <u>Crete (Regional Special):</u> Dakos <i>(Ντάκος)</i>
 
 
 <b>🎬 Local movies:</b>
