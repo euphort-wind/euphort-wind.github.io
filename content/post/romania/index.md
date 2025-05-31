@@ -74,7 +74,8 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 
 <b>🪔 Authentic features:</b>
 - Romanian Hora Dance <i>(Hora)</i>
-- The Doina <i>(Doina)</i>
+- The Doina Song <i>(Doina)</i>
+- The Ballad of Miorița <i>(Miorița)</i>
 - The Paparuda Ritual <i>(Păpăluga)</i> 
 - The Martisor <i>(Mărțișor)</i> 
 - Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
@@ -83,6 +84,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - The Culture of Romani <i>(Romi / Romane Manusha)</i>
   - Authentic Principle: Romanipen <i>(Romanipenul / Romanipen)</i>
   - The Lăutari <i>(Lăutari / Lăutari)</i> 
+  - The Manele Music <i>(Manele / Manele)</i> 
   - Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
 - The Legacy of Dacians <i>(Dacii / Δάκοι)</i>
 - The Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>

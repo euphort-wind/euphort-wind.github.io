@@ -102,7 +102,6 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i> 
 - The Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i>
 - <u>Pomeranian (Regional Special):</u> The Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
-- <u>Pomeranian (Regional Special):</u> The Legacy of Prussians <i>(Prusacy / Prūsai)</i>
 
 
 <b>💐 National flower: </b> Red Poppy <i>(Mak Polny)</i>
