@@ -37,24 +37,25 @@ Hej! I'm sharing a glimpse of my experience visiting bright Thailand. I was ther
 <b>🏛 Top sights visited: </b>
 1. Patong
     - Bangla Road <i>(ถนนบางลา)</i>
-    - Patong Beaches <i>(หาดป่าตอง)</i>
+    - Patong Beach <i>(หาดป่าตอง)</i>
+    - Jungceylon <i>( Jungceylon)</i>
     - Patong Promenade <i>(ป่าตองพรอมนาด)</i>
-    - Thai Massage Salons <i>(ร้านนวดแผนไทย)</i>
 2. Kathu
     - Flying Hanuman Zipline <i>(ซิปไลน์)</i>
     - Elephant Care <i>(การดูแลช้าง)</i>
 3. Racha Yai
-    - Racha White-Sand Beaches <i>(ชายหาดเกาะราชาใหญ่)</i>
-    - Racha Coast (Diving Places) <i>(ชายฝั่งราชา)</i>
+    - Siam Bay <i>(อ่าวสยาม)</i>
 
 <b>🎧 Local musicians: </b>
 - 🇹🇭 Safeplanet (band). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
 - Tom Yam Soup <i>(ต้มยำ)</i>
-- Thai Seafood Fried Rice <i>(ข้าวผัด)</i>
+- Pad Thai <i>(ผัดไทย)</i>
+- Suea Rong Hai <i>(เสือร้องไห้)</i>
+- Khao Pad  <i>(ข้าวผัด)</i>
 - Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
-- Thai Rum <i>(Brand: "Sang Som")</i>
+- Thai Rum <i>(Brand: "SangSom")</i>
 - <u>Phuket (Regional Special)</u>: Grilled Seafood on Skewers <i>(บาร์บีคิวทะเล)</i>
   - Grilled Shrimps on Skewers <i>(กุ้งย่างเสียบไม้)</i>
   - Grilled Clams on Skewers <i>(หอยย่างเสียบไม้)</i>
@@ -66,8 +67,9 @@ Hej! I'm sharing a glimpse of my experience visiting bright Thailand. I was ther
 - Authentic Principle: Thainess <i>(ความเป็นไทย)</i>
 - Thai Massage <i>(นวดแผนไทย)</i>
 - The Muay Thai <i>(มวยไทย)</i>
-- The Kathoey <i>(กะเทย)</i>
 - Thai Script <i>(อักษรไทย)</i>
+- The Khon Dance <i>(โขน)</i>
+- The Tai Folk Religion <i>(ศาสนาผี)</i>
 - Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
 - Authentic Garb: Panung <i>(ผ้านุ่ง)</i>
 - The Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>

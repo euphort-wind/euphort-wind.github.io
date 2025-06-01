@@ -29,7 +29,7 @@ gallery_item:
     image: 8cheese.jpg
     caption: Cyprus Grilled Halloumi 
 ---
-Hej! I'm sharing a glimpse of my experience visiting impressive Cyprus. I was there in the summer of 2016. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there in the summer of 2016. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Ayia Napa, Lefkara, Kakopetria, Limassol.<br>
@@ -38,18 +38,22 @@ Hej! I'm sharing a glimpse of my experience visiting impressive Cyprus. I was th
 1. Ayia Napa
     - Cape Greco National Forest Park <i>(Κάβο Γκρέκο)</i>
     - Ayia Napa Square <i>(Πλατεία Αγίας Νάπας)</i>
-    - Ayia Napa Beaches <i>(Παραλίες Αγίας Νάπας)</i>
-    - Ayia Napa Night Clubs <i>(Νυχτερινά Κέντρα Αγίας Νάπας)</i>
+    - Glyki Nero Beach <i>(Παραλία Γλυκύ Νερό)</i>
+    - Ayia Napa Harbour <i>(Λιμάνι Αγίας Νάπας)</i>
 2. Lefkara
     - The Church Of Holy Cross <i>(Εκκλησία του Τιμίου Σταυρού)</i>
     - Lefkara Square <i>(Πλατεία Λευκάρων)</i>
+    - Museum of Traditional Embroidery and Silversmith <i>(Μουσείο Λευκάρων)</i>
     - Holy Church of Archangel Michael <i>(Ιερός Ναός Αρχαγγέλου Μιχαήλ)</i>
 3. Kakopetria
     - The Old Kakopetria <i>(Παλιά Κακοπετριά)</i>
     - Kakopetria Square <i>(Πλατεία Κακοπετριάς)</i>
+    - The Church of St. Nicholas of the Roof <i>(Άγιος Νικόλαος της Στέγης)</i>
 4. Limassol
+    - Kourion <i>(Koύριov)</i>
     - Limassol Promenade <i>(Περιπάτου Λεμεσού)</i>
-    - Limassol Beaches <i>(Παραλίες Λεμεσού)</i>
+    - Limassol Castle <i>(Κάστρο Λεμεσού)</i>
+    - Limassol Marina <i>(Μαρίνα Λεμεσού)</i>
 
 
 <b>🎧 Local musicians: </b>

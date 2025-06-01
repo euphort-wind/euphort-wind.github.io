@@ -39,9 +39,9 @@ Hej! I'm sharing a glimpse of my experience visiting authentic Egypt. I was ther
 <b>🏛 Top sights visited: </b>
 1. Sharm El-Sheikh
     - Ras Mohamed Nature Reserve <i>(راس محمد)</i>
-    - Sharm El-Sheikh Beaches <i>(شواطئ شرم الشيخ)</i>
-    - Red Sea Fauna <i>(حيوانات البحر الأحمر)</i>
-    - Egyptian Deserts <i>(الصحارى)</i>
+    - Sharm El-Sheikh Old Market <i>(سوق شرم الشيخ القديم)</i>
+    - Shark's Bay Beach <i>(شاطئ خليج القرش)</i>
+    - The Bedouin Village <i>(القرية البدوية)</i>
 
 
 <b>🎧 Local musicians: </b>
@@ -60,6 +60,7 @@ Hej! I'm sharing a glimpse of my experience visiting authentic Egypt. I was ther
 - Ful Medames <i>(فول مدمس)</i>
 - Karkadé Tea <i>(كَركَديه)</i>
 - Aish Baladi <i>(عيش بلدي)</i>
+- Falafel <i>(فلافل)</i>
 - Basbousa <i>(بسبوسه)</i>
 
 
@@ -70,15 +71,15 @@ Hej! I'm sharing a glimpse of my experience visiting authentic Egypt. I was ther
 
 <b>🪔 Authentic features:</b>
 - The Desert Safari <i>(رحلات السفاري الصحراوية)</i>
-- The Henna Painting <i>(رسمة الحناء)</i>
+- The Henna Body Painting <i>(رسمة الحناء)</i>
 - Authentic Musical Instrument: Goblet Drum <i>(دربوكة)</i>
 - Authentic Garb: Galabiya <i>(جالبيا)</i>
 - The Culture of Copts <i>(أقباط / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>
 - The Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
   - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
   - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
-  - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
-  - Ancient Egyptian Sarcophaguses & Mummies <i>(التوابيت المصرية القديمة)</i>
+  - Ancient Egyptian Religion <i>(ديانة قدماء المصريين)</i>
+  - Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة)</i>
   - Ancient Authentic Musical Instrument: Sistrum <i>(الصلاصل)</i>
   - Ancient Authentic Garb: Khat & Shendyt <i>(شنديت و الخات)</i>
 - The Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>

@@ -37,10 +37,15 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 <b>🏛 Top sights visited: </b>
 1. Rhodes
     - Old Town Rhodes <i>(Παλιά Πόλη της Ρόδου)</i>
+    - Palace of the Grand Master of the Knights of Rhodes <i>(Παλάτι του Μεγάλου Μαγίστρου)</i>
+    - The Street of the Knights <i>(Οδός των Ιπποτών)</i>
+    - Ancient Stadium of Rhodes <i>(Αρχαίο Στάδιο της Ρόδου)</i>
+    - Acropolis of Rhodes <i>(Ακρόπολη της Ρόδου)</i>
     - Butterflies Valley <i>(Κοιλάδα πεταλούδων)</i>
     - Ancient Site of Kamiros <i>(Κάμιρος)</i>
 2. Agios Nikolaos
-    - Agios Nikolaos Beaches <i>(Παραλίες Αγίου Νικολάου)</i>
+    - Port d’Agios Nikolaos <i>(Λιμάνι Αγίου Νικολάου)</i>
+    - Almyros Beach <i>(Παραλία Αλμυρού)</i>
     - Lake Voulismeni <i>(Λίμνη Βουλισμένη)</i>
     - Holy Trinity Church <i>(Εκκλησία της Αγίας Τριάδας)</i>
     - Cave of Diktaion Andron <i>(Σπήλαιο Δικταίου Άντρου)</i>  
@@ -53,7 +58,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
     - The Castle of St. Nicholas <i>(Το Κάστρο του Αγίου Νικολάου)</i>
     - Church of Panagia <i>(Εκκλησία της Παναγίας)</i>
     - Nikolaou Nomikou <i>(Νικολάου Νομικού)</i>
-    - Oia Streets <i>(οδούς Οίας)</i> 
+    - Amoudi Bay <i>(Όρμος Αμμούδι)</i>
 5. Gournes
     - Cretaquarium <i>(Θαλασσόκοσμος)</i> 
 
@@ -91,14 +96,13 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - Authentic Principle: Philotimo <i>(Φιλότιμο)</i>
 - The Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - The Sirtaki Dance <i>(Σιρτάκη)</i>
-- The Meander <i>(Μαίανδρος)</i>
 - Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
 - The Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
   - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
   - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
   - Ancient Greek Philosophy <i>(Αρχαία Ελληνική Φιλοσοφία)</i>
   - Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>
-  - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
+  - Ancient Greek Religion <i>(Αρχαία ελληνική θρησκεία)</i>
   - Ancient Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
   - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύς)</i>
 - <u>Crete (Regional Special):</u> Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>

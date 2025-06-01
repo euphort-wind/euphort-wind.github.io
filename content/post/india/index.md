@@ -37,12 +37,15 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 
 <b>🏛 Top sights visited: </b>
 1. Candolim
-    - North Goa Beaches <i>(उत्तरी गोवा समुद्र तट)</i>
+    - Candolim Beach <i>(कैंडोलिम बीच)</i>
     - Fort Aguada <i>(किला अगुआड़ा)</i>
     - Dudhsagar Falls <i>(दूधसागर झरना)</i>
 2. Badami
     - The Cave Temples <i>(बादामी गुफा मंदिर)</i>
     - Pattadakal Temple <i>(पट्टडकल मंदिर)</i>
+    - Badami Fort <i>(बादामी किला)</i>
+    - Sri Bhootanaatha Gudi <i>(भूतनाथ मन्दिर समूह)</i>
+    - Agastya Lake <i>(अगस्त्य झील)</i>
 3. Vijayapura
     - Bara Kaman <i>(बारा कमान)</i>
     - Gol Gumbaz <i>(गोल गुम्बज)</i>
@@ -87,9 +90,9 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Authentic Principle: Ahimsa <i>(अहिंसा)</i>
 - Hinduism <i>(हिन्दू)</i>
 - Buddhism <i>(बुद्ध धर्म)</i>
-- Yoga <i>(योग)</i>
+- The Yoga Practices <i>(योग)</i>
 - The Sanskrit <i>(संस्कृतम्)</i>
-- The Holi Celebrations <i>(होली)</i>
+- The Holi Festival <i>(होली)</i>
 - The Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
 - The Bharatanatyam Dance <i>(भरतनाट्यम)</i>
 - The Nagara Architecture <i>(नागर शैली)</i>
@@ -99,7 +102,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Indian Cars <i>(Brand: "Mahindra")</i>
 - <u>Karnataka (Regional Special):</u> The Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
   - <u>Karnataka (Regional Special):</u> The Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
-  - <u>Karnataka (Regional Special):</u> The Dasa Sahitya <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
+  - <u>Karnataka (Regional Special):</u> The Dasa Sahitya Literature <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
   - <u>Karnataka (Regional Special):</u> Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
 - <u>Goa (Regional Special):</u> The Culture of Goans <i>(गोवा / गोंयकार)</i>
   - <u>Goa (Regional Special):</u> Goa Carnivals <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>

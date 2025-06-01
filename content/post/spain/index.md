@@ -37,15 +37,18 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 <b>🏛 Top sights visited: </b>
 1. Barcelona
     - Basilica de la Sagrada Familia <i>(Basílica i Temple Expiatori de la Sagrada Família)</i>
-    - Park Guell <i>(Parc Güell)</i>
+    - Park Güell <i>(Parc Güell)</i>
+    - La Rambla Street <i>(La Rambla)</i>
+    - Plaça de Catalunya <i>(Plaça de Catalunya)</i>
 2. Salou
     - PortAventura <i>(PortAventura)</i>
-    - Salou Beaches <i>(Playas de Salou)</i>
+    - Ponent Beach <i>(Platja de Ponent)</i>
     - The Ornamental Fountains <i>(Las Fuentes Ornamentales)</i>
 3. Monistrol de Montserrat
     - Montserrat Mountain Natural Park <i>(Parque Natural de la Montaña de Montserrat)</i>
     - Santa Maria de Montserrat Abbey <i>(Abadía de Santa María de Montserrat)</i>
     - Our Lady of Montserrat <i>(Mare de Déu de Montserrat)</i>
+    - Funicular Aeri de Montserrat <i>(Funicular Aeri de Montserrat)</i>
 
 
 <b>🎧 Local musicians: </b>
@@ -62,10 +65,10 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 <b>🥘 Local food & drinks: </b>
 - Tapas-Style Snacks <i>(Tapas)</i>
-  - Jamon Serrano <i>(Jamón Serrano)</i>
-  - Jamon Ibérico <i>(Jamón Ibérico)</i>
-  - Chorizo <i>(Chorizo)</i>
-  - Salchichon <i>(Salchichón)</i>
+  - Jamon Serrano Tapas <i>(Jamón Serrano)</i>
+  - Jamon Ibérico Tapas <i>(Jamón Ibérico)</i>
+  - Chorizo Tapas <i>(Chorizo)</i>
+  - Salchichon Tapas <i>(Salchichón)</i>
 - Paella <i>(Paella)</i>
 - Spanish Omelette <i>(Tortilla)</i>
 - Churro <i>(Churro)</i>

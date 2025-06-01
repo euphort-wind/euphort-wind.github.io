@@ -37,6 +37,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 <b>🏛 Top sights visited: </b>
 1. Petra
+    - The Siq <i>(السيق)</i>
     - Al-Khazneh Treasury <i>(الخزنة)</i>
     - The Urn Tombs <i>(مقابر الجرة)</i>
     - Petra Theater <i>(مسرح البتراء)</i>
@@ -54,13 +55,14 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 <b>🥘 Local food & drinks: </b>
 - Mansaf <i>(منسف)</i>
 - Knafeh <i>(كنافة)</i>
-
+- Hummus <i>(حمص بطحينة)</i>
 
 <b>🎬 Local movies:</b>
 - Captain Abu Raed <i>(كابتن أبو رائد)</i>. Year: 2007. Genres: drama
 
+
 <b>🪔 Authentic features:</b>
-- Al-Mansaf: Festive Banquet <i>(منسف)</i> 
+- The Tradition of Al-Mansaf Festive Banquet <i>(منسف)</i> 
 - Authentic Musical Instrument: Mijwiz <i>(مجوز)</i>
 - Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والتقية)</i> 
 - The Culture of Bedouins <i>(البدو / بَدْو)</i> 
