@@ -38,13 +38,18 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 1. Bishkek
     - Ala-Too Square <i>(Ала-тоо Аянты)</i>
     - Victory Square <i>(Жеңиш Чарчы)</i>
+    - The White House of Bishkek <i>(Жогорку Кенеш)</i>
+    - Kyrgyz National University <i>(Жусуп Баласагын атындагы Кыргыз Улуттук Университети)</i>
     - Oak Park <i>(Эмен Паркы)</i>
+    
     - Kyrgyz National Opera and Ballet Theatre <i>(Кыргыз Улуттук Опера жана Балет Театры)</i>
+    - 
     - Dordoy Bazaar <i>(Дордой Базары)</i>
 2. Cholpon-ata
     - Ruh Ordo Cultural Center <i>(Рух Ордо)</i>
     - Museum of Petroglyphs <i>(Петроглифтер Музейи)</i>
-    - Cholpon-ata Beaches <i>(Чолпон-Ата Пляждары)</i>
+    - Cholpon-ata Town Beach <i>(Чолпон-Ата Шаарынын Пляжы)</i>
+    - Cholpon Fountain <i>(Чолпон Фонтаны)</i>
     - Grigoryevskoye Gorge <i>(Чон-Ак-Суу)</i>
 3. Karakol
     - Holy Trinity Orthodox Church <i>(Ыйык Троица Православ Чиркөөсү)</i>
