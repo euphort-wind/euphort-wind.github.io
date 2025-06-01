@@ -40,13 +40,20 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
     - Stavropoleos Monastery <i>(Mănăstirea Stavropoleos)</i>
     - Bucharest Old Town <i>(Orasul Vechi Bucuresti)</i>
     - The CEC Palace <i>(Palatul CEC)</i>
+    - Curtea Veche Church <i>(Biserica Curtea Veche)</i>
+    - National Bank of Romania <i>(Banca Națională a României)</i>
+    - Palace of Justice <i>(Palatul Justiției)</i>
 2. Sinaia
     - Pelesh Castle <i>(Castelul Peleș)</i>
     - Pelishor Castle <i>(Castelul Pelișor)</i>
     - Sinaia Monastery <i>(Mănăstirea Sinaia)</i>
-    - Sinaia Centre <i>(Centrul Sinaia)</i>
+    - The Casino of Sinaia <i>(Cazinoul Sinaia)</i>
+    - Hotel Palace <i>(Hotel Palace)</i>
+    - Dimitrie Ghica Park <i>(Parcul Dimitrie Ghica)</i>
 3. Bran
     - Bran Castle <i>(Castelul Bran)</i>
+    - Royal Park <i>(Parcul Regal)</i>
+    - The Castle of Horror <i>(Castelul Groazei)</i>
 
 
 <b>🎧 Local musicians: </b>
@@ -60,12 +67,14 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 
 <b>🎚️ Contribution to EDM: </b>
 - Romanian Popcorn. Originated: late 2000s
+- Modern Manele. Originated: early 1990s
 
 
 <b>🥘 Local food & drinks: </b>
 - Tochitura <i>(Tochitură)</i>
 - Sarmale <i>(Sarmale)</i>
-- Romanian Soup <i>(Ciorba)</i>
+- Mititei <i>(Mici)</i>
+- Romanian Ciorba <i>(Ciorba)</i>
 - Romanian Polenta <i>(Mămăligă)</i>
 
 <b>🎬 Local movies:</b>
@@ -84,7 +93,6 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - The Culture of Romani <i>(Romi / Romane Manusha)</i>
   - Authentic Principle: Romanipen <i>(Romanipenul / Romanipen)</i>
   - The Lăutari <i>(Lăutari / Lăutari)</i> 
-  - The Manele Music <i>(Manele / Manele)</i> 
   - Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
 - The Legacy of Dacians <i>(Dacii / Δάκοι)</i>
 - The Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
