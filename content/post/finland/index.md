@@ -86,7 +86,7 @@ Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was ther
 - The Shrove Sunday Celebration <i>(Laskiainen)</i>
 - The Fictional World of Moomins <i>(Muumi)</i>
 - Authentic Musical Instrument: Kantele <i>(Kantele)</i>
-- Authentic Garb: Kansallispuku <i>(Suomalainen Sansallispuku)</i>
+- Authentic Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
 - The Culture of Sami <i>(Saamelaiset / Sámit)</i>
   - Authentic Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
   - Authentic Garb: Beaska & Four Winds Hat <i>(Beaska & Neljäntuulenlakki / Muoddá & Čiehgahpir)

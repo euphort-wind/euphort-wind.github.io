@@ -59,16 +59,17 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
     - Hidirlik Tower <i>(Hıdırlık Kulesi)</i>
 3. Marmaris
     - Marmaris Marina <i>(Marmaris Yat Limanı)</i>
-    - Marmaris Centre <i>(Marmaris Merkez)</i>
-    - Marmaris Mountains <i>(Marmaris Dağları)</i>
+    - Marmaris Castle <i>(Marmaris Kalesi)</i>
+    - Dancing Fountains <i>(Dans Eden Çeşmeler)</i>
+    - Grand Bazaar Marmaris <i>(Marmaris Kapalı Çarşı)</i>
     - Dalyan Mud Bath <i>(Dalyan Çamur Banyosu)</i>
     - Carian Rock Tombs <i>(Karya Kaya Mezarları)</i>
 4. Kemer
     - Phaselis Ancient City <i>(Faselis)</i>
     - Göynük Canyon <i>(Göynük Kanyonu)</i>
     - Lycian Way <i>(Likya Yolu)</i>
-    - Beldibi Beaches <i>(Beldibi)</i>
-    - Kiriş Beaches <i>(Kiriş)</i>
+    - Beldibi Beach <i>(Beldibi)</i>
+    - Kiriş Beach <i>(Kiriş)</i>
 5. Selçuk
     - Ephesus Ancient City <i>(Efes)</i>    
 6. Pamukkale
@@ -78,9 +79,9 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
     - Myra Ancient City <i>(Myra)</i>
     - Kekova Island <i>(Kekova Adası)</i>
 8. Belek 
-    - Belek Beaches <i>(Belek)</i>
+    - Belek Beach <i>(Belek)</i>
 9. Side
-    - Side Beaches <i>(Side)</i>  
+    - Side Beach <i>(Side)</i>  
 
  
 <b>🎧 Local musicians: </b>
@@ -131,7 +132,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - The Halay Dance <i>(Halay)</i>
 - The Bağlama <i>(Bağlama)</i>
 - Turkish Television Drama <i>(Türk Dizileri)</i>
-- The Meddahs <i>(Meddah)</i>
+- The Meddah Performance <i>(Meddah)</i>
 - Authentic Musical Instrument: Bağlama <i>(Bağlama)</i> 
 - Authentic Garb: Shalvar and Yelek <i>(Şalvar ve Yelek)</i>
 - The Heritage of the Byzantine Empire <i>(Bizans İmparatorluğu / Imperium Romanum Orientale)</i>
