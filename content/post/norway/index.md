@@ -110,7 +110,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - Authentic Garb: Bunad <i>(Bunad)</i>
 - The Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i> 
   - The Viking Runic Alphabet <i>(Viking Runealfabet)</i> 
-  - The Viking Mythology <i>(Viking Mytologi)</i> 
+  - Norse Paganism <i>(Norrøn Religion)</i> 
   - The Viking Sagas <i>(Viking Sagalitteratur)</i> 
 
 
