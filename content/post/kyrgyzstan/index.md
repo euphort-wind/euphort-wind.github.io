@@ -41,9 +41,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
     - The White House of Bishkek <i>(Жогорку Кенеш)</i>
     - Kyrgyz National University <i>(Жусуп Баласагын атындагы Кыргыз Улуттук Университети)</i>
     - Oak Park <i>(Эмен Паркы)</i>
-    
     - Kyrgyz National Opera and Ballet Theatre <i>(Кыргыз Улуттук Опера жана Балет Театры)</i>
-    - 
     - Dordoy Bazaar <i>(Дордой Базары)</i>
 2. Cholpon-ata
     - Ruh Ordo Cultural Center <i>(Рух Ордо)</i>

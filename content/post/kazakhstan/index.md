@@ -57,8 +57,10 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
     - Independence Square <i>(Тәуелсіздік Алаңы)</i>
     - Central Park <i>(Орталық Саябақ)</i>
 4. Aktau
-    - Rock Road <i>(Жартас Соқпағы)</i>
-    - Embankment of Aktau <i>(Ақтау Жағалауы)</i>
+    - Rock Path <i>(Жартас Соқпағы)</i>
+    - Botanical Garden <i>(Ботаникалық Бақ)</i>
+    - Aktau Philharmonic Society <i>(Облыстық филармония)</i>
+ 
 
 <b>🎧 Local musicians: </b>
 - 🇰🇿 Adam (singer). Genre: pop 
