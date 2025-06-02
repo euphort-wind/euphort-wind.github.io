@@ -66,6 +66,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
     - Carian Rock Tombs <i>(Karya Kaya Mezarları)</i>
 4. Kemer
     - Phaselis Ancient City <i>(Faselis)</i>
+    - Kemer Republic Square <i>(Kemer Cumhuriyet Meydanı)</i>
     - Göynük Canyon <i>(Göynük Kanyonu)</i>
     - Lycian Way <i>(Likya Yolu)</i>
     - Beldibi Beach <i>(Beldibi)</i>
