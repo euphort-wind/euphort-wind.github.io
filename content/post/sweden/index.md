@@ -212,7 +212,6 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Lummelunda Cave <i>(Lummelundagrottan)</i>
     - Högklint Nature Reserve <i>(Högklint Naturreservat)</i>
 47. Ljugarn
-    - Sea Stacks <i>(Raukar)</i>
     - Vitvärs Fisher Village <i>(Vitvärs Fiskeläge)</i>
 48. Henån
     - Småholmarna Beach <i>(Småholmarna)</i>
@@ -305,7 +304,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Lagom <i>(Lagom)</i>
-- Swedish Fika <i>(Fika)</i>
+- Swedish Fika Coffee Break <i>(Fika)</i>
 - The Crayfish Party <i>(Kräftskiva)</i>
 - The Midsummer Celebration <i>(Midsommar)</i>
 - The St. Lucy's Day Celebration <i>(Lucia)</i>
@@ -313,9 +312,11 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - The Hambo Dance <i>(Hambo)</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - Authentic Garb: Klädedräkten <i>(Klädedräkten)</i>
+- <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar)</i>
 - <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar / Gutar)</i>
     - <u>Gotland (Regional Special):</u> The Guta Saga <i>(Gutasagan / Gutasaga)</i>
     - <u>Gotland (Regional Special):</u> Visby Romanesque Architecture <i>(Visby Medeltidsarkitektur / Häus u Häusar)</i>
+    - <u>Gotland (Regional Special):</u> Gutnish Games <i>(Gutniska Lekar / Laikar)</i>
 - <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
 - <u>Halland (Regional Special):</u> The Bonad Painting <i>(Bonadsmålning)</i>
 

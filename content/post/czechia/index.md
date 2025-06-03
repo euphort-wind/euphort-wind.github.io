@@ -87,8 +87,8 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 
 
 <b>🪔 Authentic features:</b>
-- The Beer Culture <i>(Pivní Kultura)</i>
 - The Beseda Dance <i>(Česká Beseda)</i>
+- Czech Beer Culture <i>(Pivní Kultura)</i>
 - Czech Puppetry <i>(České Loutkářství)</i>
 - Czech Cars <i>(Brand: "Škoda")</i>
 - Czech Gothic Architecture <i>(Česká Gotická Architektura)</i>

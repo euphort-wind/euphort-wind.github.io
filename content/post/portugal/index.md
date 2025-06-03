@@ -101,7 +101,7 @@ Hej! I'm sharing a glimpse of my experience visiting bright and contrasty Portug
 - The Fado Music <i>(Fado)</i>
 - The Manueline Architecture <i>(Estilo Manuelino)</i> 
 - The Pombaline Architecture <i>(Estilo Pombalino)</i> 
-- The Azulejo <i>(Azulejo)</i>
+- The Azulejo Tilework <i>(Azulejo)</i>
 - Portuguese Seamanship and Maritime Exploration <i>(Marinharia e Exploração Marítima)</i> 
 - Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>   
 - Authentic Garb: Portuguese Traje <i>(Traje Português)</i>

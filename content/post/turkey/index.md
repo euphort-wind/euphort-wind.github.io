@@ -131,9 +131,8 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 <b>🪔 Authentic features:</b>
 - Turkish Hammam <i>(Hamam)</i>
 - The Halay Dance <i>(Halay)</i>
-- The Bağlama <i>(Bağlama)</i>
 - Turkish Television Drama <i>(Türk Dizileri)</i>
-- The Meddah Performance <i>(Meddah)</i>
+- The Meddahlık & Meddahs <i>(Meddahlık ve Meddahlar)</i>
 - Authentic Musical Instrument: Bağlama <i>(Bağlama)</i> 
 - Authentic Garb: Shalvar and Yelek <i>(Şalvar ve Yelek)</i>
 - The Heritage of the Byzantine Empire <i>(Bizans İmparatorluğu / Imperium Romanum Orientale)</i>

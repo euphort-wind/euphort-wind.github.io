@@ -64,6 +64,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 
 <b>🥘 Local food & drinks: </b>
 - Halloumi Cheese <i>(Τυρί Χαλούμι)</i>
+- Kleftiko <i>(Κλέφτικο)</i>
 - Souvlaki-Style Meats <i>(Σουβλάκι)</i>
   - Souvlaki-Style Chicken <i>(Σουβλάκι Κοτόπουλο)</i>
   - Souvlaki-Style Pork <i>(Σουβλάκι Χοιρινό)</i>
@@ -78,10 +79,11 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 
 
 <b>🪔 Authentic features:</b>
-- The Worry Beads <i>(Кομπολόι)</i>
+- Cypriot Syllabaric Script <i>(Κυπρομινωική)</i>
 - Authentic Musical Instrument: Laouto <i>(Λαούτο)</i>
+- Authentic Garb: Cypriot Sayia and Worry Beads <i>(Σαγιά και Кομπολόι)</i>
 - The Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>
-- <u> Larnaca (Regional Special):</u> Lefkara Lace <i>(Δαντέλα Λεύκαρα)</i>
+- <u> Larnaca (Regional Special):</u> Lefkara Lace <i>(Λευκαρίτικα)</i>
 
 
 <b>💐 National flower: </b> Cyprus Cyclamen <i>(Κυκλάμινο το Κυπριακό)</i>

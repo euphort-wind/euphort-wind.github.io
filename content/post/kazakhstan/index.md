@@ -89,9 +89,9 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - The Old Man <i>(Шал)</i>. Year: 2012. Genre: drama
 
 <b>🪔 Authentic features:</b>
-- The System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i> 
 - The Aytıs & Akyns <i>(Айтыс пен Ақыны)</i> 
-- The Baige <i>(Бәйге)</i> 
+- The System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i> 
+- The Baige Horse Race <i>(Бәйге)</i> 
 - Kazakh Wrestling <i>(Қазақша Күрес)</i> 
 - The Assyk Game <i>(Асық)</i> 
 - Authentic Musical Instrument: Dombra <i>(Домбыра)</i>

@@ -133,7 +133,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 
 
 <b>🪔 Authentic features:</b>
-- The Supra & Tamadas <i>(სუფრა & თამადა)</i>
+- The Supra & Tamadas <i>(სუფრა და თამადა)</i>
 - The Kvevri-Based Wine Production <i>(ქვევრის ღვინო)</i>
 - Three Georgian Alphabets <i>(სამი ქართული ანბანი)</i>
 - The Kartuli Dance <i>(ქართული ცეკვა)</i>"

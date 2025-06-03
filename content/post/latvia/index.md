@@ -80,7 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 
 <b>🪔 Authentic features:</b>
 - Latvian Vernacular Architecture <i>(Latviešu Tautas Arhitektūra)</i> 
-- Latvian Christmas Eve <i>(Ziemassvētki)</i> 
+- Latvian Christmas Eve Celebration <i>(Ziemassvētki)</i> 
 - Authentic Musical Instrument: Kokle <i>(Kokle)</i> 
 - Authentic Garb: Latvian Belt <i>(The Lielvārde Belt)</i> 
 - The Culture of Livonians <i>(Lībieši / Līvlizt)</i> 

@@ -96,7 +96,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - Authentic Garb: Cravat and Šibenik Cap <i>(Kravata i Šibenik Kapa)</i>  
 - The Legacy of Illyrians <i>(Iliri / Ἰλλυριοί)</i>
 - The Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>  
-- <u>Zadar (Regional Special):</u> The Klapa <i>(Klapa)</i>
+- <u>Zadar (Regional Special):</u> The Klapa Singing <i>(Klapa)</i>
 
 
 <b>💐 National flower: </b> Croatian Iris <i>(Hrvatska Perunika)</i>

@@ -84,8 +84,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Hispanidad <i>(Hispanidad)</i>
-- The Siesta <i>(Siesta)</i>
-- The Flamenco <i>(Flamenco)</i>
+- The Siesta Nap <i>(Siesta)</i>
+- The Flamenco Art Form <i>(Flamenco)</i>
 - Spanish Bullfighting <i>(Corrida)</i>
 - The Mudéjar Architecture <i>(Arte Mudéjar)</i>
 - Spanish Cars <i>(Brand: "SEAT")</i>
@@ -95,8 +95,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - The Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - <u>Catalonia (Regional Special):</u> The Culture of Catalans <i>(Catalanes / Catalans)</i>
   - <u>Catalonia (Regional Special):</u> Authentic Principle: Seny <i>(Seny / Seny)</i>
-  - <u>Catalonia (Regional Special):</u> Catalan Rumba <i>(Rumba Catalana / Rumba Catalana)</i>
-  - <u>Catalonia (Regional Special):</u> Catalan Human Tower <i>(Castell / Castell)</i>
+  - <u>Catalonia (Regional Special):</u> Catalan Rumba Dance <i>(Rumba Catalana / Rumba Catalana)</i>
+  - <u>Catalonia (Regional Special):</u> Catalan Human Towers <i>(Castell / Castell)</i>
   - <u>Catalonia (Regional Special):</u> Catalan Art Nouveau Architecture <i>(Modernisme / Modernisme)</i>
   - <u>Catalonia (Regional Special):</u> Authentic Musical Instrument: Flabiol <i>(Flabiol / Flabiol)</i>
   

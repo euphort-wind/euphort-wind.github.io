@@ -262,22 +262,24 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - The Maslennitsa Celebration <i>(Масленница)</i>
 - Russian Banya <i>(Русская Баня)</i>
 - The Khokhloma Painting <i>(Хохлома)</i>
-- The Gzhel <i>(Гжель)</i>
+- The Gzhel Pottery <i>(Гжель)</i>
 - The Zhostovo Painting <i>(Жостовская Роспись)</i>
 - Russian Folk Songs <i>(Русские Народные Песни)</i> 
+- Russian Fairy Tales <i>(Русские Народные Сказки)</i> 
 - The Horovod Dance <i>(Хоровод)</i> 
 - Russian Cars <i>(Brands: "GAZ", "LADA" etc.)</i> 
 - Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-ушанка)</i> 
 - The Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
+- The Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
 - <u>Bashkiria (Regional Special):</u> The Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
     - <u>Bashkiria (Regional Special):</u> The Sabantuy Celebration <i>(Сабантуй / Һабантуй)</i>
     - <u>Bashkiria (Regional Special):</u> The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
     - <u>Bashkiria (Regional Special):</u> Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
 - <u>Kabardino-Balkaria & Karachay-Cherkessia (Regional Special):</u> The Culture of Balkars <i>(Балкары, Карачаевцы / Малкъарлыла)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
-    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Kiyiz <i>(Балкарский Войлок / Кийизы)</i>
-    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Bychak <i>(Бичак / Бычак)</i>
+    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
+    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Bychak Knives <i>(Бичак / Бычак)</i>
 - <u>Karachay-Cherkessia & Kabardino-Balkaria (Regional Special):</u> The Culture of Circassians <i>(Кабардинцы, Черкессы, Адыгейцы и Шапсуги / Адыгэ)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Principle: Circassian Xabze <i>(Адыгэ Хабзэ / Адыгэ Хабзэ)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>

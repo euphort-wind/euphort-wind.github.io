@@ -53,7 +53,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
 
 
 <b>🥘Local food & drinks: </b>
-- Ålandic Pancake with Cream and Plum Jam <i>(Åländsk Pannkaka)</i>
+- Ålandic Pancake with Cream and Prune Jam <i>(Åländsk Pannkaka)</i>
 - "Buried" Whitefish <i>(Gravad Sik)</i>
 - Ålandic Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
 - Ålandic Beer <i>(Brand: "Stallhagen")</i>
@@ -67,6 +67,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
 - Ålandic Cargo Shipping <i>(Ålands Sjöfart)</i>
 - Ålandic Ship Building <i>(Åländsk Skeppsbyggnad)</i>
 - The Lilla Jul Celebration <i>(Lilla Jul)</i>
+- Åland Harvest Festival <i>(Skördefesten)</i>
+
 
 
 <b>💐 National flower: </b> Cowslip Primrose <i>(Gullviva)</i>

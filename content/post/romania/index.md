@@ -86,13 +86,13 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - The Doina Song <i>(Doina)</i>
 - The Ballad of Miorița <i>(Miorița)</i>
 - The Paparuda Ritual <i>(Păpăluga)</i> 
-- The Martisor <i>(Mărțișor)</i> 
+- The Martisor Celebration <i>(Mărțișor)</i> 
 - Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
 - Romanian Cars <i>(Brand: "Dacia")</i>
 - Authentic Musical Instrument: Romanian Nai <i>(Nai)</i> 
 - The Culture of Romani <i>(Romi / Romane Manusha)</i>
   - Authentic Principle: Romanipen <i>(Romanipenul / Romanipen)</i>
-  - The Lăutari <i>(Lăutari / Lăutari)</i> 
+  - The Lăutărească Music & Lăutari <i>(Muzica Lăutărească și Lăutari / Lăutărească Muzika thaj Lăutari)</i> 
   - Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
 - The Legacy of Dacians <i>(Dacii / Δάκοι)</i>
 - The Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>

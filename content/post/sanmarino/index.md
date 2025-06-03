@@ -61,8 +61,10 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 
 
 <b>🪔 Authentic features:</b>
-- Towers of San Marino <i>(Tre Torri di San Marino)</i>
+- The Towers of San Marino <i>(Tre Torri di San Marino)</i>
 - The Legend of Saint Marinus <i>(Leggenda di San Marino)</i>
+- The System of Captains Regent <i>(Capitani Reggenti di San Marino)</i>
+
 
 
 <b>💐 National flower: </b> Purple Cyclamen <i>(Ciclamino Viola)</i>

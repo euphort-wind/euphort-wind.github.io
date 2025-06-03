@@ -66,10 +66,10 @@ Hej! I'm sharing a glimpse of my experience visiting bright Thailand. I was ther
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Thainess <i>(ความเป็นไทย)</i>
 - Thai Massage <i>(นวดแผนไทย)</i>
-- The Muay Thai <i>(มวยไทย)</i>
+- The Muay Thai Boxing <i>(มวยไทย)</i>
 - Thai Script <i>(อักษรไทย)</i>
 - The Khon Dance <i>(โขน)</i>
-- The Tai Folk Religion <i>(ศาสนาผี)</i>
+- Tai Folk Religion <i>(ศาสนาผี)</i>
 - Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
 - Authentic Garb: Panung <i>(ผ้านุ่ง)</i>
 - The Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>

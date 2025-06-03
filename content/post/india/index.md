@@ -91,7 +91,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Hinduism <i>(हिन्दू)</i>
 - Buddhism <i>(बुद्ध धर्म)</i>
 - The Yoga Practices <i>(योग)</i>
-- The Sanskrit <i>(संस्कृतम्)</i>
+- The Devanagari Script <i>(देवनागरी)</i>
 - The Holi Festival <i>(होली)</i>
 - The Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
 - The Bharatanatyam Dance <i>(भरतनाट्यम)</i>
