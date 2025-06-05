@@ -73,6 +73,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 
 
 <b>🥘 Local food & drinks: </b>
+- Sirene Cheese <i>(Сирене)</i>
 - Shopska Salad <i>(Шопска Салата)</i>
 - Banitsa Pie <i>(Баница)</i>
   - Banitsa with Crushed White Cheese <i>(Баница със Сирене)</i>
@@ -81,7 +82,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Tarator Soup <i>(Таратор)</i>
 - Kebapche <i>(Кебапче)</i>
 - Kyufte <i>(Кюфте)</i>
-- Deep Fried Sprats <i>(Цаца)</i>
+- Tsatsa Fish <i>(Цаца)</i>
 - Ayran <i>(Айрян)</i>
 - Chushki Burek <i>(Чушка Бюрек)</i>
 - Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
