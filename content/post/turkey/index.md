@@ -144,7 +144,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 <b>💐 National flower: </b> Red Tulip <i>(Kırmızı Lale)</i>
 
 
-<b>🦉 Local wisdom:</b> "A wise man does not say what he knows; The stupid man does not know what he is saying" / <i>"Akıllı adam bildiğini söylemez; salak adam söylediğini bilmez"</i> — Turkish proverb
+<b>🦉 Local wisdom:</b> "A wise man does not say what he knows; The stupid man does not know what he is saying." / <i>"Akıllı adam bildiğini söylemez; salak adam söylediğini bilmez."</i> — Turkish proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Istanbul University <i>(İstanbul Üniversitesi)</i>, Istanbul, est. 1453. 

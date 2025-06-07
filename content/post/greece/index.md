@@ -114,7 +114,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - <u>Crete (Regional Special):</u> Cretan Dittany <i>(Δίκταμο / Έρωντας)</i>
 
 
-<b>🦉 Local wisdom:</b> "The one who lives will see, but the one who walks will see more" / "<i>Όποιος ζήσει θα ιδεί, μα όποιος περπατήσει θα ιδεί περισσότερα</i>" — Greek proverb
+<b>🦉 Local wisdom:</b> "The one who lives will see, but the one who walks will see more." / "<i>Όποιος ζήσει θα ιδεί, μα όποιος περπατήσει θα ιδεί περισσότερα.</i>" — Greek proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The National and Kapodistrian University of Athens <i>(Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών)</i>, Zografou, est. 1837.  

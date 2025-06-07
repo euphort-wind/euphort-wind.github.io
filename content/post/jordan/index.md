@@ -72,7 +72,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 <b>💐 National flower: </b> Black Iris <i>(السوسنة السوداء)</i>
 
 
-<b>🦉 Local wisdom:</b> "The one who knocks on the door hears the answer" / "<i>إلي بدُق ع الباب بسمع الجواب</i>" — Jordanian proverb 
+<b>🦉 Local wisdom:</b> "Only the one who knocks on the door hears the answer." / "<i>اللي يدق الباب يسمع الجواب</i>" — Jordanian proverb 
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Jordan <i>(الجامعة الأردنية)</i>, Amman, est. 1962. 

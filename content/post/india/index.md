@@ -97,13 +97,15 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - The Bharatanatyam Dance <i>(भरतनाट्यम)</i>
 - The Nagara Architecture <i>(नागर शैली)</i>
 - The Indo-Saracenic Architecture <i>(इंडो-सारासेनिक वास्तुकला)</i>
+- Indian Cars <i>(Brand: "Mahindra")</i>
 - Authentic Musical Instrument: Saraswati Veena <i>(सरस्वती वीणा)</i>
 - Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
-- Indian Cars <i>(Brand: "Mahindra")</i>
+- The Heritage of the Maratha Empire <i>(मराठा साम्राज्य)</i>
 - <u>Karnataka (Regional Special):</u> The Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
   - <u>Karnataka (Regional Special):</u> The Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
   - <u>Karnataka (Regional Special):</u> The Dasa Sahitya Literature <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
   - <u>Karnataka (Regional Special):</u> Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
+- <u>Karnataka (Regional Special):</u> The Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i>
 - <u>Goa (Regional Special):</u> The Culture of Goans <i>(गोवा / गोंयकार)</i>
   - <u>Goa (Regional Special):</u> Goa Carnivals <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>
   - <u>Goa (Regional Special):</u> Authentic Musical Instrument: Ghumot <i>(घुमोट / घुमट)</i>
@@ -114,7 +116,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - <u>Karnataka (Regional Special):</u> Indian Lotus <i>(कमल / ಕಮಲ)</i>
 
 
-<b>🦉 Local wisdom:</b> "It is health which is our true wealth, the value of gold and silver is nothing in comparison to it" / "<i>यह स्वास्थय ही है जो हमारा सही धन है, सोने और चांदी का मूल्य इसके सामने कुछ नहीं।</i>" — Mahatma Gandhi (Indian independence activist)
+<b>🦉 Local wisdom:</b> "The half-filled pitcher overflows with noise, the full pitcher goes silent." / "<i>अधजल गगरी छलकत जाए, भरी गगरिया चुपके जाए ।</i>" — Indian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Calcutta <i>(कलकत्ता विश्वविद्यालय)</i>, Kolkata, est. 1857. 

@@ -47,13 +47,13 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
 
 
 <b>🎧 Local musicians: </b>
-- 🇦🇽 Ålänningens Sång <i>(anthem)</i>. Genre: folk 
+- 🇦🇽 Johanna Grüssner <i>(singer)</i>. Genre: folk 
 - 🇺🇳 Julia Clara (singer). Genre: pop
 - 🇺🇳 Henrik Klingenberg (keytarist). Genre: metal
-
+- 🇺🇳 Cim Dahlle (singer). Genre: rock
 
 <b>🥘Local food & drinks: </b>
-- Ålandic Pancake with Cream and Prune Jam <i>(Åländsk Pannkaka)</i>
+- Ålandic Pancake with Cream and Prune Jam <i>(Åländsk Pannkaka med Sviskonkräm och Snömos)</i>
 - "Buried" Whitefish <i>(Gravad Sik)</i>
 - Ålandic Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
 - Ålandic Beer <i>(Brand: "Stallhagen")</i>
@@ -74,7 +74,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
 <b>💐 National flower: </b> Cowslip Primrose <i>(Gullviva)</i>
 
 
-<b>🦉 Local wisdom:</b> "Adventure is not something we need to look for. It's exciting enough to live" / "<i>Äventyr är inte något vi behöver leta efter. Det är ju tillräckligt spännande att leva</i>" — Pernilla Lindroos (Ålandic writer)
+<b>🦉 Local wisdom:</b> "Even when the storm rages, the spinning wheel sings its song in the peace of the cottages." / "<i>Ryter än stormen, i stugornas ro spinnrocken sjunger sin visa.</i>" — Ålandic proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Åland University of Applied Sciences <i>(Högskolan på Åland)</i>, Mariehamn, est. 2003. 

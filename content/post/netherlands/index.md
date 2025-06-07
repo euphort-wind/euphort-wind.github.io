@@ -140,7 +140,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 <b>💐 National flower: </b> [historically] Tulip <i>(Tulp)</i> & [officially] Daisy <i>(Madeliefje)</i>
 
 
-<b>🦉 Local wisdom:</b> "Gooi nooit oude schoenen weg voordat je nieuwe hebt" / "<i>Don't throw away your old shoes until you have got new ones</i>" — Dutch proverb
+<b>🦉 Local wisdom:</b> "Gooi nooit oude schoenen weg voordat je nieuwe hebt." / "<i>Don't throw away your old shoes until you have got new ones.</i>" — Dutch proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Leiden University <i>(Universiteit Leiden)</i>, Leiden, est. 1575.  

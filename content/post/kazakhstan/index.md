@@ -102,7 +102,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 <b>💐 National flower: </b> White Water Lily <i>(Ақ Тұңғиық)</i>
 
 
-<b>🦉 Local wisdom:</b> "A united hundred is stronger than a divided thousand" / <i>"Біріккен жүз, бытыраңқы мыңды алады"</i> — Kazakh proverb
+<b>🦉 Local wisdom:</b> "A united hundred is stronger than a divided thousand." / <i>"Біріккен жүз, бытыраңқы мыңды алады."</i> — Kazakh proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Abai Kazakh National Pedagogical University <i>(Абай Aтындағы Қазақ Ұлттық Педагогикалық Университеті)</i>, Almaty, est. 1928. 

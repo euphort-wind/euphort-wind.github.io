@@ -89,7 +89,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 <b>💐 National flower: </b> Cyprus Cyclamen <i>(Κυκλάμινο το Κυπριακό)</i>
 
 
-<b>🦉 Local wisdom:</b> "Some live by the effort and others live by the way" / "<i>Άλλοι ζιούσιν με τον κόπον κι άλλοι ζιούσιν με τον τρόπον</i>" — Cypriot proverb
+<b>🦉 Local wisdom:</b> "Some live by the effort and others live by the way." / "<i>Άλλοι ζιούσιν με τον κόπον κι άλλοι ζιούσιν με τον τρόπον.</i>" — Cypriot proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The European University Cyprus <i>(Ευρωπαϊκό Πανεπιστήμιο Κύπρου)</i>, Engomi, est. 1961.  

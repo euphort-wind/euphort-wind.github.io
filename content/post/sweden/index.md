@@ -329,7 +329,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - <u>Värmland (Regional Special):</u> Arctic Starflower <i>(Skogsstjärna)</i>
 
 
-<b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece" / "<i>Den som gapar över mycket mister ofta hela stycket</i>" — Swedish proverb
+<b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece." / "<i>Den som gapar över mycket mister ofta hela stycket.</i>" — Swedish proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Uppsala University <i>(Uppsala Universitet)</i>, Uppsala, est. 1477. 

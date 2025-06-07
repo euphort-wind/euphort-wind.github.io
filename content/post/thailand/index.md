@@ -78,7 +78,7 @@ Hej! I'm sharing a glimpse of my experience visiting bright Thailand. I was ther
 <b>💐 National flower: </b> Purging Cassia <i>(ดอกราชพฤกษ์)</i>
 
 
-<b>🦉 Local wisdom:</b> "Keep your fire inside and don't take it from someone else" / <i>"ไฟในอย่านำออก ไฟนอกอย่านำเข้า"</i> — Thai proverb
+<b>🦉 Local wisdom:</b> "Keep your fire inside and don't take it from someone else." / <i>"ไฟในอย่านำออก ไฟนอกอย่านำเข้า."</i> — Thai proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Maha Chulalongkorn Rajavidyalaya University <i>(มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย)</i>, Bangkok, est. 1887.

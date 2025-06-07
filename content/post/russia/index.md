@@ -308,7 +308,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 
 
 
-<b>🦉 Local wisdom:</b> "The only thing better than the mountains is the mountains that you have never been to before" / "<i>Лучше гор могут быть только горы, на которых ещё не бывал</i>" — Vladimir Vysotsky (Soviet singer-songwriter and poet)
+<b>🦉 Local wisdom:</b> "Without hard work, one wouldn’t even get a fish out of a pond." / "<i>Без труда не выловишь и рыбку из пруда.</i>" — Russian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Saint Petersburg State University <i>(Санкт-Петербургский Государственный Университет)</i>, Saint Petersburg, est. 1724. 

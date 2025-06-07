@@ -108,7 +108,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 <b>💐 National flower: </b> Bulgarian Rose <i>(Роза Дамаскена)</i>
 
 
-<b>🦉 Local wisdom:</b> "The new broom sweeps cleanly, but the old one knows the corners" / "<i>Новата метла чисто мете, но старата пък знае ъглите</i>" — Bulgarian proverb
+<b>🦉 Local wisdom:</b> "The new broom sweeps cleanly, but the old one knows the corners." / "<i>Новата метла чисто мете, но старата пък знае ъглите.</i>" — Bulgarian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Sofia University <i>(Софийски Университет)</i>, Sofia, est. 1888.  

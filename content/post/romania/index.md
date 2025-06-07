@@ -101,7 +101,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 <b>💐 National flower: </b> Romanian Peony <i>(Bujor Românesc)</i>
 
 
-<b>🦉 Local wisdom:</b> "The good man values goodness, as the bee values the flower" / "<i>Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea</i>" — Romanian proverb
+<b>🦉 Local wisdom:</b> "The good man values goodness, as the bee values the flower." / "<i>Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea.</i>" — Romanian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The Alexandru Ioan Cuza University <i>(Universitatea „Alexandru Ioan Cuza")</i>, Iași, est. 1640. 

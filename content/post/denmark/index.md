@@ -99,7 +99,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 <b>💐 National flower: </b> Marguerite Daisy <i>(Margerit)</i>
 
 
-<b>🦉 Local wisdom:</b> "Many small streams make a big river" / "<i>Mange bække små gør en stor å</i>" — Danish proverb
+<b>🦉 Local wisdom:</b> "Many small streams make a big river." / "<i>Mange bække små gør en stor å.</i>" — Danish proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Copenhagen <i>(Københavns Universitet)</i>, Copenhagen, est. 1479.  

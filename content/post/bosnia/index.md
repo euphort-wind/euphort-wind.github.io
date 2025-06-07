@@ -109,7 +109,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 <b>💐 National flower: </b> Bosnian Lily <i>(Bosanski Ljiljan)</i>
 
 
-<b>🦉 Local wisdom:</b> "He who does not have time to listen will have a lot of time to regret" / "<i>Ko nema vremena za slušanje, imaće puno vremena za kajanje</i>" — Bosnian proverb
+<b>🦉 Local wisdom:</b> "He who does not have time to listen will have a lot of time to regret." / "<i>Ko nema vremena za slušanje, imaće puno vremena za kajanje.</i>" — Bosnian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Sarajevo <i>(Univerzitet u Sarajevu)</i>, Sarajevo, est. 1949.  

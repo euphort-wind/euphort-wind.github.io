@@ -112,7 +112,7 @@ Hej! I'm sharing a glimpse of my experience visiting bright and contrasty Portug
 <b>💐 National flower: </b> Broadleaved Lavender <i>(Lavanda)</i>
 
 
-<b>🦉 Local wisdom:</b> "If horseshoes brought luck, donkeys wouldn't pull carts" / <i>"Se ferradura trouxesse sorte, burro não puxava carroça"</i> — Portuguese proverb
+<b>🦉 Local wisdom:</b> "If horseshoes brought luck, donkeys wouldn't pull carts." / <i>"Se ferradura trouxesse sorte, burro não puxava carroça."</i> — Portuguese proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Coimbra <i>(Universidade de Coimbra)</i>, Coimbra, est. 1290.  
