@@ -121,7 +121,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_start: '2025-04-11'
+        - date_start: '2025-06-10'
+          icon: staf
+          organization: Speaker, STAF (Software Technologies), Koblenz
+          organization_url: https://conf.researchr.org/home/staf-2025/ecmfa-2025
+          title:  ECMFA Conference 2025
+        - date_start: '2025-06-10'
           icon: gaia2
           organization: Participant, Artificial Intelligence Alliance, Gothenburg
           organization_url: https://www.gaia.fish/

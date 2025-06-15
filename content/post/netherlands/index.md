@@ -68,7 +68,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - 🇺🇳 Tiësto (DJ). Genre: house
 - 🇺🇳 Ferry Corsten (DJ). Genre: trance
 - 🇺🇳 Martin Garrix (DJ). Genre: big room
-- 🇺🇳 Oliver Heldens (DJ). Genre: future house
+- 🇺🇳 Oliver Heldens / HI-LO (DJ). Genre: future house
 - 🇺🇳 Don Diablo (DJ). Genre: future house
 - 🇺🇳 Tchami (DJ). Genre: future house
 - 🇺🇳 Hardwell (DJ). Genre: big room
