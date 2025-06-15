@@ -26,7 +26,7 @@ gallery_item:
     image: 7rom.jpg
     caption: The Römer
   - album: germany
-    image: 6wurst.jpeg
+    image: 8wurst.jpeg
     caption: German Bratwurst
 ---
 Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was there in the summer of 2025. Below are some notes on what I tasted, saw and listened to.<br>
