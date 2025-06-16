@@ -88,6 +88,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 
 <b>🪔 Authentic features:</b>
 - The Beseda Dance <i>(Česká Beseda)</i>
+- The Polka Dance <i>(Polka)</i>
 - Czech Beer Culture <i>(Pivní Kultura)</i>
 - Czech Puppetry <i>(České Loutkářství)</i>
 - Czech Cars <i>(Brand: "Škoda")</i>
