@@ -40,6 +40,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
     - Park Güell <i>(Parc Güell)</i>
     - La Rambla Street <i>(La Rambla)</i>
     - Plaça de Catalunya <i>(Plaça de Catalunya)</i>
+    - The Magic Fountain of Montjuïc <i>(Fuente Mágica de Montjuïc)</i>
 2. Salou
     - PortAventura <i>(PortAventura)</i>
     - Ponent Beach <i>(Platja de Ponent)</i>
