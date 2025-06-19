@@ -126,7 +126,7 @@ sections:
           organization: Speaker, STAF (Software Technologies), Koblenz
           organization_url: https://conf.researchr.org/home/staf-2025/ecmfa-2025
           title:  ECMFA Conference 2025
-        - date_start: '2025-06-10'
+        - date_start: '2025-04-10'
           icon: gaia2
           organization: Participant, Artificial Intelligence Alliance, Gothenburg
           organization_url: https://www.gaia.fish/
