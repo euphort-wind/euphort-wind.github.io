@@ -156,11 +156,6 @@ sections:
           organization: Speaker, Chalmers University, Gothenburg
           organization_url: https://sirensweden.github.io/#swedish-requirements-engineering-network 
           title:  SiREN Meeting 2023
-        - date_start: '2023-07-01'
-          icon: lurfu
-          organization: Guest Lecturer, Ural Federal University, Ekaterinburg
-          organization_url: https://russtudies.urfu.ru/en/summer-winter-schools/summer-program/
-          title:  UrFU International Summer School 2023
         - date_start: '2023-02-01'
           icon: ppk
           organization: Participant, Ural Federal University, Ekaterinburg
