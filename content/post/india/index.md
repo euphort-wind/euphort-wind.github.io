@@ -94,6 +94,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - The Devanagari Script <i>(देवनागरी)</i>
 - The Holi Festival <i>(होली)</i>
 - The Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
+- The Madhubani Art <i>(मधुबनी चित्रकला)</i>
+- The Kalamkari Art <i>(कलमकारी)</i>
 - The Bharatanatyam Dance <i>(भरतनाट्यम)</i>
 - The Nagara Architecture <i>(नागर शैली)</i>
 - The Indo-Saracenic Architecture <i>(इंडो-सारासेनिक वास्तुकला)</i>

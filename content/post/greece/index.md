@@ -107,6 +107,10 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύς)</i>
 - <u>Crete (Regional Special):</u> Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
 - <u>Crete (Regional Special):</u> Authentic Garb: Stivania & Sariki <i>(Στιβάνια & Σαρίκη)</i>
+- <u>Crete (Regional Special):</u> The Legacy of Minoans <i>(Μινωίτες)</i>
+  - <u>Crete (Regional Special):</u> Minoan Painting <i>(Μινωική Ζωγραφική)</i>
+  - <u>Crete (Regional Special):</u> Minoan Pottery <i>(Μινωική Κεραμική)</i>
+  - <u>Crete (Regional Special):</u> Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
 - <u>South Aegean (Regional Special):</u> The Legend of the Colossus of Rhodes <i>(ὁ Κολοσσὸς Ῥόδιος)</i>
 - <u>South Aegean (Regional Special):</u> Santorini Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
 

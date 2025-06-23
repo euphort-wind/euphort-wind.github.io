@@ -90,6 +90,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - Authentic Principle: Hygge <i>(Hygge)</i>
 - Danish Tradition of Easter Letters <i>(Gækkebreve)</i>
 - Danish Fairy Tales <i>(Danske Eventyr)</i>
+- The Hedebo Embroidery <i>(Hedebosyning)</i>
 - Danish Fiddle Music <i>(Spillemandsmusik)</i>
 - The Legend of Danish Flag <i>(Dannebrog)</i>
 - The Nordic Classical Architecture <i>(Den Nordiske Klassiske Arkitektur)</i>

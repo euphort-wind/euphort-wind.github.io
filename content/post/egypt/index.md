@@ -72,6 +72,7 @@ Hej! I'm sharing a glimpse of my experience visiting authentic Egypt. I was ther
 <b>🪔 Authentic features:</b>
 - The Desert Safari <i>(رحلات السفاري الصحراوية)</i>
 - The Henna Body Painting <i>(رسمة الحناء)</i>
+- The Khayamiya Textile <i>(خيّامية)</i>
 - Authentic Musical Instrument: Goblet Drum <i>(دربوكة)</i>
 - Authentic Garb: Galabiya <i>(جالبيا)</i>
 - The Culture of Copts <i>(أقباط / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>

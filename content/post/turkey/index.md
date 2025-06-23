@@ -133,6 +133,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - The Halay Dance <i>(Halay)</i>
 - Turkish Television Drama <i>(Türk Dizileri)</i>
 - The Meddahlık & Meddahs <i>(Meddahlık ve Meddahlar)</i>
+- The Iznik Pottery <i>(İznik Çinisi)</i>
 - Authentic Musical Instrument: Bağlama <i>(Bağlama)</i> 
 - Authentic Garb: Shalvar and Yelek <i>(Şalvar ve Yelek)</i>
 - The Heritage of the Byzantine Empire <i>(Bizans İmparatorluğu / Imperium Romanum Orientale)</i>

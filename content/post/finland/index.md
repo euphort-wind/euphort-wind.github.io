@@ -85,6 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was ther
 - Finnish Sauna <i>(Saunakulttuuri)</i>
 - The Shrove Sunday Celebration <i>(Laskiainen)</i>
 - The Fictional World of Moomins <i>(Muumi)</i>
+- The Ryijy Tapestry <i>(Ryijy)</i>
 - Authentic Musical Instrument: Kantele <i>(Kantele)</i>
 - Authentic Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
 - The Culture of Sami <i>(Saamelaiset / Sámit)</i>

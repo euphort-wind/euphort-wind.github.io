@@ -221,7 +221,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - <u>Sicily (Regional Special):</u> The Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i> 
 - <u>Sicily (Regional Special):</u> The Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
   - <u>Sicily (Regional Special):</u> The Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
-  - <u>Sicily (Regional Special):</u> Sicilian Cart <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
+  - <u>Sicily (Regional Special):</u> Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
   - <u>Sicily (Regional Special):</u> Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
   - <u>Sicily (Regional Special):</u> Sicilian Moorish Heads <i>(Testa di Moro / Testa di Moor)</i> 
   - <u>Sicily (Regional Special):</u> Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>

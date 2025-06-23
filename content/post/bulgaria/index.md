@@ -97,6 +97,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - The Horo Dance <i>(Хоро)</i>
 - The Anastenaria Ritual <i>(Нестинарство)</i>
 - The Rose Festival <i>(Празник на Розата)</i>
+- The Shevitsa Embroidery <i>(Шевица)</i>
 - Bulgarian Revival Architecture <i>(Възрожденска Архитектура)</i>
 - Authentic Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
 - Authentic Garb: Bulgarian Nosiya <i>(Носия)</i>

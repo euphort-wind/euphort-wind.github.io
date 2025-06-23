@@ -160,6 +160,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - Protestantism <i>(Protestantismus)</i>
 - The Allemande Dance <i>(Allemande)</i>
 - The Volkfests <i>(Volksfeste)</i>
+- The Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
 - The Ottonian Architecture <i>(Ottonische Architektur)</i>
 - The Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
 - German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas" etc.)</i> 

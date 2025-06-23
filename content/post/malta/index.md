@@ -104,6 +104,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 - Maltese Village Festa <i>(Festa)</i>
 - The Għana Folk Singing <i>(Għana)</i>
 - The Luzzu Boats <i>(Luzzu)</i>
+- Maltese Lace <i>(Bizzilla)</i>
 - Maltese Megalithic Temples <i>(Tempji Megalitiċi)</i>
 - Maltese Traditional Balconies <i>(Gallariji Tradizzjonali Maltin)</i>
 - Maltese Baroque Architecture <i>(Arkitettura Barokka f'Malta)</i>
