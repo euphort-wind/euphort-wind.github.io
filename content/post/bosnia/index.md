@@ -96,12 +96,12 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - Authentic Principle: Ćejf <i>(Ćejf)</i>
 - Bosniak Epic Poetry <i>(Bošnjačke Epske Narodne Pjesme)</i>
 - The Sevdah Music <i>(Sevdah)</i>
-- Konjic Woodcarving <i>(Konjic Woodcarving)</i>
-- Bosnian-Style Architecture <i>(Bosanski Stil u Arhitekturi)</i>
+- The Konjic Woodcarving <i>(Konjic Woodcarving)</i>
+- The Bosnian-Style Architecture <i>(Bosanski Stil u Arhitekturi)</i>
 - Authentic Musical Instrument: Šargija <i>(Šargija)</i> 
 - The Heritage of the Bosnian Kingdom <i>(Kraljevina Bosna / Краљевина Босна)</i>
-    - Bosnian Church  <i>(Crkva Bosanska)</i>
-    - Stećci <i>(Stećci)</i>
+    - The Bosnian Church <i>(Crkva Bosanska)</i>
+    - The Stećci <i>(Stećci)</i>
     - The Bosančica Script <i>(Bosančica)</i>
 - <u>Sarajevo (Regional Special):</u> Sarajevo Roses <i>(Sarajevske Ruže)</i>
 

@@ -92,9 +92,9 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - The Aytıs & Akyns <i>(Айтыс пен Ақыны)</i> 
 - The System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i> 
 - The Baige Horse Race <i>(Бәйге)</i> 
+- The Assyk Game <i>(Асық)</i> 
 - Kazakh Ornaments <i>(Қазақтың Ұлттық Ою-өрнегі)</i> 
 - Kazakh Wrestling <i>(Қазақша Күрес)</i> 
-- The Assyk Game <i>(Асық)</i> 
 - Authentic Musical Instrument: Dombra <i>(Домбыра)</i>
 - Authentic Garb: Shapan & Borik <i>(Шапан пен Борик)</i> 
 - The Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق خاندیغی)</i> 

@@ -87,8 +87,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Authentic Principle: Hispanidad <i>(Hispanidad)</i>
 - The Siesta Nap <i>(Siesta)</i>
 - The Flamenco Art Form <i>(Flamenco)</i>
-- Spanish Bullfighting <i>(Corrida)</i>
 - The Mudéjar Architecture <i>(Arte Mudéjar)</i>
+- Spanish Bullfighting <i>(Corrida)</i>
 - Spanish Cars <i>(Brand: "SEAT")</i>
 - Authentic Musical Instrument: Castanets <i>(Castañuelas)</i> 
 - Authentic Garb: Mantilla and Traje de Luces <i>(Mantilla y Traje de Luces)</i>

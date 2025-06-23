@@ -82,12 +82,12 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 
 
 <b>🪔 Authentic features:</b>
-- Romanian Hora Dance <i>(Hora)</i>
 - The Doina Song <i>(Doina)</i>
 - The Ballad of Miorița <i>(Miorița)</i>
 - The Paparuda Ritual <i>(Păpăluga)</i> 
 - The Martisor Celebration <i>(Mărțișor)</i> 
-- Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
+- The Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
+- Romanian Hora Dance <i>(Hora)</i>
 - Romanian Cars <i>(Brand: "Dacia")</i>
 - Authentic Musical Instrument: Romanian Nai <i>(Nai)</i> 
 - The Culture of Romani <i>(Romi / Romane Manusha)</i>

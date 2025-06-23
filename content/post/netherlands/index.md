@@ -125,9 +125,9 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - Authentic Principle: Gezelligheid <i>(Gezelligheid)</i>
 - The Skating Tradition <i>(Het Schaatsen)</i>
 - The Cycling Tradition <i>(Het Fietsen)</i>
+- The Delftware <i>(Delfts Blauw)</i>
 - Dutch Windmills <i>(Windmolens)</i>
 - Dutch Canals & Polders <i>(Kanalen & Polders)</i>
-- The Delftware <i>(Delfts Blauw)</i>
 - Authentic Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
 - Authentic Garb: Dutch Bonnet & Klomps <i>(Nederlandse Bonnet & Klompen)</i>
 - The Culture of Frisians <i>(Friezen / Fräisen)</i>

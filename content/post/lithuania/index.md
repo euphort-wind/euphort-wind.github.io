@@ -98,6 +98,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 
 <b>🪔 Authentic features:</b>
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
+- The Sodai Straw Garden Making <i>(Šiaudinių Sodų Tradicija)</i>
 - The Sutartines Songs <i>(Sutartinės)</i>
 - Authentic Musical Instrument: Birbynė <i>(Birbynė)</i> 
 - The Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>

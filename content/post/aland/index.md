@@ -39,7 +39,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
     - Post Office <i>(Post- och Tullhus)</i>
     - Museum of Fisheries and Navigation <i>(Ålands Jakt- och Fiskemuseum)</i>
 2. Mariehamn
-    - Maritime Museum and Pommern Ship <i>(Ålands Sjöfartsmuseum)</i>
+    - Maritime Museum <i>(Ålands Sjöfartsmuseum)</i>
+    - Pommern Ship <i>(Pommern)</i>
     - Central Park <i>(Esplanaden)</i>
     - The Sea Quarter <i>(Sjökvarteret)</i>
     - The Town Hall <i>(Mariehamns Stadshus)</i>
@@ -66,9 +67,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
 <b>🪔 Authentic features:</b>
 - Ålandic Cargo Shipping <i>(Ålands Sjöfart)</i>
 - Ålandic Ship Building <i>(Åländsk Skeppsbyggnad)</i>
+- Ålandic Harvest Festival <i>(Skördefesten)</i>
 - The Lilla Jul Celebration <i>(Lilla Jul)</i>
-- Åland Harvest Festival <i>(Skördefesten)</i>
-
 
 
 <b>💐 National flower: </b> Cowslip Primrose <i>(Gullviva)</i>

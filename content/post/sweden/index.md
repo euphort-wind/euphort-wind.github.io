@@ -308,12 +308,12 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Lagom <i>(Lagom)</i>
-- Swedish Fika Coffee Break <i>(Fika)</i>
 - The Crayfish Party <i>(Kräftskiva)</i>
+- The Hambo Dance <i>(Hambo)</i>
 - The Midsummer Celebration <i>(Midsommar)</i>
 - The St. Lucy's Day Celebration <i>(Lucia)</i>
+- Swedish Fika Coffee Break <i>(Fika)</i>
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
-- The Hambo Dance <i>(Hambo)</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - Authentic Garb: Klädedräkten <i>(Klädedräkten)</i>
 - <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar)</i>

@@ -80,6 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 
 <b>🪔 Authentic features:</b>
 - Cypriot Syllabaric Script <i>(Κυπρομινωική)</i>
+- The Fythkiotika Weaving <i>(Φυθκιώτικα)</i>
 - Authentic Musical Instrument: Laouto <i>(Λαούτο)</i>
 - Authentic Garb: Cypriot Sayia and Worry Beads <i>(Σαγιά και Кομπολόι)</i>
 - The Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>

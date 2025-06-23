@@ -95,10 +95,10 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 <b>🪔 Authentic features:</b>
 - The Polonaise Dance <i>(Polonez)</i>
 - The Mazurka Dance <i>(Mazurek)</i>
-- Polish Name Day Celebrations <i>(Imieniny)</i>
 - The Brick Gothic Architecture <i>(Gotyk Ceglany)</i>
 - The Zakopane Architecture <i>(Styl Zakopiańskiy)</i>
 - The Bolesławiec Pottery <i>(Ceramika Bolesławiecka)</i>
+- Polish Name Day Celebrations <i>(Imieniny)</i>
 - Authentic Musical Instrument: Koza <i>(Koza)</i>
 - Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i> 
 - The Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i>

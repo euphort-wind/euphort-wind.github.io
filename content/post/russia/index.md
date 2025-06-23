@@ -260,12 +260,12 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Russian Avos' <i>(Русское Авось)</i>
 - The Maslennitsa Celebration <i>(Масленница)</i>
-- Russian Banya <i>(Русская Баня)</i>
 - The Khokhloma Painting <i>(Хохлома)</i>
 - The Zhostovo Painting <i>(Жостовская Роспись)</i>
+- The Horovod Dance <i>(Хоровод)</i>
+- Russian Banya <i>(Русская Баня)</i>
 - Russian Folk Songs <i>(Русские Народные Песни)</i> 
 - Russian Fairy Tales <i>(Русские Народные Сказки)</i> 
-- The Horovod Dance <i>(Хоровод)</i> 
 - Russian Cars <i>(Brands: "GAZ", "LADA" etc.)</i> 
 - Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-ушанка)</i> 

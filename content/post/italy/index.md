@@ -199,6 +199,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - Authentic Principle: La Dolce Vita <i>(La Dolce Vita)</i> 
 - The Latin Alphabet <i>(Alfabeto Latino)</i> 
 - The Tarantella Dance <i>(Tarantella)</i> 
+- The Maiolica Pottery <i>(Maiolica)</i> 
 - Italian Neoclassical Architecture <i>(Architettura Neoclassica Italiana)</i> 
 - Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace" etc.)</i> 
 - Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT" etc.)</i>

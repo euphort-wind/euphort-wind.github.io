@@ -89,8 +89,8 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 <b>🪔 Authentic features:</b>
 - The Epic of Manas <i>(Манас Дастаны)</i> 
 - Tengrism <i>(Теңирчилик)</i> 
-- Kyrgyz Yurts <i>(Кыргыз боз Yйлөрү)</i> 
 - The Shyrdak and Ala-Kiiz Carpets <i>(Шырдак жана Ала-Кийиз)</i> 
+- Kyrgyz Yurts <i>(Кыргыз боз Yйлөрү)</i> 
 - Authentic Musical Instrument: Komuz <i>(Комуз)</i> 
 - Authentic Garb: Ak-Kalpak and Beldemchi <i>(Ак-Калпак менен Белдемчи)</i> 
 - The Culture of Dungan <i>(Дунгандар / Хуэйзў)</i>
