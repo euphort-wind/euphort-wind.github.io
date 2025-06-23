@@ -262,7 +262,6 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - The Maslennitsa Celebration <i>(Масленница)</i>
 - Russian Banya <i>(Русская Баня)</i>
 - The Khokhloma Painting <i>(Хохлома)</i>
-- The Gzhel Pottery <i>(Гжель)</i>
 - The Zhostovo Painting <i>(Жостовская Роспись)</i>
 - Russian Folk Songs <i>(Русские Народные Песни)</i> 
 - Russian Fairy Tales <i>(Русские Народные Сказки)</i> 
