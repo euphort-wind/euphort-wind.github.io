@@ -263,6 +263,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - The Khokhloma Painting <i>(Хохлома)</i>
 - The Zhostovo Painting <i>(Жостовская Роспись)</i>
 - The Horovod Dance <i>(Хоровод)</i>
+- The Matryoshka Dolls <i>(Матрёшки)</i>
 - Russian Banya <i>(Русская Баня)</i>
 - Russian Folk Songs <i>(Русские Народные Песни)</i> 
 - Russian Fairy Tales <i>(Русские Народные Сказки)</i> 
