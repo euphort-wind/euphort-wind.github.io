@@ -11,7 +11,7 @@ gallery_item:
     image: 2temple.jpg
     caption: Pattadakal Temple
   - album: india
-    image: 3dance.jpg
+    image: 7dance.jpg
     caption: Dancing Shiva as Nataraja (Badami Cave Temples)
   - album: india
     image: 4waterfall.jpg
@@ -23,7 +23,7 @@ gallery_item:
     image: 6badami.jpg
     caption: Badami 
   - album: india
-    image: 7port.png
+    image: 3port.png
     caption: Fort Aguada (Candolim)
   - album: india
     image: 8chick.jpg
