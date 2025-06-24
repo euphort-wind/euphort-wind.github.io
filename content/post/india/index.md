@@ -38,6 +38,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 <b>🏛 Top sights visited: </b>
 1. Candolim
     - Candolim Beach <i>(कैंडोलिम बीच)</i>
+    - Calangute Beach <i>(कलंगुट बीच)</i>
     - Fort Aguada <i>(किला अगुआड़ा)</i>
     - Dudhsagar Falls <i>(दूधसागर झरना)</i>
 2. Badami
@@ -50,6 +51,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
     - Bara Kaman <i>(बारा कमान)</i>
     - Gol Gumbaz <i>(गोल गुम्बज)</i>
     - Ibrahim Roza <i>(इब्राहीम रोज़ा)</i>
+    - Jama Mosque <i>(जामा मस्जिद)</i>
 
 
 <b>🎧 Local musicians: </b>
@@ -72,15 +74,18 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - Lamb Korma <i>(मेमने कोरमा)</i>
 - Mukhwas <i>(मुखवास)</i>
 - Indian Buffalo Steak <i>(भारतीय भैंस स्टेक)</i>
+- Kanda Bhaji <i>(कांदा भजी)</i>
 - Naan <i>(नान)</i>
 - Tandoori Chicken <i>(तंदुरी चिकन)</i>
 - Kulfi <i>(क़ुल्फ़ी)</i>
+- Gulab Jamun <i>(गुलाब जामुन)</i>
 - Phool Makhana <i>(फूल मखाने)</i>
 - <u>Karnataka (Regional Special):</u> Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
 - <u>Goa (Regional Special):</u> Goan Fish Curry <i>(गोवा मछली करी / हुमण)</i>
 
 
 <b>🎬 Local movies:</b>
+- Dunki <i>(डंकी)</i>. Year: 2023. Genres: comedy drama
 - Slumdog Millionaire <i>(स्लमडॉग करोड़पती)</i>. Year: 2008. Genres: drama
 - Shantaram <i>(शांताराम)</i>. Year: 2022. Genres: drama (series)
 <br>
