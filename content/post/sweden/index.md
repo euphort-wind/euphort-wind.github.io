@@ -312,15 +312,16 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - The Hambo Dance <i>(Hambo)</i>
 - The Midsummer Celebration <i>(Midsommar)</i>
 - The St. Lucy's Day Celebration <i>(Lucia)</i>
+- The Dala Horses <i>(Dalahästar)</i>
 - Swedish Fika Coffee Break <i>(Fika)</i>
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - Authentic Garb: Klädedräkten <i>(Klädedräkten)</i>
 - <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar)</i>
-- <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar / Gutar)</i>
-    - <u>Gotland (Regional Special):</u> The Guta Saga <i>(Gutasagan / Gutasaga)</i>
-    - <u>Gotland (Regional Special):</u> Visby Romanesque Architecture <i>(Visby Medeltidsarkitektur / Häus u Häusar)</i>
-    - <u>Gotland (Regional Special):</u> Gutnish Games <i>(Gutniska Lekar / Laikar)</i>
+- <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar)</i>
+    - <u>Gotland (Regional Special):</u> The Guta Saga <i>(Gutasagan)</i>
+    - <u>Gotland (Regional Special):</u> Visby Romanesque Architecture <i>(Visby Medeltidsarkitektur)</i>
+    - <u>Gotland (Regional Special):</u> Gutnian Games <i>(Gutniska Lekar)</i>
 - <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
 - <u>Halland (Regional Special):</u> The Bonad Painting <i>(Bonadsmålning)</i>
 

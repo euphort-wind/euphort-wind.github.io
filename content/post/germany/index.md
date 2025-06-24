@@ -156,13 +156,13 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Weltschmerz <i>(Weltschmerz)</i>
-- German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel" etc.)</i>
 - Protestantism <i>(Protestantismus)</i>
 - The Allemande Dance <i>(Allemande)</i>
 - The Volkfests <i>(Volksfeste)</i>
 - The Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
 - The Ottonian Architecture <i>(Ottonische Architektur)</i>
 - The Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
+- German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel" etc.)</i>
 - German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas" etc.)</i> 
 - German Philosophy <i>(Deutsche Philosophie)</i> 
 - German Fairy Tales <i>(Deutsche Märchen)</i>
