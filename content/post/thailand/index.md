@@ -38,7 +38,7 @@ Hej! I'm sharing a glimpse of my experience visiting bright Thailand. I was ther
 1. Patong
     - Bangla Road <i>(ถนนบางลา)</i>
     - Patong Beach <i>(หาดป่าตอง)</i>
-    - Jungceylon <i>( Jungceylon)</i>
+    - Jungceylon <i>(จังซีลอน)</i>
     - Patong Promenade <i>(ป่าตองพรอมนาด)</i>
 2. Kathu
     - Flying Hanuman Zipline <i>(ซิปไลน์)</i>
