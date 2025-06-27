@@ -106,7 +106,7 @@ Hej! I'm sharing a glimpse of my experience visiting bright and contrasty Portug
 - Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>   
 - Authentic Garb: Portuguese Traje <i>(Traje Português)</i>
 - The Heritage of the Portuguese Empire <i>(Império Português)</i>
-- <u>Lisbon (Regional Special):</u> Lisbon Trams no. 28 <i>(Elétrico 28E)</i>
+- <u>Lisbon (Regional Special):</u> Lisbon Historic Trams <i>(Brand: "Remodelados")</i>
 
 
 <b>💐 National flower: </b> Broadleaved Lavender <i>(Lavanda)</i>
