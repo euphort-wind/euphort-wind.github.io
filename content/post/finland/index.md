@@ -92,7 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was ther
 - Authentic Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
 - The Culture of Sami <i>(Saamelaiset / Sámit)</i>
   - Authentic Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
-  - Authentic Garb: Beaska & Four Winds Hat <i>(Beaska & Neljäntuulenlakki / Muoddá & Čiehgahpir)
+  - Authentic Garb: Beaska & Four Winds Hat <i>(Beaska & Neljäntuulenlakki / Muoddá & Čiehgahpir)</i>
 
 <b>💐 National flower: </b> Lily-of-the-Valley <i>(Kielo)</i>
 
