@@ -55,25 +55,27 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
     - Nessebar Windmill <i>(Вятърна Мелница в Несебър)</i>
 3. Burgas
     - Sea Garden <i>(Морска Градина)</i>
-    - Church Saints Cyril and Methodius <i>(Св. Кирил и Методий)</i>
+    - Saints Cyril and Methodius Church <i>(Св. Кирил и Методий)</i>
 4. Varna
     - Cathedral of the Assumption of the Virgin <i>(Катедралата Успение Богородично)</i>
-    - Sea Garden <i>(Морска Градина)</i>
+    - The Sea Garden <i>(Морска Градина)</i>
     - The Roman Thermae <i>(Римски Терми)</i>
     - The Clock Tower of Varna <i>(Часовникова Кула)</i>
     - Varna Opera Theatre <i>(Варненската Опера)</i>
     - Varna Archaeological Museum <i>(Варненски Археологически Музей)</i>
 5. Sveti Vlas
-    - Church "Saint Vlasiy" <i>(Свети Влас)</i>
-    - Church St. Atanasii Veliki <i>(Храм Св. Атанасий Велики)</i>
+    - St. Vlasiy Church <i>(Свети Влас)</i>
+    - St. Atanasii Veliki Church <i>(Храм Св. Атанасий Велики)</i>
     - Marina Dinevi Port <i>(Марина Диневи)</i>
 6. Pomorie
     - Monastery of St. George <i>(Манастир Свети Георги)</i>
-    - Old Houses of Pomorie Architectural Reserve <i>(Старо Поморие)</i>
     - The Salt Museum <i>(Музей на Солта)</i>
-    - Free Mud Bahtes <i>(Безплатни Кални Бахти)</i>
+    - Open-Air Mud Bath <i>(Безплатни Кални Бани)</i>
+    - Pomorie Lake <i>(Поморийско Езеро)</i>
+    - Old Houses of Pomorie Architectural Reserve <i>(Архитектурен Резерват "Стари Поморийски Къщи")</i>
 7. Byala
     - Cape St. Athanasius Ancient Settlement <i>(Свети Анастас)</i>
+    - Byala Public Beach <i>(Обществен плаж Бяла)</i>
     - White Cliffs <i>(Бели Cкали)</i>
    
 

@@ -37,16 +37,20 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 <b>🏛 Top sights visited: </b>
 1. Stockholm
     - Old Town Stockholm <i>(Gamla Stan)</i>
+    - Riddarholmen Church <i>(Riddarholmskyrkan)</i>
+    - Stortorget <i>(Stortorget)</i>
+    - Kungsträdgården <i>(Kungsträdgården)</i>
     - Stockholm City Hall <i>(Stockholms Stadshus)</i>
     - Royal Palace <i>(Kungliga Slottet)</i>
     - Swedish Parliament <i>(Riksdagshuset)</i>
     - Gustav Adolfs Square <i>(Gustav Adolfs Torg)</i>
+    - Iron Boy Statue <i>(Järnpojke)</i>
 2. Gothenburg
     - Gustav Adolfs Square <i>(Gustav Adolfs Torg)</i>
-    - Crown Sconce <i>(Skansen Kronan)</i>
+    - Skansen Kronan <i>(Skansen Kronan)</i>
     - Haga District <i>(Haga)</i>
-    - Fish Market <i>(Feskekörka)</i> 
-    - Museum of Fine Art & Poseidon Sculpture <i>(Göteborgs Konstmuseum)</i> 
+    - Feskekörka <i>(Feskekörka)</i> 
+    - Museum of Fine Art <i>(Göteborgs Konstmuseum)</i> 
     - Gothenburg Cathedral <i>(Göteborg Domkyrkan)</i>
     - Slottsskogen <i>(Slottsskogen Park)</i>
     - The Garden Society <i>(Trädgårdsföreningen)</i>
@@ -58,9 +62,9 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Krokslätt Factory <i>(Krokslätts Fabriker)</i>
     - Fässbergs Church <i>(Fässbergs Kyrka)</i>
 4. Sundsvall
-    - Norra Berget Open-air Museum <i>(Norra Berget Friluftsmuseum)</i>
-    - Culture Magazine <i>(Kulturmagasinet)</i>
-    - Södra Berget Open-air Center <i>(Friluftscentrum Södra Berget)</i>
+    - Norra Berget Open-Air Museum <i>(Norra Berget Friluftsmuseum)</i>
+    - Kulturmagasinet <i>(Kulturmagasinet)</i>
+    - Södra Berget Open-Air Center <i>(Friluftscentrum Södra Berget)</i>
     - Main Square <i>(Stora Torget)</i>
     - Gustav Adolfs Church <i>(Gustav Adolfs Kyrka)</i>
 5. Timrå
@@ -133,7 +137,11 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Lerum Church <i>(Lerums Kyrka)</i>
 27. Alingsås
     - Nolhaga Park <i>(Nolhaga Lantgård)</i>
-    - Alingsås Centre <i>(Alingsås Centre)</i>
+    - Nolhaga Palace <i>(Nolhaga Lantgård)</i>
+    - Alingsås City Hall <i>(Alingsås Rådhus)</i>
+    - Christinae Church <i>(Christinae Kyrka)</i>
+    - The Woman with the Handbag Statue <i>(Statyn "Med Handväskan som Vapen")</i>
+    - Mjörn Lake <i>(Mjörn)</i>
 28. Trollhättan
     - Trollhättan Waterfall <i>(Trollhättefallen)</i>
     - Kings' Cave <i>(Kungsgrottan)</i>
