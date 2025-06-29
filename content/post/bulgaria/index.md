@@ -37,20 +37,32 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 <b>🏛 Top sights visited: </b>
 1. Sofia
     - St. Alexander Nevski Cathedral <i>(Храм-Паметник "Свети Александър Невски")</i>
+    - Sofia Central Mineral Baths <i>(Централна Минерална Баня)</i>
+    - The Statue of Sofia <i>(Статуя на София)</i>
     - Vitosha Boulevard <i>(Булевард "Витоша")</i>
     - Vitosha Mountain <i>(Планина Витоша)</i>
     - The Rotunda Church of St George <i>(Ротонда "Свети Георги")</i>
     - Amphitheatre of Serdica <i>(Амфитеатър на Сердика)</i>
+    - Saint Nedelya Cathedral <i>(Катедрален Храм "Света Неделя")</i>
     - National Palace of Culture <i>(Национален Дворец на Културата)</i>
+    - Ivan Vazov National Theatre <i>(Народен Театър "Иван Вазов")</i>
 2. Nessebar
-    - Old Nessebar <i>(Стар Несебър)</i>
     - Sunny Beach <i>(Слънчев Бряг)</i>
+    - Old Nessebar <i>(Стар Несебър)</i>
+    - Hagia Sophia Church <i>(Църква "Света София")</i>
+    - Church of Christ Pantocrator <i>(Църква "Христос Пантократор")</i>
+    - Church of St. Stephen <i>(Свети Стефан)</i>
+    - Nessebar Windmill <i>(Вятърна Мелница в Несебър)</i>
 3. Burgas
     - Sea Garden <i>(Морска Градина)</i>
+    - Church Saints Cyril and Methodius <i>(Св. Кирил и Методий)</i>
 4. Varna
     - Cathedral of the Assumption of the Virgin <i>(Катедралата Успение Богородично)</i>
     - Sea Garden <i>(Морска Градина)</i>
     - The Roman Thermae <i>(Римски Терми)</i>
+    - The Clock Tower of Varna <i>(Часовникова Кула)</i>
+    - Varna Opera Theatre <i>(Варненската Опера)</i>
+    - Varna Archaeological Museum <i>(Варненски Археологически Музей)</i>
 5. Sveti Vlas
     - Church "Saint Vlasiy" <i>(Свети Влас)</i>
     - Church St. Atanasii Veliki <i>(Храм Св. Атанасий Велики)</i>

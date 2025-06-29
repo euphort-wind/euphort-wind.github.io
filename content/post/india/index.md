@@ -69,9 +69,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 
 
 <b>🥘 Local food & drinks: </b>
-- Indian Curry <i>(करी)</i>
-  - Butter Chicken <i>(बटर चिकन)</i>
-  - Lamb Korma <i>(मेमने कोरमा)</i>
+- Butter Chicken <i>(बटर चिकन)</i>
+- Lamb Korma <i>(मटन कोरमा)</i>
 - Mukhwas <i>(मुखवास)</i>
 - Indian Buffalo Steak <i>(भारतीय भैंस स्टेक)</i>
 - Kanda Bhaji <i>(कांदा भजी)</i>
