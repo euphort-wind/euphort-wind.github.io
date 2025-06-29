@@ -14,13 +14,13 @@ gallery_item:
     image: 3fish.jpg
     caption: Helsinki Old Market 
   - album: finland
-    image: 3sib.jpg
+    image: 4sib.jpg
     caption: Sibelius Monument 
   - album: finland
-    image: 4suomen.jpg
+    image: 5suomen.jpg
     caption: Suomenlinna Fortress
   - album: finland
-    image: 5vaasa.jpg
+    image: 6vaasa.jpg
     caption: Vaasa 
   - album: finland
     image: 7church.jpg
