@@ -3,31 +3,6 @@ title: 🇫🇮 Finland
 date: '2021-12-01'
 summary: Trip to Finland
 
-gallery_item:
-  - album: finland
-    image: 1helsinki.jpeg
-    caption: Helsinki
-  - album: finland
-    image: 2helsi.jpg
-    caption: Helsinki Cathedral
-  - album: finland
-    image: 3fish.jpg
-    caption: Helsinki Old Market 
-  - album: finland
-    image: 4sib.jpg
-    caption: Sibelius Monument 
-  - album: finland
-    image: 5suomen.jpg
-    caption: Suomenlinna Fortress
-  - album: finland
-    image: 6vaasa.jpg
-    caption: Vaasa 
-  - album: finland
-    image: 7church.jpg
-    caption: Temppeliaukio Church
-  - album: finland
-    image: 8soup.jpg
-    caption: Finnish Salmon Soup
 
 
 ---
