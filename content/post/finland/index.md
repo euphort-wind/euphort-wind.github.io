@@ -3,31 +3,9 @@ title: 🇫🇮 Finland
 date: '2021-12-01'
 summary: Trip to Finland
 
-gallery_item:
-  - album: finland
-    image: 1helsinki.jpeg
-    caption: Helsinki
-  - album: finland
-    image: 2helsi.jpg
-    caption: Helsinki Cathedral
-  - album: finland
-    image: 3fish.jpg
-    caption: Helsinki Old Market 
-  - album: finland
-    image: 4sib.jpg
-    caption: Sibelius Monument 
-  - album: finland
-    image: 5suomen.jpg
-    caption: Suomenlinna Fortress
-  - album: finland
-    image: 6vaasa.jpg
-    caption: Vaasa 
-  - album: finland
-    image: 7church.jpg
-    caption: Temppeliaukio Church
-  - album: finland
-    image: 8soup.jpg
-    caption: Finnish Salmon Soup
+
+
+
 ---
 Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was there in the autumn of 2021. Below are some notes on what I tasted, saw and listened to. I also visited <a href = "https://euphort.se/post/aland/">Åland Islands</a> (an autonomous and demilitarised region of Finland). <br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️. 
