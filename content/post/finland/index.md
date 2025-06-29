@@ -31,7 +31,7 @@ gallery_item:
 
 
 ---
-Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was there in the autumn of 2021. Below are some notes on what I tasted, saw and listened to. I also visited <a href = "https://euphort.se/post/aland/">Åland Islands</a> (an autonomous and demilitarised region of Finland). <br>
+Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was there in the autumn of 2021. Below are some notes on what I tasted, saw and listened to. <br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️. 
 
 <b>🗺 Places:</b> Helsinki, Vaasa.<br>
@@ -103,7 +103,7 @@ Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was ther
 <b>👨‍🎓 The oldest university:</b> The University of Helsinki <i>(Helsingin Yliopisto)</i>, Helsinki, est. 1640.  
 
 
-{{< gallery album="estonia" crop_options="150x150" >}}
+{{< gallery album="finland" crop_options="150x150" >}}
    
    
 
