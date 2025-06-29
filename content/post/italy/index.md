@@ -8,13 +8,13 @@ gallery_item:
     image: 1bol.jpg
     caption: Bologna
   - album: italy
-    image: 2flo.jpg
+    image: 6flo.jpg
     caption: Florence Cathedral
   - album: italy
     image: 5ycat.jpg
     caption: Catania Cathedral
   - album: italy
-    image: 6bridge.jpg
+    image: 2bridge.jpg
     caption: Ponte Vecchio (Florence)
   - album: italy
     image: 3col.jpg

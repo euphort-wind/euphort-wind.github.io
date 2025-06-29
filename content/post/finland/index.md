@@ -12,7 +12,7 @@ gallery_item:
     caption: Helsinki Cathedral
   - album: finland
     image: 3fish.jpg
-    caption: Helsinki Old Market Hall 
+    caption: Helsinki Old Market 
   - album: finland
     image: 3sib.jpg
     caption: Sibelius Monument 
@@ -102,5 +102,6 @@ Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was ther
 
 
 {{< gallery album="finland" crop_options="150x150" >}}
+   
    
 
