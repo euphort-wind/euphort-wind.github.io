@@ -103,7 +103,7 @@ Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was ther
 <b>👨‍🎓 The oldest university:</b> The University of Helsinki <i>(Helsingin Yliopisto)</i>, Helsinki, est. 1640.  
 
 
-{{< gallery album="finland" crop_options="150x150" >}}
+{{< gallery album="estonia" crop_options="150x150" >}}
    
    
 
