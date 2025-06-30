@@ -38,7 +38,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 1. Bucharest
     - The Parliament of Romania <i>(Parlamentul României)</i>
     - Stavropoleos Monastery <i>(Mănăstirea Stavropoleos)</i>
-    - Bucharest Old Town <i>(Orasul Vechi Bucuresti)</i>
+    - Bucharest Old Town <i>(Centrul Istoric al Bucureștiului)</i>
     - The CEC Palace <i>(Palatul CEC)</i>
     - Curtea Veche Church <i>(Biserica Curtea Veche)</i>
     - National Bank of Romania <i>(Banca Națională a României)</i>
@@ -48,17 +48,17 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
     - Pelishor Castle <i>(Castelul Pelișor)</i>
     - Sinaia Monastery <i>(Mănăstirea Sinaia)</i>
     - The Casino of Sinaia <i>(Cazinoul Sinaia)</i>
-    - Hotel Palace <i>(Hotel Palace)</i>
+    - Hotel Palace <i>(Hotel Palace din Sinaia)</i>
     - Dimitrie Ghica Park <i>(Parcul Dimitrie Ghica)</i>
 3. Bran
     - Bran Castle <i>(Castelul Bran)</i>
     - Royal Park <i>(Parcul Regal)</i>
-    - The Castle of Horror <i>(Castelul Groazei)</i>
-
+    - Bran Village Museum <i>(Muzeul National Bran)</i>
 
 <b>🎧 Local musicians: </b>
 - 🇷🇴 Akcent (band). Genre: eurodance
 - 🇷🇴 Mario Fresh (singer). Genre: pop
+- 🇷🇴 Ionut Cercel (singer). Genre: manele
 - 🇺🇳 Morandi (duo). Genre: eurodance
 - 🇺🇳 Alis Shuka (singer). Genre: pop
 - 🇺🇳 INNA (singer). Genre: pop
@@ -84,7 +84,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 <b>🪔 Authentic features:</b>
 - The Doina Song <i>(Doina)</i>
 - The Ballad of Miorița <i>(Miorița)</i>
-- The Paparuda Ritual <i>(Păpăluga)</i> 
+- The Paparuda Ritual <i>(Paparudă)</i> 
 - The Martisor Celebration <i>(Mărțișor)</i> 
 - The Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
 - Romanian Hora Dance <i>(Hora)</i>

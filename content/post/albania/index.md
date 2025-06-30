@@ -36,21 +36,24 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 
 <b>🏛 Top sights visited: </b>
 1. Tirana
-    - Skanderbeg Square <i>(Sheshi Skënderbej)</i>
-    - Fortress of Justinian <i>(Kalaja e Justinianit)</i>
-    - Pyramid of Tirana <i>(Piramida e Tiranës)</i>
-    - Bunk'Art-2 <i>(Bunk'Art-2)</i>
-    - Grand Park of Tirana <i>(Parku i Madh i Tiranës)</i>
+    - The Skanderbeg Square <i>(Sheshi Skënderbej)</i>
+    - The Fortress of Justinian <i>(Kalaja e Justinianit)</i>
+    - The Pyramid of Tirana <i>(Piramida e Tiranës)</i>
+    - The Bunk'Art-2 <i>(Bunk'Art-2)</i>
+    - The Grand Park of Tirana <i>(Parku i Madh i Tiranës)</i>
+    - The Murat Toptani Street <i>(Rruga Murat Toptani)</i>
+    - The Resurrection of Christ Cathedral <i>(Katedralja Ngjallja e Krishtit)</i>
     - The Bektashi World Center <i>(Kryegjyshata Botërore Bektashiane)</i>
 2. Krujë
-    - Kruja Castle <i>(Kalaja e Krujës)</i>
-    - Old Bazaar <i>(Pazari i Vjetër)</i>
-    - Skanderbeg Museum <i>(Muzeu Historik Kombëtar "Gjergj Kastrioti Skënderbeu")</i>    
+    - The Kruja Castle <i>(Kalaja e Krujës)</i>
+    - The Skanderbeg Museum <i>(Muzeu Kombëtar "Gjergj Kastrioti Skënderbeu")</i>    
+    - The Old Bazaar <i>(Pazari i Vjetër)</i>
 3. Durrës 
-    - Durrës Amphitheatre <i>(Amfiteatri i Durrësit)</i>
-    - Venetian Tower <i>(Kalaja e Durrësit)</i>
+    - The Durrës Amphitheatre <i>(Amfiteatri i Durrësit)</i>
+    - The Venetian Tower <i>(Kulla Veneciane)</i>
+    - The Town Square of Durrës <i>(Sheshi Liria)</i>
     - The Royal Villa of Durrës <i>(Vila Mbretërore e Durrësit)</i>
-    - Byzantine Forum <i>(Forumi Bizantin)</i>
+    - The Byzantine Forum <i>(Forumi Bizantin)</i>
 
 
 <b>🎧 Local musicians: </b>
@@ -78,7 +81,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - Authentic Principle: Besa <i>(Besa)</i>
 - The System of Albanian Tribes <i>(Fiset Shqiptare)</i>
 - Bektashism <i>(Bektashi)</i>
-- Albanaian Iso-Polyphony <i>(Iso-Polifonia)</i>
+- Albanaian Iso-Polyphony <i>(Iso-Polifonia Shqiptare)</i>
 - The Shota Dance <i>(Shotë)</i>
 - The Legend of Skanderbeg <i>(Trashëgimia e Skënderbeut)</i>
 - Albanian Bunkers <i>(Bunkerët)</i>

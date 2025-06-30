@@ -47,10 +47,10 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
     - Vilnius Cathedral <i>(Vilniaus Šv. Stanislovo ir Šv. Vladislovo Arkikatedra Bazilika)</i>
     - Vilnius Street <i>(Vilniaus Gatvė)</i>
 2. Kaunas
-    - The Garrison Church <i>(Švento Arkangelo Mykolo Bažnyčia)</i>
-    - Žaliakalnis Funikulierius <i>(Žaliakalnis Funicular)</i>
+    - The Garrison Church <i>(Šv. Arkangelo Mykolo Bažnyčia)</i>
+    - Žaliakalnis Funikulierius <i>(Žaliakalnio Funikulierius)</i>
     - Christ's Resurrection Basilica <i>(Kristaus Prisikėlimo Bazilika)</i>
-    - Vytautas the Great War Museum <i>(Vytauto Didžiojo Kkaro Muziejus)</i>
+    - Vytautas the Great War Museum <i>(Vytauto Didžiojo Karo Muziejus)</i>
     - Liberty Boulevard <i>(Laisvės Alėja)</i>
     - Ramybė Park <i>(Ramybės Parkas)</i>
     - Yard Gallery <i>(Kiemo Galerija)</i> 
@@ -61,7 +61,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
     - Trakai Island Castle <i>(Trakų Salos Pilis)</i>
     - Trakai Peninsula Castle <i>(Trakų Pusiasalio Pilis)</i>
     - Karaites' Street <i>(Karaimų Gatvė)</i>
-    - Galve Lake <i>(Galvės Ežero)</i>
+    - Galve Lake <i>(Galvės Ežeras)</i>
   
 
 <b>🎧 Local musicians: </b>

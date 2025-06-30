@@ -90,9 +90,9 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - The Epic of Manas <i>(Манас Дастаны)</i> 
 - Tengrism <i>(Теңирчилик)</i> 
 - The Shyrdak and Ala-Kiiz Carpets <i>(Шырдак жана Ала-Кийиз)</i> 
-- Kyrgyz Yurts <i>(Кыргыз боз Yйлөрү)</i> 
+- Kyrgyz Yurts <i>(Кыргыз боз Үйлөрү)</i> 
 - Authentic Musical Instrument: Komuz <i>(Комуз)</i> 
-- Authentic Garb: Ak-Kalpak and Beldemchi <i>(Ак-Калпак менен Белдемчи)</i> 
+- Authentic Garb: Ak-Kalpak and Beldemchi <i>(Ак Калпак менен Белдемчи)</i> 
 - The Culture of Dungan <i>(Дунгандар / Хуэйзў)</i>
 - The Heritage of the Kyrgyz Khanate <i>(Кыргыз Хандыгы / 𐱅𐰭𐰼𐰄:𐰅𐰠)</i> 
 - <u>Issyk-Kul (Regional Special):</u> The Legends of Issyk-Kul & Cholpon-Ata <i>(Ысык-Көл жана Чолпон-Ата Легендалары)</i>

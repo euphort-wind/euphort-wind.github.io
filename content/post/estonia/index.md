@@ -43,12 +43,17 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
     - St. Catherine's Passage <i>(Katariina Käik)</i>
     - Estonian Parliament <i>(Riigikogu)</i>
     - Cafe Maiasmokk <i>(Maiasmokk)</i>
+    - Toompea Hill <i>(Toompea)</i>
+    - St. Olaf’s Church <i>(Oleviste Kirik)</i>
+    - The Alexander Nevsky Cathedral <i>(Aleksander Nevski Katedraal)</i>
+    - St. Nicholas Church <i>(Niguliste Kirik)</i>
 2. Tartu
     - Town Hall Square <i>(Raekoja Plats)</i>
     - Tartu Observatory <i>(Tartu Observatoorium)</i>
     - Ruins of Tartu Cathedral <i>(Tartu Toomkirik)</i>
     - Main Building of Tartu University <i>(Tartu Ülikooli Peahoone)</i>
     - The Leaning House <i>(Tartu Kunstimuuseum)</i>
+    - Tartu Toy Museum <i>(Tartu Mänguasjamuuseum)</i>
 3. Värska
     - Värska Orthodox Church <i>(Värska Georgiose Kirik)</i>
     - General Reek's House <i>(Reegi Maja)</i>

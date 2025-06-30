@@ -29,7 +29,7 @@ gallery_item:
     image: 6ba.jpeg
     caption: Portuguese Bacalhau com natas
 ---
-Hej! I'm sharing a glimpse of my experience visiting bright and contrasty Portugal. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was there in the spring of 2024. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Lisbon, Algés, Cascais, Sintra. <br>
@@ -49,10 +49,10 @@ Hej! I'm sharing a glimpse of my experience visiting bright and contrasty Portug
     - Anjos Palace <i>(Palácio Anjos)</i> 
     - Algés Market <i>(Mercado de Algés)</i> 
 3. Cascais 
-    - Seixas Palace <i>(Palacio Seixas)</i> 
+    - Seixas Palace <i>(Palácio Seixas)</i> 
     - The Citadel of Cascais <i>(Cidadela de Cascais)</i> 
     - Marechal Carmona Park <i>(Parque Marechal Carmona)</i> 
-    - St Sebastian's Tower <i>(Palácio dos Condes de Castro Guimarães)</i> 
+    - The Palácio dos Condes de Castro Guimarães <i>(Palácio dos Condes de Castro Guimarães)</i> 
     - Boca do Inferno <i>(Boca do Inferno)</i> 
 4. Sintra 
     - The Pena Palace <i>(Palácio da Pena)</i>
@@ -76,13 +76,13 @@ Hej! I'm sharing a glimpse of my experience visiting bright and contrasty Portug
 
 <b>🥘 Local food & drinks: </b>
 - Serra da Estrela Cheese <i>(Queijo Serra da Estrela)</i>
-- Caldo Verde Soup <i>(Caldo verde)</i>
+- Caldo Verde Soup <i>(Caldo Verde)</i>
 - Bifana Sandwich <i>(Bifana)</i>
 - Pastéis de Bacalhau <i>(Pastéis de Bacalhau)</i>
 - Grilled Sardines <i>(Sardinhas Assadas)</i>
-- Portuguese Stew <i>(Cozido)</i>
+- Portuguese Stew <i>(Cozido à Portuguesa)</i>
 - Bacalhau com Natas <i>(Bacalhau com Natas)</i>
-- Portuguese-Style Octopus <i>(Polvo Grelhado)</i>
+- Portuguese-Style Octopus <i>(Polvo à Lagareiro)</i>
 - Portuguese Pastry <i>(Pastel de Nata)</i>
 - Port Wine <i>(Brand: "Ferreira")</i>
 - Green Wine <i>(Brand: "Muralhas Vinho Verde")</i>
@@ -102,9 +102,9 @@ Hej! I'm sharing a glimpse of my experience visiting bright and contrasty Portug
 - The Manueline Architecture <i>(Estilo Manuelino)</i> 
 - The Pombaline Architecture <i>(Estilo Pombalino)</i> 
 - The Azulejo Tilework <i>(Azulejo)</i>
-- Portuguese Seamanship and Maritime Exploration <i>(Marinharia e Exploração Marítima)</i> 
+- Portuguese Seamanship and Maritime Exploration <i>(Descobrimentos Portugueses)</i> 
 - Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>   
-- Authentic Garb: Portuguese Traje <i>(Traje Português)</i>
+- Authentic Garb: Portuguese Traje <i>(Traje Típico Português)</i>
 - The Heritage of the Portuguese Empire <i>(Império Português)</i>
 - <u>Lisbon (Regional Special):</u> Lisbon Historic Trams <i>(Brand: "Remodelados")</i>
 

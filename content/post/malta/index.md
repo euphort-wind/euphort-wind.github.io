@@ -85,7 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 - Ġbejna Cheese <i>(Ġbejna Friski)</i>
 - Pastizzi <i>(Pastizzi)</i>
   - Pastizzi with Curried Peas <i>(Pastizzi tal-Piżelli)</i> 
-  - Pastizzi with Ricotta <i>(Pastizzi tal-Ħaxu)</i> 
+  - Pastizzi with Ricotta <i>(Pastizzi tar-Rikotta)</i> 
   - Pastizzi with Chicken <i>(Pastizzi tat-Tigieg)</i> 
 - Ftira <i>(Ftira)</i>
 - Aljotta <i>(Aljotta)</i>

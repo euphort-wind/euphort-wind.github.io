@@ -36,13 +36,16 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 
 <b>🏛 Top sights visited: </b>
 1. Gdańsk
-    - Rybackie Street & Ołowianka Island <i>(Rybackie Pobrzeże i Ołowianka)</i>
-    - Gdańsk City Hall & Neptun Fontain <i>(Ratusz Głównego Miasta w Gdańsku i Fontanna Neptuna)</i>
-    - The Great Mill & Small Mill <i>(Wielki Młyn i Mały Młyn)</i>
+    - Rybackie Street & Ołowianka Island <i>(Rybackie Pobrzeże i Wyspa Ołowianka)</i>
+    - Gdańsk City Hall <i>(Ratusz Głównego Miasta w Gdańsku)</i>
+    - Neptun Fountain <i>(Fontanna Neptuna)</i>
+    - The Great Mill <i>(Wielki Młyn)</i>
+    - The Small Mill <i>(Mały Młyn)</i>
     - St. Mary Church <i>(Bazylika Mariacka)</i>
     - Długa Street <i>(Ulica Długa)</i>
     - The Great Armoury <i>(Wielka Zbrojownia)</i>
-    - The Highland Gate & Golden Gate <i>(Brama Wyżynna i Złota Brama)</i>
+    - The Highland Gate <i>(Brama Wyżynna)</i>
+    - The Golden Gate <i>(Złota Brama)</i>
 2. Sopot
     - Church of St. George <i>(Kościół św. Jerzego w Sopocie)</i>
     - The Crooked House <i>(Krzywy Domek)</i>
@@ -55,11 +58,13 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 4. Władysławowo
     - Władysławowo Church <i>(Kościół pw. Wniebowzięcia)</i> 
     - Władysławowo Park <i>(Park Miejski)</i>
-    - Władysławowo City Hall <i>(Dom Rybaka)</i>
+    - Władysławowo City Hall <i>(Dom Rybaka we Władysławowie)</i>
 5. Hel
     - Hel Lighthouse <i>(Latarnia Morska Hel)</i>
-    - Hel Beaches <i>(Plaża Helska)</i>
+    - Hel Beach <i>(Plaża w Helu)</i>
     - Wiejska Street <i>(Ulica Wiejska)</i>
+    - The Fisheries Museum <i>(Muzeum Rybołówstwa)</i>
+    - The Fokarium <i>(Fokarium)</i>
 
 <b>🎧 Local musicians: </b>
 - 🇵🇱 Brodka (singer). Genre: pop
@@ -96,7 +101,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - The Polonaise Dance <i>(Polonez)</i>
 - The Mazurka Dance <i>(Mazurek)</i>
 - The Brick Gothic Architecture <i>(Gotyk Ceglany)</i>
-- The Zakopane Architecture <i>(Styl Zakopiańskiy)</i>
+- The Zakopane Architecture <i>(Styl Zakopiański)</i>
 - The Bolesławiec Pottery <i>(Ceramika Bolesławiecka)</i>
 - Polish Name Day Celebrations <i>(Imieniny)</i>
 - Authentic Musical Instrument: Koza <i>(Koza)</i>

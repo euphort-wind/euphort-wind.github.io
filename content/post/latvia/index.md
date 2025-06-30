@@ -32,7 +32,7 @@ gallery_item:
 Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was there in the winter of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Riga, Jurmala, Tukums.<br>
+<b>🗺 Places:</b> Riga, Jūrmala, Tukums.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Riga
@@ -44,9 +44,9 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
     - The Three Brothers  <i>(Trīs Brāļi)</i> 
     - Freedom Monument <i>(Brīvības Piemineklis)</i>
     - Riga Castle <i>(Rīgas Pils)</i>
-2. Jurmala
+2. Jūrmala
     - Dzintari Forest Park <i>(Dzintaru Mežaparks)</i>
-    - Jurmala Open-air Museum <i>(Jūrmala Brīvdabas Muzejs)</i>
+    - Jūrmala Open-air Museum <i>(Jūrmalas Brīvdabas Muzejs)</i>
     - Jomas Street <i>(Jomas Iela)</i>
     - Dubulti Lutheran Church <i>(Dubultu Luterāņu Baznīca)</i>
     - Aspazija's House <i>(Aspazijas Māja)</i>
@@ -80,9 +80,9 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 
 <b>🪔 Authentic features:</b>
 - Latvian Vernacular Architecture <i>(Latviešu Tautas Arhitektūra)</i> 
-- Latvian Christmas Eve Celebration <i>(Ziemassvētki)</i> 
+- Latvian Christmas Eve Celebration <i>(Ziemassvētku Vakars)</i> 
 - Authentic Musical Instrument: Kokle <i>(Kokle)</i> 
-- Authentic Garb: Latvian Belt <i>(The Lielvārde Belt)</i> 
+- Authentic Garb: Latvian Belt <i>(Lielvārdes Josta)</i> 
 - The Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
 - The Heritage of the Livonian Confederation <i>(Livonijas Konfederācija / Terra Mariana)</i>
 - <u>Jurmala-City (Regional Special):</u> Jurmala Festivals <i>(Jūrmalas Festivāli)</i>

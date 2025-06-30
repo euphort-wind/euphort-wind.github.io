@@ -36,19 +36,22 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 
 <b>🏛 Top sights visited: </b>
 1. Brussels
-    - Grand Square <i>(Grand-Place / Grote Markt)</i>
-    - Manneken Pis <i>(Petit Julien / Manneken Pis)</i>
+    - The Grand Square <i>(Grand-Place / Grote Markt)</i>
+    - The Manneken Pis <i>(Petit Julien / Manneken Pis)</i>
     - The Palace of Justice <i>(Palais de Justice de Bruxelles / Justitiepaleis van Brussel)</i>
-    - Egmont Park <i>(Parc Egmont / Egmontpark)</i>
+    - The Egmont Park <i>(Parc Egmont / Egmontpark)</i>
     - The Royal Palace of Brussels & Royal Park <i>(Palais Royal de Bruxelles / Koninklijk Paleis van Brussel)</i>
     - The Cathedral of St. Michael and St. Gudula <i>(Cathédrale Saints-Michel-et-Gudule / Kathedraal van Sint-Michiel en Sint-Goedele)</i>
+    - The Mont des Arts <i>(Mont des Arts / Kunstberg)</i>
+    - The Church of Our Lady of the Chapel <i>(Église Notre-Dame-de-la-Chapelle / Onze-Lieve-Vrouw-ter-Kapellekerk)</i>
 2.  Saint-Josse-ten-Noode
-    - Saint-Josse-ten-Noode City Hall <i>(Mairie de Saint-Josse-ten-Noode / Gemeentehuis van Sint-Joost-ten-Node)</i>
+    - The Saint-Josse-ten-Noode City Hall <i>(Mairie de Saint-Josse-ten-Noode / Gemeentehuis van Sint-Joost-ten-Node)</i>
     - The Botanical Garden <i>(Jardin Botanique / Kruidtuin)</i>
+    - The World Trade Center <i>(World Trade Center / World Trade Center)</i>
 3.  Schaerbeek 
-    - Schaerbeek City Hall <i>(Hôtel Communal / Gemeentehuis)</i>
+    - The Schaerbeek City Hall <i>(Hôtel Communal / Gemeentehuis)</i>
     - Saint Mary's Royal Church <i>(Église Royale Sainte-Marie / Koninklijke Sint-Mariakerk)</i> 
-    - Lehon Plein <i>(Lehon Plein / Lehon Plein)</i> 
+    - The Lehon Plein <i>(Place Lehon / Lehonplein)</i> 
 
 
 <b>🎧 Local musicians: </b>

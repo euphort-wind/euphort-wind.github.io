@@ -18,13 +18,13 @@ gallery_item:
     caption: Old Nesebar
   - album: bulgaria
     image: 4ogas.jpg
-    caption: The Sea Garden (Burgas)
+    caption: The Sea Garden 
   - album: bulgaria
-    image: 4varna.jpg
-    caption: The Varna Opera
+    image: 5pomor.jpg
+    caption: Monastery of St. George (Pomorie)
   - album: bulgaria
     image: 3vlas.jpeg
-    caption: Sveti Vlas
+    caption: The Roman Thermae (Varna)
   - album: bulgaria
     image: 6kebabche.jpg
     caption: Bulgarian Kebapche
@@ -51,11 +51,11 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
     - Old Nessebar <i>(Стар Несебър)</i>
     - Hagia Sophia Church <i>(Църква "Света София")</i>
     - Church of Christ Pantocrator <i>(Църква "Христос Пантократор")</i>
-    - Church of St. Stephen <i>(Свети Стефан)</i>
+    - Church of St. Stephen <i>(Църква "Свети Стефан")</i>
     - Nessebar Windmill <i>(Вятърна Мелница в Несебър)</i>
 3. Burgas
     - Sea Garden <i>(Морска Градина)</i>
-    - Saints Cyril and Methodius Church <i>(Св. Кирил и Методий)</i>
+    - Saints Cyril and Methodius Church <i>(Църква "Св. Кирил и Методий")</i>
 4. Varna
     - Cathedral of the Assumption of the Virgin <i>(Катедралата Успение Богородично)</i>
     - The Sea Garden <i>(Морска Градина)</i>
@@ -64,7 +64,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
     - Varna Opera Theatre <i>(Варненската Опера)</i>
     - Varna Archaeological Museum <i>(Варненски Археологически Музей)</i>
 5. Sveti Vlas
-    - St. Vlasiy Church <i>(Свети Влас)</i>
+    - St. Vlasiy Church <i>(Църква "Свети Влас")</i>
     - St. Atanasii Veliki Church <i>(Храм Св. Атанасий Велики)</i>
     - Marina Dinevi Port <i>(Марина Диневи)</i>
 6. Pomorie
@@ -74,9 +74,9 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
     - Pomorie Lake <i>(Поморийско Езеро)</i>
     - Old Houses of Pomorie Architectural Reserve <i>(Архитектурен Резерват "Стари Поморийски Къщи")</i>
 7. Byala
-    - Cape St. Athanasius Ancient Settlement <i>(Свети Анастас)</i>
+    - Cape of St. Athanasius <i>(Нос Свети Атанас)</i>
     - Byala Public Beach <i>(Обществен плаж Бяла)</i>
-    - White Cliffs <i>(Бели Cкали)</i>
+    - The White Cliffs <i>(Бели Скали)</i>
    
 
 <b>🎧 Local musicians: </b>

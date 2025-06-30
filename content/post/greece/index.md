@@ -41,7 +41,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
     - The Street of the Knights <i>(Οδός των Ιπποτών)</i>
     - Ancient Stadium of Rhodes <i>(Αρχαίο Στάδιο της Ρόδου)</i>
     - Acropolis of Rhodes <i>(Ακρόπολη της Ρόδου)</i>
-    - Butterflies Valley <i>(Κοιλάδα πεταλούδων)</i>
+    - Butterflies Valley <i>(Κοιλάδα Πεταλούδων)</i>
     - Ancient Site of Kamiros <i>(Κάμιρος)</i>
 2. Agios Nikolaos
     - Port d’Agios Nikolaos <i>(Λιμάνι Αγίου Νικολάου)</i>
@@ -52,7 +52,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 3. Heraklion
     - Heraklion Archaeological Museum <i>(Αρχαιολογικό Μουσείο Ηρακλείου)</i>
     - Cathedral of St. Minas <i>(Καθεδρικός Ναός Αγίου Μηνά)</i>
-    - Lion's Fountain <i>(Συντριβάνι Μοροζίνι)</i>
+    - Lion's Fountain <i>(Κρήνη Μοροζίνι)</i>
     - Old Venetian Harbor of Heraklion <i>(Παλιό Ενετικό Λιμάνι Ηρακλείου)</i>
 4. Oia 
     - The Castle of St. Nicholas <i>(Το Κάστρο του Αγίου Νικολάου)</i>
@@ -102,7 +102,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
   - Ancient Greek Philosophy <i>(Αρχαία Ελληνική Φιλοσοφία)</i>
   - Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>
-  - Ancient Greek Religion <i>(Αρχαία ελληνική θρησκεία)</i>
+  - Ancient Greek Religion <i>(Αρχαία Ελληνική Θρησκεία)</i>
   - Ancient Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
   - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύς)</i>
 - <u>Crete (Regional Special):</u> Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>

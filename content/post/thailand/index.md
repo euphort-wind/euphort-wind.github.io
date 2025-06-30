@@ -29,7 +29,7 @@ gallery_item:
     image: 6tomyam.jpg
     caption: Tom Yam Soup
 ---
-Hej! I'm sharing a glimpse of my experience visiting bright Thailand. I was there in the winter of 2018. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was there in the winter of 2018. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Patong, Kathu, Racha Yai.<br>
@@ -39,10 +39,10 @@ Hej! I'm sharing a glimpse of my experience visiting bright Thailand. I was ther
     - Bangla Road <i>(ถนนบางลา)</i>
     - Patong Beach <i>(หาดป่าตอง)</i>
     - Jungceylon <i>(จังซีลอน)</i>
-    - Patong Promenade <i>(ป่าตองพรอมนาด)</i>
+    - Patong Promenade <i>(ถนนเลียบหาดป่าตอง)</i>
 2. Kathu
-    - Flying Hanuman Zipline <i>(ซิปไลน์)</i>
-    - Elephant Care <i>(การดูแลช้าง)</i>
+    - Flying Hanuman Zipline <i>(ฟลายอิ้งหนุมาน)</i>
+    - Elephant Care <i>(ศูนย์ดูแลช้าง)</i>
 3. Racha Yai
     - Siam Bay <i>(อ่าวสยาม)</i>
 
@@ -56,7 +56,7 @@ Hej! I'm sharing a glimpse of my experience visiting bright Thailand. I was ther
 - Khao Pad  <i>(ข้าวผัด)</i>
 - Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
 - Thai Rum <i>(Brand: "SangSom")</i>
-- <u>Phuket (Regional Special)</u>: Grilled Seafood on Skewers <i>(บาร์บีคิวทะเล)</i>
+- <u>Phuket (Regional Special)</u>: Grilled Seafood on Skewers <i>(ซีฟู้ดย่างเสียบไม้)</i>
   - Grilled Shrimps on Skewers <i>(กุ้งย่างเสียบไม้)</i>
   - Grilled Clams on Skewers <i>(หอยย่างเสียบไม้)</i>
 

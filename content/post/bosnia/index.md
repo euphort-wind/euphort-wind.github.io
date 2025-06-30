@@ -36,17 +36,17 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 
 <b>🏛 Top sights visited: </b>
 1. Sarajevo
-    - Baščaršija <i>(Baščaršija)</i>
-    - Latin Bridge <i>(Latinska Ćuprija)</i>
+    - The Baščaršija <i>(Baščaršija)</i>
+    - The Latin Bridge <i>(Latinska Ćuprija)</i>
     - The National Gallery <i>(Umjetnička Galerija)</i>
     - Ferhadija Street <i>(Ulica Ferhadija)</i>
-    - Gradska Tržnica Markale <i>(Gradska Tržnica Markale)</i>
+    - The Gradska Tržnica Markale <i>(Gradska Tržnica Markale)</i>
     - The Sacred Heart Cathedral <i>(Katedrala Srca Isusova)</i>
     - Gazi Husrev-Beg's Bezistan <i>(Gazi Husrev-Begov Bezistan)</i>
-    - Sarajevo City Hall <i>(Gradska Vijećnica Sarajevo)</i>
+    - Sarajevo City Hall <i>(Gradska Vijećnica)</i>
 2. Mostar
-    - Old Bridge <i>(Stari Most)</i>
-    - Kujundžiluk Bazaar <i>(Kujundžiluk)</i>
+    - The Old Bridge <i>(Stari Most)</i>
+    - The Kujundžiluk Bazaar <i>(Kujundžiluk)</i>
     - Karađoz Beg Mosque <i>(Karađoz-Begova Džamija)</i>
     - Muslibegović House <i>(Muslibegovićeva Kuća)</i>
     - Mostar Crooked Bridge <i>(Kriva Ćuprija)</i>
@@ -55,11 +55,11 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
     - Blagaj Tekke <i>(Blagaj Tekija)</i>
     - Vrelo Bune <i>(Vrelo Bune)</i>
 4. Kravice 
-    - Kravice Waterfalls <i>(Slap Kravica)</i>
+    - Kravice Waterfalls <i>(Slapovi Kravice)</i>
 5. Počitelj
-    - Citadel Počitelj <i>(Počiteljska Tvrđava)</i>
+    - The Počitelj Citadel <i>(Počiteljska Tvrđava)</i>
     - Gavrankapetanović House <i>(Gavrankapetanovića Kuća)</i>
-    - Počitelj Tower <i>(Sahat Kula)</i>
+    - The Počitelj Clock Tower <i>(Sahat Kula)</i>
      
 
 <b>🎧 Local musicians: </b>
@@ -96,7 +96,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - Authentic Principle: Ćejf <i>(Ćejf)</i>
 - Bosniak Epic Poetry <i>(Bošnjačke Epske Narodne Pjesme)</i>
 - The Sevdah Music <i>(Sevdah)</i>
-- The Konjic Woodcarving <i>(Konjic Woodcarving)</i>
+- The Konjic Woodcarving <i>(Konjičko Drvorezbarstvo)</i>
 - The Bosnian-Style Architecture <i>(Bosanski Stil u Arhitekturi)</i>
 - Authentic Musical Instrument: Šargija <i>(Šargija)</i> 
 - The Heritage of the Bosnian Kingdom <i>(Kraljevina Bosna / Краљевина Босна)</i>

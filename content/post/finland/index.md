@@ -31,7 +31,7 @@ gallery_item:
 
 
 ---
-Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was there in the autumn of 2021. Below are some notes on what I tasted, saw and listened to. <br>
+Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was there in the autumn of 2021. Below are some notes on what I tasted, saw and listened to. <br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️. 
 
 <b>🗺 Places:</b> Helsinki, Vaasa.<br>
@@ -40,16 +40,19 @@ Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was ther
 1. Helsinki
     - Temppeliaukio Church <i>(Temppeliaukion Kirkko)</i>
     - Sea Fortress Suomenlinna <i>(Suomenlinna)</i>
-    - Helsinki Cathedral & Senate Square <i>(Suurkirkko)</i>
-    - Old Market Hall <i>(Hietalahti)</i>
+    - Helsinki Cathedral & Senate Square <i>(Helsingin Tuomiokirkko)</i>
+    - Old Market Hall <i>(Vanha Kauppahalli)</i>
     - Uspenskin Cathedral <i>(Uspenskin Katedraali)</i>
     - Kamppi Chapel of Silence <i>(Kampin Lappeli)</i>
     - The Sibelius Monument & Sibelius Park <i>(Sibelius-Monumentti)</i>
-    - Helsinki Winter Garden <i>(Helsingin Kasvitieteellinen Puutarha)</i>
+    - Helsinki Winter Garden <i>(Helsingin Talvipuutarha)</i>
 2. Vaasa
-    - City Hall <i>(Kaupungintalo)</i>
+    - Vaasa City Hall <i>(Kaupungintalo)</i>
     - Vaasa Holy Trinity Church <i>(Vaasan Kirkko)</i>
     - Vaasa Market Square <i>(Vaasan Tori)</i>
+    - Brage Open-Air Museum <i>(Bragen Ulkoilmamuseo)</i>
+    - Vaasa City Art Gallery <i>(Vaasan Taidehalli)</i>
+    - Vaasa Water Tower <i>(Vaasan Vesitorni)</i>
 
 
 <b>🎧 Local musicians: </b>
@@ -86,7 +89,7 @@ Hej! I'm sharing a glimpse of my experience visiting stately Finland. I was ther
 - Authentic Principle: Sisu <i>(Sisu)</i>
 - Finnish Sauna <i>(Saunakulttuuri)</i>
 - The Shrove Sunday Celebration <i>(Laskiainen)</i>
-- The Fictional World of Moomins <i>(Muumi)</i>
+- The Fictional World of Moomins <i>(Muumit)</i>
 - The Ryijy Tapestry <i>(Ryijy)</i>
 - Authentic Musical Instrument: Kantele <i>(Kantele)</i>
 - Authentic Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>

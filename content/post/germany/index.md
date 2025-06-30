@@ -42,7 +42,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
     - St. Paul's Church <i>(Paulskirche)</i>
     - The Hauptwache <i>(Hauptwache)</i> 
     - Bankenviertel <i>(Bankenviertel)</i>
-    - Zeil Street <i>(Zeil Straße)</i>
+    - Zeil Street <i>(Zeil)</i>
     - Old Opera <i>(Alte Oper)</i>
     - Old Bridge <i>(Alte Brücke)</i>
 2. Koblenz
@@ -125,8 +125,8 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - Rinderrouladen <i>(Rinderrouladen)</i>
 - Mettbrötchen <i>(Mettbrötchen)</i>
 - Eisbein <i>(Eisbein)</i>
-- Berliner <i>(Krapfen)</i>
-- Gummy Bears <i>(Gummibär)</i>
+- Berliner <i>(Berliner)</i>
+- Gummy Bears <i>(Gummibärchen)</i>
 - <u>Hessen (Regional Special):</u> Handkäse <i>(Handkäse)</i>
 - <u>Hessen (Regional Special):</u> Frankfurter Green Sauce <i>(Frankfurter Grüne Soße)</i>
 - <u>Hessen (Regional Special):</u> Frankfurter Rippchen <i>(Frankfurter Rippchen)</i>
@@ -134,7 +134,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - <u>Hessen (Regional Special):</u> Frankfurter Kranz <i>(Frankfurter Kranz)</i>
 - <u>Hessen (Regional Special):</u> Hessian Apfelwein <i>(Brands: "Kelterei Walther", "Kelterei Possmann")</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> Saumagen <i>(Saumagen)</i>
-- <u>Rhineland-Palatinate (Regional Special):</u> German Wine <i>(Brands: "Volk Riesling Trocken", "Rheingau Riesling Trocken")</i>
+- <u>Rhineland-Palatinate (Regional Special):</u> German Wine <i>(Brands: "Volk Riesling Trocken", "Robert Weil Rheingau Riesling Trocken")</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Himmel und Erde <i>(Himmel un Ääd)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Flönz and Cologne Caviar <i>(Flönz un Kölscher Kaviar)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Potthucke <i>(Potthucke)</i>
@@ -162,11 +162,11 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - The Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
 - The Ottonian Architecture <i>(Ottonische Architektur)</i>
 - The Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
-- German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel" etc.)</i>
-- German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas" etc.)</i> 
+- German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
+- German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas", etc.)</i> 
 - German Philosophy <i>(Deutsche Philosophie)</i> 
 - German Fairy Tales <i>(Deutsche Märchen)</i>
-- German Cockoo Clock <i>(Kuckucksuhr)</i>
+- German Cuckoo Clock <i>(Kuckucksuhr)</i>
 - Authentic Musical Instrument: Zither <i>(Zither)</i>
 - Authentic Garb: German Tracht <i>(Tracht)</i>
 - The Heritage of the Holy Roman Empire <i>(Heiliges Römisches Reich / Sacrum Imperium Romanum)</i>

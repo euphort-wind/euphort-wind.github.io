@@ -52,9 +52,9 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Feskekörka <i>(Feskekörka)</i> 
     - Museum of Fine Art <i>(Göteborgs Konstmuseum)</i> 
     - Gothenburg Cathedral <i>(Göteborg Domkyrkan)</i>
-    - Slottsskogen <i>(Slottsskogen Park)</i>
+    - Slottsskogen Park <i>(Slottsskogen)</i>
     - The Garden Society <i>(Trädgårdsföreningen)</i>
-    - Gothenburg Botanical Garden <i>(Botaniska)</i>
+    - Gothenburg Botanical Garden <i>(Botaniska Trädgården)</i>
 3. Mölndal
     - Gunnebo Palace <i>(Gunnebo Slott och Trädgårdar)</i>
     - Town Museum <i>(Mölndals Stadsmuseum)</i>
@@ -93,7 +93,8 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Västra Street <i>(Västra Gatan)</i>
     - Bohus Fortress <i>(Bohus Fästning)</i>
 12. Kungsbacka
-    - The Tree of Life <i>(The Tree of Life)</i>
+    - The Tree of Life Statue <i>(Statyn "Livets Träd")</i>
+    - Tölöberg Watertower <i>(Tölöbergs Vattentorn)</i>
     - Kungsbackaskogen <i>(Kungsbacka Forest)</i>
     - Tjolöholm Castle <i>(Tjolöholm Slott)</i>
 13. Varberg 
@@ -103,7 +104,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Wendelsbergs High School <i>(Wendelsbergs Folkhögskola)</i>
 15. Helsingborg
     - City Hall <i>(Rådhus)</i>
-    - Kernel Fortress <i>(Kärnan)</i>
+    - Kärnan Fortress <i>(Kärnan)</i>
     - Slottshagen <i>(Slottshagen)</i>
     - Fredriksdal Museum and Gardens <i>(Fredriksdal Museer och Trädgårdar)</i>
 16. Partille 
@@ -136,8 +137,8 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 26. Lerum
     - Lerum Church <i>(Lerums Kyrka)</i>
 27. Alingsås
-    - Nolhaga Park <i>(Nolhaga Lantgård)</i>
-    - Nolhaga Palace <i>(Nolhaga Lantgård)</i>
+    - Nolhaga Park <i>(Nolhaga Park)</i>
+    - Nolhaga Palace <i>(Nolhaga Slott)</i>
     - Alingsås City Hall <i>(Alingsås Rådhus)</i>
     - Christinae Church <i>(Christinae Kyrka)</i>
     - The Woman with the Handbag Statue <i>(Statyn "Med Handväskan som Vapen")</i>
@@ -147,23 +148,25 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Kings' Cave <i>(Kungsgrottan)</i>
     - SAAB Car Museum <i>(SAAB Bilmuseum)</i>
 29. Marstrand 
-    - Marstrand Centre <i>(Marstrand Centre)</i>
     - Carlstens Fortress <i>(Carlstens Fästning)</i>
+    - Marstrand Church <i>(Marstrands Kyrka)</i>
+    - Statue of Oscar II <i>(Oscar II Statyn)</i> 
 30. Skärhamn
-    - Skärhamn Centre <i>(Skärhamn Centre)</i>
+    - Skärhamns Sjöfartsmuseum <i>(Skärhamns Sjöfartsmuseum)</i>
+    - Skärhamns Gästhamn <i>(Skärhamns Gästhamn)</i>
     - Nordic Watercolor Museum <i>(Nordiska Akvarellmuseet)</i>
     - Skärhamn Church <i>(Skärhamn Kyrkan)</i>
 31. Sollentuna
     - Edsberg Castle <i>(Edsberg Slott)</i>
     - Stallbacken Museum <i>(Stallbacken)</i>
 32. Uppsala
-    - Uppsala Cathedral & Treasury <i>(Uppsala Domkyrka)</i>
+    - Uppsala Cathedral & Treasury <i>(Uppsala Domkyrka och Skattkammaren)</i>
     - Uppsala Castle <i>(Uppsala Slott)</i>
     - Uppsala University <i>(Uppsala Universitet)</i>
 33. Sigtuna
     - Main Street <i>(Stora Gatan)</i>    
-    - St. Pers Church <i>(St. Pers Kyrkoruin)</i>    
-    - St. Olofs Church <i>(St. Olofs Kyrkoruin)</i>  
+    - St. Pers Church <i>(S:t Pers Kyrkoruin)</i>    
+    - St. Olofs Church <i>(S:t Olofs Kyrkoruin)</i>  
     - Sigtuna Runestones <i>(Sigtuna Runstenar)</i>
 34. Norrtälje 
     - Tullports Street <i>(Tullportsgatan)</i>
@@ -245,7 +248,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Boulognerskogen <i>(Boulognerskogen)</i>
 55. Mariestad
     - Mariestad Cathedral <i>(Mariestads Domkyrka)</i>
-    - Marieholm Residence <i>(Marieholm Länsresidenset)</i>
+    - Marieholm Residence <i>(Marieholm Länsresidens)</i>
     - Karlsholme Park <i>(Karlsholme Folkets Park)</i>
 
 <b>🎧 Local musicians: </b>
@@ -292,14 +295,14 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Jansson's Temptation <i>(Janssons Frestelse)</i>
 - Flying Jacob <i>(Flygande Jacob)</i>
 - Boiled Egg with Caviar <i>(Ägg med Kaviar)</i> 
-- Christmas & Easter Fuzzy Drinks <i>(Julmust och Påskmust)</i>
+- Christmas & Easter Soft Drinks <i>(Julmust och Påskmust)</i>
 - Swedish Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
 - Blueberry Wine <i>(Brand: "Rålund")</i>
-- <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Rostat Bröd med Kantareller)</i>
-- <u>Västernorrland (Regional Special):</u> Venison with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 
+- <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Kantarelltoast)</i>
+- <u>Västernorrland (Regional Special):</u> Reindeer Meat with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 
 - <u>Västerbotten (Regional Special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
-- <u>Gotland (Regional Special):</u> Gotlandic Saffran Pancake with Cream and Mulberry Jam <i>(Saffranspannkaka med Grädde och Mullbärssylt / Saffranskake)</i>
-- <u>Gotland (Regional Special):</u> Gotlandic Spring Onion Soup <i>(Kajpsoppa / Gaitlauksäupe)</i>
+- <u>Gotland (Regional Special):</u> Gotlandic Saffran Pancake with Cream and Dewberry Jam <i>(Saffranspannkaka med Grädde och Salmbärssylt)</i>
+- <u>Gotland (Regional Special):</u> Gotlandic Spring Onion Soup <i>(Kajpsoppa)</i>
 - <u>Västra Götaland (Regional Special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Halv Special)</i>
 - <u>Halland (Regional Special):</u> Långkål <i>(Långkål)</i>
 
@@ -324,12 +327,12 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Swedish Fika Coffee Break <i>(Fika)</i>
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
-- Authentic Garb: Klädedräkten <i>(Klädedräkten)</i>
+- Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
 - <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar)</i>
 - <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar)</i>
     - <u>Gotland (Regional Special):</u> The Guta Saga <i>(Gutasagan)</i>
     - <u>Gotland (Regional Special):</u> Visby Romanesque Architecture <i>(Visby Medeltidsarkitektur)</i>
-    - <u>Gotland (Regional Special):</u> Gutnian Games <i>(Gutniska Lekar)</i>
+    - <u>Gotland (Regional Special):</u> Traditional Gotlandic Games <i>(Gutniska Lekar)</i>
 - <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
 - <u>Halland (Regional Special):</u> The Bonad Painting <i>(Bonadsmålning)</i>
 

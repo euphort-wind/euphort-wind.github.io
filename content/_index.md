@@ -160,7 +160,7 @@ sections:
           icon: ppk
           organization: Participant, Ural Federal University, Ekaterinburg
           organization_url: https://urfu.ru/en/
-          title: Project-Based Education Qualification 2023
+          title: Project-Based Learning Qualification 2023
         - date_start: '2021-09-01'
           icon: ovik
           organization: Participant, High Coast Hub, Örnsköldsvik

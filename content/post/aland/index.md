@@ -36,15 +36,16 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
 
 <b>🏛 Top sights visited: </b>
 1. Eckerö
-    - Post Office <i>(Post- och Tullhus)</i>
-    - Museum of Fisheries and Navigation <i>(Ålands Jakt- och Fiskemuseum)</i>
+    - The Post Office <i>(Post- och Tullhus)</i>
+    - The Käringsunds Lighthouse <i>(Käringsunds Fyr)</i>
+    - The Museum of Fisheries and Navigation <i>(Ålands Jakt- och Fiskemuseum)</i>
 2. Mariehamn
-    - Maritime Museum <i>(Ålands Sjöfartsmuseum)</i>
-    - Pommern Ship <i>(Pommern)</i>
-    - Central Park <i>(Esplanaden)</i>
+    - The Maritime Museum <i>(Ålands Sjöfartsmuseum)</i>
+    - The Pommern Ship <i>(Pommern)</i>
+    - The Central Park <i>(Esplanaden)</i>
     - The Sea Quarter <i>(Sjökvarteret)</i>
     - The Town Hall <i>(Mariehamns Stadshus)</i>
-    - St. Görans Church <i>(S:t Görans Kyrka)</i>
+    - Saint George Church <i>(S:t Görans Kyrka)</i>
 
 
 <b>🎧 Local musicians: </b>

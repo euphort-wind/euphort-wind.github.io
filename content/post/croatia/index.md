@@ -91,9 +91,9 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - The Zvončari Festival <i>(Zvončari)</i>  
 - The Angular Glagolitic Script <i>(Hrvatska Glagoljica)</i>
 - Croatian Lace <i>(Čipkarstvo)</i>
-- Croatian Pre-Romanesque Architecture <i>(Starohrvatska Umjetnost)</i>
+- Croatian Pre-Romanesque Architecture <i>(Starohrvatska Arhitektura)</i>
 - Authentic Musical Instrument: Tamburica <i>(Tamburica)</i>
-- Authentic Garb: Cravat and Šibenik Cap <i>(Kravata i Šibenik Kapa)</i>  
+- Authentic Garb: Cravat and Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
 - The Legacy of Illyrians <i>(Iliri / Ἰλλυριοί)</i>
 - The Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>  
 - <u>Zadar (Regional Special):</u> The Klapa Singing <i>(Klapa)</i>

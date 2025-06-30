@@ -38,9 +38,13 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 <b>🏛 Top sights visited: </b>
 1. San Marino City
     - The Liberty Square <i>(Piazza della Libertà)</i>
-    - Crossbowmen Quarry <i>(Cava dei Balestrieri)</i>
+    - The Crossbowmen Quarry <i>(Cava dei Balestrieri)</i>
     - The Basilica of Saint Marinus <i>(Basilica di San Marino)</i>
     - The Cesta Tower <i>(Torre della Fratta)</i>
+    - The Guaita Tower <i>(La Rocca)</i>
+    - The Torture Museum <i>(Museo Della Tortura)</i>
+    - Chiesa di San Francesco <i>(Chiesa di San Francesco)</i>
+    - Giuseppe Garibaldi Monument <i>(Monumento a Giuseppe Garibaldi)</i>
 
 
 <b>🎧 Local musicians: </b>
@@ -61,9 +65,9 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 
 
 <b>🪔 Authentic features:</b>
-- The Towers of San Marino <i>(Tre Torri di San Marino)</i>
-- The Legend of Saint Marinus <i>(Leggenda di San Marino)</i>
-- The System of Captains Regent <i>(Capitani Reggenti di San Marino)</i>
+- The Towers of San Marino <i>(Le Tre Torri di San Marino)</i>
+- The Legend of Saint Marinus <i>(La Leggenda di San Marino )</i>
+- The System of Captains Regent <i>(Il Sistema dei Capitani Reggenti)</i>
 
 
 

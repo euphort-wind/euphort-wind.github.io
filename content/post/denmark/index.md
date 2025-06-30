@@ -24,7 +24,7 @@ gallery_item:
     caption: Kronborg Castle
   - album: denmark
     image: 5saby.jpg
-    caption: Central Sæby
+    caption: Sæby Old Town
   - album: denmark
     image: 6stegt.jpg
     caption: Danish Stegt Flæsk 
@@ -42,15 +42,25 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
     - Rosenborg Castle <i>(Rosenborg Slot)</i>
     - Christiansborg Castle <i>(Christiansborg Slot)</i>
     - The Round Tower <i>(Rundetaarn)</i>
+    - Strøget <i>(Strøget)</i>
+    - Børsen <i>(Børsen)</i>
+    - Freetown Christiania <i>(Fristaden Christiania)</i>
+    - The Church of Our Saviour <i>(Vor Frelsers Kirke)</i>
     - The Opera <i>(Operaen)</i>
 2. Helsingør
     - Kronborg Castle <i>(Kronborg Slot)</i>
-    - Helsingør Centre <i>(Helsingør Centrum)</i>
+    - Helsingør Station <i>(Helsingør Station)</i>
+    - St. Olaf's Church <i>(Sankt Olai Kirke)</i>
+    - St. Maria's Church <i>(Sankt Mariæ Kirke)</i>
+    - Helsingør Marina <i>(Helsingør Havne)</i>
 3. Frederikshavn
     - Gunpowder Tower <i>(Krudttårnet)</i> 
     - Frederikshavn Square <i>(Frederikshavn Torv)</i> 
+    - Fiskerklyngen <i>(Fiskerklyngen)</i> 
 4. Sæby
-    - Old Sæby <i>(Gamle Sæby)</i>
+    - Sæby Church <i>(Sæby Kirke)</i>
+    - Sæby Watermill <i>(Sæby Vandmølle)</i>
+    - Sæby Museum <i>(Sæby Kystmuseet)</i>
     - Mini Sæby <i>(Minibyen Sæby)</i>
 
 

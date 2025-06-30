@@ -38,20 +38,20 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 1. Ayia Napa
     - Cape Greco National Forest Park <i>(Κάβο Γκρέκο)</i>
     - Ayia Napa Square <i>(Πλατεία Αγίας Νάπας)</i>
-    - Glyki Nero Beach <i>(Παραλία Γλυκύ Νερό)</i>
+    - Glyki Nero Beach <i>(Παραλία Γλυκό Νερό)</i>
     - Ayia Napa Harbour <i>(Λιμάνι Αγίας Νάπας)</i>
 2. Lefkara
     - The Church Of Holy Cross <i>(Εκκλησία του Τιμίου Σταυρού)</i>
     - Lefkara Square <i>(Πλατεία Λευκάρων)</i>
-    - Museum of Traditional Embroidery and Silversmith <i>(Μουσείο Λευκάρων)</i>
+    - Museum of Traditional Embroidery and Silversmith <i>(Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοϊας)</i>
     - Holy Church of Archangel Michael <i>(Ιερός Ναός Αρχαγγέλου Μιχαήλ)</i>
 3. Kakopetria
     - The Old Kakopetria <i>(Παλιά Κακοπετριά)</i>
     - Kakopetria Square <i>(Πλατεία Κακοπετριάς)</i>
     - The Church of St. Nicholas of the Roof <i>(Άγιος Νικόλαος της Στέγης)</i>
 4. Limassol
-    - Kourion <i>(Koύριov)</i>
-    - Limassol Promenade <i>(Περιπάτου Λεμεσού)</i>
+    - Kourion Ancient City <i>(Κούριον)</i>
+    - Limassol Molos <i>(Μόλος Λεμεσού)</i>
     - Limassol Castle <i>(Κάστρο Λεμεσού)</i>
     - Limassol Marina <i>(Μαρίνα Λεμεσού)</i>
 
@@ -79,10 +79,10 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 
 
 <b>🪔 Authentic features:</b>
-- Cypriot Syllabaric Script <i>(Κυπρομινωική)</i>
+- Cypriot Syllabaric Script <i>(Κυπριακό Συλλαβάριο)</i>
 - The Fythkiotika Weaving <i>(Φυθκιώτικα)</i>
 - Authentic Musical Instrument: Laouto <i>(Λαούτο)</i>
-- Authentic Garb: Cypriot Sayia and Worry Beads <i>(Σαγιά και Кομπολόι)</i>
+- Authentic Garb: Cypriot Sayia and Worry Beads <i>(Σαγιά και Κομπολόι)</i>
 - The Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>
 - <u> Larnaca (Regional Special):</u> Lefkara Lace <i>(Λευκαρίτικα)</i>
 

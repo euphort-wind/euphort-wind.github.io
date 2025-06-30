@@ -39,27 +39,27 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 1. Astana
     - Bayterek Tower <i>(Бәйтерек)</i>
     - Khan Shatyr <i>(Хан Шатыр)</i>
-    - National Museum of Kazakhstan <i>(Қазақстан Республикасының Ұлттық)</i>
+    - National Museum of Kazakhstan <i>(Қазақстан Республикасының Ұлттық Музейі)</i>
     - Congress-Centre EXPO <i>(Конгресс-орталығы ЭКСПО)</i>
     - City Park <i>(Қалалық Саябақ)</i>
     - Ak Orda Presidential Palace <i>(Ақорда Резиденциясы)</i>
-    - Palace of Peace and Reconciliation <i>(Бейбітшілік Пен Келісім Сарайы)</i>
-    - Independence Square and Kazak Eli Monument <i>(Тәуелсіздік алаңы)</i>
-    - Park of Lovers <i>(Жастар Cаябағы)</i>
+    - Palace of Peace and Reconciliation <i>(Бейбітшілік пен Келісім Сарайы)</i>
+    - Independence Square and Kazak Eli Monument <i>(Тәуелсіздік Алаңы және Қазақ Елі Монументі)</i>
+    - Park of Lovers <i>(Жастар Саябағы)</i>
     - Hazret Sultan Mosque <i>(Хазірет Сұлтан Мешіті)</i>
 2. Kostanay
     - Central Park <i>(Орталық Саябақ)</i>
-    - Conquerors of Virgin Land Monument <i>(Тың Игерушілер)</i>
-    - Drama Theater <i>(Aтындағы Қостанай Облыстық Қазақ Драма Театры Омарова)</i>
+    - Conquerors of Virgin Land Monument <i>(Тың Игерушілер Монументі)</i>
+    - Drama Theater <i>(Омаров Атындағы Қостанай Облыстық Қазақ Драма Театры)</i>
     - Youth Boulevard <i>(Жастар Бульвары)</i>
 3. Kokshetau
-    - Akmola Regional Museum of History <i>(Ақмола Облыстық Тарихи-өлкетану Музей)</i>
+    - Akmola Regional Museum of History <i>(Ақмола Облыстық Тарихи-өлкетану Музейі)</i>
     - Independence Square <i>(Тәуелсіздік Алаңы)</i>
     - Central Park <i>(Орталық Саябақ)</i>
 4. Aktau
     - Rock Path <i>(Жартас Соқпағы)</i>
     - Botanical Garden <i>(Ботаникалық Бақ)</i>
-    - Aktau Philharmonic Society <i>(Облыстық филармония)</i>
+    - Aktau Philharmonic Society <i>(Маңғыстау Облыстық Филармониясы)</i>
  
 
 <b>🎧 Local musicians: </b>
@@ -89,14 +89,14 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - The Old Man <i>(Шал)</i>. Year: 2012. Genre: drama
 
 <b>🪔 Authentic features:</b>
-- The Aytıs & Akyns <i>(Айтыс пен Ақыны)</i> 
+- The Aytıs & Akyns <i>(Айтыс пен Ақындар)</i> 
 - The System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i> 
 - The Baige Horse Race <i>(Бәйге)</i> 
 - The Assyk Game <i>(Асық)</i> 
 - Kazakh Ornaments <i>(Қазақтың Ұлттық Ою-өрнегі)</i> 
-- Kazakh Wrestling <i>(Қазақша Күрес)</i> 
+- Kazakh Wrestling <i>(Қазақша Күресі)</i> 
 - Authentic Musical Instrument: Dombra <i>(Домбыра)</i>
-- Authentic Garb: Shapan & Borik <i>(Шапан пен Борик)</i> 
+- Authentic Garb: Shapan & Borik <i>(Шапан пен Бөрік)</i> 
 - The Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق خاندیغی)</i> 
 
 

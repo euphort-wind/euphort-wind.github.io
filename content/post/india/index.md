@@ -43,7 +43,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
     - Dudhsagar Falls <i>(दूधसागर झरना)</i>
 2. Badami
     - The Cave Temples <i>(बादामी गुफा मंदिर)</i>
-    - Pattadakal Temple <i>(पट्टडकल मंदिर)</i>
+    - The Pattadakal Complex <i>(पट्टडकल मंदिर समूह)</i>
     - Badami Fort <i>(बादामी किला)</i>
     - Sri Bhootanaatha Gudi <i>(भूतनाथ मन्दिर समूह)</i>
     - Agastya Lake <i>(अगस्त्य झील)</i>
@@ -72,7 +72,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Butter Chicken <i>(बटर चिकन)</i>
 - Lamb Korma <i>(मटन कोरमा)</i>
 - Mukhwas <i>(मुखवास)</i>
-- Indian Buffalo Steak <i>(भारतीय भैंस स्टेक)</i>
+- Indian Buffalo Steak <i>(भैंस का स्टेक)</i>
 - Kanda Bhaji <i>(कांदा भजी)</i>
 - Naan <i>(नान)</i>
 - Tandoori Chicken <i>(तंदुरी चिकन)</i>
@@ -92,8 +92,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Ahimsa <i>(अहिंसा)</i>
-- Hinduism <i>(हिन्दू)</i>
-- Buddhism <i>(बुद्ध धर्म)</i>
+- Hinduism <i>(हिन्दू धर्म)</i>
+- Buddhism <i>(बौद्ध धर्म)</i>
 - The Yoga Practices <i>(योग)</i>
 - The Devanagari Script <i>(देवनागरी)</i>
 - The Holi Festival <i>(होली)</i>

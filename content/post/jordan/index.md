@@ -39,7 +39,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 1. Petra
     - The Siq <i>(السيق)</i>
     - Al-Khazneh Treasury <i>(الخزنة)</i>
-    - The Urn Tombs <i>(مقابر الجرة)</i>
+    - The Urn Tombs <i>(قبر الجرة)</i>
     - Petra Theater <i>(مسرح البتراء)</i>
     - The "Street of Facades" <i>(شارع الواجهات)</i>
 2. Aqaba
@@ -62,7 +62,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 
 <b>🪔 Authentic features:</b>
-- The Tradition of Al-Mansaf Festive Banquet <i>(منسف)</i> 
+- The Tradition of Al-Mansaf Festive Banquet <i>(وليمة المنسف التقليدية)</i> 
 - Authentic Musical Instrument: Mijwiz <i>(مجوز)</i>
 - Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والتقية)</i> 
 - The Culture of Bedouins <i>(البدو / بَدْو)</i> 

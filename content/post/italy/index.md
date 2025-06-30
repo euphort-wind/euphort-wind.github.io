@@ -48,7 +48,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
     - The Trevi Fountain <i>(Fontana di Trevi)</i>
     - The Spanish Steps <i>(Scalinata di Trinità dei Monti)</i>
     - Colle Oppio Park <i>(Parco di Colle Oppio)</i>
-    - The Lateran Basilica & Laternan Obelisk <i>(Archbasilica & Tekhen Waty)</i>
+    - The Lateran Basilica & Laternan Obelisk <i>(Archbasilica & Obelisco Lateranense)</i>
 2. Pisa 
     - The Leaning Tower of Pisa & Miracoli Square <i>(Torre Pendente di Pisa & Piazza dei Miracoli)</i>
     - Knights’ Square <i>(Piazza dei Cavalieri)</i>
@@ -88,7 +88,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
     - Neapolis Archaeological Park <i>(Parco Archeologico della Neapolis)</i>
 8. Taormina
     - IX April's Square <i>(Piazza IX Aprile)</i>
-    - Cathedral Square <i>(Pizza Duomo)</i>
+    - Cathedral Square <i>(Piazza del Duomo)</i>
     - The Naumachie <i>(Naumachia di Taormina)</i>
     - Corvaja Palace <i>(Palazzo Corvaja)</i>
 9. Castelmola
@@ -158,11 +158,11 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Capricciosa <i>(Capricciosa)</i>
   - Quattro Stagioni <i>(Quattro Stagioni)</i>
 - Italian Coffee Drinks <i>(Caffè Italiano)</i> 
-  - Cappucino <i>(Cappucino)</i>
+  - Cappuccino <i>(Cappuccino)</i>
   - Latte <i>(Caffè e Latte)</i>
   - Macchiato <i>(Caffè Macchiato)</i> 
 - Bruschetta <i>(Bruschetta)</i>
-- Panini <i>(Panino)</i>
+- Panino <i>(Panino)</i>
 - Risotto <i>(Risotto)</i>
 - Frittata <i>(Frittata)</i>
 - Pesto Sauce <i>(Pesto)</i>
@@ -174,7 +174,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - Italian Liqueur <i>(Brands: "Campari", "Aperol")</i> 
 - <u>Lazio (Regional Special):</u> Pasta Carbonara <i>(Pasta alla Carbonara)</i>
 - <u>Lazio (Regional Special):</u> Saltimbocca <i>(Saltimbocca)</i>
-- <u>Emilia-Romagna (Regional Special):</u> Pasta Bolognese <i>(Ragu alla Bolognese)</i>
+- <u>Emilia-Romagna (Regional Special):</u> Pasta Bolognese <i>(Ragù alla Bolognese)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Lasagna <i>(Lasagna)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Torta di Riso <i>(Torta di Riso)</i>
 - <u>Tuscany (Regional Special):</u> Florentine Steak <i>(Bistecca alla Fiorentina)</i>
@@ -201,8 +201,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - The Tarantella Dance <i>(Tarantella)</i> 
 - The Maiolica Pottery <i>(Maiolica)</i> 
 - Italian Neoclassical Architecture <i>(Architettura Neoclassica Italiana)</i> 
-- Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace" etc.)</i> 
-- Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT" etc.)</i>
+- Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
+- Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>
 - Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
 - The Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i> 
 - The Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
@@ -211,20 +211,20 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Roman Sculpture <i>(Scultura Romana Antica)</i>
   - Ancient Roman Roads <i>(Antiche Strade Romane)</i> 
   - Ancient Roman Religion <i>(Religione Romana Antica)</i> 
-  - Ancient Authentic Musical Instrument: Cornu <i>(Cornum)</i> 
+  - Ancient Authentic Musical Instrument: Cornu <i>(Cornu)</i> 
   - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i> 
 - <u>Tuscany (Regional Special):</u> Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i> 
 - <u>Tuscany (Regional Special):</u> The Medici Porcelain <i>(Porcellane Medicee)</i>
 - <u>Emilia-Romagna (Regional Special):</u> The Liscio Dance <i>(Ballo Liscio)</i> 
-- <u>Sicily (Regional Special):</u> Authentic Principle: Omerta <i>(Omertà / Omertà)</i> 
+- <u>Sicily (Regional Special):</u> Authentic Principle: Omerta <i>(Omertà / Ômertà)</i> 
 - <u>Sicily (Regional Special):</u> The Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i> 
 - <u>Sicily (Regional Special):</u> The Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
   - <u>Sicily (Regional Special):</u> The Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
   - <u>Sicily (Regional Special):</u> Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
   - <u>Sicily (Regional Special):</u> Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
-  - <u>Sicily (Regional Special):</u> Sicilian Moorish Heads <i>(Testa di Moro / Testa di Moor)</i> 
+  - <u>Sicily (Regional Special):</u> Sicilian Moorish Heads <i>(Testa di Moro / Testa di Muru)</i> 
   - <u>Sicily (Regional Special):</u> Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
 
 

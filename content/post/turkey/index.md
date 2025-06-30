@@ -46,7 +46,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
     - Galata Tower <i>(Galata Kulesi)</i>
     - Dolmabahçe Palace <i>(Dolmabahçe Sarayı)</i>
     - Topkapı Palace <i>(Topkapı Sarayı)</i>
-    - Glata Bridge <i>(Galata Köprüsü)</i>
+    - Galata Bridge <i>(Galata Köprüsü)</i>
     - Grand Bazaar <i>(Kapalıçarşı)</i>
     - İstiklâl Street <i>(İstiklâl Caddesi)</i>
     - Taksim Square <i>(Taksim Meydanı)</i>
@@ -118,7 +118,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - Turkish Ice-cream <i>(Dondurma)</i>
 - Turkish Tea <i>(Türk Çayı)</i>
 - Turkish Turnip Water <i>(Şalgam Suyu)</i>
-- Turkish Raki <i>(Brand: "Yeni Raki")</i>
+- Turkish Raki <i>(Brand: "Yeni Rakı")</i>
 - <u>İstanbul (Regional Special):</u> Balık Ekmek <i>(Balık Ekmek)</i>
 - <u>Antalya (Regional Special):</u> Shish Kofta <i>(Şiş Köfte)</i>
 

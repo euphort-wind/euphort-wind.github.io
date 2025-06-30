@@ -38,30 +38,41 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 1. Oslo
     - The Norwegian National Opera & Ballet <i>(Den Norske Opera & Ballett)</i>
     - Vigeland Sculpture Park <i>(Vigelandsanlegget)</i>
-    - Akerhus Fortress  <i>(Akerhus festning)</i>
-    - Oslo Centrum <i>(Oslo Sentrum)</i>
+    - Akershus Fortress  <i>(Akershus Festning)</i>
     - The Royal Palace <i>(Det Kongelige Slott)</i>
+    - The Storting <i>(Storting)</i>
+    - The Nobel Peace Center <i>(Nobels Fredssenter)</i>
+    - Oslo City Hall <i>(Oslo Rådhus)</i>
+    - National Theatre <i>(Nationaltheatret)</i>
+    - Oslo Cathedral <i>(Oslo Domkirke)</i>
+    - Karl Johans Gate <i>(Karl Johans Gate)</i>
 2. Bergen
     - Bryggen Hanseatic Wharf <i>(Bryggen)</i>
     - Bergenhus Fortress <i>(Bergenhus Festning)</i>
     - Bergen Fishmarket <i>(Bergen Fisketorget)</i>
     - Bergen Cathedral <i>(Bergen Domkirke)</i>
+    - Musikkpaviljongen <i>(Musikkpaviljongen i Bergen)</i>
+    - The Sailor's Monument <i>(Sjømannsmonumentet)</i>
+    - St. Mary's Church <i>(Mariakirken)</i>
 3. Flåm
-    - Naroy fjord <i>(Nærøyfjord)</i>
+    - Naroy Fjord <i>(Nærøyfjord)</i>
     - Flåm Railway <i>(Flåm Jernbane)</i>
     - Gudvangen Viking Village <i>(Gudvangen)</i>
 4. Fredrikstad
-    - Fredrikstad's Old Town <i>(Gamle Fredrikstad)</i>
+    - Old Town Fredrikstad <i>(Gamlebyen)</i>
     - Kongsten Fort <i>(Kongsten)</i>
     - Isegran Fort <i>(Isegran)</i>
+    - Fredrikstad Cathedral <i>(Fredrikstad Domkirke)</i>
 5. Moss 
     - Industrial District <i>(Møllebyen)</i>
     - Jeloya Island <i>(Jeløy)</i>
     - Refsnes Gods <i>(Refsnes Gods)</i>
+    - Bytårnet <i>(Bytårnet)</i>
 6. Horten
+    - Oslo Fjord <i>(Oslofjord)</i>
     - Karljohansvern <i>(Karljohansvern)</i>
     - KNM Utstein <i>(KNM Utstein)</i>
-    - Midgard <i>(Vikingsenter)</i>
+    - Midgard Vikingcenter <i>(Vikingsenter)</i>
 
    
 <b>🎧 Local musicians: </b>
@@ -110,9 +121,9 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - Authentic Musical Instrument: Hardanger Fiddle <i>(Hardingfele)</i>
 - Authentic Garb: Bunad <i>(Bunad)</i>
 - The Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i> 
-  - The Viking Runic Alphabet <i>(Viking Runealfabet)</i> 
+  - The Viking Runic Script <i>(Viking Runer)</i> 
   - Norse Paganism <i>(Norrøn Religion)</i> 
-  - The Viking Sagas <i>(Viking Sagalitteratur)</i> 
+  - The Viking Sagas <i>(Norrøn Sagalitteratur)</i> 
 
 
 <b>💐 National flower: </b> Pyramidal Saxifrage <i>(Bergfrue)</i>

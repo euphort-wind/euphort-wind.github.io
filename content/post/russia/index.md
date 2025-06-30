@@ -46,7 +46,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - Sobornaya Square <i>(Соборная Площадь)</i>
     - Pushkin Museum <i>(Пушкинский Музей)</i>
     - Tretyakov Gallery <i>(Третьяковская Галерея)</i>
-    - Sparrow Hills <i>(Ворбьёвы Горы)</i>
+    - Sparrow Hills <i>(Воробьёвы Горы)</i>
 2. Ekaterinburg
     - Sevastyanov's Mansion <i>(Дом Севастьянова)</i>
     - Vainera Street <i>(Улица Вайнера)</i>
@@ -223,15 +223,15 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - Okroshka with Kvass <i>(Окрошка на Квасе)</i> 
 - Russian Dumplings <i>(Пельмени)</i>
     - Dumplings with Meat <i>(Пельмени c Мясом)</i>
-    - Dumplings with Tvorog <i>(Варенники с Творогом)</i>
-    - Dumplings with Mashed Potatoes <i>(Варенники с Картошкой)</i>
-    - Dumplings with Cabbage <i>(Варенники с Капустой)</i>
+    - Dumplings with Tvorog <i>(Вареники с Творогом)</i>
+    - Dumplings with Mashed Potatoes <i>(Вареники с Картошкой)</i>
+    - Dumplings with Cabbage <i>(Вареники с Капустой)</i>
 - Coulibiac <i>(Кулебяка)</i> 
 - Easter Paskha <i>(Творожная Пасха)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya", etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
-- <u>Bashkiria (Regional Special):</u> Bashkir Uchpuchmak <i>(Эчпочмак / θсбосмаҡ)</i>
+- <u>Bashkiria (Regional Special):</u> Bashkir Uchpuchmak <i>(Эчпочмак / Өсбосмаҡ)</i>
 - <u>Bashkiria (Regional Special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Khychin <i>(Хычин / Хычин)</i>
@@ -267,7 +267,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Russian Banya <i>(Русская Баня)</i>
 - Russian Folk Songs <i>(Русские Народные Песни)</i> 
 - Russian Fairy Tales <i>(Русские Народные Сказки)</i> 
-- Russian Cars <i>(Brands: "GAZ", "LADA" etc.)</i> 
+- Russian Cars <i>(Brands: "GAZ", "LADA", etc.)</i> 
 - Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-ушанка)</i> 
 - The Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
@@ -305,7 +305,6 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - <u>Karachay-Cherkessia (Regional Special):</u> Caucasian Rhododendron <i>(Рододендрон Кавказский)</i>
 - <u>North Ossetia (Regional Special):</u> Military Orchid <i>(Ятрышник / Æнæзæнæджыхос)</i>
 - <u>Orenburzhie (Regional Special):</u> Tulipa Schrenkii <i>(Тюльпан Шренка)</i>
-
 
 
 <b>🦉 Local wisdom:</b> "Without effort, one wouldn’t even get a fish out of a pond." / "<i>Без труда не выловишь и рыбку из пруда.</i>" — Russian proverb

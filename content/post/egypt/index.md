@@ -30,7 +30,7 @@ gallery_item:
     caption: Egyptian Koshary
 
 ---
-Hej! I'm sharing a glimpse of my experience visiting authentic Egypt. I was there in the autumn of 2011. Below are some notes on what I tasted, saw and listened to. 
+Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there in the autumn of 2011. Below are some notes on what I tasted, saw and listened to. 
 
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️. 
 
@@ -39,8 +39,8 @@ Hej! I'm sharing a glimpse of my experience visiting authentic Egypt. I was ther
 <b>🏛 Top sights visited: </b>
 1. Sharm El-Sheikh
     - Ras Mohamed Nature Reserve <i>(راس محمد)</i>
-    - Sharm El-Sheikh Old Market <i>(سوق شرم الشيخ القديم)</i>
-    - Shark's Bay Beach <i>(شاطئ خليج القرش)</i>
+    - Sharm El-Sheikh Old Market <i>(السوق القديم)</i>
+    - Shark's Bay Beach <i>(خليج القرش)</i>
     - The Bedouin Village <i>(القرية البدوية)</i>
 
 
@@ -60,7 +60,7 @@ Hej! I'm sharing a glimpse of my experience visiting authentic Egypt. I was ther
 - Ful Medames <i>(فول مدمس)</i>
 - Karkadé Tea <i>(كَركَديه)</i>
 - Aish Baladi <i>(عيش بلدي)</i>
-- Falafel <i>(فلافل)</i>
+- Falafel <i>(طعمية)</i>
 - Basbousa <i>(بسبوسه)</i>
 
 
@@ -71,10 +71,10 @@ Hej! I'm sharing a glimpse of my experience visiting authentic Egypt. I was ther
 
 <b>🪔 Authentic features:</b>
 - The Desert Safari <i>(رحلات السفاري الصحراوية)</i>
-- The Henna Body Painting <i>(رسمة الحناء)</i>
+- The Henna Body Painting <i>(رسم الحنة)</i>
 - The Khayamiya Textile <i>(خيّامية)</i>
 - Authentic Musical Instrument: Goblet Drum <i>(دربوكة)</i>
-- Authentic Garb: Galabiya <i>(جالبيا)</i>
+- Authentic Garb: Galabiya <i>(جلابية)</i>
 - The Culture of Copts <i>(أقباط / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>
 - The Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
   - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
