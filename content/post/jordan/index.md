@@ -45,6 +45,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 2. Aqaba
     - Aqaba Flagpole <i>(سارية العلم العقبة)</i>
     - Aqaba Harbor <i>(ميناء العقبة)</i>
+    - Al-Sharif Al-Hussein Bin Ali Mosque <i>(مسجد الشريف الحسين بن علي في العقبة)</i>
 
 
 <b>🎧 Local musicians: </b>
