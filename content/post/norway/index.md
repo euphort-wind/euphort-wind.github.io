@@ -94,12 +94,12 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 <b>🥘 Local food & drinks: </b>
 - Brunost Cheese <i>(Brunost)</i>
 - Fårikål <i>(Fårikål)</i>
-- Smoked and "Buried" Salmon <i>(Røkt och Gravet Laks)</i>
+- Smoked and "Buried" Salmon <i>(Røkt og Gravet Laks)</i>
 - Rømmegrøt <i>(Rømmegrøt)</i>
 - Norwegian Meatcakes with Pea Puree and Brown Gravy <i>(Kjøttkaker med Ertepuré og Brun Saus)</i>
-- Norwegian Akvavit <i>(Brands: "Løiten", "Linie")</i>
+- Norwegian Akevitt <i>(Brands: "Løiten", "Linie")</i>
 - <u>Vestland (Regional Special):</u> Bergen Pressed Cod <i>(Persetorsk)</i>
-- <u>Vestfold (Regional Special):</u> Sandefjord Sauce <i>(Sandefjordsås)</i>
+- <u>Vestfold (Regional Special):</u> Sandefjord Sauce <i>(Sandefjordsmør)</i>
 
 
 <b>🎬 Local movies:</b>

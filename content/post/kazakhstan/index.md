@@ -78,7 +78,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 <b>🥘 Local food & drinks: </b>
 - Beshbarmak <i>(Бешбармақ)</i>
 - Qazi Sausage <i>(Қазы)</i>
-- Irimshik <i>(Қызыл Iрімшік)</i>
+- Irimshik <i>(Қызыл Ірімшік)</i>
 - Boortsog <i>(Бауырсақ)</i>
 - Kazakh Sorpa <i>(Сорпа)</i>
 - Zhent <i>(Жент)</i>

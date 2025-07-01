@@ -70,7 +70,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
   - Souvlaki-Style Pork <i>(Σουβλάκι Χοιρινό)</i>
   - Souvlaki-Style Lamb <i>(Σουβλάκι Αρνί)</i>
   - Souvlaki-Style Beef <i>(Σουβλάκι Μοσχάρι)</i>
-- Cyprus Village Salad <i>(Κύπρος Χωριάτικη Σαλάτα)</i>
+- Cyprus Village Salad <i>(Κυπριακή Χωριάτικη Σαλάτα)</i>
 - Zivania <i>(Brand: "Zivania LOEL")</i>
 
 

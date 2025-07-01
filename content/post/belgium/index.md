@@ -73,10 +73,10 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 
 <b>🥘 Local food & drinks: </b>
 - Mussels'n'Fries <i>(Moules-frites / Mosselen-friet)</i>
-- Belgian Chocolate & Pralines <i>(Praliné au Chocolat / Chocolade Praliné)</i>
-- Belgian Waffles <i>(Gauffres Belges / Belgische Wafels)</i>
+- Belgian Chocolate & Pralines <i>(Chocolats et Pralines Belges / Belgische Chocolade en Pralines)</i>
+- Belgian Waffles <i>(Gaufres Belges / Belgische Wafels)</i>
 - Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Blue Moon", "Leffe", "Delirium")</i>
-- <u>Brussels-Capital (Regional Special):</u> Stewed Brussels Sprouts <i>(Chou de Bruxelles / Spruitjes)</i>
+- <u>Brussels-Capital (Regional Special):</u> Stewed Brussels Sprouts <i>(Choux de Bruxelles / Spruitjes)</i>
 
 
 <b>🎬 Local movies:</b>

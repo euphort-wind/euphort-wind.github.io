@@ -119,7 +119,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - <u>Kakheti (Regional Special):</u> Chakapuli <i>(ჩაქაფული)</i>
 - <u>Kakheti (Regional Special):</u> Kakhetian Khashlama <i>(ჰაშლამა)</i>
 - <u>Kakheti (Regional Special):</u> Chashushuli <i>(ჩაშუშული)</i>
-- <u>Kakheti (Regional Special):</u> Mtsvadi <i>(მცვადი)</i>
+- <u>Kakheti (Regional Special):</u> Mtsvadi <i>(მწვადი)</i>
   - Mtsvadi-Style Pork <i>(ღორის მწვადი)</i>
   - Mtsvadi-Style Lamb <i>(ცხვრის მწვადი)</i>
   

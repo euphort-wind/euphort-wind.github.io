@@ -74,16 +74,16 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 
 
 <b>🥘 Local food & drinks: </b>
-- Feta Cheese <i>(Фέτα)</i>
+- Feta Cheese <i>(Φέτα)</i>
 - Greek Salad <i>(Ελληνική σαλάτα)</i>
 - Moussaka  <i>(Μουσακάς)</i>
 - Taramasalata <i>(Tαραμοσαλάτα)</i>
 - Gyros <i>(Γύρος)</i>
-- Tzatziki <i>(Tζατζίκ)</i>
+- Tzatziki <i>(Τζατζίκι)</i>
 - Avgolemono Soup <i>(Αυγολέμονο)</i>
-- Frappé <i>(Фραπέ)</i>
+- Frappé <i>(Φραπέ)</i>
 - Greek Liqueur <i>(Brand: "Metaxa")</i> 
-- <u>Crete (Regional Special):</u> Cretan “Turban” Pies <i>(Σαρικό Πίτες)</i>
+- <u>Crete (Regional Special):</u> Cretan “Turban” Pies <i>(Σαρικόπιτες)</i>
 - <u>Crete (Regional Special):</u> Dakos <i>(Ντάκος)</i>
 
 

@@ -86,7 +86,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 - Pastizzi <i>(Pastizzi)</i>
   - Pastizzi with Curried Peas <i>(Pastizzi tal-Piżelli)</i> 
   - Pastizzi with Ricotta <i>(Pastizzi tar-Rikotta)</i> 
-  - Pastizzi with Chicken <i>(Pastizzi tat-Tigieg)</i> 
+  - Pastizzi with Chicken <i>(Pastizzi tat-Tiġieġ)</i> 
 - Ftira <i>(Ftira)</i>
 - Aljotta <i>(Aljotta)</i>
 - Maltese Rabbit Stew <i>(Stuffat tal-Fenek)</i>

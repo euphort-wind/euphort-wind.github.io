@@ -82,7 +82,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - Cepelinai <i>(Cepelinai)</i>
 - Lithuanian Cold Borscht <i>(Šaltibarščiai)</i>
 - Šakotis <i>(Šakotis)</i>
-- Lithuanian Potato Sausages <i>(Vedarai)</i>
+- Lithuanian Potato Sausages <i>(Vėdarai)</i>
 - Kastinys <i>(Kastinys)</i>
 - Samogitian Pancakes <i>(Žemaičių Blynai)</i>
 - Fried Rye Bread Sticks <i>(Kepta Duona)</i>
