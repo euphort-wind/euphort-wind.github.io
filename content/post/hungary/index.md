@@ -120,7 +120,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 - The Rubik's Cubes <i>(Rubik-Kocka)</i>
 - The Kalocsa Embroidery <i>(Kalocsai Hímzés)</i>
 - Hungarian Thermal Baths <i>(Magyar Gyógyfürdők)</i>
-- Hungarian Busses <i>(Brand: "Ikarus")
+- Hungarian Busses <i>(Brand: "Ikarus")</i>
 - Authentic Musical Instrument: Cimbalom <i>(Cimbalom)</i>
 - Authentic Garb: Bocskai Coat & Attila <i>(Bocskai Öltöny & Atilla)</i>
 - The Heritage of the Kingdom of Hungary <i>(Magyar Királyság / Regnum Hungariae)</i>
