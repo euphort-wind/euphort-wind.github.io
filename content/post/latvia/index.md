@@ -59,10 +59,10 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 <b>🎧 Local musicians: </b>
 - 🇱🇻 Prāta Vētra / Brainstorm (band). Genre: pop 
 - 🇱🇻 Antra Stafecka (singer). Genre: pop
-- 🇱🇻 Jumprava (band). Genre: retro-pop
+- 🇱🇻 Jumprava (band). Genre: retro pop
 - 🇱🇻 Otra Puse (band). Genre: pop
 - 🇱🇻 Tumsa (band). Genre: rock
-- 🇺🇳 Laima Vaikule (singer). Genre: retro-pop 
+- 🇺🇳 Laima Vaikule (singer). Genre: retro pop 
 
 
 <b>🥘 Local food & drinks: </b>

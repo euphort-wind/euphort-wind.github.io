@@ -100,7 +100,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 <b>💐 National flower: </b> Lily-of-the-Valley <i>(Kielo)</i>
 
 
-<b>🦉 Local wisdom:</b> "Better a little given than a lot promised." / <i>"Parempi vähän annettu kuin paljon luvattu."</i> — Finnish proverb
+<b>🦉 Local wisdom:</b> "Help the man up the hill, not down the hill." / <i>"Auta miestä mäessä, älä mäen alla."</i> — Finnish proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Helsinki <i>(Helsingin Yliopisto)</i>, Helsinki, est. 1640.  

@@ -66,7 +66,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - 🇵🇹 Os Quatro e Meia (band). Genre: pop
 - 🇵🇹 Diana Lima (singer). Genre: pop
 - 🇵🇹 Murta (singer). Genre: pop
-- 🇵🇹 Resistência (band). Genre: retro-pop
+- 🇵🇹 Resistência (band). Genre: retro pop
 - 🇵🇹 Ivandro (singer). Genre: pop
 
 

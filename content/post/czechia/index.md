@@ -55,9 +55,9 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 
 <b>🎧 Local musicians: </b>
 - 🇨🇿 SLZA (duo). Genre: pop
-- 🇨🇿 Ewa Farna (singer). Genre: pop-rock
+- 🇨🇿 Ewa Farna (singer). Genre: pop rock
 - 🇨🇿 Monika Bagárová (singer). Genre: pop
-- 🇨🇿 Vypsaná FiXa (band). Genre: pop-punk
+- 🇨🇿 Vypsaná FiXa (band). Genre: pop punk
 - 🇨🇿 Michal Hrůza (singer). Genre: pop
 
 

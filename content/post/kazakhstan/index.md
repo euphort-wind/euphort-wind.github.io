@@ -67,7 +67,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - 🇰🇿 Kazybek Kuraiysh (singer). Genre: pop 
 - 🇰🇿 Gazizkhan Shekerbekov (singer). Genre: pop
 - 🇰🇿 Diana Ismail (singer). Genre: pop
-- 🇺🇳 Skryptonite (rapper). Genre: rap
+- 🇺🇳 Skryptonite (rapper). Genre: hip-hop
 - 🇺🇳 Imanbek (DJ). Genre: slap house
 - 🇺🇳 The Limba (singer). Genre: pop 
 

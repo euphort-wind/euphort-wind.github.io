@@ -82,7 +82,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 <b>🎧 Local musicians: </b>
 - 🇧🇬 Azis (singer). Genre: pop
 - 🇧🇬 Avenue (duo). Genre: pop
-- 🇧🇬 Orlin Goranov (singer). Genre: retro-pop
+- 🇧🇬 Orlin Goranov (singer). Genre: retro pop
 - 🇧🇬 Молец (duo). Genre: pop
 
 

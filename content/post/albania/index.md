@@ -61,7 +61,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - 🇦🇱 ARNON (DJ). Genre: house
 - 🇦🇱 Besa (singer). Genre: pop
 - 🇦🇱 Alban Chela (DJ). Genre: house
-- 🇦🇱 Noizy (rapper). Genre: rap
+- 🇦🇱 Noizy (rapper). Genre: hip-hop
 - 🇦🇱 Elvana Gjata (singer). Genre: pop
 
 <b>🥘 Local food & drinks: </b>

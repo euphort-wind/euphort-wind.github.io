@@ -1,6 +1,6 @@
 ---
 title: 🇸🇪 Sweden
-date: '2025-06-22'
+date: '2025-06-20'
 summary: Live in Sweden
 
 gallery_item:
@@ -260,18 +260,18 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - 🇸🇪 Albin Lee Meldau (singer). Genre: pop
 - 🇸🇪 Basshunter (DJ). Genre: eurodance
 - 🇺🇳 Da Buzz (band). Genre: eurodance
-- 🇺🇳 ABBA (band). Genre: retro-rock
-- 🇺🇳 Roxette (band). Genre: retro-rock
-- 🇺🇳 Ace of Base (band). Genre: retro-pop
-- 🇺🇳 Army of Lovers (band). Genre: retro-pop
+- 🇺🇳 ABBA (band). Genre: retro rock
+- 🇺🇳 Roxette (band). Genre: retro rock
+- 🇺🇳 Ace of Base (band). Genre: retro pop
+- 🇺🇳 Army of Lovers (band). Genre: retro pop
 - 🇺🇳 Avicii (DJ). Genre: house
-- 🇺🇳 Europa (band). Genre: retro-pop
-- 🇺🇳 The Cardigans (band). Genre: pop-rock
+- 🇺🇳 Europa (band). Genre: retro pop
+- 🇺🇳 The Cardigans (band). Genre: pop rock
 - 🇺🇳 Swedish House Mafia (DJ band). Genre: house
 - 🇺🇳 Dead by April (band). Genre: metal
 - 🇺🇳 Loreen (singer). Genre: pop
 - 🇺🇳 Tove Lo (singer). Genre: pop
-- 🇺🇳 Dr. Alban (singer). Genre: retro-pop
+- 🇺🇳 Dr. Alban (singer). Genre: retro pop
 - 🇺🇳 E-type (DJ & singer). Genre: eurodance
 - 🇺🇳 Alesso (DJ). Genre: house
 - 🇺🇳 Crazy Frog (musician). Genre: eurodance

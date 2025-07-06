@@ -65,10 +65,10 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 
 
 <b>🎧 Local musicians: </b>
-- 🇩🇰 Kim Larsen (singer). Genre: retro-pop
+- 🇩🇰 Kim Larsen (singer). Genre: retro pop
 - 🇩🇰 Tobias Rahim (singer). Genre: reggaeton
 - 🇩🇰 Nephew (band). Genre: rock
-- 🇩🇰 Hanne Boel (singer). Genre: retro-pop
+- 🇩🇰 Hanne Boel (singer). Genre: retro pop
 - 🇺🇳 Kölsch (DJ). Genre: techno
 - 🇺🇳 Morten (DJ). Genre: future rave
 - 🇺🇳 Aqua (band). Genre: pop
