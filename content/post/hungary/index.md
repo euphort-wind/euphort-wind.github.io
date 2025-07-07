@@ -26,7 +26,7 @@ gallery_item:
     image: 7sek.jpg
     caption: Koronázó Square (Székesfehérvár)
   - album: hungary
-    image: 8pap.png
+    image: 8pap.jpeg
     caption: Hungarian Pörkölt & Chicken Paprikash
 
 
