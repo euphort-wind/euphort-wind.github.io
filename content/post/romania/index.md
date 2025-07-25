@@ -87,7 +87,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - The Paparuda Ritual <i>(Paparudă)</i> 
 - The Martisor Celebration <i>(Mărțișor)</i> 
 - The Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
-- Romanian Hora Dance <i>(Hora)</i>
+- Romanian Horă Dance <i>(Horă)</i>
 - Romanian Cars <i>(Brand: "Dacia")</i>
 - Authentic Musical Instrument: Romanian Nai <i>(Nai)</i> 
 - The Culture of Romani <i>(Romi / Romane Manusha)</i>
