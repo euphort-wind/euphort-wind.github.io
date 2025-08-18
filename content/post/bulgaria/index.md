@@ -1,6 +1,6 @@
 ---
 title: 🇧🇬 Bulgaria 
-date: '2023-08-01'
+date: '2025-08-01'
 summary: Trip to Bulagaria
 
 gallery_item:
@@ -26,13 +26,14 @@ gallery_item:
     image: 3vlas.jpeg
     caption: The Roman Thermae (Varna)
   - album: bulgaria
-    image: 6kebabche.jpg
-    caption: Bulgarian Kebapche
+    image: 8chushka.jpeg
+    caption: Bulgarian Chushki Burek & Shopska Salad
+
 ---
-Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was there in the summer of 2023. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was there in the summer of 2023 and summer of 2025. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Sofia, Nessebar, Burgas, Varna, Pomorie, Sveti Vlas, Byala.<br>
+<b>🗺 Places:</b> Sofia, Nessebar, Burgas, Varna, Pomorie, Sveti Vlas, Byala, Obzor, Sozopol.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Sofia
@@ -48,7 +49,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
     - Ivan Vazov National Theatre <i>(Народен Театър "Иван Вазов")</i>
 2. Nessebar
     - Sunny Beach <i>(Слънчев Бряг)</i>
-    - Old Nessebar <i>(Стар Несебър)</i>
+    - Old Town Nessebar <i>(Стария Несебър)</i>
     - Hagia Sophia Church <i>(Църква "Света София")</i>
     - Church of Christ Pantocrator <i>(Църква "Христос Пантократор")</i>
     - Church of St. Stephen <i>(Църква "Свети Стефан")</i>
@@ -75,11 +76,25 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
     - Old Houses of Pomorie Architectural Reserve <i>(Архитектурен Резерват "Стари Поморийски Къщи")</i>
 7. Byala
     - Cape of St. Athanasius <i>(Нос Свети Атанас)</i>
-    - Byala Public Beach <i>(Обществен плаж Бяла)</i>
+    - Byala Public Beach <i>(Обществен Плаж Бяла)</i>
     - The White Cliffs <i>(Бели Скали)</i>
-   
+8. Obzor
+    - Church of Saint John the Baptist <i>(Храм "Св. Йоан Предтеча")</i>
+    - Obzor Park <i>(Парк Град Обзор)</i>
+9. Sozopol
+    - Old Town Sozopol <i>(Старият Созопол)</i>
+    - Main Square <i>(Главен Площад)</i>
+    - Southern Fortress Wall and Tower <i>(Южна Крепостна Стена и Кула)</i>
+    - Sanctuary of Demeter and Persephone <i>(Светилище на Деметра и Персефона)</i> 
+    - St. Ivan Island <i>(Остров св. Иван)</i> 
+    - St. Cyricus Island <i>(Остров св. Кирик)</i> 
+
 
 <b>🎧 Local musicians: </b>
+- 🇧🇬 Dara (singer). Genre: pop
+- 🇧🇬 КаriZма (duo). Genre: pop
+- 🇧🇬 Robi (singer). Genre: pop
+- 🇧🇬 D2 (band). Genre: rock
 - 🇧🇬 Azis (singer). Genre: pop
 - 🇧🇬 Avenue (duo). Genre: pop
 - 🇧🇬 Orlin Goranov (singer). Genre: retro pop
@@ -87,8 +102,17 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 
 
 <b>🥘 Local food & drinks: </b>
-- Sirene Cheese <i>(Сирене)</i>
+- Bulgarian Cheese <i>(Български Сирена)</i>
+  - Sirene <i>(Сирене)</i>
+  - Kashkaval <i>(Кашкавал)</i>
 - Shopska Salad <i>(Шопска Салата)</i>
+- Snow White Salad <i>(Салата Снежанка)</i>
+- Lyutenitsa <i>(Лютеница)</i>
+- Mish-Mash <i>(Миш-Маш)</i>
+- Chushki Burek <i>(Чушки Бюрек)</i>
+- Lukanka <i>(Луканка)</i>
+- Princess Sandwich <i>(Принцеса)</i>
+- Patatnik <i>(Пататник)</i>
 - Banitsa Pie <i>(Баница)</i>
   - Banitsa with Crushed White Cheese <i>(Баница със Сирене)</i>
   - Banitsa with Apples <i>(Баница с Ябълки)</i>
@@ -98,12 +122,12 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Kyufte <i>(Кюфте)</i>
 - Tsatsa Fish <i>(Цаца)</i>
 - Ayran <i>(Айрян)</i>
-- Chushki Burek <i>(Чушка Бюрек)</i>
 - Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
 
 
 <b>🎬 Local movies:</b>
 - The World is Big and Salvation Lurks Around the Corner <i>(Светът е Голям и Спасение Дебне Отвсякъде)</i>. Year: 2008. Genre: road movie
+- Glory <i>(Слава)</i>. Year: 2016. Genre: drama
 
 
 <b>🪔 Authentic features:</b>
