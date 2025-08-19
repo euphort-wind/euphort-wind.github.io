@@ -88,7 +88,6 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 
 <b>🥘 Local food & drinks: </b>
 - Goulash Soup <i>(Gulyás)</i>
-- Kürtőskalács <i>(Kürtőskalács)</i>
 - Hungarian Sour Cherry Soup <i>(Hideg Meggyleves)</i>
 - Halászlé <i>(Halászlé)</i>
     - Halászlé with Catfish <i>(Harcsa Halászlé)</i>

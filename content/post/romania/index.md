@@ -1,21 +1,18 @@
 ---
 title: 🇷🇴 Romania
-date: '2023-08-01'
+date: '2025-08-01'
 summary: Trip to Romania
 
 gallery_item:
   - album: romania
-    image: 1bran.jpeg
-    caption: Bran
+    image: 1bras.jpg
+    caption: Brașov
   - album: romania
     image: 2drak.jpg
     caption: Bran Castle
   - album: romania
-    image: 4chy.jpg
-    caption: Sinaia Casino
-  - album: romania
-    image: 5buhbank.jpg
-    caption: National Bank of Romania 
+    image: 3prezh.jpg
+    caption: The Fortified Church of Prejmer
   - album: romania
     image: 4chirch.jpg
     caption: Stavropoleos Monastery
@@ -23,29 +20,34 @@ gallery_item:
     image: 5castle.jpg
     caption: Peleș Castle
   - album: romania
-    image: 6inside.jpg
-    caption: Peleș Castle Inside
+    image: 5cec.jpg
+    caption: CEC Bank (Bucharest)
   - album: romania
-    image: 6torch.jpg
-    caption: Romanian Tochitură
+    image: 7sigi.jpg
+    caption: Sighișoara Clock Tower
+  - album: romania
+    image: 8sarmale.jpg
+    caption: Romanian Sarmale with Mămăligă
 ---
-Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was there in the summer of 2023. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was there in the summer of 2023 and summer of 2025. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Bucharest, Sinaia, Bran. <br>
+<b>🗺 Places:</b> Bucharest, Sinaia, Bran, Brașov, Prejmer, Sfântu Gheorghe, Sighișoara. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Bucharest
+    - Old Town Bucharest <i>(Centrul Istoric al Bucureștiului)</i>
     - The Parliament of Romania <i>(Parlamentul României)</i>
+    - National History Museum of Romania <i>(Muzeul Național de Istorie a României)</i>
     - Stavropoleos Monastery <i>(Mănăstirea Stavropoleos)</i>
-    - Bucharest Old Town <i>(Centrul Istoric al Bucureștiului)</i>
-    - The CEC Palace <i>(Palatul CEC)</i>
+    - The CEC Bank Palace <i>(Palatul CEC)</i>
     - Curtea Veche Church <i>(Biserica Curtea Veche)</i>
     - National Bank of Romania <i>(Banca Națională a României)</i>
     - Palace of Justice <i>(Palatul Justiției)</i>
+    - The Romanian Athenaeum <i>(Ateneul Român)</i>
 2. Sinaia
-    - Pelesh Castle <i>(Castelul Peleș)</i>
-    - Pelishor Castle <i>(Castelul Pelișor)</i>
+    - Peleș Castle <i>(Castelul Peleș)</i>
+    - Pelișor Castle <i>(Castelul Pelișor)</i>
     - Sinaia Monastery <i>(Mănăstirea Sinaia)</i>
     - The Casino of Sinaia <i>(Cazinoul Sinaia)</i>
     - Hotel Palace <i>(Hotel Palace din Sinaia)</i>
@@ -53,17 +55,51 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 3. Bran
     - Bran Castle <i>(Castelul Bran)</i>
     - Royal Park <i>(Parcul Regal)</i>
-    - Bran Village Museum <i>(Muzeul National Bran)</i>
+4. Brașov
+    - The Council Square <i>(Piața Sfatului)</i>
+    - The Black Church of Romania <i>(Biserica Neagră)</i>
+    - Catherine's Gate <i>(Poarta Ecaterinei)</i>
+    - The Black Tower <i>(Turnul Negru din Brașov)</i>
+    - The White Tower <i>(Turnul Alb din Brașov)</i>
+    - Saint Nicholas Church <i>(Biserica Sfântul Nicolae)</i>
+    - Transilvania University of Brașov <i>(Universitatea Transilvania din Brașov)</i>
+5. Prejmer
+    - Prejmer Fortified Church <i>(Biserica Fortificată din Prejmer)</i>
+    - Prejmer Ornamentica <i>(Ornamentica)</i>
+6. Sfântu Gheorghe
+    - Székely National Museum <i>(Muzeul Național Secuiesc)</i>
+    - Elizabeth Park <i>(Parcul Elisabeta)</i>
+    - The Beör Palace <i>(Palatul Beör)</i>
+    - Unitarian church <i>(Biserica Unitariană)</i>
+7. Sighișoara
+    - Old Town Sighișoara <i>(Sighișoara Citadel)</i>
+    - Sighișoara Clock Tower <i>(Turnul cu Ceas)</i>
+    - The Church on the Hil <i>(Biserica din Deal)</i>
+    - Vlad Dracul House <i>(Casa Vlad Dracul din Sighișoara)</i>
+    - The Scholar's Stairs <i>(Scara Acoperită)</i>
+    - Sighișoara City Hall <i>(Primăria Municipiului)</i>
+    - The Bootmakers' Tower <i>(Turnul Cizmarilor)</i>
+    - The Stag House <i>(Casa cu Cerb)</i>
+
 
 <b>🎧 Local musicians: </b>
-- 🇷🇴 Akcent (band). Genre: eurodance
+- 🇷🇴 Akcent (band). Genre: romanian popcorn
 - 🇷🇴 Mario Fresh (singer). Genre: pop
+- 🇷🇴 Giulia Anghelescu (singer). Genre: house
+- 🇷🇴 DJ Project (band). Genre: house
+- 🇷🇴 Alina Eremia (singer). Genre: pop
+- 🇷🇴 Alex Velea (singer). Genre: pop
+- 🇷🇴 Stefan Costea (rapper). Genre: trap
 - 🇷🇴 Ionut Cercel (singer). Genre: manele
+- 🇷🇴 Tzancă Uraganu (singer). Genre: manele
+- 🇷🇴 Nicolae Guță (singer). Genre: manele
+- 🇺🇳 Holy Molly (singer). Genre: pop
 - 🇺🇳 Morandi (duo). Genre: eurodance
-- 🇺🇳 Alis Shuka (singer). Genre: pop
-- 🇺🇳 INNA (singer). Genre: pop
+- 🇺🇳 INNA (singer). Genre: romanian popcorn
 - 🇺🇳 Edward Maya (DJ). Genre: eurodance
 - 🇺🇳 Minelli (singer). Genre: pop
+- 🇺🇳 Alexandra Stan (singer). Genre: pop
+- 🇺🇳 Alis Shuka (singer). Genre: pop
 
 <b>🎚️ Contribution to EDM: </b>
 - Romanian Popcorn. Originated: late 2000s
@@ -71,14 +107,32 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 
 
 <b>🥘 Local food & drinks: </b>
+- Romanian Cheese <i>(Brânză Românească)</i>
+  - Brânză de Vaci <i>(Brânză de Vaci)</i>
+  - Telemea <i>(Telemea)</i>
+- Pastrami <i>(Pastrami)</i>
+- Ciorbă de Burtă <i>(Ciorbă de Burtă)</i>
+- Salată de Icre <i>(Salată de Icre)</i>
+- Salată de Boeuf <i>(Salată de Boeuf)</i>
+- Ostropel <i>(Ostropel)</i>
+- Amandine <i>(Amandină)</i>
+- Plăcintă <i>(Plăcintă)</i>
+  - Plăcintă with Apple <i>(Plăcintă cu Mere)</i>
+  - Plăcintă with Cheese <i>(Plăcintă cu Brânză)</i>
 - Tochitura <i>(Tochitură)</i>
 - Sarmale <i>(Sarmale)</i>
 - Mititei <i>(Mici)</i>
-- Romanian Ciorba <i>(Ciorba)</i>
-- Romanian Polenta <i>(Mămăligă)</i>
+- Mămăligă <i>(Mămăligă)</i>
+- Papanași <i>(Papanași)</i>
+- Țuică <i>(Brand: "Vlad Țepeș")</i>
+- <u>Covasna (Regional Special):</u> Kürtőskalács <i>(Cozonac Secuiesc)</i>
+- <u>Covasna (Regional Special):</u> Erdélyi Rakott Káposzta <i>(Erdélyi Rakott Káposzta)</i>
+- <u>Brașov (Regional Special):</u> Braşovence <i>(Clatite Brasovene)</i>
 
 <b>🎬 Local movies:</b>
 - The Death of Mr. Lazarescu <i>(Moartea Domnului Lăzărescu)</i>. Year: 2005. Genre: drama / tragedy
+- Do Not Expect Too Much from the End of the World <i>(Nu Aștepta Prea Mult de la Sfârșitul Lumii)</i>. Year: 2023. Genre: black comedy
+- Aferim! <i>(Aferim!)</i>. Year: 2015. Genre: drama
 
 
 <b>🪔 Authentic features:</b>
@@ -96,6 +150,14 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
   - Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
 - The Legacy of Dacians <i>(Dacii / Δάκοι)</i>
 - The Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
+- <u>Covasna (Regional Special):</u> The Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
+  - The Székely Gates <i>(Poartă Secuiască / Székelykapu)</i>
+  - The Székely Runes <i>(Scrierea Maghiară Veche / Székely-Magyar Rovás)</i>
+  - The Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i>
+- <u>Brașov (Regional Special):</u> The Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
+  - <u>Brașov (Regional Special):</u> Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
+  - <u>Brașov (Regional Special):</u> Authentic Garb: Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>
+
 
 
 <b>💐 National flower: </b> Romanian Peony <i>(Bujor Românesc)</i>
