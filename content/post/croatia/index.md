@@ -88,9 +88,9 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - Authentic Principle: Fjaka <i>(Fjaka)</i>
 - The Ojkanje Singing <i>(Ojkanje)</i>
 - The Story of Klepetan and Malena <i>(Klepetan i Malena)</i>
-- The Zvončari Festival <i>(Zvončari)</i>  
+- The Rijeka Carnival & Zvončari <i>(Riječki Karneval)</i>  
 - The Angular Glagolitic Script <i>(Hrvatska Glagoljica)</i>
-- Croatian Lace <i>(Čipkarstvo)</i>
+- Croatian Lace <i>(Čipkarstvo u Hrvatskoj)</i>
 - Croatian Pre-Romanesque Architecture <i>(Starohrvatska Arhitektura)</i>
 - Authentic Musical Instrument: Tamburica <i>(Tamburica)</i>
 - Authentic Garb: Cravat and Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
