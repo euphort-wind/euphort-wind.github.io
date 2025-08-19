@@ -24,7 +24,7 @@ gallery_item:
     caption: Church of the Assumption of the Blessed Virgin Mary (Bled)
   - album: slovenia
     image: 7ch.jpg
-    caption:  Franciscan Church of the Annunciation
+    caption: The Triple Bridge
   - album: slovenia
     image: 8food.jpg
     caption: Slovenian Štruklji, Ričet, Ajdovi Žganci & Carniolan Sausages 
