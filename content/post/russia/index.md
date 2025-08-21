@@ -199,9 +199,11 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - 🇷🇺 Valery Meladze (singer). Genre: pop
 - 🇷🇺 Kris Kelmi (singer). Genre: rock
 - 🇷🇺 Макsим (singer). Genre: pop
-- 🇷🇺 Дора (singer). Genre: pop
 - 🇷🇺 Zivert (singer). Genre: pop
-- 🇺🇳 Aleksander Popov (DJ). Genre: trance
+- 🇷🇺 Дора (singer). Genre: pop
+- 🇷🇺 Boris Burdayev (singer). Genre: indie pop
+- 🇷🇺 Yuri Shevchuk (singer). Genre: rock
+- 🇺🇳 Alexander Popov (DJ). Genre: trance
 - 🇺🇳 Arty (DJ). Genre: progressive house
 - 🇺🇳 Nina Kraviz (DJ). Genre: house
 - 🇺🇳 Swanky Tunes (DJ trio). Genre: electro house
