@@ -61,7 +61,7 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 
 
 <b>🎬 Local movies:</b>
-- San Marino Archive Footage <i>(Filmati d'archivio di San Marino)</i>. Year: 1950/1977. Genre: archive footage
+- British Pathé: Principality Of San Marino <i>(British Pathé: Principality Of San Marino)</i>. Year: 1946. Genre: archive footage
 
 
 <b>🪔 Authentic features:</b>
