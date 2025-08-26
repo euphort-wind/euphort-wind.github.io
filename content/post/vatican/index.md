@@ -50,7 +50,8 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 
 
 <b>🥘 Local food & drinks: </b>
-- Dry Red Wine <i>(Vinum Rubrum Siccum)</i>
+- Sacramental Wine <i>(Vinum Eucharisticum)</i>
+- Sacramental Bread <i>(Hostia)</i>
 - Baked Pasta <i>(Pasta Cocta)</i>
 - Grissini <i>(Grissini)</i>
 

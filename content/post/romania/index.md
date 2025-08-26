@@ -70,7 +70,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
     - Székely National Museum <i>(Muzeul Național Secuiesc)</i>
     - Elizabeth Park <i>(Parcul Elisabeta)</i>
     - The Beör Palace <i>(Palatul Beör)</i>
-    - Unitarian church <i>(Biserica Unitariană)</i>
+    - Unitarian Church <i>(Biserica Unitariană)</i>
 7. Sighișoara
     - Old Town Sighișoara <i>(Sighișoara Citadel)</i>
     - Sighișoara Clock Tower <i>(Turnul cu Ceas)</i>
