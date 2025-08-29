@@ -203,9 +203,9 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - 🇷🇺 Дора (singer). Genre: pop
 - 🇷🇺 Boris Burdayev (singer). Genre: indie pop
 - 🇷🇺 Yuri Shevchuk (singer). Genre: rock
+- 🇷🇺 Alla Pugacheva (singer). Genre: retro pop
 - 🇺🇳 Alexander Popov (DJ). Genre: trance
 - 🇺🇳 Arty (DJ). Genre: progressive house
-- 🇺🇳 Nina Kraviz (DJ). Genre: house
 - 🇺🇳 Swanky Tunes (DJ trio). Genre: electro house
 
 <b>🎚️ Contribution to EDM: </b>
