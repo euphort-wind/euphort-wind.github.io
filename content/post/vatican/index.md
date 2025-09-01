@@ -63,8 +63,8 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 
 <b>🪔 Authentic features:</b>
 - Catholicism <i>(Ecclesia Catholica)</i>
-- The Papal Audiences <i>(Audientiae Papae)</i>
-- The Papal Conclave Ritual <i>(Conclavus Papae)</i>
+- The Papal Audiences <i>(Audientia)</i>
+- The Papal Conclave Ritual <i>(Conclave)</i>
 - The Papal Regalia and Insignia <i>(Insignia et Regalia Papalia)</i>
 - Authentic Musical Instrument: Pipe Organ <i>(Organum)</i> 
 - The Heritage of the Papal States <i>(Status Pontificius)</i>
