@@ -201,7 +201,6 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - 🇷🇺 Макsим (singer). Genre: pop
 - 🇷🇺 Zivert (singer). Genre: pop
 - 🇷🇺 Дора (singer). Genre: pop
-- 🇷🇺 Boris Burdayev (singer). Genre: indie pop
 - 🇷🇺 Yuri Shevchuk (singer). Genre: rock
 - 🇷🇺 Alla Pugacheva (singer). Genre: retro pop
 - 🇺🇳 Alexander Popov (DJ). Genre: trance
@@ -271,7 +270,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Russian Fairy Tales <i>(Русские Народные Сказки)</i> 
 - Russian Cars <i>(Brands: "GAZ", "LADA", etc.)</i> 
 - Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
-- Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-ушанка)</i> 
+- Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-Ушанка)</i> 
 - The Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
 - The Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
 - <u>Bashkiria (Regional Special):</u> The Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
@@ -279,12 +278,12 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - <u>Bashkiria (Regional Special):</u> The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
     - <u>Bashkiria (Regional Special):</u> Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
 - <u>Kabardino-Balkaria & Karachay-Cherkessia (Regional Special):</u> The Culture of Balkars <i>(Балкары, Карачаевцы / Малкъарлыла)</i>
-    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
+    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Sagas <i>(Нартский Эпос / Нарт Таурухла)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Bychak Knives <i>(Бичак / Бычак)</i>
 - <u>Karachay-Cherkessia & Kabardino-Balkaria (Regional Special):</u> The Culture of Circassians <i>(Кабардинцы, Черкессы, Адыгейцы и Шапсуги / Адыгэ)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Principle: Circassian Xabze <i>(Адыгэ Хабзэ / Адыгэ Хабзэ)</i>
-    - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
+    - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Sagas <i>(Нартский Эпос / Нартхэр)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> The Heritage of the Circassia <i>(Черкесия / Адыгэ Хэку)</i>
@@ -293,12 +292,12 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - <u>North Ossetia (Regional Special):</u> Ossetian Assianism <i>(Уасдин / Уацдин)</i>
     - <u>North Ossetia (Regional Special):</u> Ossetian Simd Dance <i>(Симд / Синд)</i>
     - <u>North Ossetia (Regional Special):</u> Authentic Musical Instrument: Kisyn Fandyr <i>(Хисын Фандыр / Xъисын Фæндыр)</i>
-    - <u>North Ossetia (Regional Special):</u> The Heritage of the Kingdom of Alania <i>(Алания / Аланья)</i>
+    - <u>North Ossetia (Regional Special):</u> The Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i>
 - <u>Leningrad (Regional Special):</u> The Culture of Izhorians <i>(Ижоры / Ižorat)</i>
 - <u>St. Petersburg-City (Regional Special):</u> Petrine Baroque Architecture <i>(Петровское Барокко)</i>
 - <u>Orenburzhie (Regional Special):</u> The Culture of the Orenburg Cossacks <i>(Оренбургские Казаки)</i>
-- <u>Orenburzhie (Regional Special):</u> Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i>
-- <u>Chelyabinsk (Regional Special):</u> Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
+- <u>Orenburzhie (Regional Special):</u> The Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i>
+- <u>Chelyabinsk (Regional Special):</u> The Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
 - <u>Chelyabinsk (Regional Special):</u> The Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>
 
 

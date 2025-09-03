@@ -319,20 +319,21 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Lagom <i>(Lagom)</i>
-- The Crayfish Party <i>(Kräftskiva)</i>
+- Swedish Fika Coffee Break <i>(Fika)</i>
 - The Hambo Dance <i>(Hambo)</i>
+- The Dala Horses <i>(Dalahästar)</i>
+- The Crayfish Celebration <i>(Kräftskiva)</i>
 - The Midsummer Celebration <i>(Midsommar)</i>
 - The St. Lucy's Day Celebration <i>(Lucia)</i>
-- The Dala Horses <i>(Dalahästar)</i>
-- Swedish Fika Coffee Break <i>(Fika)</i>
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
 - <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar)</i>
+- <u>Gotland (Regional Special):</u> Visby Romanesque Architecture <i>(Visby Medeltidsarkitektur)</i>
 - <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar)</i>
-    - <u>Gotland (Regional Special):</u> The Guta Saga <i>(Gutasagan)</i>
-    - <u>Gotland (Regional Special):</u> Visby Romanesque Architecture <i>(Visby Medeltidsarkitektur)</i>
-    - <u>Gotland (Regional Special):</u> Traditional Gotlandic Games <i>(Gutniska Lekar)</i>
+    - <u>Gotland (Regional Special):</u> The Guta Laws & Guta Saga <i>(Gutalagen & Gutasagan)</i>
+    - <u>Gotland (Regional Special):</u> The Gotlandic Picture Stones <i>(Bildstenar)</i>
+    - <u>Gotland (Regional Special):</u> The Varpa Games <i>(Gutniska Lekar)</i>
 - <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
 - <u>Halland (Regional Special):</u> The Bonad Painting <i>(Bonadsmålning)</i>
 

@@ -85,7 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - Lithuanian Potato Sausages <i>(Vėdarai)</i>
 - Kastinys <i>(Kastinys)</i>
 - Samogitian Pancakes <i>(Žemaičių Blynai)</i>
-- Fried Rye Bread Sticks <i>(Kepta Duona)</i>
+- Kepta Duona <i>(Kepta Duona)</i>
 - Lithuanian Beer <i>(Brand: "Kalnapilis")</i> 
 - <u>Vilnius (Regional Special):</u> Karaite Kibinai <i>(Kibinai / Kybynlar)</i>
 
