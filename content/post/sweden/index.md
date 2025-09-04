@@ -331,7 +331,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar)</i>
 - <u>Gotland (Regional Special):</u> Visby Romanesque Architecture <i>(Visby Medeltidsarkitektur)</i>
 - <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar)</i>
-    - <u>Gotland (Regional Special):</u> The Guta Laws & Guta Saga <i>(Gutalagen & Gutasagan)</i>
+    - <u>Gotland (Regional Special):</u> The Guta Saga <i>(Gutasagan)</i>
     - <u>Gotland (Regional Special):</u> The Gotlandic Picture Stones <i>(Bildstenar)</i>
     - <u>Gotland (Regional Special):</u> The Varpa Games <i>(Gutniska Lekar)</i>
 - <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>

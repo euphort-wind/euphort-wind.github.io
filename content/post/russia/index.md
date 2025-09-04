@@ -278,12 +278,12 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
     - <u>Bashkiria (Regional Special):</u> The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
     - <u>Bashkiria (Regional Special):</u> Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
 - <u>Kabardino-Balkaria & Karachay-Cherkessia (Regional Special):</u> The Culture of Balkars <i>(Балкары, Карачаевцы / Малкъарлыла)</i>
-    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Sagas <i>(Нартский Эпос / Нарт Таурухла)</i>
+    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Bychak Knives <i>(Бичак / Бычак)</i>
 - <u>Karachay-Cherkessia & Kabardino-Balkaria (Regional Special):</u> The Culture of Circassians <i>(Кабардинцы, Черкессы, Адыгейцы и Шапсуги / Адыгэ)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Principle: Circassian Xabze <i>(Адыгэ Хабзэ / Адыгэ Хабзэ)</i>
-    - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Sagas <i>(Нартский Эпос / Нартхэр)</i>
+    - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> The Heritage of the Circassia <i>(Черкесия / Адыгэ Хэку)</i>
