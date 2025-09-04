@@ -123,7 +123,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - The Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i> 
   - The Viking Runic Script <i>(Viking Runer)</i> 
   - Norse Paganism <i>(Norrøn Religion)</i> 
-  - The Viking Sagas <i>(Norrøn Sagalitteratur)</i> 
+  - The Skaldic Poetry <i>(Skaldekvad)</i> 
+  - The Viking Ship Construction <i>(Vikingskip)</i> 
 
 
 <b>💐 National flower: </b> Pyramidal Saxifrage <i>(Bergfrue)</i>
