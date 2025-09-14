@@ -121,6 +121,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_start: '2025-09-10'
+          icon: seaa
+          organization: Speaker, Euromicro DSD/SEAA (Advanced Applications), Salerno
+          organization_url: https://dsd-seaa.com/
+          title:  ECMFA Conference 2025
         - date_start: '2025-06-10'
           icon: staf
           organization: Speaker, STAF (Software Technologies), Koblenz
@@ -166,6 +171,11 @@ sections:
           organization: Participant, High Coast Hub, Örnsköldsvik
           organization_url: https://highcoasthub.com/the-high-coast-international-day
           title: The High Coast International Day 2021
+        - date_start: '2021-04-23'
+          icon: ivus
+          organization: Participant, Kaunas University, Kaunas
+          organization_url: https://www.knf.vu.lt/ivus2021
+          title: IVUS Conference 2021
         - date_start: '2021-03-01'
           icon: coursera
           organization: Participant, Erasmus University, Rotterdam

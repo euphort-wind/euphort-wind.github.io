@@ -75,4 +75,4 @@ social:
 highlight_name: true
 ---
 
-Hej! My name is <b><u>Vladislav Indykov</b></u>. I am also known as <b><u>Euphort Wind</b></u>. I work at the Joint Department of Computer Science & Engineering (<a href = "https://www.gu.se/en/computer-science-engineering" target="_blank">University of Gothenburg</a> | <a href = "https://www.chalmers.se/en/departments/cse/" target="_blank"> Chalmers University of Technology</a>). I am exploring the architectural issues of AI-based systems. 
+Hej! My name is <b><u>Vladislav Indykov</b></u>. I am also known as <b><u>Euphort Wind</b></u>. I work at the Joint Department of Computer Science & Engineering (<a href = "https://www.gu.se/en/computer-science-engineering" target="_blank">University of Gothenburg</a> | <a href = "https://www.chalmers.se/en/departments/cse/" target="_blank"> Chalmers University of Technology</a>). I explore  architectural and operational issues of ML-enabled systems. 
