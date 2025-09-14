@@ -125,7 +125,7 @@ sections:
           icon: seaa
           organization: Speaker, Euromicro DSD/SEAA (Advanced Applications), Salerno
           organization_url: https://dsd-seaa.com/
-          title:  ECMFA Conference 2025
+          title:  SEAA Conference 2025
         - date_start: '2025-06-10'
           icon: staf
           organization: Speaker, STAF (Software Technologies), Koblenz
