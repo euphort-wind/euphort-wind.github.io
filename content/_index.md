@@ -173,7 +173,7 @@ sections:
           title: The High Coast International Day 2021
         - date_start: '2021-04-23'
           icon: ivus
-          organization: Participant, Kaunas University, Kaunas
+          organization: Participant, Kaunas University of Technology, Kaunas
           organization_url: https://www.knf.vu.lt/ivus2021
           title: IVUS Conference 2021
         - date_start: '2021-03-01'
