@@ -287,8 +287,9 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Pyttipanna <i>(Pytt-i-Panna)</i>
 - Raggmunk with Bacon and Lingonberry Sauce <i>(Raggmunk)</i>
 - Toast Skagen <i>(Toast Skagen)</i>
-- Cinnamon Buns <i>(Kanelbullar)</i>
+- Cinnamon Rolls <i>(Kanelbullar)</i>
 - Princess Cake <i>(Prinsesstårta)</i>
+- Punsch-Rolls <i>(Dammsugare)</i>
 - Saffron Buns <i>(Lussekatter)</i>
 - Kladdkaka <i>(Kladdkaka)</i>
 - Wallenbergare <i>(Wallenbergare)</i>

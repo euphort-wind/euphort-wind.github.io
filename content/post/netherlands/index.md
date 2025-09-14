@@ -17,8 +17,8 @@ gallery_item:
     image: 4mus.jpg
     caption: Rijksmuseum
   - album: netherlands
-    image: 5hou.jpg
-    caption: Teylers Hofje
+    image: 7xutr.jpeg
+    caption: Utrecht Dom Tower
   - album: netherlands
     image: 6mill.jpg
     caption: De Adriaan Mill
@@ -53,7 +53,15 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
     - Teylers Hofje <i>(Teylershofje)</i>  
     - Amsterdamse Port <i>(Amsterdamse Poort)</i> 
     - Koepelgevangenis <i>(Koepelgevangenis)</i> 
-    
+3. Utrecht
+    - Zeven Steegjes <i>(De Zeven Straatjes)</i> 
+    - St. Marie’s Cloister Garden <i>(Kloostergang van Mariakerk)</i> 
+    - The Grand Hotel Karel V <i>(Grand Hotel Karel V)</i> 
+    - De Inktpot <i>(De Inktpot)</i> 
+    - Central Museum <i>(Centraal Museum)</i> 
+    - St. Martin's Cathedral <i>(Dom van Utrecht)</i> 
+    - The Dom Tower <i>(Domtoren)</i> 
+
 
 <b>🎧 Local musicians: </b>
 - 🇳🇱 André Hazes (singer). Genre: pop
@@ -61,11 +69,14 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - 🇳🇱 Twarres (band). Genre: pop
 - 🇳🇱 Van Dik Hout (band). Genre: pop
 - 🇳🇱 Antoon (singer). Genre: pop
+- 🇳🇱 Maan (singer). Genre: pop
 - 🇳🇱 Volumia! (band). Genre: pop
 - 🇳🇱 Suzan & Freek (duo). Genre: pop
 - 🇳🇱 Kris Kross Amsterdam (DJ band). Genre: house
 - 🇺🇳 Armin van Buuren (DJ). Genre: trance
 - 🇺🇳 Tiësto (DJ). Genre: house
+- 🇺🇳 Tony Junior (DJ). Genre: bass house
+- 🇺🇳 San Holo (DJ). Genre: future bass
 - 🇺🇳 Ferry Corsten (DJ). Genre: trance
 - 🇺🇳 Martin Garrix (DJ). Genre: big room
 - 🇺🇳 Oliver Heldens / HI-LO (DJ). Genre: future house
@@ -83,7 +94,8 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - 🇺🇳 Richard Durand (DJ). Genre: trance 
 - 🇺🇳 Joe Stone (DJ). Genre: deep house 
 - 🇺🇳 Sharon del Adel (singer). Genre: trance 
-- 🇺🇳 Kensington (band). Genre: rock 
+- 🇺🇳 Kensington (band). Genre: rock
+- 🇺🇳 Rondé (band). Genre: indie pop
 
 
 <b>🎚️ Contribution to EDM: </b>
@@ -107,6 +119,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - Soused Herring <i>(Hollandse Nieuwe)</i>
 - Kibbeling <i>(Kibbeling)</i>
 - Poffertjes <i>(Poffertjes)</i>
+- Tompouce <i>(Tompoes)</i>
 - Jenever <i>(Brands: "Bols Zeer Oude")</i>
 
 
@@ -127,6 +140,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - The Cycling Tradition <i>(Het Fietsen)</i>
 - The Delftware <i>(Delfts Blauw)</i>
 - Dutch Windmills <i>(Windmolens)</i>
+- The Canal Houses <i>(Grachtenpanden)</i>
 - Dutch Canals & Polders <i>(Kanalen & Polders)</i>
 - Authentic Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
 - Authentic Garb: Dutch Cap & Klomps <i>(Nederlandse Bonnet & Klompen)</i>
@@ -134,6 +148,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - The Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
   - Dutch Golden Age Paintings <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
   - Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i>
+- <u>Utrecht (Regional Special):</u> De Stijl Architecture <i>(De Stijl Architectuur)</i>
  
 
 
