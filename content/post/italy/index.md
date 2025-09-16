@@ -273,9 +273,9 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - <u>Sicily (Regional Special):</u> Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
   - <u>Sicily (Regional Special):</u> Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
   - <u>Sicily (Regional Special):</u> Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
-- <u>Campania (Regional Special):</u> The Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i> 
 - <u>Campania (Regional Special):</u> The Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
 - <u>Campania (Regional Special):</u> The Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
+- <u>Campania (Regional Special):</u> The Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i> 
 - <u>Campania (Regional Special):</u> The Culture of Neapolitans <i>(Napoletani / Napulitani)</i> 
   - <u>Campania (Regional Special):</u> The Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
   - <u>Campania (Regional Special):</u> The Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
