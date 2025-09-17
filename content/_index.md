@@ -30,7 +30,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * PhD Research: Architectural Approach to SE4ML
+              * PhD Research: Systematic Trade-off Management for MLOps
               * Teaching: "Agile Software Project Management" course
               * Supervision: BSc & MSc Theses  
 
@@ -43,7 +43,7 @@ sections:
           date_end: '2023-05-23'
           description: |2-
               Responsibilities include:
-              * PhD Research: Organizational System Management
+              * PhD Research: Management in Organizational Systems
               * Teaching: "Business Intelligence Tools" & "Internet Marketing" courses
               * Departmental Duties
 
