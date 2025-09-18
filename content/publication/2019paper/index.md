@@ -21,7 +21,7 @@ publishDate: '2019-07-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In the *International Conference on Construction, Architecture and Technosphere Safety '19*
+publication: In the *3rd International Conference on Construction, Architecture and Technosphere Safety '19*
 publication_short: In *ICCATS 2019*
 
 abstract: This paper analyzes various schemes of air exchange in server rooms. Top-down and down-top vertical cooling schemes for small server rooms using local AC systems were analyzed. Numerical models were developed for the study of heat and mass transfer and server aerodynamics, which make it possible to evaluate the cooling efficiency of electronic equipment when placed in an arbitrary configuration. To study the thermal and velocity fields, numerical simulation of the stream flow processes was performed using the FlowVision software. This paper shows the advantage of the selected air-conditioning scheme compared to the existing ventilation system. Modeling results may be used for designing small server rooms.
