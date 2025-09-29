@@ -39,6 +39,10 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
     - Ban Jelačić Square <i>(Trg Bana Jelačića)</i>
     - Croatian National Theatre <i>(Hrvatsko Narodno Kazalište)</i>
     - The Church of St. Mark <i>(Crkva Sv. Marka)</i>
+    - The Zagreb Cathedral <i>(Zagrebačka Katedrala)</i>
+    - The Art Pavilion in Zagreb <i>(Umjetnički Paviljon u Zagrebu)</i>
+    - Nikola Šubić Zrinski Square <i>(Trg Nikole Šubića Zrinskog)</i>
+    - The Oktogon <i>(Oktogon)</i>
     - Dolac Market <i>(Tržnica Dolac)</i>
     - The Stone Gate <i>(Kamenita Vrata)</i>
     - Lotrščak Tower <i>(Kula Lotrščak)</i>
