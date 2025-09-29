@@ -48,26 +48,42 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
     - The Trevi Fountain <i>(Fontana di Trevi)</i>
     - The Spanish Steps <i>(Scalinata di Trinità dei Monti)</i>
     - Colle Oppio Park <i>(Parco di Colle Oppio)</i>
-    - The Lateran Basilica & Laternan Obelisk <i>(Archbasilica & Obelisco Lateranense)</i>
+    - The Lateran Basilica <i>(Archbasilica)</i>
 2. Pisa 
-    - The Leaning Tower of Pisa & Miracoli Square <i>(Torre Pendente di Pisa & Piazza dei Miracoli)</i>
+    - The Leaning Tower of Pisa <i>(Torre Pendente di Pisa)</i>
+    - Miracoli Square <i>(Piazza dei Miracoli)</i>
+    - Garibaldi Square <i>(Piazza Garibaldi)</i>
+    - Santa Caterina d'Alessandria <i>(Chiesa di Santa Caterina)</i> 
+    - Caffè dell'Ussero <i>(Caffè dell'Ussero dal 1775)</i>
     - Knights’ Square <i>(Piazza dei Cavalieri)</i>
     - Mezzo Bridge <i>(Ponte di Mezzo)</i>
 3. Florence
     - Florence Cathedral <i>(Duomo di Firenze)</i>
     - Signoria Square <i>(Piazza della Signoria)</i>
+    - The Fountain of Neptune <i>(Fontana del Nettuno)</i>
+    - The Palazzo Vecchio <i>(Palazzo Vecchio)</i>
+    - The Uffizi Gallery <i>(Galleria degli Uffizi)</i>
+    - The Pitti Palace <i>(Palazzo Pitti)</i>
+    - The Fontains of Rampe del Poggi <i>(Fontane delle Rampe del Poggi)</i>
     - The Ponte Vecchio Bridge <i>(The Ponte Vecchio)</i>
     - Michelangelo Square <i>(Piazzale Michelangelo)</i>
+    - The Basilica di Santa Croce <i>(Basilica di Santa Croce)</i>
 4. Bologna
     - Maggiore Square <i>(Piazza Maggiore)</i>
+    - Porta Galliera <i>(Pôrta d Galîra)</i>
+    - Finestrella di Via Piella <i>(Finestrella di Via Piella)</i>
+    - The Basilica of San Petronio <i>(Basilica di San Petronio)</i>
     - D'Accursio Palace <i>(Palazzo d'Accursio)</i>
-    - Michelangelo Square <i>(Piazzale Michelangelo)</i>
+    - The Casa Isolani <i>(Casa Isolani)</i> 
+    - Santo Stefano Square <i>(Piazza Santo Stefano)</i> 
+    - The Basilica of Santo Stefano <i>(Basilica di Santo Stefano)</i> 
     - The Archiginnasium of Bologna <i>(Archiginnasio)</i>
     - The Two Towers <i>(Le Due Torri)</i>
 5. Rimini
     - The Tiberius Bridge <i>(Ponte di Tiberio)</i>
     - The Arch of Augustus <i>(Arco d'Augusto)</i>
     - Malatesta Temple <i>(Tempio Malatestiano)</i>
+    - Sismondo Castle <i>(Castel Sismondo)</i>
     - Tre Martiri Square <i>(Piazza Tre Martiri)</i>
 6. Catania
     - Mount Etna <i>(Etna)</i>
@@ -265,6 +281,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - <u>Tuscany (Regional Special):</u> The Medici Porcelain <i>(Porcellane Medicee)</i>
 - <u>Emilia-Romagna (Regional Special):</u> The Liscio Dance <i>(Ballo Liscio)</i> 
 - <u>Emilia-Romagna (Regional Special):</u> The Porticoes of Bologna <i>(Portici di Bologna)</i>
+- <u>Emilia-Romagna (Regional Special):</u> The Towers of Bologna <i>(Torri di Bologna)</i>
 - <u>Sicily (Regional Special):</u> Authentic Principle: Omerta <i>(Omertà / Ômertà)</i> 
 - <u>Sicily (Regional Special):</u> The Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i> 
 - <u>Sicily (Regional Special):</u> The Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
