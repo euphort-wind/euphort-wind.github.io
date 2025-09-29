@@ -232,8 +232,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya", etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
-- <u>Bashkiria (Regional Special):</u> Bashkir Uchpuchmak <i>(Эчпочмак / Өсбосмаҡ)</i>
-- <u>Bashkiria (Regional Special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
+- <u>Bashkortostan (Regional Special):</u> Bashkir Uchpuchmak <i>(Эчпочмак / Өсбосмаҡ)</i>
+- <u>Bashkortostan (Regional Special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Khychin <i>(Хычин / Хычин)</i>
     - Khychin with Meat <i>(Хычин c Мясом / Эт Хычин)</i>
@@ -273,10 +273,10 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-Ушанка)</i> 
 - The Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
 - The Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
-- <u>Bashkiria (Regional Special):</u> The Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
-    - <u>Bashkiria (Regional Special):</u> The Sabantuy Celebration <i>(Сабантуй / Һабантуй)</i>
-    - <u>Bashkiria (Regional Special):</u> The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
-    - <u>Bashkiria (Regional Special):</u> Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
+- <u>Bashkortostan (Regional Special):</u> The Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
+    - <u>Bashkortostan (Regional Special):</u> The Sabantuy Celebration <i>(Сабантуй / Һабантуй)</i>
+    - <u>Bashkortostan (Regional Special):</u> The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
+    - <u>Bashkortostan (Regional Special):</u> Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
 - <u>Kabardino-Balkaria & Karachay-Cherkessia (Regional Special):</u> The Culture of Balkars <i>(Балкары, Карачаевцы / Малкъарлыла)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
@@ -302,7 +302,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 
 
 <b>💐 National flower: </b> Chamomile <i>(Ромашка Обыкновенная)</i>
-- <u>Bashkiria (Regional Special):</u> Pleurospermum Uralense <i>(Реброплодник Уральский / Ҡурай Сәскәһе)</i>
+- <u>Bashkortostan (Regional Special):</u> Pleurospermum Uralense <i>(Реброплодник Уральский / Ҡурай Сәскәһе)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Caucasian Rhododendron <i>(Рододендрон Кавказский)</i>
 - <u>North Ossetia (Regional Special):</u> Military Orchid <i>(Ятрышник / Æнæзæнæджыхос)</i>
 - <u>Orenburzhie (Regional Special):</u> Tulipa Schrenkii <i>(Тюльпан Шренка)</i>
