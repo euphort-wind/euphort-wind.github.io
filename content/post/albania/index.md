@@ -40,12 +40,17 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
     - The Fortress of Justinian <i>(Kalaja e Justinianit)</i>
     - The Pyramid of Tirana <i>(Piramida e Tiranës)</i>
     - The Bunk'Art-2 <i>(Bunk'Art-2)</i>
+    - The Building of the Ministry of Infrastructure and Energy <i>(Ministria e Infrastrukturës dhe Energjisë)</i>
+    - The Polytechnic University of Tirana <i>(Universiteti Politeknik I Tiranës)</i>
+    - The New Bazaar <i>(Pazari i Ri)</i>  
     - The Grand Park of Tirana <i>(Parku i Madh i Tiranës)</i>
     - The Murat Toptani Street <i>(Rruga Murat Toptani)</i>
     - The Resurrection of Christ Cathedral <i>(Katedralja Ngjallja e Krishtit)</i>
     - The Bektashi World Center <i>(Kryegjyshata Botërore Bektashiane)</i>
 2. Krujë
     - The Kruja Castle <i>(Kalaja e Krujës)</i>
+    - The Watchtower of Krujë <i>(Kulla e Kalasë së Krujës)</i>
+    - The Sultan Mehmed Fatih Mosque of Krujë <i>(Xhamia e Fet'hijes)</i>
     - The Skanderbeg Museum <i>(Muzeu Kombëtar "Gjergj Kastrioti Skënderbeu")</i>    
     - The Old Bazaar <i>(Pazari i Vjetër)</i>
 3. Durrës 
