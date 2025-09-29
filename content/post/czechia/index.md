@@ -36,7 +36,12 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 
 <b>🏛 Top sights visited: </b>
 1. Prague
-    - Prague Castle & St. Vitus Cathedral <i>(Pražský Hrad & Svatovítská Katedrála)</i>
+    - Prague Castle <i>(Pražský Hrad)</i>
+    - St. Vitus Cathedral <i>(Svatovítská Katedrála)</i>
+    - Powder Tower <i>(Prašná Brána)</i>
+    - Schwarzenberg Palace <i>(Schwarzenberský Palác)</i>
+    - Municipal House <i>(Obecní Dům)</i>
+    - The Church of the Mother of God before Týn <i>(Kostel Matky Boží před Týnem)</i>
     - Zlatá Ulička <i>(Zlatá Ulička)</i>
     - National Museum <i>(Národní Muzeum)</i>
     - Celetná Street <i>(Celetná)</i>
@@ -45,11 +50,14 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
     - Charles Bridge <i>(Karlův Most)</i>
 2. Karlštejn
     - Karlštejn Castle <i>(Hrad Karlštejn)</i>
+    - Church of Saint Palmacius in Karlštejn <i>(Kostel Svatého Palmacia)</i>
     - Karlštejn Market Town <i>(Karlštejn Tržní Město)</i>
 3. Kutná Hora
     - The Sedlec Ossuary <i>(Kostnice v Sedlci)</i>
     - St. Barbara's Church <i>(Chrám Svaté Barbory)</i>
     - The Italian Court <i>(Vlašský Dvůr)</i>
+    - The Stone House in Kutná Hora <i>(Kamenný dům v Kutné Hoře)</i>
+    - Czech Museum of Silver <i>(Ceské Muzeum Stříbra)</i>
     - Plague Column <i>(Morový Sloup)</i>
     - Gothic Stone Fountain <i>(Kamenná Kašna)</i>
 
