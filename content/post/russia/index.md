@@ -233,6 +233,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya", etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
 - <u>Bashkortostan (Regional Special):</u> Bashkir Uchpuchmak <i>(Эчпочмак / Өсбосмаҡ)</i>
+- <u>Bashkortostan (Regional Special):</u> Peremech <i>(Беляш / Бәрәмес)</i>
 - <u>Bashkortostan (Regional Special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Khychin <i>(Хычин / Хычин)</i>
