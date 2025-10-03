@@ -32,7 +32,7 @@ gallery_item:
 Hej! I share an extract of my life in charming Sweden. I was there in the autumn of 2021 and live there since the spring of 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Brännö, Strysö, Donsö, Vrångö, Ockerö, Hönö, Björkö,  Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna, Lödöse, Halmstad, Nödinge-Nol, Karlstad, Skövde, Mariestad. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Brännö, Strysö, Donsö, Vrångö, Ockerö, Hönö, Björkö,  Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna, Lödöse, Halmstad, Nödinge-Nol, Karlstad, Skövde, Mariestad, Herrljunga. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -250,12 +250,18 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
     - Mariestad Cathedral <i>(Mariestads Domkyrka)</i>
     - Marieholm Residence <i>(Marieholm Länsresidens)</i>
     - Karlsholme Park <i>(Karlsholme Folkets Park)</i>
+56. Herrljunga
+    - Herrljunga Drycker Shop <i>(Herrljunga Drycker AB)</i>
+    - Hembygdsparken <i>(Hembygdsparken)</i>
+    - Folkets Park <i>(Folkets Park)</i>
 
 <b>🎧 Local musicians: </b>
 - 🇸🇪 Tomas Ledin (singer). Genre: pop
 - 🇸🇪 Myra Granberg (singer). Genre: pop
 - 🇸🇪 Danny Saucedo (singer). Genre: pop
-- 🇸🇪 Stiftelsen (band). Genre: pop
+- 🇸🇪 Molly Sandén (singer). Genre: pop
+- 🇸🇪 Kent (band). Genre: alternative rock
+- 🇸🇪 Stiftelsen (band). Genre: pop rock
 - 🇸🇪 Darin (singer). Genre: pop
 - 🇸🇪 Albin Lee Meldau (singer). Genre: pop
 - 🇸🇪 Basshunter (DJ). Genre: eurodance
@@ -281,11 +287,11 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Epadunk. Originated: early 2020s
 
 <b>🥘 Local food & drinks: </b>
-- Swedish Meatballs with Mashed Potatoes, Lingonberry Jam and Cream Sauce <i>(Köttbullar)</i>
+- Swedish Meatballs with Mashed Potatoes, Cream Sauce and Lingonberry Jam <i>(Köttbullar med Potatismos, Gräddsås och Lingonsylt)</i>
 - Surströmming <i>(Surströmming)</i>
 - Crispbread <i>(Knäckebröd)</i>
 - Pyttipanna <i>(Pytt-i-Panna)</i>
-- Raggmunk with Bacon and Lingonberry Sauce <i>(Raggmunk)</i>
+- Raggmunk with Bacon and Lingonberry Sauce <i>(Raggmunk med Fläsk och Lingonsylt)</i>
 - Toast Skagen <i>(Toast Skagen)</i>
 - Cinnamon Rolls <i>(Kanelbullar)</i>
 - Princess Cake <i>(Prinsesstårta)</i>
@@ -295,15 +301,16 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Wallenbergare <i>(Wallenbergare)</i>
 - Jansson's Temptation <i>(Janssons Frestelse)</i>
 - Flying Jacob <i>(Flygande Jacob)</i>
-- Boiled Egg with Caviar <i>(Ägg med Kaviar)</i> 
-- Christmas & Easter Soft Drinks <i>(Julmust och Påskmust)</i>
+- Smörgåskaviar <i>(Smörgåskaviar)</i>
+- Smörgåstårta <i>(Smörgåstårta)</i>
+- Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
 - Swedish Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
 - Blueberry Wine <i>(Brand: "Rålund")</i>
 - <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Kantarelltoast)</i>
 - <u>Västernorrland (Regional Special):</u> Reindeer Meat with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 
 - <u>Västerbotten (Regional Special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
 - <u>Gotland (Regional Special):</u> Gotlandic Saffran Pancake with Cream and Dewberry Jam <i>(Saffranspannkaka med Grädde och Salmbärssylt)</i>
-- <u>Gotland (Regional Special):</u> Gotlandic Spring Onion Soup <i>(Kajpsoppa)</i>
+- <u>Gotland (Regional Special):</u> Gotlandic Spring Onion Soup <i>(Gotländsk Kajpsoppa)</i>
 - <u>Västra Götaland (Regional Special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Halv Special)</i>
 - <u>Halland (Regional Special):</u> Långkål <i>(Långkål)</i>
 
