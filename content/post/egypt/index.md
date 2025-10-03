@@ -58,10 +58,10 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 <b>🥘 Local food & drinks: </b>
 - Koshary <i>(كشرى)</i>
 - Ful Medames <i>(فول مدمس)</i>
-- Karkadé Tea <i>(كَركَديه)</i>
 - Aish Baladi <i>(عيش بلدي)</i>
 - Falafel <i>(طعمية)</i>
 - Basbousa <i>(بسبوسه)</i>
+- Karkadé Tea <i>(كَركَديه)</i>
 
 
 <b>🎬 Local movies:</b>

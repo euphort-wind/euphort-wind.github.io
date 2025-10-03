@@ -1,6 +1,6 @@
 ---
 title: 🇸🇪 Sweden
-date: '2025-06-20'
+date: '2025-10-01'
 summary: Live in Sweden
 
 gallery_item:

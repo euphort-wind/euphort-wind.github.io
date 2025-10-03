@@ -95,7 +95,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - Authentic Garb: Ak-Kalpak and Beldemchi <i>(Ак Калпак менен Белдемчи)</i> 
 - The Culture of Dungan <i>(Дунгандар / Хуэйзў)</i>
 - The Heritage of the Kyrgyz Khanate <i>(Кыргыз Хандыгы / 𐱅𐰭𐰼𐰄:𐰅𐰠)</i> 
-- <u>Issyk-Kul (Regional Special):</u> The Legends of Issyk-Kul & Cholpon-Ata <i>(Ысык-Көл жана Чолпон-Ата Легендалары)</i>
+- <u>Issyk-Kul (Regional Special):</u> The Legends of Issyk-Kul & Cholpon <i>(Ысык-Көл жана Чолпон-Ата Легендалары)</i>
 - <u>Issyk-Kul (Regional Special):</u> The Petroglyphs of Issyk-Kul <i>(Ысык-Көлдүн Петроглифтери)</i>
 
 
