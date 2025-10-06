@@ -37,7 +37,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-032-04190-6_7'
+url_pdf: 'https://drive.google.com/file/d/1ewJCYzV3hzBxkDfEJ34a2sPcIGxC02XX/view?pli=1'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
