@@ -71,7 +71,6 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 <b>🥘 Local food & drinks: </b>
 - Butter Chicken <i>(बटर चिकन)</i>
 - Lamb Korma <i>(मटन कोरमा)</i>
-- Mukhwas <i>(मुखवास)</i>
 - Indian Buffalo Steak <i>(भैंस का स्टेक)</i>
 - Kanda Bhaji <i>(कांदा भजी)</i>
 - Naan <i>(नान)</i>
@@ -79,6 +78,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Kulfi <i>(क़ुल्फ़ी)</i>
 - Gulab Jamun <i>(गुलाब जामुन)</i>
 - Phool Makhana <i>(फूल मखाने)</i>
+- Mukhwas <i>(मुखवास)</i>
 - <u>Karnataka (Regional Special):</u> Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
 - <u>Goa (Regional Special):</u> Goan Fish Curry <i>(गोवा मछली करी / हुमण)</i>
 

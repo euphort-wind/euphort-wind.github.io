@@ -75,6 +75,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Churro <i>(Churro)</i>
 - <u>Catalonia (Regional Special):</u> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
 - <u>Catalonia (Regional Special):</u> Pa amb Tomàquet <i>(Pan con Tomate / Pa amb Tomàquet)</i>
+- <u>Catalonia (Regional Special):</u> Escalivada <i>(Escalibada / Espencat)</i>
 
 <b>🎬 Local movies:</b>
 -  The Invisible Guest <i>(Contratiempo)</i>. Year: 2016. Genre: thriller / crime

@@ -312,7 +312,7 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - <u>Gotland (Regional Special):</u> Gotlandic Saffran Pancake with Cream and Dewberry Jam <i>(Saffranspannkaka med Grädde och Salmbärssylt)</i>
 - <u>Gotland (Regional Special):</u> Gotlandic Spring Onion Soup <i>(Gotländsk Kajpsoppa)</i>
 - <u>Västra Götaland (Regional Special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Halv Special)</i>
-- <u>Halland (Regional Special):</u> Långkål <i>(Långkål)</i>
+- <u>Halland (Regional Special):</u> Långkål <i>(Halländsk Långkål)</i>
 
 <b>🎬 Local movies:</b>
 - A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
