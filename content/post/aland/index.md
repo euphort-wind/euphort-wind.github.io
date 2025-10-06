@@ -56,7 +56,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
 
 <b>🥘Local food & drinks: </b>
 - Ålandic Pancake with Cream and Prune Jam <i>(Åländsk Pannkaka med Sviskonkräm och Snömos)</i>
-- "Buried" Whitefish <i>(Gravad Sik)</i>
+- Gravad Sik <i>(Gravad Sik)</i>
 - Ålandic Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
 - Ålandic Beer <i>(Brand: "Stallhagen")</i>
 

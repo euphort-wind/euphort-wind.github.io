@@ -81,6 +81,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - Irimshik <i>(Қызыл Ірімшік)</i>
 - Boortsog <i>(Бауырсақ)</i>
 - Kazakh Sorpa <i>(Сорпа)</i>
+- Shelpek <i>(Шелпек)</i>
 - Zhent <i>(Жент)</i>
 - Samsa <i>(Самса)</i>
 - <u>Mangystau (Regional Special):</u> Beshbarmak with Sturgeon <i>(Фишбармақ)</i>

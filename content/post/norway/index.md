@@ -94,7 +94,9 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 <b>🥘 Local food & drinks: </b>
 - Brunost Cheese <i>(Brunost)</i>
 - Fårikål <i>(Fårikål)</i>
-- Smoked and "Buried" Salmon <i>(Røkt og Gravet Laks)</i>
+- Gravlaks <i>(Gravlaks)</i>
+- Smoked Salmon <i>(Røkt Laks)</i>
+- Flatbrød <i>(Flatbrød)</i>
 - Rømmegrøt <i>(Rømmegrøt)</i>
 - Norwegian Meatcakes with Pea Puree and Brown Gravy <i>(Kjøttkaker med Ertepuré og Brun Saus)</i>
 - Norwegian Akevitt <i>(Brands: "Løiten", "Linie")</i>

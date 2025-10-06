@@ -74,11 +74,13 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 <b>🥘 Local food & drinks: </b>
 - Laghman <i>(Лагман)</i>
 - Kuurdak <i>(Куурдак)</i>
+- Oromo Pie <i>(Оромо)</i>
+- Kurut <i>(Курут)</i>
 - Kymyz <i>(Кымыз)</i>
-- Maksym Drink <i>(Максым)</i>
-- Chalap Drink <i>(Чалап)</i>
-- Aralash Drink <i>(Аралаш)</i>
-- <u>Issyk-Kul (Regional Special):</u> Ash-Lyanfu Soup <i>(Ашлянфу)</i>
+- Maksym Drink <i>(Brand: "Шоро Максым")</i>
+- Chalap Drink <i>(Brand: "Шоро Чалап")</i>
+- Aralash Drink <i>(Brand: "Шоро Аралаш")</i>
+- <u>Issyk-Kul (Regional Special):</u> Ash-Lyanfu Soup <i>(Ашлян-Фу / Лен-Фын)</i>
 
 
 <b>🎬 Local movies:</b>

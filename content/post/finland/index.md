@@ -75,8 +75,9 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
   - Finnish Fish Soup <i>(Kalakeitto)</i>
   - Finnish Pea Soup <i>(Hernekeitto)</i>
 - Karelian Pastry <i>(Karjalanpiirakka)</i>
-- Christmas Pastry <i>(Joulutorttu)</i>
-- Lent Buns <i>(Laskiaispulla)</i>
+- Joulutorttu <i>(Joulutorttu)</i>
+- Lihapiirakka <i>(Lihapiirakka)</i>
+- Finnish Lent Buns <i>(Laskiaispulla)</i>
 - Finnish Beer <i>(Brand: "Lapin Kulta")</i>
 - Finnish Liqueur <i>(Brand: "Minttu")</i>
 

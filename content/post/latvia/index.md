@@ -66,8 +66,10 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 
 
 <b>🥘 Local food & drinks: </b>
+- Jāņi Cheese <i>(Jāņu Siers)</i>
 - Latvian Gray Peas with Bacon and Onion <i>(Pelēkie Zirņi)</i>
 - Latvian Black Bread <i>(Rupjmaize)</i>
+- Speķrauši <i>(Speķrauši)</i>
 - Layered Rye Bread <i>(Rupjmaizes Kārtojums)</i>
 - Latvian Porridge <i>(Putra)</i>
 - Latvian Balsam <i>(Brand: "Rīgas Melnais Balzams")</i>
