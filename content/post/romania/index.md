@@ -125,9 +125,9 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Mămăligă <i>(Mămăligă)</i>
 - Papanași <i>(Papanași)</i>
 - Țuică <i>(Brand: "Vlad Țepeș")</i>
-- <u>Covasna (Regional Special):</u> Kürtőskalács <i>(Cozonac Secuiesc)</i>
-- <u>Covasna (Regional Special):</u> Erdélyi Rakott Káposzta <i>(Erdélyi Rakott Káposzta)</i>
-- <u>Brașov (Regional Special):</u> Braşovence <i>(Clatite Brasovene)</i>
+- <u>Covasna (Regional Special):</u> Kürtőskalács <i>(Cozonac Secuiesc / Kürtőskalács)</i>
+- <u>Covasna (Regional Special):</u> Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>
+- <u>Brașov (Regional Special):</u> Braşovence <i>(Clătite Brașovene / Braşovence)</i>
 
 <b>🎬 Local movies:</b>
 - The Death of Mr. Lazarescu <i>(Moartea Domnului Lăzărescu)</i>. Year: 2005. Genre: drama / tragedy

@@ -66,9 +66,11 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
     - Medieval Ruin Garden <i>(Középkori Romkert)</i>
     - Fő Street <i>(Fő Utca)</i>
     - The Clockwork <i>(Az Órajáték)</i>
-    - Koronázó Square & Bishop's Palace <i>(Koronázó Tér & Püspöki Palota)</i>
+    - Koronázó Square <i>(Koronázó Tér)</i>
+    - Bishop's Palace <i>(Püspöki Palota)</i>
     - Árpád Bath <i>(Árpád Fürdő)</i>
-    - Városház Square & Cathedral Basilica <i>(Városház Tér & Szent István-Székesegyház)</i>
+    - Városház Square <i>(Városház Tér)</i>
+    - Cathedral Basilica <i>(Szent István-Székesegyház)</i>
     - Saint Anne Chapel <i>(Szent Anna Kápolna)</i>
 
 

@@ -127,18 +127,18 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - Eisbein <i>(Eisbein)</i>
 - Berliner <i>(Berliner)</i>
 - Gummy Bears <i>(Gummibärchen)</i>
-- <u>Hessen (Regional Special):</u> Handkäse <i>(Handkäse)</i>
-- <u>Hessen (Regional Special):</u> Frankfurter Green Sauce <i>(Frankfurter Grüne Soße)</i>
-- <u>Hessen (Regional Special):</u> Frankfurter Rippchen <i>(Frankfurter Rippchen)</i>
-- <u>Hessen (Regional Special):</u> Speckkuchen <i>(Speckkuchen)</i>
-- <u>Hessen (Regional Special):</u> Frankfurter Kranz <i>(Frankfurter Kranz)</i>
+- <u>Hessen (Regional Special):</u> Handkäse <i>(Handkäse / Handkäse mit Musik)</i>
+- <u>Hessen (Regional Special):</u> Frankfurter Green Sauce <i>(Frankfurter Grüne Soße / Frankfurter Grie Soß)</i>
+- <u>Hessen (Regional Special):</u> Frankfurter Rippchen <i>(Frankfurter Rippchen / Frankfurter Rippchen)</i>
+- <u>Hessen (Regional Special):</u> Speckkuchen <i>(Speckkuchen / Speckkuchen)</i>
+- <u>Hessen (Regional Special):</u> Frankfurt Crown Cake <i>(Frankfurter Kranz / Frankfurter Kranz)</i>
 - <u>Hessen (Regional Special):</u> Hessian Apfelwein <i>(Brands: "Kelterei Walther", "Kelterei Possmann")</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> Saumagen <i>(Saumagen)</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> German Wine <i>(Brands: "Volk Riesling Trocken", "Robert Weil Rheingau Riesling Trocken")</i>
-- <u>North Rhine-Westphalia (Regional Special):</u> Himmel und Erde <i>(Himmel un Ääd)</i>
-- <u>North Rhine-Westphalia (Regional Special):</u> Flönz and Cologne Caviar <i>(Flönz un Kölscher Kaviar)</i>
-- <u>North Rhine-Westphalia (Regional Special):</u> Potthucke <i>(Potthucke)</i>
-- <u>North Rhine-Westphalia (Regional Special):</u> Halve Hahn <i>(Halve Hahn)</i>
+- <u>North Rhine-Westphalia (Regional Special):</u> Himmel und Erde <i>(Himmel und Erde / Himmel un Ääd)</i>
+- <u>North Rhine-Westphalia (Regional Special):</u> Flönz and Cologne Caviar <i>(Flönz un Kölscher Kaviar / Flönz und Kölscher Kaviar)</i>
+- <u>North Rhine-Westphalia (Regional Special):</u> Potthucke <i>(Potthucke / Puffert)</i>
+- <u>North Rhine-Westphalia (Regional Special):</u> Halve Hahn <i>(Halve Hahn / Halve Hahn)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Kölsch Beer <i>(Brands: "Gaffel Kölsch", "Früh Kölsch")</i>
 
 

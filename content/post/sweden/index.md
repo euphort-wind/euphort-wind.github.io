@@ -306,11 +306,12 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
 - Swedish Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
 - Blueberry Wine <i>(Brand: "Rålund")</i>
-- <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Kantarelltoast)</i>
+- <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Norrlandstoast med Gula Kantareller
+)</i>
 - <u>Västernorrland (Regional Special):</u> Reindeer Meat with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 
 - <u>Västerbotten (Regional Special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
-- <u>Gotland (Regional Special):</u> Gotlandic Saffran Pancake with Cream and Dewberry Jam <i>(Saffranspannkaka med Grädde och Salmbärssylt)</i>
-- <u>Gotland (Regional Special):</u> Gotlandic Spring Onion Soup <i>(Gotländsk Kajpsoppa)</i>
+- <u>Gotland (Regional Special):</u> Gotlandic Saffran Pancake with Cream and Dewberry Jam <i>(Saffranspannkaka med Grädde och Salmbärssylt / Saffranspannkakå)</i>
+- <u>Gotland (Regional Special):</u> Gotlandic Spring Onion Soup <i>(Gotländsk Kajpsoppa / Kajpsoppa)</i>
 - <u>Västra Götaland (Regional Special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Halv Special)</i>
 - <u>Halland (Regional Special):</u> Långkål <i>(Halländsk Långkål)</i>
 
@@ -336,20 +337,23 @@ Hej! I share an extract of my life in charming Sweden. I was there in the autumn
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
-- <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar)</i>
-- <u>Gotland (Regional Special):</u> Visby Romanesque Architecture <i>(Visby Medeltidsarkitektur)</i>
-- <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar)</i>
-    - <u>Gotland (Regional Special):</u> The Guta Saga <i>(Gutasagan)</i>
-    - <u>Gotland (Regional Special):</u> The Gotlandic Picture Stones <i>(Bildstenar)</i>
-    - <u>Gotland (Regional Special):</u> The Varpa Games <i>(Gutniska Lekar)</i>
+- <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar / Raukar)</i>
+- <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar / Gutar)</i>
+    - <u>Gotland (Regional Special):</u> The Guta Saga <i>(Gutasagan / Gutasaga)</i>
+    - <u>Gotland (Regional Special):</u> The Gotlandic Picture Stones <i>(Bildstenar / Bildstenar)</i>
+    - <u>Gotland (Regional Special):</u> The Pärk Game <i>(Pärk / Perk)</i>
+    - <u>Gotland (Regional Special):</u> The Varpa Game <i>(Varpa / Varpo)</i>
 - <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
 - <u>Halland (Regional Special):</u> The Bonad Painting <i>(Bonadsmålning)</i>
 
 
 <b>💐 National flower: </b> Harebell <i>(Liten Blåklocka)</i>
 - <u>Västra Götaland (Regional Special):</u> Common Heather <i>(Ljung)</i>
+- <u>Västernorrland (Regional Special):</u> Globeflower <i>(Smörboll)</i>
 - <u>Gotland (Regional Special):</u> European Ivy <i>(Murgröna)</i>
 - <u>Halland (Regional Special):</u> Hairy Greenweed <i>(Hårginst)</i>
+- <u>Skåne (Regional Special):</u> Daisy <i>(Prästkrage)</i>
+- <u>Uppsala (Regional Special):</u> Lily of the Valley <i>(Kungsängslilja)</i>
 - <u>Jämtland (Regional Special):</u> Black Vanilla Orchid <i>(Brunkulla)</i>
 - <u>Värmland (Regional Special):</u> Arctic Starflower <i>(Skogsstjärna)</i>
 

@@ -73,9 +73,9 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - Tave Kosi <i>(Tavë Kosi)</i>
 - Flia <i>(Flia)</i>
 - Petulla <i>(Petulla)</i>
+- Krafne <i>(Krafne)</i>
 - Albanian Yogurt <i>(Kos)</i>
 - Albanian Salep <i>(Salep)</i>
-- Krafne <i>(Krafne)</i>
 - <u>Tirana (Regional Special):</u> Fergese Tirane <i>(Fërgesë Tirane)</i>
 
 
