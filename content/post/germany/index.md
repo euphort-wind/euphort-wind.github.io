@@ -87,6 +87,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇺🇳 ATB (DJ). Genre: progressive house
 - 🇺🇳 Paul van Dyk (DJ). Genre: uplifting trance
 - 🇺🇳 Cosmic Gate (DJ duo). Genre: melodic techno
+- 🇺🇳 Marlon Hoffstadt (DJ). Genre: house
 - 🇺🇳 La Bouche (duo). Genre: eurodance
 - 🇺🇳 Cascada (band). Genre: eurodance
 - 🇺🇳 Robin Schulz (DJ). Genre: house
