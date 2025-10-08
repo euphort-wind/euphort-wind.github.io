@@ -198,7 +198,6 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - 🇷🇺 Viktor Tsoi (singer). Genre: post punk
 - 🇷🇺 Valery Meladze (singer). Genre: pop
 - 🇷🇺 Kris Kelmi (singer). Genre: rock
-- 🇷🇺 Макsим (singer). Genre: pop
 - 🇷🇺 Zivert (singer). Genre: pop
 - 🇷🇺 Дора (singer). Genre: pop
 - 🇷🇺 Yuri Shevchuk (singer). Genre: rock

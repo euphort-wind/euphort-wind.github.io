@@ -69,14 +69,15 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 
 
 <b>🥘 Local food & drinks: </b>
+- Naan <i>(नान)</i>
 - Butter Chicken <i>(बटर चिकन)</i>
+- Rogan Josh <i>(रोग़न जोश)</i>
 - Lamb Korma <i>(मटन कोरमा)</i>
 - Indian Buffalo Steak <i>(भैंस का स्टेक)</i>
 - Kanda Bhaji <i>(कांदा भजी)</i>
-- Naan <i>(नान)</i>
 - Tandoori Chicken <i>(तंदुरी चिकन)</i>
-- Kulfi <i>(क़ुल्फ़ी)</i>
 - Gulab Jamun <i>(गुलाब जामुन)</i>
+- Kulfi <i>(क़ुल्फ़ी)</i>
 - Phool Makhana <i>(फूल मखाने)</i>
 - Mukhwas <i>(मुखवास)</i>
 - <u>Karnataka (Regional Special):</u> Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
