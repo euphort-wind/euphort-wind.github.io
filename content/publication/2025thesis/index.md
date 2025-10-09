@@ -9,7 +9,7 @@ authors:
 
 
 date: '2025-10-01'
-doi: 'https://hdl.handle.net/2077/89744'
+doi: '2077/89744'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-01T00:00:00Z'
