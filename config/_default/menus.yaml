@@ -11,7 +11,7 @@ main:
  #   url: '#posts'
  #   weight: 20
   - name: Publications
-    url: 'https://euphort.se/publication/'
+    url: '/publication/'
     weight: 20
   - name: Music
     url: '#projects'
