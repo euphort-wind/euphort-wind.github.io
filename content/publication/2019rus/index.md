@@ -22,7 +22,7 @@ publication_types: ['article-journal']
 publication: In the *Bulletin of Modern Research '19*
 publication_short: In *BMR 2019*
 
-abstract: This article discusses the concept of a game product intended for interdisciplinary education of schoolchildren. The system of gamification of the educational process contains elements of a quest, role-playing game, and visual novel. The game layout was created, containing the main menu, rating system, map of the main stages of the game and a testing area. Presented in Russian.
+abstract: This article presents the concept of a game-based educational product designed to support interdisciplinary learning among schoolchildren. The proposed system applies gamification principles to make the educational process more engaging and interactive. It combines elements of a quest, role-playing game, and visual novel to encourage active participation, problem-solving, and collaboration among students. A prototype layout of the game was developed, featuring a main menu, a rating and achievement system, a map that visualizes the main stages of the game, and a dedicated testing area for assessing knowledge acquisition. The structure of the game allows for adaptation to different subjects and educational goals, providing teachers with a flexible tool for integrating game mechanics into the learning process. 
 
 tags: []
 
