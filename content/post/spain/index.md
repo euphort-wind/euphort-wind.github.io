@@ -65,6 +65,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 
 <b>🥘 Local food & drinks: </b>
+- Manchego Cheese <i>(Queso Manchego)</i>
 - Tapas-Style Snacks <i>(Tapas)</i>
   - Jamon Serrano Tapas <i>(Jamón Serrano)</i>
   - Jamon Ibérico Tapas <i>(Jamón Ibérico)</i>
