@@ -1,5 +1,5 @@
 ---
-title: 'Hybrid meeeting room as a tool to increase involvement level in the workflow'
+title: 'On the use of hybrid meeting rooms to increase involvement in the workflow'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
