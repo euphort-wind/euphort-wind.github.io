@@ -1,5 +1,5 @@
 ---
-title: 'Development of the educational game concept'
+title: 'Development of a Game-Based Educational Prototype for Interdisciplinary Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -22,7 +22,7 @@ publication_types: ['article-journal']
 publication: In the *Bulletin of Modern Research '19*
 publication_short: In *BMR 2019*
 
-abstract: This article presents the concept of a game-based educational product designed for interdisciplinary learning among schoolchildren. The gamified educational system incorporates elements of a quest, role-playing game, and visual novel. A prototype layout of the game was developed, featuring a main menu, rating system, stage map, and testing area.
+abstract: This article presents the concept of a game-based educational product designed for interdisciplinary learning among schoolchildren. The gamified educational system incorporates elements of a quest, role-playing game, and visual novel. A prototype layout of the game was developed, featuring a main menu, rating system, stage map, and testing area. 
 
 tags: []
 
