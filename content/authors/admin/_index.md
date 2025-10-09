@@ -38,7 +38,7 @@ education:
     - course: PhD in Software Engineering
       institution: University of Gothenburg, 2023 - active
     - course: MSc in Computer Science
-      institution: Mid Sweden University, 2021 (exchange studies)
+      institution: Mid Sweden University, 2021 - 2022 (exchange studies)
     - course: MSc in Applied Computer Science
       institution: Ural Federal University, 2020 - 2022
     - course: BSc in Software Engineering
