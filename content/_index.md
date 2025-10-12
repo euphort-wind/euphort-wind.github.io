@@ -45,7 +45,7 @@ sections:
               Responsibilities include:
               * PhD Research: Management in Organizational Systems
               * Teaching: "Business Intelligence Tools" & "Internet Marketing" courses
-              * Departmental Duties
+              * Departmental Managerial Duties
 
         - title: Project Manager
           company: SPV

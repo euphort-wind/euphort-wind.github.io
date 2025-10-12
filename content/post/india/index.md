@@ -73,10 +73,18 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Butter Chicken <i>(बटर चिकन)</i>
 - Rogan Josh <i>(रोग़न जोश)</i>
 - Lamb Korma <i>(मटन कोरमा)</i>
+- Thali-Style Dishes <i>(थाली)</i>
+  - Dal <i>(दाल)</i>
+  - Paneer Makhani <i>(पनीर मखनी)</i>
+  - Aloo Matar <i>(आलू मटर)</i>
+  - Kachumber <i>(कचूमर)</i>
+  - Raita <i>(रायता)</i>
+  - Roti <i>(रोटी)</i>
+  - Basmati Rice <i>(बासमती चावल)</i>
+  - Gulab Jamun <i>(गुलाब जामुन)</i>
 - Indian Buffalo Steak <i>(भैंस का स्टेक)</i>
 - Kanda Bhaji <i>(कांदा भजी)</i>
 - Tandoori Chicken <i>(तंदुरी चिकन)</i>
-- Gulab Jamun <i>(गुलाब जामुन)</i>
 - Kulfi <i>(क़ुल्फ़ी)</i>
 - Phool Makhana <i>(फूल मखाने)</i>
 - Mukhwas <i>(मुखवास)</i>
