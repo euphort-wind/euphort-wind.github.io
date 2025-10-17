@@ -86,6 +86,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 - Authentic Musical Instrument: Kokle <i>(Kokle)</i> 
 - Authentic Garb: Latvian Belt <i>(Lielvārdes Josta)</i> 
 - The Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
+- The Culture of Latgalians <i>(Latgalieši / Latgalīši)</i> 
 - The Heritage of the Livonian Confederation <i>(Livonijas Konfederācija / Terra Mariana)</i>
 - <u>Jurmala-City (Regional Special):</u> Jurmala Festivals <i>(Jūrmalas Festivāli)</i>
 - <u>Riga-Capital (Regional Special):</u> Riga Art Nouveau Architecture <i>(Jūgendstila Arhitektūra Rīgā)</i>
