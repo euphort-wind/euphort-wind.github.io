@@ -123,8 +123,9 @@ sections:
       items:
         - date_start: '2025-10-17'
           icon: gu
-          organization: Speaker, GU Licentiate Seminar, Gothenburg
+          organization: Speaker, University of Gothenburg, Gothenburg
           organization_url: https://www.gu.se/en/event/towards-systematic-trade-off-management-for-mlops-quality-model-architectural-tactics-design-patterns
+          title:  GU Licentiate Seminars 2025
         - date_start: '2025-09-10'
           icon: seaa
           organization: Speaker, Euromicro DSD/SEAA (Advanced Applications), Salerno
