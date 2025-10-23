@@ -121,6 +121,10 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_start: '2025-10-17'
+          icon: gu
+          organization: Speaker, GU Licentiate Seminar, Gothenburg
+          organization_url: https://www.gu.se/en/event/towards-systematic-trade-off-management-for-mlops-quality-model-architectural-tactics-design-patterns
         - date_start: '2025-09-10'
           icon: seaa
           organization: Speaker, Euromicro DSD/SEAA (Advanced Applications), Salerno

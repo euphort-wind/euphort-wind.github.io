@@ -92,6 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 - Macedonian Mastika <i>(Brand: "Grozd Strumica Mastika")</i>
 - <u>Jugozapaden (Regional Special):</u> Ohrid Gjomleze <i>(Охридско Ѓомлезе)</i>
 - <u>Jugozapaden (Regional Special):</u> Ohrid Trout with Vegetables <i>(Охридска Пастрмка со Зеленчук)</i>
+- <u>Jugozapaden (Regional Special):</u> Ohrid Garlic Makalo <i>(Охридско Макало)</i>
 - <u>Pelagonia (Regional Special):</u> Bitolski Zelnik <i>(Битолски Зелник)</i>
 
 

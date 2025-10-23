@@ -37,6 +37,8 @@ education:
   courses:
     - course: PhD in Software Engineering
       institution: University of Gothenburg, 2023 - active
+    - course: Lic in Software Engineering
+      institution: University of Gothenburg, 2023 - 2025
     - course: MSc in Computer Science
       institution: Mid Sweden University, 2021 - 2022 (exchange studies)
     - course: MSc in Applied Computer Science
