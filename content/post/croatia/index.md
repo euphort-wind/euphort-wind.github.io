@@ -73,6 +73,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
   - Skradinski Rižot <i>(Skradinski Rižot)</i>
 - Pašticada <i>(Pašticada)</i>
 - Kroštule <i>(Kroštule)</i>
+- Bajadera <i>(Bajadera)</i>
 - Maraskino <i>(Brand: "Perković")</i>
 - Travarica <i>(Brand: "Velebit")</i>
 - <u>Zagreb (Regional Special):</u> Štrukli <i>(Štrukli)</i>

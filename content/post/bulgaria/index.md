@@ -140,8 +140,8 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Authentic Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
 - Authentic Garb: Bulgarian Nosiya <i>(Носия)</i>
 - The Legacy of Thracians <i>(Траки / Θρᾷκες)</i>
-- The Heritage of the Bulgarian Empire <i>(Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>
-
+- The Heritage of the First Bulgarian Empire <i>(Първо Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>
+- The Heritage of the Second Bulgarian Empire <i>(Второ Българско Царство / Ц︢рьство Блъгарское)</i>
 
 
 <b>💐 National flower: </b> Bulgarian Rose <i>(Роза Дамаскена)</i>
