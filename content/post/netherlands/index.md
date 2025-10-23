@@ -29,7 +29,7 @@ gallery_item:
     image: 8fish.jpg
     caption: Dutch Kibbeling and Soused Herring
 ---
-Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was there in the spring of 2025. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was there in 2025. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Amsterdam, Haarlem, Utrecht.<br>
@@ -120,7 +120,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - Kibbeling <i>(Kibbeling)</i>
 - Poffertjes <i>(Poffertjes)</i>
 - Tompouce <i>(Tompoes)</i>
-- Jenever <i>(Brands: "Bols Zeer Oude")</i>
+- Jenever <i>(Brand: "Bols Zeer Oude")</i>
 
 
 <b>🎬 Local movies:</b>

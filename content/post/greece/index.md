@@ -29,7 +29,7 @@ gallery_item:
     image: 6giros.jpeg
     caption: Greek Gyros
 ---
-Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was there in the summer of 2012 and in the summer of 2015. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was there in 2012 and 2015. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Rhodes, Agios Nikolaos, Heraklion, Gournes, Oia.<br>

@@ -29,7 +29,7 @@ gallery_item:
     image: 8ashlyan.jpg
     caption: Kyrgyz Ash-lyanfu
 ---
-Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was there in the summer of 2022. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was there in 2022. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Bishkek, Cholpon-Ata, Karakol, Tosor, Barskoon, Jeti-Ögüz, Boz-Uchuk.<br>

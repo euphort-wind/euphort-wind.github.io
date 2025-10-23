@@ -30,7 +30,7 @@ gallery_item:
     caption: Russian Solyanka
 
 ---
-Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
+Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Zelyonaya Polyana, Kusimovsky Rudnik, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Kyshtym, Aleksandrovskii-Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralny Vody, Fiagdon, Dargavs, Fasnal, Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
@@ -229,7 +229,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 - Coulibiac <i>(Кулебяка)</i> 
 - Easter Paskha <i>(Творожная Пасха)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
-- Russian Vodka <i>(Brands: "Dereven'ka", "Tsarskaya", etc.)</i> 
+- Russian Vodka <i>(Brands: "Derevenka", "Tsarskaya", etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
 - <u>Bashkortostan (Regional Special):</u> Bashkir Uchpuchmak <i>(Эчпочмак / Өсбосмаҡ)</i>
 - <u>Bashkortostan (Regional Special):</u> Peremech <i>(Беляш / Бәрәмес)</i>
@@ -259,7 +259,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.<br>
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Russian Avos' <i>(Русское Авось)</i>
+- Authentic Principle: Russian Avos <i>(Русское Авось)</i>
 - The Maslennitsa Celebration <i>(Масленница)</i>
 - The Khokhloma Painting <i>(Хохлома)</i>
 - The Zhostovo Painting <i>(Жостовская Роспись)</i>

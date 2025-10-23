@@ -31,7 +31,7 @@ gallery_item:
     caption: Baked Pasta in Vatican Museum
 
 ---
-Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was there in the winter of 2024. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was there in 2024. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Vatican City.<br>

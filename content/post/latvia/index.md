@@ -29,7 +29,7 @@ gallery_item:
     image: 6dish.jpg
     caption: Latvian Gray Peas with Bacon and Onion
 ---
-Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was there in the winter of 2023. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was there in 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Riga, Jūrmala, Tukums.<br>
@@ -41,7 +41,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
     - Riga Cathedral <i>(Rīgas Doms)</i>
     - St. Peter's Church <i>(Svētā Pētera Baznīca)</i>
     - Riga Central Market <i>(Rīgas Centrāltirgus)</i>
-    - The Three Brothers  <i>(Trīs Brāļi)</i> 
+    - The Three Brothers <i>(Trīs Brāļi)</i> 
     - Freedom Monument <i>(Brīvības Piemineklis)</i>
     - Riga Castle <i>(Rīgas Pils)</i>
 2. Jūrmala
@@ -53,6 +53,9 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 3. Tukums
     - Tukuma Evangelical Lutheran Church <i>(Tukuma Evaņģēliski Luteriskā Baznīca)</i>
     - Freedom Square <i>(Brīvības Laukums)</i>
+    - The Tukku Magi <i>(Tukku Magi)</i>
+    - Tukums Museum <i>(Tukuma Muzejs)</i>
+    - The Castle Tower of Tukums <i>(Tukuma Pils Tornis)</i>
     - Harmony Street <i>(Harmonijas Iela)</i>
 
 

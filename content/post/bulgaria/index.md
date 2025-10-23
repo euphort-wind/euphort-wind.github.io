@@ -30,7 +30,7 @@ gallery_item:
     caption: Bulgarian Chushki Burek & Shopska Salad
 
 ---
-Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was there in the summer of 2023 and summer of 2025. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was there in 2023 and 2025. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Sofia, Nessebar, Burgas, Varna, Pomorie, Sveti Vlas, Byala, Obzor, Sozopol.<br>
@@ -100,6 +100,8 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🇧🇬 Orlin Goranov (singer). Genre: retro pop
 - 🇧🇬 Молец (duo). Genre: pop
 
+<b>🎚️ Contribution to EDM: </b>
+- Chalga. Originated: early 1990s
 
 <b>🥘 Local food & drinks: </b>
 - Bulgarian Cheese <i>(Български Сирена)</i>
