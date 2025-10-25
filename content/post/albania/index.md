@@ -94,7 +94,6 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - Albanian Bunkers <i>(Bunkerët)</i>
 - Authentic Musical Instrument: Çifteli <i>(Çiftelia)</i>
 - Authentic Garb: Xhubleta and Xhamadan <i>(Xhubleta dhe Xhamadan)</i> 
-- The Culture of Aromanians <i>(Arumunët / Armãnji)</i>
 - The Heritage of the Kingdom of Albania <i>(Mbretëria e Arbërisë / Regnum Albaniae)</i>
 
 
