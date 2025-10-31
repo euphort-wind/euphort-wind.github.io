@@ -85,6 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 
 <b>🪔 Authentic features:</b>
 - Latvian Vernacular Architecture <i>(Latviešu Tautas Arhitektūra)</i> 
+- The Daina Music <i>(Dainas)</i> 
 - Latvian Christmas Eve Celebration <i>(Ziemassvētku Vakars)</i> 
 - Authentic Musical Instrument: Kokle <i>(Kokle)</i> 
 - Authentic Garb: Latvian Belt <i>(Lielvārdes Josta)</i> 

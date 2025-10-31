@@ -121,6 +121,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_start: '2025-10-29'
+          icon: rub
+          organization: Guest Researcher, Ruhr University Bochum, Bochum
+          organization_url: https://se-rub.de/research-group/
+          title:  ISSElab Research Visit 2025
         - date_start: '2025-10-17'
           icon: gu
           organization: Speaker, University of Gothenburg, Gothenburg

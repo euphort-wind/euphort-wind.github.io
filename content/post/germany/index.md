@@ -1,6 +1,6 @@
 ---
 title: 🇩🇪 Germany
-date: '2025-06-01'
+date: '2025-11-30'
 summary: Trip to Germany
 
 gallery_item:
@@ -20,8 +20,8 @@ gallery_item:
     image: 5frank.jpeg
     caption: The Gutenberg Monument (Frankfurt)
   - album: germany
-    image: 6kobl.jpg
-    caption: Prussian Government Building (Koblenz)
+    image: 6duis.jpeg
+    caption: Duisburg City Hall
   - album: germany
     image: 7rom.jpg
     caption: The Römer
@@ -32,7 +32,7 @@ gallery_item:
 Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was there in 2025. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Frankfurt am Main, Koblenz, Lahnstein, Cologne.<br>
+<b>🗺 Places:</b> Frankfurt am Main, Koblenz, Lahnstein, Cologne, Düsseldorf, Bochum, Duisburg.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Frankfurt am Main
@@ -66,6 +66,24 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
     - House of 4711 <i>(4711-Haus)</i>
     - Roman Tower <i>(Römerturm)</i>
     - Schnütgen Museum <i>(Museum Schnütgen)</i>
+5. Düsseldorf
+    - The Basilica of St. Lambertus <i>(Basilika St. Lambertus)</i>
+    - The Burgplatz <i>(Der Burgplatz)</i>
+    - Triton Fountain <i>(Tritonenbrunnen)</i>
+    - The Königsallee <i>(Königsallee)</i>
+    - The Old Town Hall of Düsseldorf <i>(Rathaus)</i>
+    - Martin Luther Square <i>(Martin-Luther-Platz)</i>
+    - Flinger Street <i>(Flinger Straße)</i>
+6. Bochum
+    - German Mining Museum <i>(Deutsches Bergbau-Museum Bochum)</i>
+    - The Provost Church of Ss. Peter and Paul <i>(Propsteikirche St. Peter und Paul)</i>
+    - Bochum Town Hall <i>(Rathaus Bochum)</i>
+7. Duisburg
+    - Lehmbruck Museum <i>(Lehmbruck-Museum)</i>
+    - Duisburg Inner Harbour <i>(Innenhafen)</i>
+    - The Church of Our Saviour <i>(Salvatorkirche)</i>
+    - The Burgplatz <i>(Der Burgplatz)</i>
+
 
 
 <b>🎧 Local musicians: </b>
@@ -81,6 +99,10 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇩🇪 Nena (singer). Genre: euro pop
 - 🇩🇪 Kyau & Albert (DJ duo). Genre: trance
 - 🇩🇪 Alex C / Jasper Forks (DJ). Genre: house
+- 🇩🇪 Ich + Ich (duo). Genre: pop
+- 🇩🇪 Juli (band). Genre: alternative pop
+- 🇩🇪 LaFee (singer). Genre: pop
+- 🇩🇪 Revolverheld (band). Genre: pop rock
 - 🇺🇳 Scorpions (band). Genre: hard rock
 - 🇺🇳 Modern Talking (duo). Genre: euro pop
 - 🇺🇳 Scooter (band). Genre: happy hardcore
@@ -121,13 +143,19 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 <b>🥘 Local food & drinks: </b>
 - Pretzel <i>(Bretzel)</i>
 - Sauerbraten <i>(Sauerbraten)</i>
-- Bratwurst <i>(Bratwurst)</i>
-- Liverwurst <i>(Leberwurst)</i>
+- German Sausages <i>(Deutsche Würste)</i>
+  - Bratwurst <i>(Bratwurst)</i>
+  - Currywurst <i>(Currywurst)</i>
+  - Liverwurst <i>(Leberwurst)</i>
+- Eisbein <i>(Eisbein)</i>
+- Rollmops <i>(Rollmops)</i>
 - Rinderrouladen <i>(Rinderrouladen)</i>
 - Mettbrötchen <i>(Mettbrötchen)</i>
-- Eisbein <i>(Eisbein)</i>
+- German Fries <i>(Bratkartoffeln)</i>
+- Black Forest Gateau <i>(Schwarzwälder Kirschtorte)</i>
 - Berliner <i>(Berliner)</i>
 - Gummy Bears <i>(Gummibärchen)</i>
+- German Liqueur <i>(Brand: "Jägermeister")</i> 
 - <u>Hessen (Regional Special):</u> Handkäse <i>(Handkäse / Handkäse mit Musik)</i>
 - <u>Hessen (Regional Special):</u> Frankfurter Green Sauce <i>(Frankfurter Grüne Soße / Frankfurter Grie Soß)</i>
 - <u>Hessen (Regional Special):</u> Frankfurter Rippchen <i>(Frankfurter Rippchen / Frankfurter Rippchen)</i>
@@ -135,7 +163,10 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - <u>Hessen (Regional Special):</u> Frankfurt Crown Cake <i>(Frankfurter Kranz / Frankfurter Kranz)</i>
 - <u>Hessen (Regional Special):</u> Hessian Apfelwein <i>(Brands: "Kelterei Walther", "Kelterei Possmann")</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> Saumagen <i>(Saumagen)</i>
+- <u>Rhineland-Palatinate (Regional Special):</u> Reibekuchen <i>(Reibekuchen)</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> German Wine <i>(Brands: "Volk Riesling Trocken", "Robert Weil Rheingau Riesling Trocken")</i>
+- <u>North Rhine-Westphalia (Regional Special):</u> Panhas <i>(Panhas / Pannas)</i>
+- <u>North Rhine-Westphalia (Regional Special):</u> Pumpernickel <i>(Pumpernickel / Pumpernickel)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Himmel und Erde <i>(Himmel und Erde / Himmel un Ääd)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Flönz and Cologne Caviar <i>(Flönz un Kölscher Kaviar / Flönz und Kölscher Kaviar)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Potthucke <i>(Potthucke / Puffert)</i>
@@ -147,6 +178,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - Knockin' on Heaven's Door <i>(Knockin’ on Heaven’s Door)</i>. Year: 1997. Genre: tragicomedy
 - The Lives of Others <i>(Das Leben der Anderen)</i>. Year: 2006. Genre: thriller
 - Head Full of Honey <i>(Honig im Kopf)</i>. Year: 2014. Genre: tragicomedy
+- Who Am I <i>(Who Am I - Kein System Ist Sicher)</i>. Year: 2014. Genre: thriller
 - The Collini Case <i>(Der Fall Collini)</i>. Year: 2019. Genre: drama
 - Never Look Away <i>(Werk ohne Autor)</i>. Year: 2018. Genre: drama
 - Perfume: The Story of a Murderer <i>(Das Parfum – Die Geschichte eines Mörders)</i>. Year: 2006. Genre: drama
