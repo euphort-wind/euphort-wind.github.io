@@ -47,7 +47,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
     - The Ornamental Fountains <i>(Les Fonts Ornamentals)</i>
 3. Monistrol de Montserrat
     - Montserrat Mountain Natural Park <i>(Parc Natural de la Muntanya de Montserrat)</i>
-    - Santa Maria de Montserrat Abbey <i>(Abadia de Santa Maria de Montserrat )</i>
+    - Santa Maria de Montserrat Abbey <i>(Abadia de Santa Maria de Montserrat)</i>
     - Our Lady of Montserrat <i>(Mare de Déu de Montserrat)</i>
     - Funicular Aeri de Montserrat <i>(Funicular Aeri de Montserrat)</i>
 
