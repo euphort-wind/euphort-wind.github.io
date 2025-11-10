@@ -32,7 +32,7 @@ gallery_item:
 Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belgium. I was there in 2024. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Brussels, Saint-Josse-ten-Noode, Schaerbeek.<br>
+<b>🗺 Places:</b> Brussels, Saint-Josse-ten-Noode, Schaerbeek, Antwerp.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Brussels
@@ -52,13 +52,27 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
     - The Schaerbeek City Hall <i>(Hôtel Communal / Gemeentehuis)</i>
     - Saint Mary's Royal Church <i>(Église Royale Sainte-Marie / Koninklijke Sint-Mariakerk)</i> 
     - The Lehon Plein <i>(Place Lehon / Lehonplein)</i> 
+4. Antwerp
+    - The MAS <i>(The Museum aan de Stroom)</i> 
+    - Het Steen <i>(Het Steen)</i> 
+    - The Rubenshuis <i>(Rubenshuis)</i> 
+    - The Vleeshuis <i>(Vleeshuis)</i>
+    - The Grote Markt <i>(Grote Markt)</i>
+    - The Cathedral of Our Lady <i>(Onze-Lieve-Vrouwekathedraal)</i>
+    - The Vlaeykensgang <i>(Vlaaikensgang)</i>
+    - De Zwarte Panter <i>(De Zwarte Panter)</i>
+    - Antwerp Diamond District <i>(Diamantkwartier)</i>
+
 
 
 <b>🎧 Local musicians: </b>
 - 🇧🇪 Stromae (singer). Genre: pop
 - 🇧🇪 Lara Fabian (singer). Genre: pop
+- 🇧🇪 Kate Ryan (singer). Genre: pop
+- 🇧🇪 Lissa Lewis (singer). Genre: pop
 - 🇺🇳 Dimitri Vegas & Like Mike (DJ duo). Genre: big room
 - 🇺🇳 Netsky (DJ). Genre: drum'n'bass
+- 🇺🇳 Eptic (DJ). Genre: bass house
 - 🇺🇳 Danzel (DJ). Genre: electro house
 - 🇺🇳 Basto (DJ). Genre: progressive house
 - 🇺🇳 Lost Frequencies (DJ). Genre: pop
@@ -72,12 +86,17 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 
 
 <b>🥘 Local food & drinks: </b>
-- Mussels'n'Fries <i>(Moules-frites / Mosselen-friet)</i>
+- Mussels'n'Fries <i>(Moules-Frites / Mosselen-Friet)</i>
+- Steak Frites <i>(Steak-Frites / Steak-Friet)</i>
+- Filet Americain <i>(Americain Préparé / Filet Americain)</i>
+- Martino Sandwich <i>(Martino Sandwich / Martino Sandwich)</i>
 - Belgian Chocolate & Pralines <i>(Chocolats et Pralines Belges / Belgische Chocolade en Pralines)</i>
 - Belgian Waffles <i>(Gaufres Belges / Belgische Wafels)</i>
 - Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Blue Moon", "Leffe", "Delirium")</i>
 - <u>Brussels-Capital (Regional Special):</u> Stewed Brussels Sprouts <i>(Choux de Bruxelles / Spruitjes)</i>
-
+- <u>Flanders (Regional Special):</u> Shrimp Croquettes <i>(Garnaalkroket)</i>
+- <u>Flanders (Regional Special):</u> Flemish Stew <i>(Stoofvlees)</i>
+- <u>Flanders (Regional Special):</u> Eel in the Green <i>(Paling in 't groen)</i>
 
 <b>🎬 Local movies:</b>
 - Mr. Nobody <i>(Mr. Nobody)</i>. Year: 2009. Genre: thriller / fantasy
@@ -94,6 +113,11 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - The Brabantine Gothic Architecture <i>(Gothique Brabançon / Brabantse Gotiek)</i>
 - Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
 - <u>Brussels-Capital (Regional Special):</u> The Flower Carpet <i>(Tapis de Fleurs / Bloementapijt)</i>
+- <u>Flanders (Regional Special):</u> The Culture of Flemings <i>(Vlamingen)</i>
+  - Flemish Baroque Painting <i>(Vlaamse Barokschilderkunst)</i>  
+  - The Carnival of Aalst <i>(Aalst Carnaval / Oilsjt Carnaval)</i> 
+  - Bruges Lace <i>(Brugs Bloemwerk)</i>
+  - Authentic Musical Instrument: Doedelzak <i>(Doedelzak)</i>
 
 
 <b>💐 National flower: </b> Red Poppy <i>(Coquelicot Rouge / Rode Klaproos)</i>
