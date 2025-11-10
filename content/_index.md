@@ -123,7 +123,7 @@ sections:
       items:
         - date_start: '2025-11-05'
           icon: isaps
-          organization: Participant, Lorentz Center, Leiden
+          organization: Participant, Lorentz Workshop Center, Leiden
           organization_url: https://www.lorentzcenter.nl/international-software-architecture-phd-school-25-isaps.html
           title:  ISAPS PhD School 2025 
         - date_start: '2025-10-29'
