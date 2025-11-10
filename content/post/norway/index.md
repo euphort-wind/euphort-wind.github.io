@@ -89,6 +89,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 
 <b>🎚️ Contribution to EDM: </b>
 - Russ Music. Originated: mid-2000s
+- Tropical House. Originated: early 2010s
 
 
 <b>🥘 Local food & drinks: </b>
