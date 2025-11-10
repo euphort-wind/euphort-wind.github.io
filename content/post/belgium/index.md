@@ -1,6 +1,6 @@
 ---
 title: 🇧🇪 Belgium
-date: '2024-11-04'
+date: '2025-11-08'
 summary: Trip to Belgium
 
 gallery_item:

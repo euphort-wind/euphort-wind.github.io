@@ -1,6 +1,6 @@
 ---
 title: 🇳🇱 Netherlands
-date: '2025-11-05'
+date: '2025-11-09'
 summary: Trip to the Netherlands
 
 gallery_item:
