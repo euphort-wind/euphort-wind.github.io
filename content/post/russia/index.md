@@ -214,18 +214,16 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
 - Vinegret <i>(Винегрет)</i> 
 - Olivier Salad <i>(Салат Оливье)</i> 
 - Kholodets <i>(Холодец)</i> 
+- Dressed Herring <i>(Селёдка под Шубой)</i> 
 - Russian Caviar Sandwiches <i>(Бутерброд с Икрой)</i> 
 - Solyanka <i>(Солянка)</i> 
 - Ukha <i>(Уха)</i> 
 - Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
+- Beef Stroganoff <i>(Бефстроганов)</i> 
 - Okroshka <i>(Окрошка)</i>  
     - Okroshka with Kefir <i>(Окрошка на Кефире)</i> 
     - Okroshka with Kvass <i>(Окрошка на Квасе)</i> 
-- Russian Dumplings <i>(Пельмени)</i>
-    - Dumplings with Meat <i>(Пельмени c Мясом)</i>
-    - Dumplings with Tvorog <i>(Вареники с Творогом)</i>
-    - Dumplings with Mashed Potatoes <i>(Вареники с Картошкой)</i>
-    - Dumplings with Cabbage <i>(Вареники с Капустой)</i>
+- Pelmeni <i>(Пельмени)</i>
 - Coulibiac <i>(Кулебяка)</i> 
 - Easter Paskha <i>(Творожная Пасха)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
