@@ -8,17 +8,17 @@ gallery_item:
     image: 1amster.jpg
     caption: Amsterdam
   - album: netherlands
-    image: 2pal.jpg
-    caption: The Royal Palace 
+    image: 2leu.jpeg
+    caption: Oldehove (Leeuwarden)
   - album: netherlands
     image: 3ch.jpg
     caption: Begijnhof 
   - album: netherlands
     image: 4mus.jpg
-    caption: Rijksmuseum
+    caption: The Mauritshuis
   - album: netherlands
-    image: 7xutr.jpeg
-    caption: Utrecht Dom Tower
+    image: 7xlei.jpeg
+    caption: Leiden University
   - album: netherlands
     image: 6mill.jpg
     caption: De Adriaan Mill
