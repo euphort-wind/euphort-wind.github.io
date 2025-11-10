@@ -103,6 +103,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - In Bruges <i>(In Bruges)</i>. Year: 2008. Genre: drama / thriller
 - Zillion <i>(Zillion)</i>. Year: 2022. Genre: thriller
 - Loft <i>(Loft)</i>. Year: 2008. Genre: thriller 
+- Maldoror <i>(Maldoror)</i>. Year: 2024. Genre: thriller 
 - Ben X <i>(Ben X)</i>. Year: 2007. Genre: thriller 
 
 <b>🪔 Authentic features:</b>
