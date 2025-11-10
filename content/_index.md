@@ -121,6 +121,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_start: '2025-11-05'
+          icon: isaps
+          organization: Participant, Lorentz Center, Leiden
+          organization_url: https://www.lorentzcenter.nl/international-software-architecture-phd-school-25-isaps.html
+          title:  ISAPS PhD School 2025 
         - date_start: '2025-10-29'
           icon: rub
           organization: Guest Researcher, Ruhr University Bochum, Bochum

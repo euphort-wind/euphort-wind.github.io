@@ -38,6 +38,9 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 1. Riga
     - Old Riga <i>(Vecrīga)</i>
     - House of the Blackheads <i>(Melngalvju Nams)</i>
+    - House of the Livonian Noble Corporation <i>(Vidzemes Bruņniecības Nams)</i>
+    - The Powder Tower <i>(Pulvertornis)</i>
+    - Latvian Museum of National History <i>(Latvijas Nacionālais Vēstures Muzejs)</i>
     - Riga Cathedral <i>(Rīgas Doms)</i>
     - St. Peter's Church <i>(Svētā Pētera Baznīca)</i>
     - Riga Central Market <i>(Rīgas Centrāltirgus)</i>
