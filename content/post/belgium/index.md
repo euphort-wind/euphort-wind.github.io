@@ -1,6 +1,6 @@
 ---
 title: 🇧🇪 Belgium
-date: '2024-04-01'
+date: '2024-11-04'
 summary: Trip to Belgium
 
 gallery_item:
@@ -17,11 +17,11 @@ gallery_item:
     image: 2grand.jpeg
     caption: Grand-Place 
   - album: belgium
-    image: 3pis.jpeg
-    caption: Manneken Pis
+    image: 2xcast.jpeg
+    caption: Het Steen
   - album: belgium
-    image: 4cathedral.jpeg
-    caption: Brussels Cathedral 
+    image: 4antwerp.jpeg
+    caption: Antwerp City Hall
   - album: belgium
     image: 5castle.jpeg
     caption: Royal Palace of Brussels
