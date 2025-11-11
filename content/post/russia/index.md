@@ -204,6 +204,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
 - 🇷🇺 Alla Pugacheva (singer). Genre: retro pop
 - 🇺🇳 Alexander Popov (DJ). Genre: trance
 - 🇺🇳 Arty (DJ). Genre: progressive house
+- 🇺🇳 Shapov (DJ). Genre: progressive house
 - 🇺🇳 Swanky Tunes (DJ trio). Genre: electro house
 
 <b>🎚️ Contribution to EDM: </b>
