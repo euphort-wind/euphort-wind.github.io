@@ -67,6 +67,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 
 <b>🎚️ Contribution to EDM: </b>
 - Suomisaundi. Originated: mid-1990s
+- Skweee. Originated: late 2000s
 
 
 <b>🥘 Local food & drinks: </b>
