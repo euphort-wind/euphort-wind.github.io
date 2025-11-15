@@ -80,9 +80,11 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 <b>🎬 Local movies:</b>
 -  The Invisible Guest <i>(Contratiempo)</i>. Year: 2016. Genre: thriller / crime
--  The Body <i>(El cuerpo)</i>. Year: 2012. Genre: thriller / crime
+-  Under Therapy <i>(Bajo Terapia)</i>. Year: 2023. Genre: drama
+-  Shades <i>(Matices)</i>. Year: 2025. Genre: thriller (series)
+-  The Body <i>(El Cuerpo)</i>. Year: 2012. Genre: thriller / crime
 -  Klaus <i>(Klaus)</i>. Year: 2019. Genre: adventure / comedy 
--  Under Therapy <i>(Bajo terapia)</i>. Year: 2023. Genre: drama
+
 
 
 <b>🪔 Authentic features:</b>
