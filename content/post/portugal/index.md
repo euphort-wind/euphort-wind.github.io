@@ -37,9 +37,11 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 <b>🏛 Top sights visited: </b>
 1. Lisbon
     - Santa Justa Lift <i>(Elevador de Santa Justa)</i>
-    - Rua Augusta Street & Arch <i>(Arco da Rua Augusta)</i>
+    - Rua Augusta Street <i>(Rua Augusta)</i>
+    - The Rua Augusta Arch <i>(Arco da Rua Augusta)</i>
     - The Commerce Plaza <i>(Praça do Comércio)</i>
     - Lisbon Cathedral <i>(Sé de Lisboa)</i>
+    - The Casa dos Bicos <i>(Casa dos Bicos)</i>
     - Saint George's Castle <i>(Castelo de São Jorge)</i>
     - The Jerónimos Monastery <i>(Mosteiro dos Jerónimos)</i> 
     - The Monument of the Discoveries <i>(Padrão dos Descobrimentos)</i> 
