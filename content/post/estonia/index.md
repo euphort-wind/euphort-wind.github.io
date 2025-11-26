@@ -27,7 +27,7 @@ gallery_item:
     caption: Town Hall Pharmacy (Tallinn)
   - album: estonia
     image: 6mulgi.jpeg
-    caption: Estonian mulgipuder
+    caption: Estonian Mulgipuder
 
 ---
 Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there in 2024. Below are some notes on what I tasted, saw and listened to.<br>
@@ -94,13 +94,18 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 
 <b>🪔 Authentic features:</b>
 - The Epic of Kalevipoeg <i>(Kalevipoeg: Eesti Rahva Eepos)</i>
-- Estonian Song Festival <i>(Üldlaulupidu)</i> 
 - The Kiiking <i>(Kiiking)</i>
 - The E-Government <i>(E-Riik)</i>
 - Authentic Musical Instrument: Kannel <i>(Kannel)</i>
 - <u>Võru (Regional Special):</u> The Culture of Setos <i>(Setukesed / Setokõsõq)</i>
   - <u>Võru (Regional Special):</u> Seto Polyphonic Singing <i>(Seto Leelo / Seto Leelo)</i>
   - <u>Võru (Regional Special):</u> Seto Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Independence Day of Estonia <i>(Eesti Iseseisvuspäev)</i>. Time: February
+- The Estonian National Song Festival <i>(Eesti Üldlaulupidu)</i>. Time: July
+- The Jaanipäev <i>(Leedopäev)</i>. Time: June
 
 
 <b>💐 National flower: </b> Blue Cornflower <i>(Rukkilill)</i>

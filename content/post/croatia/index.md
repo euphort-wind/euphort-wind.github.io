@@ -93,7 +93,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - Authentic Principle: Fjaka <i>(Fjaka)</i>
 - The Ojkanje Singing <i>(Ojkanje)</i>
 - The Story of Klepetan and Malena <i>(Klepetan i Malena)</i>
-- The Rijeka Carnival & Zvončari <i>(Riječki Karneval)</i>  
+- The Zvončari Costume <i>(Zvončari)</i>  
 - The Angular Glagolitic Script <i>(Hrvatska Glagoljica)</i>
 - Croatian Lace <i>(Čipkarstvo u Hrvatskoj)</i>
 - Croatian Pre-Romanesque Architecture <i>(Starohrvatska Arhitektura)</i>
@@ -105,10 +105,8 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Unification Day <i>(Ден на Съединението)</i>. Time: September
-- Baba Marta Day <i>(Баба Марта)</i>. Time: March
-- The Day of Bulgarian Alphabet, Bulgarian Enlightenment and Culture <i>(Ден на Светите Братя Кирил и Методий, на Българската Азбука, Просвета и Култура и на Славянската Книжовност)</i>. Time: May
-
+- The Statehood Day of Croatia <i>(Dan Državnosti)</i>. Time: May
+- <u>Zagreb (Regional Special):</u> The Samobor Carnival <i>(Samoborski Fašnik)</i>. Time: February to March
 
 <b>💐 National flower: </b> Croatian Iris <i>(Hrvatska Perunika)</i>
 

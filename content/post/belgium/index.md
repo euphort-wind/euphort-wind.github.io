@@ -120,7 +120,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
   - Authentic Musical Instrument: Doedelzak <i>(Doedelzak)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Belgian National Day <i>(Fête Nationale Belge / Nationale Feestdag van België)</i>. Time: July
+- The National Day of Belgium <i>(Fête Nationale Belge / Nationale Feestdag van België)</i>. Time: July
 - <u>Flanders (Regional Special):</u> The Flemish Community Day <i>(Feestdag van de Vlaamse Gemeenschap)</i>. Time: July 
 - <u>Flanders (Regional Special):</u> The Carnival of Aalst <i>(Aalst Carnaval / Oilsjt Carnaval)</i>. Time: February or March
 

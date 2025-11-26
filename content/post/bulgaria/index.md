@@ -135,8 +135,8 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 <b>🪔 Authentic features:</b>
 - The Cyrillic Alphabet <i>(Кирилица)</i>
 - The Horo Dance <i>(Хоро)</i>
+- The Kukeri Costume <i>(Кукери)</i>
 - The Anastenaria Ritual <i>(Нестинарство)</i>
-- The Rose Festival <i>(Празник на Розата)</i>
 - The Shevitsa Embroidery <i>(Шевица)</i>
 - Bulgarian Revival Architecture <i>(Възрожденска Архитектура)</i>
 - Authentic Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
@@ -147,8 +147,9 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Unification Day <i>(Ден на Съединението)</i>. Time: September
+- The Unification Day of Bulgaria <i>(Ден на Съединението)</i>. Time: September
 - Baba Marta Day <i>(Баба Марта)</i>. Time: March
+- The Rose Festival <i>(Празник на Розата)</i>. Time: May to June
 - The Day of Bulgarian Alphabet, Bulgarian Enlightenment and Culture <i>(Ден на Светите Братя Кирил и Методий, на Българската Азбука, Просвета и Култура и на Славянската Книжовност)</i>. Time: May
 
 

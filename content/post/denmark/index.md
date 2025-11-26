@@ -109,6 +109,11 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - Authentic Musical Instrument: Lur <i>(Lur)</i>
 
 
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Danish Constitution Day <i>(Grundlovsdag)</i>. Time: June
+- The Fastelavn Carnival <i>(Fastelavn)</i>. Time: February or March
+
+
 <b>💐 National flower: </b> Marguerite Daisy <i>(Margerit)</i>
 
 

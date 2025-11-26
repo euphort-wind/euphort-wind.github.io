@@ -97,8 +97,8 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - The Heritage of the Kingdom of Albania <i>(Mbretëria e Arbërisë / Regnum Albaniae)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Albanian Independence Day <i>(Dita e Pavarësisë)</i>. Time: November
-- Dita e Verës <i>(Verëza)</i>. Time: March
+- The Independence Day of Albania <i>(Dita e Pavarësisë)</i>. Time: November
+- The Dita e Verës <i>(Verëza)</i>. Time: March
 
 
 <b>💐 National flower: </b> Red Poppy <i>(Lulëkuqe)</i>

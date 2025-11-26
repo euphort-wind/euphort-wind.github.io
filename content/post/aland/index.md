@@ -74,9 +74,9 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Åland's Autonomy Day <i>(Ålands Självstyrelsedag)</i>. Time: June
+- The Autonomy Day of Åland <i>(Ålands Självstyrelsedag)</i>. Time: June
 - The Lilla Jul Celebration <i>(Lillajul)</i>. Time: November or December
-- Åland Harvest Festival <i>(Skördefesten)</i>. Time: September
+- The Åland Harvest Festival <i>(Skördefesten)</i>. Time: September
 
 
 
