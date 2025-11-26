@@ -90,7 +90,6 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Sisu <i>(Sisu)</i>
 - Finnish Sauna <i>(Saunakulttuuri)</i>
-- The Shrove Sunday Celebration <i>(Laskiainen)</i>
 - The Fictional World of Moomins <i>(Muumit)</i>
 - The Ryijy Tapestry <i>(Ryijy)</i>
 - Authentic Musical Instrument: Kantele <i>(Kantele)</i>
@@ -98,6 +97,13 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - The Culture of Sami <i>(Saamelaiset / Sámit)</i>
   - Authentic Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
   - Authentic Garb: Beaska & Four Winds Hat <i>(Beaska & Neljäntuulenlakki / Muoddá & Čiehgahpir)</i>
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Independence Day of Finland <i>(Itsenäisyyspäivä)</i>. Time: December
+- The Laskiainen <i>(Laskiainen)</i>. Time: January to February
+- The Kalevala Day <i>(Kalevalan Päivä)</i>. Time: February
+
+
 
 <b>💐 National flower: </b> Lily-of-the-Valley <i>(Kielo)</i>
 
