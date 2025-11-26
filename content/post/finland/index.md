@@ -102,6 +102,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - The Independence Day of Finland <i>(Itsenäisyyspäivä)</i>. Time: December
 - The Laskiainen <i>(Laskiainen)</i>. Time: January to February
 - The Kalevala Day <i>(Kalevalan Päivä)</i>. Time: February
+- The Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Time: February
 
 
 
