@@ -106,6 +106,12 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - <u>Sarajevo (Regional Special):</u> Sarajevo Roses <i>(Sarajevske Ruže)</i>
 
 
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- Bosnian Independence Day <i>(Dan Nezavisnosti)</i>. Time: March
+- <u>Herzegovina-Neretva (Regional Special):</u> The Stari Most Diving Tradition <i>(Skokovi sa Starog mosta)</i>. Time: July
+
+
 <b>💐 National flower: </b> Bosnian Lily <i>(Bosanski Ljiljan)</i>
 
 

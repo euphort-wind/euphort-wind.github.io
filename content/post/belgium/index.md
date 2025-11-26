@@ -116,9 +116,13 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - <u>Brussels-Capital (Regional Special):</u> The Flower Carpet <i>(Tapis de Fleurs / Bloementapijt)</i>
 - <u>Flanders (Regional Special):</u> The Culture of Flemings <i>(Vlamingen)</i>
   - Flemish Baroque Painting <i>(Vlaamse Barokschilderkunst)</i>  
-  - The Carnival of Aalst <i>(Aalst Carnaval / Oilsjt Carnaval)</i> 
   - Bruges Lace <i>(Brugs Bloemwerk)</i>
   - Authentic Musical Instrument: Doedelzak <i>(Doedelzak)</i>
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- Belgian National Day <i>(Fête Nationale Belge / Nationale Feestdag van België)</i>. Time: July
+- <u>Flanders (Regional Special):</u> The Flemish Community Day <i>(Feestdag van de Vlaamse Gemeenschap)</i>. Time: July 
+- <u>Flanders (Regional Special):</u> The Carnival of Aalst <i>(Aalst Carnaval / Oilsjt Carnaval)</i>. Time: February or March
 
 
 <b>💐 National flower: </b> Red Poppy <i>(Coquelicot Rouge / Rode Klaproos)</i>

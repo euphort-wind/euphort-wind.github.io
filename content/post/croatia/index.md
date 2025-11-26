@@ -104,6 +104,12 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - <u>Zadar (Regional Special):</u> The Klapa Singing <i>(Klapa)</i>
 
 
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Unification Day <i>(Ден на Съединението)</i>. Time: September
+- Baba Marta Day <i>(Баба Марта)</i>. Time: March
+- The Day of Bulgarian Alphabet, Bulgarian Enlightenment and Culture <i>(Ден на Светите Братя Кирил и Методий, на Българската Азбука, Просвета и Култура и на Славянската Книжовност)</i>. Time: May
+
+
 <b>💐 National flower: </b> Croatian Iris <i>(Hrvatska Perunika)</i>
 
 
