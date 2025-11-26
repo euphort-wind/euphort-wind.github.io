@@ -66,10 +66,18 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
 
 
 <b>🪔 Authentic features:</b>
-- Ålandic Cargo Shipping <i>(Ålands Sjöfart)</i>
+- Ålandic Shipping <i>(Åländsk Sjöfart)</i>
 - Ålandic Ship Building <i>(Åländsk Skeppsbyggnad)</i>
-- Ålandic Harvest Festival <i>(Skördefesten)</i>
-- The Lilla Jul Celebration <i>(Lilla Jul)</i>
+- Ålandic Red Granite <i>(Ålands Röda Granit)</i>
+- Ålandic Postal System <i>(Åländska Postsystemet)</i>
+
+
+
+<b>🎊 Authentic holidays & celebrations: </b>
+- The Lilla Jul Celebration <i>(Lillajul)</i>. Time: November or December
+- Åland Harvest Festival <i>(Skördefesten)</i>. Time: September
+- Åland's Autonomy Day <i>(Ålands Självstyrelsedag)</i>. Time: June
+
 
 
 <b>💐 National flower: </b> Cowslip Primrose <i>(Gullviva)</i>
