@@ -125,9 +125,6 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - <u>South Aegean (Regional Special):</u> The Medieval Rose Festival <i>(Μεσαιωνικό Φεστιβάλ Ρόδου)</i>. Month: October 
 
 
-
-
-
 <b>💐 National flower: </b> Bear's Breech <i>(Άκανθος)</i>
 - <u>Crete (Regional Special):</u> Cretan Dittany <i>(Δίκταμο / Έρωντας)</i>
 
