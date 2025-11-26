@@ -103,10 +103,10 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Independence Day of Estonia <i>(Eesti Iseseisvuspäev)</i>. Time: February
-- The Estonian National Song Festival <i>(Eesti Üldlaulupidu)</i>. Time: July
-- The Jaanipäev <i>(Leedopäev)</i>. Time: June
-- <u>Võru (Regional Special):</u> Seto Kingdom Day <i>(Seto Kuningriigi Päev / Seto Kuningriik)</i>. Time: August
+- The Independence Day of Estonia <i>(Eesti Iseseisvuspäev)</i>. Month: February
+- The Estonian National Song Festival <i>(Eesti Üldlaulupidu)</i>. Month: July
+- The Jaanipäev <i>(Leedopäev)</i>. Month: June
+- <u>Võru (Regional Special):</u> Seto Kingdom Day <i>(Seto Kuningriigi Päev / Seto Kuningriik)</i>. Month: August
 
 
 <b>💐 National flower: </b> Blue Cornflower <i>(Rukkilill)</i>

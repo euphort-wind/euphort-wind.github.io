@@ -99,10 +99,10 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
   - Authentic Garb: Beaska & Four Winds Hat <i>(Beaska & Neljäntuulenlakki / Muoddá & Čiehgahpir)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Independence Day of Finland <i>(Itsenäisyyspäivä)</i>. Time: December
-- The Laskiainen <i>(Laskiainen)</i>. Time: January to February
-- The Kalevala Day <i>(Kalevalan Päivä)</i>. Time: February
-- The Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Time: February
+- The Independence Day of Finland <i>(Itsenäisyyspäivä)</i>. Month: December
+- The Laskiainen <i>(Laskiainen)</i>. Month: January to February
+- The Kalevala Day <i>(Kalevalan Päivä)</i>. Month: February
+- The Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Month: February
 
 
 

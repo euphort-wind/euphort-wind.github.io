@@ -151,10 +151,10 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - <u>Tbilisi-Capital (Regional Special):</u> Georgian Kisa Massage <i>(ქისა აბანო)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Independence Day of Georgia <i>(დამოუკიდებლობის დღე)</i>. Time: May
-- <u>Tbilisi-Capital (Regional Special):</u> The Tbilisoba Festival <i>(სვეტიცხოვლობა)</i>. Time: October
-- <u>Mtskheta-Mtianeti (Regional Special):</u> The Day of Svetitskhoveli Cathedral <i>(სვეტიცხოვლობა)</i>. Time: October
-- <u>Kakheti (Regional Special):</u> The Alaverdoba Festival <i>(ალავერდობა)</i>. Time: September
+- The Independence Day of Georgia <i>(დამოუკიდებლობის დღე)</i>. Month: May
+- <u>Tbilisi-Capital (Regional Special):</u> The Tbilisoba Festival <i>(სვეტიცხოვლობა)</i>. Month: October
+- <u>Mtskheta-Mtianeti (Regional Special):</u> The Day of Svetitskhoveli Cathedral <i>(სვეტიცხოვლობა)</i>. Month: October
+- <u>Kakheti (Regional Special):</u> The Alaverdoba Festival <i>(ალავერდობა)</i>. Month: September
 
 
 <b>💐 National flower: </b> [unofficially] Georgian Snow Rose <i>(კავკასიური როდოდენდრონი)</i>

@@ -109,8 +109,8 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Independence Day of Bosnia <i>(Dan Nezavisnosti)</i>. Time: March
-- The Statehood Day of Bosnia <i>(Dan Državnosti)</i>. Time: November
+- The Independence Day of Bosnia <i>(Dan Nezavisnosti)</i>. Month: March
+- The Statehood Day of Bosnia <i>(Dan Državnosti)</i>. Month: November
 
 
 <b>💐 National flower: </b> Bosnian Lily <i>(Bosanski Ljiljan)</i>

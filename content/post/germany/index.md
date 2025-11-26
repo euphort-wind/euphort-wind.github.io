@@ -191,7 +191,6 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - Authentic Principle: Weltschmerz <i>(Weltschmerz)</i>
 - Protestantism <i>(Protestantismus)</i>
 - The Allemande Dance <i>(Allemande)</i>
-- The Volkfests <i>(Volksfeste)</i>
 - The Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
 - The Ottonian Architecture <i>(Ottonische Architektur)</i>
 - The Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
@@ -204,14 +203,24 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - Authentic Garb: German Tracht <i>(Tracht)</i>
 - The Heritage of the Holy Roman Empire <i>(Heiliges Römisches Reich / Sacrum Imperium Romanum)</i>
 - The Heritage of Prussia <i>(Preußen / Prūsija)</i>
-- <u>Hessen (Regional Special):</u> The Museumsuferfest <i>(Museumsuferfest)</i>
 - <u>Hessen (Regional Special):</u> The Schwälmer Dance <i>(Schwälmer Tanz)</i>
 - <u>Hessen (Regional Special):</u> Authentic Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> German Wine Queen Competition <i>(Deutsche Weinkönigin)</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> The Westerwald Pottery <i>(Westerwälder Steinzeug)</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> Authentic Garb: Tugendpfeil <i>(Tugendpfeil)</i>
-- <u>North Rhine-Westphalia (Regional Special):</u> The Cologne Carnival <i>(Kölner Karneval)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Eau de Cologne Perfume <i>(Kölnisch Wasser)</i>
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The German Unity Day <i>(Tag der Deutschen Einheit)</i>. Month: October 
+- Rosenmontag <i>(Rosenmontag)</i>. Month: February or March
+- <u>Hessen (Regional Special):</u> The Lullusfest <i>(Lullusfest / Lullusfest)</i>. Month: October
+- <u>Hessen (Regional Special):</u> The Frankfurt Apple Wine Festival <i>(Apfelweinfestival / Ebbelwoifest)</i>. Month: August
+- <u>Rhineland-Palatinate (Regional Special):</u> The "Rhine in Flames" Festival <i>(Rhein in Flammen)</i>. Month: August
+- <u>Rhineland-Palatinate (Regional Special):</u> The Wurstmarkt <i>(Wurstmarkt)</i>. Month: September
+- <u>North Rhine-Westphalia (Regional Special):</u> The Cologne Carnival <i>(Kölner Karneval)</i>. Month: November
+- <u>North Rhine-Westphalia (Regional Special):</u> The Düsseldorf Carnival <i>(Düsseldorfer Karneval)</i>. Month: November  
+
 
 <b>💐 National flower: </b> Cornflower <i>(Kornblumen)</i>
 
