@@ -100,9 +100,18 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - The Sodai Straw Garden Making <i>(Šiaudinių Sodų Tradicija)</i>
 - The Sutartines Songs <i>(Sutartinės)</i>
+- Lithuanian Mythology <i>(Lietuvių Mitologija)</i>
 - Authentic Musical Instrument: Birbynė <i>(Birbynė)</i> 
 - The Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>
 - <u>Vilnius (Regional Special):</u> The Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Statehood Day of Lithuania <i>(Valstybės Diena)</i>. Month: July
+- The Užgavėnės Festival <i>(Rãsos)</i>. Month: February or March
+- The Kaziuko Mugė Festival <i>(Kaziuko Mugė)</i>. Month: March
+- The Lithuanian Song and Dance Festival <i>(Lietuvių Dainų ir Šokių Šventė)</i>. Month: June or July
+- The Saint Jonas's Festival <i>(Rãsos)</i>. Month: June 
 
 
 <b>💐 National flower: </b> Common Rue <i>(Žalioji Rūta)</i>
