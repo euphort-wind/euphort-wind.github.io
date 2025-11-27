@@ -194,15 +194,22 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - The Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
   - Dutch Golden Age Paintings <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
   - Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i>
+  - The Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
 - <u>Utrecht (Regional Special):</u> De Stijl Architecture <i>(De Stijl Architectuur)</i>
 - <u>South Holland (Regional Special):</u> Wall Poems in Leiden <i>(Muurgedichten in Leiden)</i>
 - <u>South Holland (Regional Special):</u> The Delftware <i>(Delfts Blauw)</i>
 - <u>Friesland (Regional Special):</u> The Culture of Frisians <i>(Friezen / Friezen)</i>
   - Authentic Principle: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
   - The Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
-  - The Skûtsjes <i>(Skûtsje / Skûtsje)</i>
+  - The Fierljeppen Sport <i>(Polsstokverspringen / Fierljeppen)</i> 
+  - The Skûtsjes Sailing Boats <i>(Skûtsje / Skûtsje)</i>
   - Authentic Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
  
+<b>🎊 Authentic holidays & celebrations:</b>
+- The King's Day <i>(Koningsdag)</i>. Month: April
+- The Sinterklaas Feast <i>(Sinterklaas)</i>. Month: December
+- <u>South Holland (Regional Special):</u> The 3 October Festival <i>(Leidens Ontzet)</i>. Month: October
+- <u>Friesland (Regional Special):</u> The Elfstedentocht Event <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February 
 
 
 <b>💐 National flower: </b> [historically] Tulip <i>(Tulp)</i> & [officially] Daisy <i>(Madeliefje)</i>

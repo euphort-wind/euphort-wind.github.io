@@ -123,11 +123,20 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - Norwegian Rose-Painting <i>(Rosemaling)</i>
 - Authentic Musical Instrument: Hardanger Fiddle <i>(Hardingfele)</i>
 - Authentic Garb: Bunad <i>(Bunad)</i>
-- The Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i> 
+- The Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i>
   - The Viking Runic Script <i>(Viking Runer)</i> 
+  - Norse Mythology <i>(Norrøn Mytologi)</i> 
   - Norse Paganism <i>(Norrøn Religion)</i> 
   - The Skaldic Poetry <i>(Skaldekvad)</i> 
   - The Viking Ship Construction <i>(Vikingskip)</i> 
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Constitution Day <i>(Syttende Mai)</i>. Month: May
+- The Russefeiring <i>(Russefeiring)</i>. Month: April to May
+- The Olsok <i>(Olsok)</i>. Month: July
+- <u>Vestland (Regional Special):</u> The Bergen International Festival <i>(Festspillene i Bergen)</i>. Month: May to June
+- <u>Vestfold (Regional Special):</u> The Midgard Viking Festival <i>(Midgard Vikingfestival)</i>. Month: July 
+- <u>Oslo-City (Regional Special):</u> The Oslo Medieval Festival <i>(Oslo Middelalderfestival)</i>. Month: May to June 
 
 
 <b>💐 National flower: </b> Pyramidal Saxifrage <i>(Bergfrue)</i>

@@ -104,13 +104,21 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 - The Għana Folk Singing <i>(Għana)</i>
 - The Luzzu Boats <i>(Luzzu)</i>
 - The Il-Passju Game <i>(Il-Passju)</i>
-- Maltese Village Festa <i>(Festa)</i>
 - Maltese Lace <i>(Bizzilla)</i>
 - Maltese Megalithic Temples <i>(Tempji Megalitiċi)</i>
 - Maltese Traditional Balconies <i>(Gallariji Tradizzjonali Maltin)</i>
 - Maltese Baroque Architecture <i>(Arkitettura Barokka f'Malta)</i>
+- Maltese Folklore <i>(Folklor Malti)</i>
 - Authentic Musical Instrument: Ċuqlajta <i>(Ċuqlajta)</i> 
 - The Heritage of the Hospitaller Malta <i>(Żmien il-Kavallieri / Status Monasticus Ordinis Sancti Ioannis Hierosolymitani)</i>
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Republic Day of Malta <i>(Jum ir-Repubblika)</i>. Month: December
+- The Independence Day of Malta <i>(Jum l-Indipendenza)</i>. Month: September
+- The Freedom Day of Malta <i>(Jum il-Helsien)</i>. Month: March
+- The Sette Giugno <i>(Sette Giugno)</i>. Month: June
+- The Maltese Village Festa <i>(Festa)</i>. Month: May to October
 
 
 <b>💐 National flower: </b> Maltese Centaury <i>(Widnet il-Baħar)</i>

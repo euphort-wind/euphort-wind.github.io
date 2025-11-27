@@ -87,7 +87,14 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
 - The Hopping Procession of Echternach <i>(D'Iechternacher Sprangpressessioun)</i>
 - The St. Hubert Hunting Horn Players of Luxembourg <i>(Haupeschbléiser)</i>
 - The Péckvillercher Whistles <i>(Péckvillercher)</i>
-- The Émaischen Festival <i>(Éimaischen)</i>
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Grand Duke's Official Birthday <i>(Groussherzogsgebuertsdag)</i>. Month: June
+- The Buergbrennen <i>(Buergbrennen)</i>. Month: February or March
+- The Émaischen <i>(Éimaischen)</i>. Month: March or April
+- <u>Luxembourg-City (Regional Special):</u> The Schueberfouer <i>(Schueberfouer)</i>. Month: August to September
+
 
 <b>💐 National flower: </b> Floribunda Rose <i>(Anne Beffort Rose)</i>
 
