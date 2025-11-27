@@ -89,14 +89,22 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 <b>🪔 Authentic features:</b>
 - Latvian Vernacular Architecture <i>(Latviešu Tautas Arhitektūra)</i> 
 - The Daina Music <i>(Dainas)</i> 
-- Latvian Christmas Eve Celebration <i>(Ziemassvētku Vakars)</i> 
+- The Latvian Mythology <i>(Latviešu Mitoloģija)</i> 
 - Authentic Musical Instrument: Kokle <i>(Kokle)</i> 
 - Authentic Garb: Latvian Belt <i>(Lielvārdes Josta)</i> 
 - The Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
 - The Culture of Latgalians <i>(Latgalieši / Latgalīši)</i> 
 - The Heritage of the Livonian Confederation <i>(Livonijas Konfederācija / Terra Mariana)</i>
-- <u>Jurmala-City (Regional Special):</u> Jurmala Festivals <i>(Jūrmalas Festivāli)</i>
 - <u>Riga-Capital (Regional Special):</u> Riga Art Nouveau Architecture <i>(Jūgendstila Arhitektūra Rīgā)</i>
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Independence Day of Latvia <i>(Latvijas Republikas Proklamēšanas Diena)</i>. Month: November
+- The Latvian Song and Dance Festival <i>(VispāRēJie Latviešu Dziesmu un Deju SvēTki)</i>. Month: June to July
+- The Līgo <i>(Līgo)</i>. Month: June
+- The Jāņi <i>(Jāņi)</i>. Month: June
+- The Miķeļi <i>(Miķeļdiena)</i>. Month: September
+- The Mārtiņi <i>(Mārtiņdiena)</i>. Month: November
+- The Meteņi <i>(Meteņdienu)</i>. Month: February or March
 
 
 <b>💐 National flower: </b> Ox-eye Daisy <i>(Parastā Pīpene)</i>

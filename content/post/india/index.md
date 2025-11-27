@@ -111,6 +111,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - The Bharatanatyam Dance <i>(भरतनाट्यम)</i>
 - The Nagara Architecture <i>(नागर शैली)</i>
 - The Indo-Saracenic Architecture <i>(इंडो-सारासेनिक वास्तुकला)</i>
+- Indian Folklore <i>(भारतीय लोकवार्ता)</i>
 - Indian Cars <i>(Brand: "Mahindra")</i>
 - Authentic Musical Instrument: Saraswati Veena <i>(सरस्वती वीणा)</i>
 - Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
@@ -120,6 +121,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - <u>Karnataka (Regional Special):</u> The Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
   - <u>Karnataka (Regional Special):</u> The Dasa Sahitya Literature <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
   - <u>Karnataka (Regional Special):</u> The Kambala Buffalo Race <i>(कंबाला / ಕಂಬಳ)</i>
+  - <u>Karnataka (Regional Special):</u> The Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
   - <u>Karnataka (Regional Special):</u> Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
 - <u>Karnataka (Regional Special):</u> The Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i>
 - <u>Goa (Regional Special):</u> The Culture of Goans <i>(गोवा / गोंयकार)</i>

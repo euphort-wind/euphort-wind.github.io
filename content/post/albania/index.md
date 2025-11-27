@@ -88,9 +88,10 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - Authentic Principle: Besa <i>(Besa)</i>
 - The System of Albanian Tribes <i>(Fiset Shqiptare)</i>
 - Bektashism <i>(Bektashi)</i>
-- Albanaian Iso-Polyphony <i>(Iso-Polifonia Shqiptare)</i>
-- The Shota Dance <i>(Shotë)</i>
+- Albanian Iso-Polyphony <i>(Iso-Polifonia Shqiptare)</i>
+- Albanian Folklore <i>(Folklori Shqiptar)</i>
 - The Legend of Skanderbeg <i>(Trashëgimia e Skënderbeut)</i>
+- The Shota Dance <i>(Shotë)</i>
 - Albanian Bunkers <i>(Bunkerët)</i>
 - Authentic Musical Instrument: Çifteli <i>(Çiftelia)</i>
 - Authentic Garb: Xhubleta and Xhamadan <i>(Xhubleta dhe Xhamadan)</i> 

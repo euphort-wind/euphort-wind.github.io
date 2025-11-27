@@ -269,6 +269,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - The Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i> 
 - The Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
 - The Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
+  - Ancient Roman Mythology <i>(Mitologia Romana Antica)</i>
   - Ancient Roman Architecture <i>(Architettura Romana Antica)</i>
   - Ancient Roman Sculpture <i>(Scultura Romana Antica)</i>
   - Ancient Roman Roads <i>(Antiche Strade Romane)</i> 

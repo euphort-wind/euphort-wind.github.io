@@ -108,8 +108,9 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Belgitude <i>(Belgitude / Belgitude)</i>
-- The Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
+- Belgian Folklore <i>(Folklore Belge / Belgische Folklore)</i>
 - Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
+- The Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
 - The Friterie Culture <i>(Frituur / Frietkot)</i>
 - The Brabantine Gothic Architecture <i>(Gothique Brabançon / Brabantse Gotiek)</i>
 - Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>

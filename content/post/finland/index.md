@@ -90,6 +90,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Sisu <i>(Sisu)</i>
 - Finnish Sauna <i>(Saunakulttuuri)</i>
+- Finnish Mythology <i>(Suomalainen Mytologia)</i> 
 - The Fictional World of Moomins <i>(Muumit)</i>
 - The Ryijy Tapestry <i>(Ryijy)</i>
 - Authentic Musical Instrument: Kantele <i>(Kantele)</i>

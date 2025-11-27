@@ -77,6 +77,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - The Culture of Copts <i>(أقباط / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>
 - The Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
   - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
+  - Ancient Egyptian Mythology <i>(اساطير مصريه)</i>
   - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
   - Ancient Egyptian Religion <i>(ديانة قدماء المصريين)</i>
   - Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة)</i>

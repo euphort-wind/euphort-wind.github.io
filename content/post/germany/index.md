@@ -197,6 +197,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
 - German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas", etc.)</i> 
 - German Philosophy <i>(Deutsche Philosophie)</i> 
+- German Folklore <i>(Deutsche Folklore)</i>
 - German Fairy Tales <i>(Deutsche Märchen)</i>
 - German Cuckoo Clock <i>(Kuckucksuhr)</i>
 - Authentic Musical Instrument: Zither <i>(Zither)</i>

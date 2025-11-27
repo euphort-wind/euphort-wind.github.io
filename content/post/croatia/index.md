@@ -93,6 +93,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - Authentic Principle: Fjaka <i>(Fjaka)</i>
 - The Ojkanje Singing <i>(Ojkanje)</i>
 - The Story of Klepetan and Malena <i>(Klepetan i Malena)</i>
+- Croatian Folklore <i>(Hrvatski Folklor)</i>
 - The Zvončari Costume <i>(Zvončari)</i>  
 - The Angular Glagolitic Script <i>(Hrvatska Glagoljica)</i>
 - Croatian Lace <i>(Čipkarstvo u Hrvatskoj)</i>

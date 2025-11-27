@@ -100,6 +100,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - Czech Beer Culture <i>(Pivní Kultura)</i>
 - Czech Puppetry <i>(České Loutkářství)</i>
 - Czech Cars <i>(Brand: "Škoda")</i>
+- Czech Folklore <i>(Český Folklór)</i>
 - Czech Gothic Architecture <i>(Česká Gotická Architektura)</i>
 - Authentic Musical Instrument: Bohemian Harp <i>(Harfa)</i>
 - Authentic Garb: Czech Kroj <i>(Kroje)</i>

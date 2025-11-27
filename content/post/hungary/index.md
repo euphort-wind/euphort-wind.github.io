@@ -125,6 +125,8 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 - Authentic Musical Instrument: Cimbalom <i>(Cimbalom)</i>
 - Authentic Garb: Bocskai Coat & Attila <i>(Bocskai Öltöny & Atilla)</i>
 - The Heritage of the Kingdom of Hungary <i>(Magyar Királyság / Regnum Hungariae)</i>
+  - Old Hungarian Mythology <i>(Ősmagyar Mitológia)</i>
+  - Old Hungarian Religion <i>(Ősmagyar Vallás)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
