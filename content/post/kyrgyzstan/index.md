@@ -101,6 +101,10 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - <u>Issyk-Kul (Regional Special):</u> The Petroglyphs of Issyk-Kul <i>(Ысык-Көлдүн Петроглифтери)</i>
 
 
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Independence Day of Kyrgyzstan <i>(Кыргыз Республикасынын көз Карандысыздыгынын Күнү)</i>. Month: August
+- The Salbuurun Festival <i>(Салбуурун Фестивалы)</i>. Month: August
+
 <b>💐 National flower: </b> Fritillaria Eduardii <i>(Aйгуль)</i>
 
 

@@ -127,6 +127,12 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 - The Heritage of the Kingdom of Hungary <i>(Magyar Királyság / Regnum Hungariae)</i>
 
 
+<b>🎊 Authentic holidays & celebrations:</b>
+- The 1848 Memorial Day <i>(1848-as Forradalom Ünnepe)</i>. Month: March
+- <u>Central Transdanubia (Regional Special):</u> The Royal Days Festival <i>(Királyi Napok)</i>. Month: August
+- <u>Central Transdanubia (Regional Special):</u> The Belle of the Anna-ball <i>(Anna-Bál)</i>. Month: July
+
+
 
 <b>💐 National flower: </b> Hungarian Tulip <i>(Magyar Tulipán)</i>
 

@@ -105,7 +105,6 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Buddhism <i>(बौद्ध धर्म)</i>
 - The Yoga Practices <i>(योग)</i>
 - The Devanagari Script <i>(देवनागरी)</i>
-- The Holi Festival <i>(होली)</i>
 - The Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
 - The Madhubani Art <i>(मधुबनी चित्रकला)</i>
 - The Kalamkari Art <i>(कलमकारी)</i>
@@ -117,13 +116,31 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
 - The Heritage of the Maratha Empire <i>(मराठा साम्राज्य)</i>
 - <u>Karnataka (Regional Special):</u> The Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
+  - <u>Karnataka (Regional Special):</u> The Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
   - <u>Karnataka (Regional Special):</u> The Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
   - <u>Karnataka (Regional Special):</u> The Dasa Sahitya Literature <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
+  - <u>Karnataka (Regional Special):</u> The Kambala Buffalo Race <i>(कंबाला / ಕಂಬಳ)</i>
   - <u>Karnataka (Regional Special):</u> Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
 - <u>Karnataka (Regional Special):</u> The Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i>
 - <u>Goa (Regional Special):</u> The Culture of Goans <i>(गोवा / गोंयकार)</i>
-  - <u>Goa (Regional Special):</u> Goa Carnivals <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>
   - <u>Goa (Regional Special):</u> Authentic Musical Instrument: Ghumot <i>(घुमोट / घुमट)</i>
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Republic Day of India <i>(गणतन्त्र दिवस)</i>. Month: January
+- The Holi Festival <i>(होली)</i>. Month: February or March
+- The Gandhi Jayanti <i>(गांधी जयंती)</i>. Month: October
+- The Mahavira Janma Kalyanaka <i>(महावीर जन्म कल्याणक)</i>. Month: March or April
+- The Vijayadashami <i>(दशहरा)</i>. Month: September or October
+- The Diwali <i>(दीपावली)</i>. Month: October or November
+- The Makara Sankrānti <i>(मकर संक्रान्ति)</i>. Month: January
+- The Maha Shivaratri <i>(महाशिवरात्रि)</i>. Month: February or March
+- The Rama Navami <i>(राम नवमी)</i>. Month: March or April
+- <u>Karnataka (Regional Special):</u> The Karnataka Rajyotsava <i>(कर्नाटक राज्य दिवस / ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ)</i>. Month: November
+- <u>Karnataka (Regional Special):</u> The Yugādi <i>(उगादि / ಯುಗಾದಿ)</i>. Month: March
+- <u>Goa (Regional Special):</u> The Goan Carnival <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>. Month: February or March
+- <u>Goa (Regional Special):</u> The Shigmo <i>(शिग्मो / शिगमो)</i>. Month: February or March
+
 
 
 <b>💐 National flower: </b> Indian Lotus <i>(कमल)</i>

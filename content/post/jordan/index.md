@@ -70,6 +70,12 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - The Legacy of Nabataeans <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i>  
 
 
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Independence Day of Jordan <i>(الاستقلال)</i>. Month: May
+- <u>Ma'an (Regional Special):</u> The Petra Cultural Festival <i>(مهرجان البترا الثقافي)</i>. Month: October
+
+
+
 <b>💐 National flower: </b> Black Iris <i>(السوسنة السوداء)</i>
 
 

@@ -277,7 +277,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i> 
-- <u>Tuscany (Regional Special):</u> Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i> 
+- <u>Tuscany (Regional Special):</u> Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i>
+- <u>Tuscany (Regional Special):</u> The Scoppio del Carro Easter Tradition <i>(Scoppio del Carro)</i> 
 - <u>Tuscany (Regional Special):</u> The Medici Porcelain <i>(Porcellane Medicee)</i>
 - <u>Emilia-Romagna (Regional Special):</u> The Liscio Dance <i>(Ballo Liscio)</i> 
 - <u>Emilia-Romagna (Regional Special):</u> The Porticoes of Bologna <i>(Portici di Bologna)</i>
@@ -300,6 +301,14 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - <u>Campania (Regional Special):</u> The Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
   - <u>Campania (Regional Special):</u> The Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
 
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Republic Day of Italy <i>(Festa della Repubblica Italiana)</i>. Month: June
+- The Ferragosto <i>(Ferragosto)</i>. Month: August
+- <u>Lazio (Regional Special):</u> The Natale di Roma <i>(Natale di Roma)</i>. Month: April
+- <u>Emilia-Romagna (Regional Special):</u> The Palio of Ferrara <i>(Palio di Ferrara)</i>. Month: May
+- <u>Tuscany (Regional Special):</u> The Carnival of Viareggio <i>(Carnevale di Viareggio)</i>. Month: February or March
+- <u>Sicily (Regional Special):</u>  The Festival of Saint Agatha <i>(La Festa di Sant'agata / A Fest' 'i Sant'àjita)</i>. Month: February and August
+- <u>Campania (Regional Special):</u> The Feast of San Gennaro <i>(La Festa di San Gennaro / Juorno 'e San Gennaro)</i>. Month: September
 
 
 <b>💐 National flower: </b> Flower of the Strawberry Tree <i>(Fiore del Corbezzolo)</i>
