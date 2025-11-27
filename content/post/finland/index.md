@@ -88,11 +88,11 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Sisu <i>(Sisu)</i>
+- Authentic Principle: Sisu <i>(Sisu)</i> 
 - Finnish Sauna <i>(Saunakulttuuri)</i>
-- Finnish Mythology <i>(Suomalainen Mytologia)</i> 
 - The Fictional World of Moomins <i>(Muumit)</i>
 - The Ryijy Tapestry <i>(Ryijy)</i>
+- Finnish Mythology <i>(Suomalainen Mytologia)</i>
 - Authentic Musical Instrument: Kantele <i>(Kantele)</i>
 - Authentic Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
 - The Culture of Sami <i>(Saamelaiset / Sámit)</i>

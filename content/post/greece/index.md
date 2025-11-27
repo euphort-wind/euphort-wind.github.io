@@ -100,8 +100,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - The Sirtaki Dance <i>(Σιρτάκη)</i>
 - Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
 - The Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
-  - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
   - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
+  - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
   - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
   - Ancient Greek Philosophy <i>(Αρχαία Ελληνική Φιλοσοφία)</i>
   - Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>

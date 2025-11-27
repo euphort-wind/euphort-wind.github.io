@@ -95,7 +95,8 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - The Baige Horse Race <i>(Бәйге)</i> 
 - The Assyk Game <i>(Асық)</i> 
 - Kazakh Ornaments <i>(Қазақтың Ұлттық Ою-өрнегі)</i> 
-- Kazakh Wrestling <i>(Қазақша Күресі)</i> 
+- Kazakh Wrestling <i>(Қазақша Күресі)</i>
+- Kazakh Folklore <i>(Қазақ Фольклоры)</i>  
 - Authentic Musical Instrument: Dombra <i>(Домбыра)</i>
 - Authentic Garb: Shapan & Borik <i>(Шапан пен Бөрік)</i> 
 - The Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق خاندیغی)</i> 

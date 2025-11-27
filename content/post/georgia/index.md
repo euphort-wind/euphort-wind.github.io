@@ -140,6 +140,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - The Berikaoba Theater <i>(ბერიკაობა)</i>
 - The Chidaoba Wrestling <i>(ჩიდაობა)</i>
 - Georgian Polyphonic Singing <i>(ქართული მრავალხმიანობა)</i>
+- Georgian Mythology <i>(ქართული მითოლოგია)</i> 
 - Authentic Musical Instrument: Panduri <i>(ფანდური)</i>
 - Authentic Garb: Chokha & Kabalakhi <i>(ჩოხა & ყაბალახი)</i>
 - The Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>

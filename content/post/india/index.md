@@ -125,6 +125,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - <u>Karnataka (Regional Special):</u> Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
 - <u>Karnataka (Regional Special):</u> The Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i>
 - <u>Goa (Regional Special):</u> The Culture of Goans <i>(गोवा / गोंयकार)</i>
+  - <u>Goa (Regional Special):</u> The Fugdi Dance <i>(फुगडी / फुगडी)</i>
+  - <u>Goa (Regional Special):</u> Authentic Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
   - <u>Goa (Regional Special):</u> Authentic Musical Instrument: Ghumot <i>(घुमोट / घुमट)</i>
 
 

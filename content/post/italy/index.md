@@ -264,6 +264,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - The Maiolica Pottery <i>(Maiolica)</i> 
 - Italian Neoclassical Architecture <i>(Architettura Neoclassica Italiana)</i> 
 - Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
+- Italian Folklore <i>(Folclore d'Italia)</i> 
 - Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>
 - Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
 - The Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i> 

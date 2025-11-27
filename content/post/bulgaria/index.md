@@ -139,6 +139,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - The Anastenaria Ritual <i>(Нестинарство)</i>
 - The Shevitsa Embroidery <i>(Шевица)</i>
 - Bulgarian Revival Architecture <i>(Възрожденска Архитектура)</i>
+- Bulgarian Mythology <i>(Българската Митология)</i>
 - Authentic Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
 - Authentic Garb: Bulgarian Nosiya <i>(Носия)</i>
 - The Legacy of Thracians <i>(Траки / Θρᾷκες)</i>

@@ -94,9 +94,9 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 
 <b>🪔 Authentic features:</b>
 - The Kiiking <i>(Kiiking)</i>
+- Estonian E-Government <i>(E-Riik)</i>
 - Estonian Mythology <i>(Eesti Mütoloogia)</i>
 - The Epic of Kalevipoeg <i>(Kalevipoeg: Eesti Rahva Eepos)</i>
-- The E-Government <i>(E-Riik)</i>
 - Authentic Musical Instrument: Kannel <i>(Kannel)</i>
 - <u>Võru (Regional Special):</u> The Culture of Setos <i>(Setukesed / Setokõsõq)</i>
   - <u>Võru (Regional Special):</u> Seto Polyphonic Singing <i>(Seto Leelo / Seto Leelo)</i>

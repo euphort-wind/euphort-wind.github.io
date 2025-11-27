@@ -189,17 +189,17 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Weltschmerz <i>(Weltschmerz)</i>
+- German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas", etc.)</i> 
+- German Philosophy <i>(Deutsche Philosophie)</i> 
 - Protestantism <i>(Protestantismus)</i>
 - The Allemande Dance <i>(Allemande)</i>
 - The Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
 - The Ottonian Architecture <i>(Ottonische Architektur)</i>
 - The Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
-- German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
-- German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas", etc.)</i> 
-- German Philosophy <i>(Deutsche Philosophie)</i> 
+- German Cuckoo Clock <i>(Kuckucksuhr)</i>
 - German Folklore <i>(Deutsche Folklore)</i>
 - German Fairy Tales <i>(Deutsche Märchen)</i>
-- German Cuckoo Clock <i>(Kuckucksuhr)</i>
+- German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
 - Authentic Musical Instrument: Zither <i>(Zither)</i>
 - Authentic Garb: German Tracht <i>(Tracht)</i>
 - The Heritage of the Holy Roman Empire <i>(Heiliges Römisches Reich / Sacrum Imperium Romanum)</i>
