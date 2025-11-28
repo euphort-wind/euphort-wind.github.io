@@ -212,14 +212,14 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The German Unity Day <i>(Tag der Deutschen Einheit)</i>. Month: October 
+- German Unity Day <i>(Tag der Deutschen Einheit)</i>. Month: October 
 - Rosenmontag <i>(Rosenmontag)</i>. Month: February or March
-- <u>Hessen (Regional Special):</u> The Lullusfest <i>(Lullusfest / Lullusfest)</i>. Month: October
-- <u>Hessen (Regional Special):</u> The Frankfurt Apple Wine Festival <i>(Apfelweinfestival / Ebbelwoifest)</i>. Month: August
-- <u>Rhineland-Palatinate (Regional Special):</u> The "Rhine in Flames" Festival <i>(Rhein in Flammen)</i>. Month: August
-- <u>Rhineland-Palatinate (Regional Special):</u> The Wurstmarkt <i>(Wurstmarkt)</i>. Month: September
-- <u>North Rhine-Westphalia (Regional Special):</u> The Cologne Carnival <i>(Kölner Karneval)</i>. Month: November
-- <u>North Rhine-Westphalia (Regional Special):</u> The Düsseldorf Carnival <i>(Düsseldorfer Karneval)</i>. Month: November  
+- <u>Hessen (Regional Special):</u> Lullusfest <i>(Lullusfest / Lullusfest)</i>. Month: October
+- <u>Hessen (Regional Special):</u> Frankfurt Apple Wine Festival <i>(Apfelweinfestival / Ebbelwoifest)</i>. Month: August
+- <u>Rhineland-Palatinate (Regional Special):</u> "Rhine in Flames" Festival <i>(Rhein in Flammen)</i>. Month: August
+- <u>Rhineland-Palatinate (Regional Special):</u> Wurstmarkt <i>(Wurstmarkt)</i>. Month: September
+- <u>North Rhine-Westphalia (Regional Special):</u> Cologne Carnival <i>(Kölner Karneval)</i>. Month: November
+- <u>North Rhine-Westphalia (Regional Special):</u> Düsseldorf Carnival <i>(Düsseldorfer Karneval)</i>. Month: November  
 
 
 <b>💐 National flower: </b> Cornflower <i>(Kornblumen)</i>

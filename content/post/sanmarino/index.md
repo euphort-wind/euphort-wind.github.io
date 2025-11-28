@@ -71,8 +71,8 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Feast of Saint Marinus and the Republic <i>(La festa di San Marino e della fondazione della Repubblica)</i>. Month: September
-- The Arengo Anniversary <i>(Anniversario dell'Arengo del 1906)</i>. Month: March 
+- Feast of Saint Marinus and the Republic <i>(La festa di San Marino e della fondazione della Repubblica)</i>. Month: September
+- Arengo Anniversary <i>(Anniversario dell'Arengo del 1906)</i>. Month: March 
 
 
 

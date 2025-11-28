@@ -148,10 +148,10 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Unification Day of Bulgaria <i>(Ден на Съединението)</i>. Month: September
+- Unification Day of Bulgaria <i>(Ден на Съединението)</i>. Month: September
 - Baba Marta Day <i>(Баба Марта)</i>. Month: March
-- The Rose Festival <i>(Празник на Розата)</i>. Month: May to June
-- The Day of Bulgarian Alphabet, Bulgarian Enlightenment and Culture <i>(Ден на Светите Братя Кирил и Методий, на Българската Азбука, Просвета и Култура и на Славянската Книжовност)</i>. Month: May
+- Bulgarian Rose Festival <i>(Празник на Розата)</i>. Month: May to June
+- Day of Bulgarian Alphabet, Bulgarian Enlightenment and Culture <i>(Ден на Светите Братя Кирил и Методий, на Българската Азбука, Просвета и Култура и на Славянската Книжовност)</i>. Month: May
 
 
 

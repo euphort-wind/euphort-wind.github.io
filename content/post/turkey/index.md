@@ -145,9 +145,9 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Republic Day of Türkiye <i>(Cumhuriyet Bayramı)</i>. Month: October 
-- The Hıdırellez <i>(Hıdrellez)</i>. Month: May
-- The National Sovereignty and Children's Day <i>(Ulusal Egemenlik ve Çocuk Bayramı)</i>. Month: April
+- Republic Day of Türkiye <i>(Cumhuriyet Bayramı)</i>. Month: October 
+- Hıdırellez <i>(Hıdrellez)</i>. Month: May
+- National Sovereignty and Children's Day <i>(Ulusal Egemenlik ve Çocuk Bayramı)</i>. Month: April
 
 
 

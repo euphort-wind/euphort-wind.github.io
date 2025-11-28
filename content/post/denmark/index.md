@@ -110,8 +110,8 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Danish Constitution Day <i>(Grundlovsdag)</i>. Month: June
-- The Fastelavn Carnival <i>(Fastelavn)</i>. Month: February or March
+- Danish Constitution Day <i>(Grundlovsdag)</i>. Month: June
+- Fastelavn Carnival <i>(Fastelavn)</i>. Month: February or March
 
 
 <b>💐 National flower: </b> Marguerite Daisy <i>(Margerit)</i>

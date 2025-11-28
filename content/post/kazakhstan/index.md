@@ -103,9 +103,9 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Republic Day of Kazakhstan <i>(Республика Күні)</i>. Month: October
-- The Kazakhstan People's Unity Day <i>(Қазақстан Халқының Бірлігі Мерекесі)</i>. Month: May
-- The Astana Day <i>(Астана Күні)</i>. Month: July
+- Republic Day of Kazakhstan <i>(Республика Күні)</i>. Month: October
+- Kazakhstan People's Unity Day <i>(Қазақстан Халқының Бірлігі Мерекесі)</i>. Month: May
+- Astana Day <i>(Астана Күні)</i>. Month: July
 
 
 <b>💐 National flower: </b> White Water Lily <i>(Ақ Тұңғиық)</i>

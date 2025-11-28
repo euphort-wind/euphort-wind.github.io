@@ -109,10 +109,10 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The National Day of Spain <i>(Fiesta Nacional de España)</i>. Month: October
-- The Constitution Day of Spain <i>(Dia de la Constitucion Espanola)</i>. Month: December
+- National Day of Spain <i>(Fiesta Nacional de España)</i>. Month: October
+- Constitution Day of Spain <i>(Dia de la Constitucion Espanola)</i>. Month: December
 - La Tomatina <i>(La Tomatina)</i>. Month: August
-- <u>Catalonia (Regional Special):</u> The National Day of Catalonia <i>(Día de Cataluña / Diada Nacional de Catalunya)</i>. Month: September
+- <u>Catalonia (Regional Special):</u> National Day of Catalonia <i>(Día de Cataluña / Diada Nacional de Catalunya)</i>. Month: September
 - <u>Catalonia (Regional Special):</u> La Mercè <i>(Fiestas de la Merced / La Mercè)</i>. Month: September
 
 

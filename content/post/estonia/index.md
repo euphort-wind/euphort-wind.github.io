@@ -104,9 +104,9 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Independence Day of Estonia <i>(Eesti Iseseisvuspäev)</i>. Month: February
-- The Estonian National Song Festival <i>(Eesti Üldlaulupidu)</i>. Month: July
-- The Jaanipäev <i>(Leedopäev)</i>. Month: June
+- Independence Day of Estonia <i>(Eesti Iseseisvuspäev)</i>. Month: February
+- Estonian National Song Festival <i>(Eesti Üldlaulupidu)</i>. Month: July
+- Jaanipäev <i>(Leedopäev)</i>. Month: June
 - <u>Võru (Regional Special):</u> Seto Kingdom Day <i>(Seto Kuningriigi Päev / Seto Kuningriik)</i>. Month: August
 
 

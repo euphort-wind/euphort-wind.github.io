@@ -109,9 +109,9 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - <u>Central Bohemia (Regional Special):</u> Bohemian Glass <i>(České Sklo)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Statehood Day of Czechia <i>(Den České Státnosti)</i>. Month: September
-- The Jan Hus Day <i>(Den Upálení Mistra Jana Husa)</i>. Month: July
-- The Masopust Carnival <i>(Masopust)</i>. Month: February to March
+- Statehood Day of Czechia <i>(Den České Státnosti)</i>. Month: September
+- Jan Hus Day <i>(Den Upálení Mistra Jana Husa)</i>. Month: July
+- Masopust Carnival <i>(Masopust)</i>. Month: February to March
 
 
 <b>💐 National flower: </b> Wrinkled Rose <i>(Růže Svraskalá)</i>

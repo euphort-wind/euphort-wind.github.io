@@ -80,11 +80,11 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The National Day of Thailand <i>(วันชาติ)</i>. Month: December
-- The Songkran Festival <i>(เทศกาลสงกรานต์)</i>. Month: April
-- The Loy Krathong <i>(ลอยกระทง)</i>. Month: November
-- The Chakri Memorial Day <i>(วันจักรี)</i>. Month: April
-- The Magha Puja <i>(วันมาฆบูชา)</i>. Month: February
+- National Day of Thailand <i>(วันชาติ)</i>. Month: December
+- Songkran Festival <i>(เทศกาลสงกรานต์)</i>. Month: April
+- Loy Krathong <i>(ลอยกระทง)</i>. Month: November
+- Chakri Memorial Day <i>(วันจักรี)</i>. Month: April
+- Magha Puja <i>(วันมาฆบูชา)</i>. Month: February
 
 
 

@@ -103,10 +103,10 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Statehood Day of Slovenia <i>(Dan Državnosti)</i>. Month: June 
-- The Kurentovanje Carnival <i>(Kurentovanje)</i>. Month: February or March
-- The Prešeren Day <i>(Prešernov Dan)</i>. Month: February
-- The Maritime Day <i>(Dan Pomorstva)</i>. Month: March
+- Statehood Day of Slovenia <i>(Dan Državnosti)</i>. Month: June 
+- Kurentovanje Carnival <i>(Kurentovanje)</i>. Month: February or March
+- Prešeren Day <i>(Prešernov Dan)</i>. Month: February
+- Maritime Day <i>(Dan Pomorstva)</i>. Month: March
 
 
 <b>💐 National flower: </b> Red Carnation <i>(Rdeči Nagelj)</i>

@@ -113,9 +113,9 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Republic Day of North Macedonia <i>(Ден на Републиката)</i>. Month: August
-- The Galičnik Wedding Festival <i>(Галичка Свадба)</i>. Month: July
-- The Aromanian National Day <i>(Националниот ден на Власите / Dzua Natsionalã a Armãnjilor)</i>. Month: May
+- Republic Day of North Macedonia <i>(Ден на Републиката)</i>. Month: August
+- Galičnik Wedding Festival <i>(Галичка Свадба)</i>. Month: July
+- Aromanian National Day <i>(Националниот ден на Власите / Dzua Natsionalã a Armãnjilor)</i>. Month: May
 - <u>Pelagonia (Regional Special):</u> Ilinden Days Festival <i>(Илинденски Денови)</i>. Month: July to August
 
 <b>💐 National flower: </b> Breadseed Poppy <i>(Афион)</i>

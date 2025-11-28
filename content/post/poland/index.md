@@ -111,11 +111,11 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Independence Day of Poland <i>(Narodowe Święto Niepodległości)</i>. Month: November
-- The Third May Constitution Day <i>(Święto Konstytucji 3 Maja)</i>. Month: May
-- The Dożynki <i>(Dożynki)</i>. Month: August
-- The Wigilia <i>(Wigilia Bożego Narodzenia)</i>. Month: December
-- <u>Pomeranian (Regional Special):</u> The Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March 
+- Independence Day of Poland <i>(Narodowe Święto Niepodległości)</i>. Month: November
+- Third May Constitution Day <i>(Święto Konstytucji 3 Maja)</i>. Month: May
+- Dożynki <i>(Dożynki)</i>. Month: August
+- Wigilia <i>(Wigilia Bożego Narodzenia)</i>. Month: December
+- <u>Pomeranian (Regional Special):</u> Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March 
 
 
 <b>💐 National flower: </b> Red Poppy <i>(Mak Polny)</i>

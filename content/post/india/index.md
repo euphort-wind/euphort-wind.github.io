@@ -131,19 +131,19 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Republic Day of India <i>(गणतन्त्र दिवस)</i>. Month: January
-- The Holi Festival <i>(होली)</i>. Month: February or March
-- The Gandhi Jayanti <i>(गांधी जयंती)</i>. Month: October
-- The Mahavira Janma Kalyanaka <i>(महावीर जन्म कल्याणक)</i>. Month: March or April
-- The Vijayadashami <i>(दशहरा)</i>. Month: September or October
-- The Diwali <i>(दीपावली)</i>. Month: October or November
-- The Makara Sankrānti <i>(मकर संक्रान्ति)</i>. Month: January
-- The Maha Shivaratri <i>(महाशिवरात्रि)</i>. Month: February or March
-- The Rama Navami <i>(राम नवमी)</i>. Month: March or April
-- <u>Karnataka (Regional Special):</u> The Karnataka Rajyotsava <i>(कर्नाटक राज्य दिवस / ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ)</i>. Month: November
-- <u>Karnataka (Regional Special):</u> The Yugādi <i>(उगादि / ಯುಗಾದಿ)</i>. Month: March
-- <u>Goa (Regional Special):</u> The Goan Carnival <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>. Month: February or March
-- <u>Goa (Regional Special):</u> The Shigmo <i>(शिग्मो / शिगमो)</i>. Month: February or March
+- Republic Day of India <i>(गणतन्त्र दिवस)</i>. Month: January
+- Holi Festival <i>(होली)</i>. Month: February or March
+- Gandhi Jayanti <i>(गांधी जयंती)</i>. Month: October
+- Mahavira Janma Kalyanaka <i>(महावीर जन्म कल्याणक)</i>. Month: March or April
+- Vijayadashami <i>(दशहरा)</i>. Month: September or October
+- Diwali <i>(दीपावली)</i>. Month: October or November
+- Makara Sankrānti <i>(मकर संक्रान्ति)</i>. Month: January
+- Maha Shivaratri <i>(महाशिवरात्रि)</i>. Month: February or March
+- Rama Navami <i>(राम नवमी)</i>. Month: March or April
+- <u>Karnataka (Regional Special):</u> Karnataka Rajyotsava <i>(कर्नाटक राज्य दिवस / ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ)</i>. Month: November
+- <u>Karnataka (Regional Special):</u> Yugādi <i>(उगादि / ಯುಗಾದಿ)</i>. Month: March
+- <u>Goa (Regional Special):</u> Goan Carnival <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>. Month: February or March
+- <u>Goa (Regional Special):</u> Shigmo <i>(शिग्मो / शिगमो)</i>. Month: February or March
 
 
 

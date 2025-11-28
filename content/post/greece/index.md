@@ -119,11 +119,11 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Independence Day of Greece <i>(Εορτασμός της Ελληνικής Επανάστασης του 1821)</i>. Month: March
-- The Tsiknopempti <i>(Τσικνοπέμπτη)</i>. Month: February or March
-- The Ohi Day <i>(Επέτειος του Όχι)</i>. Month: October
-- <u>Crete (Regional Special):</u> The Cretan Diet Festival <i>(Γιορτή Κρητικής Διατροφής)</i>. Month: July
-- <u>South Aegean (Regional Special):</u> The Medieval Rose Festival <i>(Μεσαιωνικό Φεστιβάλ Ρόδου)</i>. Month: October 
+- Independence Day of Greece <i>(Εορτασμός της Ελληνικής Επανάστασης του 1821)</i>. Month: March
+- Tsiknopempti <i>(Τσικνοπέμπτη)</i>. Month: February or March
+- Ohi Day <i>(Επέτειος του Όχι)</i>. Month: October
+- <u>Crete (Regional Special):</u> Cretan Diet Festival <i>(Γιορτή Κρητικής Διατροφής)</i>. Month: July
+- <u>South Aegean (Regional Special):</u> Medieval Rose Festival <i>(Μεσαιωνικό Φεστιβάλ Ρόδου)</i>. Month: October 
 
 
 <b>💐 National flower: </b> Bear's Breech <i>(Άκανθος)</i>

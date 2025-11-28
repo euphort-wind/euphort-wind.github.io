@@ -98,13 +98,13 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 - <u>Riga-Capital (Regional Special):</u> Riga Art Nouveau Architecture <i>(Jūgendstila Arhitektūra Rīgā)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Independence Day of Latvia <i>(Latvijas Republikas Proklamēšanas Diena)</i>. Month: November
-- The Latvian Song and Dance Festival <i>(VispāRēJie Latviešu Dziesmu un Deju SvēTki)</i>. Month: June to July
-- The Līgo <i>(Līgo)</i>. Month: June
-- The Jāņi <i>(Jāņi)</i>. Month: June
-- The Miķeļi <i>(Miķeļdiena)</i>. Month: September
-- The Mārtiņi <i>(Mārtiņdiena)</i>. Month: November
-- The Meteņi <i>(Meteņdienu)</i>. Month: February or March
+- Independence Day of Latvia <i>(Latvijas Republikas Proklamēšanas Diena)</i>. Month: November
+- Latvian Song and Dance Festival <i>(VispāRēJie Latviešu Dziesmu un Deju SvēTki)</i>. Month: June to July
+- Līgo <i>(Līgo)</i>. Month: June
+- Jāņi <i>(Jāņi)</i>. Month: June
+- Miķeļi <i>(Miķeļdiena)</i>. Month: September
+- Mārtiņi <i>(Mārtiņdiena)</i>. Month: November
+- Meteņi <i>(Meteņdienu)</i>. Month: February or March
 
 
 <b>💐 National flower: </b> Ox-eye Daisy <i>(Parastā Pīpene)</i>

@@ -114,11 +114,11 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Republic Day of Malta <i>(Jum ir-Repubblika)</i>. Month: December
-- The Independence Day of Malta <i>(Jum l-Indipendenza)</i>. Month: September
-- The Freedom Day of Malta <i>(Jum il-Helsien)</i>. Month: March
-- The Sette Giugno <i>(Sette Giugno)</i>. Month: June
-- The Maltese Village Festa <i>(Festa)</i>. Month: May to October
+- Republic Day of Malta <i>(Jum ir-Repubblika)</i>. Month: December
+- Independence Day of Malta <i>(Jum l-Indipendenza)</i>. Month: September
+- Freedom Day of Malta <i>(Jum il-Helsien)</i>. Month: March
+- Sette Giugno <i>(Sette Giugno)</i>. Month: June
+- Maltese Village Festa <i>(Festa)</i>. Month: May to October
 
 
 <b>💐 National flower: </b> Maltese Centaury <i>(Widnet il-Baħar)</i>

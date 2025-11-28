@@ -304,13 +304,13 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - <u>Campania (Regional Special):</u> The Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Republic Day of Italy <i>(Festa della Repubblica Italiana)</i>. Month: June
-- The Ferragosto <i>(Ferragosto)</i>. Month: August
-- <u>Lazio (Regional Special):</u> The Natale di Roma <i>(Natale di Roma)</i>. Month: April
-- <u>Emilia-Romagna (Regional Special):</u> The Palio of Ferrara <i>(Palio di Ferrara)</i>. Month: May
-- <u>Tuscany (Regional Special):</u> The Carnival of Viareggio <i>(Carnevale di Viareggio)</i>. Month: February or March
-- <u>Sicily (Regional Special):</u>  The Festival of Saint Agatha <i>(La Festa di Sant'agata / A Fest' 'i Sant'àjita)</i>. Month: February and August
-- <u>Campania (Regional Special):</u> The Feast of San Gennaro <i>(La Festa di San Gennaro / Juorno 'e San Gennaro)</i>. Month: September
+- Republic Day of Italy <i>(Festa della Repubblica Italiana)</i>. Month: June
+- Ferragosto <i>(Ferragosto)</i>. Month: August
+- <u>Lazio (Regional Special):</u> Natale di Roma <i>(Natale di Roma)</i>. Month: April
+- <u>Emilia-Romagna (Regional Special):</u> Palio of Ferrara <i>(Palio di Ferrara)</i>. Month: May
+- <u>Tuscany (Regional Special):</u> Carnival of Viareggio <i>(Carnevale di Viareggio)</i>. Month: February or March
+- <u>Sicily (Regional Special):</u> Festival of Saint Agatha <i>(La Festa di Sant'agata / A Fest' 'i Sant'àjita)</i>. Month: February and August
+- <u>Campania (Regional Special):</u> Feast of San Gennaro <i>(La Festa di San Gennaro / Juorno 'e San Gennaro)</i>. Month: September
 
 
 <b>💐 National flower: </b> Flower of the Strawberry Tree <i>(Fiore del Corbezzolo)</i>

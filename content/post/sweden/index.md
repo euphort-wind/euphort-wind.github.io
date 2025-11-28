@@ -344,10 +344,10 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June
-- The Midsummer <i>(Midsommar)</i>. Month: June
-- The Crayfish Party <i>(Kräftskiva)</i>. Month: August
-- <u>Gotland (Regional Special):</u> The Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August
+- National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June
+- Midsummer <i>(Midsommar)</i>. Month: June
+- Crayfish Party <i>(Kräftskiva)</i>. Month: August
+- <u>Gotland (Regional Special):</u> Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August
 
 
 <b>💐 National flower: </b> Harebell <i>(Liten Blåklocka)</i>

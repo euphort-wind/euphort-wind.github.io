@@ -160,14 +160,14 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
   - <u>Brașov (Regional Special):</u> Authentic Garb: Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The National Day of Romania <i>(Ziua Națională a României)</i>. Month: December
-- The Day of the Unification of the Romanian Principalities <i>(Ziua Unirii Principatelor Române)</i>. Month: January
-- The Mărțișor <i>(Mărțișor)</i>. Month: March
-- The Dragobete <i>(Dragobete)</i>. Month: February
-- The International Romani Day <i>(Ziua Internațională a Romilor / Maśkarthemutno Rromenqo Dives)</i>. Month: April
-- <u>Brașov (Regional Special):</u> The Junii Brașoveni <i>(Junii Brașoveni)</i>. Month: April
-- <u>Covasna (Regional Special):</u> The Székely Freedom Day <i>(Ziua Libertății Secuilor/ Székely Szabadság Napja)</i>. Month: March
-- <u>Mureș (Regional Special):</u> The Sighişoara Medieval Festival <i>(Festivalul Sighişoara Medievală)</i>. Month: July
+- National Day of Romania <i>(Ziua Națională a României)</i>. Month: December
+- Day of the Unification of the Romanian Principalities <i>(Ziua Unirii Principatelor Române)</i>. Month: January
+- Mărțișor <i>(Mărțișor)</i>. Month: March
+- Dragobete <i>(Dragobete)</i>. Month: February
+- International Romani Day <i>(Ziua Internațională a Romilor / Maśkarthemutno Rromenqo Dives)</i>. Month: April
+- <u>Brașov (Regional Special):</u> Junii Brașoveni <i>(Junii Brașoveni)</i>. Month: April
+- <u>Covasna (Regional Special):</u> Székely Freedom Day <i>(Ziua Libertății Secuilor/ Székely Szabadság Napja)</i>. Month: March
+- <u>Mureș (Regional Special):</u> Sighişoara Medieval Festival <i>(Festivalul Sighişoara Medievală)</i>. Month: July
 
 
 <b>💐 National flower: </b> Romanian Peony <i>(Bujor Românesc)</i>
