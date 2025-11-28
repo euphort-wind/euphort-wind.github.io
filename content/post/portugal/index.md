@@ -105,10 +105,17 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - The Pombaline Architecture <i>(Estilo Pombalino)</i> 
 - The Azulejo Tilework <i>(Azulejo)</i>
 - Portuguese Seamanship and Maritime Exploration <i>(Descobrimentos Portugueses)</i> 
+- Portuguese Folklore <i>(Folclore de Portugal)</i> 
 - Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>   
 - Authentic Garb: Portuguese Traje <i>(Traje Típico Português)</i>
 - The Heritage of the Portuguese Empire <i>(Império Português)</i>
 - <u>Lisbon (Regional Special):</u> Lisbon Historic Trams <i>(Brand: "Remodelados")</i>
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The	Portugal National Day <i>(Dia de Portugal, de Camões e das Comunidades Portuguesas)</i>. Month: June
+- The Freedom Day of Portugal <i>(Dia da Liberdade)</i>. Month: April
+- <u>Lisbon (Regional Special):</u> The Saint Anthony Festival in Lisbon <i>(Festa de Santo António em Lisboa)</i>. Month: May to June
 
 
 <b>💐 National flower: </b> Broadleaved Lavender <i>(Lavanda)</i>

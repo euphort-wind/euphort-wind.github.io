@@ -131,7 +131,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
   - The Viking Ship Construction <i>(Vikingskip)</i> 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Constitution Day <i>(Syttende Mai)</i>. Month: May
+- The Norwegian Constitution Day <i>(Syttende Mai)</i>. Month: May
 - The Russefeiring <i>(Russefeiring)</i>. Month: April to May
 - The Olsok <i>(Olsok)</i>. Month: July
 - <u>Vestland (Regional Special):</u> The Bergen International Festival <i>(Festspillene i Bergen)</i>. Month: May to June

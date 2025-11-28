@@ -259,34 +259,33 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Russian Avos <i>(Русское Авось)</i>
-- The Maslennitsa Celebration <i>(Масленница)</i>
 - The Khokhloma Painting <i>(Хохлома)</i>
 - The Zhostovo Painting <i>(Жостовская Роспись)</i>
 - The Horovod Dance <i>(Хоровод)</i>
 - The Matryoshka Dolls <i>(Матрёшки)</i>
 - Russian Banya <i>(Русская Баня)</i>
-- Russian Folk Songs <i>(Русские Народные Песни)</i> 
-- Russian Fairy Tales <i>(Русские Народные Сказки)</i> 
+- Russian Folklore <i>(Русский Фольклор)</i> 
 - Russian Cars <i>(Brands: "GAZ", "LADA", etc.)</i> 
 - Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-Ушанка)</i> 
 - The Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
 - The Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
 - <u>Bashkortostan (Regional Special):</u> The Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
-    - <u>Bashkortostan (Regional Special):</u> The Sabantuy Celebration <i>(Сабантуй / Һабантуй)</i>
+    - <u>Bashkortostan (Regional Special):</u> The Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
     - <u>Bashkortostan (Regional Special):</u> The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
     - <u>Bashkortostan (Regional Special):</u> Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
-- <u>Kabardino-Balkaria & Karachay-Cherkessia (Regional Special):</u> The Culture of Balkars <i>(Балкары, Карачаевцы / Малкъарлыла)</i>
+- <u>Kabardino-Balkaria (Regional Special):</u> The Culture of Balkars <i>(Балкары, Карачаевцы / Малкъарлыла)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Bychak Knives <i>(Бичак / Бычак)</i>
-- <u>Karachay-Cherkessia & Kabardino-Balkaria (Regional Special):</u> The Culture of Circassians <i>(Кабардинцы, Черкессы, Адыгейцы и Шапсуги / Адыгэ)</i>
+- <u>Karachay-Cherkessia:</u> The Culture of Circassians <i>(Кабардинцы, Черкессы, Адыгейцы и Шапсуги / Адыгэ)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Principle: Circassian Xabze <i>(Адыгэ Хабзэ / Адыгэ Хабзэ)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> The Heritage of the Circassia <i>(Черкесия / Адыгэ Хэку)</i>
 - <u>North Ossetia (Regional Special):</u> The Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
+    - <u>North Ossetia (Regional Special):</u> Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
     - <u>North Ossetia (Regional Special):</u> Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
     - <u>North Ossetia (Regional Special):</u> Ossetian Assianism <i>(Уасдин / Уацдин)</i>
     - <u>North Ossetia (Regional Special):</u> Ossetian Simd Dance <i>(Симд / Синд)</i>
@@ -298,6 +297,17 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
 - <u>Orenburzhie (Regional Special):</u> The Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i>
 - <u>Chelyabinsk (Regional Special):</u> The Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
 - <u>Chelyabinsk (Regional Special):</u> The Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Maslenitsa Celebration <i>(Мaсленица)</i>. Month: February or March
+- The Kupala Night <i>(Иван Купала)</i>. Month: July
+- <u>Bashkortostan (Regional Special):</u> The Sabantuy <i>(Сабантуй / Һабантуй)</i>. Month: June or July
+- <u>Kabardino-Balkaria (Regional Special):</u> The Balkar People's Revival Day <i>(День Возрождения Балкарского Народа)</i>. Month: March
+- <u>Karachay-Cherkessia (Regional Special):</u> The Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May 
+- <u>St. Petersburg-City (Regional Special):</u> The White Nights Festival <i>(Белые Ночи Санкт-петербурга)</i>
+
+
 
 
 <b>💐 National flower: </b> Chamomile <i>(Ромашка Обыкновенная)</i>

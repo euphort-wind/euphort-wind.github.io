@@ -100,12 +100,12 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Hygge <i>(Hygge)</i>
-- Danish Tradition of Easter Letters <i>(Gækkebreve)</i>
 - The Hedebo Embroidery <i>(Hedebosyning)</i>
-- Danish Fiddle Music <i>(Spillemandsmusik)</i>
 - The Legend of Danish Flag <i>(Dannebrog)</i>
 - The Nordic Classical Architecture <i>(Den Nordiske Klassiske Arkitektur)</i>
-- Danish Fairy Tales <i>(Danske Eventyr)</i>
+- Danish Fiddle Music <i>(Spillemandsmusik)</i>
+- Danish Tradition of Easter Letters <i>(Gækkebreve)</i>
+- Danish Folklore <i>(Dansk Folketro)</i>
 - Authentic Musical Instrument: Lur <i>(Lur)</i>
 
 

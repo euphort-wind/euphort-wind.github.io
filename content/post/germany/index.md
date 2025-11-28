@@ -198,7 +198,6 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - The Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
 - German Cuckoo Clock <i>(Kuckucksuhr)</i>
 - German Folklore <i>(Deutsche Folklore)</i>
-- German Fairy Tales <i>(Deutsche Märchen)</i>
 - German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
 - Authentic Musical Instrument: Zither <i>(Zither)</i>
 - Authentic Garb: German Tracht <i>(Tracht)</i>

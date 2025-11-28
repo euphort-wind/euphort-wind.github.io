@@ -70,6 +70,12 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 - The System of Captains Regent <i>(Il Sistema dei Capitani Reggenti)</i>
 
 
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Feast of Saint Marinus and the Republic <i>(La festa di San Marino e della fondazione della Repubblica)</i>. Month: September
+- The Arengo Anniversary <i>(Anniversario dell'Arengo del 1906)</i>. Month: March 
+
+
+
 
 <b>💐 National flower: </b> Purple Cyclamen <i>(Ciclamino Viola)</i>
 
