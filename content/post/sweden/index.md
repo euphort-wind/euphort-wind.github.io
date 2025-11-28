@@ -331,9 +331,6 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Swedish Fika Coffee Break <i>(Fika)</i>
 - The Hambo Dance <i>(Hambo)</i>
 - The Dala Horses <i>(Dalahästar)</i>
-- The Crayfish Celebration <i>(Kräftskiva)</i>
-- The Midsummer Celebration <i>(Midsommar)</i>
-- The St. Lucy's Day Celebration <i>(Lucia)</i>
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
@@ -345,6 +342,13 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - <u>Gotland (Regional Special):</u> The Varpa Game <i>(Varpa / Varpo)</i>
 - <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
 - <u>Halland (Regional Special):</u> The Bonad Painting <i>(Bonadsmålning)</i>
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June
+- The Midsummer <i>(Midsommar)</i>. Month: June
+- The Crayfish Party <i>(Kräftskiva)</i>. Month: August
+- <u>Gotland (Regional Special):</u> The Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August
 
 
 <b>💐 National flower: </b> Harebell <i>(Liten Blåklocka)</i>

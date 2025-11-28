@@ -274,11 +274,11 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
     - <u>Bashkortostan (Regional Special):</u> The Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
     - <u>Bashkortostan (Regional Special):</u> The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
     - <u>Bashkortostan (Regional Special):</u> Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
-- <u>Kabardino-Balkaria (Regional Special):</u> The Culture of Balkars <i>(Балкары, Карачаевцы / Малкъарлыла)</i>
+- <u>Kabardino-Balkaria (Regional Special):</u> The Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
     - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Bychak Knives <i>(Бичак / Бычак)</i>
-- <u>Karachay-Cherkessia:</u> The Culture of Circassians <i>(Кабардинцы, Черкессы, Адыгейцы и Шапсуги / Адыгэ)</i>
+- <u>Karachay-Cherkessia:</u> The Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Principle: Circassian Xabze <i>(Адыгэ Хабзэ / Адыгэ Хабзэ)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
     - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
@@ -303,7 +303,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
 - The Maslenitsa Celebration <i>(Мaсленица)</i>. Month: February or March
 - The Kupala Night <i>(Иван Купала)</i>. Month: July
 - <u>Bashkortostan (Regional Special):</u> The Sabantuy <i>(Сабантуй / Һабантуй)</i>. Month: June or July
-- <u>Kabardino-Balkaria (Regional Special):</u> The Balkar People's Revival Day <i>(День Возрождения Балкарского Народа)</i>. Month: March
+- <u>Kabardino-Balkaria (Regional Special):</u> The Balkar Day <i>(День Возрождения Балкарского Народа)</i>. Month: March
 - <u>Karachay-Cherkessia (Regional Special):</u> The Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May 
 - <u>St. Petersburg-City (Regional Special):</u> The White Nights Festival <i>(Белые Ночи Санкт-петербурга)</i>
 

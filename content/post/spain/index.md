@@ -116,8 +116,6 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - <u>Catalonia (Regional Special):</u> La Mercè <i>(Fiestas de la Merced / La Mercè)</i>. Month: September
 
 
-
-
 <b>💐 National flower: </b> Red Carnation <i>(Clavel Rojo)</i>
 - <u>Catalonia (Regional Special):</u> Weaver's Broom <i>(Retama / Ginesta)</i>
 

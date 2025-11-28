@@ -132,14 +132,23 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - The Halay Dance <i>(Halay)</i>
 - The Meddahlık & Meddahs <i>(Meddahlık ve Meddahlar)</i>
 - The Iznik Pottery <i>(İznik Çinisi)</i>
+- The Oil Wrestling <i>(Yağlı Güreş)</i>
 - Turkish Hammam <i>(Hamam)</i>
 - Turkish Television Drama <i>(Türk Dizileri)</i>
+- Turkic Mythology <i>(Türk Mitolojisi)</i>
 - Authentic Musical Instrument: Bağlama <i>(Bağlama)</i> 
 - Authentic Garb: Shalvar and Yelek <i>(Şalvar ve Yelek)</i>
 - The Heritage of the Byzantine Empire <i>(Bizans İmparatorluğu / Imperium Romanum Orientale)</i>
 - The Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i>
 - <u>İstanbul (Regional Special):</u> Eastern Orthodoxy <i>(Ortodoks Kilisesi)</i>
 - <u>Antalya (Regional Special):</u> The Düğmeli Houses <i>(Düğmeli Evler)</i>
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Republic Day of Türkiye <i>(Cumhuriyet Bayramı)</i>. Month: October 
+- The Hıdırellez <i>(Hıdrellez)</i>. Month: May
+- The National Sovereignty and Children's Day <i>(Ulusal Egemenlik ve Çocuk Bayramı)</i>. Month: April
+
 
 
 <b>💐 National flower: </b> Red Tulip <i>(Kırmızı Lale)</i>

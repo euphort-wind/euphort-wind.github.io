@@ -71,10 +71,22 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - Tai Folk Religion <i>(ศาสนาผี)</i>
 - Thai Massage <i>(นวดแผนไทย)</i>
 - Thai Script <i>(อักษรไทย)</i>
+- Thai Folklore <i>(นิทานพื้นบ้านไทย)</i>
 - Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
 - Authentic Garb: Panung <i>(ผ้านุ่ง)</i>
 - The Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>
 - The Heritage of the Rattanakosin Kingdom <i>(อาณาจักรรัตนโกสินทร์)</i>
+
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The National Day of Thailand <i>(วันชาติ)</i>. Month: December
+- The Songkran Festival <i>(เทศกาลสงกรานต์)</i>. Month: April
+- The Loy Krathong <i>(ลอยกระทง)</i>. Month: November
+- The Chakri Memorial Day <i>(วันจักรี)</i>. Month: April
+- The Magha Puja <i>(วันมาฆบูชา)</i>. Month: February
+
+
 
 <b>💐 National flower: </b> Purging Cassia <i>(ดอกราชพฤกษ์)</i>
 

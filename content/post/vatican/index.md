@@ -69,6 +69,15 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 - Authentic Musical Instrument: Pipe Organ <i>(Organum)</i> 
 - The Heritage of the Papal States <i>(Status Pontificius)</i>
 
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Lateran Treaty Day <i>(Pacta Lateranensia)</i>. Month: February
+- Epiphany <i>(Sollemnitas Epiphaniae Domini)</i>. Month: January
+- Easter <i>(Pascha)</i>. Month: March or April
+- Christmas <i>(Dies Natalis Christi)</i>. Month: December
+
+
 <b>💐 National flower: </b> Easter Lily <i>(Lilium Longiflorum)</i>
 
 
