@@ -306,8 +306,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
 - Swedish Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
 - Blueberry Wine <i>(Brand: "Rålund")</i>
-- <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Norrlandstoast med Gula Kantareller
-)</i>
+- <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Norrlandstoast med Gula Kantareller)</i>
 - <u>Västernorrland (Regional Special):</u> Reindeer Meat with Chanterelles and Lingonberries <i>(Renskav med Kantareller och Lingon)</i> 
 - <u>Västerbotten (Regional Special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
 - <u>Gotland (Regional Special):</u> Gotlandic Saffran Pancake with Cream and Dewberry Jam <i>(Saffranspannkaka med Grädde och Salmbärssylt / Saffranspannkakå)</i>
