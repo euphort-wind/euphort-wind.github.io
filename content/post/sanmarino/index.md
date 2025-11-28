@@ -80,7 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 <b>💐 National flower: </b> Purple Cyclamen <i>(Ciclamino Viola)</i>
 
 
-<b>🦉 Local wisdom:</b> "Chi ch’cardess a tot quel che po’ insugnê, mat è po’ dvintê."  / "<i>He who believes in everything he dreams would go mad..</i>" — Sammarinese proverb
+<b>🦉 Local wisdom:</b> "Chi ch’cardess a tot quel che po’ insugnê, mat è po’ dvintê."  / "<i>He who believes in everything he dreams would go mad.</i>" — Sammarinese proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of the Republic of San Marino <i>(Università degli Studi della Repubblica di San Marino)</i>, City of San Marino, est. 1985. 
