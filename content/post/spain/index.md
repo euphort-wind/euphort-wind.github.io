@@ -93,6 +93,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - The Flamenco Art Form <i>(Flamenco)</i>
 - The Mudéjar Architecture <i>(Arte Mudéjar)</i>
 - Spanish Bullfighting <i>(Corrida de Toros)</i>
+- Spanish Folklore <i>(Folclore de España)</i>
 - Spanish Cars <i>(Brand: "SEAT")</i>
 - Authentic Musical Instrument: Castanets <i>(Castañuelas)</i> 
 - Authentic Garb: Mantilla and Traje de Luces <i>(Mantilla y Traje de Luces)</i>
@@ -100,11 +101,22 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - The Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - <u>Catalonia (Regional Special):</u> The Culture of Catalans <i>(Catalanes / Catalans)</i>
   - <u>Catalonia (Regional Special):</u> Authentic Principle: Seny <i>(Seny / Seny)</i>
+  - <u>Catalonia (Regional Special):</u> Catalan Mythology <i>(Mitología Catalana / Mitologia Catalana)</i>
   - <u>Catalonia (Regional Special):</u> Catalan Rumba Dance <i>(Rumba Catalana / Rumba Catalana)</i>
   - <u>Catalonia (Regional Special):</u> Catalan Human Towers <i>(Castells / Castells)</i>
   - <u>Catalonia (Regional Special):</u> Catalan Art Nouveau Architecture <i>(Modernisme / Modernisme)</i>
   - <u>Catalonia (Regional Special):</u> Authentic Musical Instrument: Flabiol <i>(Flabiol / Flabiol)</i>
-  
+
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The National Day of Spain <i>(Fiesta Nacional de España)</i>. Month: October
+- The Constitution Day of Spain <i>(Dia de la Constitucion Espanola)</i>. Month: December
+- La Tomatina <i>(La Tomatina)</i>. Month: August
+- <u>Catalonia (Regional Special):</u> The National Day of Catalonia <i>(Día de Cataluña / Diada Nacional de Catalunya)</i>. Month: September
+- <u>Catalonia (Regional Special):</u> La Mercè <i>(Fiestas de la Merced / La Mercè)</i>. Month: September
+
+
+
 
 <b>💐 National flower: </b> Red Carnation <i>(Clavel Rojo)</i>
 - <u>Catalonia (Regional Special):</u> Weaver's Broom <i>(Retama / Ginesta)</i>

@@ -94,13 +94,19 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 
 
 <b>🪔 Authentic features:</b>
-- Kurentovanje Carnival <i>(Kurentovanje)</i>
 - Štajeriš Dance <i>(Štajeriš)</i>
 - Idrija Lace <i>(Idrijska Čipka)</i>
+- Slovene Mythology <i>(Slovenska Mitologija)</i>
 - Authentic Garb: Gorenjska Avba <i>(Gorenjska Avba)</i> 
 - The Heritage of Carantanian Principality <i>(Karantanija / *Korǫtanъ)</i>
 - <u>Upper Carniola (Regional Special):</u> Bled Pletna Boats <i>(Pletna)</i>
 
+
+<b>🎊 Authentic holidays & celebrations:</b>
+- The Statehood Day of Slovenia <i>(Dan Državnosti)</i>. Month: June 
+- The Kurentovanje Carnival <i>(Kurentovanje)</i>. Month: February or March
+- The Prešeren Day <i>(Prešernov Dan)</i>. Month: February
+- The Maritime Day <i>(Dan Pomorstva)</i>. Month: March
 
 
 <b>💐 National flower: </b> Red Carnation <i>(Rdeči Nagelj)</i>
