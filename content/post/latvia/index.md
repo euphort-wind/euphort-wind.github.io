@@ -99,7 +99,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Latvia <i>(Latvijas Republikas Proklamēšanas Diena)</i>. Month: November
-- Latvian Song and Dance Festival <i>(VispāRēJie Latviešu Dziesmu un Deju SvēTki)</i>. Month: June to July
+- Latvian Song and Dance Festival <i>(VispārēJie Latviešu Dziesmu un Deju Svētki)</i>. Month: June to July
 - Līgo <i>(Līgo)</i>. Month: June
 - Jāņi <i>(Jāņi)</i>. Month: June
 - Miķeļi <i>(Miķeļdiena)</i>. Month: September

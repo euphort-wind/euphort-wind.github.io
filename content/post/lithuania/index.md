@@ -108,7 +108,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Statehood Day of Lithuania <i>(Valstybės Diena)</i>. Month: July
-- Užgavėnės Festival <i>(Rãsos)</i>. Month: February or March
+- Užgavėnės Festival <i>(Užgavėnės)</i>. Month: February or March
 - Kaziuko Mugė Festival <i>(Kaziuko Mugė)</i>. Month: March
 - Lithuanian Song and Dance Festival <i>(Lietuvių Dainų ir Šokių Šventė)</i>. Month: June or July
 - Saint Jonas's Festival <i>(Rãsos)</i>. Month: June 

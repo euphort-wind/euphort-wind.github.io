@@ -107,6 +107,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Statehood Day of Croatia <i>(Dan Državnosti)</i>. Month: May
+- The Rijeka Carnival <i>(Riječki Karneval)</i>. Month: February or March
 - <u>Zagreb (Regional Special):</u> Samobor Carnival <i>(Samoborski Fašnik)</i>. Month: February to March
 
 <b>💐 National flower: </b> Croatian Iris <i>(Hrvatska Perunika)</i>
