@@ -300,7 +300,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Maslenitsa Celebration <i>(Мaсленица)</i>. Month: February or March
+- Maslenitsa <i>(Мaсленица)</i>. Month: February or March
 - <u>Bashkortostan (Regional Special):</u> Sabantuy <i>(Сабантуй / Һабантуй)</i>. Month: June or July
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Day <i>(День Возрождения Балкарского Народа)</i>. Month: March
 - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May 
