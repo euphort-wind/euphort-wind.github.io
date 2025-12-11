@@ -26,7 +26,7 @@ gallery_item:
     image: 7petro.jpg
     caption: Cholpon-Ata Petroglyphs
   - album: kg
-    image: 8ashlyan.jpg
+    image: 8ashlyan.jpeg
     caption: Kyrgyz Ash-lyanfu
 ---
 Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was there in 2022. Below are some notes on what I tasted, saw and listened to.<br>

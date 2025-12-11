@@ -26,7 +26,7 @@ gallery_item:
     image: 3prods.jpg
     caption: Food Truck (Phuket)
   - album: thailand
-    image: 6tomyam.jpg
+    image: 6tomyam.jpeg
     caption: Tom Yam Soup
 ---
 Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was there in 2018. Below are some notes on what I tasted, saw and listened to.<br>
