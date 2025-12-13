@@ -53,12 +53,16 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - Tom Yam Soup <i>(ต้มยำ)</i>
 - Pad Thai <i>(ผัดไทย)</i>
 - Suea Rong Hai <i>(เสือร้องไห้)</i>
-- Khao Pad  <i>(ข้าวผัด)</i>
+- Khao Pad <i>(ข้าวผัด)</i>
+- Thai Suki <i>(สุกี้)</i>
 - Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
 - Thai Rum <i>(Brand: "SangSom")</i>
 - <u>Phuket (Regional Special)</u>: Grilled Seafood on Skewers <i>(ซีฟู้ดย่างเสียบไม้)</i>
   - Grilled Shrimps on Skewers <i>(กุ้งย่างเสียบไม้)</i>
   - Grilled Clams on Skewers <i>(หอยย่างเสียบไม้)</i>
+- <u>Phuket (Regional Special)</u>: Moo Hong <i>(หมูฮ้อง)</i>
+
+
 
 <b>🎬 Local movies:</b>
 -  Thirteen Lives <i>(สิบสามชีวิต)</i>. Year: 2022. Genre: action / drama
