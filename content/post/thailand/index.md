@@ -42,7 +42,7 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
     - Patong Promenade <i>(ถนนเลียบหาดป่าตอง)</i>
 2. Kathu
     - Flying Hanuman Zipline <i>(ฟลายอิ้งหนุมาน)</i>
-    - Elephant Care <i>(ศูนย์ดูแลช้าง)</i>
+    - Elephant Care Sanctuary <i>(ศูนย์ดูแลช้าง)</i>
 3. Racha Yai
     - Siam Bay <i>(อ่าวสยาม)</i>
 
