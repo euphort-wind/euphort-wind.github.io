@@ -97,9 +97,14 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - Fårikål <i>(Fårikål)</i>
 - Gravlaks <i>(Gravlaks)</i>
 - Smoked Salmon <i>(Røkt Laks)</i>
+- Sodd <i>(Sodd)</i>
+- Pinnekjøtt with Puréed Swede, Sausages and Potatoes <i>(Pinnekjøtt med Rotmos, Poteter og Pølse)</i>
+- Norwegian Meatcakes with Pea Purée and Brown Gravy <i>(Kjøttkaker med Ertepuré og Brun Saus)</i>
 - Flatbrød <i>(Flatbrød)</i>
+- Lefse <i>(Lefsa)</i>
 - Rømmegrøt <i>(Rømmegrøt)</i>
-- Norwegian Meatcakes with Pea Puree and Brown Gravy <i>(Kjøttkaker med Ertepuré og Brun Saus)</i>
+- Norwegian Waffles <i>(Norske Vafler)</i>
+- Julebrus <i>(Brand: "Hansa")</i>
 - Norwegian Akevitt <i>(Brands: "Løiten", "Linie")</i>
 - <u>Vestland (Regional Special):</u> Bergen Pressed Cod <i>(Persetorsk)</i>
 - <u>Vestfold (Regional Special):</u> Sandefjord Sauce <i>(Sandefjordsmør)</i>

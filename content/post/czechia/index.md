@@ -67,6 +67,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - 🇨🇿 Monika Bagárová (singer). Genre: pop
 - 🇨🇿 Vypsaná FiXa (band). Genre: pop punk
 - 🇨🇿 Michal Hrůza (singer). Genre: pop
+- 🇺🇳 Driftmoon (DJ). Genre: uplifting trance
 
 
 <b>🥘 Local food & drinks: </b>
@@ -80,6 +81,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - Knedlíky <i>(Knedlíky)</i>
 - Svíčková <i>(Svíčková na Smetaně)</i>
 - Moravian Sparrow <i>(Moravský Vrabec)</i>
+- Bohemian Roast Duck <i>(Pečená Kachna)</i>
 - Czech Trdelník <i>(Trdelník)</i>
 - Czech Kolache <i>(Koláč)</i>
 - Czech Herbal Bitter <i>(Brand: "Becherovka")</i>

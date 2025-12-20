@@ -71,6 +71,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 🇧🇪 Kate Ryan (singer). Genre: pop
 - 🇧🇪 Lissa Lewis (singer). Genre: pop
 - 🇺🇳 Dimitri Vegas & Like Mike (DJ duo). Genre: big room
+- 🇺🇳 XiJaro & Pitch (DJ duo). Genre: uplifting trance
 - 🇺🇳 Netsky (DJ). Genre: drum'n'bass
 - 🇺🇳 Eptic (DJ). Genre: bass house
 - 🇺🇳 Danzel (DJ). Genre: electro house
