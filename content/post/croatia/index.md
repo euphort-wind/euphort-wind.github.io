@@ -113,7 +113,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 <b>💐 National flower: </b> Croatian Iris <i>(Hrvatska Perunika)</i>
 
 
-<b>🦉 Local wisdom:</b> "Habit is a good servant, but a bad master." / "<i>Navika je dobar sluga, ali loš gospodar.</i>" — Croatian proverb
+<b>🦉 Local wisdom:</b> "Tko se dima ne nadimi, taj se vatre ne nagrije." / "<i>To get warm from the fire, you must suffer the smoke.</i>" — Croatian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Zagreb <i>(Sveučilište u Zagrebu)</i>, Zagreb, est. 1669. 
