@@ -96,7 +96,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - Authentic Musical Instrument: Komuz <i>(Комуз)</i> 
 - Authentic Garb: Ak-Kalpak and Beldemchi <i>(Ак Калпак менен Белдемчи)</i> 
 - The Culture of Dungan <i>(Дунгандар / Хуэйзў)</i>
-- The Heritage of the Kyrgyz Khanate <i>(Кыргыз Хандыгы / 𐱅𐰭𐰼𐰄:𐰅𐰠)</i> 
+- The Legacy of Yenisei Kyrgyz <i>(Энесай Кыргыздары / 𐰶𐰃𐰺𐰶𐰃𐰕)</i> 
 - <u>Issyk-Kul (Regional Special):</u> The Legends of Issyk-Kul & Cholpon <i>(Ысык-Көл жана Чолпон-Ата Легендалары)</i>
 - <u>Issyk-Kul (Regional Special):</u> The Petroglyphs of Issyk-Kul <i>(Ысык-Көлдүн Петроглифтери)</i>
 
