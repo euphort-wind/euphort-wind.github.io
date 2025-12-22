@@ -112,7 +112,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - The Nagara Architecture <i>(नागर शैली)</i>
 - The Indo-Saracenic Architecture <i>(इंडो-सारासेनिक वास्तुकला)</i>
 - Indian Folklore <i>(भारतीय लोकवार्ता)</i>
-- Indian Cars <i>(Brand: "Mahindra")</i>
+- Indian Cars <i>(Brands: "Tata", Mahindra")</i>
 - Authentic Musical Instrument: Saraswati Veena <i>(सरस्वती वीणा)</i>
 - Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
 - The Heritage of the Maratha Empire <i>(मराठा साम्राज्य)</i>
