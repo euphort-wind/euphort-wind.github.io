@@ -74,9 +74,9 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - Kama <i>(Kama)</i>
 - Rosolje <i>(Rosolje)</i>
 - Mulgipuder <i>(Mulgi Puder)</i>
-- Mulgikaspad <i>(Mulgi Kaspad)</i>
+- Mulgikaspad <i>(Mulgi Kapsad)</i>
 - Estonian Blood Sausage <i>(Verivorst)</i>
-- Hiumaa Aspic <i>(Hiiumaa Sült)</i>
+- Hiiumaa Aspic <i>(Hiiumaa Sült)</i>
 - Pirukas <i>(Pirukas)</i>
 - Kiluvõileib <i>(Kiluvõileib)</i>
 - Kohuke <i>(Kohuke)</i>

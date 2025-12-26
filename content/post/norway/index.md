@@ -40,7 +40,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
     - Vigeland Sculpture Park <i>(Vigelandsanlegget)</i>
     - Akershus Fortress  <i>(Akershus Festning)</i>
     - The Royal Palace <i>(Det Kongelige Slott)</i>
-    - The Storting <i>(Storting)</i>
+    - The Storting <i>(Stortinget)</i>
     - The Nobel Peace Center <i>(Nobels Fredssenter)</i>
     - Oslo City Hall <i>(Oslo Rådhus)</i>
     - National Theatre <i>(Nationaltheatret)</i>
@@ -56,7 +56,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
     - St. Mary's Church <i>(Mariakirken)</i>
 3. Flåm
     - Naroy Fjord <i>(Nærøyfjord)</i>
-    - Flåm Railway <i>(Flåm Jernbane)</i>
+    - Flåm Railway <i>(Flåmsbanen)</i>
     - Gudvangen Viking Village <i>(Gudvangen)</i>
 4. Fredrikstad
     - Old Town Fredrikstad <i>(Gamlebyen)</i>
@@ -101,7 +101,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - Pinnekjøtt with Puréed Swede, Sausages and Potatoes <i>(Pinnekjøtt med Rotmos, Poteter og Pølse)</i>
 - Norwegian Meatcakes with Pea Purée and Brown Gravy <i>(Kjøttkaker med Ertepuré og Brun Saus)</i>
 - Flatbrød <i>(Flatbrød)</i>
-- Lefse <i>(Lefsa)</i>
+- Lefse <i>(Lefse)</i>
 - Rømmegrøt <i>(Rømmegrøt)</i>
 - Norwegian Waffles <i>(Norske Vafler)</i>
 - Julebrus <i>(Brand: "Hansa")</i>
@@ -117,7 +117,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - The Tunnel <i>(Tunnelen)</i>. Year: 2019. Genre: action
 - The Worst Person in the World <i>(Verdens Verste Menneske)</i>. Year: 2021. Genre: drama / comedy
 - Thelma <i>(Thelma)</i>. Year: 2017. Genre: fantasy / horror
-- Beforeigners <i>(Førignere)</i>. Year: 2019. Genre: fantasy (series)
+- Beforeigners <i>(Fremvandrerne)</i>. Year: 2019. Genre: fantasy (series)
 
 
 <b>🪔 Authentic features:</b>
@@ -129,7 +129,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - Authentic Musical Instrument: Hardanger Fiddle <i>(Hardingfele)</i>
 - Authentic Garb: Bunad <i>(Bunad)</i>
 - The Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i>
-  - The Viking Runic Script <i>(Viking Runer)</i> 
+  - The Viking Runic Script <i>(Vikingruner)</i> 
   - Norse Mythology <i>(Norrøn Mytologi)</i> 
   - Norse Paganism <i>(Norrøn Religion)</i> 
   - The Skaldic Poetry <i>(Skaldekvad)</i> 

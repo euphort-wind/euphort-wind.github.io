@@ -43,7 +43,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
     - Helsinki Cathedral & Senate Square <i>(Helsingin Tuomiokirkko)</i>
     - Old Market Hall <i>(Vanha Kauppahalli)</i>
     - Uspenskin Cathedral <i>(Uspenskin Katedraali)</i>
-    - Kamppi Chapel of Silence <i>(Kampin Lappeli)</i>
+    - Kamppi Chapel of Silence <i>(Kampin Kappeli)</i>
     - The Sibelius Monument & Sibelius Park <i>(Sibelius-Monumentti)</i>
     - Helsinki Winter Garden <i>(Helsingin Talvipuutarha)</i>
 2. Vaasa

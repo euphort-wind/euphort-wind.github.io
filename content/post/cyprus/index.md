@@ -65,11 +65,11 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 <b>🥘 Local food & drinks: </b>
 - Halloumi Cheese <i>(Τυρί Χαλούμι)</i>
 - Kleftiko <i>(Κλέφτικο)</i>
-- Souvlaki-Style Meats <i>(Σουβλάκι)</i>
-  - Souvlaki-Style Chicken <i>(Σουβλάκι Κοτόπουλο)</i>
-  - Souvlaki-Style Pork <i>(Σουβλάκι Χοιρινό)</i>
-  - Souvlaki-Style Lamb <i>(Σουβλάκι Αρνί)</i>
-  - Souvlaki-Style Beef <i>(Σουβλάκι Μοσχάρι)</i>
+- Souvlakia-Style Meats <i>(Σουβλάκι)</i>
+  - Souvlakia-Style Chicken <i>(Σουβλάκι Κοτόπουλο)</i>
+  - Souvlakia-Style Pork <i>(Σουβλάκι Χοιρινό)</i>
+  - Souvlakia-Style Lamb <i>(Σουβλάκι Αρνί)</i>
+  - Souvlakia-Style Beef <i>(Σουβλάκι Μοσχάρι)</i>
 - Cyprus Village Salad <i>(Κυπριακή Χωριάτικη Σαλάτα)</i>
 - Zivania <i>(Brand: "Zivania LOEL")</i>
 
@@ -97,7 +97,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 <b>💐 National flower: </b> Cyprus Cyclamen <i>(Κυκλάμινο το Κυπριακό)</i>
 
 
-<b>🦉 Local wisdom:</b> "Some live by the effort and others live by the way." / "<i>Άλλοι ζιούσιν με τον κόπον κι άλλοι ζιούσιν με τον τρόπον.</i>" — Cypriot proverb
+<b>🦉 Local wisdom:</b> "Some live by the effort and others live by the way." / "<i>Άλλοι ζιούσιν με τον κόπον τζαι άλλοι ζιούσιν με τον τρόπον.</i>" — Cypriot proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The European University Cyprus <i>(Ευρωπαϊκό Πανεπιστήμιο Κύπρου)</i>, Engomi, est. 1961.  

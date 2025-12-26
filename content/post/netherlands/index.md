@@ -54,7 +54,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
     - Amsterdamse Port <i>(Amsterdamse Poort)</i> 
     - Koepelgevangenis <i>(Koepelgevangenis)</i> 
 3. Utrecht
-    - Zeven Steegjes <i>(De Zeven Straatjes)</i> 
+    - Zeven Steegjes <i>(De Zeven Steegjes)</i> 
     - St. Marie’s Cloister Garden <i>(Kloostergang van Mariakerk)</i> 
     - The Grand Hotel Karel V <i>(Grand Hotel Karel V)</i> 
     - De Inktpot <i>(De Inktpot)</i> 
@@ -110,7 +110,6 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - 🇺🇳 Martin Garrix (DJ). Genre: big room
 - 🇺🇳 Oliver Heldens / HI-LO (DJ). Genre: future house
 - 🇺🇳 Don Diablo (DJ). Genre: future house
-- 🇺🇳 Tchami (DJ). Genre: future house
 - 🇺🇳 Hardwell (DJ). Genre: big room
 - 🇺🇳 R3hab (DJ). Genre: electro house
 - 🇺🇳 Fedde le Grand (DJ). Genre: electro house 
@@ -123,7 +122,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - 🇺🇳 Bakermat (DJ). Genre: funky house
 - 🇺🇳 Joe Stone (DJ). Genre: deep house 
 - 🇺🇳 Sam Feldt (DJ). Genre: tropical house 
-- 🇺🇳 Sharon del Adel (singer). Genre: trance 
+- 🇺🇳 Sharon den Adel (singer). Genre: trance 
 - 🇺🇳 Kensington (band). Genre: rock
 - 🇺🇳 Rondé (band). Genre: indie pop
 

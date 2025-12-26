@@ -85,8 +85,8 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 <b>🎬 Local movies:</b>
 - The Constitution <i>(Ustav Republike Hrvatske)</i>. Year: 2016. Genre: drama
 - Safe Place <i>(Sigurno Mjesto)</i>. Year: 2022. Genre: drama
-- The Priest's Children <i>(Svecenikova Djeca)</i>. Year: 2013. Genre: drama / comedy
-- The Man Who Could Not Remain Silent <i>(Covjek Koji Nije Mogao Sutjeti)</i>. Year: 2024. Genre: short / drama
+- The Priest's Children <i>(Svećenikova Djeca)</i>. Year: 2013. Genre: drama / comedy
+- The Man Who Could Not Remain Silent <i>(Čovjek koji nije Mogao Šutjeti)</i>. Year: 2024. Genre: short / drama
 
 
 <b>🪔 Authentic features:</b>

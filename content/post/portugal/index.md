@@ -58,7 +58,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
     - Boca do Inferno <i>(Boca do Inferno)</i> 
 4. Sintra 
     - The Pena Palace <i>(Palácio da Pena)</i>
-    - Sintra National Palace <i>(Palácio de Sintra)</i>
+    - Sintra National Palace <i>(Palácio Nacional de Sintra)</i>
     - Quinta da Regaleira <i>(Quinta da Regaleira)</i>
     - Moorish Castle <i>(Castelo dos Mouros)</i>
     
@@ -118,7 +118,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - <u>Lisbon (Regional Special):</u> Saint Anthony Festival in Lisbon <i>(Festa de Santo António em Lisboa)</i>. Month: May to June
 
 
-<b>💐 National flower: </b> Broadleaved Lavender <i>(Lavanda)</i>
+<b>💐 National flower: </b> [unofficially] Lavender Cotton <i>(Abrótano-Fêmea)</i>
 
 
 <b>🦉 Local wisdom:</b> "If horseshoes brought luck, donkeys wouldn't pull carts." / <i>"Se ferradura trouxesse sorte, burro não puxava carroça."</i> — Portuguese proverb

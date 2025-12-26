@@ -58,7 +58,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
     - The Fisherman & Ferryman Statues <i>(Halász és Révész Szobra)</i>
 3. Tihany
     - The Tihany Abbey <i>(Tihanyi Bencés Apátság)</i>
-    - The Paprika House <i>(PaprikaHáz)</i>
+    - The Paprika House <i>(Paprikaház)</i>
     - Old Town Tihany <i>(Óváros)</i>
     - The Calvary of King Charles IV <i>(IV. Károly Kálvária)</i> 
     - Belső-Tó Lake <i>(Belső-Tó)</i>
@@ -109,7 +109,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 
 <b>🎬 Local movies:</b>
 - Bet on Revenge <i>(Kincsem)</i>. Year: 2017. Genre: romance
-- Ruben Brandt, Collector <i>(Ruben Brandt, a Gyujto)</i>. Year: 2018. Genre: animation
+- Ruben Brandt, Collector <i>(Ruben Brandt, a Gyűjtő)</i>. Year: 2018. Genre: animation
 - Control <i>(Kontroll)</i>. Year: 2002. Genre: thriller
 - Mancs <i>(Mancs)</i>. Year: 2015. Genre: drama
 

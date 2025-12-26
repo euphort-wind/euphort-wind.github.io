@@ -52,7 +52,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
     - Helsingør Station <i>(Helsingør Station)</i>
     - St. Olaf's Church <i>(Sankt Olai Kirke)</i>
     - St. Maria's Church <i>(Sankt Mariæ Kirke)</i>
-    - Helsingør Marina <i>(Helsingør Havne)</i>
+    - Helsingør Marina <i>(Helsingør Havn)</i>
 3. Frederikshavn
     - Gunpowder Tower <i>(Krudttårnet)</i> 
     - Frederikshavn Square <i>(Frederikshavn Torv)</i> 
@@ -60,7 +60,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 4. Sæby
     - Sæby Church <i>(Sæby Kirke)</i>
     - Sæby Watermill <i>(Sæby Vandmølle)</i>
-    - Sæby Museum <i>(Sæby Kystmuseet)</i>
+    - Sæby Museum <i>(Kystmuseet Sæby)</i>
     - Mini Sæby <i>(Minibyen Sæby)</i>
 
 

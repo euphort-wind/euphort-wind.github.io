@@ -37,7 +37,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 <b>🏛 Top sights visited: </b>
 1. Bishkek
     - Ala-Too Square <i>(Ала-тоо Аянты)</i>
-    - Victory Square <i>(Жеңиш Чарчы)</i>
+    - Victory Square <i>(Жеңиш Аянты)</i>
     - The White House of Bishkek <i>(Жогорку Кенеш)</i>
     - Kyrgyz National University <i>(Жусуп Баласагын атындагы Кыргыз Улуттук Университети)</i>
     - Oak Park <i>(Эмен Паркы)</i>

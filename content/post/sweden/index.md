@@ -32,7 +32,7 @@ gallery_item:
 Hej! I share an extract of my life in charming Sweden. I live there since 2021. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Brännö, Strysö, Donsö, Vrångö, Ockerö, Hönö, Björkö,  Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna, Lödöse, Halmstad, Nödinge-Nol, Karlstad, Skövde, Mariestad, Herrljunga. <br>
+<b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Brännö, Styrsö, Donsö, Vrångö, Öckerö, Hönö, Björkö,  Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna, Lödöse, Halmstad, Nödinge-Nol, Karlstad, Skövde, Mariestad, Herrljunga, Arvika, Kristinehamn. <br>
 
 <b>🏛 Top sights visited: </b>
 1. Stockholm
@@ -99,7 +99,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Tjolöholm Castle <i>(Tjolöholm Slott)</i>
 13. Varberg 
     - Varberg Fortress <i>(Varberg Fästning)</i>
-    - Cold Bathes <i>(Kallbadhuset)</i>
+    - Cold Baths <i>(Kallbadhuset)</i>
 14. Mölnlycke
     - Wendelsbergs High School <i>(Wendelsbergs Folkhögskola)</i>
 15. Helsingborg
@@ -108,7 +108,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Slottshagen <i>(Slottshagen)</i>
     - Fredriksdal Museum and Gardens <i>(Fredriksdal Museer och Trädgårdar)</i>
 16. Partille 
-    - Partille Church <i>(Partille Kyrkan)</i>
+    - Partille Church <i>(Partille Kyrka)</i>
     - Jonsered Factories <i>(Jonsered Fabriker)</i>
 17. Brännö
     - Brännö Brygga <i>(Brännö Brygga)</i>
@@ -150,12 +150,12 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 29. Marstrand 
     - Carlstens Fortress <i>(Carlstens Fästning)</i>
     - Marstrand Church <i>(Marstrands Kyrka)</i>
-    - Statue of Oscar II <i>(Oscar II Statyn)</i> 
+    - Statue of Oscar II <i>(Oscar II:s Staty)</i> 
 30. Skärhamn
     - Skärhamns Sjöfartsmuseum <i>(Skärhamns Sjöfartsmuseum)</i>
     - Skärhamns Gästhamn <i>(Skärhamns Gästhamn)</i>
     - Nordic Watercolor Museum <i>(Nordiska Akvarellmuseet)</i>
-    - Skärhamn Church <i>(Skärhamn Kyrkan)</i>
+    - Skärhamns Church <i>(Skärhamns Kyrka)</i>
 31. Sollentuna
     - Edsberg Castle <i>(Edsberg Slott)</i>
     - Stallbacken Museum <i>(Stallbacken)</i>
@@ -167,7 +167,6 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Main Street <i>(Stora Gatan)</i>    
     - St. Pers Church <i>(S:t Pers Kyrkoruin)</i>    
     - St. Olofs Church <i>(S:t Olofs Kyrkoruin)</i>  
-    - Sigtuna Runestones <i>(Sigtuna Runstenar)</i>
 34. Norrtälje 
     - Tullports Street <i>(Tullportsgatan)</i>
     - South Mountain <i>(Södra Bergen)</i>
@@ -176,7 +175,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Caroli Church <i>(Caroli Kyrkan)</i>
     - The Textile Museum <i>(Textilmuseet)</i>
 36. Falköping
-    - Mösseberg's Park <i>(Mösseberg Kurorten och Parken)</i> 
+    - Mösseberg's Park <i>(Mössebergs Kurorten och Parken)</i> 
     - The Observation Tower <i>(Mösseberg Torn)</i> 
     - Mösseberg's Zoo <i>(Mössebergs Djurpark)</i> 
     - Falbygdens Museum <i>(Falbygdens Museum)</i> 
@@ -253,7 +252,12 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 56. Herrljunga
     - Herrljunga Drycker Shop <i>(Herrljunga Drycker AB)</i>
     - Hembygdsparken <i>(Hembygdsparken)</i>
-    - Folkets Park <i>(Folkets Park)</i>
+57. Arvika
+    - Trefaldighetskyrkan <i>(Trefaldighetskyrkan)</i>
+    - Stadsparken <i>(Stadsparken)</i>
+58. Kristinehamn
+    - Wallnerska Villa <i>(Wallnerska Villan)</i>
+    - Sockerslottet <i>(Sockerslottet)</i>
 
 <b>🎧 Local musicians: </b>
 - 🇸🇪 Tomas Ledin (singer). Genre: pop
@@ -271,7 +275,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇺🇳 Ace of Base (band). Genre: retro pop
 - 🇺🇳 Army of Lovers (band). Genre: retro pop
 - 🇺🇳 Avicii (DJ). Genre: house
-- 🇺🇳 Europa (band). Genre: retro pop
+- 🇺🇳 Europa (band). Genre: hard rock
 - 🇺🇳 The Cardigans (band). Genre: pop rock
 - 🇺🇳 Swedish House Mafia (DJ band). Genre: house
 - 🇺🇳 Dead by April (band). Genre: metal
@@ -280,7 +284,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇺🇳 Dr. Alban (singer). Genre: retro pop
 - 🇺🇳 E-type (DJ & singer). Genre: eurodance
 - 🇺🇳 Alesso (DJ). Genre: house
-- 🇺🇳 Crazy Frog (musician). Genre: eurodance
+- 🇺🇳 Crazy Frog (project). Genre: eurodance
 
 <b>🎚️ Contribution to EDM: </b>
 - Europop. Originated: late 1960s

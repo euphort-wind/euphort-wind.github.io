@@ -9,7 +9,7 @@ gallery_item:
     caption: Sarajevo
   - album: bosnia
     image: 2font.jpg
-    caption: Sebilj Fontain
+    caption: Sebilj Fountain
   - album: bosnia
     image: 3most.jpg
     caption: Mostar
@@ -120,7 +120,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 <b>🦉 Local wisdom:</b> "He who does not have time to listen will have a lot of time to regret." / "<i>Ko nema vremena za slušanje, imaće puno vremena za kajanje.</i>" — Bosnian proverb
 
 
-<b>👨‍🎓 The oldest university:</b> The University of Sarajevo <i>(Univerzitet u Sarajevu)</i>, Sarajevo, est. 1949.  
+<b>👨‍🎓 The oldest university:</b> The University of Sarajevo <i>(Univerzitet u Sarajevu)</i>, Sarajevo, est. 1537.  
 
 
 {{< gallery album="bosnia" crop_options="150x150" >}}

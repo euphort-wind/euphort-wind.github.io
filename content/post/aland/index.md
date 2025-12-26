@@ -29,7 +29,7 @@ gallery_item:
     image: 6pancake.jpg
     caption: Åland Pancake
 ---
-Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was there in 2023. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I was there in 2023. Below are some notes on what I tasted, saw and listened to.<br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Mariehamn, Eckerö.<br>
@@ -69,7 +69,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Ålands. I was th
 - Ålandic Shipping <i>(Åländsk Sjöfart)</i>
 - Ålandic Ship Building <i>(Åländsk Skeppsbyggnad)</i>
 - Ålandic Red Granite <i>(Ålands Röda Granit)</i>
-- Ålandic Postal System <i>(Ålands Postsystemet)</i>
+- Ålandic Postal System <i>(Ålands Postsystem)</i>
 
 
 

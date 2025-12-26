@@ -45,7 +45,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
     - Ak Orda Presidential Palace <i>(Ақорда Резиденциясы)</i>
     - Palace of Peace and Reconciliation <i>(Бейбітшілік пен Келісім Сарайы)</i>
     - Independence Square and Kazak Eli Monument <i>(Тәуелсіздік Алаңы және Қазақ Елі Монументі)</i>
-    - Park of Lovers <i>(Жастар Саябағы)</i>
+    - Park of Lovers <i>(Ғашықтар Саябағы)</i>
     - Hazret Sultan Mosque <i>(Хазірет Сұлтан Мешіті)</i>
 2. Kostanay
     - Central Park <i>(Орталық Саябақ)</i>
@@ -95,7 +95,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - The Baige Horse Race <i>(Бәйге)</i> 
 - The Assyk Game <i>(Асық)</i> 
 - Kazakh Ornaments <i>(Қазақтың Ұлттық Ою-өрнегі)</i> 
-- Kazakh Wrestling <i>(Қазақша Күресі)</i>
+- Kazakh Wrestling <i>(Қазақша Күрес)</i>
 - Kazakh Folklore <i>(Қазақ Фольклоры)</i>  
 - Authentic Musical Instrument: Dombra <i>(Домбыра)</i>
 - Authentic Garb: Shapan & Borik <i>(Шапан пен Бөрік)</i> 

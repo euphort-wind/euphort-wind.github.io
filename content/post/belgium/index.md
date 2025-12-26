@@ -45,7 +45,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
     - The Mont des Arts <i>(Mont des Arts / Kunstberg)</i>
     - The Church of Our Lady of the Chapel <i>(Église Notre-Dame-de-la-Chapelle / Onze-Lieve-Vrouw-ter-Kapellekerk)</i>
 2.  Saint-Josse-ten-Noode
-    - The Saint-Josse-ten-Noode City Hall <i>(Mairie de Saint-Josse-ten-Noode / Gemeentehuis van Sint-Joost-ten-Node)</i>
+    - The Saint-Josse-ten-Noode City Hall <i>(Maison Communale de Saint-Josse-ten-Noode / Gemeentehuis van Sint-Joost-ten-Node)</i>
     - The Botanical Garden <i>(Jardin Botanique / Kruidtuin)</i>
     - The World Trade Center <i>(World Trade Center / World Trade Center)</i>
 3.  Schaerbeek 
@@ -77,7 +77,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 🇺🇳 Danzel (DJ). Genre: electro house
 - 🇺🇳 Basto (DJ). Genre: progressive house
 - 🇺🇳 Lost Frequencies (DJ). Genre: pop
-- 🇺🇳 Charlotte de Witte (DJ). Genre: house 
+- 🇺🇳 Charlotte de Witte (DJ). Genre: dark techno
 
 <b>🎚️ Contribution to EDM: </b>
 - Belgian Popcorn. Originated: late 1970s
@@ -93,7 +93,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - Martino Sandwich <i>(Martino Sandwich / Martino Sandwich)</i>
 - Belgian Chocolate & Pralines <i>(Chocolats et Pralines Belges / Belgische Chocolade en Pralines)</i>
 - Belgian Waffles <i>(Gaufres Belges / Belgische Wafels)</i>
-- Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Blue Moon", "Leffe", "Delirium")</i>
+- Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Leffe", "Delirium")</i>
 - <u>Brussels-Capital (Regional Special):</u> Stewed Brussels Sprouts <i>(Choux de Bruxelles / Spruitjes)</i>
 - <u>Flanders (Regional Special):</u> Shrimp Croquettes <i>(Garnaalkroket)</i>
 - <u>Flanders (Regional Special):</u> Flemish Stew <i>(Stoofvlees)</i>

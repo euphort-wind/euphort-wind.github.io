@@ -117,7 +117,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - Georgian Wine <i>(Brands: "Keburia Rkatsiteli", "Khareba Rkatsiteli", "GRW Saperavi", "Duruji Valley Kisi Qvevri", "Dugladze Mukuzani", "Duruji Valley Kindzmarauli", Kakhetian Home-Made Kindzmarauli, etc.)</i> 
 - Georgian Chacha <i>(Brands: "Askaneli Brothers Chacha", Georgian Home-Made Chacha, etc.)</i> 
 - <u>Kakheti (Regional Special):</u> Chakapuli <i>(ჩაქაფული)</i>
-- <u>Kakheti (Regional Special):</u> Kakhetian Khashlama <i>(ჰაშლამა)</i>
+- <u>Kakheti (Regional Special):</u> Kakhetian Khashlama <i>(ხაშლამა)</i>
 - <u>Kakheti (Regional Special):</u> Chashushuli <i>(ჩაშუშული)</i>
 - <u>Kakheti (Regional Special):</u> Mtsvadi <i>(მწვადი)</i>
   - Mtsvadi-Style Pork <i>(ღორის მწვადი)</i>
@@ -153,7 +153,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Georgia <i>(დამოუკიდებლობის დღე)</i>. Month: May
-- <u>Tbilisi-Capital (Regional Special):</u> Tbilisoba Festival <i>(სვეტიცხოვლობა)</i>. Month: October
+- <u>Tbilisi-Capital (Regional Special):</u> Tbilisoba Festival <i>(თბილისობა)</i>. Month: October
 - <u>Mtskheta-Mtianeti (Regional Special):</u> Day of Svetitskhoveli Cathedral <i>(სვეტიცხოვლობა)</i>. Month: October
 - <u>Kakheti (Regional Special):</u> Alaverdoba Festival <i>(ალავერდობა)</i>. Month: September
 

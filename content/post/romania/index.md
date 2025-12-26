@@ -72,9 +72,9 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
     - The Beör Palace <i>(Palatul Beör)</i>
     - Unitarian Church <i>(Biserica Unitariană)</i>
 7. Sighișoara
-    - Old Town Sighișoara <i>(Sighișoara Citadel)</i>
+    - Old Town Sighișoara <i>(Cetatea Sighișoara)</i>
     - Sighișoara Clock Tower <i>(Turnul cu Ceas)</i>
-    - The Church on the Hil <i>(Biserica din Deal)</i>
+    - The Church on the Hill <i>(Biserica din Deal)</i>
     - Vlad Dracul House <i>(Casa Vlad Dracul din Sighișoara)</i>
     - The Scholar's Stairs <i>(Scara Acoperită)</i>
     - Sighișoara City Hall <i>(Primăria Municipiului)</i>

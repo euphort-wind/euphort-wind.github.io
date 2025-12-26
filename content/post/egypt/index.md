@@ -6,7 +6,7 @@ summary: Trip to Egypt
 gallery_item:
   - album: egypt
     image: 1bedoin.jpg
-    caption: The Bedouins Stop
+    caption: The Bedouin Stop
   - album: egypt
     image: 2camel.jpg
     caption: Dromedary Camel
@@ -59,7 +59,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - Ful Medames <i>(فول مدمس)</i>
 - Aish Baladi <i>(عيش بلدي)</i>
 - Falafel <i>(طعمية)</i>
-- Basbousa <i>(بسبوسه)</i>
+- Basbousa <i>(بسبوسة)</i>
 - Karkadé Tea <i>(كَركَديه)</i>
 
 
@@ -82,14 +82,14 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - Ancient Egyptian Religion <i>(ديانة قدماء المصريين)</i>
   - Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة)</i>
   - Ancient Authentic Musical Instrument: Sistrum <i>(الصلاصل)</i>
-  - Ancient Authentic Garb: Khat & Shendyt <i>(شنديت و الخات)</i>
+  - Ancient Authentic Garb: Khat & Shendyt <i>(الخات والشنديت)</i>
 - The Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - National Day of Egypt  <i>(اليوم الوطني المصري)</i>. Month: July
 - Sham Ennessim Festival <i>(شم النسيم)</i>. Month: April or May
-- Wafaa El-Nil Festival <i>(عيد وفاء النيل)</i>. Month: February or March
+- Wafaa El-Nil Festival <i>(عيد وفاء النيل)</i>. Month: August
 
 <b>💐 National flower: </b> White Egyptian Lotus <i>(نيلوفر اللوتس)</i>
 

@@ -92,7 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 
 <b>🎬 Local movies:</b>
 - Nova Lituania <i>(Nova Lituania)</i>. Year: 2019. Genre: drama
-- The Generation of Evil <i>(Piktuju Karta)</i>. Year: 2021. Genre: thriller
+- The Generation of Evil <i>(Piktųjų Karta)</i>. Year: 2021. Genre: thriller
 - Zero 2 <i>(Zero 2)</i>. Year: 2010. Genre: thriller / black comedy
 
 

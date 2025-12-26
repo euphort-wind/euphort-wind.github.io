@@ -91,7 +91,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 - Lokša <i>(Lokša)</i> 
 - Podpecník <i>(Podplamenník)</i>
 - Šúľance <i>(Šúľance)</i>
-- Karamelový Větrník <i>(Karamelový Větrník)</i>
+- Karamelový Veterník <i>(Karamelový Veterník)</i>
 - Chicken Breast Steak with Peach <i>(Kuracie Prsia s Broskyňou)</i>
 - Borovička <i>(Brand: "Spišská")</i>
 - <u>Bratislava (Regional Special):</u> Bratislavský Rožok <i>(Bratislavský Rožok)</i>
@@ -108,7 +108,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 - Slovak Wire Craft and Art <i>(Drotárstvo)</i>
 - The Modrotlač Craft <i>(Modrotlač)</i>
 - The Odzemek Dance <i>(Odzemek)</i> 
-- The Legend of Juraj Jánošík <i>(The Legend of Juraj Jánošík)</i>
+- The Legend of Juraj Jánošík <i>(Legenda o Jurajovi Jánošíkovi)</i>
 - Authentic Musical Instrument: Fujara <i>(Fujara)</i>
 - Authentic Garb: Slovak Kroj <i>(Kroj)</i>
 - The Culture of Rusyns <i>(Rusíni / Русины)</i>

@@ -1,7 +1,7 @@
 ---
 title: 🇧🇬 Bulgaria 
 date: '2025-08-01'
-summary: Trip to Bulagaria
+summary: Trip to Bulgaria
 
 gallery_item:
   - album: bulgaria
@@ -95,7 +95,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🇧🇬 КаriZма (duo). Genre: pop
 - 🇧🇬 Robi (singer). Genre: pop
 - 🇧🇬 D2 (band). Genre: rock
-- 🇧🇬 Azis (singer). Genre: pop
+- 🇧🇬 Azis (singer). Genre: chalga
 - 🇧🇬 Avenue (duo). Genre: pop
 - 🇧🇬 Orlin Goranov (singer). Genre: retro pop
 - 🇧🇬 Молец (duo). Genre: pop

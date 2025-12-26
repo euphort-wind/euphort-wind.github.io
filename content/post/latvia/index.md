@@ -38,7 +38,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 1. Riga
     - Old Riga <i>(Vecrīga)</i>
     - House of the Blackheads <i>(Melngalvju Nams)</i>
-    - House of the Livonian Noble Corporation <i>(Vidzemes Bruņniecības Nams)</i>
+    - House of the Livonian Noble Corporation <i>(Saeimas Nams)</i>
     - The Powder Tower <i>(Pulvertornis)</i>
     - Latvian Museum of National History <i>(Latvijas Nacionālais Vēstures Muzejs)</i>
     - Riga Cathedral <i>(Rīgas Doms)</i>
@@ -99,12 +99,12 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Latvia <i>(Latvijas Republikas Proklamēšanas Diena)</i>. Month: November
-- Latvian Song and Dance Festival <i>(VispārēJie Latviešu Dziesmu un Deju Svētki)</i>. Month: June to July
+- Latvian Song and Dance Festival <i>(Vispārējie Latviešu Dziesmu un Deju Svētki)</i>. Month: June to July
 - Līgo <i>(Līgo)</i>. Month: June
 - Jāņi <i>(Jāņi)</i>. Month: June
 - Miķeļi <i>(Miķeļdiena)</i>. Month: September
 - Mārtiņi <i>(Mārtiņdiena)</i>. Month: November
-- Meteņi <i>(Meteņdienu)</i>. Month: February or March
+- Meteņi <i>(Meteņdiena)</i>. Month: February or March
 
 
 <b>💐 National flower: </b> Ox-eye Daisy <i>(Parastā Pīpene)</i>

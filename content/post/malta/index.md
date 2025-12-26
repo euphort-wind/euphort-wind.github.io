@@ -47,7 +47,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 2. Birgu
     - Fort St. Angelo <i>(Forti Sant'Anġlu)</i>
     - Xatt il-Forn <i>(Xatt il-Forn)</i>
-    - Victory Square <i>(Pjazza i-Vitorja)</i>
+    - Victory Square <i>(Pjazza il-Vitorja)</i>
     - The Collegiate church of Saint Lawrence <i>(Knisja Kolleġġjata ta' San Lawrenz)</i>  
     - Collachio <i>(Collachio)</i> 
 3. St. Paul's Bay

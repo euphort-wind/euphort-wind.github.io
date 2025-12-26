@@ -33,7 +33,7 @@ gallery_item:
 Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Zelyonaya Polyana, Kusimovsky Rudnik, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Kyshtym, Aleksandrovskii-Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralny Vody, Fiagdon, Dargavs, Fasnal, Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
+<b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Zelyonaya Polyana, Kusimovsky Rudnik, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Kyshtym, Aleksandrovskii-Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralnye Vody, Fiagdon, Dargavs, Fasnal, Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Moscow
@@ -109,7 +109,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
     - Sochi Central Waterfront <i>(Центральная Набережная Сочи)</i> 
     - Skypark <i>(Скайпарк)</i> 
     - Dendrariy Park <i>(Парк "Дендрарий")</i> 
-    - Riviera Park <i>(Парк "Ревьера")</i> 
+    - Riviera Park <i>(Парк "Ривьера")</i> 
     - Yew-Boxwood Grove <i>(Тисо-Самшитовая Роща)</i> 
     - Agur Waterfalls <i>(Агурские Водопады)</i> 
     - Observation Tower on Mount Akhun <i>(Смотровая Башня на г. Ахун)</i> 
@@ -160,8 +160,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
     - Arkhyz Ski-Center and the Caucasus Mountains <i>(ГЛЦ "Архыз" и Кавказские Горы)</i>
     - Special Astrophysical Observatory <i>(Обсерватория)</i>
     - Nizhnearkhyz Settlement <i>(Нижнеархызское Городище)</i>
-24. Mineralny Vody
-    - Mineralny Vody Central Station <i>(Железнодорожный Вокзал)</i>
+24. Mineralnye Vody
+    - Mineralnye Vody Central Station <i>(Железнодорожный Вокзал)</i>
     - City Park <i>(Городской Парк)</i>
 25. Fiagdon
     - Tsimiti <i>(Цимити)</i>

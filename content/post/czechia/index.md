@@ -57,7 +57,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
     - St. Barbara's Church <i>(Chrám Svaté Barbory)</i>
     - The Italian Court <i>(Vlašský Dvůr)</i>
     - The Stone House in Kutná Hora <i>(Kamenný dům v Kutné Hoře)</i>
-    - Czech Museum of Silver <i>(Ceské Muzeum Stříbra)</i>
+    - Czech Museum of Silver <i>(České Muzeum Stříbra)</i>
     - Plague Column <i>(Morový Sloup)</i>
     - Gothic Stone Fountain <i>(Kamenná Kašna)</i>
 
@@ -93,7 +93,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - Wrong Side Up <i>(Příběhy Obyčejného Šílenství)</i>. Year: 2005. Genre: comedy
 - Restore Point <i>(Bod Obnovy)</i>. Year: 2023. Genre: thriller / fantasy
 - Wild Flowers <i>(Kytice)</i>. Year: 2000. Genre: folk horror
-- Women on the Run <i>(Zeny v Byehu)</i>. Year: 2019. Genre: comedy
+- Women on the Run <i>(Ženy v Běhu)</i>. Year: 2019. Genre: comedy
 
 
 <b>🪔 Authentic features:</b>

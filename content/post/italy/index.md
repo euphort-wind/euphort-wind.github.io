@@ -65,7 +65,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
     - The Uffizi Gallery <i>(Galleria degli Uffizi)</i>
     - The Pitti Palace <i>(Palazzo Pitti)</i>
     - The Fontains of Rampe del Poggi <i>(Fontane delle Rampe del Poggi)</i>
-    - The Ponte Vecchio Bridge <i>(The Ponte Vecchio)</i>
+    - The Ponte Vecchio Bridge <i>(Ponte Vecchio)</i>
     - Michelangelo Square <i>(Piazzale Michelangelo)</i>
     - The Basilica di Santa Croce <i>(Basilica di Santa Croce)</i>
 4. Bologna
@@ -158,7 +158,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🇮🇹 Nu Genea (duo). Genre: jazz funk
 - 🇮🇹 Settembre (singer). Genre: pop
 - 🇮🇹 Vale LP (singer). Genre: pop
-- 🇺🇳 Effel 65 (band). Genre: eurodance
+- 🇺🇳 Eiffel 65 (band). Genre: eurodance
 - 🇺🇳 Giuseppe Ottaviani (DJ). Genre: trance
 - 🇺🇳 Benny Benassi (DJ). Genre: electro house
 - 🇺🇳 Robert Miles (DJ). Genre: dream house
@@ -227,7 +227,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - Italian Liqueur <i>(Brands: "Campari", "Aperol")</i> 
 - <u>Lazio (Regional Special):</u> Pasta Carbonara <i>(Pasta alla Carbonara)</i>
 - <u>Lazio (Regional Special):</u> Saltimbocca <i>(Saltimbocca)</i>
-- <u>Emilia-Romagna (Regional Special):</u> Pasta Bolognese <i>(Ragù alla Bolognese / Ragó)</i>
+- <u>Emilia-Romagna (Regional Special):</u> Ragù alla Bolognese <i>(Ragù alla Bolognese / Ragó)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Lasagna <i>(Lasagna / Lasagna)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Torta di Riso <i>(Torta di Riso / Torta degli Addobbi)</i>
 - <u>Tuscany (Regional Special):</u> Florentine Steak <i>(Bistecca alla Fiorentina)</i>

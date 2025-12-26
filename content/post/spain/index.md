@@ -67,8 +67,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 <b>🥘 Local food & drinks: </b>
 - Manchego Cheese <i>(Queso Manchego)</i>
 - Tapas-Style Snacks <i>(Tapas)</i>
-  - Jamon Serrano Tapas <i>(Jamón Serrano)</i>
-  - Jamon Ibérico Tapas <i>(Jamón Ibérico)</i>
+  - Jamón Serrano Tapas <i>(Jamón Serrano)</i>
+  - Jamón Ibérico Tapas <i>(Jamón Ibérico)</i>
   - Chorizo Tapas <i>(Chorizo)</i>
   - Salchichon Tapas <i>(Salchichón)</i>
 - Paella <i>(Paella)</i>
@@ -76,7 +76,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Churro <i>(Churro)</i>
 - <u>Catalonia (Regional Special):</u> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
 - <u>Catalonia (Regional Special):</u> Pa amb Tomàquet <i>(Pan con Tomate / Pa amb Tomàquet)</i>
-- <u>Catalonia (Regional Special):</u> Escalivada <i>(Escalibada / Espencat)</i>
+- <u>Catalonia (Regional Special):</u> Escalivada <i>(Escalibada / Escalivada)</i>
 
 <b>🎬 Local movies:</b>
 -  The Invisible Guest <i>(Contratiempo)</i>. Year: 2016. Genre: thriller / crime
@@ -97,12 +97,13 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Spanish Cars <i>(Brand: "SEAT")</i>
 - Authentic Musical Instrument: Castanets <i>(Castañuelas)</i> 
 - Authentic Garb: Mantilla and Traje de Luces <i>(Mantilla y Traje de Luces)</i>
-- The Legacy of Iberians <i>(Iberos / Ἴβηρες)</i> 
+- The Legacy of Iberians <i>(Íberos / Ἴβηρες)</i>
 - The Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - <u>Catalonia (Regional Special):</u> The Culture of Catalans <i>(Catalanes / Catalans)</i>
   - <u>Catalonia (Regional Special):</u> Authentic Principle: Seny <i>(Seny / Seny)</i>
   - <u>Catalonia (Regional Special):</u> Catalan Mythology <i>(Mitología Catalana / Mitologia Catalana)</i>
   - <u>Catalonia (Regional Special):</u> Catalan Rumba Dance <i>(Rumba Catalana / Rumba Catalana)</i>
+  - <u>Catalonia (Regional Special):</u> The Sardana Dance <i>(Sardana / Sardana)</i>
   - <u>Catalonia (Regional Special):</u> Catalan Human Towers <i>(Castells / Castells)</i>
   - <u>Catalonia (Regional Special):</u> Catalan Art Nouveau Architecture <i>(Modernisme / Modernisme)</i>
   - <u>Catalonia (Regional Special):</u> Authentic Musical Instrument: Flabiol <i>(Flabiol / Flabiol)</i>
@@ -110,7 +111,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - National Day of Spain <i>(Fiesta Nacional de España)</i>. Month: October
-- Constitution Day of Spain <i>(Dia de la Constitucion Espanola)</i>. Month: December
+- Constitution Day of Spain <i>(Día de la Constitución Española)</i>. Month: December
 - La Tomatina <i>(La Tomatina)</i>. Month: August
 - <u>Catalonia (Regional Special):</u> National Day of Catalonia <i>(Día de Cataluña / Diada Nacional de Catalunya)</i>. Month: September
 - <u>Catalonia (Regional Special):</u> La Mercè <i>(Fiestas de la Merced / La Mercè)</i>. Month: September

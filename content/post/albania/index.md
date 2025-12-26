@@ -41,7 +41,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
     - The Pyramid of Tirana <i>(Piramida e Tiranës)</i>
     - The Bunk'Art-2 <i>(Bunk'Art-2)</i>
     - The Building of the Ministry of Infrastructure and Energy <i>(Ministria e Infrastrukturës dhe Energjisë)</i>
-    - The Polytechnic University of Tirana <i>(Universiteti Politeknik I Tiranës)</i>
+    - The Polytechnic University of Tirana <i>(Universiteti Politeknik i Tiranës)</i>
     - The New Bazaar <i>(Pazari i Ri)</i>  
     - The Grand Park of Tirana <i>(Parku i Madh i Tiranës)</i>
     - The Murat Toptani Street <i>(Rruga Murat Toptani)</i>
@@ -87,7 +87,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Besa <i>(Besa)</i>
 - The System of Albanian Tribes <i>(Fiset Shqiptare)</i>
-- Bektashism <i>(Bektashi)</i>
+- Bektashism <i>(Bektashizmi)</i>
 - Albanian Iso-Polyphony <i>(Iso-Polifonia Shqiptare)</i>
 - The Shota Dance <i>(Shotë)</i>
 - Albanian Bunkers <i>(Bunkerët)</i>
@@ -108,7 +108,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 <b>🦉 Local wisdom:</b> "Only two men can disrupt an assembly: one who know and doesn't speak, and the other who doesn't know and speak." / "<i>Dy burra mund ta prishin kuvendin: njëri që di dhe nuk flet dhe tjetri që s’di dhe flet.</i>" — Albanian proverb
 
 
-<b>👨‍🎓 The oldest university:</b> The Polytechnic University of Tirana <i>(Universiteti Politeknik I Tiranës)</i>, Tirana, est. 1951. 
+<b>👨‍🎓 The oldest university:</b> The Polytechnic University of Tirana <i>(Universiteti Politeknik i Tiranës)</i>, Tirana, est. 1951. 
 
 
 {{< gallery album="albania" crop_options="150x150">}}

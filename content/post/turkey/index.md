@@ -97,7 +97,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 
 
 <b>🥘 Local food & drinks: </b>
-- Döner Kebab <i>(Döner Kebab)</i>
+- Döner Kebab <i>(Döner Kebap)</i>
 - Baklava <i>(Baklava)</i>
   - Pistachio Baklava <i>(Fıstıklı Baklava)</i>
   - Walnut Baklava <i>(Cevizli Baklava)</i>
@@ -110,11 +110,11 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - Pide <i>(Pide)</i>
   - Pide with Minced Beef <i>(Kıymalı Pide)</i>
   - Pide with Cheese <i>(Peynirli Pide)</i>
-- Muhlama <i>(Mıhlama)</i>
+- Kuymak <i>(Mıhlama)</i>
 - Ashure <i>(Aşure)</i>
 - Kazandibi <i>(Kazandibi)</i>
 - Sekerpare <i>(Şekerpare)</i>
-- Burek <i>(Börek)</i>
+- Börek <i>(Börek)</i>
 - Turkish Ice-cream <i>(Dondurma)</i>
 - Turkish Tea <i>(Türk Çayı)</i>
 - Turkish Turnip Water <i>(Şalgam Suyu)</i>
@@ -154,7 +154,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 <b>💐 National flower: </b> Red Tulip <i>(Kırmızı Lale)</i>
 
 
-<b>🦉 Local wisdom:</b> "A wise man does not say what he knows; The stupid man does not know what he is saying." / <i>"Akıllı adam bildiğini söylemez; salak adam söylediğini bilmez."</i> — Turkish proverb
+<b>🦉 Local wisdom:</b> "The wise man does not say what he knows; The fool does not know what he says." / <i>"Akıllı adam bildiğini söylemez; salak adam söylediğini bilmez."</i> — Turkish proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Istanbul University <i>(İstanbul Üniversitesi)</i>, Istanbul, est. 1453. 

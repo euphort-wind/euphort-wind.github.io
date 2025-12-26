@@ -141,7 +141,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 
 <b>🥘 Local food & drinks: </b>
-- Pretzel <i>(Bretzel)</i>
+- Pretzel <i>(Brezel)</i>
 - Sauerbraten <i>(Sauerbraten)</i>
 - German Sausages <i>(Deutsche Würste)</i>
   - Bratwurst <i>(Bratwurst)</i>

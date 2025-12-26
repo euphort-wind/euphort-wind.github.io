@@ -40,9 +40,9 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
     - The Liberty Square <i>(Piazza della Libertà)</i>
     - The Crossbowmen Quarry <i>(Cava dei Balestrieri)</i>
     - The Basilica of Saint Marinus <i>(Basilica di San Marino)</i>
-    - The Cesta Tower <i>(Torre della Fratta)</i>
+    - The Cesta Tower <i>(Seconda Torre)</i>
     - The Guaita Tower <i>(La Rocca)</i>
-    - The Torture Museum <i>(Museo Della Tortura)</i>
+    - The Torture Museum <i>(Museo della Tortura)</i>
     - Chiesa di San Francesco <i>(Chiesa di San Francesco)</i>
     - Giuseppe Garibaldi Monument <i>(Monumento a Giuseppe Garibaldi)</i>
 
