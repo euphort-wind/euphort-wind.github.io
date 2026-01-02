@@ -71,13 +71,14 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 
 
 <b>🥘 Local food & drinks: </b>
+- Karelian Pastry <i>(Karjalanpiirakka)</i>
 - Finnish Soups <i>(Suomalaiset Keitot)</i>
   - Finnish Salmon Soup <i>(Lohikeitto)</i>
   - Finnish Fish Soup <i>(Kalakeitto)</i>
   - Finnish Pea Soup <i>(Hernekeitto)</i>
-- Karelian Pastry <i>(Karjalanpiirakka)</i>
-- Joulutorttu <i>(Joulutorttu)</i>
+  - Kesäkeitto <i>(Kesäkeitto)</i>
 - Lihapiirakka <i>(Lihapiirakka)</i>
+- Joulutorttu <i>(Joulutorttu)</i>
 - Finnish Lent Buns <i>(Laskiaispulla)</i>
 - Finnish Beer <i>(Brand: "Lapin Kulta")</i>
 - Finnish Liqueur <i>(Brand: "Minttu")</i>

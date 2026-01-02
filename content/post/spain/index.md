@@ -65,18 +65,25 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 
 <b>🥘 Local food & drinks: </b>
-- Manchego Cheese <i>(Queso Manchego)</i>
 - Tapas-Style Snacks <i>(Tapas)</i>
   - Jamón Serrano Tapas <i>(Jamón Serrano)</i>
   - Jamón Ibérico Tapas <i>(Jamón Ibérico)</i>
   - Chorizo Tapas <i>(Chorizo)</i>
   - Salchichon Tapas <i>(Salchichón)</i>
-- Paella <i>(Paella)</i>
+  - Boquerones en Vinagre <i>(Boquerones en Vinagre)</i>
+- Gazpacho <i>(Gazpacho)</i>
 - Spanish Omelette <i>(Tortilla Española)</i>
+- Paella <i>(Paella)</i>
 - Churro <i>(Churro)</i>
-- <u>Catalonia (Regional Special):</u> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
+- Quince Paste <i>(Dulce de Membrillo)</i>
+- Manchego Cheese <i>(Queso Manchego)</i>
+- Tomate Frito Sauce <i>(Tomate Frito)</i>
 - <u>Catalonia (Regional Special):</u> Pa amb Tomàquet <i>(Pan con Tomate / Pa amb Tomàquet)</i>
+- <u>Catalonia (Regional Special):</u> Esqueixada <i>(Esqueixada/ Esqueixada)</i>
 - <u>Catalonia (Regional Special):</u> Escalivada <i>(Escalibada / Escalivada)</i>
+- <u>Catalonia (Regional Special):</u> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
+- <u>Catalonia (Regional Special):</u> Mató Cheese <i>(Mató / Mató)</i>
+
 
 <b>🎬 Local movies:</b>
 -  The Invisible Guest <i>(Contratiempo)</i>. Year: 2016. Genre: thriller / crime

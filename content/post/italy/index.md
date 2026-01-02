@@ -192,13 +192,6 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Mortadella <i>(Mortadella)</i> 
   - Prosciutto <i>(Prosciutto Crudo)</i> 
   - Salami <i>(Salamini Italiani alla Cacciatora)</i> 
-- Italian Cheese <i>(Formaggio Italiano)</i>
-  - Parmesan <i>(Parmigiano Reggiano)</i>
-  - Mozzarella <i>(Mozzarella)</i>
-  - Gorgonzola <i>(Gorgonzola)</i>
-  - Ricotta <i>(Ricotta)</i>
-  - Burrata <i>(Burrata)</i>
-  - Mascarpone <i>(Mascarpone)</i>
 - Italian Pasta <i>(Pasta)</i>
   - Farfalle <i>(Farfalle)</i>
   - Tagliatelle <i>(Tagliatelle)</i>
@@ -210,18 +203,25 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Quattro Formaggi <i>(Quattro Formaggi)</i>
   - Capricciosa <i>(Capricciosa)</i>
   - Quattro Stagioni <i>(Quattro Stagioni)</i>
+- Bruschetta <i>(Bruschetta)</i>
+- Panino <i>(Panino)</i>
+- Frittata <i>(Frittata)</i>
+- Risotto <i>(Risotto)</i>
+- Ossobuco <i>(Osso Buco)</i>
+- Panna Cotta <i>(Panna Cotta)</i>
+- Tiramisu <i>(Tiramisu)</i>
+- Italian Cheese <i>(Formaggio Italiano)</i>
+  - Parmesan <i>(Parmigiano Reggiano)</i>
+  - Mozzarella <i>(Mozzarella)</i>
+  - Gorgonzola <i>(Gorgonzola)</i>
+  - Ricotta <i>(Ricotta)</i>
+  - Burrata <i>(Burrata)</i>
+  - Mascarpone <i>(Mascarpone)</i>
+- Pesto Sauce <i>(Pesto)</i>
 - Italian Coffee Drinks <i>(Caffè Italiano)</i> 
   - Cappuccino <i>(Cappuccino)</i>
   - Latte <i>(Caffè e Latte)</i>
   - Macchiato <i>(Caffè Macchiato)</i> 
-- Bruschetta <i>(Bruschetta)</i>
-- Panino <i>(Panino)</i>
-- Risotto <i>(Risotto)</i>
-- Frittata <i>(Frittata)</i>
-- Pesto Sauce <i>(Pesto)</i>
-- Ossobuco <i>(Osso Buco)</i>
-- Panna Cotta <i>(Panna Cotta)</i>
-- Tiramisu <i>(Tiramisu)</i>
 - Limoncello <i>(Brand: "Pallini")</i> 
 - Vermouth <i>(Brand: "Martini")</i> 
 - Italian Liqueur <i>(Brands: "Campari", "Aperol")</i> 
@@ -231,30 +231,31 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - <u>Emilia-Romagna (Regional Special):</u> Lasagna <i>(Lasagna / Lasagna)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Torta di Riso <i>(Torta di Riso / Torta degli Addobbi)</i>
 - <u>Tuscany (Regional Special):</u> Florentine Steak <i>(Bistecca alla Fiorentina)</i>
+- <u>Sicily (Regional Special):</u> Caponata <i>(Caponata / Capunata)</i>
+- <u>Sicily (Regional Special):</u> Panella <i>(Panella / Panella)</i>
+- <u>Sicily (Regional Special):</u> Pani câ Meusa <i>(Pane con Meusa / Pani câ Meusa)</i>
 - <u>Sicily (Regional Special):</u> Arancini <i>(Arancini / Arancini)</i>
   - Arancini with Pistachio <i>(Arancini al Pistacchio / Arancini ô Pistacchiu)</i>
   - Arancini with Ragu <i>(Arancini al Ragù / Arancini cu Ragu)</i> 
   - Arancini with Mozzarella and Ham <i>(Arancini al Burro / Arancini cu Burru)</i>  
   - Arancini with Eggplant <i>(Arancini alla Norma / Arancini â Norma)</i>  
-- <u>Sicily (Regional Special):</u> Caponata <i>(Caponata / Capunata)</i>
-- <u>Sicily (Regional Special):</u> Parmigiana <i>(Parmigiana / Parmigiana)</i>
 - <u>Sicily (Regional Special):</u> Pasta con le Sarde <i>(Pasta con le Sarde / Pasta chî Sardi)</i>
 - <u>Sicily (Regional Special):</u> Pasta alla Norma <i>(Pasta alla Norma / Pasta â Norma)</i>
-- <u>Sicily (Regional Special):</u> Panella <i>(Panella / Panella)</i>
-- <u>Sicily (Regional Special):</u> Pani câ Meusa <i>(Pane con Meusa / Pani câ Meusa)</i>
+- <u>Sicily (Regional Special):</u> Parmigiana <i>(Parmigiana / Parmigiana)</i>
 - <u>Sicily (Regional Special):</u> Cannoli <i>(Cannolo / Cannolu)</i>
 - <u>Sicily (Regional Special):</u> Granita <i>(Granita Siciliana / Granita)</i>
 - <u>Sicily (Regional Special):</u> Frutta Martorana <i>(Frutta di Martorana / Frutta Marturana)</i>
 - <u>Campania (Regional Special):</u> Neapolitan Pizza <i>(Pizza Napoletana / Pizza Napulitana)</i>
   - Pizza Marinara <i>(Pizza alla Marinara / Pizza a Marinara)</i>
   - Pizza Margherita <i>(Pizza Margherita / Pizza Margherita)</i> 
-- <u>Campania (Regional Special):</u> Carrozza <i>(Mozzarella in Carrozza / Muzzarella 'n Carrozza)</i>
 - <u>Campania (Regional Special):</u> Neapolitan Calzone <i>(Calzone Napoletano / Cauzone Napulitano)</i>
+- <u>Campania (Regional Special):</u> Carrozza <i>(Mozzarella in Carrozza / Muzzarella 'n Carrozza)</i>
 - <u>Campania (Regional Special):</u> Spaghetti alle Vongole <i>(Spaghetti alle Vongole / Spaghetti cu 'e Vongole)</i>
-- <u>Campania (Regional Special):</u> Sfogliatella <i>(Sfogliatelle / Sfugliatelle)</i>
 - <u>Campania (Regional Special):</u> Pasta alla Genovese <i>(Pasta alla Genovese / Pasta â Genovese)</i>
-- <u>Campania (Regional Special):</u> Taralli <i>(Taralli / Taralle)</i>
+- <u>Campania (Regional Special):</u> Sfogliatella <i>(Sfogliatelle / Sfugliatelle)</i>
 - <u>Campania (Regional Special):</u> Pastiera Napoletana <i>(Pastiera Napoletana / Pastiera Napulitana)</i>
+- <u>Campania (Regional Special):</u> Taralli <i>(Taralli / Taralle)</i>
+
 
 
 <b>🪔 Authentic features:</b>

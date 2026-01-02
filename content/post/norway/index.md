@@ -93,17 +93,17 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 
 
 <b>🥘 Local food & drinks: </b>
-- Brunost Cheese <i>(Brunost)</i>
-- Fårikål <i>(Fårikål)</i>
 - Gravlaks <i>(Gravlaks)</i>
 - Smoked Salmon <i>(Røkt Laks)</i>
 - Sodd <i>(Sodd)</i>
+- Fårikål <i>(Fårikål)</i>
 - Pinnekjøtt with Puréed Swede, Sausages and Potatoes <i>(Pinnekjøtt med Rotmos, Poteter og Pølse)</i>
 - Norwegian Meatcakes with Pea Purée and Brown Gravy <i>(Kjøttkaker med Ertepuré og Brun Saus)</i>
-- Flatbrød <i>(Flatbrød)</i>
-- Lefse <i>(Lefse)</i>
 - Rømmegrøt <i>(Rømmegrøt)</i>
 - Norwegian Waffles <i>(Norske Vafler)</i>
+- Brunost Cheese <i>(Brunost)</i>
+- Flatbrød <i>(Flatbrød)</i>
+- Lefse <i>(Lefse)</i>
 - Julebrus <i>(Brand: "Hansa")</i>
 - Norwegian Akevitt <i>(Brands: "Løiten", "Linie")</i>
 - <u>Vestland (Regional Special):</u> Bergen Pressed Cod <i>(Persetorsk)</i>

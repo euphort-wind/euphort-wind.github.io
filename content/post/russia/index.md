@@ -218,28 +218,28 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
 - Olivier Salad <i>(Салат Оливье)</i> 
 - Kholodets <i>(Холодец)</i> 
 - Dressed Herring <i>(Селёдка под Шубой)</i> 
-- Russian Caviar Sandwiches <i>(Бутерброд с Икрой)</i> 
 - Solyanka <i>(Солянка)</i> 
-- Ukha <i>(Уха)</i> 
-- Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
-- Beef Stroganoff <i>(Бефстроганов)</i> 
+- Ukha <i>(Уха)</i>
 - Okroshka <i>(Окрошка)</i>  
     - Okroshka with Kefir <i>(Окрошка на Кефире)</i> 
-    - Okroshka with Kvass <i>(Окрошка на Квасе)</i> 
-- Pelmeni <i>(Пельмени)</i>
+    - Okroshka with Kvass <i>(Окрошка на Квасе)</i>  
 - Coulibiac <i>(Кулебяка)</i> 
+- Russian Caviar Sandwiches <i>(Бутерброд с Икрой)</i> 
+- Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
+- Beef Stroganoff <i>(Бефстроганов)</i> 
+- Pelmeni <i>(Пельмени)</i>
 - Easter Paskha <i>(Творожная Пасха)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
-- Russian Vodka <i>(Brands: "Derevenka", "Tsarskaya", etc.)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
+- Russian Vodka <i>(Brands: "Derevenka", "Tsarskaya", etc.)</i> 
 - <u>Bashkortostan (Regional Special):</u> Bashkir Uchpuchmak <i>(Эчпочмак / Өсбосмаҡ)</i>
 - <u>Bashkortostan (Regional Special):</u> Peremech <i>(Беляш / Бәрәмес)</i>
 - <u>Bashkortostan (Regional Special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
-- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Khychin <i>(Хычин / Хычин)</i>
     - Khychin with Meat <i>(Хычин c Мясом / Эт Хычин)</i>
     - Khychin with Cheese & Potatoes <i>(Хычин c Сыром и Картошкой / Гардош Хычин)</i> 
     - Khychin with Beet Leaves <i>(Хычин c Листьями Свёклы / Чюгюндюр Хычин)</i> 
+- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Libzhe <i>(Либжа / Либжэ)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Lyagur <i>(Лягур / Лягур)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>

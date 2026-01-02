@@ -71,12 +71,11 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 
 
 <b>🥘 Local food & drinks: </b>
-- Hermelín Cheese <i>(Hermelín)</i>
+- Tatarák <i>(Tatarák)</i>
+- Kulajda <i>(Kulajda)</i>
 - Chlebíček <i>(Chlebíček)</i>
   - Chlebíček with Ham <i>(Chlebíček se Šunkou)</i>
   - Chlebíček with Hermelín <i>(Hermelínový Chlebíček)</i>
-- Tatarák <i>(Tatarák)</i>
-- Kulajda <i>(Kulajda)</i>
 - Czech Fried Cheese <i>(Smažený Sýr)</i>
 - Knedlíky <i>(Knedlíky)</i>
 - Svíčková <i>(Svíčková na Smetaně)</i>
@@ -84,8 +83,9 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - Bohemian Roast Duck <i>(Pečená Kachna)</i>
 - Czech Trdelník <i>(Trdelník)</i>
 - Czech Kolache <i>(Koláč)</i>
-- Czech Herbal Bitter <i>(Brand: "Becherovka")</i>
+- Hermelín Cheese <i>(Hermelín)</i>
 - Czech Beer <i>(Brands: "Pilsner Urquell", "Staropramen", "Gambrinus")</i>
+- Czech Herbal Bitter <i>(Brand: "Becherovka")</i>
 - <u>Prague-Capital (Regional Special):</u> Prague Ham <i>(Pražská Šunka)</i>
 
 

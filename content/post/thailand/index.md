@@ -51,11 +51,10 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 
 <b>🥘 Local food & drinks: </b>
 - Tom Yam Soup <i>(ต้มยำ)</i>
+- Thai Suki <i>(สุกี้)</i>
 - Pad Thai <i>(ผัดไทย)</i>
 - Thai Pineapple Fried Rice <i>(ข้าวผัดสับปะรด)</i>
 - Suea Rong Hai <i>(เสือร้องไห้)</i>
-- Khao Pad <i>(ข้าวผัด)</i>
-- Thai Suki <i>(สุกี้)</i>
 - Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
 - Thai Rum <i>(Brand: "SangSom")</i>
 - <u>Phuket (Regional Special)</u>: Grilled Seafood on Skewers <i>(ซีฟู้ดย่างเสียบไม้)</i>

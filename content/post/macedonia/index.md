@@ -79,16 +79,16 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 
 
 <b>🥘 Local food & drinks: </b>
-- Bieno Sirenje Cheese <i>(Биено Сирење)</i>
 - Macedonian Relishes <i>(Македонско Мезе)</i>
   - Ajvar <i>(Ајвар)</i>
   - Malidzano <i>(Малиџано)</i>
   - Pindjur <i>(Пинџур)</i>
+- Pastrmajlija <i>(Пастрмајлија)</i>
 - Tavče Gravče <i>(Тавче-гравче)</i>
 - Selsko Meso <i>(Селско Месо)</i>
 - Turli Tava <i>(Турли Тава)</i>
 - Popara <i>(Попара)</i>
-- Pastrmajlija <i>(Пастрмајлија)</i>
+- Bieno Sirenje Cheese <i>(Биено Сирење)</i>
 - Macedonian Mastika <i>(Brand: "Grozd Strumica Mastika")</i>
 - <u>Jugozapaden (Regional Special):</u> Ohrid Gjomleze <i>(Охридско Ѓомлезе)</i>
 - <u>Jugozapaden (Regional Special):</u> Ohrid Trout with Vegetables <i>(Охридска Пастрмка со Зеленчук)</i>

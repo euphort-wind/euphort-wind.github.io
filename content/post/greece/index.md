@@ -76,17 +76,18 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 
 
 <b>🥘 Local food & drinks: </b>
-- Feta Cheese <i>(Φέτα)</i>
-- Greek Salad <i>(Ελληνική σαλάτα)</i>
-- Moussaka  <i>(Μουσακάς)</i>
+- Greek Salad <i>(Ελληνική Σαλάτα)</i>
 - Taramasalata <i>(Ταραμοσαλάτα)</i>
-- Gyros <i>(Γύρος)</i>
-- Tzatziki <i>(Τζατζίκι)</i>
 - Avgolemono Soup <i>(Αυγολέμονο)</i>
+- Gyros <i>(Γύρος)</i>
+- Moussaka  <i>(Μουσακάς)</i>
+- Feta Cheese <i>(Φέτα)</i>
+- Tzatziki <i>(Τζατζίκι)</i>
 - Frappé <i>(Φραπέ)</i>
-- Greek Liqueur <i>(Brand: "Metaxa")</i> 
-- <u>Crete (Regional Special):</u> Cretan “Turban” Pies <i>(Σαρικόπιτες)</i>
+- Greek Liqueur <i>(Brand: "Metaxa")</i>
 - <u>Crete (Regional Special):</u> Dakos <i>(Ντάκος)</i>
+- <u>Crete (Regional Special):</u> Cretan “Turban” Pies <i>(Σαρικόπιτες)</i>
+
 
 
 <b>🎬 Local movies:</b>

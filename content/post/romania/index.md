@@ -107,27 +107,28 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 
 
 <b>🥘 Local food & drinks: </b>
-- Romanian Cheese <i>(Brânză Românească)</i>
-  - Brânză de Vaci <i>(Brânză de Vaci)</i>
-  - Telemea <i>(Telemea)</i>
 - Pastrami <i>(Pastrami)</i>
-- Ciorbă de Burtă <i>(Ciorbă de Burtă)</i>
 - Salată de Icre <i>(Salată de Icre)</i>
 - Salată de Boeuf <i>(Salată de Boeuf)</i>
-- Ostropel <i>(Ostropel)</i>
-- Amandine <i>(Amandină)</i>
+- Ciorbă de Burtă <i>(Ciorbă de Burtă)</i>
 - Plăcintă <i>(Plăcintă)</i>
   - Plăcintă with Apple <i>(Plăcintă cu Mere)</i>
   - Plăcintă with Cheese <i>(Plăcintă cu Brânză)</i>
-- Tochitura <i>(Tochitură)</i>
 - Sarmale <i>(Sarmale)</i>
-- Mititei <i>(Mici)</i>
 - Mămăligă <i>(Mămăligă)</i>
+- Ostropel <i>(Ostropel)</i>
+- Tochitura <i>(Tochitură)</i>
+- Mititei <i>(Mici)</i>
 - Papanași <i>(Papanași)</i>
+- Amandine <i>(Amandină)</i>
+- Romanian Cheese <i>(Brânză Românească)</i>
+  - Brânză de Vaci <i>(Brânză de Vaci)</i>
+  - Telemea <i>(Telemea)</i>
 - Țuică <i>(Brand: "Vlad Țepeș")</i>
-- <u>Covasna (Regional Special):</u> Kürtőskalács <i>(Cozonac Secuiesc / Kürtőskalács)</i>
 - <u>Covasna (Regional Special):</u> Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>
+- <u>Covasna (Regional Special):</u> Kürtőskalács <i>(Cozonac Secuiesc / Kürtőskalács)</i>
 - <u>Brașov (Regional Special):</u> Braşovence <i>(Clătite Brașovene / Braşovence)</i>
+
 
 <b>🎬 Local movies:</b>
 - The Death of Mr. Lazarescu <i>(Moartea Domnului Lăzărescu)</i>. Year: 2005. Genre: drama / tragedy

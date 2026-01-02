@@ -141,36 +141,36 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 
 <b>🥘 Local food & drinks: </b>
-- Pretzel <i>(Brezel)</i>
-- Sauerbraten <i>(Sauerbraten)</i>
+- Mettbrötchen <i>(Mettbrötchen)</i>
+- Rollmops <i>(Rollmops)</i>
+- German Fries <i>(Bratkartoffeln)</i>
 - German Sausages <i>(Deutsche Würste)</i>
   - Bratwurst <i>(Bratwurst)</i>
   - Currywurst <i>(Currywurst)</i>
   - Liverwurst <i>(Leberwurst)</i>
-- Eisbein <i>(Eisbein)</i>
-- Rollmops <i>(Rollmops)</i>
+- Sauerbraten <i>(Sauerbraten)</i>
+- Eisbein with Sauerkraut <i>(Eisbein mit Sauerkraut)</i>
 - Rinderrouladen <i>(Rinderrouladen)</i>
-- Mettbrötchen <i>(Mettbrötchen)</i>
-- German Fries <i>(Bratkartoffeln)</i>
 - Black Forest Gateau <i>(Schwarzwälder Kirschtorte)</i>
 - Berliner <i>(Berliner)</i>
 - Gummy Bears <i>(Gummibärchen)</i>
+- Pretzel <i>(Brezel)</i>
 - German Liqueur <i>(Brand: "Jägermeister")</i> 
-- <u>Hessen (Regional Special):</u> Handkäse <i>(Handkäse / Handkäse mit Musik)</i>
 - <u>Hessen (Regional Special):</u> Frankfurter Green Sauce <i>(Frankfurter Grüne Soße / Frankfurter Grie Soß)</i>
-- <u>Hessen (Regional Special):</u> Frankfurter Rippchen <i>(Frankfurter Rippchen / Frankfurter Rippchen)</i>
 - <u>Hessen (Regional Special):</u> Speckkuchen <i>(Speckkuchen / Speckkuchen)</i>
+- <u>Hessen (Regional Special):</u> Frankfurter Rippchen <i>(Frankfurter Rippchen / Frankfurter Rippchen)</i>
 - <u>Hessen (Regional Special):</u> Frankfurt Crown Cake <i>(Frankfurter Kranz / Frankfurter Kranz)</i>
+- <u>Hessen (Regional Special):</u> Handkäse <i>(Handkäse / Handkäse mit Musik)</i>
 - <u>Hessen (Regional Special):</u> Hessian Apfelwein <i>(Brands: "Kelterei Walther", "Kelterei Possmann")</i>
-- <u>Rhineland-Palatinate (Regional Special):</u> Saumagen <i>(Saumagen)</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> Reibekuchen <i>(Reibekuchen)</i>
+- <u>Rhineland-Palatinate (Regional Special):</u> Saumagen <i>(Saumagen)</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> German Wine <i>(Brands: "Volk Riesling Trocken", "Robert Weil Rheingau Riesling Trocken")</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Panhas <i>(Panhas / Pannas)</i>
-- <u>North Rhine-Westphalia (Regional Special):</u> Pumpernickel <i>(Pumpernickel / Pumpernickel)</i>
-- <u>North Rhine-Westphalia (Regional Special):</u> Himmel und Erde <i>(Himmel und Erde / Himmel un Ääd)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Flönz and Cologne Caviar <i>(Flönz un Kölscher Kaviar / Flönz und Kölscher Kaviar)</i>
-- <u>North Rhine-Westphalia (Regional Special):</u> Potthucke <i>(Potthucke / Puffert)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Halve Hahn <i>(Halve Hahn / Halve Hahn)</i>
+- <u>North Rhine-Westphalia (Regional Special):</u> Potthucke <i>(Potthucke / Puffert)</i>
+- <u>North Rhine-Westphalia (Regional Special):</u> Himmel und Erde <i>(Himmel und Erde / Himmel un Ääd)</i>
+- <u>North Rhine-Westphalia (Regional Special):</u> Pumpernickel <i>(Pumpernickel / Pumpernickel)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Kölsch Beer <i>(Brands: "Gaffel Kölsch", "Früh Kölsch")</i>
 
 

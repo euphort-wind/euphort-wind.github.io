@@ -97,26 +97,39 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 
 
 <b>🥘 Local food & drinks: </b>
-- Döner Kebab <i>(Döner Kebap)</i>
+- Kısır <i>(Kısır)</i>
+- Yaprak Sarması <i>(Yaprak Sarması)</i>
+- Kuymak <i>(Mıhlama)</i>
+- Pide <i>(Pide)</i>
+  - Pide with Minced Beef <i>(Kıymalı Pide)</i>
+  - Pide with Cheese <i>(Peynirli Pide)</i>
+- Gözleme <i>(Gözleme)</i>
+  - Gözleme with Meat <i>(Etli Gözleme)</i>
+  - Gözleme with Cheese <i>(Peynirli Gözleme)</i>
+  - Gözleme with Sugar <i>(Şekerli Gözleme)</i>
+- Börek <i>(Börek)</i>
+- Şakşuka <i>(Şakşuka)</i>
+- Döner Kebap <i>(Döner Kebap)</i>
+- Kokoreç <i>(Kokoreç)</i>
+- Türlü <i>(Türlü)</i>
+- Kavurma <i>(Kavurma)</i>
+- Tantuni <i>(Tantuni)</i>
+- İskender Kebap <i>(İskender Kebap)</i>
 - Baklava <i>(Baklava)</i>
   - Pistachio Baklava <i>(Fıstıklı Baklava)</i>
   - Walnut Baklava <i>(Cevizli Baklava)</i>
   - Dry Baklava <i>(Kuru Baklava)</i>
   - Sütlü Nuriye <i>(Sütlü Nuriye)</i>
-- Gözleme <i>(Gözleme)</i>
-  - Gözleme with Meat <i>(Etli Gözleme)</i>
-  - Gözleme with Cheese <i>(Peynirli Gözleme)</i>
-  - Gözleme with Sugar <i>(Şekerli Gözleme)</i>
-- Pide <i>(Pide)</i>
-  - Pide with Minced Beef <i>(Kıymalı Pide)</i>
-  - Pide with Cheese <i>(Peynirli Pide)</i>
-- Kuymak <i>(Mıhlama)</i>
 - Ashure <i>(Aşure)</i>
 - Kazandibi <i>(Kazandibi)</i>
 - Sekerpare <i>(Şekerpare)</i>
-- Börek <i>(Börek)</i>
 - Turkish Ice-cream <i>(Dondurma)</i>
-- Turkish Tea <i>(Türk Çayı)</i>
+- Turkish Cheese <i>(Türk Peyniri)</i>
+  - Beyaz Peynir <i>(Beyaz Peynir)</i>
+  - Çökelek <i>(Çökelek)</i>
+  - Tulum Cheese <i>(Tulum Peyniri)</i>
+- Bazlama <i>(Bazlama)</i>
+- Simit <i>(Simit)</i>
 - Turkish Turnip Water <i>(Şalgam Suyu)</i>
 - Turkish Raki <i>(Brand: "Yeni Rakı")</i>
 - <u>İstanbul (Regional Special):</u> Balık Ekmek <i>(Balık Ekmek)</i>

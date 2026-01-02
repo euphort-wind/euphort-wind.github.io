@@ -70,13 +70,13 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - 🇦🇱 Elvana Gjata (singer). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
-- Tave Kosi <i>(Tavë Kosi)</i>
-- Flia <i>(Flia)</i>
-- Petulla <i>(Petulla)</i>
-- Krafne <i>(Krafne)</i>
 - Albanian Yogurt <i>(Kos)</i>
+- Flia <i>(Flia)</i>
+- Tave Kosi <i>(Tavë Kosi)</i>
+- Krafne <i>(Krafne)</i>
+- Petulla <i>(Petulla)</i>
 - Albanian Salep <i>(Salep)</i>
-- <u>Tirana (Regional Special):</u> Fergese Tirane <i>(Fërgesë Tirane)</i>
+- <u>Tirana (Regional Special):</u> Fërgesë of Tirana <i>(Fërgesë Tirane)</i>
 
 
 <b>🎬 Local movies:</b>

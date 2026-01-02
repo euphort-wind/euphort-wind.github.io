@@ -77,7 +77,6 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 
 
 <b>🥘 Local food & drinks: </b>
-- Serra da Estrela Cheese <i>(Queijo Serra da Estrela)</i>
 - Caldo Verde Soup <i>(Caldo Verde)</i>
 - Bifana Sandwich <i>(Bifana)</i>
 - Pastéis de Bacalhau <i>(Pastéis de Bacalhau)</i>
@@ -86,6 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - Bacalhau com Natas <i>(Bacalhau com Natas)</i>
 - Portuguese-Style Octopus <i>(Polvo à Lagareiro)</i>
 - Portuguese Pastry <i>(Pastel de Nata)</i>
+- Serra da Estrela Cheese <i>(Queijo Serra da Estrela)</i>
 - Port Wine <i>(Brand: "Ferreira")</i>
 - Green Wine <i>(Brand: "Muralhas Vinho Verde")</i>
 - <u>Lisbon (Regional Special):</u> De Belém Pastry <i>(Pastel de Belém)</i>

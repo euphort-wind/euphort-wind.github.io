@@ -82,9 +82,9 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
   - Smørrebrød with Roast Beef <i>(Smørrebrød med Roastbeef)</i>
   - Smørrebrød with Salmon <i>(Smørrebrød med Laks)</i>
   - Smørrebrød with Asparagus <i>(Smørrebrød med Asparges)</i>
+- Brændende Kærlighed <i>(Brændende Kærlighed)</i>
 - Stegt Flæsk <i>(Stegt Flæsk)</i>
 - Æbleflæsk <i>(Æbleflæsk)</i>
-- Brændende Kærlighed <i>(Brændende Kærlighed)</i>
 - Danish Pastry <i>(Wienerbrød)</i>
 - Danish Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
 

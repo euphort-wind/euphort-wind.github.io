@@ -55,8 +55,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 - 🇺🇳 Cim Dahlle (singer). Genre: rock
 
 <b>🥘Local food & drinks: </b>
-- Ålandic Pancake with Cream and Prune Jam <i>(Åländsk Pannkaka med Sviskonkräm och Snömos)</i>
 - Gravad Sik <i>(Gravad Sik)</i>
+- Ålandic Pancake with Cream and Prune Jam <i>(Åländsk Pannkaka med Sviskonkräm och Snömos)</i>
 - Ålandic Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
 - Ålandic Beer <i>(Brand: "Stallhagen")</i>
 

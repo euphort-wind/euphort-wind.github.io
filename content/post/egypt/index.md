@@ -55,11 +55,11 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - Mahraganat. Originated: early 2000s
 
 <b>🥘 Local food & drinks: </b>
-- Koshary <i>(كشرى)</i>
-- Ful Medames <i>(فول مدمس)</i>
-- Aish Baladi <i>(عيش بلدي)</i>
 - Falafel <i>(طعمية)</i>
+- Ful Medames <i>(فول مدمس)</i>
+- Koshary <i>(كشرى)</i>
 - Basbousa <i>(بسبوسة)</i>
+- Aish Baladi <i>(عيش بلدي)</i>
 - Karkadé Tea <i>(كَركَديه)</i>
 
 

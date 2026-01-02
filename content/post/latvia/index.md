@@ -72,14 +72,15 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 
 
 <b>🥘 Local food & drinks: </b>
-- Jāņi Cheese <i>(Jāņu Siers)</i>
-- Latvian Gray Peas with Bacon and Onion <i>(Pelēkie Zirņi)</i>
-- Latvian Black Bread <i>(Rupjmaize)</i>
 - Speķrauši <i>(Speķrauši)</i>
-- Layered Rye Bread <i>(Rupjmaizes Kārtojums)</i>
+- Latvian Gray Peas with Bacon and Onion <i>(Pelēkie Zirņi)</i>
 - Latvian Porridge <i>(Putra)</i>
+- Layered Rye Bread <i>(Rupjmaizes Kārtojums)</i>
+- Jāņi Cheese <i>(Jāņu Siers)</i>
+- Latvian Black Bread <i>(Rupjmaize)</i>
 - Latvian Balsam <i>(Brand: "Rīgas Melnais Balzams")</i>
 - <u>Riga-Capital (Regional Special):</u> Riga Smoked Sprats <i>(Rīgas Šprotes)</i>
+
 
 <b>🎬 Local movies:</b>
 - The Shot <i>(Nošāva)</i>. Year: 2019. Genre: short / comedy

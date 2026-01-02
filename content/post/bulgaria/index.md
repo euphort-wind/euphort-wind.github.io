@@ -104,25 +104,25 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Chalga. Originated: early 1990s
 
 <b>🥘 Local food & drinks: </b>
-- Bulgarian Cheese <i>(Български Сирена)</i>
-  - Sirene <i>(Сирене)</i>
-  - Kashkaval <i>(Кашкавал)</i>
 - Shopska Salad <i>(Шопска Салата)</i>
 - Snow White Salad <i>(Салата Снежанка)</i>
+- Tarator Soup <i>(Таратор)</i>
 - Lyutenitsa <i>(Лютеница)</i>
-- Mish-Mash <i>(Миш-Маш)</i>
-- Chushki Burek <i>(Чушки Бюрек)</i>
 - Lukanka <i>(Луканка)</i>
-- Princess Sandwich <i>(Принцеса)</i>
-- Patatnik <i>(Пататник)</i>
 - Banitsa Pie <i>(Баница)</i>
   - Banitsa with Crushed White Cheese <i>(Баница със Сирене)</i>
   - Banitsa with Apples <i>(Баница с Ябълки)</i>
   - Banitsa with Spinach <i>(Баница със Спанак)</i>
-- Tarator Soup <i>(Таратор)</i>
+- Princess Sandwich <i>(Принцеса)</i>
+- Mish-Mash <i>(Миш-Маш)</i>
+- Patatnik <i>(Пататник)</i>
+- Chushki Burek <i>(Чушки Бюрек)</i>
 - Kebapche <i>(Кебапче)</i>
 - Kyufte <i>(Кюфте)</i>
 - Tsatsa Fish <i>(Цаца)</i>
+- Bulgarian Cheese <i>(Български Сирена)</i>
+  - Sirene <i>(Сирене)</i>
+  - Kashkaval <i>(Кашкавал)</i>
 - Ayran <i>(Айрян)</i>
 - Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
 

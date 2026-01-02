@@ -54,9 +54,14 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - 🇺🇳 Ayah Marar (singer). Genre: drum'n'bass
 
 <b>🥘 Local food & drinks: </b>
-- Mansaf <i>(منسف)</i>
-- Knafeh <i>(كنافة)</i>
 - Hummus <i>(حمص بطحينة)</i>
+- Qalayet Bandora <i>(قلاية البندورة)</i>
+- Mansaf <i>(منسف)</i>
+- Zarb <i>(زرب)</i>
+- Bamia <i>(طبق البامية)</i>
+- Knafeh <i>(كنافة)</i>
+
+
 
 <b>🎬 Local movies:</b>
 - Captain Abu Raed <i>(كابتن أبو رائد)</i>. Year: 2007. Genres: drama

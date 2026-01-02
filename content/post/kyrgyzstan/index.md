@@ -72,10 +72,10 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - 🇺🇳 Vtoroi Ka (band). Genre: post punk
 
 <b>🥘 Local food & drinks: </b>
+- Kurut <i>(Курут)</i>
+- Oromo Pie <i>(Оромо)</i>
 - Laghman <i>(Лагман)</i>
 - Kuurdak <i>(Куурдак)</i>
-- Oromo Pie <i>(Оромо)</i>
-- Kurut <i>(Курут)</i>
 - Kymyz <i>(Кымыз)</i>
 - Maksym Drink <i>(Brand: "Шоро Максым")</i>
 - Chalap Drink <i>(Brand: "Шоро Чалап")</i>

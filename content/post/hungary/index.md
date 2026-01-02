@@ -89,18 +89,18 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 
 
 <b>🥘 Local food & drinks: </b>
+- Lecsó <i>(Lecsó)</i>
 - Goulash Soup <i>(Gulyás)</i>
-- Hungarian Sour Cherry Soup <i>(Hideg Meggyleves)</i>
 - Halászlé <i>(Halászlé)</i>
     - Halászlé with Catfish <i>(Harcsa Halászlé)</i>
     - Halászlé with Carp <i>(Ponty Halászlé)</i>
-- Lecsó <i>(Lecsó)</i>
-- Pörkölt <i>(Marhapörkölt)</i>  
-- Chicken Paprikash <i>(Paprikás Csirke)</i>  
 - Lángos <i>(Lángos)</i>
     - Lángos with Sour Cream and Grated Cheese <i>(Sajtos-Tejfölös Lángos)</i>
     - Lángos with Sour Cream, Bacon and Onion <i>(Húsos Lángos)</i>
+- Pörkölt <i>(Marhapörkölt)</i>  
+- Chicken Paprikash <i>(Paprikás Csirke)</i>  
 - Fatányéros <i>(Fatányéros)</i>
+- Hungarian Sour Cherry Soup <i>(Hideg Meggyleves)</i>
 - Gundel Crêpe <i>(Gundel-Palacsinta)</i>
 - Somlói Galuska <i>(Somlói Galuska)</i>
 - Esterházy Torte <i>(Esterházy-Torta)</i>

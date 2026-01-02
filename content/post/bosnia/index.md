@@ -73,13 +73,13 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 
 
 <b>🥘 Local food & drinks: </b>
-- Bosnian Smoked Cheese <i>(Suhi Dimljeni Sir)</i>
 - Suho Meso <i>(Suho Meso)</i>
+- Bey’s Soup <i>(Begova Čorba)</i>
 - Bosnian Pot <i>(Bosanski Lonac)</i>
 - Ćevapčići <i>(Ćevapčići)</i>
-- Bey’s Soup <i>(Begova Čorba)</i>
 - Tufahija <i>(Tufahija)</i>
 - Hurmašice <i>(Hurmašice)</i>
+- Bosnian Smoked Cheese <i>(Suhi Dimljeni Sir)</i>
 - Bosnian Coffee <i>(Bosanska Kafa)</i>
 - <u>Sarajevo (Regional Special):</u> Sarajevo Sahan <i>(Sarajevski Sahan)</i>
 - <u>Sarajevo (Regional Special):</u> Klepe <i>(Klepe)</i>
