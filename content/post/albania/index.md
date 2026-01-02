@@ -72,6 +72,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 <b>🥘 Local food & drinks: </b>
 - Albanian Yogurt <i>(Kos)</i>
 - Flia <i>(Flia)</i>
+- Lakror <i>(Lakruar)</i>
 - Tave Kosi <i>(Tavë Kosi)</i>
 - Krafne <i>(Krafne)</i>
 - Petulla <i>(Petulla)</i>
