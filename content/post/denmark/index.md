@@ -69,6 +69,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - 🇩🇰 Tobias Rahim (singer). Genre: reggaeton
 - 🇩🇰 Nephew (band). Genre: rock
 - 🇩🇰 Hanne Boel (singer). Genre: retro pop
+- 🇺🇳 Kato (DJ). Genre: house
 - 🇺🇳 Kölsch (DJ). Genre: techno
 - 🇺🇳 Morten (DJ). Genre: future rave
 - 🇺🇳 Aqua (band). Genre: pop
