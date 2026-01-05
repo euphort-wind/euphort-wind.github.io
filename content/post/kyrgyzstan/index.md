@@ -61,15 +61,6 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 7. Boz-Uchuk     
     - Boz-Uchuk Gorge <i>(Боз-Учук)</i>
 
-{{< spoiler text="<b>🎧 Local musicians: </b>" >}}
-- 🇰🇬 Mirbek Atabekov (singer). Genre: pop
-- 🇰🇬 Anzhelika (singer). Genre: pop 
-- 🇰🇬 Ralliya (singer). Genre: pop 
-- 🇰🇬 Aizhamal Kabylova (singer). Genre: pop 
-- 🇰🇬 Aya Sadyrova (singer). Genre: pop 
-- 🇰🇬 Talant 60'k (singer). Genre: pop 
-- 🇺🇳 Vtoroi Ka (band). Genre: post punk
-{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇰🇬 Mirbek Atabekov (singer). Genre: pop
