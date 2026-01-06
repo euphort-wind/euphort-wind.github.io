@@ -99,7 +99,7 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - The Epic of Kalevipoeg <i>(Kalevipoeg: Eesti Rahva Eepos)</i>
 - Authentic Musical Instrument: Kannel <i>(Kannel)</i>
 - <u>Võru (Regional Special):</u> The Culture of Setos <i>(Setukesed / Setokõsõq)</i>
-  - <u>Võru (Regional Special):</u> Seto Polyphonic Singing <i>(Seto Leelo / Seto Leelo)</i>
+  - <u>Võru (Regional Special):</u> Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
   - <u>Võru (Regional Special):</u> Seto Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
 
 
