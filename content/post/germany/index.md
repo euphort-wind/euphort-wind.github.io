@@ -188,7 +188,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Weltschmerz <i>(Weltschmerz)</i>
+- Authentic Principle: Wanderlust <i>(Wanderlust)</i>
 - German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas", etc.)</i> 
 - German Philosophy <i>(Deutsche Philosophie)</i> 
 - Protestantism <i>(Protestantismus)</i>
