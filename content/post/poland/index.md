@@ -85,8 +85,13 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - Pierogi with Pork <i>(Pierogi z Mięsem Wieprzowym)</i>
   - Pierogi with Duck <i>(pierogi z Mięsem Kaczki)</i>
 - Kotlet Schabowy <i>(Kotlet Schabowy)</i>
+- Zrazy <i>(Zrazy)</i>
+- Pyzy <i>(Pyzy)</i>
+- Gołąbki <i>(Gołąbki)</i>
 - Polish Cheesecake <i>(Sernik)</i> 
 - Makowiec <i>(Makowiec)</i>
+- Ptasie Mleczko <i>(Ptasie Mleczko)</i>
+- Polonaise Sauce <i>(À la Polonaise)</i>
 - Polish Bison Grass Vodka <i>(Brand: "Żubrówka")</i>
 - <u>Pomeranian (Regional Special):</u> Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
 
