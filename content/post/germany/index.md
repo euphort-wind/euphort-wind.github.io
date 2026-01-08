@@ -96,7 +96,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇩🇪 Max Giesinger (singer). Genre: pop
 - 🇩🇪 Nina Chuba (singer). Genre: pop
 - 🇩🇪 Stefanie Kloß (singer). Genre: pop
-- 🇩🇪 Nena (singer). Genre: euro pop
+- 🇩🇪 Nena (singer). Genre: europop
 - 🇩🇪 Kyau & Albert (DJ duo). Genre: trance
 - 🇩🇪 Alex C / Jasper Forks (DJ). Genre: house
 - 🇩🇪 Ich + Ich (duo). Genre: pop
@@ -104,7 +104,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇩🇪 LaFee (singer). Genre: pop
 - 🇩🇪 Revolverheld (band). Genre: pop rock
 - 🇺🇳 Scorpions (band). Genre: hard rock
-- 🇺🇳 Modern Talking (duo). Genre: euro pop
+- 🇺🇳 Modern Talking (duo). Genre: europop
 - 🇺🇳 Scooter (band). Genre: happy hardcore
 - 🇺🇳 ATB (DJ). Genre: progressive house
 - 🇺🇳 Paul van Dyk (DJ). Genre: uplifting trance
@@ -116,10 +116,10 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇺🇳 Schiller (DJ band). Genre: ambient
 - 🇺🇳 Cinema Bizzare (band). Genre: glam rock
 - 🇺🇳 Hanz Zimmer (composer). Genre: film score
-- 🇺🇳 Bad Boys Blue (band). Genre: euro pop
+- 🇺🇳 Bad Boys Blue (band). Genre: europop
 - 🇺🇳 Timo Maas (DJ). Genre: progressive house
 - 🇺🇳 Boney M (band). Genre: disco
-- 🇺🇳 C. C. Catch (singer). Genre: euro pop
+- 🇺🇳 C. C. Catch (singer). Genre: europop
 - 🇺🇳 Enigma (band). Genre: new age
 
 
