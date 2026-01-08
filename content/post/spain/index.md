@@ -112,7 +112,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - <u>Catalonia (Regional Special):</u> Catalan Rumba Dance <i>(Rumba Catalana / Rumba Catalana)</i>
   - <u>Catalonia (Regional Special):</u> The Sardana Dance <i>(Sardana / Sardana)</i>
   - <u>Catalonia (Regional Special):</u> Catalan Human Towers <i>(Castells / Castells)</i>
-  - <u>Catalonia (Regional Special):</u> Catalan Art Nouveau Architecture <i>(Modernisme / Modernisme)</i>
+  - <u>Catalonia (Regional Special):</u> Catalan Art Nouveau Architecture <i>(Modernismo Catalán / Modernisme Català)</i>
+  - <u>Catalonia (Regional Special):</u> Authentic Garb: Espadrille <i>(Alpargatas / Espardenyes)</i>
   - <u>Catalonia (Regional Special):</u> Authentic Musical Instrument: Flabiol <i>(Flabiol / Flabiol)</i>
 
 
