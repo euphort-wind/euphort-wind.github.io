@@ -337,6 +337,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - The Hambo Dance <i>(Hambo)</i>
 - The Dala Horses <i>(Dalahästar)</i>
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
+- Swedish Fashion <i>(Brands: "Fjällräven", "H&M COS", etc.)</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
 - <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar / Raukar)</i>

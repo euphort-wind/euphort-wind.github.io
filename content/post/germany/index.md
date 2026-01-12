@@ -189,7 +189,6 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Wanderlust <i>(Wanderlust)</i>
-- German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas", etc.)</i> 
 - German Philosophy <i>(Deutsche Philosophie)</i> 
 - Protestantism <i>(Protestantismus)</i>
 - The Allemande Dance <i>(Allemande)</i>
@@ -198,6 +197,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - The Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
 - German Cuckoo Clock <i>(Kuckucksuhr)</i>
 - German Folklore <i>(Deutsche Folklore)</i>
+- German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas", etc.)</i> 
 - German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
 - Authentic Musical Instrument: Zither <i>(Zither)</i>
 - Authentic Garb: German Tracht <i>(Tracht)</i>

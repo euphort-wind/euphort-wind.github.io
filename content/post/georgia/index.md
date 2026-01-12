@@ -88,7 +88,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - Pkhali <i>(ფხალი)</i>
 - Badrijani <i>(ნიგვზიანი ბადრიჯანი)</i>
 - Georgian Salad <i>(ქართული სალათი)</i>
-- Chikhirtma Soup <i>(ჩიხირთმა)</i>
+- Chikhirtma Soup <i>(ჩიხირთმა)</i
 - Kharcho Soup <i>(ხარჩო)</i>
 - Khachapuri <i>(ხაჭაპური)</i>
   - Mingrelian Khachapuri <i>(მეგრული ხაჭაპური)</i>
@@ -100,6 +100,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - Khinkali <i>(ხინკალი)</i>
 - Chakhokhbili <i>(ჩახოხბილი)</i>
 - Ajapsandali <i>(აჯაფსანდალი)</i>
+- Chanakhi <i>(ჩანახი)</i>
 - Abkhazura <i>(აბხაზურა)</i>
 - Georgian Cheese <i>(ქართული ყველი)</i>
   - Sulguni <i>(სულგუნი)</i>
