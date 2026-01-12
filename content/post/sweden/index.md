@@ -287,7 +287,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇺🇳 Crazy Frog (project). Genre: eurodance
 
 <b>🎚️ Contribution to EDM: </b>
--  . Originated: late 1960s
+- Europop. Originated: late 1960s
 - Epadunk. Originated: early 2020s
 
 <b>🥘 Local food & drinks: </b>
