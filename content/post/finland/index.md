@@ -80,6 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - Lihapiirakka <i>(Lihapiirakka)</i>
 - Joulutorttu <i>(Joulutorttu)</i>
 - Finnish Lent Buns <i>(Laskiaispulla)</i>
+- Pulla Bread <i>(Nisu)</i>
 - Finnish Beer <i>(Brand: "Lapin Kulta")</i>
 - Finnish Liqueur <i>(Brand: "Minttu")</i>
 
@@ -91,12 +92,17 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Sisu <i>(Sisu)</i> 
 - Finnish Sauna <i>(Saunakulttuuri)</i>
-- The Fictional World of Moomins <i>(Muumit)</i>
+- The Puukko Knives <i>(Puukko)</i>
 - The Ryijy Tapestry <i>(Ryijy)</i>
 - Finnish Mythology <i>(Suomalainen Mytologia)</i>
 - Authentic Musical Instrument: Kantele <i>(Kantele)</i>
 - Authentic Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
-- The Culture of Sami <i>(Saamelaiset / Sámit)</i>
+- The Culture of Sámi <i>(Saamelaiset / Sámit)</i>
+  - Sámi Shamanism <i>(Saamelainen Muinaisusko / Sámi Osku)</i>
+  - The System of Siida <i>(Lapinkylä / Siida)</i>
+  - The Sáhkku Game <i>(Sáhkku / Sáhkku)</i>
+  - The Dablo Game <i>(Dablo / Daablodh Prejjesne)</i>
+  - The Duodji Handicraft <i>(Saamenkäsityö / Duodji)</i>
   - Authentic Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
   - Authentic Garb: Beaska & Four Winds Hat <i>(Beaska & Neljäntuulenlakki / Muoddá & Čiehgahpir)</i>
 
