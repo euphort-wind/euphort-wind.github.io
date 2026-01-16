@@ -114,6 +114,9 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i> 
 - The Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i>
 - <u>Pomeranian (Regional Special):</u> The Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
+  - Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
+  - Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
+  - Koseder Dance <i>(Koseder / Kòséder)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
