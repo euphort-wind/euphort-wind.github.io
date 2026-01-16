@@ -105,7 +105,8 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 <b>🪔 Authentic features:</b>
 - The Polonaise Dance <i>(Polonez)</i>
 - The Mazurka Dance <i>(Mazurek)</i>
-- The Brick Gothic Architecture <i>(Gotyk Ceglany)</i>
+- The Oberek Dance <i>(Oberek)</i>
+- Polish Brick Gothic Architecture <i>(Gotyk Ceglany)</i>
 - The Zakopane Architecture <i>(Styl Zakopiański)</i>
 - The Bolesławiec Pottery <i>(Ceramika Bolesławiecka)</i>
 - Polish Folklore <i>(Folklor Polski)</i>
