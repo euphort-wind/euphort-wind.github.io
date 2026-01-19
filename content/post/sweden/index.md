@@ -335,6 +335,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Authentic Principle: Lagom <i>(Lagom)</i>
 - Swedish Fika Coffee Break <i>(Fika)</i>
 - The Hambo Dance <i>(Hambo)</i>
+- The Kubb Game <i>(Kubb)</i>
 - The Dala Horses <i>(Dalahästar)</i>
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - Swedish Fashion <i>(Brands: "Fjällräven", "H&M COS", etc.)</i>

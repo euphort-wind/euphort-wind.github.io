@@ -73,6 +73,10 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - Muay Thai Boxing <i>(มวยไทย)</i>
 - The Khon Dance <i>(โขน)</i>
 - The Lai Rot Nam Art <i>(ลายรดน้ำ)</i>
+- The Makruk Game <i>(หมากรุก)</i> 
+- The Ka Fak Khai Game <i>(กาฟักไข่)</i>
+- The Makyek Game <i>(หมากแยก)</i>
+- The Khee Ma Song Muang <i>(ขี่ม้าส่งเมือง)</i>
 - Thai Folk Religion <i>(ศาสนาผี)</i>
 - Thai Massage <i>(นวดแผนไทย)</i>
 - Thai Script <i>(อักษรไทย)</i>

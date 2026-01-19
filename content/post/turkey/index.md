@@ -148,6 +148,8 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - The Oil Wrestling <i>(Yağlı Güreş)</i>
 - Turkish Hammam <i>(Hamam)</i>
 - Turkish Television Drama <i>(Türk Dizileri)</i>
+- The Okey Game <i>(Okey)</i>
+- The Mangala Game <i>(Mangala)</i>
 - Turkic Mythology <i>(Türk Mitolojisi)</i>
 - Authentic Musical Instrument: Bağlama <i>(Bağlama)</i> 
 - Authentic Garb: Shalvar and Yelek <i>(Şalvar ve Yelek)</i>
