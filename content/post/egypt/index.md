@@ -81,6 +81,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
   - Ancient Egyptian Religion <i>(ديانة قدماء المصريين)</i>
   - Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة)</i>
+  - The Senet Game <i>(سينيت)</i>
   - Ancient Authentic Musical Instrument: Sistrum <i>(الصلاصل)</i>
   - Ancient Authentic Garb: Khat & Shendyt <i>(الخات والشنديت)</i>
 - The Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>

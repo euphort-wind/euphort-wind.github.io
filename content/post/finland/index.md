@@ -94,6 +94,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - Finnish Sauna <i>(Saunakulttuuri)</i>
 - The Puukko Knives <i>(Puukko)</i>
 - The Ryijy Tapestry <i>(Ryijy)</i>
+- The Kyykkä Game <i>(Kyykkä)</i>
 - Finnish Mythology <i>(Suomalainen Mytologia)</i>
 - Authentic Musical Instrument: Kantele <i>(Kantele)</i>
 - Authentic Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>

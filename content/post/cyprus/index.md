@@ -83,6 +83,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 - Cypriot Syllabaric Script <i>(Κυπριακό Συλλαβάριο)</i>
 - The Fythkiotika Weaving <i>(Φυθκιώτικα)</i>
 - The Tsiattista Poetic Duelling <i>(Τσιαττίστας)</i>
+- The Ziziros Game <i>(Ζίζιρος: Παιχνίδι)</i>
 - Authentic Musical Instrument: Laouto <i>(Λαούτο)</i>
 - Authentic Garb: Cypriot Sayia and Worry Beads <i>(Σαγιά και Κομπολόι)</i>
 - The Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>

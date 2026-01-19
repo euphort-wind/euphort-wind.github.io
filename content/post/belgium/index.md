@@ -112,6 +112,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - Authentic Principle: Belgitude <i>(Belgitude / Belgitude)</i>
 - Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
 - The Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
+- The Crossage Game <i>(Crossage / Chole)</i>
 - The Friterie Culture <i>(Frituur / Frietkot)</i>
 - The Brabantine Gothic Architecture <i>(Gothique Brabançon / Brabantse Gotiek)</i>
 - Belgian Folklore <i>(Folklore Belge / Belgische Folklore)</i>

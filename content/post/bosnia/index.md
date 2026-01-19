@@ -100,7 +100,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - Bosniak Epic Poetry <i>(Bošnjačke Epske Narodne Pjesme)</i>
 - Authentic Musical Instrument: Šargija <i>(Šargija)</i> 
 - The Heritage of the Bosnian Kingdom <i>(Kraljevina Bosna / Краљевина Босна)</i>
-    - The Bosnian Church <i>(Crkva Bosanska)</i>
+    - The Bosnian Church Religion <i>(Crkva Bosanska)</i>
     - The Stećci <i>(Stećci)</i>
     - The Bosančica Script <i>(Bosančica)</i>
 - <u>Sarajevo (Regional Special):</u> Sarajevo Roses <i>(Sarajevske Ruže)</i>

@@ -195,6 +195,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - The Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
 - The Ottonian Architecture <i>(Ottonische Architektur)</i>
 - The Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
+- Mensch-Ärgere-Dich-Nicht Game <i>(Mensch Ärgere Dich Nicht)</i>
 - German Cuckoo Clock <i>(Kuckucksuhr)</i>
 - German Folklore <i>(Deutsche Folklore)</i>
 - German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas", etc.)</i> 
