@@ -92,7 +92,8 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 <b>🪔 Authentic features:</b>
 - The Aytıs & Akyns <i>(Айтыс пен Ақындар)</i> 
 - The System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i> 
-- The Baige Horse Race <i>(Бәйге)</i> 
+- The Baige Horse Race <i>(Бәйге)</i>
+- The Togyzkumalak Game <i>(Тоғызқұмалақ)</i>  
 - The Assyk Game <i>(Асық)</i> 
 - Kazakh Ornaments <i>(Қазақтың Ұлттық Ою-өрнегі)</i> 
 - Kazakh Wrestling <i>(Қазақша Күрес)</i>

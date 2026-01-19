@@ -108,6 +108,10 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - The Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
 - The Madhubani Art <i>(मधुबनी चित्रकला)</i>
 - The Kalamkari Art <i>(कलमकारी)</i>
+- The Gillidanda Game <i>(गिल्ली डंडा)</i>
+- The Kho Kho Game <i>(खो-खो)</i>
+- The Carrom Game <i>(कैरम)</i>
+- The Chaturanga Game <i>(चतुरंग)</i>
 - The Bharatanatyam Dance <i>(भरतनाट्यम)</i>
 - The Nagara Architecture <i>(नागर शैली)</i>
 - The Indo-Saracenic Architecture <i>(इंडो-सारासेनिक वास्तुकला)</i>
@@ -121,6 +125,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - <u>Karnataka (Regional Special):</u> The Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
   - <u>Karnataka (Regional Special):</u> The Dasa Sahitya Literature <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
   - <u>Karnataka (Regional Special):</u> The Kambala Buffalo Race <i>(कंबाला / ಕಂಬಳ)</i>
+  - <u>Karnataka (Regional Special):</u> The Pallanguzhi Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>
   - <u>Karnataka (Regional Special):</u> The Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
   - <u>Karnataka (Regional Special):</u> Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
 - <u>Karnataka (Regional Special):</u> The Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i>

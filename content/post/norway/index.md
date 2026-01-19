@@ -126,12 +126,14 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - The Skiing Tradition <i>(Ski)</i>
 - The Dragestil Architecture <i>(Dragestil)</i>
 - Norwegian Rose-Painting <i>(Rosemaling)</i>
+- The Basse Game <i>(Basse)</i>
 - Authentic Musical Instrument: Hardanger Fiddle <i>(Hardingfele)</i>
 - Authentic Garb: Bunad <i>(Bunad)</i>
 - The Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i>
   - The Viking Runic Script <i>(Vikingruner)</i> 
   - Norse Mythology <i>(Norrøn Mytologi)</i> 
   - Norse Paganism <i>(Norrøn Religion)</i> 
+  - The Hnefatafl Game <i>(Hnefatafl)</i> 
   - The Skaldic Poetry <i>(Skaldekvad)</i> 
   - The Viking Ship Construction <i>(Vikingskip)</i> 
 

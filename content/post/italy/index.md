@@ -263,6 +263,9 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - The Latin Alphabet <i>(Alfabeto Latino)</i> 
 - The Tarantella Dance <i>(Tarantella)</i> 
 - The Maiolica Pottery <i>(Maiolica)</i> 
+- The Bocce Game <i>(Bocci)</i> 
+- The Morra Game <i>(Morra)</i>
+- The Pallone Game <i>(Pallone)</i>
 - Italian Neoclassical Architecture <i>(Architettura Neoclassica Italiana)</i> 
 - Italian Folklore <i>(Folclore d'Italia)</i> 
 - Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
@@ -276,6 +279,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Roman Sculpture <i>(Scultura Romana Antica)</i>
   - Ancient Roman Roads <i>(Antiche Strade Romane)</i> 
   - Ancient Roman Religion <i>(Religione Romana Antica)</i> 
+  - The Harpastum Game <i>(Harpastum)</i> 
+  - The Trigon Game <i>(Trigon)</i>
   - Ancient Authentic Musical Instrument: Cornu <i>(Cornu)</i> 
   - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i> 
@@ -300,6 +305,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - <u>Campania (Regional Special):</u> The Culture of Neapolitans <i>(Napoletani / Napulitani)</i> 
   - <u>Campania (Regional Special):</u> The Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
   - <u>Campania (Regional Special):</u> The Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
+  - <u>Campania (Regional Special):</u> The Strummolo Game <i>(Strummolo / Strummolo)</i> 
+  - <u>Campania (Regional Special):</u> The Tombola Game <i>(Tombola / Tombola)</i> 
   - <u>Campania (Regional Special):</u> The Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
   - <u>Campania (Regional Special):</u> The Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
   - <u>Campania (Regional Special):</u> The Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>

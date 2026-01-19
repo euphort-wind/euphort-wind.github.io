@@ -100,6 +100,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - The Sodai Straw Garden Making <i>(Šiaudinių Sodų Tradicija)</i>
 - The Sutartines Songs <i>(Sutartinės)</i>
+- The Ritinis Game <i>(Ritinis)</i>
 - Lithuanian Mythology <i>(Lietuvių Mitologija)</i>
 - Authentic Musical Instrument: Birbynė <i>(Birbynė)</i> 
 - The Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>

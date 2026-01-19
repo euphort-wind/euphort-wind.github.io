@@ -100,13 +100,17 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - The Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - The Sirtaki Dance <i>(Σιρτάκη)</i>
 - Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
+- Ancient Authentic Garb: Fustanella & Amalía Dress <i>(Φουστανέλα & Αμαλία)</
 - The Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
   - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
   - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
   - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
   - Ancient Greek Philosophy <i>(Αρχαία Ελληνική Φιλοσοφία)</i>
   - Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>
+  - Ancient Greek Boxing <i>(Πυγμαχία)</i>
+  - Ancient Greek Chariot Racing <i>(Ἁρματοδρομία)</i>
   - Ancient Greek Religion <i>(Αρχαία Ελληνική Θρησκεία)</i>
+  - The Ostrakinda Game <i>(Ὀστρακίνδα)</i>
   - Ancient Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
   - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύδα)</i>
 - <u>Crete (Regional Special):</u> Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
@@ -114,6 +118,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - <u>Crete (Regional Special):</u> The Legacy of Minoans <i>(Μινωίτες)</i>
   - <u>Crete (Regional Special):</u> Minoan Painting <i>(Μινωική Ζωγραφική)</i>
   - <u>Crete (Regional Special):</u> Minoan Pottery <i>(Μινωική Κεραμική)</i>
+  - <u>Crete (Regional Special):</u> The Knossos Board Game <i>(Ζατρίκιον)</i>
   - <u>Crete (Regional Special):</u> Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
 - <u>South Aegean (Regional Special):</u> The Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
 - <u>South Aegean (Regional Special):</u> Santorini Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>

@@ -186,6 +186,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - The Cycling Tradition <i>(Het Fietsen)</i>
 - Dutch Windmills <i>(Windmolens)</i>
 - Dutch Canals & Polders <i>(Kanalen & Polders)</i>
+- The Sjoelen Game <i>(Sjoelen)</i>
 - The Canal Houses <i>(Grachtenpanden)</i>
 - Authentic Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
 - Authentic Garb: Dutch Cap & Klomps <i>(Nederlandse Bonnet & Klompen)</i>
@@ -200,6 +201,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
   - Authentic Principle: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
   - The Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
   - The Fierljeppen Sport <i>(Polsstokverspringen / Fierljeppen)</i> 
+  - The Frisian Handball <i>(Kaatsen / Keatsen)</i> 
   - The Skûtsjes Sailing Boats <i>(Skûtsje / Skûtsje)</i>
   - Authentic Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
  

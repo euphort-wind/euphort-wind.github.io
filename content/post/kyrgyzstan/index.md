@@ -93,6 +93,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - Tengrism <i>(Теңирчилик)</i> 
 - The Shyrdak and Ala-Kiiz Carpets <i>(Шырдак жана Ала-Кийиз)</i> 
 - Kyrgyz Yurts <i>(Кыргыз боз Үйлөрү)</i> 
+- The Kok Boru Game <i>(Көк-Бөрү)</i> 
 - Authentic Musical Instrument: Komuz <i>(Комуз)</i> 
 - Authentic Garb: Ak-Kalpak and Beldemchi <i>(Ак Калпак менен Белдемчи)</i> 
 - The Culture of Dungan <i>(Дунгандар / Хуэйзў)</i>

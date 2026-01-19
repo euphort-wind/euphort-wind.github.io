@@ -106,6 +106,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - The Polonaise Dance <i>(Polonez)</i>
 - The Mazurka Dance <i>(Mazurek)</i>
 - The Oberek Dance <i>(Oberek)</i>
+- The Palant Game <i>(Palant)</i>
 - Polish Brick Gothic Architecture <i>(Gotyk Ceglany)</i>
 - The Zakopane Architecture <i>(Styl Zakopiański)</i>
 - The Bolesławiec Pottery <i>(Ceramika Bolesławiecka)</i>

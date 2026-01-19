@@ -142,13 +142,14 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - The Paparuda Ritual <i>(Paparudă)</i> 
 - The Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
 - Romanian Horă Dance <i>(Horă)</i>
+- The Oină Game <i>(Oină)</i>
 - Romanian Folklore <i>(Folclorul Românesc)</i>
 - Romanian Cars <i>(Brand: "Dacia")</i>
 - Authentic Musical Instrument: Romanian Nai <i>(Nai)</i> 
 - The Culture of Romani <i>(Romi / Romane Manusha)</i>
   - Authentic Principle: Romanipen <i>(Romanipenul / Romanipen)</i>
   - The Lăutărească Music & Lăutari <i>(Muzica Lăutărească și Lăutari / Lăutărească Muzika thaj Lăutari)</i> 
-  - Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
+  - The Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
   - Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
 - The Legacy of Dacians <i>(Dacii / Δάκοι)</i>
 - The Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>

@@ -104,6 +104,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - The Manueline Architecture <i>(Estilo Manuelino)</i> 
 - The Pombaline Architecture <i>(Estilo Pombalino)</i> 
 - The Azulejo Tilework <i>(Azulejo)</i>
+- The Jogo da Laranjinha Game <i>(Jogo da Laranjinha)</i>
 - Portuguese Seamanship and Maritime Exploration <i>(Descobrimentos Portugueses)</i> 
 - Portuguese Folklore <i>(Folclore de Portugal)</i> 
 - Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>   

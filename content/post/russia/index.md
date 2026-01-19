@@ -265,6 +265,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
 - The Zhostovo Painting <i>(Жостовская Роспись)</i>
 - The Horovod Dance <i>(Хоровод)</i>
 - The Matryoshka Dolls <i>(Матрёшки)</i>
+- The Gorodki Game <i>(Городки)</i>
 - The Dymkovo Toys <i>(Дымковские Игрушки)</i>
 - Russian Banya <i>(Русская Баня)</i>
 - Russian Folklore <i>(Русский Фольклор)</i> 
