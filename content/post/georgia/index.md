@@ -88,7 +88,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - Pkhali <i>(ფხალი)</i>
 - Badrijani <i>(ნიგვზიანი ბადრიჯანი)</i>
 - Georgian Salad <i>(ქართული სალათი)</i>
-- Chikhirtma Soup <i>(ჩიხირთმა)</i
+- Chikhirtma Soup <i>(ჩიხირთმა)</i>
 - Kharcho Soup <i>(ხარჩო)</i>
 - Khachapuri <i>(ხაჭაპური)</i>
   - Mingrelian Khachapuri <i>(მეგრული ხაჭაპური)</i>
@@ -138,7 +138,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - The Supra & Tamadas <i>(სუფრა და თამადა)</i>
 - The Kvevri-Based Wine Production <i>(ქვევრის ღვინო)</i>
 - Three Georgian Alphabets <i>(სამი ქართული ანბანი)</i>
-- The Kartuli Dance <i>(ქართული ცეკვა)</i>"
+- The Kartuli Dance <i>(ქართული ცეკვა)</i>
 - The Berikaoba Theater <i>(ბერიკაობა)</i>
 - The Chidaoba Wrestling <i>(ჩიდაობა)</i>
 - The Lelo Burti Game <i>(ლელო ბურთი)</i>
