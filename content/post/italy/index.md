@@ -283,11 +283,12 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - The Trigon Game <i>(Trigon)</i>
   - Ancient Authentic Musical Instrument: Cornu <i>(Cornu)</i> 
   - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
-- <u>Tuscany (Regional Special):</u> The Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i> 
-- <u>Tuscany (Regional Special):</u> The Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i> 
-- <u>Tuscany (Regional Special):</u> Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i>
 - <u>Tuscany (Regional Special):</u> The Scoppio del Carro Easter Tradition <i>(Scoppio del Carro)</i> 
-- <u>Tuscany (Regional Special):</u> The Medici Porcelain <i>(Porcellane Medicee)</i>
+- <u>Tuscany (Regional Special):</u> The Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i> 
+  - <u>Tuscany (Regional Special):</u> Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i>
+  - <u>Tuscany (Regional Special):</u> Italian Renaissance Painting <i>(Pittura Rinascimentale)</i>
+  - <u>Tuscany (Regional Special):</u> The Medici Porcelain <i>(Porcellane Medicee)</i>
+- <u>Tuscany (Regional Special):</u> The Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i> 
 - <u>Emilia-Romagna (Regional Special):</u> The Liscio Dance <i>(Ballo Liscio)</i> 
 - <u>Emilia-Romagna (Regional Special):</u> The Porticoes of Bologna <i>(Portici di Bologna)</i>
 - <u>Emilia-Romagna (Regional Special):</u> The Towers of Bologna <i>(Torri di Bologna)</i>
