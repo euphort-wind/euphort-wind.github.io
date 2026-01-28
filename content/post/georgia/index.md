@@ -98,11 +98,15 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - Lobiani <i>(ლობიანი)</i>
 - Lobio <i>(ლობიო)</i>
 - Khinkali <i>(ხინკალი)</i>
+- Kupati <i>(კუპატი)</i>
 - Chakhokhbili <i>(ჩახოხბილი)</i>
 - Shkmeruli <i>(შქმერული)</i>
 - Ajapsandali <i>(აჯაფსანდალი)</i>
 - Chanakhi <i>(ჩანახი)</i>
 - Abkhazura <i>(აბხაზურა)</i>
+- Churchkhela <i>(ჩურჩხელა)</i>
+- Gozinaki <i>(გოზინაყი)</i>
+- Tklapi <i>(ტყლაპი)</i>
 - Georgian Cheese <i>(ქართული ყველი)</i>
   - Sulguni <i>(სულგუნი)</i>
   - Imeretian Cheese <i>(იმერული ყველი)</i>
@@ -114,7 +118,6 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
   - Ajika <i>(აჯიკა)</i>
 - Shoti Bread <i>(შოთის პური)</i>
 - Mchadi Bread <i>(მჭადი)</i>
-- Churchkhela <i>(ჩურჩხელა)</i>
 - Georgian Wine Ice Cream <i>(ღვინის ნაყინი)</i>
 - Georgian Lemonades <i>(Brands: "Natakhtari Cream Soda", "Kazbegi Tarkhuna", etc.)</i> 
 - Georgian Wine <i>(Brands: "Keburia Rkatsiteli", "Khareba Rkatsiteli", "GRW Saperavi", "Duruji Valley Kisi Qvevri", "Dugladze Mukuzani", "Duruji Valley Kindzmarauli", Kakhetian Home-Made Kindzmarauli, etc.)</i> 
