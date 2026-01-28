@@ -99,6 +99,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - Lobio <i>(ლობიო)</i>
 - Khinkali <i>(ხინკალი)</i>
 - Chakhokhbili <i>(ჩახოხბილი)</i>
+- Shkmeruli <i>(შქმერული)</i>
 - Ajapsandali <i>(აჯაფსანდალი)</i>
 - Chanakhi <i>(ჩანახი)</i>
 - Abkhazura <i>(აბხაზურა)</i>
@@ -112,7 +113,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
   - Bazhe <i>(ბაჟე)</i>
   - Ajika <i>(აჯიკა)</i>
 - Shoti Bread <i>(შოთის პური)</i>
-- Mchadi <i>(მჭადი)</i>
+- Mchadi Bread <i>(მჭადი)</i>
 - Churchkhela <i>(ჩურჩხელა)</i>
 - Georgian Wine Ice Cream <i>(ღვინის ნაყინი)</i>
 - Georgian Lemonades <i>(Brands: "Natakhtari Cream Soda", "Kazbegi Tarkhuna", etc.)</i> 
