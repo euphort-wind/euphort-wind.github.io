@@ -166,7 +166,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - <u>Rhineland-Palatinate (Regional Special):</u> Saumagen <i>(Saumagen)</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> German Wine <i>(Brands: "Volk Riesling Trocken", "Robert Weil Rheingau Riesling Trocken")</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Panhas <i>(Panhas / Pannas)</i>
-- <u>North Rhine-Westphalia (Regional Special):</u> Flönz and Cologne Caviar <i>(Flönz un Kölscher Kaviar / Flönz und Kölscher Kaviar)</i>
+- <u>North Rhine-Westphalia (Regional Special):</u> Flönz and Cologne Caviar <i>(Flönz und Kölscher Kaviar / Flönz un Kölscher Kaviar)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Halve Hahn <i>(Halve Hahn / Halve Hahn)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Potthucke <i>(Potthucke / Puffert)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Himmel und Erde <i>(Himmel und Erde / Himmel un Ääd)</i>

@@ -343,10 +343,10 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
 - <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar / Raukar)</i>
 - <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar / Gutar)</i>
-    - <u>Gotland (Regional Special):</u> The Guta Saga <i>(Gutasagan / Gutasaga)</i>
-    - <u>Gotland (Regional Special):</u> The Gotlandic Picture Stones <i>(Bildstenar / Bildstenar)</i>
-    - <u>Gotland (Regional Special):</u> The Pärk Game <i>(Pärk / Perk)</i>
-    - <u>Gotland (Regional Special):</u> The Varpa Game <i>(Varpa / Varpo)</i>
+    - The Guta Saga <i>(Gutasagan / Gutasaga)</i>
+    - The Gotlandic Picture Stones <i>(Bildstenar / Bildstenar)</i>
+    - The Pärk Game <i>(Pärk / Perk)</i>
+    - The Varpa Game <i>(Varpa / Varpo)</i>
 - <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
 - <u>Halland (Regional Special):</u> The Bonad Painting <i>(Bonadsmålning)</i>
 
