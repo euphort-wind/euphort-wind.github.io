@@ -285,32 +285,32 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
 - <u>Tuscany (Regional Special):</u> The Scoppio del Carro Easter Tradition <i>(Scoppio del Carro)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i> 
-  - <u>Tuscany (Regional Special):</u> Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i>
-  - <u>Tuscany (Regional Special):</u> Italian Renaissance Painting <i>(Pittura Rinascimentale)</i>
-  - <u>Tuscany (Regional Special):</u> The Medici Porcelain <i>(Porcellane Medicee)</i>
+  - Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i>
+  - Italian Renaissance Painting <i>(Pittura Rinascimentale)</i>
+  - The Medici Porcelain <i>(Porcellane Medicee)</i>
 - <u>Tuscany (Regional Special):</u> The Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i> 
 - <u>Emilia-Romagna (Regional Special):</u> The Liscio Dance <i>(Ballo Liscio)</i> 
 - <u>Emilia-Romagna (Regional Special):</u> The Porticoes of Bologna <i>(Portici di Bologna)</i>
 - <u>Emilia-Romagna (Regional Special):</u> The Towers of Bologna <i>(Torri di Bologna)</i>
-- <u>Sicily (Regional Special):</u> Authentic Principle: Omerta <i>(Omertà / Ômertà)</i> 
 - <u>Sicily (Regional Special):</u> The Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i> 
 - <u>Sicily (Regional Special):</u> The Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
-  - <u>Sicily (Regional Special):</u> The Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
-  - <u>Sicily (Regional Special):</u> Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
-  - <u>Sicily (Regional Special):</u> Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
-  - <u>Sicily (Regional Special):</u> Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
-  - <u>Sicily (Regional Special):</u> Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
+  - Authentic Principle: Omerta <i>(Omertà / Ômertà)</i> 
+  - The Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
+  - Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
+  - Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
+  - Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
+  - Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
 - <u>Campania (Regional Special):</u> The Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
 - <u>Campania (Regional Special):</u> The Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
 - <u>Campania (Regional Special):</u> The Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i> 
 - <u>Campania (Regional Special):</u> The Culture of Neapolitans <i>(Napoletani / Napulitani)</i> 
-  - <u>Campania (Regional Special):</u> The Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
-  - <u>Campania (Regional Special):</u> The Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
-  - <u>Campania (Regional Special):</u> The Strummolo Game <i>(Strummolo / Strummolo)</i> 
-  - <u>Campania (Regional Special):</u> The Tombola Game <i>(Tombola / Tombola)</i> 
-  - <u>Campania (Regional Special):</u> The Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
-  - <u>Campania (Regional Special):</u> The Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
-  - <u>Campania (Regional Special):</u> The Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
+  - The Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
+  - The Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
+  - The Strummolo Game <i>(Strummolo / Strummolo)</i> 
+  - The Tombola Game <i>(Tombola / Tombola)</i> 
+  - The Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
+  - The Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
+  - The Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Republic Day of Italy <i>(Festa della Repubblica Italiana)</i>. Month: June

@@ -87,13 +87,13 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 - Authentic Musical Instrument: Laouto <i>(Λαούτο)</i>
 - Authentic Garb: Cypriot Sayia and Worry Beads <i>(Σαγιά και Κομπολόι)</i>
 - The Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>
-- <u> Larnaca (Regional Special):</u> Lefkara Lace <i>(Λευκαρίτικα)</i>
+- <u>Larnaca (Regional Special):</u> Lefkara Lace <i>(Λευκαρίτικα)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Cyprus <i>(Ημέρα Ανεξαρτησίας της Κύπρου)</i>. Month: October
-- <u> Larnaca (Regional Special):</u> Kataklysmos Festival <i>(Φεστιβάλ Κατακλυσμού στη Λάρνακα)</i>. Month: June
-- <u> Limassol (Regional Special):</u> Limassol Carnival <i>(Καρναβάλι Λεμεσού)</i>. Month: February or March
+- <u>Larnaca (Regional Special):</u> Kataklysmos Festival <i>(Φεστιβάλ Κατακλυσμού στη Λάρνακα)</i>. Month: June
+- <u>Limassol (Regional Special):</u> Limassol Carnival <i>(Καρναβάλι Λεμεσού)</i>. Month: February or March
 
 
 <b>💐 National flower: </b> Cyprus Cyclamen <i>(Κυκλάμινο το Κυπριακό)</i>

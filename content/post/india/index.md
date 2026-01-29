@@ -120,19 +120,19 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Authentic Musical Instrument: Saraswati Veena <i>(सरस्वती वीणा)</i>
 - Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
 - The Heritage of the Maratha Empire <i>(मराठा साम्राज्य)</i>
-- <u>Karnataka (Regional Special):</u> The Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
-  - <u>Karnataka (Regional Special):</u> The Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
-  - <u>Karnataka (Regional Special):</u> The Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
-  - <u>Karnataka (Regional Special):</u> The Dasa Sahitya Literature <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
-  - <u>Karnataka (Regional Special):</u> The Kambala Buffalo Race <i>(कंबाला / ಕಂಬಳ)</i>
-  - <u>Karnataka (Regional Special):</u> The Pallanguzhi Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>
-  - <u>Karnataka (Regional Special):</u> The Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
-  - <u>Karnataka (Regional Special):</u> Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
 - <u>Karnataka (Regional Special):</u> The Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i>
+- <u>Karnataka (Regional Special):</u> The Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
+  - The Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
+  - The Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
+  - The Dasa Sahitya Literature <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
+  - The Kambala Buffalo Race <i>(कंबाला / ಕಂಬಳ)</i>
+  - The Pallanguzhi Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>
+  - The Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
+  - Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
 - <u>Goa (Regional Special):</u> The Culture of Goans <i>(गोवाई / गोएनकर)</i>
-  - <u>Goa (Regional Special):</u> The Fugdi Dance <i>(फुगडी / फुगडी)</i>
-  - <u>Goa (Regional Special):</u> Authentic Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
-  - <u>Goa (Regional Special):</u> Authentic Musical Instrument: Ghumot <i>(घुमोट / घुमट)</i>
+  - The Fugdi Dance <i>(फुगडी / फुगडी)</i>
+  - Authentic Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
+  - Authentic Musical Instrument: Ghumot <i>(घुमोट / घुमट)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

@@ -116,10 +116,10 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - <u>Crete (Regional Special):</u> Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
 - <u>Crete (Regional Special):</u> Authentic Garb: Stivania & Sariki <i>(Στιβάνια & Σαρίκι)</i>
 - <u>Crete (Regional Special):</u> The Legacy of Minoans <i>(Μινωίτες)</i>
-  - <u>Crete (Regional Special):</u> Minoan Painting <i>(Μινωική Ζωγραφική)</i>
-  - <u>Crete (Regional Special):</u> Minoan Pottery <i>(Μινωική Κεραμική)</i>
-  - <u>Crete (Regional Special):</u> The Knossos Board Game <i>(Ζατρίκιον)</i>
-  - <u>Crete (Regional Special):</u> Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
+  - Minoan Painting <i>(Μινωική Ζωγραφική)</i>
+  - Minoan Pottery <i>(Μινωική Κεραμική)</i>
+  - The Knossos Board Game <i>(Ζατρίκιον)</i>
+  - Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
 - <u>South Aegean (Regional Special):</u> The Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
 - <u>South Aegean (Regional Special):</u> Santorini Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
 

@@ -109,7 +109,7 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 - Authentic Musical Instrument: Šupelka <i>(Шупелка)</i> 
 - The Culture of Aromanians <i>(Македонски Власи / Armãnji)</i>
 - The Legacy of Paeonians <i>(Пајонци / Παίονες)</i> 
-- <u>Jugozapaden (Regional Special):</u> Ohrid Street Lamps <i>(Улични Светилки во Стариот Град во Охрид)</i>
+
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

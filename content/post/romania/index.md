@@ -158,8 +158,8 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
   - The Székely Runes <i>(Scrierea Maghiară Veche / Székely-Magyar Rovás)</i>
   - The Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i>
 - <u>Brașov (Regional Special):</u> The Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
-  - <u>Brașov (Regional Special):</u> Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
-  - <u>Brașov (Regional Special):</u> Authentic Garb: Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>
+  - Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
+  - Authentic Garb: Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - National Day of Romania <i>(Ziua Națională a României)</i>. Month: December

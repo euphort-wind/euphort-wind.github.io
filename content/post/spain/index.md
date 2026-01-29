@@ -111,15 +111,15 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - The Legacy of Iberians <i>(Íberos / Ἴβηρες)</i>
 - The Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - <u>Catalonia (Regional Special):</u> The Culture of Catalans <i>(Catalanes / Catalans)</i>
-  - <u>Catalonia (Regional Special):</u> Authentic Principle: Seny <i>(Seny / Seny)</i>
-  - <u>Catalonia (Regional Special):</u> Catalan Mythology <i>(Mitología Catalana / Mitologia Catalana)</i>
-  - <u>Catalonia (Regional Special):</u> Catalan Rumba Dance <i>(Rumba Catalana / Rumba Catalana)</i>
-  - <u>Catalonia (Regional Special):</u> The Sardana Dance <i>(Sardana / Sardana)</i>
-  - <u>Catalonia (Regional Special):</u> The Patacó Game <i>(Patacó / Patacó)</i>
-  - <u>Catalonia (Regional Special):</u> Catalan Human Towers <i>(Castells / Castells)</i>
-  - <u>Catalonia (Regional Special):</u> Catalan Art Nouveau Architecture <i>(Modernismo Catalán / Modernisme Català)</i>
-  - <u>Catalonia (Regional Special):</u> Authentic Garb: Espadrille <i>(Alpargatas / Espardenyes)</i>
-  - <u>Catalonia (Regional Special):</u> Authentic Musical Instrument: Flabiol <i>(Flabiol / Flabiol)</i>
+  - Authentic Principle: Seny <i>(Seny / Seny)</i>
+  - Catalan Mythology <i>(Mitología Catalana / Mitologia Catalana)</i>
+  - Catalan Rumba Dance <i>(Rumba Catalana / Rumba Catalana)</i>
+  - The Sardana Dance <i>(Sardana / Sardana)</i>
+  - The Patacó Game <i>(Patacó / Patacó)</i>
+  - Catalan Human Towers <i>(Castells / Castells)</i>
+  - Catalan Art Nouveau Architecture <i>(Modernismo Catalán / Modernisme Català)</i>
+  - Authentic Garb: Espadrille <i>(Alpargatas / Espardenyes)</i>
+  - Authentic Musical Instrument: Flabiol <i>(Flabiol / Flabiol)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

@@ -48,6 +48,9 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 
 <b>🎧 Local musicians: </b>
 - 🇹🇭 Safeplanet (band). Genre: pop
+- 🇹🇭 UrboyTJ (rapper). Genre: hip-hop
+- 🇹🇭 Palmy (singer). Genre: pop
+- 🇹🇭 Earth Patravee (singer). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
 - Tom Yam Soup <i>(ต้มยำ)</i>

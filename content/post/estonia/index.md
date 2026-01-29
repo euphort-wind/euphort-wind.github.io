@@ -100,8 +100,8 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - Authentic Musical Instrument: Kannel <i>(Kannel)</i>
 - <u>Võru (Regional Special):</u> Võro Smoke Sauna <i>(Suitsusaun / Savvusann)</i>
 - <u>Võru (Regional Special):</u> The Culture of Setos <i>(Setukesed / Setokõsõq)</i>
-  - <u>Võru (Regional Special):</u> Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
-  - <u>Võru (Regional Special):</u> Seto Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
+  - Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
+  - Seto Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

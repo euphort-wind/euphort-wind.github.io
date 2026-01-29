@@ -275,26 +275,26 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
 - The Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
 - The Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
 - <u>Bashkortostan (Regional Special):</u> The Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
-    - <u>Bashkortostan (Regional Special):</u> The Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
-    - <u>Bashkortostan (Regional Special):</u> The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
-    - <u>Bashkortostan (Regional Special):</u> Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
+    - The Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
+    - The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
+    - Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
 - <u>Kabardino-Balkaria (Regional Special):</u> The Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
-    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
-    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
-    - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Bychak Knives <i>(Бичак / Бычак)</i>
+    - Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
+    - Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
+    - Balkar Bychak Knives <i>(Бичак / Бычак)</i>
 - <u>Karachay-Cherkessia:</u> The Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
-    - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Principle: Circassian Xabze <i>(Адыгэ Хабзэ / Адыгэ Хабзэ)</i>
-    - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
-    - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
-    - <u>Karachay-Cherkessia (Regional Special):</u> Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
-    - <u>Karachay-Cherkessia (Regional Special):</u> The Heritage of the Circassia <i>(Черкесия / Адыгэ Хэку)</i>
+    - Authentic Principle: Circassian Xabze <i>(Адыгэ Хабзэ / Адыгэ Хабзэ)</i>
+    - Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
+    - Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
+    - Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
+    - The Heritage of the Circassia <i>(Черкесия / Адыгэ Хэку)</i>
 - <u>North Ossetia (Regional Special):</u> The Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
-    - <u>North Ossetia (Regional Special):</u> Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
-    - <u>North Ossetia (Regional Special):</u> Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
-    - <u>North Ossetia (Regional Special):</u> Ossetian Assianism <i>(Уасдин / Уацдин)</i>
-    - <u>North Ossetia (Regional Special):</u> Ossetian Simd Dance <i>(Симд / Синд)</i>
-    - <u>North Ossetia (Regional Special):</u> Authentic Musical Instrument: Kisyn Fandyr <i>(Хисын Фандыр / Xъисын Фæндыр)</i>
-    - <u>North Ossetia (Regional Special):</u> The Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i>
+    - Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
+    - Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
+    - Ossetian Assianism <i>(Уасдин / Уацдин)</i>
+    - Ossetian Simd Dance <i>(Симд / Синд)</i>
+    - Authentic Musical Instrument: Kisyn Fandyr <i>(Хисын Фандыр / Xъисын Фæндыр)</i>
+- <u>North Ossetia (Regional Special):</u> The Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i>
 - <u>Leningrad (Regional Special):</u> The Culture of Izhorians <i>(Ижоры / Ižorat)</i>
 - <u>St. Petersburg-City (Regional Special):</u> Petrine Baroque Architecture <i>(Петровское Барокко)</i>
 - <u>Orenburzhie (Regional Special):</u> The Culture of the Orenburg Cossacks <i>(Оренбургские Казаки)</i>
