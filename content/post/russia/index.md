@@ -201,7 +201,6 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia. <br>
 - 🇷🇺 Zemfira (singer). Genre: indie rock
 - 🇷🇺 Zivert (singer). Genre: pop
 - 🇷🇺 Дора (singer). Genre: pop
-- 🇷🇺 Yuri Shevchuk (singer). Genre: rock
 - 🇷🇺 Alla Pugacheva (singer). Genre: retro pop
 - 🇺🇳 Natalie Gioia (singer). Genre: trance
 - 🇺🇳 Alexander Popov (DJ). Genre: trance

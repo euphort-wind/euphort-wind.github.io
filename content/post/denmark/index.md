@@ -80,14 +80,20 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - Future Rave. Originated: late 2010s
 
 <b>🥘 Local food & drinks: </b>
+- Flæskesvær Snack <i>(Flæskesvær)</i>
+- Rullepølse <i>(Rullepølse)</i>
+- Øllebrød <i>(Øllebrød)</i>
 - Smørrebrød <i>(Smørrebrød)</i>
   - Smørrebrød with Roast Beef <i>(Smørrebrød med Roastbeef)</i>
   - Smørrebrød with Salmon <i>(Smørrebrød med Laks)</i>
   - Smørrebrød with Asparagus <i>(Smørrebrød med Asparges)</i>
+- Rød Pølse <i>(Rød Pølse)</i>
 - Brændende Kærlighed <i>(Brændende Kærlighed)</i>
 - Stegt Flæsk <i>(Stegt Flæsk)</i>
 - Æbleflæsk <i>(Æbleflæsk)</i>
 - Danish Pastry <i>(Wienerbrød)</i>
+- Tebirkes <i>(Tebirkes)</i>
+- Danbo Cheese <i>(Danbo)</i>
 - Danish Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
 
 

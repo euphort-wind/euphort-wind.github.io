@@ -41,13 +41,16 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
     - La Rambla Street <i>(La Rambla)</i>
     - Plaça de Catalunya <i>(Plaça de Catalunya)</i>
     - The Magic Fountain of Montjuïc <i>(Font Màgica de Montjuïc)</i>
+    - The Palau Nacional <i>(Palacio Nacional)</i>
+    - Santa Maria del Mar <i>(Basílica de Santa María del Mar)</i>
 2. Salou
     - PortAventura <i>(PortAventura)</i>
     - Ponent Beach <i>(Platja de Ponent)</i>
     - The Ornamental Fountains <i>(Les Fonts Ornamentals)</i>
 3. Monistrol de Montserrat
     - Montserrat Mountain Natural Park <i>(Parc Natural de la Muntanya de Montserrat)</i>
-    - Santa Maria de Montserrat Abbey <i>(Abadia de Santa Maria de Montserrat)</i>
+    - The Basilica of Montserrat <i>(La basílica de Montserrat)</i>
+    - The Museum of Montserrat <i>(Museo de Montserrat)</i>
     - Our Lady of Montserrat <i>(Mare de Déu de Montserrat)</i>
     - Funicular Aeri de Montserrat <i>(Funicular Aeri de Montserrat)</i>
 
