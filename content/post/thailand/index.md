@@ -40,11 +40,16 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
     - Patong Beach <i>(หาดป่าตอง)</i>
     - Jungceylon <i>(จังซีลอน)</i>
     - Patong Promenade <i>(ถนนเลียบหาดป่าตอง)</i>
+    - Patong Temple <i>(วัดป่าตอง)</i>
 2. Kathu
     - Flying Hanuman Zipline <i>(ฟลายอิ้งหนุมาน)</i>
     - Elephant Care Sanctuary <i>(ศูนย์ดูแลช้าง)</i>
+    - Kathu Waterfall <i>(น้ำตกกะทู้)</i>
 3. Racha Yai
-    - Siam Bay <i>(อ่าวสยาม)</i>
+    - Siam Bay <i>(อ่าวปะตก)</i>
+    - Kon Kare Bay <i>(อ่าวขอนแค)</i>
+    - Racha Island Resort <i>(ราชา ไอส์แลนด์ รีสอร์ท)</i>
+
 
 <b>🎧 Local musicians: </b>
 - 🇹🇭 Safeplanet (band). Genre: pop
