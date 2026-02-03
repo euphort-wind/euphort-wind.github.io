@@ -59,6 +59,7 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 
 <b>🥘 Local food & drinks: </b>
 - Tom Yam Soup <i>(ต้มยำ)</i>
+- Tom Kha Kai Soup <i>(ต้มข่าไก่)</i>
 - Thai Suki <i>(สุกี้)</i>
 - Pad Thai <i>(ผัดไทย)</i>
 - Thai Pineapple Fried Rice <i>(ข้าวผัดสับปะรด)</i>
