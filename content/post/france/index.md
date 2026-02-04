@@ -277,7 +277,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - <u>Île-de-France (Regional Special):</u> Nuit Blanche Festival <i>(Nuit Blanche)</i>. Month: November
 
 
-<b>💐 National flower: </b> Yellow Iris <i>(iris des Marais)</i>
+<b>💐 National flower: </b> Yellow Iris <i>(Iris des Marais)</i>
 
 
 <b>🦉 Local wisdom:</b> "Little by little, the bird makes its nest." / <i>"Petit à petit, l'oiseau fait son nid."</i> — French proverb
