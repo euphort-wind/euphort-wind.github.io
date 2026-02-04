@@ -83,7 +83,6 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🇫🇷 Amel Bent (singer). Genre: R&B
 - 🇫🇷 Indila (singer). Genre: nouvelle chanson
 - 🇫🇷 Sheryfa Luna (singer). Genre: R&B 
-- 🇫🇷 Zaz (singer). Genre: nouvelle chanson 
 - 🇫🇷 Patricia Kaas (singer). Genre: nouvelle chanson
 - 🇫🇷 Alizée (singer). Genre: pop
 - 🇫🇷 Team BS (band). Genre: hip-hop
