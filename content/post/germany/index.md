@@ -189,14 +189,14 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Wanderlust <i>(Wanderlust)</i>
-- German Philosophy <i>(Deutsche Philosophie)</i> 
 - Protestantism <i>(Protestantismus)</i>
 - The Allemande Dance <i>(Allemande)</i>
 - The Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
 - The Ottonian Architecture <i>(Ottonische Architektur)</i>
 - The Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
 - Mensch-Ärgere-Dich-Nicht Game <i>(Mensch Ärgere Dich Nicht)</i>
-- German Cuckoo Clock <i>(Kuckucksuhr)</i>
+- The Cuckoo Clocks <i>(Kuckucksuhr)</i>
+- German Philosophy <i>(Deutsche Philosophie)</i> 
 - German Folklore <i>(Deutsche Folklore)</i>
 - German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas", etc.)</i> 
 - German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>

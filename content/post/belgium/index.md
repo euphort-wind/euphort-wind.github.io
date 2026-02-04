@@ -101,9 +101,10 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - <u>Flanders (Regional Special):</u> Eel in the Green <i>(Paling in 't groen)</i>
 
 <b>🎬 Local movies:</b>
-- Mr. Nobody <i>(Mr. Nobody)</i>. Year: 2009. Genre: thriller / fantasy
-- In Bruges <i>(In Bruges)</i>. Year: 2008. Genre: drama / thriller
+- Mr. Nobody <i>(Mr. Nobody)</i>. Year: 2009. Genre: fantasy
+- In Bruges <i>(In Bruges)</i>. Year: 2008. Genre: thriller
 - Zillion <i>(Zillion)</i>. Year: 2022. Genre: thriller
+- The Translators <i>(Les Traducteurs)</i>. Year: 2019. Genre: thriller
 - Loft <i>(Loft)</i>. Year: 2008. Genre: thriller 
 - Maldoror <i>(Maldoror)</i>. Year: 2024. Genre: thriller 
 - Ben X <i>(Ben X)</i>. Year: 2007. Genre: thriller 

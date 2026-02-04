@@ -88,7 +88,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- National Day of Egypt  <i>(اليوم الوطني المصري)</i>. Month: July
+- National Day of Egypt <i>(اليوم الوطني المصري)</i>. Month: July
 - Sham Ennessim Festival <i>(شم النسيم)</i>. Month: April or May
 - Wafaa El-Nil Festival <i>(عيد وفاء النيل)</i>. Month: August
 

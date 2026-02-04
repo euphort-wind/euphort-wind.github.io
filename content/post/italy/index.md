@@ -173,18 +173,6 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - Dream Trance. Originated: late 1990s
 
 
-<b>🎬 Local movies:</b>
-- Medici <i>(I Medici)</i>. Year: 2016-2019. Genres: historical drama (series)
-- The Place <i>(The Place)</i>. Year: 2017. Genres: thriller
-- The Best Offer <i>(La Migliore Offerta)</i>. Year: 2013. Genres: thriller
-- Perfect Strangers <i>(Perfetti Sconosciuti)</i>. Year: 2016. Genres: drama
-- Youth <i>(Youth)</i>. Year: 2015. Genres: drama
-- The Great Beauty <i>(La Grande Bellezza)</i>. Year: 2013. Genres: drama
-- The First Day of My Life <i>(Il Primo Giorno della Mia Vita)</i>. Year: 2023. Genres: drama
-- Baaria <i>(Baaria)</i>. Year: 2009. Genres: drama
-- The Hand of God <i>(È Stata la Mano di Dio)</i>. Year: 2021. Genres: drama
-
-
 <b>🥘 Local food & drinks: </b>
 - Italian Lunch Meats <i>(Salumi Italiani)</i>
   - Carpaccio <i>(Carpaccio)</i>
@@ -258,6 +246,19 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 
 
+<b>🎬 Local movies:</b>
+- Medici <i>(I Medici)</i>. Year: 2016-2019. Genres: drama (series)
+- The Place <i>(The Place)</i>. Year: 2017. Genres: thriller
+- The Best Offer <i>(La Migliore Offerta)</i>. Year: 2013. Genres: thriller
+- Perfect Strangers <i>(Perfetti Sconosciuti)</i>. Year: 2016. Genres: drama
+- Youth <i>(Youth)</i>. Year: 2015. Genres: drama
+- The Great Beauty <i>(La Grande Bellezza)</i>. Year: 2013. Genres: drama
+- The First Day of My Life <i>(Il Primo Giorno della Mia Vita)</i>. Year: 2023. Genres: drama
+- Baaria <i>(Baaria)</i>. Year: 2009. Genres: drama
+- The Hand of God <i>(È Stata la Mano di Dio)</i>. Year: 2021. Genres: drama
+
+
+
 <b>🪔 Authentic features:</b>
 - Authentic Principle: La Dolce Vita <i>(La Dolce Vita)</i> 
 - The Latin Alphabet <i>(Alfabeto Latino)</i> 
@@ -267,6 +268,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - The Morra Game <i>(Morra)</i>
 - The Pallone Game <i>(Pallone)</i>
 - Italian Neoclassical Architecture <i>(Architettura Neoclassica Italiana)</i> 
+- Italian Baroque Painting <i>(Pittura Barocca Italiana)</i> 
 - Italian Folklore <i>(Folclore d'Italia)</i> 
 - Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
 - Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>
