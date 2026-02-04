@@ -253,7 +253,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - French Impressionist Painting <i>(Peinture Impressionniste)</i>
 - French Baroque Architecture <i>(Architecture Baroque Française)</i>
 - French Neoclassical Architecture <i>(Architecture Néoclassique Française)</i>
-- French Rococo Architecture <i>(Architecture Rococo française)</i>
+- French Rococo Architecture <i>(Architecture Rococo Française)</i>
 - French Philosophy <i>(Philosophie Française)</i>
 - French Folklore <i>(Folklore Français)</i>
 - French Fashion <i>(Brands: "Lacoste", "Chanel", "Dior", "Givenchy", "Louis Vuitton", "YSL", etc.)</i> 
