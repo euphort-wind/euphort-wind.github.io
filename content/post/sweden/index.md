@@ -29,7 +29,8 @@ gallery_item:
     image: 6kott.jpg
     caption: Swedish köttbullar
 ---
-Hej! I share an extract of my life in charming Sweden. I live there since 2021. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I share an extract of my life in charming Sweden. I live there since 2021. Below are some notes on what I tasted, saw and listened to.
+
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Brännö, Styrsö, Donsö, Vrångö, Öckerö, Hönö, Björkö,  Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna, Lödöse, Halmstad, Nödinge-Nol, Karlstad, Skövde, Mariestad, Herrljunga, Arvika, Kristinehamn. <br>

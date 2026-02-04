@@ -29,7 +29,8 @@ gallery_item:
     image: 8sarmale.jpg
     caption: Romanian Sarmale with Mămăligă
 ---
-Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was there in 2023 and 2025. Below are some notes on what I tasted, saw and listened to.<br>
+Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was there in 2023 and 2025. Below are some notes on what I tasted, saw and listened to.
+
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Bucharest, Sinaia, Bran, Brașov, Prejmer, Sfântu Gheorghe, Sighișoara. <br>
