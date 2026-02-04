@@ -20,7 +20,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In the *Bulletin of Modern Research '19*
-publication_short: In *BMR 2019*
+publication_short: In *BMR*
 
 abstract: This paper presents the concept of a game-based educational product aimed at supporting interdisciplinary learning among school students. The proposed gamification-based product integrates elements of quest games, role-playing games, and visual novels to foster student engagement and enhance learning outcomes. The architecture of the product was developed based on the requirements from the client, and a functional prototype was implemented, featuring the main menu, ranking system, progression map, and an assessment platform. The concept was evaluated in a school setting, and the proposed solution was further substantiated through market and competitor analyses, demonstrating its pedagogical relevance and potential competitiveness within the educational technology domain.
 tags: []

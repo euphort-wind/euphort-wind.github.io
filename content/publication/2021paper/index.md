@@ -23,7 +23,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In the *26th International Conference Information Society and University Studies '21*
-publication_short: In *IVUS 2021*
+publication_short: In *IVUS*
 
 abstract: The aim of the article is to develop a model for managing business processes in the information service based on behavior of the company. The main business processes of the company were identified, and their main interrelationships were reflected at the conceptual level. A model in the Powersim Studio 7 simulation environment is presented, which allows regulating the interaction between companies in the information service, identifying bottlenecks in the company's business processes, and predicting the total income of an enterprise depending on various market conditions.
 

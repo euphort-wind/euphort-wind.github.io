@@ -25,7 +25,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In the *51th Euromicro Conference Series on Software Engineering and Advanced Applications '25*
-publication_short: In *SEAA 2025*
+publication_short: In *SEAA*
 
 abstract: Machine Learning (ML) is increasingly integrated into software systems, introducing a set of recurring architectural challenges not commonly addressed in traditional development, such as managing data-driven components, uncertainty, and quality concerns specific to ML. While established software design patterns exist for conventional systems, a coherent set of patterns for ML-enabled architectures is still lacking. Such patterns would help guide recurring decisions and make their trade-offs more transparent to architects. This paper presents 14 design patterns identified from a set of 49 component models of ML-enabled systems, which we compiled through a multivocal literature review covering both academic and grey literature sources. Each pattern captures a recurring architectural decision grounded in real-world practice. To assess their practical relevance and implications, we conducted interviews with 10 experts, focusing on how the identified patterns impact key quality attributes such as maintainability, reliability, explainability, and fairness. The resulting pattern collection supports software architects in reasoning about trade-offs in ML-based system design and provides a foundation for further research on architectural best practices.
 

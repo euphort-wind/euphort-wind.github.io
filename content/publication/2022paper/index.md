@@ -20,7 +20,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In the *Tools of Project Management and Data Analysis '22*
-publication_short: In *Tools of PM & DA 2022*
+publication_short: In *Tools of PM & DA*
 
 abstract: This paper presents a conceptual framework for measuring employee engagement and explores strategies to enhance it through the implementation of a hybrid workspace model. The study addresses the persistent issue of low engagement frequently observed in remote work environments. To investigate this problem, a mixed-method approach was employed, integrating empirical methods (interviews, surveys, experiments) with theoretical modeling (development of engagement and workflow models). The study identified a set of key factors representing bottlenecks in remote work processes, which informed the design of a prototype hybrid meeting room. This prototype serves as a proof of concept for the proposed hybrid workspace model and demonstrates its potential to improve employee engagement and organizational efficiency.
 
