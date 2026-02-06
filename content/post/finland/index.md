@@ -79,6 +79,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
   - Finnish Pea Soup <i>(Hernekeitto)</i>
   - Kesäkeitto <i>(Kesäkeitto)</i>
 - Lihapiirakka <i>(Lihapiirakka)</i>
+- Maksalaatikko <i>(Maksalaatikko)</i>
 - Joulutorttu <i>(Joulutorttu)</i>
 - Finnish Lent Buns <i>(Laskiaispulla)</i>
 - Pulla Bread <i>(Nisu)</i>
