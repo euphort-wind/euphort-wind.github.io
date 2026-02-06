@@ -103,6 +103,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - The Culture of Sámi <i>(Saamelaiset / Sámit)</i>
   - Sámi Shamanism <i>(Saamelainen Muinaisusko / Sámi Osku)</i>
   - The System of Siida <i>(Lapinkylä / Siida)</i>
+  - The Joik Singing <i>(Joiku / Luohti)</i>
   - The Sáhkku Game <i>(Sáhkku / Sáhkku)</i>
   - The Dablo Game <i>(Dablo / Daablodh Prejjesne)</i>
   - The Duodji Handicraft <i>(Saamenkäsityö / Duodji)</i>
