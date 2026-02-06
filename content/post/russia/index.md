@@ -203,6 +203,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🇷🇺 Zivert (singer). Genre: pop
 - 🇷🇺 Дора (singer). Genre: pop
 - 🇷🇺 Alla Pugacheva (singer). Genre: retro pop
+- 🇷🇺 Жинжин (singer). Genre: pop
 - 🇺🇳 Natalie Gioia (singer). Genre: trance
 - 🇺🇳 Alexander Popov (DJ). Genre: trance
 - 🇺🇳 Arty (DJ). Genre: progressive house
