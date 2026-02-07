@@ -80,6 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
   - Kesäkeitto <i>(Kesäkeitto)</i>
 - Lihapiirakka <i>(Lihapiirakka)</i>
 - Maksalaatikko <i>(Maksalaatikko)</i>
+- Vatkuli <i>(Palapaisti)</i>
 - Joulutorttu <i>(Joulutorttu)</i>
 - Finnish Lent Buns <i>(Laskiaispulla)</i>
 - Pulla Bread <i>(Nisu)</i>

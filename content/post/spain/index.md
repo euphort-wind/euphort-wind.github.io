@@ -82,6 +82,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Gazpacho <i>(Gazpacho)</i>
 - Spanish Omelette <i>(Tortilla Española)</i>
 - Paella <i>(Paella)</i>
+- Fideuà <i>(Fideuà)</i>
 - Churro <i>(Churro)</i>
 - Quince Paste <i>(Dulce de Membrillo)</i>
 - Manchego Cheese <i>(Queso Manchego)</i>
