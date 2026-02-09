@@ -63,7 +63,8 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - Tom Kha Kai Soup <i>(ต้มข่าไก่)</i>
 - Thai Suki <i>(สุกี้)</i>
 - Pad Thai <i>(ผัดไทย)</i>
-- Thai Pineapple Fried Rice <i>(ข้าวผัดสับปะรด)</i>
+- Thai Fried Rice <i>(ข้าวผัด)</i>
+- Thai Pineapple Rice <i>(ข้าวผัดสับปะรด)</i>
 - Suea Rong Hai <i>(เสือร้องไห้)</i>
 - Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
 - Thai Rum <i>(Brand: "SangSom")</i>

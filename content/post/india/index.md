@@ -56,8 +56,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 
 
 <b>🎧 Local musicians: </b>
-- 🇮🇳 A. R. Rahman (singer). Genre: indian film pop
-- 🇮🇳 Panjabi MC (DJ). Genre: bhangra music
+- 🇮🇳 A. R. Rahman (singer). Genre: film score
+- 🇮🇳 Panjabi MC (DJ). Genre: bhangra 
 - 🇮🇳 Rashmeet Kaur (singer). Genre: pop
 - 🇮🇳 Arijit Singh (playback singer). Genre: film score
 - 🇮🇳 Mithoon (composer). Genre: film score
