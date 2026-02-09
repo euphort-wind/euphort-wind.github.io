@@ -58,9 +58,9 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - Hummus <i>(حمص بطحينة)</i>
 - Qalayet Bandora <i>(قلاية البندورة)</i>
 - Mansaf <i>(منسف)</i>
-- Zarb <i>(زرب)</i>
-- Bamia <i>(طبق البامية)</i>
+- Zarb-Style Lamb <i>(زرب)</i>
 - Knafeh <i>(كنافة)</i>
+- Khubz <i>(خبز)</i>
 
 
 

@@ -112,7 +112,8 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - The Hedebo Embroidery <i>(Hedebosyning)</i>
 - The Legend of Danish Flag <i>(Dannebrog)</i>
 - The Daldøs Game <i>(Daldøs)</i>
-- The Nordic Classical Architecture <i>(Den Nordiske Klassiske Arkitektur)</i>
+- The National Romantic Architecture <i>(Nationalromantik Byggestil)</i>
+- The Nordic Classical Architecture <i>(Nordiske Klassiske Arkitektur)</i>
 - Danish Fiddle Music <i>(Spillemandsmusik)</i>
 - Danish Tradition of Easter Letters <i>(Gækkebreve)</i>
 - Danish Folklore <i>(Dansk Folketro)</i>

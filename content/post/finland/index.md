@@ -41,11 +41,15 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 1. Helsinki
     - Temppeliaukio Church <i>(Temppeliaukion Kirkko)</i>
     - Sea Fortress Suomenlinna <i>(Suomenlinna)</i>
-    - Helsinki Cathedral & Senate Square <i>(Helsingin Tuomiokirkko)</i>
+    - Helsinki Cathedral <i>(Helsingin Tuomiokirkko)</i>
+    - The Senate Square <i>(Senaatintori)</i>
+    - Kallio Church <i>(Kallion Kirkko)</i>
+    - The Parliament House <i>(Eduskuntatalo)</i>
     - Old Market Hall <i>(Vanha Kauppahalli)</i>
     - Uspenskin Cathedral <i>(Uspenskin Katedraali)</i>
+    - Esplanadi Street <i>(Esplanadi)</i>
     - Kamppi Chapel of Silence <i>(Kampin Kappeli)</i>
-    - The Sibelius Monument & Sibelius Park <i>(Sibelius-Monumentti)</i>
+    - The Sibelius Monument <i>(Sibelius-Monumentti)</i>
     - Helsinki Winter Garden <i>(Helsingin Talvipuutarha)</i>
 2. Vaasa
     - Vaasa City Hall <i>(Kaupungintalo)</i>
@@ -59,6 +63,10 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 <b>🎧 Local musicians: </b>
 - 🇫🇮 Portion Boys (band). Genre: pop
 - 🇫🇮 Jenni & Juho (duo). Genre: pop
+- 🇫🇮 Haloo Helsinki! (band). Genre: pop rock
+- 🇫🇮 Jenni Vartiainen (singer). Genre: pop
+- 🇫🇮 Eppu Normaali (singer). Genre: rock
+- 🇫🇮 Neljä Ruusua (band). Genre: rock
 - 🇺🇳 H.I.M. (band). Genre: gothic metal
 - 🇺🇳 The Rasmus (band). Genre: alternative rock
 - 🇺🇳 Sunrise Avenue (band). Genre: rock
@@ -74,11 +82,13 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 <b>🥘 Local food & drinks: </b>
 - Karelian Pastry <i>(Karjalanpiirakka)</i>
 - Finnish Soups <i>(Suomalaiset Keitot)</i>
-  - Finnish Salmon Soup <i>(Lohikeitto)</i>
-  - Finnish Fish Soup <i>(Kalakeitto)</i>
-  - Finnish Pea Soup <i>(Hernekeitto)</i>
+  - Lohikeitto <i>(Lohikeitto)</i>
+  - Kalakeitto <i>(Kalakeitto)</i>
+  - Hernekeitto <i>(Hernekeitto)</i>
   - Kesäkeitto <i>(Kesäkeitto)</i>
 - Lihapiirakka <i>(Lihapiirakka)</i>
+- Sautéed Reindeer <i>(Poronkäristys)</i>
+- Karelian Stew <i>(Karjalanpaisti)</i>
 - Maksalaatikko <i>(Maksalaatikko)</i>
 - Vatkuli <i>(Palapaisti)</i>
 - Joulutorttu <i>(Joulutorttu)</i>

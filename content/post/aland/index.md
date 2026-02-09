@@ -58,6 +58,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 <b>🥘Local food & drinks: </b>
 - Gravad Sik <i>(Gravad Sik)</i>
 - Ålandic Pancake with Cream and Prune Jam <i>(Åländsk Pannkaka med Sviskonkräm och Snömos)</i>
+- Mustaleipä Bread <i>(Åländskt Svartbröd)</i>
 - Ålandic Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
 - Ålandic Beer <i>(Brand: "Stallhagen")</i>
 
