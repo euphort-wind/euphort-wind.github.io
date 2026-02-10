@@ -33,7 +33,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Rhodes, Agios Nikolaos, Heraklion, Gournes, Oia.<br>
+<b>🗺 Places:</b> Rhodes, Lindos, Agios Nikolaos, Heraklion, Gournes, Oia.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Rhodes
@@ -42,25 +42,29 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
     - The Street of the Knights <i>(Οδός των Ιπποτών)</i>
     - Ancient Stadium of Rhodes <i>(Αρχαίο Στάδιο της Ρόδου)</i>
     - Acropolis of Rhodes <i>(Ακρόπολη της Ρόδου)</i>
-    - Butterflies Valley <i>(Κοιλάδα Πεταλούδων)</i>
+    - The Valley of Butterflies <i>(Κοιλάδα Πεταλούδων)</i>
     - Ancient Site of Kamiros <i>(Κάμιρος)</i>
-2. Agios Nikolaos
+2. Lindos
+    - Lindos Acropolis <i>(Ακρόπολη της Λίνδου)</i>
+    - The Temple of Athena Lindia <i>(Ο Ναός Της Λινδίας)</i>
+    - Lindos Beach <i>(Παραλία Λίνδου)</i>
+3. Agios Nikolaos
     - Port of Agios Nikolaos <i>(Λιμάνι Αγίου Νικολάου)</i>
     - Almyros Beach <i>(Παραλία Αλμυρού)</i>
     - Lake Voulismeni <i>(Λίμνη Βουλισμένη)</i>
     - Holy Trinity Church <i>(Εκκλησία της Αγίας Τριάδας)</i>
     - Cave of Diktaion Andron <i>(Σπήλαιο Δικταίου Άντρου)</i>  
-3. Heraklion
+4. Heraklion
     - Heraklion Archaeological Museum <i>(Αρχαιολογικό Μουσείο Ηρακλείου)</i>
     - Cathedral of St. Minas <i>(Καθεδρικός Ναός Αγίου Μηνά)</i>
     - Lion's Fountain <i>(Κρήνη Μοροζίνι)</i>
     - Old Venetian Harbor of Heraklion <i>(Παλιό Ενετικό Λιμάνι Ηρακλείου)</i>
-4. Oia 
+5. Oia 
     - The Castle of St. Nicholas <i>(Το Κάστρο του Αγίου Νικολάου)</i>
     - Church of Panagia <i>(Εκκλησία της Παναγίας)</i>
     - Nikolaou Nomikou <i>(Νικολάου Νομικού)</i>
     - Amoudi Bay <i>(Όρμος Αμμούδι)</i>
-5. Gournes
+6. Gournes
     - Cretaquarium <i>(Θαλασσόκοσμος)</i> 
 
 
@@ -79,6 +83,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 <b>🥘 Local food & drinks: </b>
 - Greek Salad <i>(Ελληνική Σαλάτα)</i>
 - Taramasalata <i>(Ταραμοσαλάτα)</i>
+- Ktipiti <i>(Τυροκαυτερή)</i>
 - Avgolemono Soup <i>(Αυγολέμονο)</i>
 - Gyros <i>(Γύρος)</i>
 - Moussaka  <i>(Μουσακάς)</i>
