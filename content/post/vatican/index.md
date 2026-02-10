@@ -58,8 +58,8 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 
 
 <b>🎬 Local movies:</b>
-- The Two Popes <i>(Duo Pontifices)</i>. Year: 2019. Genres: drama
-- Conclave <i>(Conclave)</i>. Year: 2024. Genres: thriller
+- The Two Popes <i>(Duo Pontifices)</i>. Year: 2019. Genre: drama
+- Conclave <i>(Conclave)</i>. Year: 2024. Genre: thriller
 
 
 <b>🪔 Authentic features:</b>

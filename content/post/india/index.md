@@ -94,9 +94,9 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 
 
 <b>🎬 Local movies:</b>
-- Dunki <i>(डंकी)</i>. Year: 2023. Genres: comedy / drama
-- Slumdog Millionaire <i>(स्लमडॉग करोड़पती)</i>. Year: 2008. Genres: drama
-- Shantaram <i>(शांताराम)</i>. Year: 2022. Genres: drama (series)
+- Dunki <i>(डंकी)</i>. Year: 2023. Genre: dramedy
+- Slumdog Millionaire <i>(स्लमडॉग करोड़पती)</i>. Year: 2008. Genre: drama
+- Shantaram <i>(शांताराम)</i>. Year: 2022. Genre: drama (series)
 <br>
 
 

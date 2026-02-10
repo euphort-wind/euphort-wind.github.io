@@ -248,15 +248,15 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 
 <b>🎬 Local movies:</b>
-- Medici <i>(I Medici)</i>. Year: 2016-2019. Genres: drama (series)
-- The Place <i>(The Place)</i>. Year: 2017. Genres: thriller
-- The Best Offer <i>(La Migliore Offerta)</i>. Year: 2013. Genres: thriller
-- Perfect Strangers <i>(Perfetti Sconosciuti)</i>. Year: 2016. Genres: drama
-- Youth <i>(Youth)</i>. Year: 2015. Genres: drama
-- The Great Beauty <i>(La Grande Bellezza)</i>. Year: 2013. Genres: drama
-- The First Day of My Life <i>(Il Primo Giorno della Mia Vita)</i>. Year: 2023. Genres: drama
-- Baaria <i>(Baaria)</i>. Year: 2009. Genres: drama
-- The Hand of God <i>(È Stata la Mano di Dio)</i>. Year: 2021. Genres: drama
+- Medici <i>(I Medici)</i>. Year: 2016-2019. Genre: drama (series)
+- The Place <i>(The Place)</i>. Year: 2017. Genre: thriller
+- The Best Offer <i>(La Migliore Offerta)</i>. Year: 2013. Genre: thriller
+- Perfect Strangers <i>(Perfetti Sconosciuti)</i>. Year: 2016. Genre: drama
+- Youth <i>(Youth)</i>. Year: 2015. Genre: drama
+- The Great Beauty <i>(La Grande Bellezza)</i>. Year: 2013. Genre: drama
+- The First Day of My Life <i>(Il Primo Giorno della Mia Vita)</i>. Year: 2023. Genre: drama
+- Baaria <i>(Baaria)</i>. Year: 2009. Genre: drama
+- The Hand of God <i>(È Stata la Mano di Dio)</i>. Year: 2021. Genre: drama
 
 
 

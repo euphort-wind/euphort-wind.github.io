@@ -65,7 +65,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 
 <b>🎬 Local movies:</b>
-- Captain Abu Raed <i>(كابتن أبو رائد)</i>. Year: 2007. Genres: drama
+- Captain Abu Raed <i>(كابتن أبو رائد)</i>. Year: 2007. Genre: drama
 
 
 <b>🪔 Authentic features:</b>
