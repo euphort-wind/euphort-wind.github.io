@@ -42,6 +42,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
     - Sharm El-Sheikh Old Market <i>(السوق القديم)</i>
     - Shark's Bay Beach <i>(خليج القرش)</i>
     - The Bedouin Village <i>(القرية البدوية)</i>
+    - Naama Bay Promenade <i>(خليج نعمة)</i>
 
 
 <b>🎧 Local musicians: </b>
@@ -55,18 +56,23 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - Tape Music. Originated: mid-1940s
 - Mahraganat. Originated: early 2000s
 
+
 <b>🥘 Local food & drinks: </b>
 - Falafel <i>(طعمية)</i>
+- Feteer <i>(فطير)</i>
 - Ful Medames <i>(فول مدمس)</i>
+- Torly <i>(تورلي)</i>
+- Macarona bil-Bechamel <i>(مكرونة بالبشاميل)</i>
 - Koshary <i>(كشرى)</i>
 - Basbousa <i>(بسبوسة)</i>
+- Fakhfakhina <i>(فخفخينا)</i>
 - Aish Baladi <i>(عيش بلدي)</i>
-- Karkadé Tea <i>(كَركَديه)</i>
+- Karkadeh Tea <i>(كركديه)</i>
 
 
 <b>🎬 Local movies:</b>
-- Café Regular, Cairo <i>(قهوة عادي)</i>. Year: 2012. Genre: short / drama
-<br>
+- Café Regular, Cairo <i>(Café Regular, Cairo)</i>. Year: 2012. Genre: short / drama
+
 
 
 <b>🪔 Authentic features:</b>
