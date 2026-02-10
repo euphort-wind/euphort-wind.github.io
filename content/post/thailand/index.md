@@ -59,12 +59,18 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - 🇹🇭 Earth Patravee (singer). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
-- Tom Yam Soup <i>(ต้มยำ)</i>
-- Tom Kha Kai Soup <i>(ต้มข่าไก่)</i>
+- Thai Soups <i>(ต้มยำ)</i>
+  - Tom Yam Kung <i>(ต้มยำกุ้ง)</i>
+  - Tom Yam Nam Sai <i>(ต้มยำน้ำใส)</i>
+  - Tom Yam Nam Khon <i>(ต้มยำน้ำข้น)</i>
+  - Tom Yam Gai <i>(ต้มยำไก่)</i>
+  - Tom Kha Gai <i>(ต้มข่าไก่)</i>
 - Thai Suki <i>(สุกี้)</i>
 - Pad Thai <i>(ผัดไทย)</i>
-- Thai Fried Rice <i>(ข้าวผัด)</i>
 - Thai Pineapple Rice <i>(ข้าวผัดสับปะรด)</i>
+- Phanaeng <i>(พะแนง)</i>
+- Pad Kaphrao <i>(ผัดกะเพรา)</i>
+- Pad Mee Luang <i>(ผัดเส้นหมี่เหลือง)</i>
 - Suea Rong Hai <i>(เสือร้องไห้)</i>
 - Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
 - Thai Rum <i>(Brand: "SangSom")</i>
@@ -86,16 +92,15 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - The Lai Rot Nam Art <i>(ลายรดน้ำ)</i>
 - The Makruk Game <i>(หมากรุก)</i> 
 - The Ka Fak Khai Game <i>(กาฟักไข่)</i>
-- The Makyek Game <i>(หมากแยก)</i>
-- The Khee Ma Song Muang <i>(ขี่ม้าส่งเมือง)</i>
+- The Mak-Yek Game <i>(หมากแยก)</i>
 - Thai Folk Religion <i>(ศาสนาผี)</i>
 - Thai Massage <i>(นวดแผนไทย)</i>
 - Thai Script <i>(อักษรไทย)</i>
 - Thai Folklore <i>(นิทานพื้นบ้านไทย)</i>
 - Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
-- Authentic Garb: Panung <i>(ผ้านุ่ง)</i>
+- Authentic Garb: Pha Nung <i>(ผ้านุ่ง)</i>
 - The Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>
-- The Heritage of the Rattanakosin Kingdom <i>(อาณาจักรรัตนโกสินทร์)</i>
+- The Heritage of the Rattanakosin Kingdom <i>(อาณาจักรรัตนโกสินทร์ / ราชอาณาจักรสยาม)</i>
 
 
 
@@ -111,7 +116,7 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 <b>💐 National flower: </b> Purging Cassia <i>(ดอกราชพฤกษ์)</i>
 
 
-<b>🦉 Local wisdom:</b> "Keep your fire inside and don't take it from someone else." / <i>"ไฟในอย่านำออก ไฟนอกอย่านำเข้า."</i> — Thai proverb
+<b>🦉 Local wisdom:</b> "Keep your fire inside and don't take it from someone else." / <i>"ไฟในอย่านำออก ไฟนอกอย่านำเข้า"</i> — Thai proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Maha Chulalongkorn Rajavidyalaya University <i>(มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย)</i>, Bangkok, est. 1887.
