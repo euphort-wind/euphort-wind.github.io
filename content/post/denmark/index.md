@@ -43,6 +43,8 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
     - Rosenborg Castle <i>(Rosenborg Slot)</i>
     - Christiansborg Castle <i>(Christiansborg Slot)</i>
     - The Round Tower <i>(Rundetaarn)</i>
+    - Frederik's Church <i>(Frederiks Kirke)</i>
+    - Kastellet <i>(Kastellet)</i>
     - Strøget <i>(Strøget)</i>
     - Børsen <i>(Børsen)</i>
     - Freetown Christiania <i>(Fristaden Christiania)</i>
