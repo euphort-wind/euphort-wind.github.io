@@ -57,6 +57,7 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - 🇹🇭 UrboyTJ (rapper). Genre: hip-hop
 - 🇹🇭 Palmy (singer). Genre: pop
 - 🇹🇭 Earth Patravee (singer). Genre: pop
+- 🇹🇭 Slot Machine (band). Genre: rock
 
 <b>🥘 Local food & drinks: </b>
 - Thai Soups <i>(ต้มยำ)</i>
@@ -83,7 +84,9 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 
 
 <b>🎬 Local movies:</b>
--  Thirteen Lives <i>(สิบสามชีวิต)</i>. Year: 2022. Genre: action / drama
+- The Legend of Muay Thai: 9 Satra <i>(๙ ศาสตรา)</i>. Year: 2018. Genre: animation / action
+- Thirteen Lives <i>(สิบสามชีวิต)</i>. Year: 2022. Genre: action / drama
+
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Thainess <i>(ความเป็นไทย)</i>
