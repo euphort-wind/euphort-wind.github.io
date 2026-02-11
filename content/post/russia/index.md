@@ -38,11 +38,16 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 
 <b>🏛 Top sights visited: </b>
 1. Moscow
+    - St. Basil's Cathedral <i>(Собор Василия Блаженного)</i>
+    - The Cathedral of Christ the Saviour <i>(Храм Христа Спасителя)</i>
     - The Red Square <i>(Красная площадь)</i>
     - The Moscow Metro <i>(Московский Метрополитен)</i>
     - GUM <i>(ГУМ)</i>
+    - The Bolshoi Theatre <i>(Большой Театр)</i>
     - Exhibition of Achievements of National Economy <i>(ВДНХ)</i>
+    - Gorky Central Park <i>(ЦПКиО им. Горького)</i>
     - Arbat Street <i>(Старый Арбат)</i>
+    - Moscow International Business Center <i>(Москва-Сити)</i>
     - Zaryadye Park <i>(Парк "Зарядье")</i>
     - Sobornaya Square <i>(Соборная Площадь)</i>
     - Pushkin Museum <i>(Пушкинский Музей)</i>
@@ -52,9 +57,11 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Sevastyanov's Mansion <i>(Дом Севастьянова)</i>
     - Vainera Street <i>(Улица Вайнера)</i>
     - Ganina Yama <i>(Ганина Яма)</i>
-    - National Park "Bazhov's places" <i>(Бажовские места)</i>
-    - Ekaterinburg Plotinka <i>(Плотинка)</i>
-    - Yekaterinburg-City <i>(Екатеринбург-Сити)</i>
+    - National Park "Bazhov's Places" <i>(Бажовские Места)</i>
+    - Plotinka <i>(Плотинка)</i>
+    - Dendropark <i>(Екатеринбургский Дендропарк)</i>
+    - Church of All Saints <i>(Храм-на-Крови)</i>
+    - Vysotsky Business Center <i>(Высоцкий Бизнес-Центр)</i>
     - Boris Yeltsin Presidential Center <i>(Ельцин-Центр)</i>
 3. Magnitogorsk
     - Pervaya Palatka <i>(Первая Палатка)</i>
@@ -83,8 +90,10 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Nevsky Avenue <i>(Невский Проспект)</i> 
     - Pushkin's Appartment <i>(Мемориальный Музей-Квартира А. С. Пушкина)</i> 
     - Church of the Savior on Blood <i>(Спас-на-Крови)</i> 
+    - St. Isaac’s Cathedral i>(Исаакиевский Собор)</i> 
     - Kazan Cathedral <i>(Казанский Собор)</i> 
-    - Vasilyevsky Island <i>( Васильевский Остров)</i> 
+    - Vasilyevsky Island <i>(Васильевский Остров)</i>
+    - Singer House <i>(Дом Компании "Зингер")</i>
 9. Pavlovsk 
     - Pavlovsk Museum <i>(Павловский Дворец)</i> 
 10. Gatchina
