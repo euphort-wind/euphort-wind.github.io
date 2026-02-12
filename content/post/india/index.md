@@ -82,6 +82,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - Gulab Jamun <i>(गुलाब जामुन)</i>
 - Kanda Bhaji <i>(कांदा भजी)</i>
 - Butter Chicken <i>(बटर चिकन)</i>
+- Palak Paneer <i>(पालक पनीर)</i>
 - Rogan Josh <i>(रोग़न जोश)</i>
 - Lamb Korma <i>(मटन कोरमा)</i>
 - Indian Buffalo Steak <i>(भैंस का स्टेक)</i>
