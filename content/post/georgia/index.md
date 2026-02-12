@@ -134,7 +134,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 <b>🎬 Local movies:</b>
 - The Other Bank <i>(გაღმა ნაპირი)</i>. Year: 2009. Genre: drama 
 - Blind Dates <i>(შემთხვევითი პაემნები)</i>. Year: 2013. Genre: drama
-- L'héritage <i>(L'héritage)</i>. Year: 2006. Genre: drama
+- L'Héritage <i>(L'Héritage)</i>. Year: 2006. Genre: drama
 - Svani <i>(სვანი)</i>. Year: 2007. Genre: drama  
 - 8 minutes <i>(8 წუთი)</i>. Year: 2020. Genre: comedy / short
 

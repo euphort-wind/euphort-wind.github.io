@@ -94,7 +94,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 
 <b>🎬 Local movies:</b>
 -  A Sublime Life <i>(Uma Vida Sublime)</i>. Year: 2018. Genre: thriller / drama
--  Ice Merchants <i>(Ice Merchants)</i>. Year: 2022. Genre: short
+-  Ice Merchants <i>(Ice Merchants)</i>. Year: 2022. Genre: animation / short
 -  Momentos <i>(Momentos)</i>. Year: 2010. Genre: short
 <br>
 
