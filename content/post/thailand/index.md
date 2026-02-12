@@ -91,6 +91,7 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Thainess <i>(ความเป็นไทย)</i>
+- Buddhism <i>(ศาสนาพุทธ)</i>
 - Muay Thai Boxing <i>(มวยไทย)</i>
 - The Khon Dance <i>(โขน)</i>
 - The Lai Rot Nam Art <i>(ลายรดน้ำ)</i>

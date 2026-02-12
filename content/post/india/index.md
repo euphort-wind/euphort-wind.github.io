@@ -103,7 +103,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Ahimsa <i>(अहिंसा)</i>
 - Hinduism <i>(हिन्दू धर्म)</i>
-- Buddhism <i>(बौद्ध धर्म)</i>
+- Sikhism <i>(सिख धर्म)</i>
+- Jainism <i>(जैन धर्म)</i>
 - The Yoga Practices <i>(योग)</i>
 - The Devanagari Script <i>(देवनागरी)</i>
 - The Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
