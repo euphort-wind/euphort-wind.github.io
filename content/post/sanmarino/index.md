@@ -49,7 +49,7 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 
 
 <b>🎧 Local musicians: </b>
-- 🇸🇲 Little Tony (singer). Genre: retro
+- 🇸🇲 Little Tony (singer). Genre: retro pop
 - 🇺🇳 Valentina Monetta (singer). Genre: pop
 
 
