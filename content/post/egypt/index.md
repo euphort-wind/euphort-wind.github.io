@@ -63,7 +63,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - Ful Medames <i>(فول مدمس)</i>
 - Torly <i>(تورلي)</i>
 - Macarona bil-Bechamel <i>(مكرونة بالبشاميل)</i>
-- Koshary <i>(كشرى)</i>
+- Koshary <i>(كشري)</i>
 - Basbousa <i>(بسبوسة)</i>
 - Fakhfakhina <i>(فخفخينا)</i>
 - Aish Baladi <i>(عيش بلدي)</i>
@@ -83,23 +83,23 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - Authentic Garb: Galabiya <i>(جلابية)</i>
 - The Culture of Copts <i>(أقباط / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>
 - The Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
-  - Ancient Egyptian Mythology <i>(اساطير مصريه)</i>
+  - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
   - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
   - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
   - Ancient Egyptian Religion <i>(ديانة قدماء المصريين)</i>
   - Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة)</i>
-  - The Senet Game <i>(سينيت)</i>
-  - Ancient Authentic Musical Instrument: Sistrum <i>(الصلاصل)</i>
+  - The Senet Game <i>(لعبة السِّينِت)</i>
+  - Ancient Authentic Musical Instrument: Sistrum <i>(السيستروم)</i>
   - Ancient Authentic Garb: Khat & Shendyt <i>(الخات والشنديت)</i>
 - The Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- National Day of Egypt <i>(اليوم الوطني المصري)</i>. Month: July
+- National Day of Egypt <i>(عيد ثورة ٢٣ يوليو)</i>. Month: July
 - Sham Ennessim Festival <i>(شم النسيم)</i>. Month: April or May
 - Wafaa El-Nil Festival <i>(عيد وفاء النيل)</i>. Month: August
 
-<b>💐 National flower: </b> White Egyptian Lotus <i>(نيلوفر اللوتس)</i>
+<b>💐 National flower: </b> White Egyptian Lotus <i>(زهرة اللوتس البيضاء)</i>
 
 
 <b>🦉 Local wisdom:</b> "He who was burned by hot soup blows even on yogurt." / <i>"اللى اتلسع من الشوربة ينفخ فى الزبادى"</i> — Egyptian proverb
