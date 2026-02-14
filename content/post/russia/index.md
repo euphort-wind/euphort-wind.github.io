@@ -249,11 +249,19 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Khychin with Meat <i>(Хычин c Мясом / Эт Хычин)</i>
     - Khychin with Cheese & Potatoes <i>(Хычин c Сыром и Картошкой / Гардош Хычин)</i> 
     - Khychin with Beet Leaves <i>(Хычин c Листьями Свёклы / Чюгюндюр Хычин)</i> 
+    - Khychin with Liver <i>(Хычин c Ливером / Ындыр Хычин)</i> 
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Libzhe <i>(Либжа / Либжэ)</i>
 - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Lyagur <i>(Лягур / Лягур)</i>
+- <u>Karachay-Cherkessia (Regional Special):</u> Circassian Khalyuzh <i>(Халюж / Хьалыжъо)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
+    - Ossetian Pie with Cheese <i>(Осетинский Пирог с Сыром / Уæлибæх)</i>
+    - Ossetian Pie with Potatoes and Cheese <i>(Осетинский Пирог с Сыром и Картофелем / Картофджын)</i>
+    - Ossetian Pie with Cheese and Spring Onions <i>(Осетинский Пирог с Сыром и Зелёным Луком / Хъæдындзджын)</i>
+    - Ossetian Pie with Meat <i>(Осетинский Пирог с Мясом / Фыдджын)</i>
+    - Ossetian Pie with Beans <i>(Осетинский Пирог с Фасолью / Хъæдурджын)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Dzykka <i>(Дзыкка / Дзыкка)</i>
+- <u>North Ossetia (Regional Special):</u> Lyvzha <i>(Лывжа / Лывзæ)</i>
 - <u>North Ossetia (Regional Special):</u> Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
 
 
