@@ -80,6 +80,9 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - Oromo Pie <i>(Оромо)</i>
 - Laghman <i>(Лагман)</i>
 - Kuurdak <i>(Куурдак)</i>
+- Zhansak <i>(Жансак)</i>
+- Balmaniz <i>(Балманыз)</i>
+- Kattama <i>(Каттама)</i>
 - Kymyz <i>(Кымыз)</i>
 - Maksym Drink <i>(Brand: "Шоро Максым")</i>
 - Chalap Drink <i>(Brand: "Шоро Чалап")</i>
@@ -88,8 +91,9 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 
 
 <b>🎬 Local movies:</b>
--  Farewell <i>(Шамчырак)</i>. Year: 2012. Genre: short / drama
--  51+ <i>(51+)</i>. Year: 2020. Genre: short / drama
+- Revenge <i>(Өч)</i>. Year: 2023. Genre: thriller
+- Farewell <i>(Шамчырак)</i>. Year: 2012. Genre: short / drama
+- 51+ <i>(51+)</i>. Year: 2020. Genre: short / drama
 
 
 <b>🪔 Authentic features:</b>
