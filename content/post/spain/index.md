@@ -87,6 +87,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Quince Paste <i>(Dulce de Membrillo)</i>
 - Manchego Cheese <i>(Queso Manchego)</i>
 - Tomate Frito Sauce <i>(Tomate Frito)</i>
+- Sherry Wine <i>(Brands: "La Guita Manzanilla", "Tio Pepe Fino")</i>
 - <u>Catalonia (Regional Special):</u> Pa amb Tomàquet <i>(Pan con Tomate / Pa amb Tomàquet)</i>
 - <u>Catalonia (Regional Special):</u> Esqueixada <i>(Esqueixada/ Esqueixada)</i>
 - <u>Catalonia (Regional Special):</u> Escalivada <i>(Escalibada / Escalivada)</i>

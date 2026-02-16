@@ -82,12 +82,20 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 
 <b>🥘 Local food & drinks: </b>
 - Greek Salad <i>(Ελληνική Σαλάτα)</i>
+- Marinated Olives <i>(Μαριναρισμένες Ελιές)</i>
 - Taramasalata <i>(Ταραμοσαλάτα)</i>
+- Skordalia <i>(Σκορδαλιά)</i>
 - Ktipiti <i>(Τυροκαυτερή)</i>
 - Avgolemono Soup <i>(Αυγολέμονο)</i>
+- Saganaki-Style Cheese <i>(Σαγανάκι με Φέτα)</i>
+- Bouyiourdi <i>(Μπουγιουρντί)</i>
 - Gyros <i>(Γύρος)</i>
-- Moussaka  <i>(Μουσακάς)</i>
-- Feta Cheese <i>(Φέτα)</i>
+- Moussaka <i>(Μουσακάς)</i>
+- Melomakarono <i>(Μελομακάρονο)</i>
+- Greek Cheese <i>(Ελληνικά Τυριά)</i>
+  - Feta <i>(Φέτα)</i>
+  - Manouri <i>(Μανούρι)</i>
+  - Kasseri <i>(Κασέρι)</i>
 - Tzatziki <i>(Τζατζίκι)</i>
 - Frappé <i>(Φραπέ)</i>
 - Greek Liqueur <i>(Brand: "Metaxa")</i>
