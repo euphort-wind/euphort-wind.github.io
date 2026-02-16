@@ -156,7 +156,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - Authentic Garb: Shalvar and Yelek <i>(Şalvar ve Yelek)</i>
 - The Heritage of the Byzantine Empire <i>(Bizans İmparatorluğu / Imperium Romanum Orientale)</i>
 - The Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i>
-- <u>İstanbul (Regional Special):</u> Eastern Orthodoxy <i>(Ortodoks Kilisesi)</i>
+- <u>İstanbul (Regional Special):</u> The Istanbul Feral Cats <i>(Sokak Kedisi)</i>
 - <u>Antalya (Regional Special):</u> The Düğmeli Houses <i>(Düğmeli Evler)</i>
 
 

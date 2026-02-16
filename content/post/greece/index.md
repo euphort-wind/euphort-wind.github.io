@@ -106,11 +106,12 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 
 <b>🎬 Local movies:</b>
 - What is it? <i>(Τι Eίναι Αυτό?)</i>. Year: 2007. Genre: short / drama
-- My Big Fat Greek Wedding <i>(My Big Fat Greek Wedding)</i>. Year: 2002. Genre: comedy
+- Man of God <i>(Ο Άνθρωπος του Θεού)</i>. Year: 2021. Genre: drama
 
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Philotimo <i>(Φιλότιμο)</i>
+- Eastern Orthodoxy <i>(Ανατολικός Ορθόδοξος Χριστιανισμός)</i>
 - The Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - The Sirtaki Dance <i>(Σιρτάκη)</i>
 - Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
