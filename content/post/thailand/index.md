@@ -77,9 +77,9 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
 - Thai Rum <i>(Brand: "SangSom")</i>
 - <u>Phuket (Regional Special)</u>: Grilled Seafood on Skewers <i>(ซีฟู้ดย่างเสียบไม้)</i>
-  - Grilled Shrimp on Skewers <i>(กุ้งย่างเสียบไม้)</i>
-  - Grilled Clams on Skewers <i>(หอยย่างเสียบไม้)</i>
-  - Grilled Squids on Skewers <i>(ปลาหมึกย่าง)</i>
+  - Grilled Shrimp Skewers <i>(กุ้งย่างเสียบไม้)</i>
+  - Grilled Clam Skewers <i>(หอยย่างเสียบไม้)</i>
+  - Grilled Squid Skewers <i>(ปลาหมึกย่าง)</i>
 - <u>Phuket (Regional Special)</u>: Moo Hong <i>(หมูฮ้อง)</i>
 
 
