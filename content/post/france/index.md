@@ -133,6 +133,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - Escargots de Bourgogne <i>(Escargot de Bourgogne)</i> 
 - Ratatouille <i>(Ratatouille)</i>
 - Gratin Dauphinois <i>(Gratin Dauphinois)</i>
+- Anna Potatoes <i>(Pommes Anna)</i>
 - Tartiflette <i>(Tartiflette)</i>
 - French Frog Legs <i>(Cuisses de Grenouille)</i>
 - Coq au Vin <i>(Coq au Vin)</i>
