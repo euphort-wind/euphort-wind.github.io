@@ -77,6 +77,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 
 <b>🥘 Local food & drinks: </b>
 - Kurut <i>(Курут)</i>
+- Shurugan <i>(Шуруган)</i>
 - Oromo Pie <i>(Оромо)</i>
 - Laghman <i>(Лагман)</i>
 - Kuurdak <i>(Куурдак)</i>
@@ -91,6 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 
 
 <b>🎬 Local movies:</b>
+- Heaven Is Beneath Mother's Feet <i>(Бейиш - Эненин Таманында)</i>. Year: 2024. Genre: road movie / drama
 - Revenge <i>(Өч)</i>. Year: 2023. Genre: thriller
 - Farewell <i>(Шамчырак)</i>. Year: 2012. Genre: short / drama
 - 51+ <i>(51+)</i>. Year: 2020. Genre: short / drama
