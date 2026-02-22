@@ -208,6 +208,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🇷🇺 Viktor Tsoi (singer). Genre: post punk
 - 🇷🇺 Valery Meladze (singer). Genre: pop
 - 🇷🇺 Zemfira (singer). Genre: indie rock
+- 🇷🇺 Animal Jazz (band). Genre: alternative rock
 - 🇷🇺 Kris Kelmi (singer). Genre: rock
 - 🇷🇺 Zivert (singer). Genre: pop
 - 🇷🇺 Дора (singer). Genre: pop
