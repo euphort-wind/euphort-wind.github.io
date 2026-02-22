@@ -93,6 +93,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 
 <b>🎬 Local movies:</b>
 - The Old Man <i>(Шал)</i>. Year: 2012. Genre: drama
+- Qaitadan <i>(Қайтадан)</i>. Year: 2025. Genre: thriller
 
 <b>🪔 Authentic features:</b>
 - The Aytıs & Akyns <i>(Айтыс пен Ақындар)</i> 
