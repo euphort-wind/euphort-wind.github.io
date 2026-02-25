@@ -71,6 +71,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 
 
 <b>🎬 Local movies:</b>
+- Kira & El Gin <i>(كيرة والجن)</i>. Year: 2022. Genre: thriller
 - Café Regular, Cairo <i>(Café Regular, Cairo)</i>. Year: 2012. Genre: short / drama
 
 
