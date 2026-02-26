@@ -276,6 +276,8 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇺🇳 Ace of Base (band). Genre: retro pop
 - 🇺🇳 Army of Lovers (band). Genre: retro pop
 - 🇺🇳 Avicii (DJ). Genre: house
+- 🇺🇳 Eric Prydz / Pryda (DJ). Genre: progressive house
+- 🇺🇳 Otto Knows (DJ). Genre: house
 - 🇺🇳 Europa (band). Genre: hard rock
 - 🇺🇳 The Cardigans (band). Genre: pop rock
 - 🇺🇳 Swedish House Mafia (DJ band). Genre: house

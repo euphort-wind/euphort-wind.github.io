@@ -97,6 +97,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - Manouri <i>(Μανούρι)</i>
   - Kasseri <i>(Κασέρι)</i>
 - Tzatziki <i>(Τζατζίκι)</i>
+- Bougatsa <i>(Μπουγάτσα)</i>
 - Frappé <i>(Φραπέ)</i>
 - Greek Liqueur <i>(Brand: "Metaxa")</i>
 - <u>Crete (Regional Special):</u> Dakos <i>(Ντάκος)</i>
@@ -105,6 +106,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 
 
 <b>🎬 Local movies:</b>
+- A Touch of Spice <i>(Πολίτικη Κουζίνα)</i>. Year: 2003. Genre: drama
 - What is it? <i>(Τι Eίναι Αυτό?)</i>. Year: 2007. Genre: short / drama
 - Man of God <i>(Ο Άνθρωπος του Θεού)</i>. Year: 2021. Genre: drama
 

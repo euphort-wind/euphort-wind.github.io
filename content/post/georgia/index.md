@@ -157,7 +157,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - <u>Kakheti (Regional Special):</u> Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
 - <u>Kakheti (Regional Special):</u> The Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i>
 - <u>Tbilisi-Capital (Regional Special):</u> Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
-- <u>Tbilisi-Capital (Regional Special):</u> Georgian Kisa Massage <i>(ქისა აბანო)</i>
+
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Georgia <i>(დამოუკიდებლობის დღე)</i>. Month: May
