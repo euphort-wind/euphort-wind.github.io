@@ -191,6 +191,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
     - Demi-Glace <i>(Sauce Demi-Glace)</i>
     - Tartar Sauce <i>(Sauce Tartare)</i>
     - Beurre Noir <i>(Beurre Noir)</i>
+    - Beurre Blanc <i>(Beurre Blanc)</i>
     - Dijon Mustard <i>(Moutarde de Dijon)</i>
     - Sauce Vierge <i>(Sauce Vierge)</i>
 - Baguette <i>(Baguette)</i>
