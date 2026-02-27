@@ -76,6 +76,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 <b>🥘 Local food & drinks: </b>
 - Suho Meso <i>(Suho Meso)</i>
 - Bey’s Soup <i>(Begova Čorba)</i>
+- Sataraš <i>(Sataraš)</i>
 - Bosnian Pot <i>(Bosanski Lonac)</i>
 - Ćevapčići <i>(Ćevapčići)</i>
 - Tufahija <i>(Tufahija)</i>
