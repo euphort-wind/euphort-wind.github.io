@@ -197,6 +197,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - The Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
 - Mensch-Ärgere-Dich-Nicht Game <i>(Mensch Ärgere Dich Nicht)</i>
 - The Cuckoo Clocks <i>(Kuckucksuhr)</i>
+- German Beer Culture <i>(Bierkultur)</i>
 - German Philosophy <i>(Deutsche Philosophie)</i> 
 - German Folklore <i>(Deutsche Folklore)</i>
 - German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas", etc.)</i> 
