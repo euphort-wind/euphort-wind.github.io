@@ -204,6 +204,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Mozzarella <i>(Mozzarella)</i>
   - Gorgonzola <i>(Gorgonzola)</i>
   - Pecorino <i>(Pecorino)</i>
+  - Taleggio <i>(Taleggio)</i>
   - Caciocavallo <i>(Caciocavallo)</i>
   - Ricotta <i>(Ricotta)</i>
   - Burrata <i>(Burrata)</i>
