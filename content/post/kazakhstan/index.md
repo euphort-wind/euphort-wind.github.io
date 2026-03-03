@@ -10,7 +10,7 @@ gallery_item:
     caption: Astana
   - album: kazakhstan
     image: 3eli.jpg
-    caption: Kazakh Eli Monument
+    caption: Congress-Centre EXPO
   - album: kazakhstan
     image: 2mus.jpg
     caption: National Museum of Kazakhstan (Astana)
@@ -68,6 +68,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - 🇰🇿 Kazybek Kuraiysh (singer). Genre: pop 
 - 🇰🇿 Gazizkhan Shekerbekov (singer). Genre: pop
 - 🇰🇿 Diana Ismail (singer). Genre: pop
+- 🇰🇿 Sadraddin (singer). Genre: pop
 - 🇺🇳 Skryptonite (rapper). Genre: hip-hop
 - 🇺🇳 Imanbek (DJ). Genre: slap house
 - 🇺🇳 The Limba (singer). Genre: pop 
