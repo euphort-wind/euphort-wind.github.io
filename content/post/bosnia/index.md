@@ -40,6 +40,9 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
     - The Baščaršija <i>(Baščaršija)</i>
     - The Latin Bridge <i>(Latinska Ćuprija)</i>
     - The National Gallery <i>(Umjetnička Galerija)</i>
+    - The Emperor's Mosque <i>(Careva Džamija)</i>
+    - Sarajevo Brewery <i>(Sarajevska Pivara)</i>
+    - At Mejdan Park <i>(At Mejdan)</i>
     - Ferhadija Street <i>(Ulica Ferhadija)</i>
     - The Gradska Tržnica Markale <i>(Gradska Tržnica Markale)</i>
     - The Sacred Heart Cathedral <i>(Katedrala Srca Isusova)</i>
