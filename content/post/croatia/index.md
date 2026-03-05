@@ -76,6 +76,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
   - Skradinski Rižot <i>(Skradinski Rižot)</i>
 - Pašticada <i>(Pašticada)</i>
 - Kroštule <i>(Kroštule)</i>
+- Uštipci <i>(Uštipci)</i>
 - Bajadera <i>(Bajadera)</i>
 - Međimurska Gibanica <i>(Međimurska Gibanica)</i>
 - Maraskino <i>(Brand: "Perković")</i>

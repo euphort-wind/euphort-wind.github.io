@@ -240,6 +240,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Beef Stroganoff <i>(Бефстроганов)</i> 
 - Pelmeni <i>(Пельмени)</i>
 - Easter Paskha <i>(Творожная Пасха)</i> 
+- Guryev Porridge <i>(Гурьевская Каша)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
 - Russian Vodka <i>(Brands: "Derevenka", "Tsarskaya", etc.)</i> 
@@ -274,8 +275,11 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - The Trigger <i>(Триггер)</i>. Year: 2020-2022. Genre: thriller (series)
 - How Vitka Chesnok Drove Lyokha Shtyr to the House for Disabled <i>(Как Витька Чеснок Вёз Лёху Штыря в Дом Инвалидов)</i>. Year: 2017. Genre: road movie / drama
 - The Text <i>(Текст)</i>. Year: 2019. Genre: drama
-- Alyosha Popovich and Tugarin Zmey <i>(Алеша Попович и Тугарин Змей)</i>. Year: 2004. Genre: cartoon
 - The Humorist <i>(Юморист)</i>. Year: 2019. Genre: drama
+- Leopold the Cat <i>(Кот Леопольд)</i>. Year: 1975. Genre: animation (series)
+- Little Longnose <i>(Карлик Нос)</i>. Year: 2002. Genre: animation
+- Alyosha Popovich and Tugarin Zmey <i>(Алеша Попович и Тугарин Змей)</i>. Year: 2004. Genre: animation
+
 
 
 <b>🪔 Authentic features:</b>
