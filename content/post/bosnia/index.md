@@ -78,7 +78,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - Bey’s Soup <i>(Begova Čorba)</i>
 - Sataraš <i>(Sataraš)</i>
 - Bosnian Pot <i>(Bosanski Lonac)</i>
-- Ćevapčići <i>(Ćevapčići)</i>
+- Ćevapi <i>(Ćevapi)</i>
 - Tufahija <i>(Tufahija)</i>
 - Hurmašice <i>(Hurmašice)</i>
 - Bosnian Smoked Cheese <i>(Suhi Dimljeni Sir)</i>
