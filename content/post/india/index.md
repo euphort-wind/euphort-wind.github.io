@@ -80,6 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - Roti <i>(रोटी)</i>
   - Basmati Rice <i>(बासमती चावल)</i>
   - Gulab Jamun <i>(गुलाब जामुन)</i>
+- Samosa <i>(समोसा)</i>
 - Kanda Bhaji <i>(कांदा भजी)</i>
 - Butter Chicken <i>(बटर चिकन)</i>
 - Palak Paneer <i>(पालक पनीर)</i>
@@ -90,7 +91,11 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Mukhwas <i>(मुखवास)</i>
 - Naan <i>(नान)</i>
 - <u>Karnataka (Regional Special):</u> Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
+- <u>Karnataka (Regional Special):</u> Bisi Bele Bath <i>(बिसी बेले बाथ / ಬಿಸಿ ಬೇಳೆ ಭಾತ್)</i>
+- <u>Karnataka (Regional Special):</u> Mysore Pak <i>(मैसूर पाक / ಮೈಸೂರು ಪಾಕ್)</i>
 - <u>Goa (Regional Special):</u> Goan Fish Curry <i>(गोवा मछली करी / हुमण)</i>
+- <u>Goa (Regional Special):</u> Ros Omelette <i>(रोस ऑमलेट / रोस आमलेट)</i>
+- <u>Goa (Regional Special):</u> Sarapatel <i>(सोरपोतेल / सोरपोतेल)</i>
 
 
 <b>🎬 Local movies:</b>
