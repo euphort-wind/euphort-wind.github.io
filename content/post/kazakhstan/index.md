@@ -9,20 +9,20 @@ gallery_item:
     image: 1baiterek.jpg
     caption: Astana
   - album: kazakhstan
-    image: 3eli.jpg
-    caption: Congress-Centre EXPO
-  - album: kazakhstan
     image: 2mus.jpg
     caption: National Museum of Kazakhstan (Astana)
   - album: kazakhstan
     image: 3han.jpg
     caption: Khan Shatyr Shopping Mall
   - album: kazakhstan
-    image: 4book.jpg
+    image: 3xbook.jpg
     caption: Drama Theater (Kostanay)
   - album: kazakhstan
     image: 4abyl.jpeg
     caption: Kokshetau Town Hall
+  - album: kazakhstan
+    image: 5aba.jpeg
+    caption: Congress-Centre EXPO
   - album: kazakhstan
     image: 5skala.jpg
     caption: Rock road (Aktau)
@@ -47,19 +47,27 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
     - Palace of Peace and Reconciliation <i>(Бейбітшілік пен Келісім Сарайы)</i>
     - Independence Square and Kazak Eli Monument <i>(Тәуелсіздік Алаңы және Қазақ Елі Монументі)</i>
     - Park of Lovers <i>(Ғашықтар Саябағы)</i>
+    - The Central Mosque <i>(Астана Қаласының Орталық Мешіті)</i>
+    - Mäñgilik El Triumphal Arch <i>(Мәңгілік Ел Қақпасы)</i>
     - Hazret Sultan Mosque <i>(Хазірет Сұлтан Мешіті)</i>
 2. Kostanay
     - Central Park <i>(Орталық Саябақ)</i>
+    - Akimat of Kostanay Region <i>(Қостанай Облысының Әкімдігі)</i>
     - Conquerors of Virgin Land Monument <i>(Тың Игерушілер Монументі)</i>
     - Drama Theater <i>(Омаров Атындағы Қостанай Облыстық Қазақ Драма Театры)</i>
     - Youth Boulevard <i>(Жастар Бульвары)</i>
+    - Kostanay Plaza <i>(Kostanay Plaza)</i>
+    - Monument Locomotive <i>(Паровоз Ескерткіші)</i>
 3. Kokshetau
     - Akmola Regional Museum of History <i>(Ақмола Облыстық Тарихи-өлкетану Музейі)</i>
     - Independence Square <i>(Тәуелсіздік Алаңы)</i>
     - Central Park <i>(Орталық Саябақ)</i>
+    - TSUM Shopping Mall <i>(ЦУМ Көкшетау)</i>
+    - Zhakiya Kazhi Mosque <i>(Жақия Қажы Мешіті)</i>
 4. Aktau
     - Rock Path <i>(Жартас Соқпағы)</i>
     - Botanical Garden <i>(Ботаникалық Бақ)</i>
+    - Marriage Palace <i>(Неке Сарайы)</i>
     - Aktau Philharmonic Society <i>(Маңғыстау Облыстық Филармониясы)</i>
  
 
