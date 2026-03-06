@@ -22,7 +22,7 @@ gallery_item:
     caption: Kokshetau Town Hall
   - album: kazakhstan
     image: 5aba.jpeg
-    caption: Congress-Centre EXPO
+    caption: Zhakiya Kazhi Mosque
   - album: kazakhstan
     image: 5skala.jpg
     caption: Rock road (Aktau)
