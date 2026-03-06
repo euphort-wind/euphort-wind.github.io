@@ -85,7 +85,6 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Palak Paneer <i>(पालक पनीर)</i>
 - Rogan Josh <i>(रोग़न जोश)</i>
 - Lamb Korma <i>(मटन कोरमा)</i>
-- Indian Buffalo Steak <i>(भैंस का स्टेक)</i>
 - Tandoori Chicken <i>(तंदुरी चिकन)</i>
 - Kulfi <i>(क़ुल्फ़ी)</i>
 - Mukhwas <i>(मुखवास)</i>
