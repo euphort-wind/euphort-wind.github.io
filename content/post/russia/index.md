@@ -243,7 +243,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Guryev Porridge <i>(Гурьевская Каша)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
-- Russian Vodka <i>(Brands: "Derevenka", "Tsarskaya", etc.)</i> 
+- Russian Vodka <i>(Brands: "Derevenka", "Tsarskaya")</i> 
 - <u>Bashkortostan (Regional Special):</u> Bashkir Uchpuchmak <i>(Эчпочмак / Өсбосмаҡ)</i>
 - <u>Bashkortostan (Regional Special):</u> Peremech <i>(Беляш / Бәрәмес)</i>
 - <u>Bashkortostan (Regional Special):</u> Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
@@ -320,7 +320,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - <u>North Ossetia (Regional Special):</u> The Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i>
 - <u>Leningrad (Regional Special):</u> The Culture of Izhorians <i>(Ижоры / Ižorat)</i>
 - <u>St. Petersburg-City (Regional Special):</u> Petrine Baroque Architecture <i>(Петровское Барокко)</i>
-- <u>Orenburzhie (Regional Special):</u> The Culture of the Orenburg Cossacks <i>(Оренбургские Казаки)</i>
+- <u>Orenburzhie (Regional Special):</u> The Culture of Orenburg Cossacks <i>(Оренбургские Казаки)</i>
 - <u>Orenburzhie (Regional Special):</u> The Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i>
 - <u>Chelyabinsk (Regional Special):</u> The Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
 - <u>Chelyabinsk (Regional Special):</u> The Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>
