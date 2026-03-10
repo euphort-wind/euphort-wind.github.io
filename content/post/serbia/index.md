@@ -1,5 +1,5 @@
 ---
-title: 🇷🇸 San Marino
+title: 🇷🇸 Serbia
 date: '2026-03-01'
 summary: Trip to Serbia
 
