@@ -320,7 +320,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - <u>North Ossetia (Regional Special):</u> The Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i>
 - <u>Leningrad (Regional Special):</u> The Culture of Izhorians <i>(Ижоры / Ižorat)</i>
 - <u>St. Petersburg-City (Regional Special):</u> Petrine Baroque Architecture <i>(Петровское Барокко)</i>
-- <u>Orenburzhie (Regional Special):</u> The Culture of Orenburg Cossacks <i>(Оренбургские Казаки)</i>
+- <u>Orenburzhie (Regional Special):</u> The Legacy of Orenburg Cossacks <i>(Оренбургские Казаки)</i>
 - <u>Orenburzhie (Regional Special):</u> The Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i>
 - <u>Chelyabinsk (Regional Special):</u> The Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
 - <u>Chelyabinsk (Regional Special):</u> The Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>

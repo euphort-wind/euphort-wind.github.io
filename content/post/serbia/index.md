@@ -135,7 +135,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
   - Serbian Epic Poetry <i>(Српске Епске Народне Песме)</i>
 - The Heritage of the Modern Kingdom of Serbia <i>(Модерна Краљевина Србија)</i>
 - The Heritage of Yugoslavia <i>(Југославија / Jugoslavija)</i>
-- <u>Vojvodina (Regional Special):</u> The Culture of Granichary <i>(Граничари / Granicsár)</i>
+- <u>Vojvodina (Regional Special):</u> The Legacy of Grenzers <i>(Граничари / Granicsár)</i>
 
 
 
