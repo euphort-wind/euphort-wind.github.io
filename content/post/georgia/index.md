@@ -44,9 +44,12 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
     - National Botanical Garden <i>(ეროვნული ბოტანიკური ბაღი)</i>
     - Rustaveli Avenue <i>(რუსთაველის გამზირი)</i>
     - Public Service Hall <i>(იუსტიციის სახლი)</i>
+    - Freedom Square <i>(თავისუფლების მოედანი)</i>
     - Meidan Bazaar <i>(მეიდნის ბაზარი)</i>
     - Kartlis Deda <i>(ქართვლის დედა)</i>
     - Anchiskhati Basilica <i>(ანჩისხატი)</i>
+    - Holy Trinity Cathedral of Tbilisi <i>(თბილისის წმინდა სამების საკათედრო ტაძარი)</i>
+    - Ceremonial Palace of Georgia <i>(სახელმწიფო ცერემონიების სასახლე)</i>
 2. Mtskheta
     - Old Town Mtskheta <i>(მცხეთის ძველი ქალაქი)</i>
     - Jvari Monastery <i>(ჯვრის მონასტერი)</i>
@@ -62,12 +65,12 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
     - Batonis Tsikhe <i>(ბატონის ციხე)</i>
     - Alaverdi Monastery <i>(ალავერდის მონასტერი)</i>
 5. Kvareli
-    - Nekresi <i>(ნეკრესი)</i>
-    - Gremi <i>(გრემი)</i>
+    - Nekresi Monastery <i>(ნეკრესი)</i>
+    - Gremi Archangels' Complex <i>(გრემი)</i>
     - Khareba Winery <i>(მეღვინეობა ხარება)</i>    
     - Kindzmarauli Winery <i>(კორპორაცია ქინძმარაული)</i>    
 6. Udabno
-    - David Gareji <i>(დავითგარეჯის სამონასტრო კომპლექსი)</i>
+    - David Gareji Monastery <i>(დავითგარეჯის სამონასტრო კომპლექსი)</i>
 7. Kachreti
     - Ambassadori Golf Club <i>(ამბასადორის გოლფის კლუბი)</i>
 
