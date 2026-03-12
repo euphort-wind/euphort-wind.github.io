@@ -80,7 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - 🇷🇸 DJ Djuka (DJ). Genre: electro house
 - 🇷🇸 Teodora Džehverović (singer). Genre: pop
 - 🇷🇸 Relja (rapper). Genre: hip-hop
-- 🇷🇸  Milica Pavlović (singer). Genre: turbo folk
+- 🇷🇸 Milica Pavlović (singer). Genre: turbo folk
 - 🇷🇸 Bojan Tomović (singer). Genre: turbo folk
 - 🇷🇸 Konstrakta (singer). Genre: indie pop
 - 🇷🇸 Tina Ivanović (singer). Genre: turbo folk
