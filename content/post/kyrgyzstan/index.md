@@ -101,11 +101,11 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 <b>🪔 Authentic features:</b>
 - The Epic of Manas <i>(Манас Дастаны)</i> 
 - Tengrism <i>(Теңирчилик)</i> 
-- The Shyrdak and Ala-Kiiz Carpets <i>(Шырдак жана Ала-Кийиз)</i> 
+- The Shyrdak & Ala-Kiiz Carpets <i>(Шырдак жана Ала-Кийиз)</i> 
 - Kyrgyz Yurts <i>(Кыргыз боз Үйлөрү)</i> 
 - The Kok Boru Game <i>(Көк-Бөрү)</i> 
 - Authentic Musical Instrument: Komuz <i>(Комуз)</i> 
-- Authentic Garb: Ak-Kalpak and Beldemchi <i>(Ак Калпак менен Белдемчи)</i> 
+- Authentic Garb: Ak-Kalpak & Beldemchi <i>(Ак Калпак менен Белдемчи)</i> 
 - The Culture of Dungan <i>(Дунгандар / Хуэйзў)</i>
 - The Legacy of Yenisei Kyrgyz <i>(Энесай Кыргыздары / 𐰶𐰃𐰺𐰶𐰃𐰕)</i> 
 - <u>Issyk-Kul (Regional Special):</u> The Legends of Issyk-Kul & Cholpon <i>(Ысык-Көл жана Чолпон-Ата Легендалары)</i>

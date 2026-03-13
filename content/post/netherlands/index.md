@@ -186,11 +186,11 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - Authentic Principle: Gezelligheid <i>(Gezelligheid)</i>
 - The Cycling Tradition <i>(Het Fietsen)</i>
 - Dutch Windmills <i>(Windmolens)</i>
-- Dutch Canals & Polders <i>(Kanalen & Polders)</i>
+- Dutch Canals & Polders <i>(Kanalen en Polders)</i>
 - The Sjoelen Game <i>(Sjoelen)</i>
 - The Canal Houses <i>(Grachtenpanden)</i>
 - Authentic Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
-- Authentic Garb: Dutch Cap & Klomps <i>(Nederlandse Bonnet & Klompen)</i>
+- Authentic Garb: Dutch Cap & Klomps <i>(Nederlandse Bonnet en Klompen)</i>
 - The Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
   - Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
   - Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i>

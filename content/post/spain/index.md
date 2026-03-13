@@ -114,7 +114,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Spanish Folklore <i>(Folclore de España)</i>
 - Spanish Cars <i>(Brand: "SEAT")</i>
 - Authentic Musical Instrument: Castanets <i>(Castañuelas)</i> 
-- Authentic Garb: Mantilla and Traje de Luces <i>(Mantilla y Traje de Luces)</i>
+- Authentic Garb: Mantilla & Traje de Luces <i>(Mantilla y Traje de Luces)</i>
 - The Legacy of Iberians <i>(Íberos / Ἴβηρες)</i>
 - The Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - <u>Catalonia (Regional Special):</u> The Culture of Catalans <i>(Catalanes / Catalans)</i>

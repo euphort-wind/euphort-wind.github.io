@@ -111,7 +111,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 - The Odzemek Dance <i>(Odzemek)</i> 
 - The Legend of Juraj Jánošík <i>(Legenda o Jurajovi Jánošíkovi)</i>
 - Authentic Musical Instrument: Fujara <i>(Fujara)</i>
-- Authentic Garb: Slovak Kroj <i>(Kroj)</i>
+- Authentic Garb: Slovak Kroj <i>(Slovenský Kroj)</i>
 - The Culture of Rusyns <i>(Rusíni / Русины)</i>
 
 

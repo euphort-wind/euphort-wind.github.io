@@ -146,6 +146,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - The Oină Game <i>(Oină)</i>
 - Romanian Folklore <i>(Folclorul Românesc)</i>
 - Romanian Cars <i>(Brand: "Dacia")</i>
+- Authentic Garb: Pieptar & Romanian Ie <i>(Pieptar și Ie)</i> 
 - Authentic Musical Instrument: Romanian Nai <i>(Nai)</i> 
 - The Culture of Romani <i>(Romi / Romane Manusha)</i>
   - Authentic Principle: Romanipen <i>(Romanipenul / Romanipen)</i>

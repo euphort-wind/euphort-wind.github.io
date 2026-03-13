@@ -96,7 +96,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - Albanian Folklore <i>(Folklori Shqiptar)</i>
 - The Legend of Skanderbeg <i>(Legjenda e Skënderbeut)</i>
 - Authentic Musical Instrument: Çifteli <i>(Çiftelia)</i>
-- Authentic Garb: Xhubleta and Xhamadan <i>(Xhubleta dhe Xhamadan)</i> 
+- Authentic Garb: Xhubleta & Xhamadan <i>(Xhubleta dhe Xhamadan)</i> 
 - The Heritage of the Kingdom of Albania <i>(Mbretëria e Arbërisë / Regnum Albaniae)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>

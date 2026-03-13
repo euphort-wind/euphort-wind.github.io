@@ -68,6 +68,7 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 - The Papal Conclave Ritual <i>(Conclave)</i>
 - The Papal Regalia and Insignia <i>(Insignia et Regalia Papalia)</i>
 - Authentic Musical Instrument: Pipe Organ <i>(Organum)</i> 
+- Authentic Garb: Cope & Zucchetto <i>(Pluviale et Pileolus)</i>
 - The Heritage of the Papal States <i>(Status Pontificius)</i>
 
 

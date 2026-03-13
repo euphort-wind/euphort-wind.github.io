@@ -294,7 +294,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Russian Folklore <i>(Русский Фольклор)</i> 
 - Russian Cars <i>(Brands: "GAZ", "LADA", etc.)</i> 
 - Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
-- Authentic Garb: Valenki and Ushanka <i>(Валенки и Шапка-Ушанка)</i> 
+- Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i> 
 - The Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
 - The Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
 - <u>Bashkortostan (Regional Special):</u> The Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
