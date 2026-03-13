@@ -93,6 +93,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - <u>Karnataka (Regional Special):</u> Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
 - <u>Karnataka (Regional Special):</u> Bisi Bele Bath <i>(बिसी बेले बाथ / ಬಿಸಿ ಬೇಳೆ ಭಾತ್)</i>
 - <u>Karnataka (Regional Special):</u> Mysore Pak <i>(मैसूर पाक / ಮೈಸೂರು ಪಾಕ್)</i>
+- <u>Goa (Regional Special):</u> Vindaloo <i>(विंदालू / विंदालू)</i>
 - <u>Goa (Regional Special):</u> Goan Fish Curry <i>(गोवा मछली करी / हुमण)</i>
 - <u>Goa (Regional Special):</u> Ros Omelette <i>(रोस ऑमलेट / रोस आमलेट)</i>
 - <u>Goa (Regional Special):</u> Sarapatel <i>(सोरपोतेल / सोरपोतेल)</i>
