@@ -42,13 +42,17 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
     - Hungarian Parliament Building <i>(Országház)</i>
     - The Fisherman's Bastion <i>(Halászbástya)</i>
     - Buda Castle <i>(Budavári Palota)</i>
-    - Matthias Fountain <i>(Mátyás Kútja)</i>
+    - The Matthias Fountain <i>(Mátyás Kútja)</i>
+    - The Matthias Church <i>(Mátyás-Templom)</i>
     - The Széchenyi Chain Bridge <i>(Széchenyi Lánchíd)</i>
     - The Great Market Hall <i>(Nagyvásárcsarnok)</i>
     - The National Archives of Hungary <i>(Magyar Nemzeti Levéltár)</i>
     - St. Stephen's Basilica <i>(Szent István-Bazilika)</i>
+    - Liberty Square <i>(Szabadság Tér)</i>
     - Heroes' Square <i>(Hősök Tere)</i>
     - The City Park <i>(Városliget)</i>
+    - The Budapest Funicular <i>(Budavári Sikló)</i>
+    - Vajdahunyad Castle <i>(Vajdahunyad Vára)</i>
     - The Széchenyi Thermal <i>(Széchenyi Gyógyfürdő)</i>
 2. Balatonfüred
     - Balaton Lake <i>(Balaton)</i>
@@ -104,6 +108,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 - Hungarian Sour Cherry Soup <i>(Hideg Meggyleves)</i>
 - Gundel Crêpe <i>(Gundel-Palacsinta)</i>
 - Somlói Galuska <i>(Somlói Galuska)</i>
+- Dobos Torte <i>(Dobostorta)</i>
 - Esterházy Torte <i>(Esterházy-Torta)</i>
 - Pálinka <i>(Brands: "Bestillo Gönci Kajszibarack", "Szicsek Bíbor Kajszibarack")</i> 
 
