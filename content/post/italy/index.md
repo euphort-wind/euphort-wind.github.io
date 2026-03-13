@@ -328,7 +328,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - <u>Campania (Regional Special):</u> Feast of San Gennaro <i>(La Festa di San Gennaro / Juorno 'e San Gennaro)</i>. Month: September
 
 
-<b>💐 National flower: </b> Flower of the Strawberry Tree <i>(Fiore del Corbezzolo)</i>
+<b>💐 National flower: </b> Strawberry Tree Blossom <i>(Fiore del Corbezzolo)</i>
 - <u>Tuscany (Regional Special):</u> Sunflower <i>(Girasole)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Cowslip <i>(Primula Appenninica)</i>
 - <u>Lazio (Regional Special):</u> Storax Flower <i>(Fiore di Storace)</i>
