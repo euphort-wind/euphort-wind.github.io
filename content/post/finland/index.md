@@ -94,8 +94,9 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - Joulutorttu <i>(Joulutorttu)</i>
 - Finnish Lent Buns <i>(Laskiaispulla)</i>
 - Pulla Bread <i>(Nisu)</i>
-- Finnish Beer <i>(Brand: "Lapin Kulta")</i>
+- Finnish Lonkero <i>(Brand: "Hartwall Original")</i>
 - Finnish Liqueur <i>(Brand: "Minttu")</i>
+
 
 
 <b>🎬 Local movies:</b>
