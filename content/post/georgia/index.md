@@ -160,6 +160,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - <u>Kakheti (Regional Special):</u> Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
 - <u>Kakheti (Regional Special):</u> The Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i>
 - <u>Tbilisi-Capital (Regional Special):</u> Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
+- <u>Tbilisi-Capital (Regional Special):</u> Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
