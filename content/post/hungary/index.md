@@ -122,6 +122,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 
 <b>🪔 Authentic features:</b>
 - The Csárdás Dance <i>(Csárdás)</i>
+- The Verbunkos Dance <i>(Verbunkos)</i>
 - Hungarian Secession Architecture <i>(Magyar Szecesszió)</i>
 - The Táncház Dance Event <i>(Táncház)</i>
 - The Rubik's Cubes <i>(Rubik-Kocka)</i>
@@ -132,7 +133,8 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 - Authentic Garb: Bocskai Coat & Attila <i>(Bocskai Öltöny & Atilla)</i>
 - The Heritage of the Kingdom of Hungary <i>(Magyar Királyság / Regnum Hungariae)</i>
   - Old Hungarian Mythology <i>(Ősmagyar Mitológia)</i>
-  - Old Hungarian Religion <i>(Ősmagyar Vallás)</i>
+  - Old Hungarian Shamanismn <i>(Ősmagyar Vallás)</i>
+  - The Legacy of Hussars <i>(Huszárok)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
