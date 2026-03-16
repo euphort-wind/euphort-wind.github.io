@@ -332,7 +332,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - <u>Kabardino-Balkaria (Regional Special):</u> Balkar Day <i>(День Возрождения Балкарского Народа)</i>. Month: March
 - <u>Karachay-Cherkessia (Regional Special):</u> Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May 
 - <u>St. Petersburg-City (Regional Special):</u> White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July
-- <u>North Ossetia (Regional Special):</u> Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>
+- <u>North Ossetia (Regional Special):</u> Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November
 
 
 
