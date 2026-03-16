@@ -97,7 +97,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - The Legend of Skanderbeg <i>(Legjenda e Skënderbeut)</i>
 - Authentic Musical Instrument: Çifteli <i>(Çiftelia)</i>
 - Authentic Garb: Xhubleta & Xhamadan <i>(Xhubleta dhe Xhamadan)</i> 
-- The Heritage of the Kingdom of Albania <i>(Mbretëria e Arbërisë / Regnum Albaniae)</i>
+- The Heritage of the Medieval Kingdom of Albania <i>(Mbretëria e Arbërisë / Regnum Albaniae)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Albania <i>(Dita e Pavarësisë)</i>. Month: November

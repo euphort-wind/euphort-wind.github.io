@@ -73,7 +73,10 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - Authentic Musical Instrument: Mijwiz <i>(مجوز)</i>
 - Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والطاقية)</i>
 - The Culture of Bedouins <i>(بَدَوِيُّون / بَدْو)</i> 
-- The Legacy of Nabataeans <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i>  
+- The Legacy of Nabataeans <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i> 
+  - The Nabataean Religion <i>(ديانة نبطية)</i> 
+  - The Nabataean Script <i>(أبجدية نبطية)</i> 
+  - The Nabataean Betyls <i>(حجر مقدس نبطي)</i> 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
