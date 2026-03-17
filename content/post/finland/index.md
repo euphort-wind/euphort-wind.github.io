@@ -102,6 +102,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 <b>🎬 Local movies:</b>
 - Heavy Trip <i>(Hevi Reissu)</i>. Year: 2018. Genre: comedy
 - Happier Times, Grump <i>(Ilosia Aikoja, Mielensäpahoittaja)</i>. Year: 2018. Genre: drama
+- The Man Without a Past <i>(Mies Vailla Mnneisyyttä)</i>. Year: 2002. Genre: drama
 
 
 <b>🪔 Authentic features:</b>
