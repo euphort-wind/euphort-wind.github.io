@@ -80,6 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 🇺🇳 Basto (DJ). Genre: progressive house
 - 🇺🇳 Lost Frequencies (DJ). Genre: pop
 - 🇺🇳 Charlotte de Witte (DJ). Genre: dark techno
+- 🇺🇳 Essyla (singer). Genre: dance pop
 
 <b>🎚️ Contribution to EDM: </b>
 - Belgian Popcorn. Originated: late 1970s

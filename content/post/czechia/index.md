@@ -69,6 +69,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - 🇨🇿 Vypsaná FiXa (band). Genre: pop punk
 - 🇨🇿 Michal Hrůza (singer). Genre: pop
 - 🇺🇳 Driftmoon (DJ). Genre: uplifting trance
+- 🇺🇳 Daniel Žižka (singer). Genre: pop
 
 
 <b>🥘 Local food & drinks: </b>

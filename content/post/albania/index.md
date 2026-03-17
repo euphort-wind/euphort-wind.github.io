@@ -69,6 +69,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - 🇦🇱 Alban Chela (DJ). Genre: house
 - 🇦🇱 Noizy (rapper). Genre: hip-hop
 - 🇦🇱 Elvana Gjata (singer). Genre: pop
+- 🇦🇱 Alis Kallaçi (singer). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
 - Albanian Yogurt <i>(Kos)</i>
