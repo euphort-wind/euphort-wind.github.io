@@ -69,6 +69,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 - 🇱🇻 Jumprava (band). Genre: retro pop
 - 🇱🇻 Otra Puse (band). Genre: pop
 - 🇱🇻 Tumsa (band). Genre: rock
+- 🇱🇻 Atvara (singer). Genre: pop
 - 🇺🇳 Laima Vaikule (singer). Genre: retro pop 
 
 

@@ -67,6 +67,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - 🇫🇮 Jenni Vartiainen (singer). Genre: pop
 - 🇫🇮 Eppu Normaali (singer). Genre: rock
 - 🇫🇮 Neljä Ruusua (band). Genre: rock
+- 🇫🇮 Pete Parkkonen (singer). Genre: pop
 - 🇺🇳 H.I.M. (band). Genre: gothic metal
 - 🇺🇳 The Rasmus (band). Genre: alternative rock
 - 🇺🇳 Sunrise Avenue (band). Genre: rock

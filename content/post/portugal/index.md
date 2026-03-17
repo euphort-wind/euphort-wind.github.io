@@ -71,6 +71,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - 🇵🇹 Murta (singer). Genre: pop
 - 🇵🇹 Resistência (band). Genre: retro pop
 - 🇵🇹 Ivandro (singer). Genre: pop
+- 🇵🇹 Bandidos do Cante (band). Genre: cante alentejano
 
 
 <b>🎚️ Contribution to EDM: </b>
@@ -102,6 +103,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Saudade <i>(Saudade)</i>
 - The Fado Music <i>(Fado)</i>
+- The Cante Alentejano Music <i>(Cante Alentejano)</i>
 - The Manueline Architecture <i>(Estilo Manuelino)</i> 
 - The Pombaline Architecture <i>(Estilo Pombalino)</i> 
 - The Azulejo Tilework <i>(Azulejo)</i>

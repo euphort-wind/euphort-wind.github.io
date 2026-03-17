@@ -101,6 +101,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🇺🇳 Minelli (singer). Genre: pop
 - 🇺🇳 Alexandra Stan (singer). Genre: pop
 - 🇺🇳 Alis Shuka (singer). Genre: pop
+- 🇺🇳 Alexandra Căpitănescu (singer). Genre: alternative rock
 
 <b>🎚️ Contribution to EDM: </b>
 - Romanian Popcorn. Originated: late 2000s

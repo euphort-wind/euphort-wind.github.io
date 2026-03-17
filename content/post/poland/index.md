@@ -76,6 +76,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🇵🇱 Oskar Cyms (singer). Genre: pop
 - 🇺🇳 C-Bool (DJ). Genre: house
 - 🇺🇳 Tom Swoon (DJ). Genre: progressive house
+- 🇺🇳 Alicja (singer). Genre: pop
 
 <b>🥘 Local food & drinks: </b>
 - Żurek Soup <i>(Żurek)</i>

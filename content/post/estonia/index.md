@@ -69,6 +69,7 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - 🇪🇪 Getter Jaani (singer). Genre: pop
 - 🇪🇪 Puuluup (duo). Genre: folk
 - 🇺🇳 Luvwn (DJ). Genre: chillhop
+- 🇺🇳 Vanilla Ninja (band). Genre: pop rock
 
 
 <b>🥘 Local food & drinks: </b>

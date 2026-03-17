@@ -80,6 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - 🇳🇴 Katastrofe (singer). Genre: pop
 - 🇳🇴 Postgirobygget (band). Genre: rock
 - 🇳🇴 Vidar Villa (singer). Genre: pop
+- 🇳🇴 Marcus & Martinus (duo). Genre: pop
 - 🇺🇳 A-ha (band). Genre: retro pop
 - 🇺🇳 Ørjan Nilsen (DJ). Genre: trance
 - 🇺🇳 Kygo (DJ). Genre: tropical house

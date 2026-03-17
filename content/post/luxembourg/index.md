@@ -65,7 +65,7 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
 - 🇺🇳 Monophona (band). Genre: indie pop
 - 🇺🇳 Claudine Muno (singer). Genre: pop
 - 🇺🇳 Francis of Delirium (singer). Genre: indie rock
-
+- 🇺🇳 Eva Marija (singer). Genre: pop
 
 
 <b>🥘 Local food & drinks: </b>
