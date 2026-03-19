@@ -46,12 +46,14 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
     - Apostolic Palace <i>(Palatium Apostolicum)</i>
     - St. Peter's Square <i>(Forum Sancti Petri)</i>
 
+
 <b>🎧 Local musicians: </b>
 - 🇻🇦 Sistine Chapel Choir (choir). Genre: religious
 
 
 <b>🥘 Local food & drinks: </b>
 - Grissini <i>(Grissini)</i>
+- Pasta alla Papalina <i>(Pasta alla Papalina)</i>
 - Baked Pasta <i>(Pasta Cocta)</i>
 - Sacramental Bread <i>(Hostia)</i>
 - Sacramental Wine <i>(Vinum Eucharisticum)</i>
