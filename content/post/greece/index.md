@@ -73,6 +73,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🇬🇷 Demis Roussos (singer). Genre: pop
 - 🇬🇷 Eleni Tsaligopoulou (singer). Genre: pop
 - 🇬🇷 Akylas (singer). Genre: dance pop
+- 🇬🇷 Klavdia (singer). Genre: indie pop
 - 🇺🇳 Playmen (DJ duo). Genre: house
 - 🇺🇳 Aero Chord (DJ). Genre: trap
 - 🇺🇳 Steve Angello (DJ). Genre: progressive house
