@@ -59,6 +59,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 
 <b>🎧 Local musicians: </b>
 - 🇨🇾 Loukas Yorkas (singer). Genre: pop
+- 🇺🇳 Theo Evan (singer). Genre: electro industrial
 - 🇺🇳 Artemas (singer). Genre: pop
 - 🇺🇳 Eric Alamango (DJ). Genre: pop
 

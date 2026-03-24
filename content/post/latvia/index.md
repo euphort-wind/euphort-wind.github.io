@@ -70,6 +70,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 - 🇱🇻 Otra Puse (band). Genre: pop
 - 🇱🇻 Tumsa (band). Genre: rock
 - 🇱🇻 Atvara (singer). Genre: pop
+- 🇱🇻 Tautumeitas (band). Genre: folk pop
 - 🇺🇳 Laima Vaikule (singer). Genre: retro pop 
 
 

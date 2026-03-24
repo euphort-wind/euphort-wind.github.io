@@ -72,6 +72,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - 🇱🇹 Kastytis Kerbedis (singer). Genre: pop
 - 🇱🇹 Marijonas Mikutavičius (singer). Genre: pop
 - 🇱🇹 Alina Orlova (singer). Genre: pop
+- 🇱🇹 Katarsis (band). Genre: alternative rock
 - 🇺🇳 The Roop (band). Genre: pop
 - 🇺🇳 Dynoro (DJ). Genre: slap house
 - 🇺🇳 Gaulin (DJ). Genre: slap house

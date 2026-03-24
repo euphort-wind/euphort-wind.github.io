@@ -63,6 +63,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🇪🇸 Los del Río (duo). Genre: pop
 - 🇪🇸 Alejandro Sanz (singer). Genre: pop
 - 🇪🇸 Las Ketchup (band). Genre: europop
+- 🇪🇸 Nebulossa (duo). Genre: synth-pop 
 - 🇺🇳 David Tavaré (DJ). Genre: house
 - 🇺🇳 Dr. Kucho! (DJ). Genre: house
 - 🇺🇳 Sak Noel (DJ). Genre: pop

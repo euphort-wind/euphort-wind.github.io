@@ -74,6 +74,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🇵🇱 Natalia Przybysz (singer). Genre: R&B
 - 🇵🇱 LemON (band). Genre: rock
 - 🇵🇱 Oskar Cyms (singer). Genre: pop
+- 🇵🇱 Justyna Steczkowska (singer). Genre: pop
 - 🇺🇳 C-Bool (DJ). Genre: house
 - 🇺🇳 Tom Swoon (DJ). Genre: progressive house
 - 🇺🇳 Alicja (singer). Genre: pop

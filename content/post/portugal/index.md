@@ -71,6 +71,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - 🇵🇹 Murta (singer). Genre: pop
 - 🇵🇹 Resistência (band). Genre: retro pop
 - 🇵🇹 Ivandro (singer). Genre: pop
+- 🇵🇹 Napa (band). Genre: indie pop
 - 🇵🇹 Bandidos do Cante (band). Genre: cante alentejano
 
 

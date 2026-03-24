@@ -62,6 +62,7 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
 - 🇱🇺 Kinima Asbl (project). Genre: pop
 - 🇱🇺 Serge Tonnar (singer). Genre: pop rock
 - 🇱🇺 Sleepwalk (band). Genre: pop rock
+- 🇺🇳 Laura Thorn (singer). Genre: pop 
 - 🇺🇳 Monophona (band). Genre: indie pop
 - 🇺🇳 Claudine Muno (singer). Genre: pop
 - 🇺🇳 Francis of Delirium (singer). Genre: indie rock
