@@ -131,7 +131,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - Authentic Musical Instrument: Gusle <i>(Гусле)</i>
 - Authentic Garb: Šajkača & Opanci <i>(Шајкача и Опанци)</i> 
 - The Heritage of the Medieval Kingdom of Serbia <i>(Средњовековна Краљевина Србија / Regnum Serbiæ)</i>
-  - Raška Architecture <i>(Raški Stil)</i>
+  - Raška Architecture <i>(Рашки Стил)</i>
   - The System of Zadrugas <i>(Задруге)</i>
   - Serbian Epic Poetry <i>(Српске Епске Народне Песме)</i>
 - The Heritage of the Modern Kingdom of Serbia <i>(Модерна Краљевина Србија)</i>
