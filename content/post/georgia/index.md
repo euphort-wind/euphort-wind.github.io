@@ -145,7 +145,9 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 <b>🪔 Authentic features:</b>
 - The Supra & Tamadas <i>(სუფრა და თამადა)</i>
 - The Kvevri-Based Wine Production <i>(ქვევრის ღვინო)</i>
-- Three Georgian Alphabets <i>(სამი ქართული ანბანი)</i>
+- The Mkhedruli Script <i>(მხედრული)</i>
+- The Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
+- The Nuskhuri Script <i>(ნუსხური / ⴌⴓⴑⴞⴓⴐⴈ)</i>
 - The Kartuli Dance <i>(ქართული ცეკვა)</i>
 - The Berikaoba Theater <i>(ბერიკაობა)</i>
 - The Chidaoba Wrestling <i>(ჩიდაობა)</i>

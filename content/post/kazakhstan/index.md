@@ -105,6 +105,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - Qaitadan <i>(Қайтадан)</i>. Year: 2025. Genre: thriller
 
 <b>🪔 Authentic features:</b>
+- Authentic Principle: Jeti Ata <i>(Жеті Ата)</i> 
 - The Aytıs & Akyns <i>(Айтыс пен Ақындар)</i> 
 - The System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i> 
 - The Baige Horse Race <i>(Бәйге)</i>

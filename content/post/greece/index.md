@@ -121,6 +121,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
 - Ancient Authentic Garb: Fustanella & Amalía Dress <i>(Φουστανέλα & Αμαλία)</i>
 - The Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
+  - Ancient Authentic Principle: Eudaimonia <i>(Ευδαιμονία)</i>
   - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
   - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
   - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
@@ -135,10 +136,11 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - <u>Crete (Regional Special):</u> Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
 - <u>Crete (Regional Special):</u> Authentic Garb: Stivania & Sariki <i>(Στιβάνια & Σαρίκι)</i>
 - <u>Crete (Regional Special):</u> The Legacy of Minoans <i>(Μινωίτες)</i>
-  - Minoan Painting <i>(Μινωική Ζωγραφική)</i>
-  - Minoan Pottery <i>(Μινωική Κεραμική)</i>
+  - Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
+  - The Minoan Painting <i>(Μινωική Ζωγραφική)</i>
+  - The Minoan Pottery <i>(Μινωική Κεραμική)</i>
+  - The Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
   - The Knossos Board Game <i>(Ζατρίκιον)</i>
-  - Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
 - <u>South Aegean (Regional Special):</u> The Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
 - <u>South Aegean (Regional Special):</u> Santorini Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
 

@@ -100,7 +100,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - The Ojkanje Singing <i>(Ojkanje)</i>
 - The Story of Klepetan & Malena <i>(Klepetan i Malena)</i>
 - The Zvončari Costume <i>(Zvončari)</i>  
-- The Angular Glagolitic Script <i>(Hrvatska Glagoljica)</i>
+- The Glagolitic Script <i>(Hrvatska Glagoljica)</i>
 - Croatian Lace <i>(Čipkarstvo u Hrvatskoj)</i>
 - Croatian Pre-Romanesque Architecture <i>(Starohrvatska Arhitektura)</i>
 - Croatian Folklore <i>(Hrvatski Folklor)</i>

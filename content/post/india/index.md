@@ -139,6 +139,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - The Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
   - Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
 - <u>Goa (Regional Special):</u> The Culture of Goans <i>(गोवाई / गोएनकर)</i>
+  - Authentic Principle: Susegad <i>(सुसेगाद / सुसेगाद)</i>
   - The Fugdi Dance <i>(फुगडी / फुगडी)</i>
   - Authentic Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
   - Authentic Musical Instrument: Ghumot <i>(घुमोट / घुमट)</i>

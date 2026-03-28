@@ -278,6 +278,10 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>
 - Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
 - The Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i> 
+  - Ancient Etruscan Religion <i>(Religione Etrusca)</i> 
+  - Ancient Etruscan Alphabet <i>(Alfabeto Etrusco)</i> 
+  - Ancient Etruscan Vase Painting <i>(Pittura Vascolare Etrusca)</i> 
+  - Ancient Bucchero Ceramics <i>(Bucchero)</i> 
 - The Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
 - The Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
   - Ancient Roman Mythology <i>(Mitologia Romana Antica)</i>

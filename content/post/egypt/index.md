@@ -82,8 +82,13 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - The Khayamiya Textile <i>(خيّامية)</i>
 - Authentic Musical Instrument: Goblet Drum <i>(دربوكة)</i>
 - Authentic Garb: Galabiya <i>(جلابية)</i>
-- The Culture of Copts <i>(أقباط / ⲛⲓⲣⲉⲙⲛ̀ⲭⲏⲙⲓ)</i>
+- The Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
+  - Authentic Principle: Coptic Monasticism <i>(الرهبنه القبطيه)</i>
+  - Oriental Orthodoxy <i>(أقباطالكنائس الأرثوذكسية المشرقية)</i>
+  - The Coptic Script <i>(الأبجدية القبطية)</i>
+  - The Coptic Crosses <i>(الصليب القبطى)</i>
 - The Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
+  - Ancient Authentic Principle: Maat <i>(ماعت)</i>
   - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
   - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
   - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>

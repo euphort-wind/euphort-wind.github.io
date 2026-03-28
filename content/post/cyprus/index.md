@@ -82,14 +82,14 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 
 
 <b>🪔 Authentic features:</b>
-- Cypriot Syllabaric Script <i>(Κυπριακό Συλλαβάριο)</i>
 - The Fythkiotika Weaving <i>(Φυθκιώτικα)</i>
 - The Tsiattista Poetic Duelling <i>(Τσιαττίστας)</i>
 - The Ziziros Game <i>(Ζίζιρος: Παιχνίδι)</i>
+- Cypriot Syllabic Script  <i>(Κυπριακό Συλλαβάριο)</i>
 - Authentic Musical Instrument: Laouto <i>(Λαούτο)</i>
 - Authentic Garb: Cypriot Sayia & Worry Beads <i>(Σαγιά και Κομπολόι)</i>
 - The Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>
-- <u>Larnaca (Regional Special):</u> Lefkara Lace <i>(Λευκαρίτικα)</i>
+- <u>Larnaca (Regional Special):</u> The Lefkara Lace <i>(Λευκαρίτικα)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
