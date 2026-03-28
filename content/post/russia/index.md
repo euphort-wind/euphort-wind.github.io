@@ -234,13 +234,17 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Okroshka <i>(Окрошка)</i>  
     - Okroshka with Kefir <i>(Окрошка на Кефире)</i> 
     - Okroshka with Kvass <i>(Окрошка на Квасе)</i>  
-- Coulibiac <i>(Кулебяка)</i> 
+    - Okroshka with Mineral Water <i>(Окрошка на Минеральной Воде)</i>  
+- Coulibiac <i>(Кулебяка)</i>
+- Kurnik <i>(Курник)</i>
+- Rasstegai <i>(Расстегай)</i>
 - Russian Caviar Sandwiches <i>(Бутерброд с Икрой)</i> 
 - Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
 - Beef Stroganoff <i>(Бефстроганов)</i> 
 - Pelmeni <i>(Пельмени)</i>
 - Easter Paskha <i>(Творожная Пасха)</i> 
 - Guryev Porridge <i>(Гурьевская Каша)</i> 
+- Pryanik <i>(Пряник)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
 - Russian Vodka <i>(Brands: "Derevenka", "Tsarskaya")</i> 
