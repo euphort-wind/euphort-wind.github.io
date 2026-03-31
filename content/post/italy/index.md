@@ -196,6 +196,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - Panino <i>(Panino)</i>
 - Frittata <i>(Frittata)</i>
 - Risotto <i>(Risotto)</i>
+- Ravioli <i>(Ravioli)</i>
 - Ossobuco <i>(Osso Buco)</i>
 - Panna Cotta <i>(Panna Cotta)</i>
 - Tiramisu <i>(Tiramisu)</i>
@@ -221,8 +222,11 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - <u>Lazio (Regional Special):</u> Saltimbocca <i>(Saltimbocca)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Ragù alla Bolognese <i>(Ragù alla Bolognese / Ragó)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Lasagna <i>(Lasagna / Lasagna)</i>
+- <u>Emilia-Romagna (Regional Special):</u> Tortelli <i>(Tortelli / Tortelli)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Torta di Riso <i>(Torta di Riso / Torta degli Addobbi)</i>
 - <u>Tuscany (Regional Special):</u> Florentine Steak <i>(Bistecca alla Fiorentina)</i>
+- <u>Tuscany (Regional Special):</u> Panzanella <i>(Panzanella)</i>
+- <u>Tuscany (Regional Special):</u> Ribollita <i>(Ribollita)</i>
 - <u>Sicily (Regional Special):</u> Caponata <i>(Caponata / Capunata)</i>
 - <u>Sicily (Regional Special):</u> Panella <i>(Panella / Panella)</i>
 - <u>Sicily (Regional Special):</u> Pani câ Meusa <i>(Pane con Meusa / Pani câ Meusa)</i>
