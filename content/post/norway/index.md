@@ -99,6 +99,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - Smoked Salmon <i>(Røkt Laks)</i>
 - Sodd <i>(Sodd)</i>
 - Fårikål <i>(Fårikål)</i>
+- Lutefisk <i>(Lutefisk)</i>
 - Pinnekjøtt with Puréed Swede, Sausages and Potatoes <i>(Pinnekjøtt med Rotmos, Poteter og Pølse)</i>
 - Norwegian Meatcakes with Pea Purée and Brown Gravy <i>(Kjøttkaker med Ertepuré og Brun Saus)</i>
 - Rømmegrøt <i>(Rømmegrøt)</i>

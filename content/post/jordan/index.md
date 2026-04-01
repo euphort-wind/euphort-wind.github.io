@@ -73,7 +73,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - The Dabke Dance <i>(دبكة)</i>
 - Authentic Musical Instrument: Mijwiz <i>(مجوز)</i>
 - Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والطاقية)</i>
-- {{< flag bed >}} The Culture of Bedouins <i>(بَدَوِيُّون / بَدْو)</i> 
+- The Culture of Bedouins <i>(بَدَوِيُّون / بَدْو)</i> 
 - The Legacy of Nabataeans <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i> 
   - The Nabataean Religion <i>(ديانة نبطية)</i> 
   - The Nabataean Script <i>(أبجدية نبطية)</i> 
