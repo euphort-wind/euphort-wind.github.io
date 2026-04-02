@@ -137,6 +137,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - <u>Crete (Regional Special):</u> Authentic Garb: Stivania & Sariki <i>(Στιβάνια & Σαρίκι)</i>
 - <u>Crete (Regional Special):</u> The Legacy of Minoans <i>(Μινωίτες)</i>
   - Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
+  - The Linear A Writing System <i>(Γραμμική Α)</i>
   - The Minoan Painting <i>(Μινωική Ζωγραφική)</i>
   - The Minoan Pottery <i>(Μινωική Κεραμική)</i>
   - The Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
