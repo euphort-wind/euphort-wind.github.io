@@ -180,7 +180,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Bresaola <i>(Bresaola)</i> 
   - Mortadella <i>(Mortadella)</i> 
   - Prosciutto <i>(Prosciutto Crudo)</i> 
-  - Salami <i>(Salamini Italiani alla Cacciatora)</i> 
+  - Salami <i>(Salame)</i> 
 - Italian Pasta <i>(Pasta)</i>
   - Farfalle <i>(Farfalle)</i>
   - Tagliatelle <i>(Tagliatelle)</i>
@@ -190,8 +190,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Scialatielli <i>(Scialatielli)</i> 
 - Italian Pizza <i>(Pizza)</i>
   - Quattro Formaggi <i>(Quattro Formaggi)</i>
-  - Capricciosa <i>(Capricciosa)</i>
   - Quattro Stagioni <i>(Quattro Stagioni)</i>
+  - Capricciosa <i>(Capricciosa)</i>
 - Bruschetta <i>(Bruschetta)</i>
 - Panino <i>(Panino)</i>
 - Frittata <i>(Frittata)</i>
@@ -219,6 +219,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - Vermouth <i>(Brand: "Martini")</i> 
 - Italian Liqueur <i>(Brands: "Campari", "Aperol")</i> 
 - <u>Lazio (Regional Special):</u> Pasta Carbonara <i>(Pasta alla Carbonara)</i>
+- <u>Lazio (Regional Special):</u> Fettuccine Alfredo <i>(Fettuccine Alfredo)</i>
 - <u>Lazio (Regional Special):</u> Saltimbocca <i>(Saltimbocca)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Ragù alla Bolognese <i>(Ragù alla Bolognese / Ragó)</i>
 - <u>Emilia-Romagna (Regional Special):</u> Lasagna <i>(Lasagna / Lasagna)</i>
