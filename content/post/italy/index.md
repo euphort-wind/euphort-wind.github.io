@@ -258,6 +258,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - Medici <i>(I Medici)</i>. Year: 2016-2019. Genre: drama (series)
 - The Place <i>(The Place)</i>. Year: 2017. Genre: thriller
 - The Best Offer <i>(La Migliore Offerta)</i>. Year: 2013. Genre: thriller
+- The Girl in the Fog <i>(La Ragazza nella Nebbia)</i>. Year: 2017. Genre: thriller
 - Perfect Strangers <i>(Perfetti Sconosciuti)</i>. Year: 2016. Genre: drama
 - Youth <i>(Youth)</i>. Year: 2015. Genre: drama
 - The Great Beauty <i>(La Grande Bellezza)</i>. Year: 2013. Genre: drama
