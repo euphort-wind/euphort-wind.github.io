@@ -189,7 +189,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Wanderlust <i>(Wanderlust)</i>
+- Authentic Principle: Gemütlichkeit <i>(Gemütlichkeit)</i>
 - Protestantism <i>(Protestantismus)</i>
 - The Allemande Dance <i>(Allemande)</i>
 - The Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
