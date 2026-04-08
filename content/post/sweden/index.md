@@ -352,7 +352,10 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - The Varpa Game <i>(Varpa / Varpo)</i>
 - <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
 - <u>Halland (Regional Special):</u> The Bonad Painting <i>(Bonadsmålning)</i>
-
+- <u>Västra Götaland (Regional Special):</u> The Legacy of Geates <i>(Götar / Gautar)</i>
+    - The Domarringar <i>(Domarringar)</i>
+    - The Stone Ships <i>(Skeppssättning)</i>
+    - The Elder Futhark Runic Alphabet <i>(Äldre Futhark / ᚠᚢᚦᚨᚱᚲ)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June
