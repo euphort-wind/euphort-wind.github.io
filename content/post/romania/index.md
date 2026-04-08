@@ -153,6 +153,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
   - Authentic Principle: Romanipen <i>(Romanipenul / Romanipen)</i>
   - The Lăutărească Music & Lăutari <i>(Muzica Lăutărească și Lăutari / Lăutărească Muzika thaj Lăutari)</i> 
   - The Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
+  - The Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
   - Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
 - The Legacy of Dacians <i>(Dacii / Δάκοι)</i>
 - The Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
@@ -160,6 +161,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - <u>Covasna (Regional Special):</u> The Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
   - The Székely Gates <i>(Poartă Secuiască / Székelykapu)</i>
   - The Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i>
+  - The Title of Count of the Székelys <i>(Comite al Secuilor / Székely Ispán)</i>
   - Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐲘𐳀𐳎𐳀𐳢 𐲢𐳛𐳮𐳁𐳤)</i>
 - <u>Brașov (Regional Special):</u> The Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
   - Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>

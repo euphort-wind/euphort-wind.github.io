@@ -135,6 +135,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - The Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i>
   - Norse Mythology <i>(Norrøn Mytologi)</i> 
   - Norse Paganism <i>(Norrøn Religion)</i>
+  - The Title of Jarl <i>(Jarl)</i>
   - The Younger Futhark Runic Alphabet <i>(Den Yngre Futharken / ᚠᚢᚦᚬᚱᚴ)</i> 
   - The Hnefatafl Game <i>(Hnefatafl)</i> 
   - The Skaldic Poetry <i>(Skaldekvad)</i> 

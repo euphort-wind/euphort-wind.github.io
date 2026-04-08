@@ -116,6 +116,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Philotimo <i>(Φιλότιμο)</i>
 - Eastern Orthodoxy <i>(Ανατολικός Ορθόδοξος Χριστιανισμός)</i>
+- The Title of Ecumenical Patriarch of Constantinople <i>(Οἰκουμενικός Πατριάρχης)</i>
 - The Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - The Sirtaki Dance <i>(Σιρτάκη)</i>
 - Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
@@ -130,6 +131,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - Ancient Greek Boxing <i>(Πυγμαχία)</i>
   - Ancient Greek Chariot Racing <i>(Ἁρματοδρομία)</i>
   - Ancient Greek Religion <i>(Αρχαία Ελληνική Θρησκεία)</i>
+  - The Title of Basileus <i>(βασιλεύς)</i>
   - The Ostrakinda Game <i>(Ὀστρακίνδα)</i>
   - Ancient Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
   - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύδα)</i>

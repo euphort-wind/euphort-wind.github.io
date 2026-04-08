@@ -72,6 +72,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 - Ålandic Ship Building <i>(Åländsk Skeppsbyggnad)</i>
 - Ålandic Red Granite <i>(Ålands Röda Granit)</i>
 - Ålandic Postal System <i>(Ålands Postsystem)</i>
+- The Title of Lantråd <i>(Lantråd)</i>
 
 
 

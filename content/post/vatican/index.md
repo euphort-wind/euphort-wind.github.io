@@ -65,6 +65,7 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 
 
 <b>🪔 Authentic features:</b>
+- The Title of Bishop of Rome <i>(Pontifex Maximus)</i>
 - Catholicism <i>(Ecclesia Catholica)</i>
 - The Papal Audiences <i>(Audientia)</i>
 - The Papal Conclave Ritual <i>(Conclave)</i>

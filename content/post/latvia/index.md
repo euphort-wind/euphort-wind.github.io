@@ -98,7 +98,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 - The Novuss Game <i>(Novuss)</i>
 - The Legend of Lāčplēsis <i>(Lāčplēsis: Eposs)</i> 
 - Authentic Musical Instrument: Kokle <i>(Kokle)</i> 
-- Authentic Garb: Latvian Belt <i>(Lielvārdes Josta)</i> 
+- Authentic Garb: Latvian Belts <i>(Lielvārdes Josta)</i> 
 - The Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
 - The Culture of Latgalians <i>(Latgalieši / Latgalīši)</i> 
 - The Heritage of the Livonian Confederation <i>(Livonijas Konfederācija / Terra Mariana)</i>

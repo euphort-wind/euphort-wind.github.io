@@ -288,6 +288,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Etruscan Alphabet <i>(Alfabeto Etrusco)</i> 
   - Ancient Etruscan Vase Painting <i>(Pittura Vascolare Etrusca)</i> 
   - Ancient Bucchero Ceramics <i>(Bucchero)</i> 
+  - The Title of Lucumo <i>(Lucumone)</i> 
 - The Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
 - The Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
   - Ancient Roman Mythology <i>(Mitologia Romana Antica)</i>
@@ -295,6 +296,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Roman Sculpture <i>(Scultura Romana Antica)</i>
   - Ancient Roman Roads <i>(Antiche Strade Romane)</i> 
   - Ancient Roman Religion <i>(Religione Romana Antica)</i> 
+  - The Title of Pater Patriae <i>(Pater Patriae)</i> 
   - The Harpastum Game <i>(Harpastum)</i> 
   - The Trigon Game <i>(Trigon)</i>
   - Ancient Authentic Musical Instrument: Cornu <i>(Cornu)</i> 

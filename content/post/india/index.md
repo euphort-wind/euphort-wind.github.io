@@ -123,6 +123,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - The Chaturanga Game <i>(चतुरंग)</i>
 - The Bharatanatyam Dance <i>(भरतनाट्यम)</i>
 - The Nagara Architecture <i>(नागर शैली)</i>
+- The Title of Guru <i>(गुरु)</i>
 - The Indo-Saracenic Architecture <i>(इंडो-सारासेनिक वास्तुकला)</i>
 - Indian Folklore <i>(भारतीय लोकवार्ता)</i>
 - Indian Cars <i>(Brands: "Tata", Mahindra")</i>

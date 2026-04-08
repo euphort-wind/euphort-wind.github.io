@@ -92,6 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - Authentic Principle: Besa <i>(Besa)</i>
 - The System of Albanian Tribes <i>(Fiset Shqiptare)</i>
 - Bektashism <i>(Bektashizmi)</i>
+- The Title of Dedebaba <i>(Kryegjyshi)</i>
 - Albanian Iso-Polyphony <i>(Iso-Polifonia Shqiptare)</i>
 - The Shota Dance <i>(Shotë)</i>
 - Albanian Bunkers <i>(Bunkerët)</i>

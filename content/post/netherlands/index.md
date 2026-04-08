@@ -194,6 +194,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - The Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
   - Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
   - Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i>
+  - The Title of Stadtholder <i>(Stadhouder)</i>
   - The Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
 - <u>Utrecht (Regional Special):</u> De Stijl Architecture <i>(De Stijl Architectuur)</i>
 - <u>South Holland (Regional Special):</u> Wall Poems in Leiden <i>(Muurgedichten in Leiden)</i>

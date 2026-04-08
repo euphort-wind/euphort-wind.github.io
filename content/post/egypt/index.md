@@ -87,6 +87,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - Oriental Orthodoxy <i>(أقباطالكنائس الأرثوذكسية المشرقية)</i>
   - The Coptic Script <i>(الأبجدية القبطية)</i>
   - The Coptic Crosses <i>(الصليب القبطى)</i>
+  - The Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
 - The Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
   - Ancient Authentic Principle: Maat <i>(ماعت)</i>
   - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
@@ -95,6 +96,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - Ancient Egyptian Religion <i>(ديانة قدماء المصريين)</i>
   - Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة)</i>
   - The Senet Game <i>(لعبة السِّينِت)</i>
+  - The Title of Pharaoh <i>(فرعون)</i>
   - Ancient Authentic Musical Instrument: Sistrum <i>(السيستروم)</i>
   - Ancient Authentic Garb: Khat & Shendyt <i>(الخات والشنديت)</i>
 - The Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>

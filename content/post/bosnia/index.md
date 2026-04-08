@@ -103,6 +103,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - The Konjic Woodcarving <i>(Konjičko Drvorezbarstvo)</i>
 - The Bosnian-Style Architecture <i>(Bosanski Stil u Arhitekturi)</i>
 - Bosniak Epic Poetry <i>(Bošnjačke Epske Narodne Pjesme)</i>
+- The Title of Tripartite President <i>(Tročlano Predsjedništvo)</i>
 - Authentic Musical Instrument: Šargija <i>(Šargija)</i> 
 - The Heritage of the Bosnian Kingdom <i>(Kraljevina Bosna / Краљевина Босна)</i>
     - The Bosnian Church Christianity <i>(Crkva Bosanska)</i>
