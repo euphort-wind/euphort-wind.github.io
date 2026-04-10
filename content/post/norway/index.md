@@ -81,6 +81,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - 🇳🇴 Postgirobygget (band). Genre: rock
 - 🇳🇴 Vidar Villa (singer). Genre: pop
 - 🇳🇴 Marcus & Martinus (duo). Genre: pop
+- 🇺🇳 Secret Garden (duo). Genre: new-age
 - 🇺🇳 A-ha (band). Genre: retro pop
 - 🇺🇳 Ørjan Nilsen (DJ). Genre: trance
 - 🇺🇳 Kygo (DJ). Genre: tropical house
