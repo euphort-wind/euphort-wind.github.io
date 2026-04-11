@@ -117,6 +117,11 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - Authentic Musical Instrument: Koza <i>(Koza)</i>
 - Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i> 
 - The Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i>
+- The Heritage of the Polish–Lithuanian Commonwealth <i>(Rzeczpospolita / Regnum Poloniae Magnusque Ducatus Lithuaniae)</i>
+  - Authentic Principle: Sarmatism <i>(Sarmatyzm)</i>
+  - Polish Baroque Architecture <i>(Sztuka Barokowa w Polsce)</i>
+  - The Title of Szlachcic <i>(Szlachcic)</i>
+  - Authentic Garb: Robe à la Polonaise <i>(Poloneska)</i> 
 - <u>Pomeranian (Regional Special):</u> The Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
   - Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
   - Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
