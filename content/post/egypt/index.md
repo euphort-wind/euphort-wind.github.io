@@ -84,7 +84,6 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - Authentic Garb: Galabiya <i>(جلابية)</i>
 - The Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
   - Authentic Principle: Coptic Monasticism <i>(الرهبنه القبطيه)</i>
-  - Oriental Orthodoxy <i>(أقباطالكنائس الأرثوذكسية المشرقية)</i>
   - The Coptic Script <i>(الأبجدية القبطية)</i>
   - The Coptic Crosses <i>(الصليب القبطى)</i>
   - The Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
