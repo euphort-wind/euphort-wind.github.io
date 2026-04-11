@@ -133,8 +133,8 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 - Authentic Garb: Bocskai Coat & Attila <i>(Bocskai Öltöny & Atilla)</i>
 - The Heritage of the Kingdom of Hungary <i>(Magyar Királyság / Regnum Hungariae)</i>
   - Old Hungarian Mythology <i>(Ősmagyar Mitológia)</i>
-  - Old Hungarian Shamanismn <i>(Ősmagyar Vallás)</i>
-  - The Legacy of Hussars <i>(Huszárok)</i>
+  - Old Hungarian Shamanism <i>(Ősmagyar Vallás)</i>
+  - The Title of Ispán <i>(Ispán)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

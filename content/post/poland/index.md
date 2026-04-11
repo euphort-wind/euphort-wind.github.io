@@ -121,7 +121,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - Authentic Principle: Sarmatism <i>(Sarmatyzm)</i>
   - Polish Baroque Architecture <i>(Sztuka Barokowa w Polsce)</i>
   - The Title of Szlachcic <i>(Szlachcic)</i>
-  - Authentic Garb: Robe à la Polonaise <i>(Poloneska)</i> 
+  - Authentic Garb: Robe à la Polonaise & Żupan <i>(Poloneska i Żupan)</i> 
 - <u>Pomeranian (Regional Special):</u> The Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
   - Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
   - Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
