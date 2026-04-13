@@ -218,6 +218,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🇺🇳 Natalie Gioia (singer). Genre: trance
 - 🇺🇳 Alexander Popov (DJ). Genre: trance
 - 🇺🇳 Arty (DJ). Genre: progressive house
+- 🇺🇳 Serge Devant (DJ). Genre: melodic house
 - 🇺🇳 Shapov (DJ). Genre: progressive house
 - 🇺🇳 Swanky Tunes (DJ trio). Genre: electro house
 
