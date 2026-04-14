@@ -228,7 +228,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 <b>💐 National flower: </b> Cornflower <i>(Kornblumen)</i>
 
 
-<b>🦉 Local wisdom:</b> "The devil's favorite piece of furniture is the long bench." / "<i>Des Teufels liebstes Möbelstück ist die lange Bank.</i>" — German proverb
+<b>🦉 Local wisdom:</b> "The devil's favorite piece of furniture is the long bench." / <i>"Des Teufels liebstes Möbelstück ist die lange Bank."</i> — German proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Heidelberg University <i>(Ruprecht-Karls-Universität Heidelberg)</i>, Heidelberg, est. 1386.  

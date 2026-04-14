@@ -149,7 +149,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 <b>💐 National flower: </b> Natalie's Ramonda <i>(Наталијина Рамонда)</i>
 
 
-<b>🦉 Local wisdom:</b> "И лонцем о камен или каменом о лонац, тешко лонцу свакојако."  / "<i>Whether the pot hits the rock or the rock hits the pot, it’s bad for the pot either way.</i>" — Serbian proverb
+<b>🦉 Local wisdom:</b> "Whether the pot hits the rock or the rock hits the pot, it’s bad for the pot either way." / <i>"И лонцем о камен или каменом о лонац, тешко лонцу свакојако."</i> — Serbian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Belgrade <i>(Универзитет у Београду)</i>, Belgrade, est. 1808. 

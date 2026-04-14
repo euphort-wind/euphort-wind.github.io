@@ -154,7 +154,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 <b>💐 National flower: </b> Pyramidal Saxifrage <i>(Bergfrue)</i>
 
 
-<b>🦉 Local wisdom:</b> "The grass is green enough on our side of the fence if we just remember to water it." / <i>"Gresset er grønt nok på vår side av gjerdet når vi bare husker å vanne det."</i> — Norwegian proverb
+<b>🦉 Local wisdom:</b> "Good words should be carved in rock, bad words should be written in snow." / <i>"Det gode skal en hugge i fjell, det onde skal en skrive i snø."</i> — Norwegian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Oslo <i>(Universitetet i Oslo)</i>, Oslo, est. 1811. 

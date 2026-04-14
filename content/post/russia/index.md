@@ -350,7 +350,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - <u>Orenburzhie (Regional Special):</u> Tulipa Schrenkii <i>(Тюльпан Шренка)</i>
 
 
-<b>🦉 Local wisdom:</b> "Without effort, one wouldn’t even get a fish out of a pond." / "<i>Без труда не выловишь и рыбку из пруда.</i>" — Russian proverb
+<b>🦉 Local wisdom:</b> "Without effort, one wouldn’t even get a fish out of a pond." / <i>"Без труда не выловишь и рыбку из пруда."</i> — Russian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Saint Petersburg State University <i>(Санкт-Петербургский Государственный Университет)</i>, Saint Petersburg, est. 1724. 

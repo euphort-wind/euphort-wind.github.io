@@ -114,7 +114,7 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 <b>💐 National flower: </b> Red Carnation <i>(Rdeči Nagelj)</i>
 
 
-<b>🦉 Local wisdom:</b> "Lačna vrana se ne zmeni za strašilo."  / "<i>A hungry crow doesn't care about the scarecrow.</i>" —  Slovenian proverb
+<b>🦉 Local wisdom:</b> "A hungry crow doesn't care about the scarecrow."  / <i>"Lačna vrana se ne zmeni za strašilo."</i> —  Slovenian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Ljubljana <i>(Univerza v Ljubljani)</i>, Ljubljana, est. 1919. 

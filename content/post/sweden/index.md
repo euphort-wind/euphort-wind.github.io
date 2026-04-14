@@ -1,6 +1,6 @@
 ---
 title: 🇸🇪 Sweden
-date: '2025-12-10'
+date: '2026-04-10'
 summary: Live in Sweden
 
 gallery_item:
@@ -377,7 +377,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - <u>Värmland (Regional Special):</u> Arctic Starflower <i>(Skogsstjärna)</i>
 
 
-<b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece." / "<i>Den som gapar över mycket mister ofta hela stycket.</i>" — Swedish proverb
+<b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece." / <i>"Den som gapar över mycket mister ofta hela stycket."</i> — Swedish proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Uppsala University <i>(Uppsala Universitet)</i>, Uppsala, est. 1477. 

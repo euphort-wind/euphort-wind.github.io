@@ -102,7 +102,7 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
 <b>💐 National flower: </b> Floribunda Rose <i>(Anne Beffort Rose)</i>
 
 
-<b>🦉 Local wisdom:</b> "Et muss ee sech net ginn, soulaang nach Kniddelen am Dëppe sinn." / "<i>You should not  give up as long as you still have some dumplings in the pot.</i>" — Luxembourgish proverb
+<b>🦉 Local wisdom:</b> "You should not give up as long as you still have some dumplings in the pot." / <i>"Et muss ee sech net ginn, soulaang nach Kniddelen am Dëppe sinn."</i> — Luxembourgish proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Luxembourg <i>(Universitéit Lëtzebuerg)</i>, Luxembourg City, est. 2003.  

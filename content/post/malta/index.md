@@ -125,7 +125,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 <b>💐 National flower: </b> Maltese Centaury <i>(Widnet il-Baħar)</i>
 
 
-<b>🦉 Local wisdom:</b> "Bil-flus tagħmel triq fil-baħar iżda ma tixtrix il-ġenna." / "<i>With money you can make a path in the sea, but you cannot buy a place in heaven.</i>" — Maltese proverb
+<b>🦉 Local wisdom:</b> "With money you can make a path in the sea, but you cannot buy a place in heaven." / <i>"Bil-flus tagħmel triq fil-baħar iżda ma tixtrix il-ġenna."</i> — Maltese proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Malta <i>(L-Università ta' Malta)</i>, Msida, est. 1592.  

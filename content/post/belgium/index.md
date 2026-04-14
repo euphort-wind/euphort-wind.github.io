@@ -136,7 +136,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - <u>Brussels-Capital (Regional Special):</u> Yellow Iris <i>(Iris Jaune / Gele Lis)</i>
 
 
-<b>🦉 Local wisdom:</b> "If you want butter, you have to beat it." / "<i>Si tu veux du beurre, il en faut battre. / Als je boter wilt, moet je het kloppen.</i>" — Belgian proverb
+<b>🦉 Local wisdom:</b> "If you want butter, you have to beat it." / <i>"Si tu veux du beurre, il en faut battre. / Als je boter wilt, moet je het kloppen."</i> — Belgian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The Catholic University of Leuven <i>(Katholieke Universiteit Leuven)</i>, Leuven, est. 1425. 

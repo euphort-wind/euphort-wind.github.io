@@ -117,7 +117,7 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 <b>💐 National flower: </b> Blue Cornflower <i>(Rukkilill)</i>
 
 
-<b>🦉 Local wisdom:</b> "Who wags a dog's tail except the dog itself?"  / "<i>Kes koera saba kergitab, kui koer ise.</i>" — Estonian proverb
+<b>🦉 Local wisdom:</b> "Who else will lift a dog’s tail if not the dog itself?"  / <i>"Kes koera saba kergitab, kui koer ise."</i> — Estonian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Tartu <i>(Tartu Ülikool)</i>, Tartu, est. 1632. 

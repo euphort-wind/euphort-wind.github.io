@@ -86,7 +86,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 <b>💐 National flower: </b> Cowslip Primrose <i>(Gullviva)</i>
 
 
-<b>🦉 Local wisdom:</b> "Even when the storm rages, the spinning wheel sings its song in the peace of the cottages." / "<i>Ryter än stormen, i stugornas ro spinnrocken sjunger sin visa.</i>" — Ålandic proverb
+<b>🦉 Local wisdom:</b> "Ryter än stormen, i stugornas ro spinnrocken sjunger sin visa." / <i>"Even when the storm rages, the spinning wheel sings its song in the peace of the cottages."</i> — Ålandic proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Åland University of Applied Sciences <i>(Högskolan på Åland)</i>, Mariehamn, est. 2003. 

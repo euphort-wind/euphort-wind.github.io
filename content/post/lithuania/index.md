@@ -121,7 +121,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 <b>💐 National flower: </b> Common Rue <i>(Žalioji Rūta)</i>
 
 
-<b>🦉 Local wisdom:</b> "Flax is not yet sown and they are already weaving the linen." / "<i>Linai nesėti, o jau drobes audžia.</i>" — Lithuanian Proverb
+<b>🦉 Local wisdom:</b> "The flax isn’t even sown, and they’re already weaving linen." / <i>"Linai nesėti, o jau drobes audžia."</i> — Lithuanian Proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Vilnius University <i>(Vilniaus Universitetas)</i>, Vilnius, est. 1579.  

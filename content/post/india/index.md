@@ -168,7 +168,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - <u>Karnataka (Regional Special):</u> Indian Lotus <i>(कमल / ಕಮಲ)</i>
 
 
-<b>🦉 Local wisdom:</b> "The half-filled pitcher overflows with noise, the full pitcher goes silent." / "<i>अधजल गगरी छलकत जाए, भरी गगरिया चुपके जाए ।</i>" — Indian proverb
+<b>🦉 Local wisdom:</b> "The half-filled pitcher overflows with noise, the full pitcher goes silent." / <i>"अधजल गगरी छलकत जाए, भरी गगरिया चुपके जाए ।"</i> — Indian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Calcutta <i>(कलकत्ता विश्वविद्यालय)</i>, Kolkata, est. 1857. 

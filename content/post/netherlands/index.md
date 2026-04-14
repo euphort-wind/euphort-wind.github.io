@@ -218,7 +218,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - <u>Friesland (Regional Special):</u> Fringed Water-Lily <i>(Pompeblêd)</i>
 
 
-<b>🦉 Local wisdom:</b> "Gooi nooit oude schoenen weg voordat je nieuwe hebt." / "<i>Don't throw away your old shoes until you have got new ones.</i>" — Dutch proverb
+<b>🦉 Local wisdom:</b> "Don't throw away your old shoes until you have got new ones." / <i>"Gooi nooit oude schoenen weg voordat je nieuwe hebt."</i> — Dutch proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Leiden University <i>(Universiteit Leiden)</i>, Leiden, est. 1575.  

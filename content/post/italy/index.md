@@ -348,7 +348,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - <u>Campania (Regional Special):</u> Palinuri Primrose <i>(Primula di Palinuro / Primula 'e Palinuro)</i>
 
 
-<b>🦉 Local wisdom:</b> "He who leaves the old path for the new knows what he leaves, and does not know what he finds."  / "<i>Chi lascia la via vecchia per la nuova, sa quel che lascia, e non sa quel che trova.</i>" — Italian proverb
+<b>🦉 Local wisdom:</b> "He who leaves the old path for the new knows what he leaves, and does not know what he finds."  / <i>"Chi lascia la via vecchia per la nuova, sa quel che lascia, e non sa quel che trova."</i> — Italian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Bologna <i>(Alma Mater Studiorum – Università di Bologna)</i>, Bologna, est. 1088. 

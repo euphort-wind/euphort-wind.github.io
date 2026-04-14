@@ -86,7 +86,7 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 <b>💐 National flower: </b> Easter Lily <i>(Lilium Longiflorum)</i>
 
 
-<b>🦉 Local wisdom:</b> "All the darkness in the world cannot extinguish the light of a single candle."  / "<i>Omnes tenebrae in mundo non possunt lucem unius candelae extinguere. </i>" — St. Francis of Assisi  
+<b>🦉 Local wisdom:</b> "All the darkness in the world cannot extinguish the light of a single candle."  / <i>"Omnes tenebrae in mundo non possunt lucem unius candelae extinguere."</i> — St. Francis of Assisi  
 
 <b>👨‍🎓 The oldest university:</b> The Pontifical Gregorian University <i>(Pontificia Universitas Gregoriana)</i>, Rome (Holy See), est. 1551. 
 

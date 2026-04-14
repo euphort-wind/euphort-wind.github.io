@@ -175,7 +175,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 <b>💐 National flower: </b> [unofficially] Georgian Snow Rose <i>(კავკასიური როდოდენდრონი)</i>
 
 
-<b>🦉 Local wisdom:</b> "The raven will not turn white, no matter how much you rub it with sand." / "<i>არ გათეთრდება ყორანი,რაც უნდა ხეხო ქვიშითა.</i>" — Georgian proverb
+<b>🦉 Local wisdom:</b> "The raven will not turn white, no matter how much you rub it with sand." / <i>"არ გათეთრდება ყორანი,რაც უნდა ხეხო ქვიშითა."</i> — Georgian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> Tbilisi State University <i>(თბილისის სახელმწიფო უნივერსიტეტი)</i>, Tbilisi, est. 1918.  

@@ -110,7 +110,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 <b>💐 National flower: </b> Red Poppy <i>(Lulëkuqe)</i>
 
 
-<b>🦉 Local wisdom:</b> "Only two men can disrupt an assembly: one who know and doesn't speak, and the other who doesn't know and speak." / "<i>Dy burra mund ta prishin kuvendin: njëri që di dhe nuk flet dhe tjetri që s’di dhe flet.</i>" — Albanian proverb
+<b>🦉 Local wisdom:</b> "Only two men can disrupt an assembly: one who know and doesn't speak, and the other who doesn't know and speak." / <i>"Dy burra mund ta prishin kuvendin: njëri që di dhe nuk flet dhe tjetri që s’di dhe flet."</i> — Albanian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The Polytechnic University of Tirana <i>(Universiteti Politeknik i Tiranës)</i>, Tirana, est. 1951. 
