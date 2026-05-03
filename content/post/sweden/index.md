@@ -1,7 +1,7 @@
 ---
 title: 🇸🇪 Sweden
-date: '2026-04-10'
-summary: Live in Sweden
+date: '2026-05-03'
+summary: Life in Sweden
 
 gallery_item:
   - album: sweden
