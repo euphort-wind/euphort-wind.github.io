@@ -8,8 +8,8 @@ gallery_item:
     image: 1bol.jpg
     caption: Bologna
   - album: italy
-    image: 6flo.jpg
-    caption: Florence Cathedral
+    image: 6amil.jpeg
+    caption: The Sforza Castle
   - album: italy
     image: 5ycat.jpg
     caption: Catania Cathedral
@@ -34,7 +34,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Rome, Pisa, Florence, Bologna, Rimini, Catania, Syracuse, Taormina, Castelmola, Salerno, Pompeii, Naples.<br>
+<b>🗺 Places:</b> Rome, Pisa, Florence, Bologna, Rimini, Catania, Syracuse, Taormina, Castelmola, Salerno, Pompeii, Naples, Milan.<br>
 
 <b>🏛 Top sights visited: </b>
 1. Rome
@@ -144,6 +144,21 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
     - Castel dell'Ovo <i>(Castel dell'Ovo)</i>
     - Toledo Street <i>(Via Toledo)</i>
     - L’Antica Pizzeria da Michele <i>(L’Antica Pizzeria da Michele)</i>
+13. Milan
+    - Milan Cathedral <i>(Duomo di Milano)</i>     
+    - Via Montenapoleone Fashion District <i>(Quadrilatero della Moda)</i>
+    - La Scala <i>(Teatro alla Scala)</i>
+    - The Galleria Vittorio Emanuele II <i>(Galeria Vittorio Emanuele)</i>
+    - Piazza del Duomo <i>(Piazza del Duomo)</i>
+    - The Biblioteca Ambrosiana <i>(Pinacoteca Ambrosiana)</i>
+    - Via Dante <i>(Via Dante)</i>
+    - The Sforza Castle <i>(Castello Sforzesco)</i>
+    - Sempione Park <i>(Parco Sempione)</i>
+    - Branca Tower <i>(Torre Branca)</i>
+    - The Natural History Museum <i>(Museo Civico di Storia Naturale)</i>
+    - The Cà de l'Oreggia <i>(Cà de l'Oreggia)</i>
+    - The Palazzo Invernizzi <i>(Palazzo Invernizzi)</i>
+
 
 
 <b>🎧 Local musicians: </b>
@@ -197,7 +212,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - Frittata <i>(Frittata)</i>
 - Risotto <i>(Risotto)</i>
 - Ravioli <i>(Ravioli)</i>
-- Ossobuco <i>(Osso Buco)</i>
+- Maritozzo <i>(Maritozzo)</i>
 - Panna Cotta <i>(Panna Cotta)</i>
 - Tiramisu <i>(Tiramisu)</i>
 - Italian Cheese <i>(Formaggio Italiano)</i>
@@ -252,6 +267,14 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - <u>Campania (Regional Special):</u> Sfogliatella <i>(Sfogliatelle / Sfugliatelle)</i>
 - <u>Campania (Regional Special):</u> Pastiera Napoletana <i>(Pastiera Napoletana / Pastiera Napulitana)</i>
 - <u>Campania (Regional Special):</u> Taralli <i>(Taralli / Taralle)</i>
+- <u>Lombardy (Regional Special):</u> Risotto alla Milanese <i>(Risotto alla Milanese / Risòtt Giald)</i>
+- <u>Lombardy (Regional Special):</u> Cassoeula <i>(Cazzoeula / Cassola)</i>
+- <u>Lombardy (Regional Special):</u> Ossobuco alla Milanese <i>(Ossobuco alla Milanese / Òss Bus)</i>
+- <u>Lombardy (Regional Special):</u> Mondeghili <i>(Mondeghili / Mondeghitt)</i>
+- <u>Lombardy (Regional Special):</u> Veal Milanese <i>(Cotoletta alla Milanese / Cutuletta)</i>
+- <u>Lombardy (Regional Special):</u> Panettone <i>(Panettone / Panattón)</i>
+- <u>Lombardy (Regional Special):</u> Pirlo Cocktail <i>(Pirlo / Pirlo)</i>
+
 
 
 
@@ -280,7 +303,6 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - Italian Neoclassical Architecture <i>(Architettura Neoclassica Italiana)</i> 
 - Italian Baroque Painting <i>(Pittura Barocca Italiana)</i> 
 - Italian Folklore <i>(Folclore d'Italia)</i> 
-- Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
 - Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>
 - Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
 - The Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i> 
@@ -329,6 +351,12 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - The Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
   - The Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
   - The Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
+- <u>Lombardy (Regional Special):</u> The Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
+- <u>Lombardy (Regional Special):</u> Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
+- <u>Lombardy (Regional Special):</u> The Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
+- <u>Lombardy (Regional Special):</u> The Navigli of Milan <i>(Navigli / Navili)</i>
+
+
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Republic Day of Italy <i>(Festa della Repubblica Italiana)</i>. Month: June
@@ -338,6 +366,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - <u>Tuscany (Regional Special):</u> Carnival of Viareggio <i>(Carnevale di Viareggio)</i>. Month: February or March
 - <u>Sicily (Regional Special):</u> Festival of Saint Agatha <i>(La Festa di Sant'agata / A Fest' 'i Sant'àjita)</i>. Month: February and August
 - <u>Campania (Regional Special):</u> Feast of San Gennaro <i>(La Festa di San Gennaro / Juorno 'e San Gennaro)</i>. Month: September
+- <u>Lombardy (Regional Special):</u> Ambrosian Carnival <i>(Carnevale Ambrosiano / Carnevalòne di Milano)</i>. Month: February
 
 
 <b>💐 National flower: </b> Strawberry Tree Blossom <i>(Fiore del Corbezzolo)</i>
@@ -346,6 +375,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - <u>Lazio (Regional Special):</u> Storax Flower <i>(Fiore di Storace)</i>
 - <u>Sicily (Regional Special):</u> Plumeria <i>(Plumeria / Plumeria)</i>
 - <u>Campania (Regional Special):</u> Palinuri Primrose <i>(Primula di Palinuro / Primula 'e Palinuro)</i>
+- <u>Lombardy (Regional Special):</u> Elisabetta's Catchfly <i>(Silene di Elisabetta / Silene di Elisabetta)</i> 
 
 
 <b>🦉 Local wisdom:</b> "He who leaves the old path for the new knows what he leaves, and does not know what he finds."  / <i>"Chi lascia la via vecchia per la nuova, sa quel che lascia, e non sa quel che trova."</i> — Italian proverb
