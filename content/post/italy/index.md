@@ -20,7 +20,7 @@ gallery_item:
     image: 5col.jpg
     caption: Colosseum
   - album: italy
-    image: 5naples.jpg
+    image: 5anaples.jpg
     caption: Naples
   - album: italy
     image: 2pisa.jpeg
