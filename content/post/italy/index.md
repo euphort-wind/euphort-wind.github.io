@@ -11,22 +11,22 @@ gallery_item:
     image: 6amil.jpeg
     caption: The Sforza Castle
   - album: italy
-    image: 5ycat.jpg
+    image: 4ycat.jpg
     caption: Catania Cathedral
   - album: italy
-    image: 2bridge.jpg
+    image: 7bridge.jpg
     caption: Ponte Vecchio (Florence)
   - album: italy
-    image: 3col.jpg
+    image: 5col.jpg
     caption: Colosseum
   - album: italy
-    image: 4naples.jpg
+    image: 5naples.jpg
     caption: Naples
   - album: italy
-    image: 5pisa.jpeg
+    image: 2pisa.jpeg
     caption: Leaning Tower of Pisa
   - album: italy
-    image: 6food.jpg
+    image: 8food.jpg
     caption: Pasta Carbonara & Pizza Quattro Formaggi
 
 ---
