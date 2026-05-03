@@ -1,6 +1,6 @@
 ---
 title: 🇩🇪 Germany
-date: '2025-10-30'
+date: '2026-04-29'
 summary: Trip to Germany
 
 gallery_item:

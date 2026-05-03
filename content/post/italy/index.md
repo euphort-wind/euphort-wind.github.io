@@ -1,6 +1,6 @@
 ---
 title: 🇮🇹 Italy
-date: '2025-09-10'
+date: '2026-04-30'
 summary: Trip to Italy
 
 gallery_item:
