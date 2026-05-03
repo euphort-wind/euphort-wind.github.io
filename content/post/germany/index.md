@@ -189,9 +189,9 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - <u>Bavaria (Regional Special):</u> Leberkäse <i>(Fleischkäse / Lebakaas)</i>
 - <u>Bavaria (Regional Special):</u> Weißwurst <i>(Weißwurst / Weißwuascht)</i>
 - <u>Bavaria (Regional Special):</u> Gelbwurst <i>(Gelbwurst / Gelbwuascht)</i>
+- <u>Bavaria (Regional Special):</u> Schweinshaxe <i>(Schweinshaxe / Schweinshaxn)</i>
 - <u>Bavaria (Regional Special):</u> Schweinsbraten with Beer Sauce <i>(Schweinsbraten mit Biersauce / Schweinsbratn mit Biersoß) </i>
 - <u>Bavaria (Regional Special):</u> Bavarian Cabbage <i>(Bayrisch Kraut / Bayrischkraut)</i>
-- <u>Bavaria (Regional Special):</u> Schweinshaxe <i>(Schweinshaxe / Schweinshaxn)</i>
 - <u>Bavaria (Regional Special):</u> Hefeweizen Beer <i>(Brands: "Hofbräu München", "Paulaner", "Erdinger", "Weihenstephaner")</i>
 
 
