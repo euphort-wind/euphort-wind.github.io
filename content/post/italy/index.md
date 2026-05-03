@@ -174,6 +174,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🇮🇹 Nu Genea (duo). Genre: jazz funk
 - 🇮🇹 Settembre (singer). Genre: pop
 - 🇮🇹 Vale LP (singer). Genre: pop
+- 🇮🇹 Tananai (singer). Genre: indie pop
+- 🇮🇹 Paola & Chiara (duo). Genre: dance pop
 - 🇺🇳 Eiffel 65 (band). Genre: eurodance
 - 🇺🇳 Giuseppe Ottaviani (DJ). Genre: trance
 - 🇺🇳 Benny Benassi (DJ). Genre: electro house
@@ -183,6 +185,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🇺🇳 Merk & Kremont (DJ duo). Genre: house
 - 🇺🇳 Daddy's Groove (DJ band). Genre: house
 - 🇺🇳 Ludovico Einaudi (composer). Genre: neoclassic
+- 🇺🇳 Savage (singer). Genre: italo disco
 
 <b>🎚️ Contribution to EDM: </b>
 - Italo Disco. Originated: late 1970s
