@@ -11,7 +11,7 @@ gallery_item:
     image: 2vigi.jpg
     caption: The Vigeland Park (Oslo)
   - album: norway
-    image: 3bergen.jpeg
+    image: 5zbergen.jpeg
     caption: Bryggen (Bergen)
   - album: norway
     image: 4water.jpg
@@ -23,7 +23,7 @@ gallery_item:
     image: 3aslo.jpg
     caption: The Storting
   - album: norway
-    image: 5zfred.jpg
+    image: 3zfred.jpg
     caption: Gamlebyen i Fredrikstad
   - album: norway
     image: 6far.jpg
@@ -127,7 +127,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Kos <i>(Kos)</i>
 - The Open-Air-Life <i>(Friluftsliv)</i> 
-- The Skiing Tradition <i>(Ski)</i>
+- The Nordic Skiing Tradition <i>(Nordiske Grener)</i>
 - The Dragestil Architecture <i>(Dragestil)</i>
 - Norwegian Rose-Painting <i>(Rosemaling)</i>
 - The Basse Game <i>(Basse)</i>
