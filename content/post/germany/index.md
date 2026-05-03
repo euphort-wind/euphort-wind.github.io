@@ -17,8 +17,8 @@ gallery_item:
     image: 4lahn.jpg
     caption: Lahnstein
   - album: germany
-    image: 5frank.jpeg
-    caption: The Gutenberg Monument (Frankfurt)
+    image: 5munich.jpeg
+    caption: Munich
   - album: germany
     image: 6duis.jpeg
     caption: Duisburg City Hall
@@ -84,7 +84,16 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
     - Duisburg Inner Harbour <i>(Innenhafen)</i>
     - The Church of Our Saviour <i>(Salvatorkirche)</i>
     - The Burgplatz <i>(Der Burgplatz)</i>
-
+8. Munich
+    - The Frauenkirche <i>(Dom zu Unserer Lieben Frau)</i>
+    - The Mary's Square <i>(Marienplatz)</i>
+    - The Hofbräuhaus am Platzl <i>(Hofbräuhaus am Platzl)</i>
+    - Munich Residenz <i>(Residenz)</i>
+    - The Hofgarten <i>(Hofgarten)</i>
+    - St. Peter's Church <i>(Peterskirche)</i>
+    - The Viktualienmarkt <i>(Viktualienmarkt)</i>
+    - The Englischer Garten <i>(Englischer Garten)</i>
+    - Theresienwiese <i>(Theresienwiese)</i>
 
 
 <b>🎧 Local musicians: </b>
@@ -104,6 +113,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇩🇪 Juli (band). Genre: alternative pop
 - 🇩🇪 LaFee (singer). Genre: pop
 - 🇩🇪 Revolverheld (band). Genre: pop rock
+- 🇩🇪 Oimara (singer). Genre: pop rock
 - 🇺🇳 Scorpions (band). Genre: hard rock
 - 🇺🇳 Modern Talking (duo). Genre: europop
 - 🇺🇳 Scooter (band). Genre: happy hardcore
@@ -122,6 +132,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇺🇳 Boney M (band). Genre: disco
 - 🇺🇳 C. C. Catch (singer). Genre: europop
 - 🇺🇳 Enigma (band). Genre: new age
+- 🇺🇳 Path of Samsara (band). Genre: stoner rock  
 
 
 <b>🎚️ Contribution to EDM: </b>
@@ -173,6 +184,15 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - <u>North Rhine-Westphalia (Regional Special):</u> Himmel und Erde <i>(Himmel und Erde / Himmel un Ääd)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Pumpernickel <i>(Pumpernickel / Pumpernickel)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Kölsch Beer <i>(Brands: "Gaffel Kölsch", "Früh Kölsch")</i>
+- <u>Bavaria (Regional Special):</u> Obatzda <i>(Obatzda / Obazda)</i>
+- <u>Bavaria (Regional Special):</u> Kartoffelkäse <i>(Kartoffelkäse / Erdäpfelkäse)</i>
+- <u>Bavaria (Regional Special):</u> Leberkäse <i>(Fleischkäse / Lebakaas)</i>
+- <u>Bavaria (Regional Special):</u> Weißwurst <i>(Weißwurst / Weißwuascht)</i>
+- <u>Bavaria (Regional Special):</u> Gelbwurst <i>(Gelbwurst / Gelbwuascht)</i>
+- <u>Bavaria (Regional Special):</u> Schweinsbraten with Beer Sauce <i>(Schweinsbraten mit Biersauce / Schweinsbratn mit Biersoß) </i>
+- <u>Bavaria (Regional Special):</u> Bavarian Cabbage <i>(Bayrisch Kraut / Bayrischkraut)</i>
+- <u>Bavaria (Regional Special):</u> Schweinshaxe <i>(Schweinshaxe / Schweinshaxn)</i>
+- <u>Bavaria (Regional Special):</u> Hefeweizen Beer <i>(Brands: "Hofbräu München", "Paulaner", "Erdinger", "Weihenstephaner")</i>
 
 
 <b>🎬 Local movies:</b>
@@ -182,10 +202,11 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - Who Am I <i>(Who Am I - Kein System Ist Sicher)</i>. Year: 2014. Genre: thriller
 - The Collini Case <i>(Der Fall Collini)</i>. Year: 2019. Genre: drama
 - Never Look Away <i>(Werk ohne Autor)</i>. Year: 2018. Genre: drama
-- Perfume: The Story of a Murderer <i>(Das Parfum – Die Geschichte eines Mörders)</i>. Year: 2006. Genre: drama
+- Perfume: The Story of a Murderer <i>(Das Parfum - Die Geschichte eines Mörders)</i>. Year: 2006. Genre: drama
 - A Coffee in Berlin <i>(Oh Boy)</i>. Year: 2012. Genre: tragicomedy
 - Where Is Fred? <i>(Wo ist Fred?)</i>. Year: 2006. Genre: comedy
 - 100 Things <i>(100 Dinge)</i>. Year: 2018. Genre: comedy
+- Ludwig II <i>(Ludwig II)</i>. Year: 2012. Genre: drama / history
 
 
 <b>🪔 Authentic features:</b>
@@ -197,6 +218,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - The Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
 - Mensch-Ärgere-Dich-Nicht Game <i>(Mensch Ärgere Dich Nicht)</i>
 - The Cuckoo Clocks <i>(Kuckucksuhr)</i>
+- German Beer Steins <i>(Humpen)</i>
 - German Beer Culture <i>(Bierkultur)</i>
 - German Philosophy <i>(Deutsche Philosophie)</i> 
 - German Folklore <i>(Deutsche Folklore)</i>
@@ -212,6 +234,18 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - <u>Rhineland-Palatinate (Regional Special):</u> The Westerwald Pottery <i>(Westerwälder Steinzeug)</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> Authentic Garb: Tugendpfeil <i>(Tugendpfeil)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Eau de Cologne Perfume <i>(Kölnisch Wasser)</i>
+- <u>Bavaria (Regional Special):</u> The Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
+- <u>Bavaria (Regional Special):</u> The Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
+- <u>Bavaria (Regional Special):</u> The Culture of Bavarians <i>(Bayern / Boarn)</i>
+  - The Schuhplattler Dance <i>(Schuhplattler / Schuhplattler)</i>
+  - The Aperschnalzen Tradition <i>(Aperschnalzen / Apaschnoizn)</i>
+  - The Gstanzl Singing <i>(Gstanzl / Gestanzel)</i>
+  - The Lüftlmalerei Mural Art <i>(Lüftlmalerei / Lüftelmalerei)</i>
+  - Bavarian Brotzeit <i>(Brotzeit / Brotzeit)</i>
+  - Bavarian Beer Gardens <i>(Biergarten / Bierkeller)</i>
+  - Bavarian Folklore <i>(Bayerische Folklore / Bairische Volkskultur)</i>
+  - Authentic Garb: Lederhosen & Dirndl <i>(Lederhose & Dirndl / Lederhosn & Diandl)</i>
+
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
@@ -222,7 +256,8 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - <u>Rhineland-Palatinate (Regional Special):</u> "Rhine in Flames" Festival <i>(Rhein in Flammen)</i>. Month: August
 - <u>Rhineland-Palatinate (Regional Special):</u> Wurstmarkt <i>(Wurstmarkt)</i>. Month: September
 - <u>North Rhine-Westphalia (Regional Special):</u> Cologne Carnival <i>(Kölner Karneval)</i>. Month: November
-- <u>North Rhine-Westphalia (Regional Special):</u> Düsseldorf Carnival <i>(Düsseldorfer Karneval)</i>. Month: November  
+- <u>North Rhine-Westphalia (Regional Special):</u> Düsseldorf Carnival <i>(Düsseldorfer Karneval)</i>. Month: November 
+- <u>Bavaria (Regional Special):</u> Oktoberfest <i>(Oktoberfest / D'Wiesn)</i>. Month: September to  October
 
 
 <b>💐 National flower: </b> Cornflower <i>(Kornblumen)</i>

@@ -285,6 +285,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Leopold the Cat <i>(Кот Леопольд)</i>. Year: 1975. Genre: animation (series)
 - Little Longnose <i>(Карлик Нос)</i>. Year: 2002. Genre: animation
 - Alyosha Popovich and Tugarin Zmey <i>(Алеша Попович и Тугарин Змей)</i>. Year: 2004. Genre: animation
+- Thawed Carp <i>(Карп Отмороженный)</i>. Year: 2017. Genre: tragicomedy 
 
 
 

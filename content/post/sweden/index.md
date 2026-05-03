@@ -338,7 +338,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Lagom <i>(Lagom)</i>
-- Swedish Fika Coffee Break <i>(Fika)</i>
+- Swedish Fika <i>(Fika)</i>
 - The Hambo Dance <i>(Hambo)</i>
 - The Kubb Game <i>(Kubb)</i>
 - The Dala Horses <i>(Dalahästar)</i>
