@@ -142,7 +142,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - <u>Catalonia (Regional Special):</u> Weaver's Broom <i>(Retama / Ginesta)</i>
 
 
-<b>🦉 Local wisdom:</b> "Aunque la mona se vista de seda, mona se queda." / <i>"Even if a monkey dresses in silk, it remains a monkey."</i> —  Spanish proverb
+<b>🦉 Local wisdom:</b> "Even if a monkey dresses in silk, it remains a monkey." / <i>"Aunque la mona se vista de seda, mona se queda."</i> —  Spanish proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Salamanca <i>(Universidad de Salamanca)</i>, Salamanca, est. 1218. 
