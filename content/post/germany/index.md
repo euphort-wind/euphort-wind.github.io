@@ -261,6 +261,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 
 <b>💐 National flower: </b> Cornflower <i>(Kornblumen)</i>
+- <u>Bavaria (Regional Special):</u> Edelweiss <i>(Alpen-Edelweiß / Edlweiß)</i>
 
 
 <b>🦉 Local wisdom:</b> "The devil's favorite piece of furniture is the long bench." / <i>"Des Teufels liebstes Möbelstück ist die lange Bank."</i> — German proverb
