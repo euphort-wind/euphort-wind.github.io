@@ -244,7 +244,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
   - Bavarian Brotzeit <i>(Brotzeit / Brotzeit)</i>
   - Bavarian Beer Gardens <i>(Biergarten / Bierkeller)</i>
   - Bavarian Folklore <i>(Bayerische Folklore / Bairische Volkskultur)</i>
-  - Authentic Garb: Lederhosen & Dirndl <i>(Lederhose & Dirndl / Lederhosn & Diandl)</i>
+  - Authentic Garb: Lederhosen & Dirndl <i>(Lederhose und Dirndl / Lederhosn un Diandl)</i>
 
 
 

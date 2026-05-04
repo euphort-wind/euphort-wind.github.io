@@ -112,6 +112,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
   - Gözleme with Sugar <i>(Şekerli Gözleme)</i>
 - Börek <i>(Börek)</i>
 - Şakşuka <i>(Şakşuka)</i>
+- Karnıyarık <i>(Karnıyarık)</i>
 - Döner Kebap <i>(Döner Kebap)</i>
 - Kokoreç <i>(Kokoreç)</i>
 - Türlü <i>(Türlü)</i>
