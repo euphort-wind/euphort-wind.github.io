@@ -158,11 +158,12 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 
 <b>🪔 Authentic features:</b>
 - The Gusans & Gusan Songs <i>(Գուսաններ & Գուսան երգեր)</i>
-- The Oriental Orthodoxy <i>(Արևելյան ուղղափառ եկեղեցիներ)</i>
 - The Khachkars <i>(խաչքար)</i>
 - The Pulpulaks <i>(պուլպուլակ)</i>
 - The Kochari Dance <i>(Քոչարի)</i>
 - The Berd Dance <i>(Բերդ)</i>
+- The Oriental Orthodoxy <i>(Արևելյան ուղղափառ եկեղեցիներ)</i>
+- The Title of Catholicos of All Armenians <i>(Ամենայն Հայոց Կաթողիկոս)</i>
 - The Title of Nakharar <i>(նախարար)</i>
 - Armenian Alphabet <i>(Հայոց գրեր)</i>
 - Armenian Carpets <i>(Հայկական գորգ)</i>
