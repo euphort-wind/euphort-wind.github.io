@@ -109,7 +109,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 <b>💐 National flower: </b> White Egyptian Lotus <i>(زهرة اللوتس البيضاء)</i>
 
 
-<b>🦉 Local wisdom:</b> "He who was burned by hot soup blows even on yogurt." / <i>"اللى اتلسع من الشوربة ينفخ فى الزبادى"</i> — Egyptian proverb
+<b>🦉 Local wisdom:</b> "He whose tongue has been burned by hot soup blows on yogurt." / <i>"اللى اتلسع من الشوربة ينفخ فى الزبادى"</i> — Egyptian proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The Al-Azhar University <i>(جامعة الأزهر الشريف)</i>, Cairo, est. 970.  
