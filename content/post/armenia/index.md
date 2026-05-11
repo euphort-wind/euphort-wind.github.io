@@ -106,7 +106,7 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 - 🇺🇳 Serj Tankian <i>(singer)</i>. Genre: nu metal
 
 <b>🎚️ Contribution to EDM: </b>
-- Rabiz. Originated: early 1990s
+- Modern Rabiz. Originated: early 1990s
 
 
 <b>🥘 Local food & drinks: </b>
