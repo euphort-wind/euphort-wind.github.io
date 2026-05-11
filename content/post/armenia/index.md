@@ -109,7 +109,7 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 - Rabiz. Originated: early 1990s
 
 
-<b>🥘Local food & drinks: </b>
+<b>🥘 Local food & drinks: </b>
 - Matzoon <i>(մածուն)</i>
 - Armenian Soups <i>(Հայկական ապուրներ)</i>
     - Spas Soup <i>(Սպաս)</i>
