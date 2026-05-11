@@ -37,6 +37,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 <b>🗺 Places:</b> Paris, Versailles.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Paris
     - Notre-Dame de Paris <i>(Cathédrale Notre-Dame de Paris)</i>
     - The Louvre Museum <i>(Musée du Louvre)</i>
@@ -64,7 +66,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
     - The Hôtel de Ville <i>(Hôtel de Ville)</i>
     - The Palace of Justice <i>(Palais de Justice)</i>
     - Versailles Cathedral <i>(Cathédrale Saint-Louis de Versailles)</i>
-
+{{< /spoiler >}}
     
 <b>🎧 Local musicians: </b>
 - 🇫🇷 Zaz (singer). Genre: nouvelle chanson

@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 <b>🗺 Places:</b> Patong, Kathu, Racha Yai.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Patong
     - Bangla Road <i>(ถนนบางลา)</i>
     - Patong Beach <i>(หาดป่าตอง)</i>
@@ -50,7 +52,7 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
     - Siam Bay <i>(อ่าวปะตก)</i>
     - Kon Kare Bay <i>(อ่าวขอนแค)</i>
     - Racha Island Resort <i>(ราชา ไอส์แลนด์ รีสอร์ท)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇹🇭 Safeplanet (band). Genre: pop

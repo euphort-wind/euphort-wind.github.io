@@ -37,6 +37,8 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 <b>🗺 Places:</b> Tallinn, Tartu, Värska.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Tallinn
     - Town Hall Square <i>(Raekoja Plats)</i>
     - Town Hall Pharmacy <i>(Raeapteek)</i>
@@ -60,7 +62,7 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
     - General Reek's House <i>(Reegi Maja)</i>
     - Värska Spring <i>(Värska Allikas)</i>
     - Café Seto Tsäimaja <i>(Seto Tsäimaja)</i>
-  
+{{< /spoiler >}}  
 
 <b>🎧 Local musicians: </b>
 - 🇪🇪 Laura Põldvere (singer). Genre: pop

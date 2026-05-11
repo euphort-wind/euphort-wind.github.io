@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 <b>🗺 Places:</b> Bucharest, Sinaia, Bran, Brașov, Prejmer, Sfântu Gheorghe, Sighișoara. <br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Bucharest
     - Old Town Bucharest <i>(Centrul Istoric al Bucureștiului)</i>
     - The Parliament of Romania <i>(Parlamentul României)</i>
@@ -81,7 +83,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
     - Sighișoara City Hall <i>(Primăria Municipiului)</i>
     - The Bootmakers' Tower <i>(Turnul Cizmarilor)</i>
     - The Stag House <i>(Casa cu Cerb)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇷🇴 Akcent (band). Genre: romanian popcorn

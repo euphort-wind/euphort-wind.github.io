@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 <b>🗺 Places:</b> Vilnius, Kaunas, Trakai.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Vilnius
     - The Gate of Dawn and Gate Street <i>(Aušros Vartai ir Aušros Vartų gatvė)</i>
     - Vilnius Town Hall Square <i>(Vilniaus Rotušės Aikštė)</i>
@@ -63,7 +65,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
     - Trakai Peninsula Castle <i>(Trakų Pusiasalio Pilis)</i>
     - Karaites' Street <i>(Karaimų Gatvė)</i>
     - Galve Lake <i>(Galvės Ežeras)</i>
-  
+{{< /spoiler >}}  
 
 <b>🎧 Local musicians: </b>
 - 🇱🇹 Justinas Jarutis (singer). Genre: pop

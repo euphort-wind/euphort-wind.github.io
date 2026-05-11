@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 <b>🗺 Places:</b> Gdańsk, Sopot, Gdynia, Władysławowo, Hel. <br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Gdańsk
     - Rybackie Street & Ołowianka Island <i>(Rybackie Pobrzeże i Wyspa Ołowianka)</i>
     - Gdańsk City Hall <i>(Ratusz Głównego Miasta w Gdańsku)</i>
@@ -66,6 +68,8 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
     - Wiejska Street <i>(Ulica Wiejska)</i>
     - The Fisheries Museum <i>(Muzeum Rybołówstwa)</i>
     - The Fokarium <i>(Fokarium)</i>
+{{< /spoiler >}}
+
 
 <b>🎧 Local musicians: </b>
 - 🇵🇱 Brodka (singer). Genre: pop

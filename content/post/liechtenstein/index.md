@@ -37,6 +37,8 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
 <b>🗺 Places:</b> Vaduz, Triesen, Triesenberg, Schaan.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Vaduz
     - Vaduz Castle <i>(Schloss Vaduz)</i>
     - Vaduz Cathedral <i>(St. Florinskirche)</i>
@@ -60,7 +62,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
     - Schaan Parish Church <i>(Pfarrkirche St. Laurentius)</i>
     - The TAK Theater Liechtenstein <i>(TAK Theater)</i> 
     - DoMus: Museum & Gallery <i>(DoMus: Galerie & Museum)</i> 
-
+{{< /spoiler >}}
 
 
 <b>🎧 Local musicians: </b>

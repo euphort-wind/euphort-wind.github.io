@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 <b>🗺 Places:</b> Brussels, Saint-Josse-ten-Noode, Schaerbeek, Antwerp.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Brussels
     - The Grand Square <i>(Grand-Place / Grote Markt)</i>
     - The Manneken Pis <i>(Petit Julien / Manneken Pis)</i>
@@ -63,7 +65,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
     - The Vlaeykensgang <i>(Vlaaikensgang)</i>
     - De Zwarte Panter <i>(De Zwarte Panter)</i>
     - Antwerp Diamond District <i>(Diamantkwartier)</i>
-
+{{< /spoiler >}}
 
 
 <b>🎧 Local musicians: </b>

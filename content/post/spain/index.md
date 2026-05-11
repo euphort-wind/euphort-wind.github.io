@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 <b>🗺 Places:</b> Barcelona, Salou, Monistrol de Montserrat.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Barcelona
     - Basilica de la Sagrada Familia <i>(Basílica i Temple Expiatori de la Sagrada Família)</i>
     - Park Güell <i>(Parc Güell)</i>
@@ -54,6 +56,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
     - The Museum of Montserrat <i>(Museo de Montserrat)</i>
     - Our Lady of Montserrat <i>(Mare de Déu de Montserrat)</i>
     - Funicular Aeri de Montserrat <i>(Funicular Aeri de Montserrat)</i>
+{{< /spoiler >}}
 
 
 <b>🎧 Local musicians: </b>

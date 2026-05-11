@@ -38,6 +38,8 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 <b>🗺 Places:</b> Budapest, Balatonfüred, Tihany, Székesfehérvár.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Budapest
     - Hungarian Parliament Building <i>(Országház)</i>
     - The Fisherman's Bastion <i>(Halászbástya)</i>
@@ -77,7 +79,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
     - Városház Square <i>(Városház Tér)</i>
     - Cathedral Basilica <i>(Szent István-Székesegyház)</i>
     - Saint Anne Chapel <i>(Szent Anna Kápolna)</i>
-
+{{< /spoiler >}}
 
 
 

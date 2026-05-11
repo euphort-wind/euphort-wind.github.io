@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 <b>🗺 Places:</b> Ayia Napa, Lefkara, Kakopetria, Limassol.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Ayia Napa
     - Cape Greco National Forest Park <i>(Κάβο Γκρέκο)</i>
     - Ayia Napa Square <i>(Πλατεία Αγίας Νάπας)</i>
@@ -55,7 +57,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
     - Limassol Molos <i>(Μόλος Λεμεσού)</i>
     - Limassol Castle <i>(Κάστρο Λεμεσού)</i>
     - Limassol Marina <i>(Μαρίνα Λεμεσού)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇨🇾 Loukas Yorkas (singer). Genre: pop

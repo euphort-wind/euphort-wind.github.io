@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 <b>🗺 Places:</b> Bishkek, Cholpon-Ata, Karakol, Tosor, Barskoon, Jeti-Ögüz, Boz-Uchuk.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Bishkek
     - Ala-Too Square <i>(Ала-тоо Аянты)</i>
     - Victory Square <i>(Жеңиш Аянты)</i>
@@ -64,7 +66,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
     - Jeti-Ögüz Rocks <i>(Жети-Өгүз Аскалары)</i>
 7. Boz-Uchuk     
     - Boz-Uchuk Gorge <i>(Боз-Учук)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇰🇬 Mirbek Atabekov (singer). Genre: pop

@@ -37,13 +37,15 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 <b>🗺 Places:</b> Sharm El-Sheikh.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Sharm El-Sheikh
     - Ras Mohamed Nature Reserve <i>(راس محمد)</i>
     - Sharm El-Sheikh Old Market <i>(السوق القديم)</i>
     - Shark's Bay Beach <i>(خليج القرش)</i>
     - The Bedouin Village <i>(القرية البدوية)</i>
     - Naama Bay Promenade <i>(خليج نعمة)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇪🇬 Hisham Abbas (singer). Genre: pop

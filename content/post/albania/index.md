@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 <b>🗺 Places:</b> Tirana, Krujë, Durrës.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Tirana
     - The Skanderbeg Square <i>(Sheshi Skënderbej)</i>
     - The Fortress of Justinian <i>(Kalaja e Justinianit)</i>
@@ -60,7 +62,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
     - The Town Square of Durrës <i>(Sheshi Liria)</i>
     - The Royal Villa of Durrës <i>(Vila Mbretërore e Durrësit)</i>
     - The Byzantine Forum <i>(Forumi Bizantin)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇦🇱 Alban Skenderaj (singer). Genre: pop

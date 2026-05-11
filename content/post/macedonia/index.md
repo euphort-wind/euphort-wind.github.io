@@ -37,6 +37,8 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 <b>🗺 Places:</b> Skopje, Ohrid, Bitola.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Skopje
     - Macedonia Square <i>(Плоштад Македонија)</i>
     - The Skopje Fortress <i>(Скопско Кале)</i>
@@ -68,7 +70,7 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
     - The Old Bazaar of Bitola <i>(Стара Чаршија)</i>
     - Heraclea Lyncestis Archeological Park <i>(Хераклеја Линкестис)</i>
     - The City Park <i>(Градски Парк)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇲🇰 Vlatko Lozanoski (singer). Genre: pop

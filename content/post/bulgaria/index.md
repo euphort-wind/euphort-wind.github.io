@@ -37,6 +37,8 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 <b>🗺 Places:</b> Sofia, Nessebar, Burgas, Varna, Pomorie, Sveti Vlas, Byala, Obzor, Sozopol.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Sofia
     - St. Alexander Nevski Cathedral <i>(Храм-Паметник "Свети Александър Невски")</i>
     - Sofia Central Mineral Baths <i>(Централна Минерална Баня)</i>
@@ -89,7 +91,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
     - Sanctuary of Demeter and Persephone <i>(Светилище на Деметра и Персефона)</i> 
     - St. Ivan Island <i>(Остров св. Иван)</i> 
     - St. Cyricus Island <i>(Остров св. Кирик)</i> 
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇧🇬 Dara (singer). Genre: pop

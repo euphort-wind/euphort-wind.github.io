@@ -37,6 +37,8 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
 <b>🗺 Places:</b> Luxembourg City, Mersch.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Luxembourg City
     - The Adolphe Bridge <i>(Adolphe-Bréck)</i>
     - The Constitution Square <i>(Place de la Constitution)</i>
@@ -56,7 +58,7 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
     - Roman Villa in Mersch <i>(Réimesch Villa zu Miersch)</i>
     - Mersch Municipal Park <i>(Gemengepark zu Miersch)</i>
     - The National Literature Centre <i>(Lëtzebuerger Literaturarchiv)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇱🇺 Kinima Asbl (project). Genre: pop

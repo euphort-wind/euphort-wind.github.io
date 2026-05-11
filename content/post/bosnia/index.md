@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 <b>🗺 Places:</b> Sarajevo, Mostar, Blagaj, Kravice, Počitelj.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Sarajevo
     - The Baščaršija <i>(Baščaršija)</i>
     - The Latin Bridge <i>(Latinska Ćuprija)</i>
@@ -64,7 +66,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
     - The Počitelj Citadel <i>(Počiteljska Tvrđava)</i>
     - Gavrankapetanović House <i>(Gavrankapetanovića Kuća)</i>
     - The Počitelj Clock Tower <i>(Sahat Kula)</i>
-     
+{{< /spoiler >}}     
 
 <b>🎧 Local musicians: </b>
 - 🇧🇦 Božo Vrećo (singer). Genre: sevdah

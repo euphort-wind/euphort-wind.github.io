@@ -37,6 +37,8 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 <b>🗺 Places:</b> Astana, Kostanay, Aktau, Kokshetau.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Astana
     - Bayterek Tower <i>(Бәйтерек)</i>
     - Khan Shatyr <i>(Хан Шатыр)</i>
@@ -69,7 +71,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
     - Botanical Garden <i>(Ботаникалық Бақ)</i>
     - Marriage Palace <i>(Неке Сарайы)</i>
     - Aktau Philharmonic Society <i>(Маңғыстау Облыстық Филармониясы)</i>
- 
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇰🇿 Adam (singer). Genre: pop 

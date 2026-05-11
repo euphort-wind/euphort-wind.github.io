@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 <b>🗺 Places:</b> Rhodes, Lindos, Agios Nikolaos, Heraklion, Gournes, Oia.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Rhodes
     - Old Town Rhodes <i>(Παλιά Πόλη της Ρόδου)</i>
     - Palace of the Grand Master of the Knights of Rhodes <i>(Παλάτι του Μεγάλου Μαγίστρου)</i>
@@ -66,7 +68,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
     - Amoudi Bay <i>(Όρμος Αμμούδι)</i>
 6. Gournes
     - Cretaquarium <i>(Θαλασσόκοσμος)</i> 
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇬🇷 Antique (band). Genre: pop

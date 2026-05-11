@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 <b>🗺 Places:</b> Oslo, Bergen, Flåm, Fredrikstad, Moss, Horten.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Oslo
     - The Norwegian National Opera & Ballet <i>(Den Norske Opera & Ballett)</i>
     - Vigeland Sculpture Park <i>(Vigelandsanlegget)</i>
@@ -74,6 +76,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
     - Karljohansvern <i>(Karljohansvern)</i>
     - KNM Utstein <i>(KNM Utstein)</i>
     - Midgard Vikingcenter <i>(Vikingsenter)</i>
+{{< /spoiler >}}
 
    
 <b>🎧 Local musicians: </b>

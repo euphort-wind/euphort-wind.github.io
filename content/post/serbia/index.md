@@ -37,6 +37,8 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 <b>🗺 Places:</b> Belgrade, Novi Sad, Sremski Karlovci.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Belgrade
     - The Belgrade Fortress <i>(Београдска Тврђава)</i>
     - The Church of Saint Sava <i>(Храм Светог Саве)</i>
@@ -73,7 +75,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
     - The Karlovci Gymnasium <i>(Карловачка Гимназија)</i>
     - The Church of St. Peter and Paul <i>(Доња Црква)</i>
     - The Chapel of Peace <i>(Капела Мира)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇷🇸 Breskvica (singer). Genre: turbo folk

@@ -38,6 +38,8 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 <b>🗺 Places:</b> Helsinki, Vaasa.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Helsinki
     - Temppeliaukio Church <i>(Temppeliaukion Kirkko)</i>
     - Sea Fortress Suomenlinna <i>(Suomenlinna)</i>
@@ -58,7 +60,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
     - Brage Open-Air Museum <i>(Bragen Ulkoilmamuseo)</i>
     - Vaasa City Art Gallery <i>(Vaasan Taidehalli)</i>
     - Vaasa Water Tower <i>(Vaasan Vesitorni)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇫🇮 Portion Boys (band). Genre: pop

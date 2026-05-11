@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 <b>🗺 Places:</b> Valletta, Birgu, St. Paul's Bay, Rabat, Mdina, Mellieħa.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Valletta
     - Tritons' Fountain <i>(Il-Funtana tat-Tritoni)</i>
     - St. John's Co-Cathedral <i>(Kon-Katidral ta' San Ġwann)</i>
@@ -69,7 +71,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
     - The Parish Church of the Nativity of the Virgin Mary <i>(Knisja Parrokjali tat-Twelid tal-Vergni Marija)</i>
     - Cave Dwellings <i>(Għerien tat-Trogloditi)</i>
     - Popeye Village <i>(Popeye Village)</i>
-    
+{{< /spoiler >}}    
 
 <b>🎧 Local musicians: </b>
 - 🇲🇹 AIDAN (singer). Genre: pop

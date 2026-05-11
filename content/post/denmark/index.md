@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 <b>🗺 Places:</b> Copenhagen, Helsingør, Frederikshavn, Sæby. <br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Copenhagen
     - The New Harbour <i>(Nyhavn)</i>
     - The Little Mermaid Statue <i>(Den Lille Havfrue)</i>
@@ -65,7 +67,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
     - Sæby Watermill <i>(Sæby Vandmølle)</i>
     - Sæby Museum <i>(Kystmuseet Sæby)</i>
     - Mini Sæby <i>(Minibyen Sæby)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇩🇰 Kim Larsen (singer). Genre: retro pop

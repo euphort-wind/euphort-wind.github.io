@@ -37,6 +37,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 <b>🗺 Places:</b> Candolim, Vijayapura, Badami.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Candolim
     - Candolim Beach <i>(कैंडोलिम बीच)</i>
     - Calangute Beach <i>(कलंगुट बीच)</i>
@@ -53,7 +55,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
     - Gol Gumbaz <i>(गोल गुम्बज)</i>
     - Ibrahim Roza <i>(इब्राहीम रोज़ा)</i>
     - Jama Mosque <i>(जामा मस्जिद)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇮🇳 A. R. Rahman (singer). Genre: film score

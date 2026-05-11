@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 <b>🗺 Places:</b> Frankfurt am Main, Koblenz, Lahnstein, Cologne, Düsseldorf, Bochum, Duisburg, Munich.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Frankfurt am Main
     - Römerberg <i>(Römerberg)</i>
     - Museum Embankment <i>(Museumsufer)</i> 
@@ -94,7 +96,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
     - The Viktualienmarkt <i>(Viktualienmarkt)</i>
     - The Englischer Garten <i>(Englischer Garten)</i>
     - Theresienwiese <i>(Theresienwiese)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇩🇪 Rammstein (band). Genre: industrial metal

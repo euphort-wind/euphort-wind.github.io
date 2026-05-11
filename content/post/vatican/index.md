@@ -38,6 +38,8 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 <b>🗺 Places:</b> Vatican City.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Vatican City
     - St. Peter's Basilica <i>(Basilica Sancti Petri)</i>
     - Vatican Museums <i>(Musea Vaticana)</i>
@@ -45,7 +47,7 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
     - Gardens of Vatican City <i>(Horti Civitatis Vaticanae)</i>
     - Apostolic Palace <i>(Palatium Apostolicum)</i>
     - St. Peter's Square <i>(Forum Sancti Petri)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇻🇦 Sistine Chapel Choir (choir). Genre: religious

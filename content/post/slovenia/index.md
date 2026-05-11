@@ -38,6 +38,8 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 <b>🗺 Places:</b> Ljubljana, Kranj, Bled.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Ljubljana
     - Ljubljana Castle <i>(Ljubljanski Grad)</i>
     - Ljubljana Central Market <i>(Osrednja Ljubljanska Tržnica)</i>
@@ -64,7 +66,7 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
     - St. Martin's Parish Church <i>(Župnijska Cerkev Svetega Martina)</i>
     - Villa Zlatorog <i>(Vila Zlatorog)</i>
     - Gostilna Pri Planincu <i>(Gostilna Pri Planincu)</i>
-
+{{< /spoiler >}}
     
 
 <b>🎧 Local musicians: </b>

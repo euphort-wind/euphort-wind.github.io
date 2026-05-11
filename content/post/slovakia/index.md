@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 <b>🗺 Places:</b> Bratislava, Banská Štiavnica, Trnava, Zvolen.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Bratislava
     - Bratislava Castle <i>(Bratislavský Hrad)</i>
     - The Main Square <i>(Hlavné Námestie)</i>
@@ -71,7 +73,9 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
     - Finkova Kúria <i>(Finkova Kúria)</i>
     - The Church of St. Elizabeth <i>(Kostol Sv. Alžbety)</i>
     - Námestie SNP <i>(Námestie SNP)</i>
-   
+{{< /spoiler >}}
+
+
 <b>🎧 Local musicians: </b>
 - 🇸🇰 Sara Rikas (singer). Genre: R&B
 - 🇸🇰 Zuzana Smatanová (singer). Genre: pop

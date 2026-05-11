@@ -37,6 +37,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 <b>🗺 Places:</b> Rome, Pisa, Florence, Bologna, Rimini, Catania, Syracuse, Taormina, Castelmola, Salerno, Pompeii, Naples, Milan.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Rome
     - The Colosseum <i>(Colosseo)</i>
     - The Basilica of Saint Mary Major <i>(Basilica di Santa Maria Maggiore)</i>
@@ -158,7 +160,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
     - The Natural History Museum <i>(Museo Civico di Storia Naturale)</i>
     - The Cà de l'Oreggia <i>(Cà de l'Oreggia)</i>
     - The Palazzo Invernizzi <i>(Palazzo Invernizzi)</i>
-
+{{< /spoiler >}}
 
 
 <b>🎧 Local musicians: </b>

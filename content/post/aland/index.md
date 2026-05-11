@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 <b>🗺 Places:</b> Mariehamn, Eckerö.
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Eckerö
     - The Post Office <i>(Post- och Tullhus)</i>
     - The Käringsunds Lighthouse <i>(Käringsunds Fyr)</i>
@@ -47,6 +49,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
     - The Sea Quarter <i>(Sjökvarteret)</i>
     - The Town Hall <i>(Mariehamns Stadshus)</i>
     - Saint George Church <i>(S:t Görans Kyrka)</i>
+{{< /spoiler >}}
 
 
 <b>🎧 Local musicians: </b>

@@ -39,6 +39,8 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 <b>🗺 Places:</b> İstanbul, Side, Belek, Kemer, Demre, Marmaris, Selçuk, Pamukkale, Antalya.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. İstanbul
     - Hagia Sophia <i>(Ayasofya)</i>
     - The Blue Mosque <i>(Sultanahmet Camii)</i>
@@ -86,7 +88,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
     - Belek Beach <i>(Belek)</i>
 9. Side
     - Side Beach <i>(Side)</i>  
-
+{{< /spoiler >}}
  
 <b>🎧 Local musicians: </b>
 - 🇹🇷 Tarkan (singer). Genre: pop

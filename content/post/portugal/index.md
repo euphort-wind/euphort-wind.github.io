@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 <b>🗺 Places:</b> Lisbon, Algés, Cascais, Sintra. <br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Lisbon
     - Santa Justa Lift <i>(Elevador de Santa Justa)</i>
     - Rua Augusta Street <i>(Rua Augusta)</i>
@@ -62,7 +64,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
     - Sintra National Palace <i>(Palácio Nacional de Sintra)</i>
     - Quinta da Regaleira <i>(Quinta da Regaleira)</i>
     - Moorish Castle <i>(Castelo dos Mouros)</i>
-    
+{{< /spoiler >}}    
 
 <b>🎧 Local musicians: </b>
 - 🇵🇹 Kura (DJ). Genre: house

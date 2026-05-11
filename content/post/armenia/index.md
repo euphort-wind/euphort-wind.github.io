@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 <b>🗺 Places:</b> Yerevan, Garni, Lusarat, Areni, Goris, Khndzoresk, Tatev, Sevan, Dilijan, Gyumri. 
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Yerevan
     - The Cascade <i>(Կասկադ)</i>
     - The Matenadaran <i>(Մատենադարան)</i>
@@ -90,7 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
     - Gyumri Central Market <i>(Գյումրու կենտրոնական շուկան)</i>
     - Dzitoghtsyan Museum of National Architecture <i>(Ձիթողցոնց տուն-թանգարան)</i>
     - The Mother Armenia <i>(Մայր Հայաստան)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇦🇲 Aram Mp3 <i>(singer)</i>. Genre: pop

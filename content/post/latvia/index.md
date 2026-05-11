@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 <b>🗺 Places:</b> Riga, Jūrmala, Tukums.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Riga
     - Old Riga <i>(Vecrīga)</i>
     - House of the Blackheads <i>(Melngalvju Nams)</i>
@@ -61,7 +63,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
     - Tukums Museum <i>(Tukuma Muzejs)</i>
     - The Castle Tower of Tukums <i>(Tukuma Pils Tornis)</i>
     - Harmony Street <i>(Harmonijas Iela)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇱🇻 Prāta Vētra / Brainstorm (band). Genre: pop 

@@ -37,6 +37,8 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 <b>🗺 Places:</b> San Marino City.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. San Marino City
     - The Liberty Square <i>(Piazza della Libertà)</i>
     - The Crossbowmen Quarry <i>(Cava dei Balestrieri)</i>
@@ -46,7 +48,7 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
     - The Torture Museum <i>(Museo della Tortura)</i>
     - Chiesa di San Francesco <i>(Chiesa di San Francesco)</i>
     - Giuseppe Garibaldi Monument <i>(Monumento a Giuseppe Garibaldi)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇸🇲 Little Tony (singer). Genre: retro pop

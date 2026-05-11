@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 <b>🗺 Places:</b> Amsterdam, Haarlem, Utrecht, Leiden, Leeuwarden, The Hague.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Amsterdam
     - Damrak Street <i>(Damrak)</i>
     - Dam Square <i>(De Dam)</i>
@@ -90,7 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
     - The Kunstmuseum Den Haag <i>(Kunstmuseum Den Haag)</i>
     - The Passage <i>(De Passage)</i>
     - The Grote Markt <i>(De Grote Markt)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇳🇱 André Hazes (singer). Genre: pop

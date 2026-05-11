@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 <b>🗺 Places:</b> Prague, Karlštejn, Kutná Hora.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Prague
     - Prague Castle <i>(Pražský Hrad)</i>
     - St. Vitus Cathedral <i>(Svatovítská Katedrála)</i>
@@ -61,6 +63,8 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
     - Czech Museum of Silver <i>(České Muzeum Stříbra)</i>
     - Plague Column <i>(Morový Sloup)</i>
     - Gothic Stone Fountain <i>(Kamenná Kašna)</i>
+{{< /spoiler >}}
+
 
 <b>🎧 Local musicians: </b>
 - 🇨🇿 SLZA (duo). Genre: pop

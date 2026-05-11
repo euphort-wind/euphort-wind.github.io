@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 <b>🗺 Places:</b> Tbilisi, Mtskheta, Sighnaghi, Telavi, Kvareli, Udabno, Kachreti.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Tbilisi
     - Abanotubani <i>(აბანოთუბანი)</i>  
     - Old Town Tbilisi <i>(ძველი თბილისი)</i>
@@ -73,7 +75,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
     - David Gareji Monastery <i>(დავითგარეჯის სამონასტრო კომპლექსი)</i>
 7. Kachreti
     - Ambassadori Golf Club <i>(ამბასადორის გოლფის კლუბი)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇬🇪 Tamada (singer). Genre: ethnic house

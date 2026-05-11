@@ -36,6 +36,8 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 <b>🗺 Places:</b> Zagreb, Zadar.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Zagreb
     - Ban Jelačić Square <i>(Trg Bana Jelačića)</i>
     - Croatian National Theatre <i>(Hrvatsko Narodno Kazalište)</i>
@@ -56,7 +58,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
     - Museum of Ancient Glass <i>(Muzej Antičkog Stakla)</i>
     - The Five Wells Square <i>(Trg Pet Bunara)</i>
     - Park Vladimira Nazora <i>(Perivoj Vladimira Nazora)</i>    
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇭🇷 Miach (singer). Genre: pop

@@ -37,6 +37,8 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 <b>🗺 Places:</b> Petra, Aqaba.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Petra
     - The Siq <i>(السيق)</i>
     - Al-Khazneh Treasury <i>(الخزنة)</i>
@@ -47,7 +49,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
     - Aqaba Flagpole <i>(سارية العلم العقبة)</i>
     - Aqaba Harbor <i>(ميناء العقبة)</i>
     - Al-Sharif Al-Hussein Bin Ali Mosque <i>(مسجد الشريف الحسين بن علي في العقبة)</i>
-
+{{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇯🇴 Aziz Maraka (singer). Genre: pop

@@ -37,6 +37,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 <b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Zelyonaya Polyana, Kusimovsky Rudnik, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Kyshtym, Aleksandrovskii-Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralnye Vody, Fiagdon, Dargavs, Fasnal, Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
 
 <b>🏛 Top sights visited: </b>
+
+{{< spoiler text="Click to view" >}}
 1. Moscow
     - St. Basil's Cathedral <i>(Собор Василия Блаженного)</i>
     - The Cathedral of Christ the Saviour <i>(Храм Христа Спасителя)</i>
@@ -202,7 +204,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Orenburg Central Waterfront <i>(Оренбургская Набережная)</i>
     - Water Tower <i>(Водонапорная Башня)</i>
     - Zelyonaya Roscha Park <i>(Парк "Зелёная Роща")</i>
-
+{{< /spoiler >}}
   
 <b>🎧 Local musicians: </b>
 - 🇷🇺 Viktor Tsoi (singer). Genre: post punk
