@@ -37,11 +37,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 <b>🏛 Top sights visited: </b>
 
-{{< spoiler text="Click to view the spoiler" >}}
-This is the hidden content! Markdown works **perfectly**.
-{{< /spoiler >}}
-
-
+{{< spoiler text="Click to View Places (58)" >}}
 1. Stockholm
     - Old Town Stockholm <i>(Gamla Stan)</i>
     - Riddarholmen Church <i>(Riddarholmskyrkan)</i>
@@ -265,8 +261,12 @@ This is the hidden content! Markdown works **perfectly**.
 58. Kristinehamn
     - Wallnerska Villa <i>(Wallnerska Villan)</i>
     - Sockerslottet <i>(Sockerslottet)</i>
-58. Karlsborg
+59. Karlsborg
     - Karlsborg Fortress <i>(Karlsborgs Fästning)</i>
+{{< /spoiler >}}
+
+
+
 
 <b>🎧 Local musicians: </b>
 - 🇸🇪 Tomas Ledin (singer). Genre: pop
