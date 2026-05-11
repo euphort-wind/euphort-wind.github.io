@@ -37,7 +37,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 <b>🏛 Top sights visited: </b>
 
-{{< spoiler text="Click to View Places" >}}
+{{< spoiler text="Click to view" >}}
 1. Stockholm
     - Old Town Stockholm <i>(Gamla Stan)</i>
     - Riddarholmen Church <i>(Riddarholmskyrkan)</i>
