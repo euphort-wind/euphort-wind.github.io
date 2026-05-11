@@ -36,6 +36,13 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 <b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Brännö, Styrsö, Donsö, Vrångö, Öckerö, Hönö, Björkö,  Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna, Lödöse, Halmstad, Nödinge-Nol, Karlstad, Skövde, Mariestad, Herrljunga, Arvika, Kristinehamn, Karlsborg. <br>
 
 <b>🏛 Top sights visited: </b>
+
+{{</* spoiler text="Cities, towns, villages... ()" */>}}
+You found me!
+Markdown is **supported**.
+{{</* /spoiler */>}}
+
+
 1. Stockholm
     - Old Town Stockholm <i>(Gamla Stan)</i>
     - Riddarholmen Church <i>(Riddarholmskyrkan)</i>
