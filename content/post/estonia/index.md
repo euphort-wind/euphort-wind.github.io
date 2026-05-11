@@ -100,6 +100,7 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - The Kiiking <i>(Kiiking)</i>
 - Estonian E-Government <i>(E-Riik)</i>
 - Estonian Mythology <i>(Eesti Mütoloogia)</i>
+- Estonian Runic Singing <i>(Regilaul)</i>
 - The Epic of Kalevipoeg <i>(Kalevipoeg: Eesti Rahva Eepos)</i>
 - Authentic Musical Instrument: Kannel <i>(Kannel)</i>
 - <u>Võru (Regional Special):</u> Võro Smoke Sauna <i>(Suitsusaun / Savvusann)</i>

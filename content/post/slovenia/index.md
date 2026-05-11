@@ -75,6 +75,7 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 - 🇸🇮 Jan Plestenjak (singer). Genre: pop
 - 🇺🇳 Zalagasper (duo). Genre: indie pop
 - 🇺🇳 Samuel Blues (singer). Genre: indie pop
+- 🇺🇳 UMEK (DJ). Genre: techno 
 
 
 <b>🥘 Local food & drinks: </b>

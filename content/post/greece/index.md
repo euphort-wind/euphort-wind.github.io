@@ -82,6 +82,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 
 <b>🎚️ Contribution to EDM: </b>
 - Balkan Beats. Originated: mid-1990s
+- Skiladiko. Originated: mid-1980s
 
 
 <b>🥘 Local food & drinks: </b>

@@ -51,6 +51,7 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 
 <b>🎧 Local musicians: </b>
 - 🇻🇦 Sistine Chapel Choir (choir). Genre: religious
+- 🇻🇦 Pope Francis (speaker). Genre: christian rock
 
 
 <b>🥘 Local food & drinks: </b>

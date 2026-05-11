@@ -83,6 +83,10 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🇺🇳 Tom Swoon (DJ). Genre: progressive house
 - 🇺🇳 Alicja (singer). Genre: pop
 
+<b>🎚️ Contribution to EDM: </b>
+- Vixa Music. Originated: early 2000s
+
+
 <b>🥘 Local food & drinks: </b>
 - Żurek Soup <i>(Żurek)</i>
 - Zapiekanka <i>(Zapiekanka)</i>
