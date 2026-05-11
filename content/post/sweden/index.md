@@ -37,10 +37,9 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 <b>🏛 Top sights visited: </b>
 
-{{</* spoiler text="Cities, towns, villages... ()" */>}}
-You found me!
-Markdown is **supported**.
-{{</* /spoiler */>}}
+{{< spoiler text="Click to view the spoiler" >}}
+This is the hidden content! Markdown works **perfectly**.
+{{< /spoiler >}}
 
 
 1. Stockholm
