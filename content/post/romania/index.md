@@ -119,6 +119,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Plăcintă <i>(Plăcintă)</i>
   - Plăcintă with Apple <i>(Plăcintă cu Mere)</i>
   - Plăcintă with Cheese <i>(Plăcintă cu Brânză)</i>
+  - Plăcintă with Potato <i>(Plăcintă cu Cartofi)</i>
 - Sarmale <i>(Sarmale)</i>
 - Mămăligă <i>(Mămăligă)</i>
 - Ostropel <i>(Ostropel)</i>
