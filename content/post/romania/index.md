@@ -112,6 +112,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 
 <b>🥘 Local food & drinks: </b>
 - Pastrami <i>(Pastrami)</i>
+- Zacuscă <i>(Zacuscă)</i> 
 - Salată de Icre <i>(Salată de Icre)</i>
 - Salată de Boeuf <i>(Salată de Boeuf)</i>
 - Ciorbă de Burtă <i>(Ciorbă de Burtă)</i>
@@ -124,10 +125,11 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Tochitura <i>(Tochitură)</i>
 - Mititei <i>(Mici)</i>
 - Papanași <i>(Papanași)</i>
-- Amandine <i>(Amandină)</i>
+- Amandine Cake <i>(Amandină)</i>
 - Romanian Cheese <i>(Brânză Românească)</i>
   - Brânză de Vaci <i>(Brânză de Vaci)</i>
   - Telemea <i>(Telemea)</i>
+- Covrigi <i>(Covrigi)</i>
 - Țuică <i>(Brand: "Vlad Țepeș")</i>
 - <u>Covasna (Regional Special):</u> Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>
 - <u>Covasna (Regional Special):</u> Kürtőskalács <i>(Cozonac Secuiesc / Kürtőskalács)</i>
