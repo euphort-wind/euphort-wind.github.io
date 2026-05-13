@@ -116,12 +116,13 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇩🇪 LaFee (singer). Genre: pop
 - 🇩🇪 Revolverheld (band). Genre: pop rock
 - 🇩🇪 Oimara (singer). Genre: pop rock
+- 🇩🇪 Orange Sector (band). Genre: electronic body music
 - 🇺🇳 Scorpions (band). Genre: hard rock
 - 🇺🇳 Modern Talking (duo). Genre: europop
 - 🇺🇳 Scooter (band). Genre: happy hardcore
 - 🇺🇳 ATB (DJ). Genre: progressive house
-- 🇺🇳 Paul van Dyk (DJ). Genre: uplifting trance
-- 🇺🇳 Cosmic Gate (DJ duo). Genre: melodic techno
+- 🇺🇳 Paul van Dyk (DJ). Genre: progressive trance
+- 🇺🇳 Cosmic Gate (DJ duo). Genre: tech trance
 - 🇺🇳 Marlon Hoffstadt (DJ). Genre: house
 - 🇺🇳 La Bouche (duo). Genre: eurodance
 - 🇺🇳 Cascada (band). Genre: eurodance
@@ -134,12 +135,19 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇺🇳 Boney M (band). Genre: disco
 - 🇺🇳 C. C. Catch (singer). Genre: europop
 - 🇺🇳 Enigma (band). Genre: new age
+- 🇺🇳 Tangerine Dream (band). Genre: kosmische musik
+- 🇺🇳 Jam & Spoon (DJ duo). Genre: classic trance
+- 🇺🇳 Kai Tracid (DJ). Genre: acid trance
+- 🇺🇳 DJ Dean (DJ). Genre: hard trance
+- 🇺🇳 Fischerspooner (DJ). Genre: electroclash
+- 🇺🇳 Wolfgang Voigt (DJ). Genre: minimal techno
+- 🇺🇳 Porter Ricks (DJ duo). Genre: dub techno
+- 🇺🇳 Jan Jelinek (DJ). Genre: glitch
 - 🇺🇳 Path of Samsara (band). Genre: stoner rock  
 
 
 <b>🎚️ Contribution to EDM: </b>
-- Krautrock. Originated: late 1960s
-- Space Music. Originated: early 1970s
+- Kosmische Musik. Originated: early 1970s
 - Electronic Body Music. Originated: early 1980s
 - Classic Trance. Originated: late 1980s
 - Eurodance. Originated: late 1980s
