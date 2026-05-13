@@ -96,6 +96,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🇺🇳 Duft Punk (DJ). Genre: french house
 - 🇺🇳 Bob Sinclar (DJ). Genre: house
 - 🇺🇳 DJ Snake (DJ). Genre: trap
+- 🇺🇳 Remzcore (DJ). Genre: frenchcore
 - 🇺🇳 Martin Solveig (DJ). Genre: future house
 - 🇺🇳 Tchami (DJ). Genre: future house
 - 🇺🇳 Space Cowboy (DJ). Genre: big beat
@@ -110,7 +111,6 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 
 
 <b>🎚️ Contribution to EDM: </b>
-- Acousmatic Music. Originated: mid-1940s
 - French House. Originated: mid-1990s
 - Frenchcore. Originated: mid-1990s
 - Synthwave. Originated: mid-2000s
