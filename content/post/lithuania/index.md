@@ -77,7 +77,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - 🇱🇹 Katarsis (band). Genre: alternative rock
 - 🇺🇳 The Roop (band). Genre: pop
 - 🇺🇳 Dynoro (DJ). Genre: slap house
-- 🇺🇳 Gaulin (DJ). Genre: slap house
+- 🇺🇳 Gaullin (DJ). Genre: slap house
 - 🇺🇳 Lion Ceccah (singer). Genre: art pop
 
 <b>🎚️ Contribution to EDM: </b>

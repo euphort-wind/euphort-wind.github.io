@@ -70,18 +70,19 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
     - Cretaquarium <i>(Θαλασσόκοσμος)</i> 
 {{< /spoiler >}}
 
+
 <b>🎧 Local musicians: </b>
 - 🇬🇷 Antique (band). Genre: pop
 - 🇬🇷 Demis Roussos (singer). Genre: pop
 - 🇬🇷 Eleni Tsaligopoulou (singer). Genre: pop
 - 🇬🇷 Akylas (singer). Genre: dance pop
 - 🇬🇷 Klavdia (singer). Genre: indie pop
+- 🇬🇷 Lefteris Pantazis (singer). Genre: skiladiko
 - 🇺🇳 Playmen (DJ duo). Genre: house
 - 🇺🇳 Aero Chord (DJ). Genre: trap
 - 🇺🇳 Steve Angello (DJ). Genre: progressive house
 
 <b>🎚️ Contribution to EDM: </b>
-- Balkan Beats. Originated: mid-1990s
 - Skiladiko. Originated: mid-1980s
 
 

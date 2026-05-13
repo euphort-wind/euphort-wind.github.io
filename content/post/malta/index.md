@@ -75,7 +75,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 
 <b>🎧 Local musicians: </b>
 - 🇲🇹 AIDAN (singer). Genre: pop
-- 🇲🇹 Mike Spiteri (singer). Genre: retro pop
+- 🇲🇹 Mike Spiteri (singer). Genre: pop
 - 🇲🇹 Fabrizio Faniello (singer). Genre: pop
 - 🇲🇹 Ira Losco (singer). Genre: pop
 - 🇺🇳 Gianluca Bezzina (singer). Genre: pop

@@ -59,11 +59,13 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 
 <b>🎧 Local musicians: </b>
 - 🇮🇳 A. R. Rahman (singer). Genre: film score
-- 🇮🇳 Panjabi MC (DJ). Genre: bhangra 
 - 🇮🇳 Rashmeet Kaur (singer). Genre: pop
 - 🇮🇳 Arijit Singh (playback singer). Genre: film score
 - 🇮🇳 Mithoon (composer). Genre: film score
+- 🇮🇳 Panjabi MC (DJ). Genre: bhangra 
 - 🇺🇳 KSHMR (DJ). Genre: electro house
+- 🇺🇳 Kerosene Club (DJ). Genre: goa trance
+- 🇺🇳 Tarun Shahani (DJ). Genre: psy trance
 
 <b>🎚️ Contribution to EDM: </b>
 - Bhangra. Originated: mid-1960s

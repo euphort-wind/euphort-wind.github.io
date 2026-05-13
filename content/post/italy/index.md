@@ -164,10 +164,10 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 
 <b>🎧 Local musicians: </b>
-- 🇮🇹 Adriano Celentano (singer). Genre: retro pop
-- 🇮🇹 Al Bano (singer). Genre: retro pop
-- 🇮🇹 Toto Cutugno (singer). Genre: retro pop
-- 🇮🇹 Pupo (singer). Genre: retro pop
+- 🇮🇹 Adriano Celentano (singer). Genre: pop
+- 🇮🇹 Al Bano (singer). Genre: pop
+- 🇮🇹 Toto Cutugno (singer). Genre: pop
+- 🇮🇹 Pupo (singer). Genre: pop
 - 🇮🇹 Eros Ramazzotti (singer). Genre: pop
 - 🇮🇹 Luciano Pavarotti (opera singer). Genre: opera / pop
 - 🇮🇹 Giusy Ferreri (singer). Genre: pop

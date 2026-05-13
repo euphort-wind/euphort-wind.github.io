@@ -94,14 +94,14 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🇷🇴 Alex Velea (singer). Genre: pop
 - 🇷🇴 Stefan Costea (rapper). Genre: trap
 - 🇷🇴 Ionut Cercel (singer). Genre: manele
-- 🇷🇴 Tzancă Uraganu (singer). Genre: manele
+- 🇷🇴 Tzancă Uraganu (singer). Genre: modern manele
 - 🇷🇴 Nicolae Guță (singer). Genre: manele
 - 🇺🇳 Holy Molly (singer). Genre: pop
 - 🇺🇳 Morandi (duo). Genre: eurodance
 - 🇺🇳 INNA (singer). Genre: romanian popcorn
 - 🇺🇳 Edward Maya (DJ). Genre: eurodance
 - 🇺🇳 Minelli (singer). Genre: pop
-- 🇺🇳 Alexandra Stan (singer). Genre: pop
+- 🇺🇳 Alexandra Stan (singer). Genre: romanian popcorn
 - 🇺🇳 Alis Shuka (singer). Genre: pop
 - 🇺🇳 Alexandra Căpitănescu (singer). Genre: alternative rock
 

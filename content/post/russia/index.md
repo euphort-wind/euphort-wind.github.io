@@ -215,10 +215,12 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🇷🇺 Kris Kelmi (singer). Genre: rock
 - 🇷🇺 Zivert (singer). Genre: pop
 - 🇷🇺 Дора (singer). Genre: pop
-- 🇷🇺 Alla Pugacheva (singer). Genre: retro pop
+- 🇷🇺 Alla Pugacheva (singer). Genre: pop
 - 🇷🇺 Жин-Жин (singer). Genre: house
 - 🇺🇳 Natalie Gioia (singer). Genre: trance
 - 🇺🇳 Alexander Popov (DJ). Genre: trance
+- 🇺🇳 Russian Village Boys (DJ band). Genre: hardbass
+- 🇺🇳 Dvrst (DJ). Genre: drift phonk
 - 🇺🇳 Arty (DJ). Genre: progressive house
 - 🇺🇳 Serge Devant (DJ). Genre: melodic house
 - 🇺🇳 Shapov (DJ). Genre: progressive house

@@ -66,14 +66,20 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
     - The Počitelj Citadel <i>(Počiteljska Tvrđava)</i>
     - Gavrankapetanović House <i>(Gavrankapetanovića Kuća)</i>
     - The Počitelj Clock Tower <i>(Sahat Kula)</i>
-{{< /spoiler >}}     
+{{< /spoiler >}}  
+
+
+<b>🎚️ Contribution to EDM: </b>
+- Balkan Beats. Originated: mid-1990s
+
 
 <b>🎧 Local musicians: </b>
 - 🇧🇦 Božo Vrećo (singer). Genre: sevdah
 - 🇧🇦 Letu Štuke (band). Genre: rock
 - 🇧🇦 Džejla Ramović (singer). Genre: pop
 - 🇧🇦 Dino Merlin (singer). Genre: rock
-- 🇧🇦 DJ Krmak (DJ). Genre: turbo-folk
+- 🇧🇦 DJ Krmak (DJ). Genre: turbo folk
+- 🇺🇳 Robert Soko (DJ). Genre: balkan beats
 - 🇺🇳 Salvatore Ganacci (DJ). Genre: moombahton
 - 🇺🇳 Solomun (DJ). Genre: melodic house
 

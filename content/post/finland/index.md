@@ -76,6 +76,9 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - 🇺🇳 Darude (DJ). Genre: speed house
 - 🇺🇳 Alma (singer). Genre: pop
 - 🇺🇳 Bomfunk MC's (band). Genre: hip-hop
+- 🇺🇳 Aavepyörä (DJ). Genre: suomisaundi
+- 🇺🇳 Mesak (DJ). Genre: skweee
+
 
 <b>🎚️ Contribution to EDM: </b>
 - Suomisaundi. Originated: mid-1990s

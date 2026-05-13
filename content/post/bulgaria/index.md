@@ -100,7 +100,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🇧🇬 D2 (band). Genre: rock
 - 🇧🇬 Azis (singer). Genre: chalga
 - 🇧🇬 Avenue (duo). Genre: pop
-- 🇧🇬 Orlin Goranov (singer). Genre: retro pop
+- 🇧🇬 Orlin Goranov (singer). Genre: pop
 - 🇧🇬 Молец (duo). Genre: pop
 
 <b>🎚️ Contribution to EDM: </b>

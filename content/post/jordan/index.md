@@ -52,6 +52,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
+- 🇯🇴 47Soul (band). Genre: shamstep
 - 🇯🇴 Aziz Maraka (singer). Genre: pop
 - 🇯🇴 Diana Karazon (singer). Genre: pop
 - 🇺🇳 Ayah Marar (singer). Genre: drum'n'bass

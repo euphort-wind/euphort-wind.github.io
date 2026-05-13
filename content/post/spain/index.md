@@ -61,14 +61,16 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 <b>🎧 Local musicians: </b>
 - 🇪🇸 Enrique Iglesias (singer). Genre: pop
-- 🇪🇸 Julio Iglesias (singer). Genre: retro pop
+- 🇪🇸 Julio Iglesias (singer). Genre: pop
 - 🇪🇸 Álvaro Soler (singer). Genre: pop
 - 🇪🇸 Los del Río (duo). Genre: pop
 - 🇪🇸 Alejandro Sanz (singer). Genre: pop
 - 🇪🇸 Las Ketchup (band). Genre: europop
 - 🇪🇸 Nebulossa (duo). Genre: synth-pop 
+- 🇪🇸 César de Melero (DJ). Genre: balearic house
 - 🇺🇳 David Tavaré (DJ). Genre: house
 - 🇺🇳 Dr. Kucho! (DJ). Genre: house
+- 🇺🇳 José Padilla (DJ). Genre: balearic trance
 - 🇺🇳 Sak Noel (DJ). Genre: pop
 
 <b>🎚️ Contribution to EDM: </b>

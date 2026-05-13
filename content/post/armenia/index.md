@@ -96,7 +96,7 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 
 <b>🎧 Local musicians: </b>
 - 🇦🇲 Aram Mp3 <i>(singer)</i>. Genre: pop
-- 🇦🇲 Armenchik <i>(singer)</i>. Genre: rabiz
+- 🇦🇲 Armenchik <i>(singer)</i>. Genre: modern rabiz
 - 🇦🇲 Iveta Mukuchyan <i>(singer)</i>. Genre: dance pop
 - 🇦🇲 André Hovnanyan <i>(singer)</i>. Genre: folk-pop
 - 🇦🇲 Sirusho <i>(singer)</i>. Genre: pop

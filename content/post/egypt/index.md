@@ -51,7 +51,10 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - 🇪🇬 Hisham Abbas (singer). Genre: pop
 - 🇪🇬 Sherine (singer). Genre: pop
 - 🇪🇬 Mohamed Hamaki (singer). Genre: pop
+- 🇪🇬 Halim El-Dabh (composer). Genre: tape music
+- 🇪🇬 Hassan Shakosh (singer). Genre: mahraganat
 - 🇺🇳 Aly & Fila (DJ duo). Genre: trance
+- 🇺🇳 Ahmed Helmy (DJ). Genre: trance
 
 
 <b>🎚️ Contribution to EDM: </b>

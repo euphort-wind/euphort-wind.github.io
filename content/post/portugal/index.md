@@ -71,11 +71,11 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - 🇵🇹 Os Quatro e Meia (band). Genre: pop
 - 🇵🇹 Diana Lima (singer). Genre: pop
 - 🇵🇹 Murta (singer). Genre: pop
-- 🇵🇹 Resistência (band). Genre: retro pop
+- 🇵🇹 Resistência (band). Genre: pop
 - 🇵🇹 Ivandro (singer). Genre: pop
 - 🇵🇹 Napa (band). Genre: indie pop
 - 🇵🇹 Bandidos do Cante (band). Genre: cante alentejano
-
+- 🇺🇳 DJ Marfox (DJ). Genre: batida
 
 <b>🎚️ Contribution to EDM: </b>
 - Batida. Originated: early 2000s

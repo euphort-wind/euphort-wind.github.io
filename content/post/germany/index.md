@@ -104,7 +104,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇩🇪 Die Ärzte (band). Genre: pop punk
 - 🇩🇪 Bakkushan (band). Genre: indie rock
 - 🇩🇪 Johannes Oerding (singer). Genre: pop
-- 🇩🇪 Herbert Grönemeyer (singer). Genre: retro pop
+- 🇩🇪 Herbert Grönemeyer (singer). Genre: pop rock
 - 🇩🇪 Max Giesinger (singer). Genre: pop
 - 🇩🇪 Nina Chuba (singer). Genre: pop
 - 🇩🇪 Stefanie Kloß (singer). Genre: pop

@@ -83,9 +83,12 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 🇺🇳 Lost Frequencies (DJ). Genre: pop
 - 🇺🇳 Charlotte de Witte (DJ). Genre: dark techno
 - 🇺🇳 Essyla (singer). Genre: dance pop
+- 🇺🇳 Technotronic (DJ project). Genre: new beat
+- 🇺🇳 Frank de Wulf (DJ). Genre: belgian techno
+- 🇺🇳 Da Rick (DJ). Genre: jumpstyle
+
 
 <b>🎚️ Contribution to EDM: </b>
-- Belgian Popcorn. Originated: late 1970s
 - New Beat. Originated: mid-1980s
 - Belgian Techno. Originated: early 1990s
 - Jumpstyle. Originated: late 1990s

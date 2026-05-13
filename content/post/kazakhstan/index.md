@@ -79,6 +79,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - 🇰🇿 Gazizkhan Shekerbekov (singer). Genre: pop
 - 🇰🇿 Diana Ismail (singer). Genre: pop
 - 🇰🇿 Sadraddin (singer). Genre: pop
+- 🇰🇿 Ninety One (band). Genre: q-pop
 - 🇺🇳 Skryptonite (rapper). Genre: hip-hop
 - 🇺🇳 Imanbek (DJ). Genre: slap house
 - 🇺🇳 The Limba (singer). Genre: pop 

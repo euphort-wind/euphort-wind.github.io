@@ -82,9 +82,10 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🇺🇳 C-Bool (DJ). Genre: house
 - 🇺🇳 Tom Swoon (DJ). Genre: progressive house
 - 🇺🇳 Alicja (singer). Genre: pop
+- 🇺🇳 WIXAPOL S.A. (DJ band). Genre: wixa
 
 <b>🎚️ Contribution to EDM: </b>
-- Vixa Music. Originated: early 2000s
+- Wixa Music. Originated: early 2000s
 
 
 <b>🥘 Local food & drinks: </b>

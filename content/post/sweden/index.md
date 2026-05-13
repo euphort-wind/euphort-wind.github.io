@@ -279,10 +279,10 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇸🇪 Albin Lee Meldau (singer). Genre: pop
 - 🇸🇪 Basshunter (DJ). Genre: eurodance
 - 🇺🇳 Da Buzz (band). Genre: eurodance
-- 🇺🇳 ABBA (band). Genre: retro rock
-- 🇺🇳 Roxette (band). Genre: retro rock
-- 🇺🇳 Ace of Base (band). Genre: retro pop
-- 🇺🇳 Army of Lovers (band). Genre: retro pop
+- 🇺🇳 ABBA (band). Genre: europop
+- 🇺🇳 Roxette (band). Genre: europop
+- 🇺🇳 Ace of Base (band). Genre: europop
+- 🇺🇳 Army of Lovers (band). Genre: europop
 - 🇺🇳 Avicii (DJ). Genre: house
 - 🇺🇳 Eric Prydz / Pryda (DJ). Genre: progressive house
 - 🇺🇳 Otto Knows (DJ). Genre: house
@@ -292,11 +292,12 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇺🇳 Dead by April (band). Genre: metal
 - 🇺🇳 Loreen (singer). Genre: pop
 - 🇺🇳 Tove Lo (singer). Genre: pop
-- 🇺🇳 Dr. Alban (singer). Genre: retro pop
+- 🇺🇳 Dr. Alban (singer). Genre: europop
 - 🇺🇳 E-type (DJ & singer). Genre: eurodance
 - 🇺🇳 Alesso (DJ). Genre: house
 - 🇺🇳 Crazy Frog (project). Genre: eurodance
 - 🇺🇳 Smash into Pieces (band). Genre: alternative rock
+- 🇺🇳 Fröken Snusk (project). Genre: epadunk
 
 <b>🎚️ Contribution to EDM: </b>
 - Europop. Originated: late 1960s

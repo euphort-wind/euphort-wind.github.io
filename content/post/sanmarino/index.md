@@ -51,14 +51,16 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇸🇲 Little Tony (singer). Genre: retro pop
+- 🇸🇲 Miodio (band). Genre: alternative rock
+- 🇸🇲 Little Tony (singer). Genre: pop
 - 🇺🇳 Valentina Monetta (singer). Genre: pop
 
 
 <b>🥘 Local food & drinks: </b>
-- Piadina <i>(Piada)</i>
-  - Piadina with Bresaola <i>(Piada con Bresaola e Rucola)</i>
-  - Piadina with Prosciutto <i>(Piada con Prosciutto e Rucola)</i>
+- Piadina <i>(Pièda)</i>
+  - Piadina with Bresaola <i>(Pièda con Bresaola e Rucola)</i>
+  - Piadina with Prosciutto <i>(Pièda con Prosciutto e Rucola)</i>
+  - Piadina with Mozzarella and Tomato <i>(Pièda con Mozzarella e Pomodoro)</i>
 - Three Mountain Cake <i>(Torta Tre Monti)</i>
 - Sammarinese Red Wine <i>(Brand: "Castelli Sammarinesi")</i>
 
