@@ -178,6 +178,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🇮🇹 Vale LP (singer). Genre: pop
 - 🇮🇹 Tananai (singer). Genre: indie pop
 - 🇮🇹 Paola & Chiara (duo). Genre: dance pop
+- 🇮🇹 Claudio Coccoluto (DJ). Genre: italo house
 - 🇺🇳 Eiffel 65 (band). Genre: eurodance
 - 🇺🇳 Giuseppe Ottaviani (DJ). Genre: trance
 - 🇺🇳 Benny Benassi (DJ). Genre: electro house
@@ -191,6 +192,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 <b>🎚️ Contribution to EDM: </b>
 - Italo Disco. Originated: late 1970s
+- Italo House. Originated: late 1980s
 - Dream Trance. Originated: late 1990s
 
 
