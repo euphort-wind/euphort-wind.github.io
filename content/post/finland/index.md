@@ -87,6 +87,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 
 <b>🥘 Local food & drinks: </b>
 - Karelian Pastry <i>(Karjalanpiirakka)</i>
+- Porilainen <i>(Porilainen)</i>
 - Finnish Soups <i>(Suomalaiset Keitot)</i>
   - Lohikeitto <i>(Lohikeitto)</i>
   - Kalakeitto <i>(Kalakeitto)</i>
