@@ -179,6 +179,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🇮🇹 Tananai (singer). Genre: indie pop
 - 🇮🇹 Paola & Chiara (duo). Genre: dance pop
 - 🇮🇹 Claudio Coccoluto (DJ). Genre: italo house
+- 🇮🇹 Sal da Vinci (singer). Genre: pop
 - 🇺🇳 Eiffel 65 (band). Genre: eurodance
 - 🇺🇳 Giuseppe Ottaviani (DJ). Genre: trance
 - 🇺🇳 Benny Benassi (DJ). Genre: electro house
@@ -330,6 +331,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - The Trigon Game <i>(Trigon)</i>
   - Ancient Authentic Musical Instrument: Cornu <i>(Cornu)</i> 
   - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
+- <u>Lazio (Regional Special):</u> The Nasoni <i>(Nasoni)</i> 
 - <u>Tuscany (Regional Special):</u> The Scoppio del Carro Easter Tradition <i>(Scoppio del Carro)</i> 
 - <u>Tuscany (Regional Special):</u> The Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i> 
   - Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i>

@@ -136,7 +136,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
   - Tulum Cheese <i>(Tulum Peyniri)</i>
 - Bazlama <i>(Bazlama)</i>
 - Simit <i>(Simit)</i>
-- Turkish Turnip Water <i>(Şalgam Suyu)</i>
+- Şalgam Drink <i>(Şalgam Suyu)</i>
 - Turkish Raki <i>(Brand: "Yeni Rakı")</i>
 - <u>İstanbul (Regional Special):</u> Balık Ekmek <i>(Balık Ekmek)</i>
 - <u>Antalya (Regional Special):</u> Shish Kofta <i>(Şiş Köfte)</i>

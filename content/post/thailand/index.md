@@ -69,21 +69,37 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
   - Tom Yam Nam Khon <i>(ต้มยำน้ำข้น)</i>
   - Tom Yam Gai <i>(ต้มยำไก่)</i>
   - Tom Kha Gai <i>(ต้มข่าไก่)</i>
-- Thai Suki <i>(สุกี้)</i>
-- Pad Thai <i>(ผัดไทย)</i>
-- Thai Pineapple Rice <i>(ข้าวผัดสับปะรด)</i>
+- Yum Woon Sen <i>(ยำวุ้นเส้น)</i>  
 - Phanaeng <i>(พะแนง)</i>
+- Thai Suki <i>(สุกี้)</i>
+- Thai Fried Rice <i>(ข้าวผัด)</i>
+  - Khao Pad Sapparot <i>(ข้าวผัดสับปะรด)</i>
+  - Khao Pad Kai <i>(ข้าวผัดไก่)</i>
+  - Khao Pad Mu <i>(ข้าวผัดหมู)</i>
+  - Khao Pad Kung <i>(ข้าวผัดกุ้ง)</i>
+  - Khao Pad Thale <i>(ข้าวผัดทะเล)</i>
+  - Khao Pad Pu <i>(ข้าวผัดปู)</i>
+  - Khao Pad Amerikan <i>(ข้าวผัดอเมริกัน)</i>
+  - Khao Pad Khai <i>(ข้าวผัดไข่)</i>
+- Pad Thai <i>(ผัดไทย)</i>
 - Pad Kaphrao <i>(ผัดกะเพรา)</i>
+- Pad See Ew <i>(ผัดซีอิ๊ว)</i>
 - Pad Mee Luang <i>(ผัดเส้นหมี่เหลือง)</i>
+- Pad Khing <i>(ผัดขิง)</i>
+- Kai Yang <i>(ไก่ย่าง)</i>
 - Suea Rong Hai <i>(เสือร้องไห้)</i>
+- Sriracha Sauce <i>(ศรีราชา)</i>
+- Nam Phrik Sauce <i>(น้ำพริก)</i>
 - Thai Rolled Ice Cream <i>(ไอศกรีมม้วนไทย)</i>
+- Thai Iced Tea <i>(ชาเย็น)</i>
 - Thai Rum <i>(Brand: "SangSom")</i>
 - <u>Phuket (Regional Special)</u>: Grilled Seafood Skewers <i>(ซีฟู้ดย่างเสียบไม้)</i>
   - Grilled Shrimp Skewers <i>(กุ้งย่างเสียบไม้)</i>
   - Grilled Clam Skewers <i>(หอยย่างเสียบไม้)</i>
   - Grilled Squid Skewers <i>(ปลาหมึกย่าง)</i>
 - <u>Phuket (Regional Special)</u>: Moo Hong <i>(หมูฮ้อง)</i>
-
+- <u>Phuket (Regional Special)</u>: Mu Wan <i>(หมูหวาน)</i>
+- <u>Phuket (Regional Special)</u>: Pla Thot Khamin <i>(ปลาทอดขมิ้น)</i>
 
 
 <b>🎬 Local movies:</b>
