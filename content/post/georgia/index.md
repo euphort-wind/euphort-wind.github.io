@@ -134,7 +134,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - <u>Kakheti (Regional Special):</u> Mtsvadi <i>(მწვადი)</i>
   - Mtsvadi-Style Pork <i>(ღორის მწვადი)</i>
   - Mtsvadi-Style Lamb <i>(ცხვრის მწვადი)</i>
-  
+  - Mtsvadi-Style Chicken <i>(ქათმის მწვადი)</i>
 
 <b>🎬 Local movies:</b>
 - The Other Bank <i>(გაღმა ნაპირი)</i>. Year: 2009. Genre: drama 
