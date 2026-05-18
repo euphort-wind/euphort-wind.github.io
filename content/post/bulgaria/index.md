@@ -126,7 +126,6 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Bulgarian Cheese <i>(Български Сирена)</i>
   - Sirene <i>(Сирене)</i>
   - Kashkaval <i>(Кашкавал)</i>
-- Ayran <i>(Айрян)</i>
 - Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
 
 

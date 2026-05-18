@@ -69,10 +69,6 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 {{< /spoiler >}}  
 
 
-<b>🎚️ Contribution to EDM: </b>
-- Balkan Beats. Originated: mid-1990s
-
-
 <b>🎧 Local musicians: </b>
 - 🇧🇦 Božo Vrećo (singer). Genre: sevdah
 - 🇧🇦 Letu Štuke (band). Genre: rock
@@ -82,6 +78,10 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - 🇺🇳 Robert Soko (DJ). Genre: balkan beats
 - 🇺🇳 Salvatore Ganacci (DJ). Genre: moombahton
 - 🇺🇳 Solomun (DJ). Genre: melodic house
+
+
+<b>🎚️ Contribution to EDM: </b>
+- Balkan Beats. Originated: mid-1990s
 
 
 <b>🥘 Local food & drinks: </b>
