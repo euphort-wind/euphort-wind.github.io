@@ -85,14 +85,22 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - Basmati Rice <i>(बासमती चावल)</i>
   - Gulab Jamun <i>(गुलाब जामुन)</i>
 - Samosa <i>(समोसा)</i>
-- Kanda Bhaji <i>(कांदा भजी)</i>
+- Jeera Aloo <i>(जीरा आलू)</i>
+- Vada Pav <i>(वड़ापाव)</i>
 - Butter Chicken <i>(बटर चिकन)</i>
+- Kanda Bhaji <i>(कांदा भजी)</i>
+- Chana Masala <i>(चना मसाला)</i>
+- Chole Bhature <i>(छोले भटूरे)</i>
+- Puri Bhaji <i>(पूरी भाजी)</i>
+- Khoya Paneer <i>(खोया पनीर)</i>
 - Palak Paneer <i>(पालक पनीर)</i>
 - Rogan Josh <i>(रोग़न जोश)</i>
 - Lamb Korma <i>(मटन कोरमा)</i>
 - Tandoori Chicken <i>(तंदुरी चिकन)</i>
 - Kulfi <i>(क़ुल्फ़ी)</i>
+- Kheer <i>(खीर)</i>
 - Mukhwas <i>(मुखवास)</i>
+- Vada <i>(वड़ा)</i>
 - Naan <i>(नान)</i>
 - <u>Karnataka (Regional Special):</u> Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
 - <u>Karnataka (Regional Special):</u> Bisi Bele Bath <i>(बिसी बेले बाथ / ಬಿಸಿ ಬೇಳೆ ಭಾತ್)</i>
