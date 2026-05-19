@@ -69,14 +69,20 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 <b>🥘 Local food & drinks: </b>
 - Cyprus Village Salad <i>(Κυπριακή Χωριάτικη Σαλάτα)</i>
 - Fasolada <i>(Φασουλάδα)</i>
+- Afelia <i>(Αφέλια)</i>
+- Halloumoti <i>(Χαλλουμοτή)</i>
 - Kleftiko <i>(Κλέφτικο)</i>
-- Souvlakia-Style Meats <i>(Σουβλάκι)</i>
-  - Souvlakia-Style Chicken <i>(Σουβλάκι Κοτόπουλο)</i>
-  - Souvlakia-Style Pork <i>(Σουβλάκι Χοιρινό)</i>
-  - Souvlakia-Style Lamb <i>(Σουβλάκι Αρνί)</i>
-  - Souvlakia-Style Beef <i>(Σουβλάκι Μοσχάρι)</i>
+- Souvla-Style Meats <i>(Σούβλα)</i>
+  - Souvla-Style Chicken <i>(Σούβλα Κοτόπουλο)</i>
+  - Souvla-Style Pork <i>(Σούβλα Χοιρινό)</i>
+  - Souvla-Style Lamb <i>(Σούβλα Αρνί)</i>
+  - Souvla-Style Beef <i>(Σούβλα Μοσχάρι)</i>
+- Sheftalia <i>(Σεφταλιά)</i>
 - Halloumi Cheese <i>(Τυρί Χαλούμι)</i>
+- Kefalotyri Cheese <i>(Κεφαλοτύρι)</i>
+- Shamishi <i>(Σιάμισιη)</i>
 - Zivania <i>(Brand: "Zivana LOEL")</i>
+- Brandy Sour Cocktail <i>(Μπράντι Σαουαρ)</i>
 
 
 <b>🎬 Local movies:</b>
