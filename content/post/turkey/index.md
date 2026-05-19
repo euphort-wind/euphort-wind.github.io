@@ -149,6 +149,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - <u>İstanbul (Regional Special):</u> Arnavut Ciğeri <i>(Arnavut Ciğeri)</i>
 - <u>İstanbul (Regional Special):</u> Balık Ekmek <i>(Balık Ekmek)</i>
 - <u>Antalya (Regional Special):</u> Shish Kofta <i>(Şiş Köfte)</i>
+- <u>Muğla (Regional Special):</u> Çökertme Kebabı <i>(Çökertme Kebabı)</i>
 
 
 <b>🎬 Local movies:</b>

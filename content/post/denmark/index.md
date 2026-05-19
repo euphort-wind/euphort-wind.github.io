@@ -96,9 +96,11 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - Rød Pølse <i>(Rød Pølse)</i>
 - Brændende Kærlighed <i>(Brændende Kærlighed)</i>
 - Stegt Flæsk <i>(Stegt Flæsk)</i>
+- Millionbøf <i>(Millionbøf)</i>
 - Æbleflæsk <i>(Æbleflæsk)</i>
 - Danish Pastry <i>(Wienerbrød)</i>
 - Tebirkes <i>(Tebirkes)</i>
+- Risalamande <i>(Risalamande)</i>
 - Danbo Cheese <i>(Danbo)</i>
 - Danish Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
 

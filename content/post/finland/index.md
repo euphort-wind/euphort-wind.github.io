@@ -87,19 +87,25 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 
 <b>🥘 Local food & drinks: </b>
 - Karelian Pastry <i>(Karjalanpiirakka)</i>
+- Kuivaliha <i>(Kapaliha)</i>
 - Porilainen <i>(Porilainen)</i>
 - Finnish Soups <i>(Suomalaiset Keitot)</i>
   - Lohikeitto <i>(Lohikeitto)</i>
   - Kalakeitto <i>(Kalakeitto)</i>
   - Hernekeitto <i>(Hernekeitto)</i>
+  - Hapanvelli <i>(Hapanvelli)</i>
   - Kesäkeitto <i>(Kesäkeitto)</i>
 - Lihapiirakka <i>(Lihapiirakka)</i>
+- Lörtsy <i>(Lörtsy)</i>
 - Sautéed Reindeer <i>(Poronkäristys)</i>
 - Karelian Stew <i>(Karjalanpaisti)</i>
 - Maksalaatikko <i>(Maksalaatikko)</i>
+- Kaalilaatikko <i>(Kaalilaatikko)</i>
+- Kebakko <i>(Kebakko)</i>
 - Vatkuli <i>(Palapaisti)</i>
 - Joulutorttu <i>(Joulutorttu)</i>
 - Mämmi <i>(Mämmi)</i>
+- Mustikkapöperö <i>(Mustikkapöperö)</i>
 - Pulla Bread <i>(Nisu)</i>
 - Finnish Lonkero <i>(Brand: "Hartwall Original")</i>
 - Finnish Liqueur <i>(Brand: "Minttu")</i>
@@ -137,6 +143,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - Laskiainen <i>(Laskiainen)</i>. Month: January to February
 - Kalevala Day <i>(Kalevalan Päivä)</i>. Month: February
 - Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Month: February
+- <u>Uusimaa (Regional Special):</u> Helsinki Day <i>(Helsinki-Päivä)</i>. Month: June 
 
 
 

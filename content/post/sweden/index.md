@@ -319,6 +319,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Punsch-Rolls <i>(Dammsugare)</i>
 - Saffron Buns <i>(Lussekatter)</i>
 - Kladdkaka <i>(Kladdkaka)</i>
+- Blueberry Soup <i>(Blåbärssoppa)</i>
 - Crispbread <i>(Knäckebröd)</i>
 - Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
 - Swedish Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
