@@ -104,6 +104,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 <b>🥘 Local food & drinks: </b>
 - Kısır <i>(Kısır)</i>
 - Yaprak Sarması <i>(Yaprak Sarması)</i>
+- Choban Salad <i>(Çoban Salatası)</i>
 - Kuymak <i>(Mıhlama)</i>
 - Pide <i>(Pide)</i>
   - Pide with Minced Beef <i>(Kıymalı Pide)</i>
@@ -115,10 +116,13 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - Börek <i>(Börek)</i>
 - Şakşuka <i>(Şakşuka)</i>
 - Karnıyarık <i>(Karnıyarık)</i>
+- Barbunya Pilaki <i>(Barbunya Pilaki)</i>
 - Döner Kebap <i>(Döner Kebap)</i>
 - Kokoreç <i>(Kokoreç)</i>
+- Sulu Köfte <i>(Sulu Köfte)</i>
 - Türlü <i>(Türlü)</i>
 - Kavurma <i>(Kavurma)</i>
+- Piyaziye <i>(Piyaziye)</i>
 - Tantuni <i>(Tantuni)</i>
 - İskender Kebap <i>(İskender Kebap)</i>
 - Baklava <i>(Baklava)</i>
@@ -127,17 +131,22 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
   - Dry Baklava <i>(Kuru Baklava)</i>
   - Sütlü Nuriye <i>(Sütlü Nuriye)</i>
 - Ashure <i>(Aşure)</i>
+- Güllaç <i>(Güllaç)</i>
 - Kazandibi <i>(Kazandibi)</i>
 - Sekerpare <i>(Şekerpare)</i>
 - Turkish Ice-cream <i>(Dondurma)</i>
+- Bici Bici <i>(Bici Bici)</i>
 - Turkish Cheese <i>(Türk Peyniri)</i>
   - Beyaz Peynir <i>(Beyaz Peynir)</i>
   - Çökelek <i>(Çökelek)</i>
   - Tulum Cheese <i>(Tulum Peyniri)</i>
+- Salça Sauce <i>(Salça)</i>
 - Bazlama <i>(Bazlama)</i>
 - Simit <i>(Simit)</i>
 - Şalgam Drink <i>(Şalgam Suyu)</i>
+- Ayran Drink <i>(Ayran)</i>
 - Turkish Raki <i>(Brand: "Yeni Rakı")</i>
+- <u>İstanbul (Regional Special):</u> Arnavut Ciğeri <i>(Arnavut Ciğeri)</i>
 - <u>İstanbul (Regional Special):</u> Balık Ekmek <i>(Balık Ekmek)</i>
 - <u>Antalya (Regional Special):</u> Shish Kofta <i>(Şiş Köfte)</i>
 
