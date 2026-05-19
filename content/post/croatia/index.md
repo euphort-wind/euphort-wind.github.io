@@ -77,6 +77,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - Croatian Rižot <i>(Hrvatski Rižot)</i>
   - Black Rižot <i>(Crni Rižot)</i>
   - Skradinski Rižot <i>(Skradinski Rižot)</i>
+  - Rižot s Tartufima <i>(Rižot s Tartufima)</i>
 - Pašticada <i>(Pašticada)</i>
 - Kroštule <i>(Kroštule)</i>
 - Uštipci <i>(Uštipci)</i>
@@ -87,6 +88,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - <u>Zagreb (Regional Special):</u> Štrukli <i>(Štrukli)</i>
   - Štrukli with Pumpkin Seeds <i>(Štrukli sa Bučinim Sjemenkama)</i>
   - Štrukli with Blueberries <i>(Štrukli s Borovnicama)</i>
+  - Štrukli with Walnuts and Honey <i>(Štrukli s Orasima i Medom)</i>
 - <u>Zadar (Regional Special):</u> Buzara-Style Shrimps <i>(Škampi Na Buzaru)</i>
 
 

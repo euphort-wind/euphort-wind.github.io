@@ -109,6 +109,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - Pide <i>(Pide)</i>
   - Pide with Minced Beef <i>(Kıymalı Pide)</i>
   - Pide with Cheese <i>(Peynirli Pide)</i>
+  - Pide with Sujuk <i>(Sucuklu Pide)</i>
 - Gözleme <i>(Gözleme)</i>
   - Gözleme with Meat <i>(Etli Gözleme)</i>
   - Gözleme with Cheese <i>(Peynirli Gözleme)</i>

@@ -85,13 +85,15 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - Caldo Verde Soup <i>(Caldo Verde)</i>
 - Caldeirada <i>(Caldeirada)</i>
 - Bifana Sandwich <i>(Bifana)</i>
-- Pastéis de Bacalhau <i>(Pastéis de Bacalhau)</i>
 - Grilled Sardines <i>(Sardinhas Assadas)</i>
 - Portuguese Stew <i>(Cozido à Portuguesa)</i>
-- Bacalhau com Natas <i>(Bacalhau com Natas)</i>
-- Bacalhau com Todos <i>(Bacalhau com Todos)</i>
-- Bacalhau à Zé do Pipo <i>(Bacalhau à Zé do Pipo)</i>
-- Pataniscas <i>(Pataniscas)</i>
+- Portuguese Cod Dishes <i>(Pratos de Bacalhau)</i>
+  - Pastéis de Bacalhau <i>(Pastéis de Bacalhau)</i>
+  - Bacalhau com Natas <i>(Bacalhau com Natas)</i>
+  - Bacalhau com Todos <i>(Bacalhau com Todos)</i>
+  - Bacalhau à Zé do Pipo <i>(Bacalhau à Zé do Pipo)</i>
+  - Bacalhau à Brás <i>(Bacalhau à Brás)</i>
+  - Pataniscas <i>(Pataniscas)</i>
 - Peixinhos da Horta <i>(Peixinhos da Horta)</i>
 - Carne de Porco à Alentejana <i>(Carne de Porco à Alentejana)</i>
 - Amêijoas à Bulhão Pato <i>(Amêijoas à Bulhão Pato)</i>
@@ -112,7 +114,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - Port Wine <i>(Brand: "Ferreira")</i>
 - Green Wine <i>(Brand: "Muralhas Vinho Verde")</i>
 - <u>Lisbon (Regional Special):</u> De Belém Pastry <i>(Pastel de Belém)</i>
-- <u>Lisbon (Regional Special):</u> Bacalhau à Brás <i>(Bacalhau à Brás)</i>
+
 
 <b>🎬 Local movies:</b>
 -  A Sublime Life <i>(Uma Vida Sublime)</i>. Year: 2018. Genre: thriller / drama

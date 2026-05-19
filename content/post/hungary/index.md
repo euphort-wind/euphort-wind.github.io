@@ -104,7 +104,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
   - Palóc Soup <i>(Palócleves)</i>
   - Hungarian Sour Cherry Soup <i>(Hideg Meggyleves)</i>
 - Lángos <i>(Lángos)</i>
-    - Lángos with Sour Cream and Grated Cheese <i>(Sajtos-Tejfölös Lángos)</i>
+    - Lángos with Sour Cream and Cheese <i>(Sajtos-Tejfölös Lángos)</i>
     - Lángos with Sour Cream, Bacon and Onion <i>(Húsos Lángos)</i>
     - Lángos with Braised Cabbage <i>(Káposztás Lángos)</i>
 - Pörkölt <i>(Marhapörkölt)</i>  

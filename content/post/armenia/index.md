@@ -112,9 +112,9 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 <b>🥘 Local food & drinks: </b>
 - Matzoon <i>(մածուն)</i>
 - Armenian Soups <i>(Հայկական ապուրներ)</i>
-    - Spas Soup <i>(Սպաս)</i>
-    - Putuk Soup <i>(պուտուկ)</i>
-    - Krchik Soup <i>(Քրչիկ)</i>
+    - Spas <i>(Սպաս)</i>
+    - Putuk <i>(պուտուկ)</i>
+    - Krchik <i>(Քրչիկ)</i>
     - Khash <i>(խաշ)</i>
 - Armenian Tolma <i>(Տոլմա)</i>
 - Arishta <i>(Արիշտա)</i>

@@ -102,6 +102,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - Pierogi with Beef <i>(Pierogi z Mięsem Wołowym)</i>
   - Pierogi with Pork <i>(Pierogi z Mięsem Wieprzowym)</i>
   - Pierogi with Duck <i>(Pierogi z Mięsem Kaczki)</i>
+  - Pierogi with Cabbage and Mushrooms <i>(Pierogi z Kapustą i Grzybami)</i>
 - Kotlet Schabowy <i>(Kotlet Schabowy)</i>
 - Zrazy <i>(Zrazy)</i>
 - Pyzy <i>(Pyzy)</i>

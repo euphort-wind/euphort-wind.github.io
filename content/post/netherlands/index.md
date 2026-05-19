@@ -153,6 +153,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - Stamppot <i>(Stamppot)</i>
   - Boerenkool Stamppot <i>(Boerenkool Stamppot)</i>
   - Andijvie Stamppot <i>(Andijvie Stamppot)</i>
+  - Zuurkool Stamppot <i>(Zuurkool Stamppot)</i>
 - Hachée <i>(Hachée)</i>
 - Uitsmijter <i>(Uitsmijter)</i>
 - Poffertjes <i>(Poffertjes)</i>
@@ -165,8 +166,9 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - Stroopwafel <i>(Stroopwafel)</i>
 - Dutch Cheese <i>(Nederlandse Kaas)</i>
   - Gouda <i>(Goudse Kaas)</i>
-  - Edam <i>(Edam)</i>
-  - Maasdam <i>(Maasdamer)</i> 
+  - Edam <i>(Edammer)</i>
+  - Maasdam <i>(Maasdamer)</i>
+  - Boerenkaas <i>(Boerenkaas)</i> 
 - Jenever <i>(Brand: "Bols Zeer Oude")</i>
 - <u>North Holland (Regional Special):</u> Ossenworst <i>(Ossenworst)</i>
 - <u>Utrecht (Regional Special):</u> Utrechtse Spritsen <i>(Utrechtse Spritsen)</i>
