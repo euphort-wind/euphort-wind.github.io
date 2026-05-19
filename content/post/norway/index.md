@@ -102,13 +102,23 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 <b>🥘 Local food & drinks: </b>
 - Gravlaks <i>(Gravlaks)</i>
 - Smoked Salmon <i>(Røkt Laks)</i>
+- Spekesild <i>(Spekesild)</i>
+- Fenalår <i>(Fenalår)</i>
 - Sodd <i>(Sodd)</i>
 - Fårikål <i>(Fårikål)</i>
 - Lutefisk <i>(Lutefisk)</i>
 - Pinnekjøtt with Puréed Swede, Sausages and Potatoes <i>(Pinnekjøtt med Rotmos, Poteter og Pølse)</i>
+- Raspeball <i>(Raspeball)</i>
 - Norwegian Meatcakes with Pea Purée and Brown Gravy <i>(Kjøttkaker med Ertepuré og Brun Saus)</i>
 - Rømmegrøt <i>(Rømmegrøt)</i>
 - Norwegian Waffles <i>(Norske Vafler)</i>
+- Ingefærnøtter <i>(Ingefærnøtter)</i>
+- Fyrstekake <i>(Fyrstekake)</i>
+- Julekake <i>(Julekake)</i>
+- School Bun <i>(Skolebolle)</i>
+- Smultring <i>(Smultring)</i>
+- Marsipankake <i>(Marsipankake)</i> 
+- Queen Maud Fromage <i>(Dronning Mauds Pudding)</i>
 - Brunost Cheese <i>(Brunost)</i>
 - Flatbrød <i>(Flatbrød)</i>
 - Lefse <i>(Lefse)</i>

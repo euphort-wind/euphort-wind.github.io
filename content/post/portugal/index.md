@@ -83,14 +83,32 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 
 <b>🥘 Local food & drinks: </b>
 - Caldo Verde Soup <i>(Caldo Verde)</i>
+- Caldeirada <i>(Caldeirada)</i>
 - Bifana Sandwich <i>(Bifana)</i>
 - Pastéis de Bacalhau <i>(Pastéis de Bacalhau)</i>
 - Grilled Sardines <i>(Sardinhas Assadas)</i>
 - Portuguese Stew <i>(Cozido à Portuguesa)</i>
 - Bacalhau com Natas <i>(Bacalhau com Natas)</i>
+- Bacalhau com Todos <i>(Bacalhau com Todos)</i>
+- Bacalhau à Zé do Pipo <i>(Bacalhau à Zé do Pipo)</i>
+- Pataniscas <i>(Pataniscas)</i>
+- Peixinhos da Horta <i>(Peixinhos da Horta)</i>
+- Carne de Porco à Alentejana <i>(Carne de Porco à Alentejana)</i>
+- Amêijoas à Bulhão Pato <i>(Amêijoas à Bulhão Pato)</i>
+- Bife a Cavalo <i>(Bife a Cavalo)</i>
+- Feijoada <i>(Feijoada)</i>
+- Portuguese Migas <i>(Migas)</i>
+- Arroz de Marisco <i>(Arroz de Marisco)</i>
 - Portuguese-Style Octopus <i>(Polvo à Lagareiro)</i>
 - Portuguese Pastry <i>(Pastel de Nata)</i>
+- Azevia <i>(Azevia)</i>
+- Areias <i>(Areias)</i>
+- Fartura <i>(Fartura)</i>
+- Natas do Céu <i>(Natas do Céu)</i>
+- Chocolate Salami <i>(Salame de Chocolate)</i>
 - Serra da Estrela Cheese <i>(Queijo Serra da Estrela)</i>
+- Cebolada Sauce <i>(Cebolada)</i>
+- Galão Coffee Drink <i>(Galão)</i>
 - Port Wine <i>(Brand: "Ferreira")</i>
 - Green Wine <i>(Brand: "Muralhas Vinho Verde")</i>
 - <u>Lisbon (Regional Special):</u> De Belém Pastry <i>(Pastel de Belém)</i>
