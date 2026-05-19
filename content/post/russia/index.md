@@ -235,8 +235,11 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Olivier Salad <i>(Салат Оливье)</i> 
 - Kholodets <i>(Холодец)</i> 
 - Dressed Herring <i>(Селёдка под Шубой)</i> 
-- Solyanka <i>(Солянка)</i> 
-- Ukha <i>(Уха)</i>
+- Russian Soups <i>(Русские Супы)</i> 
+    - Solyanka <i>(Солянка)</i> 
+    - Rassolnik <i>(Рассольник)</i>
+    - Ukha <i>(Уха)</i>
+    - Shchi <i>(Щи)</i>
 - Okroshka <i>(Окрошка)</i>  
     - Okroshka with Kefir <i>(Окрошка на Кефире)</i> 
     - Okroshka with Kvass <i>(Окрошка на Квасе)</i>  
