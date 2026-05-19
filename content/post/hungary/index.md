@@ -97,19 +97,29 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 
 <b>🥘 Local food & drinks: </b>
 - Lecsó <i>(Lecsó)</i>
-- Goulash Soup <i>(Gulyás)</i>
-- Halászlé <i>(Halászlé)</i>
-    - Halászlé with Catfish <i>(Harcsa Halászlé)</i>
-    - Halászlé with Carp <i>(Ponty Halászlé)</i>
+- Hungarian Soups <i>(Magyar Levesek)</i>
+  - Goulash <i>(Gulyás)</i>
+  - Jókai Bean Soup <i>(Jókai Bableves)</i>
+  - Halászlé <i>(Halászlé)</i>
+  - Palóc Soup <i>(Palócleves)</i>
+  - Hungarian Sour Cherry Soup <i>(Hideg Meggyleves)</i>
 - Lángos <i>(Lángos)</i>
     - Lángos with Sour Cream and Grated Cheese <i>(Sajtos-Tejfölös Lángos)</i>
     - Lángos with Sour Cream, Bacon and Onion <i>(Húsos Lángos)</i>
+    - Lángos with Braised Cabbage <i>(Káposztás Lángos)</i>
 - Pörkölt <i>(Marhapörkölt)</i>  
-- Chicken Paprikash <i>(Paprikás Csirke)</i>  
+- Chicken Paprikash <i>(Paprikás Csirke)</i>
+- Sólet <i>(Sólet)</i>
+- Hortobágyi Palacsinta <i>(Hortobágyi Palacsinta)</i>
+- Brassói Aprópecsenye <i>(Brassói Aprópecsenye)</i>
+- Rakott Krumpli <i>(Rakott Krumpli)</i>
+- Túrós Csusza <i>(Túrós Csusza)</i>
 - Fatányéros <i>(Fatányéros)</i>
-- Hungarian Sour Cherry Soup <i>(Hideg Meggyleves)</i>
+- Tarhonya <i>(Tarhonya)</i>
 - Gundel Crêpe <i>(Gundel-Palacsinta)</i>
+- Arany Galuska <i>(Aranygaluska)</i>
 - Somlói Galuska <i>(Somlói Galuska)</i>
+- Fánk <i>(Fánk)</i>
 - Dobos Torte <i>(Dobostorta)</i>
 - Esterházy Torte <i>(Esterházy-Torta)</i>
 - Pálinka <i>(Brands: "Bestillo Gönci Kajszibarack", "Szicsek Bíbor Kajszibarack")</i> 
