@@ -93,6 +93,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 - Ftira <i>(Ftira)</i>
 - Maltese Rabbit Stew <i>(Stuffat tal-Fenek)</i>
 - Braġjoli <i>(Braġjoli)</i>
+- Imqarrun <i>(Imqarrun il-Forn)</i>
 - Imqaret <i>(Imqaret)</i>
 - Figolla <i>(Figolla)</i>
 - Ġbejna Cheese <i>(Ġbejna Friski)</i>

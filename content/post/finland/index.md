@@ -100,6 +100,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - Sautéed Reindeer <i>(Poronkäristys)</i>
 - Karelian Stew <i>(Karjalanpaisti)</i>
 - Maksalaatikko <i>(Maksalaatikko)</i>
+- Makaronilaatikko <i>(Makaronilaatikko)</i>
 - Kaalilaatikko <i>(Kaalilaatikko)</i>
 - Kebakko <i>(Kebakko)</i>
 - Vatkuli <i>(Palapaisti)</i>
