@@ -123,6 +123,7 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 - Harisa <i>(հարիսա)</i>
 - Khorovats <i>(խորոված)</i>
 - Lula Kebab <i>(լուլա քյաբաբ)</i>
+- Armenian Khashlama <i>(Խաշլամա)</i>
 - Khurjin <i>(Խուրջին)</i>
 - Tjvjik <i>(տժվժիկ)</i>
 - Armenian Cheese <i>(Հայկական պանիրներ)</i>

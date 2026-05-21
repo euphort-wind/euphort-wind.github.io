@@ -326,8 +326,8 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Blueberry Wine <i>(Brand: "Rålund")</i>
 - <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Norrlandstoast med Gula Kantareller)</i>
 - <u>Västerbotten (Regional Special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
-- <u>Gotland (Regional Special):</u> Gotlandic Spring Onion Soup <i>(Gotländsk Kajpsoppa / Kajpsoppa)</i>
-- <u>Gotland (Regional Special):</u> Gotlandic Saffran Pancake with Cream and Dewberry Jam <i>(Saffranspannkaka med Grädde och Salmbärssylt / Saffranspannkakå)</i>
+- <u>Gotland (Regional Special):</u> Gotland Spring Onion Soup <i>(Gotländsk Kajpsoppa)</i>
+- <u>Gotland (Regional Special):</u> Gotland Saffran Pancake with Cream and Dewberry Jam <i>(Saffranspannkaka med Grädde och Salmbärssylt)</i>
 - <u>Västra Götaland (Regional Special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Halv Special)</i>
 - <u>Halland (Regional Special):</u> Långkål <i>(Halländsk Långkål)</i>
 
@@ -354,12 +354,12 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Swedish Fashion <i>(Brands: "Fjällräven", "H&M COS", etc.)</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
-- <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar / Raukar)</i>
-- <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar / Gutar)</i>
-    - The Guta Saga <i>(Gutasagan / Gutasaga)</i>
-    - The Gotlandic Picture Stones <i>(Bildstenar / Bildstenar)</i>
-    - The Pärk Game <i>(Pärk / Perk)</i>
-    - The Varpa Game <i>(Varpa / Varpo)</i>
+- <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar)</i>
+- <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar)</i>
+    - Gotland Picture Stones <i>(Bildstenar)</i>
+    - The Pärk Game <i>(Pärk)</i>
+    - The Varpa Game <i>(Varpa)</i>
+    - The Guta Saga <i>(Gutasagan)</i>
 - <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
 - <u>Halland (Regional Special):</u> The Bonad Painting <i>(Bonadsmålning)</i>
 - <u>Västra Götaland (Regional Special):</u> The Legacy of Geates <i>(Götar / Gautar)</i>
