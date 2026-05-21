@@ -127,10 +127,8 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Mititei <i>(Mici)</i>
 - Papanași <i>(Papanași)</i>
 - Amandine Cake <i>(Amandină)</i>
-- Romanian Cheese <i>(Brânză Românească)</i>
-  - Brânză de Vaci <i>(Brânză de Vaci)</i>
-  - Telemea <i>(Telemea)</i>
-  - Penteleu <i>(Penteleu)</i>
+- Brânză de Vaci Cheese <i>(Brânză de Vaci)</i>
+- Telemea Cheese <i>(Telemea)</i>
 - Covrigi <i>(Covrigi)</i>
 - Țuică <i>(Brand: "Vlad Țepeș")</i>
 - <u>Covasna (Regional Special):</u> Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>

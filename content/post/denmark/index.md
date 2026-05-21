@@ -102,6 +102,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - Tebirkes <i>(Tebirkes)</i>
 - Risalamande <i>(Risalamande)</i>
 - Danbo Cheese <i>(Danbo)</i>
+- Danablu Cheese <i>(Danablu)</i>
 - Danish Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
 
 

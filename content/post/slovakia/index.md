@@ -117,7 +117,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 - Authentic Musical Instrument: Fujara <i>(Fujara)</i>
 - Authentic Garb: Slovak Kroj <i>(Slovenský Kroj)</i>
 - The Culture of Rusyns <i>(Rusíni / Русины)</i>
-- <u>Banskobystrický (Regional Special):</u> The Tajchy Artificial Lakes <i>(Tajchy)</i>
+- <u>Banská Bystrica (Regional Special):</u> The Tajchy Artificial Lakes <i>(Tajchy)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Day of the Establishment of the Slovak Republic <i>(Deň Vzniku Slovenskej Republiky)</i>. Month: January
