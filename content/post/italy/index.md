@@ -270,6 +270,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Pizza Margherita <i>(Pizza Margherita / Pizza Margherita)</i> 
 - <u>Campania (Regional Special):</u> Neapolitan Calzone <i>(Calzone Napoletano / Cauzone Napulitano)</i>
 - <u>Campania (Regional Special):</u> Carrozza <i>(Mozzarella in Carrozza / Muzzarella 'n Carrozza)</i>
+- <u>Campania (Regional Special):</u> Caprese Salad <i>(Insalata Caprese / Caprese)</i>
 - <u>Campania (Regional Special):</u> Spaghetti alle Vongole <i>(Spaghetti alle Vongole / Spaghetti cu 'e Vongole)</i>
 - <u>Campania (Regional Special):</u> Pasta alla Genovese <i>(Pasta alla Genovese / Pasta â Genovese)</i>
 - <u>Campania (Regional Special):</u> Sfogliatella <i>(Sfogliatelle / Sfugliatelle)</i>
