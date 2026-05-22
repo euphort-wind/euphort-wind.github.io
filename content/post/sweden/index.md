@@ -355,7 +355,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
 - <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar)</i>
-- <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar)</i>
+- <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar / Gotar)</i>
     - Gotland Picture Stones <i>(Bildstenar)</i>
     - The Pärk Game <i>(Pärk)</i>
     - The Varpa Game <i>(Varpa)</i>
