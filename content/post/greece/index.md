@@ -162,7 +162,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - The Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
   - The Knossos Board Game <i>(Ζατρίκιον)</i>
 - <u>South Aegean (Regional Special):</u> The Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
-- <u>South Aegean (Regional Special):</u> Santorini Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
+- <u>South Aegean (Regional Special):</u> The Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
