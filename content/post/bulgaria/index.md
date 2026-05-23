@@ -111,6 +111,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Snow White Salad <i>(Салата Снежанка)</i>
 - Tarator Soup <i>(Таратор)</i>
 - Lyutenitsa <i>(Лютеница)</i>
+- Kyopolou <i>(Кьопоолу)</i>
 - Lukanka <i>(Луканка)</i>
 - Banitsa Pie <i>(Баница)</i>
   - Banitsa with Crushed White Cheese <i>(Баница със Сирене)</i>

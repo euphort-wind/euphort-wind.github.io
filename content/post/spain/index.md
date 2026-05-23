@@ -86,7 +86,10 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - Salchichon Tapas <i>(Salchichón)</i>
   - Boquerones en Vinagre <i>(Boquerones en Vinagre)</i>
 - Gazpacho <i>(Gazpacho)</i>
+- Patatas Bravas <i>(Patatas Bravas)</i>
 - Spanish Omelette <i>(Tortilla Española)</i>
+- Huevos Rotos <i>(Huevos Estrellados)</i>
+- Gambas al Ajillo (Gambas al Ajillo)
 - Paella <i>(Paella)</i>
 - Fideuà <i>(Fideuà)</i>
 - Churro <i>(Churro)</i>
@@ -94,12 +97,15 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Manchego Cheese <i>(Queso Manchego)</i>
 - Tomate Frito Sauce <i>(Tomate Frito)</i>
 - Sherry Wine <i>(Brands: "La Guita Manzanilla", "Tio Pepe Fino")</i>
+- Sangria Cocktail <i>(Sangría)</i>
 - <u>Catalonia (Regional Special):</u> Fuet Sausage <i>(Fuet / Fuet)</i>
 - <u>Catalonia (Regional Special):</u> Pa amb Tomàquet <i>(Pan con Tomate / Pa amb Tomàquet)</i>
+- <u>Catalonia (Regional Special):</u> Samfaina <i>(Samfaina / Pebrereta)</i>
 - <u>Catalonia (Regional Special):</u> Esqueixada <i>(Esqueixada / Esqueixada)</i>
 - <u>Catalonia (Regional Special):</u> Escalivada <i>(Escalibada / Escalivada)</i>
 - <u>Catalonia (Regional Special):</u> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
 - <u>Catalonia (Regional Special):</u> Mató Cheese <i>(Mató / Mató)</i>
+- <u>Catalonia (Regional Special):</u> Aïoli Sauce <i>(Alioli / Allioli)</i>
 
 
 <b>🎬 Local movies:</b>
