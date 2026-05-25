@@ -267,6 +267,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - The Legacy of Gauls <i>(Gaulois / Galli)</i> 
 - The Legacy of Franks <i>(Francs / Franci)</i> 
 - The Heritage of the Kingdom of France <i>(Royaume de France / Reaume de France)</i>
+- The Heritage of the French Empire <i>(Empire Français)</i>
 - <u>Île-de-France (Regional Special):</u> The Apache Dance <i>(Valse Chaloupée)</i>
 - <u>Île-de-France (Regional Special):</u> The Bal-Musette Music <i>(Bal Musette)</i>
 - <u>Île-de-France (Regional Special):</u> The Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>

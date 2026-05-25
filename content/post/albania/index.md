@@ -103,6 +103,8 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - Authentic Musical Instrument: Çifteli <i>(Çiftelia)</i>
 - Authentic Garb: Xhubleta & Xhamadan <i>(Xhubleta dhe Xhamadan)</i> 
 - The Heritage of the Medieval Kingdom of Albania <i>(Mbretëria e Arbërisë / Regnum Albaniae)</i>
+- The Heritage of the League of Lezhë <i>(Lidhja e Lezhës)</i>
+
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Albania <i>(Dita e Pavarësisë)</i>. Month: November

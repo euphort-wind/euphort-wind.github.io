@@ -129,6 +129,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Authentic Garb: Mantilla & Traje de Luces <i>(Mantilla y Traje de Luces)</i>
 - The Legacy of Iberians <i>(Íberos / Ἴβηρες)</i>
 - The Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
+- The Heritage of the Spanish Republic <i>(República Española)</i>
 - <u>Catalonia (Regional Special):</u> The Culture of Catalans <i>(Catalanes / Catalans)</i>
   - Authentic Principle: Seny <i>(Seny / Seny)</i>
   - Catalan Mythology <i>(Mitología Catalana / Mitologia Catalana)</i>
