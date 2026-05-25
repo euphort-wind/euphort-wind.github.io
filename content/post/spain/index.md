@@ -140,6 +140,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - Catalan Art Nouveau Architecture <i>(Modernismo Catalán / Modernisme Català)</i>
   - Authentic Garb: Espadrille <i>(Alpargatas / Espardenyes)</i>
   - Authentic Musical Instrument: Flabiol <i>(Flabiol / Flabiol)</i>
+  - The Heritage of the Principality of Catalonia <i>(Principado de Cataluña / Principat de Catalunya)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
