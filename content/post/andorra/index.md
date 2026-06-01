@@ -33,7 +33,7 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
 
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Andorra la Vella, Escaldes–Engordany, La Massana.<br>
+<b>🗺 Places:</b> Andorra la Vella, Escaldes-Engordany, La Massana.<br>
 
 <b>🏛 Top sights visited: </b>
 
@@ -50,7 +50,7 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
     - The Nobility of Time Monument <i>(La Noblesse du Temps)</i>
     - The Paris Bridge <i>(Pont de París)</i>
     - The Seven Poets Monument <i>(7 Poetes)</i>
-2. Escaldes–Engordany
+2. Escaldes-Engordany
     - Carlemany Avenue <i>(Avinguda Carlemany)</i>
     - The Caldea Spa Complex <i>(Centre Termolúdic Caldea)</i>
     - Pont d'Engordany <i>(Pont d'Engordany)</i>
@@ -106,7 +106,7 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
 - Constitution Day <i>(Dia de la Constitució)</i>. Month: March
 - The Falles of the Pyrenees <i>(Falles del Pirineu)</i>. Month: June 
 - <u>Andorra la Vella (Regional Special):</u> Andorra la Vella Annual Festival <i>(Festa Major de Sant Vicenç)</i>. Month: August
-- <u>Escaldes–Engordany (Regional Special):</u> Escaldes–Engordany Annual Festival <i>(Festa Major d’Escaldes-Engordany)</i>. Month: August
+- <u>Escaldes-Engordany (Regional Special):</u> Escaldes–Engordany Annual Festival <i>(Festa Major d’Escaldes-Engordany)</i>. Month: August
 - <u>La Massana (Regional Special):</u> La Massana Annual Festival <i>(Festa Major de la Massana)</i>. Month: August
 
 
