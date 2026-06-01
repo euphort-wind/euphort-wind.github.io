@@ -251,9 +251,10 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
 - Beef Stroganoff <i>(Бефстроганов)</i> 
 - Pelmeni <i>(Пельмени)</i>
+- Guryev Porridge <i>(Гурьевская Каша)</i>
 - Easter Paskha <i>(Творожная Пасха)</i> 
-- Guryev Porridge <i>(Гурьевская Каша)</i> 
 - Pryanik <i>(Пряник)</i> 
+- Medovik <i>(Медовик)</i> 
 - Baked Milk <i>(Топлёное Молоко)</i> 
 - Russian Draft Beer <i>(Brand: "Sladovar")</i> 
 - Russian Vodka <i>(Brands: "Derevenka", "Tsarskaya")</i> 

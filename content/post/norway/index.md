@@ -85,6 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - 🇳🇴 Vidar Villa (singer). Genre: pop
 - 🇳🇴 Marcus & Martinus (duo). Genre: pop
 - 🇳🇴 Soppgirobygget (DJ duo). Genre: russ music
+- 🇳🇴 Cezinando (singer). Genre: pop
 - 🇺🇳 Secret Garden (duo). Genre: new-age
 - 🇺🇳 A-ha (band). Genre: pop
 - 🇺🇳 Ørjan Nilsen (DJ). Genre: trance
@@ -102,6 +103,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 <b>🥘 Local food & drinks: </b>
 - Gravlaks <i>(Gravlaks)</i>
 - Smoked Salmon <i>(Røkt Laks)</i>
+- Ribberull <i>(Ribberull)</i>
 - Spekesild <i>(Spekesild)</i>
 - Fenalår <i>(Fenalår)</i>
 - Sodd <i>(Sodd)</i>

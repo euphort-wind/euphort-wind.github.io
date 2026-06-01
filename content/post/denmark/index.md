@@ -100,6 +100,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - Æbleflæsk <i>(Æbleflæsk)</i>
 - Danish Pastry <i>(Wienerbrød)</i>
 - Tebirkes <i>(Tebirkes)</i>
+- Æbleskiver <i>(Æbleskiver)</i>
 - Risalamande <i>(Risalamande)</i>
 - Danbo Cheese <i>(Danbo)</i>
 - Danablu Cheese <i>(Danablu)</i>

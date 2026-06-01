@@ -93,6 +93,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Paella <i>(Paella)</i>
 - Fideuà <i>(Fideuà)</i>
 - Churro <i>(Churro)</i>
+- Fartón <i>(Fartón)</i>
 - Quince Paste <i>(Dulce de Membrillo)</i>
 - Manchego Cheese <i>(Queso Manchego)</i>
 - Tomate Frito Sauce <i>(Tomate Frito)</i>

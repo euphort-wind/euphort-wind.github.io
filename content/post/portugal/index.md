@@ -85,6 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - Caldo Verde Soup <i>(Caldo Verde)</i>
 - Caldeirada <i>(Caldeirada)</i>
 - Bifana Sandwich <i>(Bifana)</i>
+- Prego Sandwich <i>(Prego)</i>
 - Grilled Sardines <i>(Sardinhas Assadas)</i>
 - Portuguese Stew <i>(Cozido à Portuguesa)</i>
 - Portuguese Cod Dishes <i>(Pratos de Bacalhau)</i>
