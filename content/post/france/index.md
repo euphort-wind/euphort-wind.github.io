@@ -27,7 +27,7 @@ gallery_item:
     caption: Albi
   - album: france
     image: 8food.jpeg
-    caption: Coq au vin, French Onion Soup and Crème Brûlée
+    caption: Coq au Vin, French Onion Soup and Crème Brûlée
 
 ---
 Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was there in 2026. Below are some notes on what I tasted, saw and listened to. 
