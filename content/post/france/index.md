@@ -8,14 +8,14 @@ gallery_item:
     image: 1paris.jpeg
     caption: Paris
   - album: france
-    image: 2notr.jpeg
-    caption: Notre-Dame Cathedral of Paris
-  - album: france
-    image: 3eiffel.jpeg
+    image: 2eiffel.jpeg
     caption: Eiffel Tower
   - album: france
-    image: 4louvre.PNG
+    image: 3louvre.jpg
     caption: The Louvre Museum
+  - album: france
+    image: 4toulou.jpeg
+    caption: The Basilica of Saint-Sernin
   - album: france
     image: 5vers.jpg
     caption: Hôtel de Ville de Versailles
@@ -23,8 +23,8 @@ gallery_item:
     image: 6palac.jpg
     caption: The Palace of Versailles 
   - album: france
-    image: 7inval.jpeg
-    caption: The Hôtel des Invalides
+    image: 7albi.jpeg
+    caption: Albi
   - album: france
     image: 8food.jpeg
     caption: Coq au vin, French Onion Soup and Crème Brûlée
