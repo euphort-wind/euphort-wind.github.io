@@ -113,7 +113,7 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
 <b>💐 National flower: </b> Poet's Narcissus <i>(Grandalla)</i>
 
 
-<b>🦉 Local wisdom:</b> "When Peak Carroi puts on its hat, it will rain or snow in the valley." / <i>"Quan Carroi es posa el capell, pluja o neu a la vall del Consell."</i> — Andorran proverb
+<b>🦉 Local wisdom:</b> "If the peak is covered in clouds, bad weather will come to the capital." / <i>"Quan Carroi es posa el capell, pluja o neu a la vall del Consell."</i> — Andorran proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Andorra <i>(Universitat d'Andorra)</i>, Sant Julià de Lòria, est. 1988. 
