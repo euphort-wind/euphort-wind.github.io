@@ -34,7 +34,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️. 
 
-<b>🗺 Places:</b> Paris, Versailles.<br>
+<b>🗺 Places:</b> Paris, Versailles, Toulouse, Albi.<br>
 
 <b>🏛 Top sights visited: </b>
 
@@ -66,6 +66,26 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
     - The Hôtel de Ville <i>(Hôtel de Ville)</i>
     - The Palace of Justice <i>(Palais de Justice)</i>
     - Versailles Cathedral <i>(Cathédrale Saint-Louis de Versailles)</i>
+3. Toulouse
+    - The Basilica of Saint-Sernin <i>(Basilique Saint-Sernin de Toulouse)</i>
+    - The Capitole de Toulouse <i>(Capitole de Toulouse)</i>
+    - The Hôpital de La Grave <i>(Hôpital de La Grave)</i>
+    - The Pont Neuf <i>(Pont Neuf)</i>
+    - The Hôtel d'Assézat <i>(Hôtel d'Assézat)</i>
+    - The Musée des Augustins <i>(Musée des Augustins)</i>
+    - Toulouse Cathedral <i>(Cathédrale Saint-Étienne)</i>
+    - Jardin des Plantes <i>(Jardin des Plantes)</i>
+    - Toulouse-Matabiau Station <i>(Toulouse-Matabiau)</i>
+4. Albi
+    - Old Town Albi <i>(Vieille d'Albi)</i>
+    - The Cathedral of Saint Cecilia <i>(Cathédrale Sainte-Cécile d'Albi)</i> 
+    - Musée Toulouse-Lautrec <i>(Musée Toulouse-Lautrec)</i> 
+    - The Pont-Vieux d'Albi <i>(Pont-Vieux d'Albi)</i>
+    - The Berbie Palace <i>(Palais de la Berbie)</i> 
+    - Albi City Hall <i>(Hôtel de Ville d'Albi)</i>
+    - The Church of St. Salvy <i>(Collégiale Saint-Salvi d'Albi)</i>
+    - Albi Market Hall <i>(Halle du Marché)</i>
+    - Hôtel du Bosc <i>(Hôtel du Bosc)</i>
 {{< /spoiler >}}
     
 <b>🎧 Local musicians: </b>
@@ -77,6 +97,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🇫🇷 Hoshi (singer). Genre: nouvelle chanson
 - 🇫🇷 Vanessa Paradis (singer). Genre: pop
 - 🇫🇷 Mylène Farmer (singer). Genre: pop
+- 🇫🇷 Calogero (singer). Genre: pop
 - 🇫🇷 Grégoire (singer). Genre: pop
 - 🇫🇷 Yamê (rapper). Genre: trap
 - 🇫🇷 Najoua Belyzel (singer). Genre: pop rock
@@ -90,7 +111,6 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🇫🇷 Team BS (band). Genre: hip-hop
 - 🇫🇷 Nâdiya (singer). Genre: R&B
 - 🇫🇷 Disiz (rapper). Genre: hip-hop
-- 🇫🇷 Calogero (singer). Genre: pop
 - 🇫🇷 Ysa Ferrer (singer). Genre: pop rock
 - 🇺🇳 David Guetta (DJ). Genre: house
 - 🇺🇳 Duft Punk (DJ). Genre: french house
@@ -108,6 +128,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🇺🇳 Gesaffelstein (DJ). Genre: dark techno
 - 🇺🇳 F.R. David (singer). Genre: europop
 - 🇺🇳 Imany (singer). Genre: soul
+- 🇺🇳 Jain (singer). Genre: art pop
 
 
 <b>🎚️ Contribution to EDM: </b>
@@ -206,6 +227,13 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - <u>Île-de-France (Regional Special):</u> Hachis Parmentier <i>(Hachis Parmentier)</i>
 - <u>Île-de-France (Regional Special):</u> Paris-Brest <i>(Paris-Brest)</i>
 - <u>Île-de-France (Regional Special):</u> Flan Pâtissier <i>(Flan Pâtissier)</i>
+- <u>Occitania (Regional Special):</u> Farçous <i>(Farçous / Farsou)</i>
+- <u>Occitania (Regional Special):</u> Aligot <i>(Aligot / Aligòt)</i>
+- <u>Occitania (Regional Special):</u> Cassoulet <i>(Cassoulet / Cassolada)</i>
+- <u>Occitania (Regional Special):</u> Saucisse de Toulouse <i>(Saucisse de Toulouse / Salsissa de Tolosa)</i>
+- <u>Occitania (Regional Special):</u> Alicot <i>(Alicot / Alicuit)</i>
+- <u>Occitania (Regional Special):</u> Croustade <i>(Croustade / Crostada)</i>
+- <u>Occitania (Regional Special):</u> Fénétra <i>(Fénétra / Fénétra)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -272,7 +300,13 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - <u>Île-de-France (Regional Special):</u> The Bal-Musette Music <i>(Bal Musette)</i>
 - <u>Île-de-France (Regional Special):</u> The Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
 - <u>Île-de-France (Regional Special):</u> The Art Déco Architecture <i>(Architecture Art Déco)</i>
-
+- <u>Occitania (Regional Special):</u> The Chabrot Custom <i>(Chabrot / Chabròt)</i>
+- <u>Occitania (Regional Special):</u> The Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
+  - Authentic Principle: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
+  - The Troubadours & Occitan Lyric Poetry <i>(Troubadours et Poésie Lyrique Occitane / Trobadors e Poesia Lirica Occitana)</i>
+  - The Floral Games <i>(Jeux Floraux / Jòcs Florals)</i>
+  - Catharism <i>(Catharisme / Catarisme)</i>
+  - The Meridional Gothic Architecture <i>(Architecture Gothique Méridional / Arquitectura Gòtica Meridionala)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
@@ -280,9 +314,10 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - The Fête de la Musique <i>(Fête de la Musique)</i>. Month: June
 - The Beaujolais Nouveau Day <i>(Journée du Beaujolais Nouveau)</i>. Month: November
 - <u>Île-de-France (Regional Special):</u> Nuit Blanche Festival <i>(Nuit Blanche)</i>. Month: November
-
+- <u>Occitania (Regional Special):</u> Estivada <i>(L'Estivada / L'Estivada)</i>. Month: July
 
 <b>💐 National flower: </b> Yellow Iris <i>(Iris des Marais)</i>
+- <u>Occitania (Regional Special):</u> Toulouse Violet <i>(Violette de Toulouse / Violeta de Tolosa)</i>
 
 
 <b>🦉 Local wisdom:</b> "Little by little, the bird makes its nest." / <i>"Petit à petit, l'oiseau fait son nid."</i> — French proverb
