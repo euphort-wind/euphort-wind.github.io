@@ -26,7 +26,7 @@ gallery_item:
     image: 7stone.jpeg
     caption: Traditional Andorran Vernacular Houses
   - album: andorra
-    image: 8food.jpeg
+    image: 8fooda.jpeg
     caption: Andorran Escudella and Trinxat
 ---
 Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was there in 2026. Below are some notes on what I tasted, saw and listened to.
