@@ -14,8 +14,8 @@ gallery_item:
     image: 3escac.jpeg
     caption: Església de Sant Pere Màrtir
   - album: andorra
-    image: 4esc.jpg
-    caption: Escaldes–Engordany
+    image: 4esc.jpeg
+    caption: Escaldes-Engordany
   - album: andorra
     image: 5massa.jpeg
     caption: La Massana
@@ -97,7 +97,7 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
 - The Contrapàs Dance <i>(Contrapàs)</i>
 - The Hiking Tradition <i>(Senderisme)</i>
 - The Ball de l’Ossa d’Encamp Performance <i>(Ball de l’Ossa d’Encamp)</i>
-- The Ball de L'Última Ossa d'Ordino Performance <i>(Ball de L'Última Ossa d'Ordino)</i> 
+- The Ball de l'Última Ossa d'Ordino Performance <i>(Ball de L'Última Ossa d'Ordino)</i> 
 - Andorran Romanesque Architecture <i>(Arquitectura Romànica Andorrana)</i>
 
 
