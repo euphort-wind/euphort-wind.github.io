@@ -229,9 +229,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: article-grid
-      # Instruct the grid to map out into 2 columns
-      columns: 2
+      view: list
+      columns: '3'
   
   - block: contact
     id: contact
