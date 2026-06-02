@@ -229,9 +229,9 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
-      columns: '1'
-      css_class: "md:grid md:grid-cols-2 md:gap-x-8"
+      view: article-grid
+      # Instruct the grid to map out into 2 columns
+      columns: 2
   
   - block: contact
     id: contact
