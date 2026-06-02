@@ -230,7 +230,8 @@ sections:
     design:
       # Choose a layout view
       view: list
-      columns: '2'
+      columns: '1'
+      css_class: "md:grid md:grid-cols-2 md:gap-x-8"
   
   - block: contact
     id: contact
