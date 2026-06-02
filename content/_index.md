@@ -230,7 +230,7 @@ sections:
     design:
       # Choose a layout view
       view: list
-      columns: '3'
+      columns: '2'
   
   - block: contact
     id: contact
