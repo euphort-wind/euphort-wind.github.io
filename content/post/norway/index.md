@@ -155,7 +155,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
   - The Title of Jarl <i>(Jarl)</i>
   - The Younger Futhark Runic Alphabet <i>(Den Yngre Futharken / ᚠᚢᚦᚬᚱᚴ)</i> 
   - The Hnefatafl Game <i>(Hnefatafl)</i> 
-  - The Skaldic Poetry <i>(Skaldekvad)</i> 
+  - The Skalds & Skaldic Poetry <i>(Skalder og Skaldekvad)</i> 
   - The Viking Ship Construction <i>(Vikingskip)</i> 
 
 <b>🎊 Authentic holidays & celebrations:</b>

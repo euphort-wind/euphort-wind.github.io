@@ -145,7 +145,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 
 
 <b>🪔 Authentic features:</b>
-- The Supra & Tamadas <i>(სუფრა და თამადა)</i>
+- The Tamadas & Supra <i>(თამადა და სუფრა)</i>
 - The Kvevri-Based Wine Production <i>(ქვევრის ღვინო)</i>
 - The Mkhedruli Script <i>(მხედრული)</i>
 - The Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
