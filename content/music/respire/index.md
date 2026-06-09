@@ -1,6 +1,6 @@
 ---
 title: Euphort Wind - Respire
-summary: 'Produced in 2020. Genre: Experimental' 
+summary: 'Genre: Experimental' 
 tags:
   - Demo
 date: "2020-09-27T00:00:00Z"
