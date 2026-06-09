@@ -1,6 +1,6 @@
 ---
 title: Euphort Wind - A State Of Wanderlust
-summary: 'Genre: Future Garage' 
+summary: 'Genre: Future Garage. Produced in 2024' 
 tags:
   - Demo
 date: "2024-07-06T00:00:00Z"

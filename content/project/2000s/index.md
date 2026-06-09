@@ -1,6 +1,6 @@
 ---
 title: Euphort Wind - We Did It In 2000s
-summary: 'Genre: Eurodance'
+summary: 'Genre: Eurodance. Produced in 2025'
 tags:
   - Demo
 date: "2025-05-12T00:00:00Z"
