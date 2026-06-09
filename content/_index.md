@@ -93,7 +93,7 @@ sections:
       title: Music
       filters:
         folders:
-          - project
+          - music
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
