@@ -88,7 +88,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 🇺🇳 Da Rick (DJ). Genre: jumpstyle
 
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - New Beat. Originated: mid-1980s
 - Belgian Techno. Originated: early 1990s
 - Jumpstyle. Originated: late 1990s

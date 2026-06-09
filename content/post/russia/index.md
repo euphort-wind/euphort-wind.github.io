@@ -226,7 +226,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🇺🇳 Shapov (DJ). Genre: progressive house
 - 🇺🇳 Swanky Tunes (DJ trio). Genre: electro house
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Hardbass. Originated: late 1990s
 - Drift Phonk. Originated: late 2010s
 

@@ -84,7 +84,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - 🇺🇳 Imanbek (DJ). Genre: slap house
 - 🇺🇳 The Limba (singer). Genre: pop 
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Q-Pop. Originated: mid-2010s
 
 

@@ -299,7 +299,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇺🇳 Smash into Pieces (band). Genre: alternative rock
 - 🇺🇳 Fröken Snusk (project). Genre: epadunk
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Europop. Originated: late 1960s
 - Epadunk. Originated: early 2020s
 

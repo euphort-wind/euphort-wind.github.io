@@ -77,7 +77,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - 🇵🇹 Bandidos do Cante (band). Genre: cante alentejano
 - 🇺🇳 DJ Marfox (DJ). Genre: batida
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Batida. Originated: early 2000s
 
 

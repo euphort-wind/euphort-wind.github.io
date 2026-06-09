@@ -103,7 +103,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🇧🇬 Orlin Goranov (singer). Genre: pop
 - 🇧🇬 Молец (duo). Genre: pop
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Chalga. Originated: early 1990s
 
 <b>🥘 Local food & drinks: </b>

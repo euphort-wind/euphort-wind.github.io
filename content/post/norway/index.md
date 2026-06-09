@@ -95,7 +95,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - 🇺🇳 Nico & Vinz (duo). Genre: pop
 - 🇺🇳 Aurora (singer). Genre: indie pop
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Russ Music. Originated: mid-2000s
 - Tropical House. Originated: early 2010s
 

@@ -80,7 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - 🇺🇳 Solomun (DJ). Genre: melodic house
 
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Balkan Beats. Originated: mid-1990s
 
 

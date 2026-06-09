@@ -131,7 +131,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🇺🇳 Jain (singer). Genre: art pop
 
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - French House. Originated: mid-1990s
 - Frenchcore. Originated: mid-1990s
 - Synthwave. Originated: mid-2000s

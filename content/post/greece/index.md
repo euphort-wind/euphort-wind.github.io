@@ -82,7 +82,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🇺🇳 Aero Chord (DJ). Genre: trap
 - 🇺🇳 Steve Angello (DJ). Genre: progressive house
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Skiladiko. Originated: mid-1980s
 
 

@@ -191,7 +191,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🇺🇳 Ludovico Einaudi (composer). Genre: neoclassic
 - 🇺🇳 Savage (singer). Genre: italo disco
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Italo Disco. Originated: late 1970s
 - Italo House. Originated: late 1980s
 - Dream Trance. Originated: late 1990s

@@ -105,7 +105,7 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 - 🇺🇳 Rosa Linn <i>(singer)</i>. Genre: indie pop
 - 🇺🇳 Serj Tankian <i>(singer)</i>. Genre: nu metal
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Modern Rabiz. Originated: early 1990s
 
 

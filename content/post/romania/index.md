@@ -105,7 +105,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🇺🇳 Alis Shuka (singer). Genre: pop
 - 🇺🇳 Alexandra Căpitănescu (singer). Genre: alternative rock
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Romanian Popcorn. Originated: late 2000s
 - Modern Manele. Originated: early 1990s
 

@@ -67,7 +67,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 🇺🇳 Kerosene Club (DJ). Genre: goa trance
 - 🇺🇳 Tarun Shahani (DJ). Genre: psy trance
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Bhangra. Originated: mid-1960s
 - Goa Trance. Originated: early 1990s
 - Psy Trance. Originated: late 1990s

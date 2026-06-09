@@ -57,7 +57,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - 🇺🇳 Ahmed Helmy (DJ). Genre: trance
 
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Tape Music. Originated: mid-1940s
 - Mahraganat. Originated: early 2000s
 

@@ -146,7 +146,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇺🇳 Path of Samsara (band). Genre: stoner rock  
 
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Kosmische Musik. Originated: early 1970s
 - Electronic Body Music. Originated: early 1980s
 - Classic Trance. Originated: late 1980s

@@ -82,7 +82,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - 🇺🇳 Aqua (band). Genre: pop
 - 🇺🇳 MØ (singer). Genre: pop
 
-<b>🎚️ Contribution to EDM: </b>
+<b>🎚️ Authentic EDM genres: </b>
 - Future Rave. Originated: late 2010s
 
 <b>🥘 Local food & drinks: </b>
