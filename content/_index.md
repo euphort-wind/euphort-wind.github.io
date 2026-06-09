@@ -88,7 +88,7 @@ sections:
       view: citation
 
   - block: portfolio
-    id: projects
+    id: music
     content:
       title: Music
       filters:
