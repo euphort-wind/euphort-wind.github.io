@@ -93,7 +93,7 @@ sections:
       title: Music
       filters:
         folders:
-          - music
+          - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -105,7 +105,6 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: compact
-      date: false
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
