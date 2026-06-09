@@ -22,6 +22,7 @@ gallery_item:
   - album: macedonia
     image: 6tower.jpeg
     caption: The Clock Tower of Bitola
+    focal_point: Top
   - album: macedonia
     image: 7museum.jpeg
     caption: NI Institute & Museum Bitola
