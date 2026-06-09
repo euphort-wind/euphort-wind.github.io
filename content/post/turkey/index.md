@@ -175,6 +175,8 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - The Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i>
 - <u>İstanbul (Regional Special):</u> The Istanbul Feral Cats <i>(Sokak Kedisi)</i>
 - <u>Antalya (Regional Special):</u> The Düğmeli Houses <i>(Düğmeli Evler)</i>
+- <u>Muğla (Regional Special):</u> The Heritage of Lycia <i>(Likya / 𐊗𐊕𐊐𐊎𐊆𐊖)</i>
+
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
