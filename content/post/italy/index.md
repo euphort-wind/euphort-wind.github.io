@@ -189,12 +189,14 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🇺🇳 Merk & Kremont (DJ duo). Genre: house
 - 🇺🇳 Daddy's Groove (DJ band). Genre: house
 - 🇺🇳 Ludovico Einaudi (composer). Genre: neoclassic
+- 🇺🇳 Gigi D'Agostino (DJ). Genre: lento violento
 - 🇺🇳 Savage (singer). Genre: italo disco
 
 <b>🎚️ Authentic EDM genres: </b>
 - Italo Disco. Originated: late 1970s
 - Italo House. Originated: late 1980s
 - Dream Trance. Originated: late 1990s
+- Lento Violento. Originated: late 1990s
 
 
 <b>🥘 Local food & drinks: </b>
@@ -352,19 +354,18 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
 - <u>Campania (Regional Special):</u> The Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
 - <u>Campania (Regional Special):</u> The Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
+- <u>Campania (Regional Special):</u> The Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
+- <u>Campania (Regional Special):</u> The Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
+- <u>Campania (Regional Special):</u> The Strummolo Game <i>(Strummolo / Strummolo)</i> 
+- <u>Campania (Regional Special):</u> The Tombola Game <i>(Tombola / Tombola)</i> 
+- <u>Campania (Regional Special):</u> The Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
+- <u>Campania (Regional Special):</u> The Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
+- <u>Campania (Regional Special):</u> The Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
 - <u>Campania (Regional Special):</u> The Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i> 
-- <u>Campania (Regional Special):</u> The Culture of Neapolitans <i>(Napoletani / Napulitani)</i> 
-  - The Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
-  - The Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
-  - The Strummolo Game <i>(Strummolo / Strummolo)</i> 
-  - The Tombola Game <i>(Tombola / Tombola)</i> 
-  - The Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
-  - The Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
-  - The Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
-- <u>Lombardy (Regional Special):</u> The Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
 - <u>Lombardy (Regional Special):</u> Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
 - <u>Lombardy (Regional Special):</u> The Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
 - <u>Lombardy (Regional Special):</u> The Navigli of Milan <i>(Navigli / Navili)</i>
+- <u>Lombardy (Regional Special):</u> The Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
 
 
 

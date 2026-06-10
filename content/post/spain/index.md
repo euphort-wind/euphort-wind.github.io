@@ -70,12 +70,14 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🇪🇸 César de Melero (DJ). Genre: balearic house
 - 🇺🇳 David Tavaré (DJ). Genre: house
 - 🇺🇳 Dr. Kucho! (DJ). Genre: house
+- 🇺🇳 Pastis & Buenri (DJ duo). Genre: mákina
 - 🇺🇳 José Padilla (DJ). Genre: balearic trance
 - 🇺🇳 Sak Noel (DJ). Genre: pop
 
 <b>🎚️ Authentic EDM genres: </b>
 - Balearic House. Originated: late 1980s
 - Balearic Trance. Originated: early 1990s
+- Mákina. Originated: early 1990s
 
 
 <b>🥘 Local food & drinks: </b>
