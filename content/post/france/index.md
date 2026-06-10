@@ -300,7 +300,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - <u>Île-de-France (Regional Special):</u> The Bal-Musette Music <i>(Bal Musette)</i>
 - <u>Île-de-France (Regional Special):</u> The Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
 - <u>Île-de-France (Regional Special):</u> The Art Déco Architecture <i>(Architecture Art Déco)</i>
-- <u>Occitania (Regional Special):</u> The Chabrot Custom <i>(Chabrot / Chabròt)</i>
+- <u>Occitania (Regional Special):</u> The Chabrot Tradition <i>(Chabrot / Chabròt)</i>
 - <u>Occitania (Regional Special):</u> The Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
   - Authentic Principle: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
   - The Troubadours & Occitan Lyric Poetry <i>(Troubadours et Poésie Lyrique Occitane / Trobadors e Poesia Lirica Occitana)</i>
