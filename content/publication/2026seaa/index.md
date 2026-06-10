@@ -21,6 +21,7 @@ publishDate: '2022-07-01T00:00:00Z'
 # Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
 
+
 # Publication name and optional abbreviated publication name.
 publication: In the *52th Euromicro Conference Series on Software Engineering and Advanced Applications '26*
 publication_short: In *SEAA*
