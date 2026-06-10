@@ -1,5 +1,5 @@
 ---
-title: 'MLTradeOps: embedding trade-off management into the MLOps workflow'
+title: 'Toward Systematic Quality Assurance for MLOps'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
