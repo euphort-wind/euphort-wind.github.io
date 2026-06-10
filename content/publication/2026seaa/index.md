@@ -23,8 +23,8 @@ publication_types: ['paper-conference']
 
 
 # Publication name and optional abbreviated publication name.
-publication: In the *52th Euromicro Conference Series on Software Engineering and Advanced Applications '26*
-publication_short: In *SEAA*
+publication: "In the *52nd Euromicro Conference Series on Software Engineering and Advanced Applications '26*"
+publication_short: "In *SEAA*"
 
 abstract: Machine Learning is an integral part of modern software systems, yet the continuous development and operation of ML-enabled applications (MLOps) remains challenging. The data-dependent and probabilistic nature of these systems requires addressing quality systematically, tailored to the characteristics of the system at hand; yet the adoption of Quality Assurance (QA) practices is still fragmented. In this paper, we address this issue by proposing a research framework for structured QA within MLOps through two contributions: (1) a taxonomy of MLOps products capturing structural features in data-, model-related, development, and operational processes, evaluated on 79 open-source projects; and (2) a mapping between MLOps phases, product quality attributes, metrics, and considerations based on 55 scholarly sources. We show how the selection of relevant metrics and considerations for QA can be tailored to a specific MLOps implementation with its unique combination of features from our taxonomy, which paves the way for the design of a structured QA process.
 
