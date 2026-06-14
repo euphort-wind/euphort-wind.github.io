@@ -126,26 +126,26 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 
 
 <b>🪔 Authentic features:</b>
-- The Polonaise Dance <i>(Polonez)</i>
-- The Mazurka Dance <i>(Mazurek)</i>
-- The Oberek Dance <i>(Oberek)</i>
-- The Palant Game <i>(Palant)</i>
+- Polonaise Dance <i>(Polonez)</i>
+- Mazurka Dance <i>(Mazurek)</i>
+- Oberek Dance <i>(Oberek)</i>
+- Palant Game <i>(Palant)</i>
+- Bolesławiec Pottery <i>(Ceramika Bolesławiecka)</i>
+- Zakopane Architecture <i>(Styl Zakopiański)</i>
 - Polish Brick Gothic Architecture <i>(Gotyk Ceglany)</i>
-- The Zakopane Architecture <i>(Styl Zakopiański)</i>
-- The Bolesławiec Pottery <i>(Ceramika Bolesławiecka)</i>
 - Polish Folklore <i>(Folklor Polski)</i>
 - Authentic Musical Instrument: Koza <i>(Koza)</i>
 - Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i> 
-- The Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i>
-- The Heritage of the Polish–Lithuanian Commonwealth <i>(Rzeczpospolita / Regnum Poloniae Magnusque Ducatus Lithuaniae)</i>
+- Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i>
+- Heritage of the Polish–Lithuanian Commonwealth <i>(Rzeczpospolita / Regnum Poloniae Magnusque Ducatus Lithuaniae)</i>
   - Authentic Principle: Sarmatism <i>(Sarmatyzm)</i>
+  - Title of Szlachcic <i>(Szlachcic)</i>
   - Polish Baroque Architecture <i>(Sztuka Barokowa w Polsce)</i>
-  - The Title of Szlachcic <i>(Szlachcic)</i>
   - Authentic Garb: Robe à la Polonaise & Żupan <i>(Poloneska i Żupan)</i> 
-- <u>Pomeranian (Regional Special):</u> The Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
+- <u>Pomeranian (Regional Special):</u> Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
+  - Koseder Dance <i>(Koseder / Kòséder)</i>
   - Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
   - Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
-  - The Koseder Dance <i>(Koseder / Kòséder)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

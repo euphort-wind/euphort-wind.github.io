@@ -107,18 +107,18 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Ćejf <i>(Ćejf)</i>
-- The Sevdah Music <i>(Sevdah)</i>
-- The Konjic Woodcarving <i>(Konjičko Drvorezbarstvo)</i>
-- The Bosnian-Style Architecture <i>(Bosanski Stil u Arhitekturi)</i>
+- Sevdah Music <i>(Sevdah)</i>
+- Konjic Woodcarving <i>(Konjičko Drvorezbarstvo)</i>
+- Title of Tripartite President <i>(Tročlano Predsjedništvo)</i>
+- Bosnian-Style Architecture <i>(Bosanski Stil u Arhitekturi)</i>
 - Bosniak Epic Poetry <i>(Bošnjačke Epske Narodne Pjesme)</i>
-- The Title of Tripartite President <i>(Tročlano Predsjedništvo)</i>
 - Authentic Musical Instrument: Šargija <i>(Šargija)</i> 
-- The Heritage of the Bosnian Kingdom <i>(Kraljevina Bosna / Краљевина Босна)</i>
-    - The Bosnian Church Christianity <i>(Crkva Bosanska)</i>
-    - The Stećci <i>(Stećci)</i>
-    - The Bosančica Script <i>(Bosančica)</i>
+- Heritage of the Bosnian Kingdom <i>(Kraljevina Bosna / Краљевина Босна)</i>
+    - Bosnian Church Christianity <i>(Crkva Bosanska)</i>
+    - Stećci <i>(Stećci)</i>
+    - Bosančica Script <i>(Bosančica)</i>
 - <u>Sarajevo (Regional Special):</u> Sarajevo Roses <i>(Sarajevske Ruže)</i>
-- <u>Herzegovina-Neretva (Regional Special):</u> The Stari Most Diving Tradition <i>(Skokovi sa Starog mosta)</i>
+- <u>Herzegovina-Neretva (Regional Special):</u> Stari Most Diving Tradition <i>(Skokovi sa Starog Mosta)</i>
 
 
 

@@ -111,20 +111,20 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - Authentic Principle: Thainess <i>(ความเป็นไทย)</i>
 - Buddhism <i>(ศาสนาพุทธ)</i>
 - Muay Thai Boxing <i>(มวยไทย)</i>
-- The Khon Dance <i>(โขน)</i>
-- The Lai Rot Nam Art <i>(ลายรดน้ำ)</i>
-- The Makruk Game <i>(หมากรุก)</i> 
-- The Ka Fak Khai Game <i>(กาฟักไข่)</i>
-- The Mak-Yek Game <i>(หมากแยก)</i>
+- Khon Dance <i>(โขน)</i>
+- Lai Rot Nam Art <i>(ลายรดน้ำ)</i>
+- Makruk Game <i>(หมากรุก)</i> 
+- Ka Fak Khai Game <i>(กาฟักไข่)</i>
+- Mak-Yek Game <i>(หมากแยก)</i>
 - Thai Folk Religion <i>(ศาสนาผี)</i>
 - Thai Massage <i>(นวดแผนไทย)</i>
 - Thai Script <i>(อักษรไทย)</i>
 - Thai Folklore <i>(นิทานพื้นบ้านไทย)</i>
 - Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
 - Authentic Garb: Pha Nung <i>(ผ้านุ่ง)</i>
-- The Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>
-- The Heritage of the Rattanakosin Kingdom <i>(อาณาจักรรัตนโกสินทร์)</i>
-- <u>Phuket (Regional Special)</u>: The Culture of Urak Lawoi <i>(อูรักลาโว้ย / Orang Laut)</i>
+- Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>
+- Heritage of the Rattanakosin Kingdom <i>(อาณาจักรรัตนโกสินทร์)</i>
+- <u>Phuket (Regional Special)</u>: Culture of Urak Lawoi <i>(อูรักลาโว้ย / Orang Laut)</i>
 
 
 

@@ -99,17 +99,17 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 
 
 <b>🪔 Authentic features:</b>
-- The Kiiking <i>(Kiiking)</i>
-- Estonian E-Government <i>(E-Riik)</i>
+- Epic of Kalevipoeg <i>(Kalevipoeg: Eesti Rahva Eepos)</i>
+- Kiiking <i>(Kiiking)</i>
 - Estonian Mythology <i>(Eesti Mütoloogia)</i>
 - Estonian Runic Singing <i>(Regilaul)</i>
-- The Epic of Kalevipoeg <i>(Kalevipoeg: Eesti Rahva Eepos)</i>
+- Estonian E-Government <i>(E-Riik)</i>
 - Authentic Musical Instrument: Kannel <i>(Kannel)</i>
 - <u>Võru (Regional Special):</u> Võro Smoke Sauna <i>(Suitsusaun / Savvusann)</i>
-- <u>Võru (Regional Special):</u> The Culture of Setos <i>(Setukesed / Setokõsõq)</i>
+- <u>Võru (Regional Special):</u> Culture of Setos <i>(Setukesed / Setokõsõq)</i>
   - Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
-  - The Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
-  - The Title of Ülemsootska <i>(Ülemsootska / Ülembsootśka)</i>
+  - Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
+  - Title of Ülemsootska <i>(Ülemsootska / Ülembsootśka)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

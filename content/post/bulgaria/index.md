@@ -136,25 +136,25 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 
 
 <b>🪔 Authentic features:</b>
-- The Cyrillic Alphabet <i>(Кирилица)</i>
-- The Horo Dance <i>(Хоро)</i>
-- The Kukeri Costume <i>(Кукери)</i>
-- The Anastenaria Ritual <i>(Нестинарство)</i>
-- The Shevitsa Embroidery <i>(Шевица)</i>
+- Cyrillic Alphabet <i>(Кирилица)</i>
+- Horo Dance <i>(Хоро)</i>
+- Kukeri Costume <i>(Кукери)</i>
+- Anastenaria Ritual <i>(Нестинарство)</i>
+- Shevitsa Embroidery <i>(Шевица)</i>
 - Bulgarian Revival Architecture <i>(Възрожденска Архитектура)</i>
 - Bulgarian Mythology <i>(Българската Митология)</i>
 - Authentic Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
 - Authentic Garb: Bulgarian Nosiya <i>(Носия)</i>
-- The Legacy of Thracians <i>(Траки / Θρᾷκες)</i>
-- The Heritage of the First Bulgarian Empire <i>(Първо Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>
-- The Heritage of the Second Bulgarian Empire <i>(Второ Българско Царство / Ц︢рьство Блъгарское)</i>
+- Legacy of Thracians <i>(Траки / Θρᾷκες)</i>
+- Heritage of the First Bulgarian Empire <i>(Първо Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>
+- Heritage of the Second Bulgarian Empire <i>(Второ Българско Царство / Ц︢рьство Блъгарское)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Unification Day of Bulgaria <i>(Ден на Съединението)</i>. Month: September
 - Baba Marta Day <i>(Баба Марта)</i>. Month: March
 - Bulgarian Rose Festival <i>(Празник на Розата)</i>. Month: May to June
-- Day of Bulgarian Alphabet, Bulgarian Enlightenment and Culture <i>(Ден на Светите Братя Кирил и Методий, на Българската Азбука, Просвета и Култура и на Славянската Книжовност)</i>. Month: May
+- Day of Bulgarian Alphabet, Bulgarian Enlightenment and Culture <i>(Ден на Българската Азбука, Просвета и Култура)</i>. Month: May
 
 
 

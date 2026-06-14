@@ -43,7 +43,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
     - The Manneken Pis <i>(Petit Julien / Manneken Pis)</i>
     - The Palace of Justice <i>(Palais de Justice de Bruxelles / Justitiepaleis van Brussel)</i>
     - The Egmont Park <i>(Parc Egmont / Egmontpark)</i>
-    - The Royal Palace of Brussels & Royal Park <i>(Palais Royal de Bruxelles / Koninklijk Paleis van Brussel)</i>
+    - The Royal Palace of Brussels <i>(Palais Royal de Bruxelles / Koninklijk Paleis van Brussel)</i>
+    - The Brussels Park <i>(Parc de Bruxelles / Warandepark)</i>
     - The Cathedral of St. Michael and St. Gudula <i>(Cathédrale Saints-Michel-et-Gudule / Kathedraal van Sint-Michiel en Sint-Goedele)</i>
     - The Mont des Arts <i>(Mont des Arts / Kunstberg)</i>
     - The Church of Our Lady of the Chapel <i>(Église Notre-Dame-de-la-Chapelle / Onze-Lieve-Vrouw-ter-Kapellekerk)</i>
@@ -118,15 +119,15 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Belgitude <i>(Belgitude / Belgitude)</i>
+- Crossage Game <i>(Crossage / Chole)</i>
+- Brabantine Gothic Architecture <i>(Gothique Brabançon / Brabantse Gotiek)</i>
 - Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
 - Belgian Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
 - Belgian Friterie Culture <i>(Culture de la Friterie / Friteriecultuur)</i>
-- The Crossage Game <i>(Crossage / Chole)</i>
-- The Brabantine Gothic Architecture <i>(Gothique Brabançon / Brabantse Gotiek)</i>
 - Belgian Folklore <i>(Folklore Belge / Belgische Folklore)</i>
 - Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
-- <u>Brussels-Capital (Regional Special):</u> The Flower Carpet <i>(Tapis de Fleurs / Bloementapijt)</i>
-- <u>Flanders (Regional Special):</u> The Culture of Flemings <i>(Vlamingen)</i>
+- <u>Brussels-Capital (Regional Special):</u> Flower Carpet <i>(Tapis de Fleurs / Bloementapijt)</i>
+- <u>Flanders (Regional Special):</u> Culture of Flemings <i>(Vlamingen)</i>
   - Flemish Baroque Painting <i>(Vlaamse Barokschilderkunst)</i>  
   - Bruges Lace <i>(Brugs Bloemwerk)</i>
   - Authentic Musical Instrument: Doedelzak <i>(Doedelzak)</i>

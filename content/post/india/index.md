@@ -124,36 +124,36 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Hinduism <i>(हिन्दू धर्म)</i>
 - Sikhism <i>(सिख धर्म)</i>
 - Jainism <i>(जैन धर्म)</i>
-- The Yoga Practices <i>(योग)</i>
-- The Devanagari Script <i>(देवनागरी)</i>
-- The Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
-- The Madhubani Art <i>(मधुबनी चित्रकला)</i>
-- The Kalamkari Art <i>(कलमकारी)</i>
-- The Gillidanda Game <i>(गिल्ली डंडा)</i>
-- The Kho Kho Game <i>(खो-खो)</i>
-- The Carrom Game <i>(कैरम)</i>
-- The Chaturanga Game <i>(चतुरंग)</i>
-- The Bharatanatyam Dance <i>(भरतनाट्यम)</i>
-- The Nagara Architecture <i>(नागर शैली)</i>
-- The Title of Guru <i>(गुरु)</i>
-- The Indo-Saracenic Architecture <i>(इंडो-सारासेनिक वास्तुकला)</i>
+- Yoga Practices <i>(योग)</i>
+- Devanagari Script <i>(देवनागरी)</i>
+- Bollywood Movies <i>(बॉलीवुड फिल्में)</i>
+- Madhubani Art <i>(मधुबनी चित्रकला)</i>
+- Kalamkari Art <i>(कलमकारी)</i>
+- Gillidanda Game <i>(गिल्ली डंडा)</i>
+- Kho Kho Game <i>(खो-खो)</i>
+- Carrom Game <i>(कैरम)</i>
+- Chaturanga Game <i>(चतुरंग)</i>
+- Bharatanatyam Dance <i>(भरतनाट्यम)</i>
+- Nagara Architecture <i>(नागर शैली)</i>
+- Title of Guru <i>(गुरु)</i>
+- Indo-Saracenic Architecture <i>(इंडो-सारासेनिक वास्तुकला)</i>
 - Indian Folklore <i>(भारतीय लोकवार्ता)</i>
 - Indian Cars <i>(Brands: "Tata", Mahindra")</i>
 - Authentic Musical Instrument: Saraswati Veena <i>(सरस्वती वीणा)</i>
 - Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
-- The Heritage of the Maratha Empire <i>(मराठा साम्राज्य)</i>
-- <u>Karnataka (Regional Special):</u> The Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i>
-- <u>Karnataka (Regional Special):</u> The Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
-  - The Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
-  - The Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
-  - The Dasa Sahitya Literature <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
-  - The Kambala Buffalo Race <i>(कंबाला / ಕಂಬಳ)</i>
-  - The Pallanguzhi Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>
-  - The Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
+- Heritage of the Maratha Empire <i>(मराठा साम्राज्य)</i>
+- <u>Karnataka (Regional Special):</u> Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i>
+- <u>Karnataka (Regional Special):</u> Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
+  - Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
+  - Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
+  - Dasa Sahitya Literature <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
+  - Kambala Buffalo Race <i>(कंबाला / ಕಂಬಳ)</i>
+  - Pallanguzhi Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>
+  - Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
   - Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
-- <u>Goa (Regional Special):</u> The Culture of Goans <i>(गोवाई / गोएनकर)</i>
+- <u>Goa (Regional Special):</u> Culture of Goans <i>(गोवाई / गोएनकर)</i>
   - Authentic Principle: Susegad <i>(सुसेगाद / सुसेगाद)</i>
-  - The Fugdi Dance <i>(फुगडी / फुगडी)</i>
+  - Fugdi Dance <i>(फुगडी / फुगडी)</i>
   - Authentic Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
   - Authentic Musical Instrument: Ghumot <i>(घुमोट / घुमट)</i>
 

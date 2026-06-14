@@ -126,17 +126,17 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Saudade <i>(Saudade)</i>
-- The Fado Music <i>(Fado)</i>
-- The Cante Alentejano Music <i>(Cante Alentejano)</i>
-- The Manueline Architecture <i>(Estilo Manuelino)</i> 
-- The Pombaline Architecture <i>(Estilo Pombalino)</i> 
-- The Azulejo Tilework <i>(Azulejo)</i>
-- The Jogo da Laranjinha Game <i>(Jogo da Laranjinha)</i>
+- Fado Music <i>(Fado)</i>
+- Cante Alentejano Music <i>(Cante Alentejano)</i>
+- Manueline Architecture <i>(Estilo Manuelino)</i> 
+- Pombaline Architecture <i>(Estilo Pombalino)</i> 
+- Azulejo Tilework <i>(Azulejo)</i>
+- Jogo da Laranjinha Game <i>(Jogo da Laranjinha)</i>
 - Portuguese Seamanship and Maritime Exploration <i>(Descobrimentos Portugueses)</i> 
 - Portuguese Folklore <i>(Folclore de Portugal)</i> 
 - Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>   
 - Authentic Garb: Portuguese Traje <i>(Traje Típico Português)</i>
-- The Heritage of the Portuguese Empire <i>(Império Português)</i>
+- Heritage of the Portuguese Empire <i>(Império Português)</i>
 - <u>Lisbon (Regional Special):</u> Lisbon Historic Trams <i>(Brand: "Remodelados")</i>
 
 

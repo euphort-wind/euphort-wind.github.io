@@ -222,12 +222,12 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Gemütlichkeit <i>(Gemütlichkeit)</i>
 - Protestantism <i>(Protestantismus)</i>
-- The Allemande Dance <i>(Allemande)</i>
-- The Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
-- The Ottonian Architecture <i>(Ottonische Architektur)</i>
-- The Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
+- Allemande Dance <i>(Allemande)</i>
+- Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
+- Ottonian Architecture <i>(Ottonische Architektur)</i>
+- Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
 - Mensch-Ärgere-Dich-Nicht Game <i>(Mensch Ärgere Dich Nicht)</i>
-- The Cuckoo Clocks <i>(Kuckucksuhr)</i>
+- Cuckoo Clocks <i>(Kuckucksuhr)</i>
 - German Beer Steins <i>(Humpen)</i>
 - German Beer Culture <i>(Bierkultur)</i>
 - German Philosophy <i>(Deutsche Philosophie)</i> 
@@ -236,21 +236,21 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
 - Authentic Musical Instrument: Zither <i>(Zither)</i>
 - Authentic Garb: German Tracht <i>(Tracht)</i>
-- The Heritage of the Holy Roman Empire <i>(Heiliges Römisches Reich / Sacrum Imperium Romanum)</i>
-- The Heritage of Prussia <i>(Preußen / Prūsija)</i>
-- <u>Hessen (Regional Special):</u> The Schwälmer Dance <i>(Schwälmer Tanz)</i>
+- Heritage of the Holy Roman Empire <i>(Heiliges Römisches Reich / Sacrum Imperium Romanum)</i>
+- Heritage of Prussia <i>(Preußen / Prūsija)</i>
+- <u>Hessen (Regional Special):</u> Schwälmer Dance <i>(Schwälmer Tanz)</i>
 - <u>Hessen (Regional Special):</u> Authentic Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> German Wine Queen Competition <i>(Deutsche Weinkönigin)</i>
-- <u>Rhineland-Palatinate (Regional Special):</u> The Westerwald Pottery <i>(Westerwälder Steinzeug)</i>
+- <u>Rhineland-Palatinate (Regional Special):</u> Westerwald Pottery <i>(Westerwälder Steinzeug)</i>
 - <u>Rhineland-Palatinate (Regional Special):</u> Authentic Garb: Tugendpfeil <i>(Tugendpfeil)</i>
 - <u>North Rhine-Westphalia (Regional Special):</u> Eau de Cologne Perfume <i>(Kölnisch Wasser)</i>
-- <u>Bavaria (Regional Special):</u> The Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
-- <u>Bavaria (Regional Special):</u> The Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
-- <u>Bavaria (Regional Special):</u> The Culture of Bavarians <i>(Bayern / Boarn)</i>
-  - The Schuhplattler Dance <i>(Schuhplattler / Schuhplattler)</i>
-  - The Aperschnalzen Tradition <i>(Aperschnalzen / Apaschnoizn)</i>
-  - The Gstanzl Singing <i>(Gstanzl / Gestanzel)</i>
-  - The Lüftlmalerei Mural Art <i>(Lüftlmalerei / Lüftelmalerei)</i>
+- <u>Bavaria (Regional Special):</u> Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
+- <u>Bavaria (Regional Special):</u> Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
+- <u>Bavaria (Regional Special):</u> Culture of Bavarians <i>(Bayern / Boarn)</i>
+  - Schuhplattler Dance <i>(Schuhplattler / Schuhplattler)</i>
+  - Aperschnalzen Tradition <i>(Aperschnalzen / Apaschnoizn)</i>
+  - Gstanzl Singing <i>(Gstanzl / Gestanzel)</i>
+  - Lüftlmalerei Mural Art <i>(Lüftlmalerei / Lüftelmalerei)</i>
   - Bavarian Brotzeit <i>(Brotzeit / Brotzeit)</i>
   - Bavarian Beer Gardens <i>(Biergarten / Bierkeller)</i>
   - Bavarian Folklore <i>(Bayerische Folklore / Bairische Volkskultur)</i>

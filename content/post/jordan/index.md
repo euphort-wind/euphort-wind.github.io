@@ -79,15 +79,15 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 
 <b>🪔 Authentic features:</b>
-- The Tradition of Al-Mansaf Festive Banquet <i>(وليمة المنسف التقليدية)</i> 
-- The Dabke Dance <i>(دبكة)</i>
+- Tradition of Al-Mansaf Festive Banquet <i>(وليمة المنسف التقليدية)</i> 
+- Dabke Dance <i>(دبكة)</i>
 - Authentic Musical Instrument: Mijwiz <i>(مجوز)</i>
 - Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والطاقية)</i>
-- The Culture of Bedouins <i>(بَدَوِيُّون / بَدْو)</i> 
-- The Legacy of Nabataeans <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i> 
-  - The Nabataean Religion <i>(ديانة نبطية)</i> 
-  - The Nabataean Script <i>(أبجدية نبطية)</i> 
-  - The Nabataean Betyls <i>(حجر مقدس نبطي)</i> 
+- Culture of Bedouins <i>(بَدَوِيُّون / بَدْو)</i> 
+- Legacy of Nabataeans <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i> 
+  - Nabataean Religion <i>(ديانة نبطية)</i> 
+  - Nabataean Script <i>(أبجدية نبطية)</i> 
+  - Nabataean Betyls <i>(حجر مقدس نبطي)</i> 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

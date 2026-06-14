@@ -101,20 +101,20 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Fjaka <i>(Fjaka)</i>
-- The Ojkanje Singing <i>(Ojkanje)</i>
-- The Story of Klepetan & Malena <i>(Klepetan i Malena)</i>
-- The Zvončari Costume <i>(Zvončari)</i>  
-- The Glagolitic Script <i>(Hrvatska Glagoljica / ⰳⰾⰰⰳⱁⰾⰻⱌⰰ)</i>
-- The Title of Župan <i>(Župan)</i>
-- The Sicanje Tattooing <i>(Sicanje)</i>
+- Ojkanje Singing <i>(Ojkanje)</i>
+- Story of Klepetan & Malena <i>(Klepetan i Malena)</i>
+- Zvončari Costume <i>(Zvončari)</i>  
+- Glagolitic Script <i>(Hrvatska Glagoljica / ⰳⰾⰰⰳⱁⰾⰻⱌⰰ)</i>
+- Title of Župan <i>(Župan)</i>
+- Sicanje Tattooing <i>(Sicanje)</i>
 - Croatian Lace <i>(Čipkarstvo u Hrvatskoj)</i>
 - Croatian Pre-Romanesque Architecture <i>(Starohrvatska Arhitektura)</i>
 - Croatian Folklore <i>(Hrvatski Folklor)</i>
 - Authentic Musical Instrument: Tamburica <i>(Tamburica)</i>
 - Authentic Garb: Cravat & Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
-- The Legacy of Illyrians <i>(Iliri / Ἰλλυριοί)</i>
-- The Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>  
-- <u>Zadar (Regional Special):</u> The Klapa Singing <i>(Klapa)</i>
+- Legacy of Illyrians <i>(Iliri / Ἰλλυριοί)</i>
+- Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>  
+- <u>Zadar (Regional Special):</u> Klapa Singing <i>(Klapa)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

@@ -92,19 +92,19 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
  
 
 <b>🪔 Authentic features:</b>
-- The Title of Co-Prince of Andorra <i>(Copríncep d'Andorra)</i>
-- The Marratxa Dance <i>(Marratxa)</i>
-- The Contrapàs Dance <i>(Contrapàs)</i>
-- The Hiking Tradition <i>(Senderisme)</i>
-- The Ball de l’Ossa d’Encamp Performance <i>(Ball de l’Ossa d’Encamp)</i>
-- The Ball de l'Última Ossa d'Ordino Performance <i>(Ball de l'Última Ossa d'Ordino)</i> 
+- Title of Co-Prince of Andorra <i>(Copríncep d'Andorra)</i>
+- Marratxa Dance <i>(Marratxa)</i>
+- Contrapàs Dance <i>(Contrapàs)</i>
+- Hiking Tradition <i>(Senderisme)</i>
+- Ball de l’Ossa d’Encamp Performance <i>(Ball de l’Ossa d’Encamp)</i>
+- Ball de l'Última Ossa d'Ordino Performance <i>(Ball de l'Última Ossa d'Ordino)</i> 
 - Andorran Romanesque Architecture <i>(Arquitectura Romànica Andorrana)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - National Day of Andorra <i>(Mare de Déu de Meritxell)</i>. Month: September
 - Constitution Day <i>(Dia de la Constitució)</i>. Month: March
-- The Falles of the Pyrenees <i>(Falles del Pirineu)</i>. Month: June 
+- Falles of the Pyrenees <i>(Falles del Pirineu)</i>. Month: June 
 - <u>Andorra la Vella (Regional Special):</u> Andorra la Vella Annual Festival <i>(Festa Major de Sant Vicenç)</i>. Month: August
 - <u>Escaldes-Engordany (Regional Special):</u> Escaldes–Engordany Annual Festival <i>(Festa Major d’Escaldes-Engordany)</i>. Month: August
 - <u>La Massana (Regional Special):</u> La Massana Annual Festival <i>(Festa Major de la Massana)</i>. Month: August

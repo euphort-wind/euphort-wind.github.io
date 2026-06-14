@@ -126,26 +126,26 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Serbian Inat <i>(Српски Инат)</i>
-- The Slava Celebrations <i>(Српска Слава)</i>
-- The Pirot Carpets <i>(Пиротски Ћилим)</i>
-- The Kolo Dance <i>(Коло)</i>
+- Slava Celebrations <i>(Српска Слава)</i>
+- Pirot Carpets <i>(Пиротски Ћилим)</i>
+- Kolo Dance <i>(Коло)</i>
 - Serbian Cars <i>(Brand: "Zastava")</i>
 - Authentic Musical Instrument: Gusle <i>(Гусле)</i>
 - Authentic Garb: Šajkača & Opanci <i>(Шајкача и Опанци)</i> 
-- The Heritage of the Medieval Kingdom of Serbia <i>(Средњовековна Краљевина Србија / Regnum Serbiæ)</i>
-  - The Raška Architecture <i>(Рашки Стил)</i>
-  - The System of Zadrugas <i>(Задруге)</i>
+- Heritage of the Medieval Kingdom of Serbia <i>(Средњовековна Краљевина Србија / Regnum Serbiæ)</i>
+  - Raška Architecture <i>(Рашки Стил)</i>
+  - System of Zadrugas <i>(Задруге)</i>
   - Serbian Epic Poetry <i>(Српске Епске Народне Песме)</i>
-- The Heritage of the Modern Kingdom of Serbia <i>(Модерна Краљевина Србија)</i>
-- The Heritage of Yugoslavia <i>(Југославија / Jugoslavija)</i>
-- <u>Vojvodina (Regional Special):</u> The Legacy of Grenzers <i>(Граничари / Granicsár)</i>
+- Heritage of the Modern Kingdom of Serbia <i>(Модерна Краљевина Србија)</i>
+- Heritage of Yugoslavia <i>(Југославија / Jugoslavija)</i>
+- <u>Vojvodina (Regional Special):</u> Legacy of Grenzers <i>(Граничари / Granicsár)</i>
 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Statehood Day <i>(Сретење)</i>. Month: February
-- The Vidovdan <i>(Видовдан)</i>. Month: June
-- The Day of Serb Unity <i>(Дан Српског Јединства)</i>. Month: September
+- Statehood Day <i>(Сретење)</i>. Month: February
+- Vidovdan <i>(Видовдан)</i>. Month: June
+- Day of Serb Unity <i>(Дан Српског Јединства)</i>. Month: September
 
 
 <b>💐 National flower: </b> Natalie's Ramonda <i>(Наталијина Рамонда)</i>

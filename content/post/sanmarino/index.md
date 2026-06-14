@@ -70,9 +70,9 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 
 
 <b>🪔 Authentic features:</b>
-- The Towers of San Marino <i>(Le Tre Torri di San Marino)</i>
-- The Legend of Saint Marinus <i>(La Leggenda di San Marino )</i>
-- The Title of Captain Regent <i>(Capitèn Regìnt)</i>
+- Towers of San Marino <i>(Le Tre Torri di San Marino)</i>
+- Legend of Saint Marinus <i>(La Leggenda di San Marino )</i>
+- Title of Captain Regent <i>(Capitèn Regìnt)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

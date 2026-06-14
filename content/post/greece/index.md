@@ -133,12 +133,14 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Philotimo <i>(Φιλότιμο)</i>
 - Eastern Orthodoxy <i>(Ανατολικός Ορθόδοξος Χριστιανισμός)</i>
-- The Title of Ecumenical Patriarch of Constantinople <i>(Οἰκουμενικός Πατριάρχης)</i>
-- The Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
-- The Sirtaki Dance <i>(Σιρτάκη)</i>
+- Title of Ecumenical Patriarch of Constantinople <i>(Οἰκουμενικός Πατριάρχης)</i>
+- Sirtaki Dance <i>(Σιρτάκη)</i>
+- Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
-- Ancient Authentic Garb: Fustanella & Amalía Dress <i>(Φουστανέλα & Αμαλία)</i>
-- The Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
+- Ancient Authentic Garb: Fustanella & Amalía Dress <i>(Φουστανέλα και Αμαλία)</i>
+- Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
+  - Title of Basileus <i>(βασιλεύς)</i>
+  - Ostrakinda Game <i>(Ὀστρακίνδα)</i>
   - Ancient Authentic Principle: Eudaimonia <i>(Ευδαιμονία)</i>
   - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
   - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
@@ -148,21 +150,19 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - Ancient Greek Boxing <i>(Πυγμαχία)</i>
   - Ancient Greek Chariot Racing <i>(Ἁρματοδρομία)</i>
   - Ancient Greek Religion <i>(Αρχαία Ελληνική Θρησκεία)</i>
-  - The Title of Basileus <i>(βασιλεύς)</i>
-  - The Ostrakinda Game <i>(Ὀστρακίνδα)</i>
   - Ancient Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
-  - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος & Χλαμύδα)</i>
+  - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος και Χλαμύδα)</i>
 - <u>Crete (Regional Special):</u> Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
-- <u>Crete (Regional Special):</u> Authentic Garb: Stivania & Sariki <i>(Στιβάνια & Σαρίκι)</i>
+- <u>Crete (Regional Special):</u> Authentic Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
 - <u>Crete (Regional Special):</u> The Legacy of Minoans <i>(Μινωίτες)</i>
   - Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
-  - The Linear A Writing System <i>(Γραμμική Α)</i>
-  - The Minoan Painting <i>(Μινωική Ζωγραφική)</i>
-  - The Minoan Pottery <i>(Μινωική Κεραμική)</i>
-  - The Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
-  - The Knossos Board Game <i>(Ζατρίκιον)</i>
-- <u>South Aegean (Regional Special):</u> The Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
-- <u>South Aegean (Regional Special):</u> The Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
+  - Linear A Writing System <i>(Γραμμική Α)</i>
+  - Knossos Board Game <i>(Ζατρίκιον)</i>
+  - Minoan Painting <i>(Μινωική Ζωγραφική)</i>
+  - Minoan Pottery <i>(Μινωική Κεραμική)</i>
+  - Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
+- <u>South Aegean (Regional Special):</u> Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
+- <u>South Aegean (Regional Special):</u> Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

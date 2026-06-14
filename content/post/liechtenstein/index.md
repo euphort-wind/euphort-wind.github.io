@@ -87,18 +87,18 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
 
 
 <b>🪔 Authentic features:</b>
-- The Postage Stamps of Liechtenstein <i>(Briefmarken von Liechtenstein)</i>
-- The Alpine Skiing Tradition <i>(Alpinen Skirennen)</i>
+- Postage Stamps of Liechtenstein <i>(Briefmarken von Liechtenstein)</i>
+- Alpine Skiing Tradition <i>(Alpinen Skirennen)</i>
+- Title of Prince of Liechtenstein <i>(Landesfürst)</i>
 - Liechtenstein Folklore <i>(Liechtensteiner Folklore)</i>
-- The Title of Prince of Liechtenstein <i>(Landesfürst)</i>
 - Authentic Garb: Liechtensteiner Tracht <i>(Liechtensteiner Tracht)</i>
-- <u>Triesenberg (Regional Special):</u> The Culture of Walser People <i>(Walser)</i>
+- <u>Triesenberg (Regional Special):</u> Culture of Walser People <i>(Walser)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- The Berchtold's Day <i>(Berchtoldstag)</i>. Month: January
-- The National Day of Liechtenstein <i>(Staatsfeiertag)</i>. Month: August
-- The Funkensonntag <i>(Funkensonntag)</i>. Month: February or March
+- Berchtold's Day <i>(Berchtoldstag)</i>. Month: January
+- National Day of Liechtenstein <i>(Staatsfeiertag)</i>. Month: August
+- Funkensonntag <i>(Funkensonntag)</i>. Month: February or March
 
 
 <b>💐 National flower: </b> Yellow Lily <i>(Gelbe Lilie)</i>

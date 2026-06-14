@@ -106,8 +106,8 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 
 
 <b>🪔 Authentic features:</b>
-- The Beseda Dance <i>(Česká Beseda)</i>
-- The Polka Dance <i>(Polka)</i>
+- Beseda Dance <i>(Česká Beseda)</i>
+- Polka Dance <i>(Polka)</i>
 - Czech Beer Culture <i>(Pivní Kultura)</i>
 - Czech Puppetry <i>(České Loutkářství)</i>
 - Czech Gothic Architecture <i>(Česká Gotická Architektura)</i>
@@ -115,8 +115,8 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - Czech Cars <i>(Brand: "Škoda")</i>
 - Authentic Musical Instrument: Bohemian Harp <i>(Harfa)</i>
 - Authentic Garb: Czech Kroj <i>(Kroje)</i>
-- The Culture of Moravians <i>(Moravané / Moraváci)</i>
-- The Heritage of the Kingdom of Bohemia <i>(České Království / Regnum Bohemiae)</i>
+- Culture of Moravians <i>(Moravané / Moraváci)</i>
+- Heritage of the Kingdom of Bohemia <i>(České Království / Regnum Bohemiae)</i>
 - <u>Central Bohemia (Regional Special):</u> Bohemian Glass <i>(České Sklo)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>

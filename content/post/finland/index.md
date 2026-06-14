@@ -122,23 +122,23 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Sisu <i>(Sisu)</i> 
 - Finnish Sauna <i>(Saunakulttuuri)</i>
-- The Puukko Knives <i>(Puukko)</i>
-- The Ryijy Tapestry <i>(Ryijy)</i>
-- The Kyykkä Game <i>(Kyykkä)</i>
+- Puukko Knives <i>(Puukko)</i>
+- Ryijy Tapestry <i>(Ryijy)</i>
+- Kyykkä Game <i>(Kyykkä)</i>
 - Finnish Runic Singing <i>(Runolaulu)</i>
 - Finnish Mythology <i>(Suomalainen Mytologia)</i>
 - Authentic Musical Instrument: Kantele <i>(Kantele)</i>
 - Authentic Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
-- The Culture of Sámi <i>(Saamelaiset / Sámit)</i>
+- Culture of Sámi <i>(Saamelaiset / Sámit)</i>
   - Sámi Shamanism <i>(Saamelainen Muinaisusko / Sámi Osku)</i>
-  - The System of Siida <i>(Lapinkylä / Siida)</i>
-  - The Joik Singing <i>(Joiku / Luohti)</i>
-  - The Lavvu Dwellings <i>(Umpilaavu / Lávvu)</i>
-  - The Sáhkku Game <i>(Sáhkku / Sáhkku)</i>
-  - The Dablo Game <i>(Dablo / Daablodh Prejjesne)</i>
-  - The Duodji Handicraft <i>(Saamenkäsityö / Duodji)</i>
+  - System of Siida <i>(Lapinkylä / Siida)</i>
+  - Joik Singing <i>(Joiku / Luohti)</i>
+  - Lavvu Dwellings <i>(Umpilaavu / Lávvu)</i>
+  - Sáhkku Game <i>(Sáhkku / Sáhkku)</i>
+  - Dablo Game <i>(Dablo / Daablodh Prejjesne)</i>
+  - Duodji Handicraft <i>(Saamenkäsityö / Duodji)</i>
   - Authentic Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
-  - Authentic Garb: Beaska & Four Winds Hat <i>(Beaska & Neljäntuulenlakki / Muoddá & Čiehgahpir)</i>
+  - Authentic Garb: Beaska & Four Winds Hat <i>(Beaska ja Neljäntuulenlakki / Muoddá ja Čiehgahpir)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Finland <i>(Itsenäisyyspäivä)</i>. Month: December

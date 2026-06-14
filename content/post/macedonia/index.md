@@ -104,14 +104,15 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 - Mirage <i>(Илузија)</i>. Year: 2004. Genre: drama
 
 
-<b>🪔 Authentic features:</b>
-- Macedonian Embroidery <i>(Македонски Вез)</i>
-- The Teškoto Dance <i>(Тешкото)</i>
-- The Kopačka Dance <i>(Копачка)</i>
+<b>🪔 Authentic features:</b>i>
+- Teškoto Dance <i>(Тешкото)</i>
+- Kopačka Dance <i>(Копачка)</i>
+- Glasoechko Singing <i>(Гласоечко)</i>
+- Macedonian Embroidery <i>(Македонски Вез)</
 - Macedonian Slavic Mythology <i>(Македонската Словенска Митологија)</i> 
 - Authentic Musical Instrument: Šupelka <i>(Шупелка)</i> 
-- The Culture of Aromanians <i>(Македонски Власи / Armãnji)</i>
-- The Legacy of Paeonians <i>(Пајонци / Παίονες)</i> 
+- Culture of Aromanians <i>(Македонски Власи / Armãnji)</i>
+- Legacy of Paeonians <i>(Пајонци / Παίονες)</i> 
 
 
 

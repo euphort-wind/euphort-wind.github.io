@@ -159,23 +159,23 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 
 
 <b>🪔 Authentic features:</b>
-- The Halay Dance <i>(Halay)</i>
-- The Meddahlık & Meddahs <i>(Meddahlık ve Meddahlar)</i>
-- The Iznik Pottery <i>(İznik Çinisi)</i>
-- The Oil Wrestling <i>(Yağlı Güreş)</i>
-- The Oryantal Dance <i>(Oryantal Dans)</i>
+- Halay Dance <i>(Halay)</i>
+- Meddahlık & Meddahs <i>(Meddahlık ve Meddahlar)</i>
+- Iznik Pottery <i>(İznik Çinisi)</i>
+- Oil Wrestling <i>(Yağlı Güreş)</i>
+- Oryantal Dance <i>(Oryantal Dans)</i>
+- Okey Game <i>(Okey)</i>
+- Mangala Game <i>(Mangala)</i>
 - Turkish Hammam <i>(Hamam)</i>
 - Turkish Television Drama <i>(Türk Dizileri)</i>
-- The Okey Game <i>(Okey)</i>
-- The Mangala Game <i>(Mangala)</i>
 - Turkic Mythology <i>(Türk Mitolojisi)</i>
 - Authentic Musical Instrument: Bağlama <i>(Bağlama)</i> 
 - Authentic Garb: Shalvar & Yelek <i>(Şalvar ve Yelek)</i>
-- The Heritage of the Byzantine Empire <i>(Bizans İmparatorluğu / Imperium Romanum Orientale)</i>
-- The Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i>
-- <u>İstanbul (Regional Special):</u> The Istanbul Feral Cats <i>(Sokak Kedisi)</i>
-- <u>Antalya (Regional Special):</u> The Düğmeli Houses <i>(Düğmeli Evler)</i>
-- <u>Muğla (Regional Special):</u> The Heritage of Lycia <i>(Likya / 𐊗𐊕𐊐𐊎𐊆𐊖)</i>
+- Heritage of the Byzantine Empire <i>(Bizans İmparatorluğu / Imperium Romanum Orientale)</i>
+- Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i>
+- <u>İstanbul (Regional Special):</u> Istanbul Feral Cats <i>(Sokak Kedisi)</i>
+- <u>Antalya (Regional Special):</u> Düğmeli Houses <i>(Düğmeli Evler)</i>
+- <u>Muğla (Regional Special):</u> Heritage of Lycia <i>(Likya / 𐊗𐊕𐊐𐊎𐊆𐊖)</i>
 
 
 

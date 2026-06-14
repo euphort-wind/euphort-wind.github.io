@@ -142,21 +142,21 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Kos <i>(Kos)</i>
-- The Open-Air-Life <i>(Friluftsliv)</i> 
-- The Nordic Skiing Tradition <i>(Nordiske Grener)</i>
-- The Dragestil Architecture <i>(Dragestil)</i>
+- Open-Air-Life <i>(Friluftsliv)</i> 
+- Nordic Skiing Tradition <i>(Nordiske Grener)</i>
+- Dragestil Architecture <i>(Dragestil)</i>
+- Basse Game <i>(Basse)</i>
 - Norwegian Rose-Painting <i>(Rosemaling)</i>
-- The Basse Game <i>(Basse)</i>
 - Authentic Musical Instrument: Hardanger Fiddle <i>(Hardingfele)</i>
 - Authentic Garb: Bunad <i>(Bunad)</i>
-- The Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i>
+- Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i>
+  - Title of Jarl <i>(Jarl)</i>
+  - Younger Futhark Runic Alphabet <i>(Den Yngre Futharken / ᚠᚢᚦᚬᚱᚴ)</i> 
+  - Hnefatafl Game <i>(Hnefatafl)</i> 
+  - Skalds & Skaldic Poetry <i>(Skalder og Skaldekvad)</i> 
+  - Viking Ship Construction <i>(Vikingskip)</i>
   - Norse Mythology <i>(Norrøn Mytologi)</i> 
   - Norse Paganism <i>(Norrøn Religion)</i>
-  - The Title of Jarl <i>(Jarl)</i>
-  - The Younger Futhark Runic Alphabet <i>(Den Yngre Futharken / ᚠᚢᚦᚬᚱᚴ)</i> 
-  - The Hnefatafl Game <i>(Hnefatafl)</i> 
-  - The Skalds & Skaldic Poetry <i>(Skalder og Skaldekvad)</i> 
-  - The Viking Ship Construction <i>(Vikingskip)</i> 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Norwegian Constitution Day <i>(Syttende Mai)</i>. Month: May

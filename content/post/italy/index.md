@@ -305,67 +305,67 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: La Dolce Vita <i>(La Dolce Vita)</i> 
-- The Latin Alphabet <i>(Alfabeto Latino)</i> 
-- The Tarantella Dance <i>(Tarantella)</i> 
-- The Maiolica Pottery <i>(Maiolica)</i> 
-- The Bocce Game <i>(Bocci)</i> 
-- The Morra Game <i>(Morra)</i>
-- The Pallone Game <i>(Pallone)</i>
+- Latin Alphabet <i>(Alfabeto Latino)</i> 
+- Tarantella Dance <i>(Tarantella)</i> 
+- Maiolica Pottery <i>(Maiolica)</i> 
+- Bocce Game <i>(Bocci)</i> 
+- Morra Game <i>(Morra)</i>
+- Pallone Game <i>(Pallone)</i>
 - Italian Neoclassical Architecture <i>(Architettura Neoclassica Italiana)</i> 
 - Italian Baroque Painting <i>(Pittura Barocca Italiana)</i> 
 - Italian Folklore <i>(Folclore d'Italia)</i> 
 - Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>
 - Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
-- The Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i> 
+- Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i>
+  - Title of Lucumo <i>(Lucumone)</i> 
   - Ancient Etruscan Religion <i>(Religione Etrusca)</i> 
   - Ancient Etruscan Alphabet <i>(Alfabeto Etrusco)</i> 
   - Ancient Etruscan Vase Painting <i>(Pittura Vascolare Etrusca)</i> 
   - Ancient Bucchero Ceramics <i>(Bucchero)</i> 
-  - The Title of Lucumo <i>(Lucumone)</i> 
-- The Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
-- The Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
+- Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
+- Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
+  - Title of Pater Patriae <i>(Pater Patriae)</i> 
+  - Harpastum Game <i>(Harpastum)</i> 
+  - Trigon Game <i>(Trigon)</i>
   - Ancient Roman Mythology <i>(Mitologia Romana Antica)</i>
   - Ancient Roman Architecture <i>(Architettura Romana Antica)</i>
   - Ancient Roman Sculpture <i>(Scultura Romana Antica)</i>
   - Ancient Roman Roads <i>(Antiche Strade Romane)</i> 
   - Ancient Roman Religion <i>(Religione Romana Antica)</i> 
-  - The Title of Pater Patriae <i>(Pater Patriae)</i> 
-  - The Harpastum Game <i>(Harpastum)</i> 
-  - The Trigon Game <i>(Trigon)</i>
   - Ancient Authentic Musical Instrument: Cornu <i>(Cornu)</i> 
   - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
-- <u>Lazio (Regional Special):</u> The Nasoni <i>(Nasoni)</i> 
-- <u>Tuscany (Regional Special):</u> The Scoppio del Carro Easter Tradition <i>(Scoppio del Carro)</i> 
-- <u>Tuscany (Regional Special):</u> The Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i> 
+- <u>Lazio (Regional Special):</u> Nasoni <i>(Nasoni)</i> 
+- <u>Tuscany (Regional Special):</u> Scoppio del Carro Easter Tradition <i>(Scoppio del Carro)</i> 
+- <u>Tuscany (Regional Special):</u> Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i>
+  - Medici Porcelain <i>(Porcellane Medicee)</i>
   - Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i>
   - Italian Renaissance Painting <i>(Pittura Rinascimentale)</i>
-  - The Medici Porcelain <i>(Porcellane Medicee)</i>
-- <u>Tuscany (Regional Special):</u> The Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i> 
-- <u>Emilia-Romagna (Regional Special):</u> The Liscio Dance <i>(Ballo Liscio)</i> 
-- <u>Emilia-Romagna (Regional Special):</u> The Porticoes of Bologna <i>(Portici di Bologna)</i>
-- <u>Emilia-Romagna (Regional Special):</u> The Towers of Bologna <i>(Torri di Bologna)</i>
-- <u>Sicily (Regional Special):</u> The Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i> 
-- <u>Sicily (Regional Special):</u> The Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
+- <u>Tuscany (Regional Special):</u> Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i> 
+- <u>Emilia-Romagna (Regional Special):</u> Liscio Dance <i>(Ballo Liscio)</i> 
+- <u>Emilia-Romagna (Regional Special):</u> Porticoes of Bologna <i>(Portici di Bologna)</i>
+- <u>Emilia-Romagna (Regional Special):</u> Towers of Bologna <i>(Torri di Bologna)</i>
+- <u>Sicily (Regional Special):</u> Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i> 
+- <u>Sicily (Regional Special):</u> Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
   - Authentic Principle: Omerta <i>(Omertà / Ômertà)</i> 
-  - The Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
+  - Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
   - Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
   - Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
   - Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
   - Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
-- <u>Campania (Regional Special):</u> The Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
-- <u>Campania (Regional Special):</u> The Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
-- <u>Campania (Regional Special):</u> The Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
-- <u>Campania (Regional Special):</u> The Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
-- <u>Campania (Regional Special):</u> The Strummolo Game <i>(Strummolo / Strummolo)</i> 
-- <u>Campania (Regional Special):</u> The Tombola Game <i>(Tombola / Tombola)</i> 
-- <u>Campania (Regional Special):</u> The Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
-- <u>Campania (Regional Special):</u> The Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
-- <u>Campania (Regional Special):</u> The Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
-- <u>Campania (Regional Special):</u> The Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i> 
+- <u>Campania (Regional Special):</u> Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
+- <u>Campania (Regional Special):</u> Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
+- <u>Campania (Regional Special):</u> Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
+- <u>Campania (Regional Special):</u> Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
+- <u>Campania (Regional Special):</u> Strummolo Game <i>(Strummolo / Strummolo)</i> 
+- <u>Campania (Regional Special):</u> Tombola Game <i>(Tombola / Tombola)</i> 
+- <u>Campania (Regional Special):</u> Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
+- <u>Campania (Regional Special):</u> Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
+- <u>Campania (Regional Special):</u> Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
+- <u>Campania (Regional Special):</u> Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i> 
 - <u>Lombardy (Regional Special):</u> Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
-- <u>Lombardy (Regional Special):</u> The Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
-- <u>Lombardy (Regional Special):</u> The Navigli of Milan <i>(Navigli / Navili)</i>
-- <u>Lombardy (Regional Special):</u> The Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
+- <u>Lombardy (Regional Special):</u> Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
+- <u>Lombardy (Regional Special):</u> Navigli of Milan <i>(Navigli / Navili)</i>
+- <u>Lombardy (Regional Special):</u> Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
 
 
 

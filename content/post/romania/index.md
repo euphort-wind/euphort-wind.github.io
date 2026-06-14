@@ -132,9 +132,9 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Covrigi <i>(Covrigi)</i>
 - Țuică <i>(Brand: "Vlad Țepeș")</i>
 - <u>Covasna (Regional Special):</u> Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>
-- <u>Covasna (Regional Special):</u> Kürtőskalács <i>(Cozonac Secuiesc / Kürtőskalács)</i>
+- <u>Covasna (Regional Special):</u> Székely Kürtőskalács <i>(Cozonac Secuiesc / Kürtőskalács)</i>
 - <u>Brașov (Regional Special):</u> Braşovence <i>(Clătite Brașovene / Braşovence)</i>
-
+- <u>Brașov (Regional Special):</u> Transylvanian Saxon Hanklich <i>(Hencleș Săsesc / Hanklich)</i>
 
 <b>🎬 Local movies:</b>
 - The Death of Mr. Lazarescu <i>(Moartea Domnului Lăzărescu)</i>. Year: 2005. Genre: drama / tragedy
@@ -143,31 +143,32 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 
 
 <b>🪔 Authentic features:</b>
-- The Doina Song <i>(Doina)</i>
-- The Ballad of Miorița <i>(Miorița)</i>
-- The Paparuda Ritual <i>(Paparudă)</i> 
-- The Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
+- Doina Song <i>(Doina)</i>
+- Ballad of Miorița <i>(Miorița)</i>
+- Paparuda Ritual <i>(Paparudă)</i> 
+- Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
+- Oină Game <i>(Oină)</i>
 - Romanian Horă Dance <i>(Horă)</i>
-- The Oină Game <i>(Oină)</i>
 - Romanian Folklore <i>(Folclorul Românesc)</i>
 - Romanian Cars <i>(Brand: "Dacia")</i>
 - Authentic Garb: Pieptar & Romanian Ie <i>(Pieptar și Ie)</i> 
 - Authentic Musical Instrument: Romanian Nai <i>(Nai)</i> 
-- The Culture of Romani <i>(Romi / Romane Manusha)</i>
+- Culture of Romani <i>(Romi / Romane Manusha)</i>
   - Authentic Principle: Romanipen <i>(Romanipenul / Romanipen)</i>
-  - The Lăutărească Music & Lăutari <i>(Muzica Lăutărească și Lăutari / Lăutărească Muzika thaj Lăutari)</i> 
-  - The Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
-  - The Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
+  - Lăutărească Music & Lăutari <i>(Muzica Lăutărească și Lăutari / Lăutărească Muzika thaj Lăutari)</i> 
+  - Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
+  - Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
   - Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
-- The Legacy of Dacians <i>(Dacii / Δάκοι)</i>
-- The Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
-- The Heritage of the Kingdom of Romania <i>(Regatul României)</i>
-- <u>Covasna (Regional Special):</u> The Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
-  - The Székely Gates <i>(Poartă Secuiască / Székelykapu)</i>
-  - The Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i>
+- Legacy of Dacians <i>(Dacii / Δάκοι)</i>
+- Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
+- Heritage of the Kingdom of Romania <i>(Regatul României)</i>
+- <u>Covasna (Regional Special):</u> Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
   - Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐲘𐳀𐳎𐳀𐳢 𐲢𐳛𐳮𐳁𐳤)</i>
-- <u>Brașov (Regional Special):</u> The Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
+  - Székely Gates <i>(Poartă Secuiască / Székelykapu)</i>
+  - Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i>
+- <u>Brașov (Regional Special):</u> Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
   - Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
+  - Königinnentanz Dance <i>(Dansul Reginelor / Königinnentanz)</i>
   - Authentic Garb: Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>

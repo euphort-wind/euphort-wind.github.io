@@ -109,17 +109,17 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Jeti Ata <i>(Жеті Ата)</i> 
-- The Aytıs & Akyns <i>(Айтыс пен Ақындар)</i> 
-- The System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i> 
-- The Baige Horse Race <i>(Бәйге)</i>
-- The Togyzkumalak Game <i>(Тоғызқұмалақ)</i>  
-- The Assyk Game <i>(Асық)</i> 
+- Aytıs & Akyns <i>(Айтыс пен Ақындар)</i> 
+- System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i> 
+- Baige Horse Race <i>(Бәйге)</i>
+- Togyzkumalak Game <i>(Тоғызқұмалақ)</i>  
+- Assyk Game <i>(Асық)</i> 
 - Kazakh Ornaments <i>(Қазақтың Ұлттық Ою-өрнегі)</i> 
 - Kazakh Wrestling <i>(Қазақша Күрес)</i>
 - Kazakh Folklore <i>(Қазақ Фольклоры)</i>  
 - Authentic Musical Instrument: Dombra <i>(Домбыра)</i>
 - Authentic Garb: Shapan & Borik <i>(Шапан пен Бөрік)</i> 
-- The Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق خاندیغی)</i> 
+- Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق خاندیغی)</i> 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

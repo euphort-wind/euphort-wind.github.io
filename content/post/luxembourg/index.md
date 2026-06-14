@@ -88,11 +88,11 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
 
 
 <b>🪔 Authentic features:</b>
-- The Hopping Procession of Echternach <i>(D'Iechternacher Sprangpressessioun)</i>
-- The St. Hubert Hunting Horn Players of Luxembourg <i>(Haupeschbléiser)</i>
-- The Konter a Matt Game <i>(Konter a Matt)</i>
-- The Péckvillercher Whistles <i>(Péckvillercher)</i>
-- The Title of Grand Duke <i>(Groussherzog)</i>
+- Hopping Procession of Echternach <i>(D'Iechternacher Sprangpressessioun)</i>
+- St. Hubert Hunting Horn Players of Luxembourg <i>(Haupeschbléiser)</i>
+- Konter a Matt Game <i>(Konter a Matt)</i>
+- Péckvillercher Whistles <i>(Péckvillercher)</i>
+- Title of Grand Duke <i>(Groussherzog)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Grand Duke's Official Birthday <i>(Groussherzogsgebuertsdag)</i>. Month: June

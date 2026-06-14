@@ -110,20 +110,20 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 
 
 <b>🪔 Authentic features:</b>
+- Modrotlač Craft <i>(Modrotlač)</i>
+- Odzemek Dance <i>(Odzemek)</i>
 - Slovak Wire Craft and Art <i>(Drotárstvo)</i>
-- The Modrotlač Craft <i>(Modrotlač)</i>
-- The Odzemek Dance <i>(Odzemek)</i> 
-- The Legend of Juraj Jánošík <i>(Legenda o Jurajovi Jánošíkovi)</i>
+- Legend of Juraj Jánošík <i>(Legenda o Jurajovi Jánošíkovi)</i>
 - Authentic Musical Instrument: Fujara <i>(Fujara)</i>
 - Authentic Garb: Slovak Kroj <i>(Slovenský Kroj)</i>
-- The Culture of Rusyns <i>(Rusíni / Русины)</i>
-- <u>Banská Bystrica (Regional Special):</u> The Tajchy Artificial Lakes <i>(Tajchy)</i>
+- Culture of Rusyns <i>(Rusíni / Русины)</i>
+- <u>Banská Bystrica (Regional Special):</u> Tajchy Artificial Lakes <i>(Tajchy)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Day of the Establishment of the Slovak Republic <i>(Deň Vzniku Slovenskej Republiky)</i>. Month: January
 - Fašiangy <i>(Fašiangy)</i>. Month: January to February
-- The Jánošík´s Days <i>(Jánošíkove Dni)</i>. Month: July
-- <u>Banská Bystrica (Regional Special):</u> The Salamander Days <i>(Salamandrové Dni)</i>. Month: September
+- Jánošík´s Days <i>(Jánošíkove Dni)</i>. Month: July
+- <u>Banská Bystrica (Regional Special):</u> Salamander Days <i>(Salamandrové Dni)</i>. Month: September
 
 
 <b>💐 National flower: </b> Linden Blossom <i>(Lipový Kvet)</i>

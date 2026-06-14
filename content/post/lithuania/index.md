@@ -104,14 +104,14 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 
 
 <b>🪔 Authentic features:</b>
+- Sodai Straw Garden Making <i>(Šiaudinių Sodų Tradicija)</i>
+- Sutartines Songs <i>(Sutartinės)</i>
+- Ritinis Game <i>(Ritinis)</i>
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
-- The Sodai Straw Garden Making <i>(Šiaudinių Sodų Tradicija)</i>
-- The Sutartines Songs <i>(Sutartinės)</i>
-- The Ritinis Game <i>(Ritinis)</i>
 - Lithuanian Mythology <i>(Lietuvių Mitologija)</i>
 - Authentic Musical Instrument: Birbynė <i>(Birbynė)</i> 
-- The Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>
-- <u>Vilnius (Regional Special):</u> The Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
+- Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>
+- <u>Vilnius (Regional Special):</u> Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

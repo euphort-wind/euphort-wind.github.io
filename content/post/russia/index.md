@@ -299,47 +299,47 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Russian Avos <i>(Русское Авось)</i>
-- The Khokhloma Painting <i>(Хохлома)</i>
-- The Zhostovo Painting <i>(Жостовская Роспись)</i>
-- The Horovod Dance <i>(Хоровод)</i>
-- The Matryoshka Dolls <i>(Матрёшки)</i>
-- The Gorodki Game <i>(Городки)</i>
-- The Dymkovo Toys <i>(Дымковские Игрушки)</i>
+- Khokhloma Painting <i>(Хохлома)</i>
+- Zhostovo Painting <i>(Жостовская Роспись)</i>
+- Horovod Dance <i>(Хоровод)</i>
+- Matryoshka Dolls <i>(Матрёшки)</i>
+- Gorodki Game <i>(Городки)</i>
+- Dymkovo Toys <i>(Дымковские Игрушки)</i>
 - Russian Stoves <i>(Русские Печи)</i>
 - Russian Banya <i>(Русская Баня)</i>
 - Russian Folklore <i>(Русский Фольклор)</i> 
 - Russian Cars <i>(Brands: "GAZ", "LADA", etc.)</i> 
 - Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
-- The Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
-- The Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
-- <u>Bashkortostan (Regional Special):</u> The Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
-    - The Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
-    - The Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
+- Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
+- Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
+- <u>Bashkortostan (Regional Special):</u> Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
+    - Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
+    - Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
     - Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
-- <u>Kabardino-Balkaria (Regional Special):</u> The Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
+- <u>Kabardino-Balkaria (Regional Special):</u> Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
     - Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
     - Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
     - Balkar Bychak Knives <i>(Бичак / Бычак)</i>
-- <u>Karachay-Cherkessia:</u> The Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
+- <u>Karachay-Cherkessia:</u> Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
     - Authentic Principle: Circassian Xabze <i>(Адыгэ Хабзэ / Адыгэ Хабзэ)</i>
     - Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
     - Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
     - Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
     - The Heritage of the Circassia <i>(Черкесия / Адыгэ Хэку)</i>
-- <u>North Ossetia (Regional Special):</u> The Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
+- <u>North Ossetia (Regional Special):</u> Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
     - Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
     - Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
     - Ossetian Assianism <i>(Уасдин / Уацдин)</i>
     - Ossetian Simd Dance <i>(Симд / Синд)</i>
     - Authentic Musical Instrument: Kisyn Fandyr <i>(Хисын Фандыр / Xъисын Фæндыр)</i>
-- <u>North Ossetia (Regional Special):</u> The Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i>
-- <u>Leningrad (Regional Special):</u> The Culture of Izhorians <i>(Ижоры / Ižorat)</i>
-- <u>St. Petersburg-City (Regional Special):</u> The Petrine Baroque Architecture <i>(Петровское Барокко)</i>
-- <u>Orenburzhie (Regional Special):</u> The Legacy of Orenburg Cossacks <i>(Оренбургские Казаки)</i>
-- <u>Orenburzhie (Regional Special):</u> The Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i>
-- <u>Chelyabinsk (Regional Special):</u> The Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
-- <u>Chelyabinsk (Regional Special):</u> The Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>
+- <u>North Ossetia (Regional Special):</u> Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i>
+- <u>Leningrad (Regional Special):</u> Culture of Izhorians <i>(Ижоры / Ižorat)</i>
+- <u>St. Petersburg-City (Regional Special):</u> Petrine Baroque Architecture <i>(Петровское Барокко)</i>
+- <u>Orenburzhie (Regional Special):</u> Legacy of Orenburg Cossacks <i>(Оренбургские Казаки)</i>
+- <u>Orenburzhie (Regional Special):</u> Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i>
+- <u>Chelyabinsk (Regional Special):</u> Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
+- <u>Chelyabinsk (Regional Special):</u> Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

@@ -322,7 +322,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Blueberry Soup <i>(Blåbärssoppa)</i>
 - Crispbread <i>(Knäckebröd)</i>
 - Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
-- Swedish Akvavit & Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
+- Swedish Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
 - Blueberry Wine <i>(Brand: "Rålund")</i>
 - <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Norrlandstoast med Gula Kantareller)</i>
 - <u>Västerbotten (Regional Special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
@@ -346,32 +346,33 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: Lagom <i>(Lagom)</i>
+- Hambo Dance <i>(Hambo)</i>
+- Kubb Game <i>(Kubb)</i>
+- Dala Horses <i>(Dalahästar)</i>
 - Swedish Fika <i>(Fika)</i>
-- The Hambo Dance <i>(Hambo)</i>
-- The Kubb Game <i>(Kubb)</i>
-- The Dala Horses <i>(Dalahästar)</i>
 - Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - Swedish Fashion <i>(Brands: "Fjällräven", "H&M COS", etc.)</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
-- <u>Gotland (Regional Special):</u> The Rauk Landforms <i>(Raukar)</i>
-- <u>Gotland (Regional Special):</u> The Legacy of Gutes <i>(Gutar / Gotar)</i>
+- <u>Gotland (Regional Special):</u> Rauk Landforms <i>(Raukar)</i>
+- <u>Gotland (Regional Special):</u> Legacy of Gutes <i>(Gutar / Gotar)</i>
+    - Pärk Game <i>(Pärk)</i>
+    - Varpa Game <i>(Varpa)</i>
+    - Guta Saga <i>(Gutasagan)</i>
     - Gotland Picture Stones <i>(Bildstenar)</i>
-    - The Pärk Game <i>(Pärk)</i>
-    - The Varpa Game <i>(Varpa)</i>
-    - The Guta Saga <i>(Gutasagan)</i>
-- <u>Jämtland (Regional Special):</u> The Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
-- <u>Halland (Regional Special):</u> The Bonad Painting <i>(Bonadsmålning)</i>
-- <u>Västra Götaland (Regional Special):</u> The Legacy of Geates <i>(Götar / Gautar)</i>
-    - The Domarringar <i>(Domarringar)</i>
-    - The Stone Ships <i>(Skeppssättning)</i>
-    - The Elder Futhark Runic Alphabet <i>(Äldre Futhark / ᚠᚢᚦᚨᚱᚲ)</i>
+- <u>Jämtland (Regional Special):</u> Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
+- <u>Halland (Regional Special):</u> Bonad Painting <i>(Bonadsmålning)</i>
+- <u>Västra Götaland (Regional Special):</u> Legacy of Geates <i>(Götar / Gautar)</i>
+    - Domarringar <i>(Domarringar)</i>
+    - Stone Ships <i>(Skeppssättning)</i>
+    - Elder Futhark Runic Alphabet <i>(Äldre Futhark / ᚠᚢᚦᚨᚱᚲ)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June
 - Midsummer <i>(Midsommar)</i>. Month: June
 - Crayfish Party <i>(Kräftskiva)</i>. Month: August
 - <u>Gotland (Regional Special):</u> Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August
+- <u>Västra Götaland (Regional Special):</u> Alingsås Potatisfestivalen <i>(Potatisfestivalen)</i>. Month: June
 
 
 <b>💐 National flower: </b> Harebell <i>(Liten Blåklocka)</i>

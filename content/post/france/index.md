@@ -267,16 +267,16 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 
 <b>🪔 Authentic features:</b>
 - Authentic Principle: L'Art de Vivre <i>(L'Art de Vivre)</i>
-- The Can-Can Dance <i>(Cancan)</i>
-- The Bourrée Dance <i>(Bourrée)</i> 
-- The Carousels <i>(Carrousel)</i>
-- The Point de France Lace <i>(Point de France)</i>
-- The Aubusson Tapestries <i>(Tapisserie d'Aubusson)</i>
-- The Equitation Tradition <i>(Équitation)</i>
-- The Parkour Sport <i>(Parkour)</i>
+- Can-Can Dance <i>(Cancan)</i>
+- Bourrée Dance <i>(Bourrée)</i> 
+- Carousels <i>(Carrousel)</i>
+- Point de France Lace <i>(Point de France)</i>
+- Aubusson Tapestries <i>(Tapisserie d'Aubusson)</i>
+- Equitation Tradition <i>(Équitation)</i>
+- Parkour Sport <i>(Parkour)</i>
 - The Savate Boxing <i>(Savate)</i>
-- The Pétanque Game <i>(Pétanque)</i>
-- The System of Compagnonnage <i>(Compagnonnage)</i>
+- Pétanque Game <i>(Pétanque)</i>
+- System of Compagnonnage <i>(Compagnonnage)</i>
 - French Perfumery <i>(Parfumerie Française)</i>
   - Parfum <i>(Extrait)</i>
   - Eau de Parfum <i>(Eau de Parfum)</i>
@@ -291,28 +291,28 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - French Fashion <i>(Brands: "Lacoste", "Chanel", "Dior", "Givenchy", "Louis Vuitton", "YSL", etc.)</i> 
 - French Cars <i>(Brands: "Peugeot", "Renault", "Citroën", "Bugatti")</i>
 - Authentic Musical Instrument: Flageolet <i>(Flageolet)</i>
-- Authentic Garb: Faluche & Marinière <i>(Faluche & Tricot Rayé)</i> 
-- The Legacy of Gauls <i>(Gaulois / Galli)</i> 
-- The Legacy of Franks <i>(Francs / Franci)</i> 
-- The Heritage of the Kingdom of France <i>(Royaume de France / Reaume de France)</i>
-- The Heritage of the French Empire <i>(Empire Français)</i>
-- <u>Île-de-France (Regional Special):</u> The Apache Dance <i>(Valse Chaloupée)</i>
-- <u>Île-de-France (Regional Special):</u> The Bal-Musette Music <i>(Bal Musette)</i>
-- <u>Île-de-France (Regional Special):</u> The Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
-- <u>Île-de-France (Regional Special):</u> The Art Déco Architecture <i>(Architecture Art Déco)</i>
-- <u>Occitania (Regional Special):</u> The Chabrot Tradition <i>(Chabrot / Chabròt)</i>
-- <u>Occitania (Regional Special):</u> The Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
+- Authentic Garb: Faluche & Marinière <i>(Faluche et Tricot Rayé)</i> 
+- Legacy of Gauls <i>(Gaulois / Galli)</i> 
+- Legacy of Franks <i>(Francs / Franci)</i> 
+- Heritage of the Kingdom of France <i>(Royaume de France / Reaume de France)</i>
+- Heritage of the French Empire <i>(Empire Français)</i>
+- <u>Île-de-France (Regional Special):</u> Apache Dance <i>(Valse Chaloupée)</i>
+- <u>Île-de-France (Regional Special):</u> Bal-Musette Music <i>(Bal Musette)</i>
+- <u>Île-de-France (Regional Special):</u> Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
+- <u>Île-de-France (Regional Special):</u> Art Déco Architecture <i>(Architecture Art Déco)</i>
+- <u>Occitania (Regional Special):</u> Chabrot Tradition <i>(Chabrot / Chabròt)</i>
+- <u>Occitania (Regional Special):</u> Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
   - Authentic Principle: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
-  - The Troubadours & Occitan Lyric Poetry <i>(Troubadours et Poésie Lyrique Occitane / Trobadors e Poesia Lirica Occitana)</i>
-  - The Floral Games <i>(Jeux Floraux / Jòcs Florals)</i>
+  - Troubadours & Occitan Lyric Poetry <i>(Troubadours et Poésie Lyrique Occitane / Trobadors e Poesia Lirica Occitana)</i>
+  - Floral Games <i>(Jeux Floraux / Jòcs Florals)</i>
   - Catharism <i>(Catharisme / Catarisme)</i>
-  - The Meridional Gothic Architecture <i>(Architecture Gothique Méridional / Arquitectura Gòtica Meridionala)</i>
+  - Meridional Gothic Architecture <i>(Architecture Gothique Méridional / Arquitectura Gòtica Meridionala)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Bastille Day <i>(Fête Nationale Française)</i>. Month: July
-- The Fête de la Musique <i>(Fête de la Musique)</i>. Month: June
-- The Beaujolais Nouveau Day <i>(Journée du Beaujolais Nouveau)</i>. Month: November
+- Fête de la Musique <i>(Fête de la Musique)</i>. Month: June
+- Beaujolais Nouveau Day <i>(Journée du Beaujolais Nouveau)</i>. Month: November
 - <u>Île-de-France (Regional Special):</u> Nuit Blanche Festival <i>(Nuit Blanche)</i>. Month: November
 - <u>Occitania (Regional Special):</u> Estivada <i>(L'Estivada / L'Estivada)</i>. Month: July
 

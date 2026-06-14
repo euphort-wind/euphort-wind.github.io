@@ -94,28 +94,28 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 
 
 <b>🪔 Authentic features:</b>
-- The Desert Safari <i>(رحلات السفاري الصحراوية)</i>
-- The Henna Body Painting <i>(رسم الحنة)</i>
-- The Khayamiya Textile <i>(خيّامية)</i>
+- Desert Safari <i>(رحلات السفاري الصحراوية)</i>
+- Henna Body Painting <i>(رسم الحنة)</i>
+- Khayamiya Textile <i>(خيّامية)</i>
 - Authentic Musical Instrument: Goblet Drum <i>(دربوكة)</i>
 - Authentic Garb: Galabiya <i>(جلابية)</i>
-- The Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
+- Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
   - Authentic Principle: Coptic Monasticism <i>(الرهبنه القبطيه)</i>
-  - The Coptic Script <i>(الأبجدية القبطية)</i>
-  - The Coptic Crosses <i>(الصليب القبطى)</i>
-  - The Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
-- The Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
+  - Coptic Script <i>(الأبجدية القبطية)</i>
+  - Coptic Crosses <i>(الصليب القبطى)</i>
+  - Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
+- Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
   - Ancient Authentic Principle: Maat <i>(ماعت)</i>
   - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
   - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
   - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
   - Ancient Egyptian Religion <i>(ديانة قدماء المصريين)</i>
   - Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة)</i>
-  - The Senet Game <i>(لعبة السِّينِت)</i>
-  - The Title of Pharaoh <i>(فرعون)</i>
+  - Senet Game <i>(لعبة السِّينِت)</i>
+  - Title of Pharaoh <i>(فرعون)</i>
   - Ancient Authentic Musical Instrument: Sistrum <i>(السيستروم)</i>
   - Ancient Authentic Garb: Khat & Shendyt <i>(الخات والشنديت)</i>
-- The Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>
+- Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

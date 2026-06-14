@@ -145,24 +145,24 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 
 
 <b>🪔 Authentic features:</b>
-- The Tamadas & Supra <i>(თამადა და სუფრა)</i>
-- The Kvevri-Based Wine Production <i>(ქვევრის ღვინო)</i>
-- The Mkhedruli Script <i>(მხედრული)</i>
-- The Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
-- The Nuskhuri Script <i>(ნუსხური / ⴌⴓⴑⴞⴓⴐⴈ)</i>
-- The Kartuli Dance <i>(ქართული ცეკვა)</i>
-- The Berikaoba Theater <i>(ბერიკაობა)</i>
-- The Chidaoba Wrestling <i>(ჩიდაობა)</i>
-- The Lelo Burti Game <i>(ლელო ბურთი)</i>
+- Tamadas & Supra <i>(თამადა და სუფრა)</i>
+- Kvevri-Based Wine Production <i>(ქვევრის ღვინო)</i>
+- Mkhedruli Script <i>(მხედრული)</i>
+- Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
+- Nuskhuri Script <i>(ნუსხური / ⴌⴓⴑⴞⴓⴐⴈ)</i>
+- Kartuli Dance <i>(ქართული ცეკვა)</i>
+- Berikaoba Theater <i>(ბერიკაობა)</i>
+- Chidaoba Wrestling <i>(ჩიდაობა)</i>
+- Lelo Burti Game <i>(ლელო ბურთი)</i>
 - Georgian Polyphonic Singing <i>(ქართული მრავალხმიანობა)</i>
 - Georgian Mythology <i>(ქართული მითოლოგია)</i> 
 - Authentic Musical Instrument: Panduri <i>(ფანდური)</i>
-- Authentic Garb: Chokha & Kabalakhi <i>(ჩოხა & ყაბალახი)</i>
-- The Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>
-- <u>Mtskheta-Mtianeti (Regional Special):</u> The Heritage of the Kingdom of Iberia <i>(ქართლის სამეფო / ივერიის სამეფო)</i>
-- <u>Kakheti (Regional Special):</u> The Kakhuri Dance <i>(კახურის ცეკვა)</i>
+- Authentic Garb: Chokha & Kabalakhi <i>(ჩოხა და ყაბალახი)</i>
+- Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>
+- <u>Mtskheta-Mtianeti (Regional Special):</u> Heritage of the Kingdom of Iberia <i>(ქართლის სამეფო / ივერიის სამეფო)</i>
+- <u>Kakheti (Regional Special):</u> Kakhuri Dance <i>(კახურის ცეკვა)</i>
 - <u>Kakheti (Regional Special):</u> Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
-- <u>Kakheti (Regional Special):</u> The Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i>
+- <u>Kakheti (Regional Special):</u> Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i>
 - <u>Tbilisi-Capital (Regional Special):</u> Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
 - <u>Tbilisi-Capital (Regional Special):</u> Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i>
 
