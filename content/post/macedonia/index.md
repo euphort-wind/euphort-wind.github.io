@@ -104,7 +104,7 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 - Mirage <i>(Илузија)</i>. Year: 2004. Genre: drama
 
 
-<b>🪔 Authentic features:</b>i>
+<b>🪔 Authentic features:</b>
 - Teškoto Dance <i>(Тешкото)</i>
 - Kopačka Dance <i>(Копачка)</i>
 - Glasoechko Singing <i>(Гласоечко)</i>
