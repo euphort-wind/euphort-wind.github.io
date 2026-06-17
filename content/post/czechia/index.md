@@ -79,6 +79,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 <b>🥘 Local food & drinks: </b>
 - Tatarák <i>(Tatarák)</i>
 - Kulajda <i>(Kulajda)</i>
+- Česnečka <i>(Česnečka)</i>
 - Chlebíček <i>(Chlebíček)</i>
   - Chlebíček with Ham <i>(Chlebíček se Šunkou)</i>
   - Chlebíček with Hermelín <i>(Hermelínový Chlebíček)</i>

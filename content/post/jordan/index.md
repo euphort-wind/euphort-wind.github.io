@@ -64,6 +64,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 <b>🥘 Local food & drinks: </b>
 - Hummus <i>(حمص بطحينة)</i>
 - Makmoura <i>(مكمورة)</i>
+- Maqluba <i>(مَقْلُوبَة)</i>
 - Qalayet Bandora <i>(قلاية البندورة)</i>
 - Mansaf <i>(منسف)</i>
 - Zarb-Style Lamb <i>(زرب)</i>
