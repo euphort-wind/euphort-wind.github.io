@@ -103,7 +103,7 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 - Slovene Quintain Game <i>(Štehvanje)</i>
 - Slovene Mythology <i>(Slovenska Mitologija)</i>
 - Authentic Garb: Gorenjska Avba <i>(Gorenjska Avba)</i> 
-- Heritage of Carantanian Principality <i>(Karantanija / *Korǫtanъ)</i>
+- Heritage of the Carantanian Principality <i>(Karantanija / *Korǫtanъ)</i>
 - <u>Upper Carniola (Regional Special):</u> Bled Pletna Boats <i>(Pletna)</i>
 
 

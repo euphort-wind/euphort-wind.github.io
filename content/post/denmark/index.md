@@ -127,6 +127,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - Danish Tradition of Easter Letters <i>(Gækkebreve)</i>
 - Danish Folklore <i>(Dansk Folketro)</i>
 - Authentic Musical Instrument: Lur <i>(Lur)</i>
+- Heritage of Kalmar Union <i>(Kalmarunionen)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

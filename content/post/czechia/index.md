@@ -117,7 +117,8 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - Authentic Musical Instrument: Bohemian Harp <i>(Harfa)</i>
 - Authentic Garb: Czech Kroj <i>(Kroje)</i>
 - Culture of Moravians <i>(Moravané / Moraváci)</i>
-- Heritage of the Kingdom of Bohemia <i>(České Království / Regnum Bohemiae)</i>
+- Heritage of the Kingdom of Bohemia <i>(České Království / Königreich Böhmen)</i>
+- Heritage of Great Moravia <i>(Velkomoravská Říše / Ⰿⱁⱃⰰⰲⰰ)</i>
 - <u>Central Bohemia (Regional Special):</u> Bohemian Glass <i>(České Sklo)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>

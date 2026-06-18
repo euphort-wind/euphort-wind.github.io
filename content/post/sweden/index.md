@@ -354,6 +354,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Swedish Fashion <i>(Brands: "Fjällräven", "H&M COS", etc.)</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
+- Heritage of the Swedish Empire <i>(Stormaktstiden Sverige)</i>
 - <u>Gotland (Regional Special):</u> Rauk Landforms <i>(Raukar)</i>
 - <u>Gotland (Regional Special):</u> Legacy of Gutes <i>(Gutar / Gotar)</i>
     - Pärk Game <i>(Pärk)</i>
