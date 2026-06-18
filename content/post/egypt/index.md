@@ -115,7 +115,9 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - Title of Pharaoh <i>(فرعون)</i>
   - Ancient Authentic Musical Instrument: Sistrum <i>(السيستروم)</i>
   - Ancient Authentic Garb: Khat & Shendyt <i>(الخات والشنديت)</i>
-- Heritage of the Mamluk Empire <i>(سلطنة المماليك)</i>
+- Heritage of the Ptolemaic Kingdom <i>(المملكه البطلميه / Ptolemaic Kingdom)</i>
+- Heritage of the Mamluk Sultanate <i>(سلطنة المماليك)</i>
+- Heritage of the Kingdom of Egypt <i>(المملكة المصرية)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
