@@ -304,6 +304,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Horovod Dance <i>(Хоровод)</i>
 - Matryoshka Dolls <i>(Матрёшки)</i>
 - Gorodki Game <i>(Городки)</i>
+- Lapta Game <i>(Лапта)</i>
 - Dymkovo Toys <i>(Дымковские Игрушки)</i>
 - Russian Stoves <i>(Русские Печи)</i>
 - Russian Banya <i>(Русская Баня)</i>
