@@ -36,7 +36,6 @@ sections:
 
         - title: Lecturer
           company: Ural Federal University
-          company_url: 'https://urfu.ru/en/'
           company_logo: lurfu
           location: Ekaterinburg
           date_start: '2022-09-01'
@@ -44,8 +43,8 @@ sections:
           description: |2-
               Responsibilities include:
               * PhD Research: Management in Organizational Systems
-              * Teaching: "Business Intelligence Tools" & "Internet Marketing" courses
-              * Departmental Managerial Duties
+              * Teaching: "Business Intelligence Tools" course
+              * Teaching: "Internet Marketing" course
 
         - title: Project Manager
           company: SPV
@@ -56,7 +55,7 @@ sections:
           date_end: '2021-12-01'
           description: |2-
               Responsibilities include:
-              * Product Management
+              * HMR Product Management
               * SCRUM Project Management
               * Frontend Development
 
@@ -69,7 +68,7 @@ sections:
           date_end: '2020-08-31'
           description: |2-
               Responsibilities include:
-              * ITSM365 Product Management
+              * ITSM365™ Product Management
               * Business Analysis
               * Customer Support  
     design:
