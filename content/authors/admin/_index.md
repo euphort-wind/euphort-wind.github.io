@@ -43,10 +43,11 @@ education:
       institution: Mid Sweden University, 2021 - 2022 (exchange studies)
     - course: MSc in Applied Computer Science
       institution: Ural Federal University, 2020 - 2022
-    - course: BSc in Software Engineering
-      institution: Ural Federal University, 2016 - 2020
     - course: BSc in International Business
       institution: Ural Federal University, 2017 - 2020
+    - course: BSc in Software Engineering
+      institution: Ural Federal University, 2016 - 2020
+
 
 social:
   - icon: linkedin
