@@ -242,6 +242,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - La Belle Époque <i>(La Belle Époque)</i>. Year: 2019. Genre: dramedy
 - Black Box <i>(Boîte Noire)</i>. Year: 2021. Genre: thriller
 - Delicious <i>(Délicieux)</i>. Year: 2021. Genre: dramedy
+- Dogman <i>(DogMan)</i>. Year: 2023. Genre: thriller
 - Jeanne du Barry <i>(Jeanne du Barry)</i>. Year: 2023. Genre: drama
 - CODA <i>(CODA)</i>. Year: 2021. Genre: dramedy
 - Two Is a Family <i>(Demain tout Commence)</i>. Year: 2016. Genre: dramedy
