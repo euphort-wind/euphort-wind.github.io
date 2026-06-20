@@ -120,6 +120,8 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
     - Bosančica Script <i>(Bosančica)</i>
 - <u>Sarajevo (Regional Special):</u> Sarajevo Roses <i>(Sarajevske Ruže)</i>
 - <u>Herzegovina-Neretva (Regional Special):</u> Stari Most Diving Tradition <i>(Skokovi sa Starog Mosta)</i>
+- <u>West Herzegovina (Regional Special):</u> Ganga Singing <i>(Ganga)</i>
+
 
 
 

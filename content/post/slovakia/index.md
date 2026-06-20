@@ -114,10 +114,10 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 - Odzemek Dance <i>(Odzemek)</i>
 - Slovak Wire Craft and Art <i>(Drotárstvo)</i>
 - Legend of Juraj Jánošík <i>(Legenda o Jurajovi Jánošíkovi)</i>
-- Heritage of the Principality of Nitra <i>(Nitrianske Kniežatstvo)</i>
 - Authentic Musical Instrument: Fujara <i>(Fujara)</i>
 - Authentic Garb: Slovak Kroj <i>(Slovenský Kroj)</i>
 - Culture of Rusyns <i>(Rusíni / Русины)</i>
+- Heritage of the Principality of Nitra <i>(Nitrianske Kniežatstvo)</i>
 - <u>Banská Bystrica (Regional Special):</u> Tajchy Artificial Lakes <i>(Tajchy)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>

@@ -161,6 +161,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
   - Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
 - Legacy of Dacians <i>(Dacii / Δάκοι)</i>
 - Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
+- Heritage of the Principality of Transylvania <i>(Principatul Transilvaniei / Erdélyi Fejedelemség)</i>
 - Heritage of the Kingdom of Romania <i>(Regatul României)</i>
 - <u>Covasna (Regional Special):</u> Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
   - Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐲘𐳀𐳎𐳀𐳢 𐲢𐳛𐳮𐳁𐳤)</i>
