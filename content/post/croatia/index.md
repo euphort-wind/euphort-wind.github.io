@@ -89,7 +89,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
   - Štrukli with Pumpkin Seeds <i>(Štrukli sa Bučinim Sjemenkama)</i>
   - Štrukli with Blueberries <i>(Štrukli s Borovnicama)</i>
   - Štrukli with Walnuts and Honey <i>(Štrukli s Orasima i Medom)</i>
-- <u>Zadar (Regional Special):</u> Buzara-Style Shrimps <i>(Škampi Na Buzaru)</i>
+- <u>Zadar (Regional Special):</u> Buzara-Style Shrimps <i>(Škampi na Buzaru)</i>
 
 
 <b>🎬 Local movies:</b>
