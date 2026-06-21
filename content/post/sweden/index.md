@@ -320,12 +320,18 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Saffron Buns <i>(Lussekatter)</i>
 - Kladdkaka <i>(Kladdkaka)</i>
 - Blueberry Soup <i>(Blåbärssoppa)</i>
+- Swedish Cheese <i>(Svensk Ost)</i>
+    - Västerbottensost <i>(Västerbottensost)</i> 
+    - Prästost <i>(Prästost)</i>
+    - Herrgårdsost <i>(Herrgårdsost)</i>
+    - Hushållsost <i>(Hushållsost)</i>
+    - Grevé <i>(Grevé)</i>
+    - Gräddost <i>(Gräddost)</i>
 - Crispbread <i>(Knäckebröd)</i>
 - Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
 - Swedish Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
 - Blueberry Wine <i>(Brand: "Rålund")</i>
 - <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Norrlandstoast med Gula Kantareller)</i>
-- <u>Västerbotten (Regional Special):</u> Västerbotten Cheese <i>(Västerbottensost)</i> 
 - <u>Gotland (Regional Special):</u> Gotland Spring Onion Soup <i>(Gotländsk Kajpsoppa)</i>
 - <u>Gotland (Regional Special):</u> Gotland Saffran Pancake with Cream and Dewberry Jam <i>(Saffranspannkaka med Grädde och Salmbärssylt)</i>
 - <u>Västra Götaland (Regional Special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Halv Special)</i>
