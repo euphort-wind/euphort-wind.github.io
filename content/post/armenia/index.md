@@ -95,15 +95,15 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇦🇲 Aram Mp3 <i>(singer)</i>. Genre: pop
-- 🇦🇲 Armenchik <i>(singer)</i>. Genre: modern rabiz
-- 🇦🇲 Iveta Mukuchyan <i>(singer)</i>. Genre: dance pop
-- 🇦🇲 André Hovnanyan <i>(singer)</i>. Genre: folk-pop
-- 🇦🇲 Sirusho <i>(singer)</i>. Genre: pop
-- 🇦🇲 Hraach <i>(DJ)</i>. Genre: ethnic house
-- 🇦🇲 Armen Miran <i>(DJ)</i>. Genre: ethnic house
-- 🇺🇳 Rosa Linn <i>(singer)</i>. Genre: indie pop
-- 🇺🇳 Serj Tankian <i>(singer)</i>. Genre: nu metal
+- 🇦🇲 Aram Mp3 (singer). Genre: pop
+- 🇦🇲 Armenchik (singer). Genre: modern rabiz
+- 🇦🇲 Iveta Mukuchyan (singer). Genre: dance pop
+- 🇦🇲 André Hovnanyan (singer). Genre: folk-pop
+- 🇦🇲 Sirusho (singer). Genre: pop
+- 🇦🇲 Hraach (DJ). Genre: ethnic house
+- 🇦🇲 Armen Miran (DJ). Genre: ethnic house
+- 🇺🇳 Rosa Linn (singer). Genre: indie pop
+- 🇺🇳 Serj Tankian (singer). Genre: nu metal
 
 <b>🎚️ Authentic EDM genres: </b>
 - Modern Rabiz. Originated: early 1990s

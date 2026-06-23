@@ -53,7 +53,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 
 
 <b>🎧 Local musicians: </b>
-- 🇦🇽 Johanna Grüssner <i>(singer)</i>. Genre: folk 
+- 🇦🇽 Johanna Grüssner (singer). Genre: folk 
 - 🇺🇳 Julia Clara (singer). Genre: pop
 - 🇺🇳 Henrik Klingenberg (keytarist). Genre: metal
 - 🇺🇳 Cim Dahlle (singer). Genre: rock
