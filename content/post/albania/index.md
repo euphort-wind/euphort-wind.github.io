@@ -79,7 +79,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - Albanian Yogurt <i>(Kos)</i>
 - Flia <i>(Flia)</i>
 - Lakror <i>(Laknor)</i>
-- Tave Kosi <i>(Tavë Kosi)</i>
+- Tavë Kosi <i>(Tavë Kosi)</i>
 - Krafne <i>(Krafne)</i>
 - Petulla <i>(Petulla)</i>
 - Albanian Salep <i>(Salep)</i>
