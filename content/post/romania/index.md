@@ -112,17 +112,23 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 
 <b>🥘 Local food & drinks: </b>
 - Pastrami <i>(Pastrami)</i>
-- Zacuscă <i>(Zacuscă)</i> 
+- Zacuscă <i>(Zacuscă)</i>
 - Salată de Icre <i>(Salată de Icre)</i>
 - Salată de Boeuf <i>(Salată de Boeuf)</i>
-- Ciorbă de Burtă <i>(Ciorbă de Burtă)</i>
+- Romanian Soups <i>(Ciorba Românească)</i>
+  - Ciorbă de Burtă <i>(Ciorbă de Burtă)</i>
+  - Ciorbă de Perișoare <i>(Ciorbă de Perișoare)</i>
+  - Ciorbă de Fasole în Pâine <i>(Ciorbă de Fasole în Pâine)</i>
 - Plăcintă <i>(Plăcintă)</i>
   - Plăcintă with Apple <i>(Plăcintă cu Mere)</i>
   - Plăcintă with Cheese <i>(Plăcintă cu Brânză)</i>
   - Plăcintă with Potato <i>(Plăcintă cu Cartofi)</i>
 - Sarmale <i>(Sarmale)</i>
 - Mămăligă <i>(Mămăligă)</i>
+- Bulz Ciobănesc <i>(Bulz Ciobănesc)</i>
 - Ostropel <i>(Ostropel)</i>
+- Creier Pane <i>(Creier Pane)</i>
+- Mushroom Tocăniță <i>(Tocaniță de Ciuperci)</i>
 - Tochitura <i>(Tochitură)</i>
 - Mititei <i>(Mici)</i>
 - Papanași <i>(Papanași)</i>
@@ -137,8 +143,8 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - <u>Brașov (Regional Special):</u> Transylvanian Saxon Hanklich <i>(Hencleș Săsesc / Hanklich)</i>
 
 <b>🎬 Local movies:</b>
-- The Death of Mr. Lazarescu <i>(Moartea Domnului Lăzărescu)</i>. Year: 2005. Genre: drama / tragedy
 - Do Not Expect Too Much from the End of the World <i>(Nu Aștepta Prea Mult de la Sfârșitul Lumii)</i>. Year: 2023. Genre: black comedy
+- The Death of Mr. Lazarescu <i>(Moartea Domnului Lăzărescu)</i>. Year: 2005. Genre: drama / tragedy
 - Aferim! <i>(Aferim!)</i>. Year: 2015. Genre: drama
 
 

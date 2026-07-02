@@ -68,6 +68,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - 🇦🇱 Alban Skenderaj (singer). Genre: pop
 - 🇦🇱 Alis Kallaçi (singer). Genre: pop
 - 🇦🇱 ARNON (DJ). Genre: house
+- 🇦🇱 David Dreshaj (singer). Genre: pop
 - 🇦🇱 Besa (singer). Genre: pop
 - 🇦🇱 Alban Chela (DJ). Genre: house
 - 🇦🇱 Noizy (rapper). Genre: hip-hop
