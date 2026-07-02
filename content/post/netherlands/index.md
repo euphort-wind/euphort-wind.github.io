@@ -190,7 +190,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Gezelligheid <i>(Gezelligheid)</i>
+- Authentic Concept: Gezelligheid <i>(Gezelligheid)</i>
 - Cycling Tradition <i>(Het Fietsen)</i>
 - Sjoelen Game <i>(Sjoelen)</i>
 - Canal Houses <i>(Grachtenpanden)</i>
@@ -207,7 +207,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - <u>South Holland (Regional Special):</u> Wall Poems in Leiden <i>(Muurgedichten in Leiden)</i>
 - <u>South Holland (Regional Special):</u> Delftware <i>(Delfts Blauw)</i>
 - <u>Friesland (Regional Special):</u> Culture of Frisians <i>(Friezen / Friezen)</i>
-  - Authentic Principle: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
+  - Authentic Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
   - Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
   - Fierljeppen Sport <i>(Polsstokverspringen / Fierljeppen)</i> 
   - Frisian Handball <i>(Kaatsen / Keatsen)</i> 

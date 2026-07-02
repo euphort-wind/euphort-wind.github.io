@@ -100,12 +100,12 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - Authentic Musical Instrument: Goblet Drum <i>(دربوكة)</i>
 - Authentic Garb: Galabiya <i>(جلابية)</i>
 - Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
-  - Authentic Principle: Coptic Monasticism <i>(الرهبنه القبطيه)</i>
+  - Authentic Concept: Coptic Monasticism <i>(الرهبنه القبطيه)</i>
   - Coptic Script <i>(الأبجدية القبطية)</i>
   - Coptic Crosses <i>(الصليب القبطى)</i>
   - Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
 - Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
-  - Ancient Authentic Principle: Maat <i>(ماعت)</i>
+  - Ancient Authentic Concept: Maat <i>(ماعت)</i>
   - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
   - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
   - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>

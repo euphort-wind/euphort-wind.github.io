@@ -118,7 +118,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - Ben X <i>(Ben X)</i>. Year: 2007. Genre: thriller 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Belgitude <i>(Belgitude / Belgitude)</i>
+- Authentic Concept: Belgitude <i>(Belgitude / Belgitude)</i>
 - Crossage Game <i>(Crossage / Chole)</i>
 - Brabantine Gothic Architecture <i>(Gothique Brabançon / Brabantse Gotiek)</i>
 - Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>

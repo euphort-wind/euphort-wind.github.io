@@ -125,7 +125,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Serbian Inat <i>(Српски Инат)</i>
+- Authentic Concept: Serbian Inat <i>(Српски Инат)</i>
 - Slava Celebrations <i>(Српска Слава)</i>
 - Pirot Carpets <i>(Пиротски Ћилим)</i>
 - Kolo Dance <i>(Коло)</i>

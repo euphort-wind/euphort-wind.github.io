@@ -304,7 +304,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: La Dolce Vita <i>(La Dolce Vita)</i> 
+- Authentic Concept: La Dolce Vita <i>(La Dolce Vita)</i> 
 - Latin Alphabet <i>(Alfabeto Latino)</i> 
 - Tarantella Dance <i>(Tarantella)</i> 
 - Maiolica Pottery <i>(Maiolica)</i> 
@@ -346,7 +346,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - <u>Emilia-Romagna (Regional Special):</u> Towers of Bologna <i>(Torri di Bologna)</i>
 - <u>Sicily (Regional Special):</u> Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i> 
 - <u>Sicily (Regional Special):</u> Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
-  - Authentic Principle: Omerta <i>(Omertà / Ômertà)</i> 
+  - Authentic Concept: Omerta <i>(Omertà / Ômertà)</i> 
   - Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
   - Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
   - Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 

@@ -131,7 +131,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Philotimo <i>(Φιλότιμο)</i>
+- Authentic Concept: Philotimo <i>(Φιλότιμο)</i>
 - Eastern Orthodoxy <i>(Ανατολικός Ορθόδοξος Χριστιανισμός)</i>
 - Title of Ecumenical Patriarch of Constantinople <i>(Οἰκουμενικός Πατριάρχης)</i>
 - Sirtaki Dance <i>(Σιρτάκη)</i>
@@ -141,7 +141,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
   - Title of Basileus <i>(βασιλεύς)</i>
   - Ostrakinda Game <i>(Ὀστρακίνδα)</i>
-  - Ancient Authentic Principle: Eudaimonia <i>(Ευδαιμονία)</i>
+  - Ancient Authentic Concept: Eudaimonia <i>(Ευδαιμονία)</i>
   - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
   - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
   - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>

@@ -267,7 +267,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: L'Art de Vivre <i>(L'Art de Vivre)</i>
+- Authentic Concept: L'Art de Vivre <i>(L'Art de Vivre)</i>
 - Can-Can Dance <i>(Cancan)</i>
 - Bourrée Dance <i>(Bourrée)</i> 
 - Carousels <i>(Carrousel)</i>
@@ -303,7 +303,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - <u>Île-de-France (Regional Special):</u> Art Déco Architecture <i>(Architecture Art Déco)</i>
 - <u>Occitania (Regional Special):</u> Chabrot Tradition <i>(Chabrot / Chabròt)</i>
 - <u>Occitania (Regional Special):</u> Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
-  - Authentic Principle: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
+  - Authentic Concept: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
   - Troubadours & Occitan Lyric Poetry <i>(Troubadours et Poésie Lyrique Occitane / Trobadors e Poesia Lirica Occitana)</i>
   - Floral Games <i>(Jeux Floraux / Jòcs Florals)</i>
   - Catharism <i>(Catharisme / Catarisme)</i>

@@ -121,7 +121,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Hispanidad <i>(Hispanidad)</i>
+- Authentic Concept: Hispanidad <i>(Hispanidad)</i>
 - Siesta Nap <i>(Siesta)</i>
 - Flamenco Art Form <i>(Flamenco)</i>
 - Mudéjar Architecture <i>(Arte Mudéjar)</i>
@@ -134,7 +134,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - Heritage of the Spanish Republic <i>(República Española)</i>
 - <u>Catalonia (Regional Special):</u> Culture of Catalans <i>(Catalanes / Catalans)</i>
-  - Authentic Principle: Seny <i>(Seny / Seny)</i>
+  - Authentic Concept: Seny <i>(Seny / Seny)</i>
   - Sardana Dance <i>(Sardana / Sardana)</i>
   - Patacó Game <i>(Patacó / Patacó)</i>
   - Catalan Mythology <i>(Mitología Catalana / Mitologia Catalana)</i>

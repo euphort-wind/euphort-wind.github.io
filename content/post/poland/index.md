@@ -138,7 +138,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i> 
 - Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i>
 - Heritage of the Polish–Lithuanian Commonwealth <i>(Rzeczpospolita / Regnum Poloniae Magnusque Ducatus Lithuaniae)</i>
-  - Authentic Principle: Sarmatism <i>(Sarmatyzm)</i>
+  - Authentic Concept: Sarmatism <i>(Sarmatyzm)</i>
   - Title of Szlachcic <i>(Szlachcic)</i>
   - Polish Baroque Architecture <i>(Sztuka Barokowa w Polsce)</i>
   - Authentic Garb: Robe à la Polonaise & Żupan <i>(Poloneska i Żupan)</i> 

@@ -160,7 +160,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Authentic Garb: Pieptar & Romanian Ie <i>(Pieptar și Ie)</i> 
 - Authentic Musical Instrument: Romanian Nai <i>(Nai)</i> 
 - Culture of Romani <i>(Romi / Romane Manusha)</i>
-  - Authentic Principle: Romanipen <i>(Romanipenul / Romanipen)</i>
+  - Authentic Concept: Romanipen <i>(Romanipenul / Romanipen)</i>
   - Lăutărească Music & Lăutari <i>(Muzica Lăutărească și Lăutari / Lăutărească Muzika thaj Lăutari)</i> 
   - Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
   - Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>

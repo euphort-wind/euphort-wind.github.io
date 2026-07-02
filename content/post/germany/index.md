@@ -220,7 +220,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Gemütlichkeit <i>(Gemütlichkeit)</i>
+- Authentic Concept: Gemütlichkeit <i>(Gemütlichkeit)</i>
 - Protestantism <i>(Protestantismus)</i>
 - Allemande Dance <i>(Allemande)</i>
 - Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 

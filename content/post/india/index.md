@@ -120,7 +120,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Ahimsa <i>(अहिंसा)</i>
+- Authentic Concept: Ahimsa <i>(अहिंसा)</i>
 - Hinduism <i>(हिन्दू धर्म)</i>
 - Sikhism <i>(सिख धर्म)</i>
 - Jainism <i>(जैन धर्म)</i>
@@ -156,7 +156,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
   - Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
 - <u>Goa (Regional Special):</u> Culture of Goans <i>(गोवाई / गोएनकर)</i>
-  - Authentic Principle: Susegad <i>(सुसेगाद / सुसेगाद)</i>
+  - Authentic Concept: Susegad <i>(सुसेगाद / सुसेगाद)</i>
   - Fugdi Dance <i>(फुगडी / फुगडी)</i>
   - Authentic Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
   - Authentic Musical Instrument: Ghumot <i>(घुमोट / घुमट)</i>

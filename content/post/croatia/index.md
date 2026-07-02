@@ -127,7 +127,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Fjaka <i>(Fjaka)</i>
+- Authentic Concept: Fjaka <i>(Fjaka)</i>
 - Ojkanje Singing <i>(Ojkanje)</i>
 - Story of Klepetan & Malena <i>(Klepetan i Malena)</i>
 - Zvončari Costume <i>(Zvončari)</i>  

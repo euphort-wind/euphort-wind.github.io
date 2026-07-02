@@ -92,7 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
  
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Besa <i>(Besa)</i>
+- Authentic Concept: Besa <i>(Besa)</i>
 - Bektashism <i>(Bektashizmi)</i>
 - Shota Dance <i>(Shotë)</i>
 - System of Albanian Tribes <i>(Fiset Shqiptare)</i>

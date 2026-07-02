@@ -141,7 +141,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Kos <i>(Kos)</i>
+- Authentic Concept: Kos <i>(Kos)</i>
 - Open-Air-Life <i>(Friluftsliv)</i> 
 - Nordic Skiing Tradition <i>(Nordiske Grener)</i>
 - Dragestil Architecture <i>(Dragestil)</i>

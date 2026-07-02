@@ -298,7 +298,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Russian Avos <i>(Русское Авось)</i>
+- Authentic Concept: Russian Avos <i>(Русское Авось)</i>
 - Khokhloma Painting <i>(Хохлома)</i>
 - Zhostovo Painting <i>(Жостовская Роспись)</i>
 - Horovod Dance <i>(Хоровод)</i>
@@ -323,7 +323,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
     - Balkar Bychak Knives <i>(Бичак / Бычак)</i>
 - <u>Karachay-Cherkessia:</u> Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
-    - Authentic Principle: Circassian Xabze <i>(Адыгэ Хабзэ / Адыгэ Хабзэ)</i>
+    - Authentic Concept: Circassian Xabze <i>(Адыгэ Хабзэ / Адыгэ Хабзэ)</i>
     - Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
     - Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
     - Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>

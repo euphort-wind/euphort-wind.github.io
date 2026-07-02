@@ -117,7 +117,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Hygge <i>(Hygge)</i>
+- Authentic Concept: Hygge <i>(Hygge)</i>
 - Hedebo Embroidery <i>(Hedebosyning)</i>
 - Legend of Danish Flag <i>(Dannebrog)</i>
 - Daldøs Game <i>(Daldøs)</i>

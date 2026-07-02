@@ -351,7 +351,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Lagom <i>(Lagom)</i>
+- Authentic Concept: Lagom <i>(Lagom)</i>
 - Hambo Dance <i>(Hambo)</i>
 - Kubb Game <i>(Kubb)</i>
 - Dala Horses <i>(Dalahästar)</i>

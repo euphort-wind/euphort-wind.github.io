@@ -125,7 +125,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Principle: Saudade <i>(Saudade)</i>
+- Authentic Concept: Saudade <i>(Saudade)</i>
 - Fado Music <i>(Fado)</i>
 - Cante Alentejano Music <i>(Cante Alentejano)</i>
 - Manueline Architecture <i>(Estilo Manuelino)</i> 
