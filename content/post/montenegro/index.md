@@ -26,7 +26,7 @@ gallery_item:
     image: 7perast.jpeg
     caption: Perast
   - album: montenegro
-    image: 8food.jpeg
+    image: 8foode.jpeg
     caption: Podgorički Popeci, Kačamak & Pljevaljski Sir
 ---
 Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was there in 2026. Below are some notes on what I tasted, saw and listened to.
