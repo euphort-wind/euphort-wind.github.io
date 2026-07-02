@@ -1,6 +1,6 @@
 ---
 title: 🇭🇷 Croatia
-date: '2025-03-01'
+date: '2026-06-30'
 summary: Trip to Croatia
 
 gallery_item:
@@ -11,16 +11,16 @@ gallery_item:
     image: 2church.jpeg
     caption: St. Mark's Church (Zagreb)
   - album: croatia
-    image: 3thea.jpeg
-    caption: Croatian National Theatre
+    image: 6fontain.jpeg
+    caption: Large Onofrio Fountain
   - album: croatia
     image: 4zadar.jpeg
     caption: Zadar
   - album: croatia
-    image: 5cath.jpeg
-    caption: Zadar Cathedral
+    image: 5dubrovnik.jpeg
+    caption: Dubrovnik
   - album: croatia
-    image: 6don.jpeg
+    image: 3don.jpeg
     caption: Church of St. Donatus 
   - album: croatia
     image: 7square.jpeg
@@ -33,7 +33,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Zagreb, Zadar.<br>
+<b>🗺 Places:</b> Zagreb, Zadar, Dubrovnik.<br>
 
 <b>🏛 Top sights visited: </b>
 
@@ -41,28 +41,44 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 1. Zagreb
     - Ban Jelačić Square <i>(Trg Bana Jelačića)</i>
     - Croatian National Theatre <i>(Hrvatsko Narodno Kazalište)</i>
-    - The Church of St. Mark <i>(Crkva Sv. Marka)</i>
-    - The Zagreb Cathedral <i>(Zagrebačka Katedrala)</i>
-    - The Art Pavilion in Zagreb <i>(Umjetnički Paviljon u Zagrebu)</i>
+    - Church of St. Mark <i>(Crkva Sv. Marka)</i>
+    - Zagreb Cathedral <i>(Zagrebačka Katedrala)</i>
+    - Art Pavilion in Zagreb <i>(Umjetnički Paviljon u Zagrebu)</i>
     - Nikola Šubić Zrinski Square <i>(Trg Nikole Šubića Zrinskog)</i>
-    - The Oktogon <i>(Oktogon)</i>
+    - Oktogon <i>(Oktogon)</i>
     - Dolac Market <i>(Tržnica Dolac)</i>
-    - The Stone Gate <i>(Kamenita Vrata)</i>
+    - Stone Gate <i>(Kamenita Vrata)</i>
     - Lotrščak Tower <i>(Kula Lotrščak)</i>
     - Maksimir Park <i>(Park Maksimir)</i>
 2. Zadar
     - Narodni Square <i>(Narodni Trg)</i>
-    - The Sea Organ <i>(Morske Orgulje)</i>
-    - The Church of St. Donatus <i>(Crkva sv. Donata)</i>
+    - Sea Organ <i>(Morske Orgulje)</i>
+    - Church of St. Donatus <i>(Crkva sv. Donata)</i>
     - Zadar Cathedral <i>(Katedrala Sv. Stošije)</i>
     - Museum of Ancient Glass <i>(Muzej Antičkog Stakla)</i>
-    - The Five Wells Square <i>(Trg Pet Bunara)</i>
-    - Park Vladimira Nazora <i>(Perivoj Vladimira Nazora)</i>    
+    - Five Wells Square <i>(Trg Pet Bunara)</i>
+    - Park Vladimira Nazora <i>(Perivoj Vladimira Nazora)</i>   
+3. Dubrovnik
+    - Old Town Dubrovnik <i>(Grad)</i>
+    - Stradun Street <i>(Stradun)</i>
+    - Large Onofrio Fountain <i>(Velika Onofrijeva Fontana)</i>
+    - Fort Minčeta <i>(Tvrđava Minčeta)</i>
+    - Fort Lovrijenac <i>(Tvrđava Lovrijenac)</i>
+    - Pile Gate <i>(Vrata od Pila)</i>
+    - Walls of Dubrovnik <i>(Dubrovačke Gradske Zidine)</i>
+    - Franciscan Friary <i>(Franjevački Samostan)</i>
+    - Church of St. Blaise <i>(Crkva sv. Vlaha)</i>
+    - Rector's Palace <i>(Knežev Dvor)</i>
+    - Dubrovnik Bell Tower <i>(Gradski Zvonik)</i>
+    - Old Harbour of Dubrovnik <i>(Stara Luka)</i>
+    - Uvala Lapad Beach <i>(Plaža Lapad)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
 - 🇭🇷 Miach (singer). Genre: pop
 - 🇭🇷 Gibonni (singer). Genre: pop
+- 🇭🇷 Silente (band). Genre: pop-rock
+- 🇭🇷 IDEM (band). Genre: pop-punk
 - 🇭🇷 Valentino Bošković (band). Genre: pop
 - 🇭🇷 Jelena Rozga (singer). Genre: pop
 - 🇭🇷 Nika Turković (singer). Genre: pop
@@ -74,26 +90,37 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 <b>🥘 Local food & drinks: </b>
 - Sataraš <i>(Sataraš)</i>
 - Fritaja <i>(Fritaja)</i>
+- Češnjovka Sausage <i>(Češnjovka)</i>
 - Croatian Rižot <i>(Hrvatski Rižot)</i>
   - Black Rižot <i>(Crni Rižot)</i>
   - Skradinski Rižot <i>(Skradinski Rižot)</i>
   - Rižot s Tartufima <i>(Rižot s Tartufima)</i>
+- Gregada <i>(Gregada)</i>
+- Brudet <i>(Brodet)</i>
 - Pašticada <i>(Pašticada)</i>
 - Kroštule <i>(Kroštule)</i>
 - Uštipci <i>(Uštipci)</i>
 - Bajadera <i>(Bajadera)</i>
 - Međimurska Gibanica <i>(Međimurska Gibanica)</i>
+- Pag Cheese <i>(Paški Sir)</i>
 - Maraskino <i>(Brand: "Perković")</i>
 - Travarica <i>(Brand: "Velebit")</i>
 - <u>Zagreb (Regional Special):</u> Štrukli <i>(Štrukli)</i>
   - Štrukli with Pumpkin Seeds <i>(Štrukli sa Bučinim Sjemenkama)</i>
   - Štrukli with Blueberries <i>(Štrukli s Borovnicama)</i>
   - Štrukli with Walnuts and Honey <i>(Štrukli s Orasima i Medom)</i>
-- <u>Zadar (Regional Special):</u> Buzara-Style Shrimps <i>(Škampi na Buzaru)</i>
+- <u>Zadar (Regional Special):</u> Buzara-Style Seafood <i>(Morski Plodovi na Buzaru
+)</i>
+  - Buzara-Style Scampi <i>(Škampi na Buzaru)</i>
+  - Buzara-Style Squids <i>(Lignje na Buzaru)</i>
+  - Buzara-Style Mussels <i>(Dagnje na Buzaru)</i>
+- <u>Dubrovnik-Neretva (Regional Special):</u> Peka-Style Octopus <i>(Hobotnica ispod Peke)</i>
+- <u>Dubrovnik-Neretva (Regional Special):</u> Rožata <i>(Rožata)</i>
 
 
 <b>🎬 Local movies:</b>
 - The Constitution <i>(Ustav Republike Hrvatske)</i>. Year: 2016. Genre: drama
+- Ministry of Love <i>(Ministarstvo Ljubavi)</i>. Year: 2016. Genre: drama / comedy
 - Safe Place <i>(Sigurno Mjesto)</i>. Year: 2022. Genre: drama
 - The Priest's Children <i>(Svećenikova Djeca)</i>. Year: 2013. Genre: drama / comedy
 - The Man Who Could Not Remain Silent <i>(Čovjek koji nije Mogao Šutjeti)</i>. Year: 2024. Genre: short / drama
@@ -115,12 +142,21 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - Legacy of Illyrians <i>(Iliri / Ἰλλυριοί)</i>
 - Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>  
 - <u>Zadar (Regional Special):</u> Klapa Singing <i>(Klapa)</i>
+- <u>Dubrovnik-Neretva (Regional Special):</u> Linđo Dance <i>(Linđo)</i>
+- <u>Dubrovnik-Neretva (Regional Special):</u> Neretvanska Ladja <i>(Neretvanska Lađa)</i>
+- <u>Dubrovnik-Neretva (Regional Special):</u> Konavle Embroidery <i>(Konavoski Vez)</i>
+- <u>Dubrovnik-Neretva (Regional Special):</u> Authentic Musical Instrument: Lijerica <i>(Lijerica)</i>
+- <u>Dubrovnik-Neretva (Regional Special):</u> Heritage of the Republic of Ragusa <i>(Dubrovačka Republika / Republica de Ragusa)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Statehood Day of Croatia <i>(Dan Državnosti)</i>. Month: May
 - Rijeka Carnival <i>(Riječki Karneval)</i>. Month: February or March
 - <u>Zagreb (Regional Special):</u> Samobor Carnival <i>(Samoborski Fašnik)</i>. Month: February to March
+- <u>Dubrovnik-Neretva (Regional Special):</u> Ladja Marathon <i>(Maraton Lađa)</i>. Month: August
+- <u>Dubrovnik-Neretva (Regional Special):</u> Festivity of Saint Blaise <i>(Festa Svetog Vlaha)</i>. Month: February
+
+
 
 <b>💐 National flower: </b> Croatian Iris <i>(Hrvatska Perunika)</i>
 
