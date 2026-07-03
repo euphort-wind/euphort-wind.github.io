@@ -94,14 +94,15 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇧🇬 Dara (singer). Genre: pop
 - 🇧🇬 КаriZма (duo). Genre: pop
 - 🇧🇬 Robi (singer). Genre: pop
+- 🇧🇬 Tino (singer). Genre: pop
 - 🇧🇬 D2 (band). Genre: rock
 - 🇧🇬 Azis (singer). Genre: chalga
 - 🇧🇬 Avenue (duo). Genre: pop
 - 🇧🇬 Orlin Goranov (singer). Genre: pop
 - 🇧🇬 Молец (duo). Genre: pop
+- 🇺🇳 Dara (singer). Genre: pop
 
 <b>🎚️ Authentic EDM genres: </b>
 - Chalga. Originated: early 1990s
