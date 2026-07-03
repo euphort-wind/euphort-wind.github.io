@@ -95,6 +95,9 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 <b>🥘 Local food & drinks: </b>
 - Urnebes <i>(Урнебес)</i>
 - Serbian Salad <i>(Српска Салата)</i>
+- Moravska Salata <i>(Моравска Салата)</i>
+- Bundevara <i>(Бундевара)</i>
+- Serbian Bean Soup <i>(Пасуљ)</i>
 - Mantije <i>(Мантије)</i>
 - Karađorđeva Šnicla <i>(Карађорђева Шницла)</i>
 - Roštilj-Style Dishes <i>(Роштиљ)</i>

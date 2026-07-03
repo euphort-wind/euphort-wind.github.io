@@ -111,6 +111,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Shopska Salad <i>(Шопска Салата)</i>
 - Snow White Salad <i>(Салата Снежанка)</i>
 - Tarator Soup <i>(Таратор)</i>
+- Topcheta Soup <i>(Супа Топчета)</i>
 - Lyutenitsa <i>(Лютеница)</i>
 - Kyopolou <i>(Кьопоолу)</i>
 - Lukanka <i>(Луканка)</i>
@@ -120,6 +121,8 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
   - Banitsa with Spinach <i>(Баница със Спанак)</i>
 - Princess Sandwich <i>(Принцеса)</i>
 - Mish-Mash <i>(Миш-Маш)</i>
+- Ezik v Maslo <i>(Език в Масло)</i>
+- Gyuvech <i>(Гювеч)</i>
 - Patatnik <i>(Пататник)</i>
 - Chushki Burek <i>(Чушки Бюрек)</i>
 - Kebapche <i>(Кебапче)</i>
@@ -128,7 +131,10 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Bulgarian Cheese <i>(Български Сирена)</i>
   - Sirene <i>(Сирене)</i>
   - Kashkaval <i>(Кашкавал)</i>
+  - Katǎk <i>(Катък)</i>
+- Mekitsa <i>(Мекица)</i>
 - Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
+- <u>Burgas (Regional Special):</u> Strandzhanka <i>(Странджанка)</i>
 
 
 <b>🎬 Local movies:</b>
