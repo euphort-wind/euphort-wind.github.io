@@ -158,8 +158,10 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - Georgian Mythology <i>(ქართული მითოლოგია)</i> 
 - Authentic Musical Instrument: Panduri <i>(ფანდური)</i>
 - Authentic Garb: Chokha & Kabalakhi <i>(ჩოხა და ყაბალახი)</i>
+- Heritage of the Kingdom of Iberia <i>(იბერია)</i>
+- Heritage of the Kingdom of Colchis <i>(ეგრისი)</i>
 - Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>
-- <u>Mtskheta-Mtianeti (Regional Special):</u> Heritage of the Kingdom of Iberia <i>(ქართლის სამეფო / ივერიის სამეფო)</i>
+- <u>Mtskheta-Mtianeti (Regional Special):</u> Heritage of the Kingdom of Kartli <i>(ქართლის სამეფო)</i>
 - <u>Kakheti (Regional Special):</u> Kakhuri Dance <i>(კახურის ცეკვა)</i>
 - <u>Kakheti (Regional Special):</u> Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
 - <u>Kakheti (Regional Special):</u> Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i>

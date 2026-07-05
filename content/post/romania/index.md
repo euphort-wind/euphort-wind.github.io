@@ -165,7 +165,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
   - Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
   - Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
   - Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
-- Legacy of Dacians <i>(Dacii / Δάκοι)</i>
+- Legacy of Dacians <i>(Dacii)</i>
 - Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
 - Heritage of the Principality of Transylvania <i>(Principatul Transilvaniei / Erdélyi Fejedelemség)</i>
 - Heritage of the Kingdom of Romania <i>(Regatul României)</i>

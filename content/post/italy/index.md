@@ -336,7 +336,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
 - <u>Lazio (Regional Special):</u> Nasoni <i>(Nasoni)</i> 
 - <u>Tuscany (Regional Special):</u> Scoppio del Carro Easter Tradition <i>(Scoppio del Carro)</i> 
-- <u>Tuscany (Regional Special):</u> Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res publica Florentina)</i>
+- <u>Tuscany (Regional Special):</u> Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
   - Medici Porcelain <i>(Porcellane Medicee)</i>
   - Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i>
   - Italian Renaissance Painting <i>(Pittura Rinascimentale)</i>

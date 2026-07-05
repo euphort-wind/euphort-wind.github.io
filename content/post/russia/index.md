@@ -327,7 +327,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
     - Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
     - Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
-    - The Heritage of the Circassia <i>(Черкесия / Адыгэ Хэку)</i>
+    - Heritage of the Circassia <i>(Черкесия / Адыгэ Хэку)</i>
 - <u>North Ossetia (Regional Special):</u> Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
     - Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
     - Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>

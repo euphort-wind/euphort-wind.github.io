@@ -114,7 +114,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 - Maltese Baroque Architecture <i>(Arkitettura Barokka f'Malta)</i>
 - Maltese Folklore <i>(Folklor Malti)</i>
 - Authentic Musical Instrument: Ċuqlajta <i>(Ċuqlajta)</i> 
-- The Heritage of the Hospitaller Malta <i>(Żmien il-Kavallieri / Status Monasticus Ordinis Sancti Ioannis Hierosolymitani)</i>
+- Heritage of the Hospitaller Malta <i>(Żmien il-Kavallieri / Status Monasticus Ordinis Sancti Ioannis Hierosolymitani)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
