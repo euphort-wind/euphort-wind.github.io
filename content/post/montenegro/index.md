@@ -84,6 +84,7 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 
 <b>🎧 Local musicians: </b>
 - 🇲🇪 Kejt (singer). Genre: pop
+- 🇲🇪 Sergej Ćetković (singer). Genre: pop
 - 🇲🇪 Sara Reljić (singer). Genre: pop
 - 🇲🇪 Mirela Ljumić (singer). Genre: pop
 - 🇲🇪 Dado Polumenta (singer). Genre: turbo folk
@@ -95,6 +96,7 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 - Kuvana Krtola <i>(Кувана Кртола)</i>
 - Kačamak <i>(Црногорски Качамак)</i>
 - Cicvara <i>(Цицвара)</i>
+- Balšića Tava <i>(Балшића Тава)</i>
 - Priganice <i>(Приганице)</i>
 - Montenegrin Cheese <i>(Црногорски Сир)</i>
   - Njeguški Cheese <i>(Његушки Сир)</i>

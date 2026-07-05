@@ -128,6 +128,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Kebapche <i>(Кебапче)</i>
 - Kyufte <i>(Кюфте)</i>
 - Tsatsa Fish <i>(Цаца)</i>
+- Garash Cake <i>(Гараш Торта)</i>
 - Bulgarian Cheese <i>(Български Сирена)</i>
   - Sirene <i>(Сирене)</i>
   - Kashkaval <i>(Кашкавал)</i>
@@ -153,6 +154,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Authentic Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
 - Authentic Garb: Bulgarian Nosiya <i>(Носия)</i>
 - Legacy of Thracians <i>(Траки / Θρᾷκες)</i>
+- Legacy of Bulghars <i>(Прабългари)</i>
 - Heritage of the First Bulgarian Empire <i>(Първо Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>
 - Heritage of the Second Bulgarian Empire <i>(Второ Българско Царство / Ц︢рьство Блъгарское)</i>
 
