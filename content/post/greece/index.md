@@ -94,6 +94,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - Skordalia <i>(Σκορδαλιά)</i>
 - Ktipiti <i>(Τυροκαυτερή)</i>
 - Avgolemono Soup <i>(Αυγολέμονο)</i>
+- Tiropita <i>(Τυρóπιτα)</i>
+- Spanakopita <i>(Σπανακόπιτα)</i>
 - Souvlakia-Style Meats <i>(Σουβλάκι)</i>
   - Souvlakia-Style Chicken <i>(Σουβλάκι Κοτόπουλο)</i>
   - Souvlakia-Style Pork <i>(Σουβλάκι Χοιρινό)</i>
@@ -121,6 +123,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - <u>Crete (Regional Special):</u> Kalitsounia <i>(Καλιτσούνια)</i>
 - <u>Crete (Regional Special):</u> Sarikopites <i>(Σαρικόπιτες)</i>
 - <u>South Aegean (Regional Special):</u> Pitaroudia <i>(Πιταρούδια)</i>
+- <u>South Aegean (Regional Special):</u> Tomatokeftedes <i>(Τοματοκεφτέδες)</i>
 - <u>South Aegean (Regional Special):</u> Melekouni <i>(Μελεκούνι)</i>
 
 

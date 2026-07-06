@@ -110,6 +110,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 <b>🥘 Local food & drinks: </b>
 - Shopska Salad <i>(Шопска Салата)</i>
 - Snow White Salad <i>(Салата Снежанка)</i>
+- Ovcharska Salad <i>(Овчарската Салата)</i>
 - Tarator Soup <i>(Таратор)</i>
 - Topcheta Soup <i>(Супа Топчета)</i>
 - Lyutenitsa <i>(Лютеница)</i>
