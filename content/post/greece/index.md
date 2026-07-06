@@ -142,9 +142,9 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
 - Ancient Authentic Garb: Fustanella & Amalía Dress <i>(Φουστανέλα και Αμαλία)</i>
 - Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
-  - Title of Basileus <i>(βασιλεύς)</i>
-  - Ostrakinda Game <i>(Ὀστρακίνδα)</i>
   - Ancient Authentic Concept: Eudaimonia <i>(Ευδαιμονία)</i>
+  - Ostrakinda Game <i>(Ὀστρακίνδα)</i>
+  - Title of Basileus <i>(βασιλεύς)</i>
   - Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
   - Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
   - Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>

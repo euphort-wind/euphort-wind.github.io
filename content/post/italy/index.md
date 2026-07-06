@@ -324,9 +324,9 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Bucchero Ceramics <i>(Bucchero)</i> 
 - Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
 - Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
-  - Title of Pater Patriae <i>(Pater Patriae)</i> 
   - Harpastum Game <i>(Harpastum)</i> 
   - Trigon Game <i>(Trigon)</i>
+  - Title of Pater Patriae <i>(Pater Patriae)</i> 
   - Ancient Roman Mythology <i>(Mitologia Romana Antica)</i>
   - Ancient Roman Architecture <i>(Architettura Romana Antica)</i>
   - Ancient Roman Sculpture <i>(Scultura Romana Antica)</i>
