@@ -165,6 +165,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Baba Marta Day <i>(Баба Марта)</i>. Month: March
 - Bulgarian Rose Festival <i>(Празник на Розата)</i>. Month: May to June
 - Day of Bulgarian Alphabet, Bulgarian Enlightenment and Culture <i>(Ден на Българската Азбука, Просвета и Култура)</i>. Month: May
+- <u>Burgas (Regional Special):</u> Burgas Sand Sculptures Festival <i>(Фестивал на Пясъчните Скулптури)</i>. Month: July to August
 
 
 
