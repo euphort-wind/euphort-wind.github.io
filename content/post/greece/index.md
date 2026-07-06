@@ -14,7 +14,7 @@ gallery_item:
     image: 3oia.jpg
     caption: Santorini Island
   - album: greece
-    image: 5ah.jpg
+    image: 5ah.jpeg
     caption: Saint Minas Cathedral (Heraklion)
   - album: greece
     image: 2x.jpg
