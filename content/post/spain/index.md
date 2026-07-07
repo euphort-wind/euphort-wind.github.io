@@ -101,15 +101,15 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🥫 Tomate Frito Sauce <i>(Tomate Frito)</i>
 - 🍶 Sherry Wine <i>(Brands: "La Guita Manzanilla", "Tio Pepe Fino")</i>
 - 🍶 Sangria Cocktail <i>(Sangría)</i>
-- 🗺️ <u>Catalonia (Regional Special):</u>
+- 🗺️ <u>Catalonia - Regional Special:</u>
   - 🥗 Fuet Sausage <i>(Fuet / Fuet)</i>
   - 🥗 Samfaina <i>(Samfaina / Pebrereta)</i>
-- 🥗 <u>Catalonia (Regional Special):</u> Esqueixada <i>(Esqueixada / Esqueixada)</i>
-- 🥗 <u>Catalonia (Regional Special):</u> Escalivada <i>(Escalibada / Escalivada)</i>
-- 🥙 <u>Catalonia (Regional Special):</u> Pa amb Tomàquet <i>(Pan con Tomate / Pa amb Tomàquet)</i>
-- 🍰 <u>Catalonia (Regional Special):</u> Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
-- 🧀 <u>Catalonia (Regional Special):</u> Mató Cheese <i>(Mató / Mató)</i>
-- 🥫 <u>Catalonia (Regional Special):</u> Aïoli Sauce <i>(Alioli / Allioli)</i>
+  - 🥗 Esqueixada <i>(Esqueixada / Esqueixada)</i>
+  - 🥗 Escalivada <i>(Escalibada / Escalivada)</i>
+  - 🥙 Pa amb Tomàquet <i>(Pan con Tomate / Pa amb Tomàquet)</i>
+  - 🍰 Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
+  - 🧀 Mató Cheese <i>(Mató / Mató)</i>
+  - 🥫 Aïoli Sauce <i>(Alioli / Allioli)</i>
 
 
 <b>🎬 Local movies:</b>
