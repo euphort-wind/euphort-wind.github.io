@@ -74,41 +74,42 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 
 
 <b>🍽️ Local food & drinks: </b>
-- Phool Makhana <i>(फूल मखाने)</i>
-- Thali-Style Dishes <i>(थाली)</i>
-  - Dal <i>(दाल)</i>
-  - Paneer Makhani <i>(पनीर मखनी)</i>
-  - Aloo Matar <i>(आलू मटर)</i>
-  - Kachumber <i>(कचूमर)</i>
-  - Raita <i>(रायता)</i>
-  - Roti <i>(रोटी)</i>
-  - Basmati Rice <i>(बासमती चावल)</i>
-  - Gulab Jamun <i>(गुलाब जामुन)</i>
-- Samosa <i>(समोसा)</i>
-- Jeera Aloo <i>(जीरा आलू)</i>
-- Vada Pav <i>(वड़ापाव)</i>
-- Butter Chicken <i>(बटर चिकन)</i>
-- Kanda Bhaji <i>(कांदा भजी)</i>
-- Chana Masala <i>(चना मसाला)</i>
-- Chole Bhature <i>(छोले भटूरे)</i>
-- Puri Bhaji <i>(पूरी भाजी)</i>
-- Khoya Paneer <i>(खोया पनीर)</i>
-- Palak Paneer <i>(पालक पनीर)</i>
-- Rogan Josh <i>(रोग़न जोश)</i>
-- Lamb Korma <i>(मटन कोरमा)</i>
-- Tandoori Chicken <i>(तंदुरी चिकन)</i>
-- Kulfi <i>(क़ुल्फ़ी)</i>
-- Kheer <i>(खीर)</i>
-- Mukhwas <i>(मुखवास)</i>
-- Vada <i>(वड़ा)</i>
-- Naan <i>(नान)</i>
-- <u>Karnataka (Regional Special):</u> Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
-- <u>Karnataka (Regional Special):</u> Bisi Bele Bath <i>(बिसी बेले बाथ / ಬಿಸಿ ಬೇಳೆ ಭಾತ್)</i>
-- <u>Karnataka (Regional Special):</u> Mysore Pak <i>(मैसूर पाक / ಮೈಸೂರು ಪಾಕ್)</i>
-- <u>Goa (Regional Special):</u> Vindaloo <i>(विंदालू / विंदालू)</i>
-- <u>Goa (Regional Special):</u> Goan Fish Curry <i>(गोवा मछली करी / हुमण)</i>
-- <u>Goa (Regional Special):</u> Ros Omelette <i>(रोस ऑमलेट / रोस आमलेट)</i>
-- <u>Goa (Regional Special):</u> Sarapatel <i>(सोरपोतेल / सोरपोतेल)</i>
+- 🥗 Phool Makhana <i>(फूल मखाने)</i>
+- 🥙 Samosa <i>(समोसा)</i>
+- 🥙 Vada Pav <i>(वड़ापाव)</i>
+- 🥙 Chole Bhature <i>(छोले भटूरे)</i>
+- 🥙 Puri Bhaji <i>(पूरी भाजी)</i>
+- 🥘 Thali-Style Dishes <i>(थाली)</i>
+  - 🥗 Kachumber <i>(कचूमर)</i>
+  - 🥗 Basmati Rice <i>(बासमती चावल)</i>
+  - 🥘 Dal <i>(दाल)</i>
+  - 🥘 Paneer Makhani <i>(पनीर मखनी)</i>
+  - 🥘 Aloo Matar <i>(आलू मटर)</i>
+  - 🍰 Gulab Jamun <i>(गुलाब जामुन)</i>
+  - 🥫 Raita <i>(रायता)</i>
+  - 🫓 Roti <i>(रोटी)</i>
+- 🥘 Jeera Aloo <i>(जीरा आलू)</i>
+- 🥘 Butter Chicken <i>(बटर चिकन)</i>
+- 🥘 Kanda Bhaji <i>(कांदा भजी)</i>
+- 🥘 Chana Masala <i>(चना मसाला)</i>
+- 🥘 Khoya Paneer <i>(खोया पनीर)</i>
+- 🥘 Palak Paneer <i>(पालक पनीर)</i>
+- 🥘 Rogan Josh <i>(रोग़न जोश)</i>
+- 🥘 Lamb Korma <i>(मटन कोरमा)</i>
+- 🥘 Tandoori Chicken <i>(तंदुरी चिकन)</i>
+- 🍰 Kulfi <i>(क़ुल्फ़ी)</i>
+- 🍰 Kheer <i>(खीर)</i>
+- 🍰 Mukhwas <i>(मुखवास)</i>
+- 🫓 Naan <i>(नान)</i>
+- 🗺️ <u>Karnataka - Regional Special:</u> 
+  - 🥙 Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
+  - 🥘 Bisi Bele Bath <i>(बिसी बेले बाथ / ಬಿಸಿ ಬೇಳೆ ಭಾತ್)</i>
+  - 🍰 Mysore Pak <i>(मैसूर पाक / ಮೈಸೂರು ಪಾಕ್)</i>
+- 🗺️ <u>Goa - Regional Special:</u> 
+  - 🥘 Vindaloo <i>(विंदालू / विंदालू)</i>
+  - 🥘 Goan Fish Curry <i>(गोवा मछली करी / हुमण)</i>
+  - 🥘 Ros Omelette <i>(रोस ऑमलेट / रोस आमलेट)</i>
+  - 🥘 Sarapatel <i>(सोरपोतेल / सोरपोतेल)</i>
 
 
 <b>🎬 Local movies:</b>
