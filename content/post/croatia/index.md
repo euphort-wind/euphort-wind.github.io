@@ -132,8 +132,8 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - Story of Klepetan & Malena <i>(Klepetan i Malena)</i>
 - Zvončari Costume <i>(Zvončari)</i>  
 - Glagolitic Script <i>(Hrvatska Glagoljica / ⰳⰾⰰⰳⱁⰾⰻⱌⰰ)</i>
-- Title of Župan <i>(Župan)</i>
 - Sicanje Tattooing <i>(Sicanje)</i>
+- Title of Župan <i>(Župan)</i>
 - Croatian Lace <i>(Čipkarstvo u Hrvatskoj)</i>
 - Croatian Pre-Romanesque Architecture <i>(Starohrvatska Arhitektura)</i>
 - Croatian Folklore <i>(Hrvatski Folklor)</i>

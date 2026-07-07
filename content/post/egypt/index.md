@@ -101,18 +101,18 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - Authentic Garb: Galabiya <i>(جلابية)</i>
 - Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
   - Authentic Concept: Coptic Monasticism <i>(الرهبنه القبطيه)</i>
+  - Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
   - Coptic Script <i>(الأبجدية القبطية)</i>
   - Coptic Crosses <i>(الصليب القبطى)</i>
-  - Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
 - Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
   - Ancient Authentic Concept: Maat <i>(ماعت)</i>
+  - Senet Game <i>(لعبة السِّينِت)</i>
+  - Title of Pharaoh <i>(فرعون)</i>
   - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
   - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
   - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
   - Ancient Egyptian Religion <i>(ديانة قدماء المصريين)</i>
   - Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة)</i>
-  - Senet Game <i>(لعبة السِّينِت)</i>
-  - Title of Pharaoh <i>(فرعون)</i>
   - Ancient Authentic Musical Instrument: Sistrum <i>(السيستروم)</i>
   - Ancient Authentic Garb: Khat & Shendyt <i>(الخات والشنديت)</i>
 - Heritage of the Ptolemaic Kingdom <i>(المملكه البطلميه / Ptolemaic Kingdom)</i>

@@ -199,8 +199,8 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - Authentic Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
 - Authentic Garb: Dutch Cap & Klomps <i>(Nederlandse Bonnet en Klompen)</i>
 - Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
-  - Title of Stadtholder <i>(Stadhouder)</i>
   - Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
+  - Title of Stadtholder <i>(Stadhouder)</i>
   - Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
   - Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i>
 - <u>Utrecht (Regional Special):</u> De Stijl Architecture <i>(De Stijl Architectuur)</i>
