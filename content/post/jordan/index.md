@@ -62,17 +62,16 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 
 <b>🥘 Local food & drinks: </b>
-- Hummus <i>(حمص بطحينة)</i>
-- Makmoura <i>(مكمورة)</i>
-- Maqluba <i>(مَقْلُوبَة)</i>
-- Qalayet Bandora <i>(قلاية البندورة)</i>
-- Mansaf <i>(منسف)</i>
-- Zarb-Style Lamb <i>(زرب)</i>
-- Warbat <i>(وربات)</i>
-- Knafeh <i>(كنافة)</i>
-- Khubz <i>(خبز)</i>
-- Arabic Tea <i>(شَايْ عَرَبي)</i>
-
+- 🥗 Hummus <i>(حمص بطحينة)</i>
+- 🥧 Makmoura <i>(مكمورة)</i>
+- 🥘 Maqluba <i>(مَقْلُوبَة)</i>
+- 🥘 Qalayet Bandora <i>(قلاية البندورة)</i>
+- 🥘 Mansaf <i>(منسف)</i>
+- 🥘 Zarb-Style Lamb <i>(زرب)</i>
+- 🍰 Warbat <i>(وربات)</i>
+- 🍰 Knafeh <i>(كنافة)</i>
+- 🍞 Khubz <i>(خبز)</i>
+- 🍶 Arabic Tea <i>(شَايْ عَرَبي)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -89,7 +88,6 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
   - Nabataean Religion <i>(ديانة نبطية)</i> 
   - Nabataean Script <i>(أبجدية نبطية)</i> 
   - Nabataean Betyls <i>(حجر مقدس نبطي)</i> 
-- Heritage of Ammon Kingdom <i>(𐤏𐤌𐤍 / مملكة عمون)</i>
 - Heritage of Edom Kingdom <i>(𐤀𐤃𐤌 / مملكة إدوم)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
