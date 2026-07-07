@@ -93,10 +93,10 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🥗 Spanakorizo <i>(Σπανακόρυζο)</i>
 - 🥗 Skordalia <i>(Σκορδαλιά)</i>
 - 🥗 Ktipiti <i>(Τυροκαυτερή)</i>
-- 🍲 Avgolemono Soup <i>(Αυγολέμονο)</i>
 - 🥙 Tiropita <i>(Τυρóπιτα)</i>
 - 🥙 Spanakopita <i>(Σπανακόπιτα)</i>
 - 🥙 Gyros <i>(Γύρος)</i>
+- 🍲 Avgolemono Soup <i>(Αυγολέμονο)</i>
 - 🥘 Souvlakia-Style Meats <i>(Σουβλάκι)</i>
   - 🥘 Souvlakia-Style Chicken <i>(Σουβλάκι Κοτόπουλο)</i>
   - 🥘 Souvlakia-Style Pork <i>(Σουβλάκι Χοιρινό)</i>
