@@ -76,14 +76,15 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - 🇦🇱 Shkodra Elektronike (band). Genre: folktronica
 
 <b>🍽️ Local food & drinks: </b>
-- Albanian Yogurt <i>(Kos)</i>
-- Flia <i>(Flia)</i>
-- Lakror <i>(Laknor)</i>
-- Tavë Kosi <i>(Tavë Kosi)</i>
-- Krafne <i>(Krafne)</i>
-- Petulla <i>(Petulla)</i>
-- Albanian Salep <i>(Salep)</i>
-- <u>Tirana (Regional Special):</u> Fërgesë of Tirana <i>(Fërgesë Tirane)</i>
+- 🥙 Lakror <i>(Laknor)</i>
+- 🥘 Tavë Kosi <i>(Tavë Kosi)</i>
+- 🍰 Krafne <i>(Krafne)</i>
+- 🍰 Petulla <i>(Petulla)</i>
+- 🍰 Albanian Yogurt <i>(Kos)</i>
+- 🫓 Flia <i>(Flia)</i>
+- 🍶 Albanian Salep <i>(Salep)</i>
+- <u>Tirana - Regional Special:</u> 
+  - 🥘 Fërgesë of Tirana <i>(Fërgesë Tirane)</i>
 
 
 <b>🎬 Local movies:</b>

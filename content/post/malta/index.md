@@ -85,19 +85,19 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 
 
 <b>🍽️ Local food & drinks: </b>
-- Aljotta <i>(Aljotta)</i>
-- Pastizzi <i>(Pastizzi)</i>
-  - Pastizzi with Curried Peas <i>(Pastizzi tal-Piżelli)</i> 
-  - Pastizzi with Ricotta <i>(Pastizzi tar-Rikotta)</i> 
-  - Pastizzi with Chicken <i>(Pastizzi tat-Tiġieġ)</i> 
-- Ftira <i>(Ftira)</i>
-- Maltese Rabbit Stew <i>(Stuffat tal-Fenek)</i>
-- Braġjoli <i>(Braġjoli)</i>
-- Imqarrun <i>(Imqarrun il-Forn)</i>
-- Imqaret <i>(Imqaret)</i>
-- Figolla <i>(Figolla)</i>
-- Ġbejna Cheese <i>(Ġbejna Friski)</i>
-- Maltese Bitterwseet Soda <i>(Brand: "Kinnie")</i>
+- 🥙 Pastizzi <i>(Pastizzi)</i>
+  - 🥙 Pastizzi with Curried Peas <i>(Pastizzi tal-Piżelli)</i> 
+  - 🥙 Pastizzi with Ricotta <i>(Pastizzi tar-Rikotta)</i> 
+  - 🥙 Pastizzi with Chicken <i>(Pastizzi tat-Tiġieġ)</i> 
+- 🥙 Ftira <i>(Ftira)</i>
+- 🍲 Aljotta <i>(Aljotta)</i>
+- 🥘 Maltese Rabbit Stew <i>(Stuffat tal-Fenek)</i>
+- 🥘 Braġjoli <i>(Braġjoli)</i>
+- 🥘 Imqarrun <i>(Imqarrun il-Forn)</i>
+- 🍰 Imqaret <i>(Imqaret)</i>
+- 🍰 Figolla <i>(Figolla)</i>
+- 🧀 Ġbejna Cheese <i>(Ġbejna Friski)</i>
+- 🍶 Maltese Bitterwseet Soda <i>(Brand: "Kinnie")</i>
 
 
 <b>🎬 Local movies:</b>

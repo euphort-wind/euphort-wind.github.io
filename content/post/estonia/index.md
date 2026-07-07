@@ -75,20 +75,23 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 
 
 <b>🍽️ Local food & drinks: </b>
-- Kama <i>(Kama)</i>
-- Rosolje <i>(Rosolje)</i>
-- Hiiumaa Aspic <i>(Hiiumaa Sült)</i>
-- Kiluvõileib <i>(Kiluvõileib)</i>
-- Pirukas <i>(Pirukas)</i>
-- Mulgipuder <i>(Mulgi Puder)</i>
-- Mulgikaspad <i>(Mulgi Kapsad)</i>
-- Estonian Blood Sausage <i>(Verivorst)</i>
-- Mannavaht <i>(Mannavaht)</i>
-- Kohuke <i>(Kohuke)</i>
-- Kirju Koer <i>(Kirju Koer)</i>
-- Estonian Egg Butter <i>(Munavõi)</i>
-- <u>Harju (Regional Special):</u> Tallinn Marzipan <i>(Tallinna Martsipan)</i>
-- <u>Võru (Regional Special):</u> Seto Cold Soup <i>(Seto Külmsupp / Suulliim)</i>
+- 🥗 Rosolje <i>(Rosolje)</i>
+- 🥗 Hiiumaa Aspic <i>(Hiiumaa Sült)</i>
+- 🥗 Estonian Egg Butter <i>(Munavõi)</i>
+- 🥙 Kiluvõileib <i>(Kiluvõileib)</i>
+- 🥙 Pirukas <i>(Pirukas)</i>
+- 🥘 Mulgipuder <i>(Mulgi Puder)</i>
+- 🥘 Mulgikaspad <i>(Mulgi Kapsad)</i>
+- 🥘 Estonian Blood Sausage <i>(Verivorst)</i>
+- 🍰 Mannavaht <i>(Mannavaht)</i>
+- 🍰 Kohuke <i>(Kohuke)</i>
+- 🍰 Kama <i>(Kama)</i>
+- 🍰 Kirju Koer <i>(Kirju Koer)</i>
+- <u>Harju - Regional Special:</u> 
+  - 🍰 Tallinn Marzipan <i>(Tallinna Martsipan)</i>
+- <u>Võru - Regional Special:</u> 
+  - 🍲 Seto Cold Soup <i>(Seto Külmsupp / Suulliim)</i>
+  - 🧀 Seto Sõir Cheese <i>(Seto Sõir / Seto Sõir)</i>
 
 
 <b>🎬 Local movies:</b>

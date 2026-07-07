@@ -77,26 +77,27 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 
 
 <b>🍽️ Local food & drinks: </b>
-- Tatarák <i>(Tatarák)</i>
-- Kulajda <i>(Kulajda)</i>
-- Česnečka <i>(Česnečka)</i>
-- Chlebíček <i>(Chlebíček)</i>
-  - Chlebíček with Ham <i>(Chlebíček se Šunkou)</i>
-  - Chlebíček with Hermelín <i>(Hermelínový Chlebíček)</i>
-  - Chlebíček with Egg <i>(Vajíčkový Chlebíček)</i>
-  - Chlebíček with Salami <i>(Chlebíček se Salámem)</i>
-- Czech Fried Cheese <i>(Smažený Sýr)</i>
-- Knedlíky <i>(Knedlíky)</i>
-- Svíčková <i>(Svíčková na Smetaně)</i>
-- Moravian Sparrow <i>(Moravský Vrabec)</i>
-- Bohemian Roast Duck <i>(Pečená Kachna)</i>
-- Czech Trdelník <i>(Trdelník)</i>
-- Czech Kolache <i>(Koláč)</i>
-- Hermelín Cheese <i>(Hermelín)</i>
-- Žloutkové Řezy <i>(Žloutkové Řezy)</i>
-- Czech Beer <i>(Brands: "Pilsner Urquell", "Staropramen", "Gambrinus")</i>
-- Czech Herbal Bitter <i>(Brand: "Becherovka")</i>
-- <u>Prague-Capital (Regional Special):</u> Prague Ham <i>(Pražská Šunka)</i>
+- 🥗 Tatarák <i>(Tatarák)</i>
+- 🥙 Chlebíček <i>(Chlebíček)</i>
+  - 🥙 Chlebíček with Ham <i>(Chlebíček se Šunkou)</i>
+  - 🥙 Chlebíček with Hermelín <i>(Hermelínový Chlebíček)</i>
+  - 🥙 Chlebíček with Egg <i>(Vajíčkový Chlebíček)</i>
+  - 🥙 Chlebíček with Salami <i>(Chlebíček se Salámem)</i>
+- 🍲 Kulajda <i>(Kulajda)</i>
+- 🍲 Česnečka <i>(Česnečka)</i>
+- 🥘 Czech Fried Cheese <i>(Smažený Sýr)</i>
+- 🥘 Knedlíky <i>(Knedlíky)</i>
+- 🥘 Svíčková <i>(Svíčková na Smetaně)</i>
+- 🥘 Moravian Sparrow <i>(Moravský Vrabec)</i>
+- 🥘 Bohemian Roast Duck <i>(Pečená Kachna)</i>
+- 🍰 Czech Trdelník <i>(Trdelník)</i>
+- 🍰 Czech Kolache <i>(Koláč)</i>
+- 🍰 Žloutkové Řezy <i>(Žloutkové Řezy)</i>
+- 🧀 Hermelín Cheese <i>(Hermelín)</i>
+- 🍶 Czech Beer <i>(Brands: "Pilsner Urquell", "Staropramen", "Gambrinus")</i>
+- 🍶 Czech Herbal Bitter <i>(Brand: "Becherovka")</i>
+- <u>Prague-Capital - Regional Special:</u> 
+  - 🥓 Prague Ham <i>(Pražská Šunka)</i>
 
 
 <b>🎬 Local movies:</b>
