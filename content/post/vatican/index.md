@@ -55,11 +55,11 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 
 
 <b>🍽️ Local food & drinks: </b>
-- Grissini <i>(Grissini)</i>
-- Pasta alla Papalina <i>(Pasta alla Papalina)</i>
-- Baked Pasta <i>(Pasta Cocta)</i>
-- Sacramental Bread <i>(Hostia)</i>
-- Sacramental Wine <i>(Vinum Eucharisticum)</i>
+- 🥘 Pasta alla Papalina <i>(Pasta alla Papalina)</i>
+- 🥘 Baked Pasta <i>(Pasta Cocta)</i>
+- 🫓 Grissini <i>(Grissini)</i>
+- 🫓 Sacramental Bread <i>(Hostia)</i>
+- 🍶 Sacramental Wine <i>(Vinum Eucharisticum)</i>
 
 
 <b>🎬 Local movies:</b>

@@ -57,12 +57,12 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 
 
 <b>🍽️ Local food & drinks: </b>
-- Piadina <i>(Pièda)</i>
-  - Piadina with Bresaola <i>(Pièda con Bresaola e Rucola)</i>
-  - Piadina with Prosciutto <i>(Pièda con Prosciutto e Rucola)</i>
-  - Piadina with Mozzarella and Tomato <i>(Pièda con Mozzarella e Pomodoro)</i>
-- Three Mountain Cake <i>(Torta Tre Monti)</i>
-- Sammarinese Red Wine <i>(Brand: "Castelli Sammarinesi")</i>
+- 🥙 Piadina <i>(Pièda)</i>
+  - 🥙 Piadina with Bresaola <i>(Pièda con Bresaola e Rucola)</i>
+  - 🥙 Piadina with Prosciutto <i>(Pièda con Prosciutto e Rucola)</i>
+  - 🥙 Piadina with Mozzarella and Tomato <i>(Pièda con Mozzarella e Pomodoro)</i>
+- 🍰 Three Mountain Cake <i>(Torta Tre Monti)</i>
+- 🍶 Sammarinese Red Wine <i>(Brand: "Castelli Sammarinesi")</i>
 
 
 <b>🎬 Local movies:</b>
