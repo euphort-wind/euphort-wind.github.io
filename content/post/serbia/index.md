@@ -93,31 +93,33 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 
 
 <b>🍽️ Local food & drinks: </b>
-- Urnebes <i>(Урнебес)</i>
-- Serbian Salad <i>(Српска Салата)</i>
-- Moravska Salata <i>(Моравска Салата)</i>
-- Bundevara <i>(Бундевара)</i>
-- Serbian Bean Soup <i>(Пасуљ)</i>
-- Mantije <i>(Мантије)</i>
-- Karađorđeva Šnicla <i>(Карађорђева Шницла)</i>
-- Roštilj-Style Dishes <i>(Роштиљ)</i>
-    - Traditional Pljeskavica <i>(Традиционална Пљескавица)</i>
-    - Gurmanska Pljeskavica <i>(Гурманска Пљескавица)</i>
-    - Punjena Vešalica <i>(Пуњена Вешалица)</i>
-    - Ražnjići <i>(Ражњићи)</i>
-    - Ćevapčići <i>(Ћевапчићи)</i>
-    - Leskovački Uštipci <i>(Лесковачки Уштипци)</i>
-- Mućkalica <i>(Мућкалица)</i>
-- Prebranac <i>(Пребранац)</i>
-- Podvarak <i>(Подварак)</i>
-- Miročki Cheese <i>(Мирочки Сир)</i>
-- Slatko <i>(Слатко)</i>
-- Vanilica <i>(Ванилица)</i>
-- Serbian Kajmak <i>(Српски Кајмак)</i>
-- Proja <i>(Проја)</i>
-- <u>Vojvodina (Regional Special):</u> Kulen <i>(Кулен)</i>
-- <u>Vojvodina (Regional Special):</u> Rinflajš <i>(Ринфлајш)</i>
-- <u>Vojvodina (Regional Special):</u> Bermet Wine <i>(Brand: "Vinarija Mrđanin")</i>
+- 🥗 Urnebes <i>(Урнебес)</i>
+- 🥗 Serbian Salad <i>(Српска Салата)</i>
+- 🥗 Moravska Salata <i>(Моравска Салата)</i>
+- 🥙 Bundevara <i>(Бундевара)</i>
+- 🍲 Serbian Bean Soup <i>(Пасуљ)</i>
+- 🥘 Mantije <i>(Мантије)</i>
+- 🥘 Karađorđeva Šnicla <i>(Карађорђева Шницла)</i>
+- 🥘 Roštilj-Style Dishes <i>(Роштиљ)</i>
+    - 🥘 Traditional Pljeskavica <i>(Традиционална Пљескавица)</i>
+    - 🥘 Gurmanska Pljeskavica <i>(Гурманска Пљескавица)</i>
+    - 🥘 Punjena Vešalica <i>(Пуњена Вешалица)</i>
+    - 🥘 Ražnjići <i>(Ражњићи)</i>
+    - 🥘 Ćevapčići <i>(Ћевапчићи)</i>
+    - 🥘 Leskovački Uštipci <i>(Лесковачки Уштипци)</i>
+- 🥘 Mućkalica <i>(Мућкалица)</i>
+- 🥘 Prebranac <i>(Пребранац)</i>
+- 🥘 Podvarak <i>(Подварак)</i>
+- 🧀 Miročki Cheese <i>(Мирочки Сир)</i>
+- 🍰 Slatko <i>(Слатко)</i>
+- 🍰 Vanilica <i>(Ванилица)</i>
+- 🥫 Serbian Kajmak <i>(Српски Кајмак)</i>
+- 🫓 Proja <i>(Проја)</i>
+- 🍶 Serbian Rakija <i>(Brand: "Stara Sokolova Vilijamovka")</i>
+- <u>Vojvodina - Regional Special:</u> 
+  - 🥓 Kulen <i>(Кулен)</i>
+  - 🥘 Rinflajš <i>(Ринфлајш)</i>
+  - 🍶 Bermet Wine <i>(Brand: "Vinarija Mrđanin")</i>
 
 
 
