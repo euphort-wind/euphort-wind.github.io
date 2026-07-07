@@ -87,44 +87,46 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 
 
 <b>🍽️ Local food & drinks: </b>
-- Greek Salad <i>(Ελληνική Σαλάτα)</i>
-- Marinated Olives <i>(Μαριναρισμένες Ελιές)</i>
-- Taramasalata <i>(Ταραμοσαλάτα)</i>
-- Spanakorizo <i>(Σπανακόρυζο)</i>
-- Skordalia <i>(Σκορδαλιά)</i>
-- Ktipiti <i>(Τυροκαυτερή)</i>
-- Avgolemono Soup <i>(Αυγολέμονο)</i>
-- Tiropita <i>(Τυρóπιτα)</i>
-- Spanakopita <i>(Σπανακόπιτα)</i>
-- Souvlakia-Style Meats <i>(Σουβλάκι)</i>
-  - Souvlakia-Style Chicken <i>(Σουβλάκι Κοτόπουλο)</i>
-  - Souvlakia-Style Pork <i>(Σουβλάκι Χοιρινό)</i>
-  - Souvlakia-Style Lamb <i>(Σουβλάκι Αρνί)</i>
-  - Souvlakia-Style Beef <i>(Σουβλάκι Μοσχάρι)</i>
-- Saganaki-Style Cheese <i>(Σαγανάκι με Φέτα)</i>
-- Bouyiourdi <i>(Μπουγιουρντί)</i>
-- Gigantes Plaki <i>(Γίγαντες Πλακί)</i>
-- Gyros <i>(Γύρος)</i>
-- Moussaka <i>(Μουσακάς)</i>
-- Melomakarono <i>(Μελομακάρονο)</i>
-- Greek Cheese <i>(Ελληνικά Τυριά)</i>
-  - Feta <i>(Φέτα)</i>
-  - Manouri <i>(Μανούρι)</i>
-  - Kasseri <i>(Κασέρι)</i>
-- Tzatziki <i>(Τζατζίκι)</i>
-- Daktyla <i>(Δάχτυλα)</i>
-- Bougatsa <i>(Μπουγάτσα)</i>
-- Amygdalopita <i>(Αμυγδαλόπιτα)</i>
-- Galaktoboureko <i>(Γαλακτομπούρεκο)</i>
-- Karydopita <i>(Καρυδόπιτα)</i>
-- Frappé <i>(Φραπέ)</i>
-- Greek Liqueur <i>(Brand: "Metaxa")</i>
-- <u>Crete (Regional Special):</u> Dakos <i>(Ντάκος)</i>
-- <u>Crete (Regional Special):</u> Kalitsounia <i>(Καλιτσούνια)</i>
-- <u>Crete (Regional Special):</u> Sarikopites <i>(Σαρικόπιτες)</i>
-- <u>South Aegean (Regional Special):</u> Pitaroudia <i>(Πιταρούδια)</i>
-- <u>South Aegean (Regional Special):</u> Tomatokeftedes <i>(Τοματοκεφτέδες)</i>
-- <u>South Aegean (Regional Special):</u> Melekouni <i>(Μελεκούνι)</i>
+- 🥗 Greek Salad <i>(Ελληνική Σαλάτα)</i>
+- 🥗 Marinated Olives <i>(Μαριναρισμένες Ελιές)</i>
+- 🥗 Taramasalata <i>(Ταραμοσαλάτα)</i>
+- 🥗 Spanakorizo <i>(Σπανακόρυζο)</i>
+- 🥗 Skordalia <i>(Σκορδαλιά)</i>
+- 🥗 Ktipiti <i>(Τυροκαυτερή)</i>
+- 🍲 Avgolemono Soup <i>(Αυγολέμονο)</i>
+- 🥙 Tiropita <i>(Τυρóπιτα)</i>
+- 🥙 Spanakopita <i>(Σπανακόπιτα)</i>
+- 🥙 Gyros <i>(Γύρος)</i>
+- 🥘 Souvlakia-Style Meats <i>(Σουβλάκι)</i>
+  - 🥘 Souvlakia-Style Chicken <i>(Σουβλάκι Κοτόπουλο)</i>
+  - 🥘 Souvlakia-Style Pork <i>(Σουβλάκι Χοιρινό)</i>
+  - 🥘 Souvlakia-Style Lamb <i>(Σουβλάκι Αρνί)</i>
+  - 🥘 Souvlakia-Style Beef <i>(Σουβλάκι Μοσχάρι)</i>
+- 🥘 Saganaki-Style Cheese <i>(Σαγανάκι με Φέτα)</i>
+- 🥘 Bouyiourdi <i>(Μπουγιουρντί)</i>
+- 🥘 Gigantes Plaki <i>(Γίγαντες Πλακί)</i>
+- 🥘 Moussaka <i>(Μουσακάς)</i>
+- 🍰 Melomakarono <i>(Μελομακάρονο)</i>
+- 🍰 Bougatsa <i>(Μπουγάτσα)</i>
+- 🍰 Amygdalopita <i>(Αμυγδαλόπιτα)</i>
+- 🍰 Galaktoboureko <i>(Γαλακτομπούρεκο)</i>
+- 🧀 Greek Cheese <i>(Ελληνικά Τυριά)</i>
+  - 🧀 Feta <i>(Φέτα)</i>
+  - 🧀 Manouri <i>(Μανούρι)</i>
+  - 🧀 Kasseri <i>(Κασέρι)</i>
+- 🥫 Tzatziki <i>(Τζατζίκι)</i>
+- 🫓 Daktyla <i>(Δάχτυλα)</i>
+- 🫓 Karydopita <i>(Καρυδόπιτα)</i>
+- 🍶 Frappé <i>(Φραπέ)</i>
+- 🍶 Greek Liqueur <i>(Brand: "Metaxa")</i>
+- <u>Crete - Regional Special:</u> 
+  - 🥙 Dakos <i>(Ντάκος)</i>
+  - 🥙 Kalitsounia <i>(Καλιτσούνια)</i>
+  - 🥙 Sarikopites <i>(Σαρικόπιτες)</i>
+- <u>South Aegean - Regional Special:</u> 
+  - 🥘 Pitaroudia <i>(Πιταρούδια)</i>
+  - 🥘 Tomatokeftedes <i>(Τοματοκεφτέδες)</i>
+  - 🍰 Melekouni <i>(Μελεκούνι)</i>
 
 
 <b>🎬 Local movies:</b>

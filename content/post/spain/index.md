@@ -101,7 +101,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🥫 Tomate Frito Sauce <i>(Tomate Frito)</i>
 - 🍶 Sherry Wine <i>(Brands: "La Guita Manzanilla", "Tio Pepe Fino")</i>
 - 🍶 Sangria Cocktail <i>(Sangría)</i>
-- 🗺️ <u>Catalonia - Regional Special:</u>
+- <u>Catalonia - Regional Special:</u>
   - 🥓 Fuet Sausage <i>(Fuet / Fuet)</i>
   - 🥗 Samfaina <i>(Samfaina / Pebrereta)</i>
   - 🥗 Esqueixada <i>(Esqueixada / Esqueixada)</i>
