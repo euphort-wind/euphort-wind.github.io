@@ -89,19 +89,20 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 
 
 <b>🍽️ Local food & drinks: </b>
-- Qazi Sausage <i>(Қазы)</i>
-- Zhent <i>(Жент)</i>
-- Kazakh Sorpa <i>(Сорпа)</i>
-- Beshbarmak <i>(Бешбармақ)</i>
-- Naryn <i>(Нарын)</i>
-- Koktal <i>(Көктал)</i>
-- Dymdama <i>(Демдеме)</i>
-- Samsa <i>(Самса)</i>
-- Irimshik <i>(Қызыл Ірімшік)</i>
-- Boortsog <i>(Бауырсақ)</i>
-- Tandyr Nan <i>(Тандыр Нан)</i>
-- Shelpek <i>(Шелпек)</i>
-- <u>Mangystau (Regional Special):</u> Beshbarmak with Sturgeon <i>(Фишбармақ)</i>
+- 🥓 Qazi Sausage <i>(Қазы)</i>
+- 🥙 Samsa <i>(Самса)</i>
+- 🍲 Kazakh Sorpa <i>(Сорпа)</i>
+- 🍲 Beshbarmak <i>(Бешбармақ)</i>
+- 🥘 Naryn <i>(Нарын)</i>
+- 🥘 Koktal <i>(Көктал)</i>
+- 🥘 Dymdama <i>(Демдеме)</i>
+- 🍰 Irimshik <i>(Қызыл Ірімшік)</i>
+- 🍰 Boortsog <i>(Бауырсақ)</i>
+- 🍰 Zhent <i>(Жент)</i>
+- 🫓 Tandyr Nan <i>(Тандыр Нан)</i>
+- 🫓 Shelpek <i>(Шелпек)</i>
+- <u>Mangystau - Regional Special:</u> 
+  - 🍲 Beshbarmak with Sturgeon <i>(Фишбармақ)</i>
 
 <b>🎬 Local movies:</b>
 - The Old Man <i>(Шал)</i>. Year: 2012. Genre: drama
