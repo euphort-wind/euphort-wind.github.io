@@ -86,20 +86,21 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 
 
 <b>🍽️ Local food & drinks: </b>
-- Kapustnica <i>(Kapustnica)</i>
-- Lokša <i>(Lokša)</i> 
-- Podpecník <i>(Podplamenník)</i>
-- Bryndzové Halušky <i>(Bryndzové Halušky)</i>
-- Kapustové Strapačky <i>(Kapustové Strapačky)</i>
-- Chicken Breast Steak with Peach <i>(Kuracie Prsia s Broskyňou)</i>
-- Šúľance <i>(Šúľance)</i>
-- Karamelový Veterník <i>(Karamelový Veterník)</i>
-- Slovak Cheese <i>(Slovenské Syry)</i>
-  - Bryndza <i>(Bryndza)</i>
-  - Oštiepok <i>(Oštiepok)</i>
-  - Parenica <i>(Parenica)</i>
-- Borovička <i>(Brand: "Spišská")</i>
-- <u>Bratislava (Regional Special):</u> Bratislavský Rožok <i>(Bratislavský Rožok)</i>
+- 🥙 Lokša <i>(Lokša)</i> 
+- 🥙 Podpecník <i>(Podplamenník)</i>
+- 🍲 Kapustnica <i>(Kapustnica)</i>
+- 🥘 Bryndzové Halušky <i>(Bryndzové Halušky)</i>
+- 🥘 Kapustové Strapačky <i>(Kapustové Strapačky)</i>
+- 🥘 Chicken Breast Steak with Peach <i>(Kuracie Prsia s Broskyňou)</i>
+- 🍰 Šúľance <i>(Šúľance)</i>
+- 🍰 Karamelový Veterník <i>(Karamelový Veterník)</i>
+- 🧀 Slovak Cheese <i>(Slovenské Syry)</i>
+  - 🧀 Bryndza <i>(Bryndza)</i>
+  - 🧀 Oštiepok <i>(Oštiepok)</i>
+  - 🧀 Parenica <i>(Parenica)</i>
+- 🍶 Borovička <i>(Brand: "Spišská")</i>
+- <u>Bratislava - Regional Special:</u> 
+  - 🧀 Bratislavský Rožok <i>(Bratislavský Rožok)</i>
 
 
 

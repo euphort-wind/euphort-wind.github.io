@@ -145,37 +145,41 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 
 
 <b>🍽️ Local food & drinks: </b>
-- Soused Herring <i>(Hollandse Nieuwe)</i>
-- Metworst <i>(Metworst)</i>
-- Rookworst <i>(Rookworst)</i>
-- Bitterballen <i>(Bitterballen)</i>
-- Kibbeling <i>(Kibbeling)</i>
-- Stamppot <i>(Stamppot)</i>
-  - Boerenkool Stamppot <i>(Boerenkool Stamppot)</i>
-  - Andijvie Stamppot <i>(Andijvie Stamppot)</i>
-  - Zuurkool Stamppot <i>(Zuurkool Stamppot)</i>
-- Hachée <i>(Hachée)</i>
-- Uitsmijter <i>(Uitsmijter)</i>
-- Poffertjes <i>(Poffertjes)</i>
-- Dutch Butter Cake <i>(Boterkoek)</i>
-- Gevulde Koek <i>(Gevulde Koek)</i>
-- Tompouce <i>(Tompoes)</i>
-- Speculoos <i>(Speculaas)</i>
-- Oliebol <i>(Oliebol)</i>
-- Hagelslag <i>(Hagelslag)</i> 
-- Stroopwafel <i>(Stroopwafel)</i>
-- Dutch Cheese <i>(Nederlandse Kaas)</i>
-  - Gouda <i>(Goudse Kaas)</i>
-  - Edam <i>(Edammer)</i>
-  - Maasdam <i>(Maasdamer)</i>
-  - Boerenkaas <i>(Boerenkaas)</i> 
-- Jenever <i>(Brand: "Bols Zeer Oude")</i>
-- <u>North Holland (Regional Special):</u> Ossenworst <i>(Ossenworst)</i>
-- <u>Utrecht (Regional Special):</u> Utrechtse Spritsen <i>(Utrechtse Spritsen)</i>
-- <u>South Holland (Regional Special):</u> Hutspot <i>(Hutspot)</i>
-- <u>Friesland (Regional Special):</u> Oranjekoek <i>(Oranjekoek / Oranjekoeke)</i>
-- <u>Friesland (Regional Special):</u> Fryske Dúmkes <i>(Fryske Dúmkes / Fryske Dúmkes)</i>
-- <u>Friesland (Regional Special):</u> Suikerbrood <i>(Suikerbrood / Sûkerbôle)</i>
+- 🥓 Soused Herring <i>(Hollandse Nieuwe)</i>
+- 🥓 Metworst <i>(Metworst)</i>
+- 🥓 Rookworst <i>(Rookworst)</i>
+- 🥘 Bitterballen <i>(Bitterballen)</i>
+- 🥘 Kibbeling <i>(Kibbeling)</i>
+- 🥘 Stamppot <i>(Stamppot)</i>
+  - 🥘 Boerenkool Stamppot <i>(Boerenkool Stamppot)</i>
+  - 🥘 Andijvie Stamppot <i>(Andijvie Stamppot)</i>
+  - 🥘 Zuurkool Stamppot <i>(Zuurkool Stamppot)</i>
+- 🥘 Hachée <i>(Hachée)</i>
+- 🥘 Uitsmijter <i>(Uitsmijter)</i>
+- 🍰 Poffertjes <i>(Poffertjes)</i>
+- 🍰 Dutch Butter Cake <i>(Boterkoek)</i>
+- 🍰 Gevulde Koek <i>(Gevulde Koek)</i>
+- 🍰 Tompouce <i>(Tompoes)</i>
+- 🍰 Speculoos <i>(Speculaas)</i>
+- 🍰 Oliebol <i>(Oliebol)</i>
+- 🍰 Hagelslag <i>(Hagelslag)</i> 
+- 🍰 Stroopwafel <i>(Stroopwafel)</i>
+- 🧀 Dutch Cheese <i>(Nederlandse Kaas)</i>
+  - 🧀 Gouda <i>(Goudse Kaas)</i>
+  - 🧀 Edam <i>(Edammer)</i>
+  - 🧀 Maasdam <i>(Maasdamer)</i>
+  - 🧀 Boerenkaas <i>(Boerenkaas)</i> 
+- 🍶 Jenever <i>(Brand: "Bols Zeer Oude")</i>
+- <u>North Holland - Regional Special:</u> 
+  - 🥓 Ossenworst <i>(Ossenworst)</i>
+- <u>Utrecht - Regional Special:</u> 
+  - 🍰 Utrechtse Spritsen <i>(Utrechtse Spritsen)</i>
+- <u>South Holland - Regional Special:</u> 
+  - 🥘 Hutspot <i>(Hutspot)</i>
+- <u>Friesland - Regional Special:</u> 
+  - 🍰 Oranjekoek <i>(Oranjekoek / Oranjekoeke)</i>
+  - 🍰 Fryske Dúmkes <i>(Fryske Dúmkes / Fryske Dúmkes)</i>
+  - 🍰 Suikerbrood <i>(Suikerbrood / Sûkerbôle)</i>
 
 <b>🎬 Local movies:</b>
 - The Wild City <i>(De Wilde Stad)</i>. Year: 2018. Genre: documentary
