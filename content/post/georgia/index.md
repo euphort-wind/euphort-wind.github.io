@@ -90,51 +90,52 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 
 
 <b>🍽️ Local food & drinks: </b>
-- Satsivi <i>(საცივი)</i>
-- Pkhali <i>(ფხალი)</i>
-- Badrijani <i>(ნიგვზიანი ბადრიჯანი)</i>
-- Georgian Salad <i>(ქართული სალათი)</i>
-- Chikhirtma Soup <i>(ჩიხირთმა)</i>
-- Kharcho Soup <i>(ხარჩო)</i>
-- Khachapuri <i>(ხაჭაპური)</i>
-  - Mingrelian Khachapuri <i>(მეგრული ხაჭაპური)</i>
-  - Imeretian Khachapuri <i>(იმერული ხაჭაპური)</i>
-  - Adjarian Khachapuri <i>(აჭარული ხაჭაპური)</i>
-  - Penovani Khachapuri <i>(ფენოვანი ხაჭაპური)</i>
-- Lobiani <i>(ლობიანი)</i>
-- Lobio <i>(ლობიო)</i>
-- Khinkali <i>(ხინკალი)</i>
-- Kupati <i>(კუპატი)</i>
-- Chakhokhbili <i>(ჩახოხბილი)</i>
-- Shkmeruli <i>(შქმერული)</i>
-- Ajapsandali <i>(აჯაფსანდალი)</i>
-- Chanakhi <i>(ჩანახი)</i>
-- Abkhazura <i>(აბხაზურა)</i>
-- Churchkhela <i>(ჩურჩხელა)</i>
-- Gozinaki <i>(გოზინაყი)</i>
-- Tklapi <i>(ტყლაპი)</i>
-- Georgian Cheese <i>(ქართული ყველი)</i>
-  - Sulguni <i>(სულგუნი)</i>
-  - Imeretian Cheese <i>(იმერული ყველი)</i>
-  - Guda <i>(გუდა)</i> 
-- Georgian Sauces <i>(ქართული სოუსები)</i>
-  - Tkemali <i>(ტყემალი)</i>
-  - Satsebeli <i>(საწებელი)</i>
-  - Bazhe <i>(ბაჟე)</i>
-  - Ajika <i>(აჯიკა)</i>
-- Shoti Bread <i>(შოთის პური)</i>
-- Mchadi Bread <i>(მჭადი)</i>
-- Georgian Wine Ice Cream <i>(ღვინის ნაყინი)</i>
-- Georgian Lemonades <i>(Brands: "Natakhtari Cream Soda", "Kazbegi Tarkhuna", etc.)</i> 
-- Georgian Wine <i>(Brands: "Keburia Rkatsiteli", "Khareba Rkatsiteli", "GRW Saperavi", "Duruji Valley Kisi Qvevri", "Dugladze Mukuzani", "Duruji Valley Kindzmarauli", Kakhetian Home-Made Kindzmarauli, etc.)</i> 
-- Georgian Chacha <i>(Brands: "Askaneli Brothers Chacha", Georgian Home-Made Chacha, etc.)</i> 
-- <u>Kakheti (Regional Special):</u> Kakhetian Khashlama <i>(ხაშლამა)</i>
-- <u>Kakheti (Regional Special):</u> Chakapuli <i>(ჩაქაფული)</i>
-- <u>Kakheti (Regional Special):</u> Chashushuli <i>(ჩაშუშული)</i>
-- <u>Kakheti (Regional Special):</u> Mtsvadi <i>(მწვადი)</i>
-  - Mtsvadi-Style Pork <i>(ღორის მწვადი)</i>
-  - Mtsvadi-Style Lamb <i>(ცხვრის მწვადი)</i>
-  - Mtsvadi-Style Chicken <i>(ქათმის მწვადი)</i>
+- 🥗 Satsivi <i>(საცივი)</i>
+- 🥗 Pkhali <i>(ფხალი)</i>
+- 🥗 Badrijani <i>(ნიგვზიანი ბადრიჯანი)</i>
+- 🥗 Georgian Salad <i>(ქართული სალათი)</i>
+- 🥙 Khachapuri <i>(ხაჭაპური)</i>
+  - 🥙 Mingrelian Khachapuri <i>(მეგრული ხაჭაპური)</i>
+  - 🥙 Imeretian Khachapuri <i>(იმერული ხაჭაპური)</i>
+  - 🥙 Adjarian Khachapuri <i>(აჭარული ხაჭაპური)</i>
+  - 🥙 Penovani Khachapuri <i>(ფენოვანი ხაჭაპური)</i>
+- 🥙 Lobiani <i>(ლობიანი)</i>
+- 🍲 Chikhirtma Soup <i>(ჩიხირთმა)</i>
+- 🍲 Kharcho Soup <i>(ხარჩო)</i>
+- 🥘 Lobio <i>(ლობიო)</i>
+- 🥘 Ajapsandali <i>(აჯაფსანდალი)</i>
+- 🥘 Khinkali <i>(ხინკალი)</i>
+- 🥘 Kupati <i>(კუპატი)</i>
+- 🥘 Chakhokhbili <i>(ჩახოხბილი)</i>
+- 🥘 Shkmeruli <i>(შქმერული)</i>
+- 🥘 Chanakhi <i>(ჩანახი)</i>
+- 🥘 Abkhazura <i>(აბხაზურა)</i>
+- 🍰 Churchkhela <i>(ჩურჩხელა)</i>
+- 🍰 Gozinaki <i>(გოზინაყი)</i>
+- 🍰 Tklapi <i>(ტყლაპი)</i>
+- 🍰 Georgian Wine Ice Cream <i>(ღვინის ნაყინი)</i>
+- 🧀 Georgian Cheese <i>(ქართული ყველი)</i>
+  - 🧀 Sulguni <i>(სულგუნი)</i>
+  - 🧀 Imeretian Cheese <i>(იმერული ყველი)</i>
+  - 🧀 Guda <i>(გუდა)</i> 
+- 🥫 Georgian Sauces <i>(ქართული სოუსები)</i>
+  - 🥫 Tkemali <i>(ტყემალი)</i>
+  - 🥫 Satsebeli <i>(საწებელი)</i>
+  - 🥫 Bazhe <i>(ბაჟე)</i>
+  - 🥫 Ajika <i>(აჯიკა)</i>
+- 🫓 Shoti Bread <i>(შოთის პური)</i>
+- 🫓 Mchadi Bread <i>(მჭადი)</i>
+- 🍶 Georgian Lemonades <i>(Brands: "Natakhtari Cream Soda", "Kazbegi Tarkhuna", etc.)</i> 
+- 🍶 Georgian Wine <i>(Brands: "Keburia Rkatsiteli", "Khareba Rkatsiteli", "GRW Saperavi", "Duruji Valley Kisi Qvevri", "Dugladze Mukuzani", "Duruji Valley Kindzmarauli", Kakhetian Home-Made Kindzmarauli, etc.)</i> 
+- 🍶 Georgian Chacha <i>(Brands: "Askaneli Brothers Chacha", Georgian Home-Made Chacha, etc.)</i> 
+- <u>Kakheti - Regional Special:</u> 
+  - 🍲 Kakhetian Khashlama <i>(ხაშლამა)</i>
+  - 🥘 Chakapuli <i>(ჩაქაფული)</i>
+  - 🥘 Chashushuli <i>(ჩაშუშული)</i>
+  - 🥘 Mtsvadi <i>(მწვადი)</i>
+    - 🥘 Mtsvadi-Style Pork <i>(ღორის მწვადი)</i>
+    - 🥘 Mtsvadi-Style Lamb <i>(ცხვრის მწვადი)</i>
+    - 🥘 Mtsvadi-Style Chicken <i>(ქათმის მწვადი)</i>
 
 <b>🎬 Local movies:</b>
 - The Other Bank <i>(გაღმა ნაპირი)</i>. Year: 2009. Genre: drama 

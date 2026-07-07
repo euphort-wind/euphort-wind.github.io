@@ -85,20 +85,22 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 
 
 <b>🍽️ Local food & drinks: </b>
-- Suho Meso <i>(Suho Meso)</i>
-- Bosnian Sirnica <i>(Bosanska Sirnica)</i>
-- Bey’s Soup <i>(Begova Čorba)</i>
-- Sataraš <i>(Sataraš)</i>
-- Bosnian Pot <i>(Bosanski Lonac)</i>
-- Ćevapi <i>(Ćevapi)</i>
-- Tufahija <i>(Tufahija)</i>
-- Hurmašice <i>(Hurmašice)</i>
-- Bosnian Smoked Cheese <i>(Suhi Dimljeni Sir)</i>
-- Bosnian Coffee <i>(Bosanska Kafa)</i>
-- <u>Sarajevo (Regional Special):</u> Sarajevo Sahan <i>(Sarajevski Sahan)</i>
-- <u>Sarajevo (Regional Special):</u> Klepe <i>(Klepe)</i>
-- <u>Herzegovina-Neretva (Regional Special):</u> Buredžići <i>(Buredžići)</i>
-- <u>Herzegovina-Neretva (Regional Special):</u> Smokvara <i>(Smokvara)</i>
+- 🥓 Suho Meso <i>(Suho Meso)</i>
+- 🥙 Bosnian Sirnica <i>(Bosanska Sirnica)</i>
+- 🍲 Bey’s Soup <i>(Begova Čorba)</i>
+- 🥘 Sataraš <i>(Sataraš)</i>
+- 🥘 Bosnian Pot <i>(Bosanski Lonac)</i>
+- 🥘 Ćevapi <i>(Ćevapi)</i>
+- 🍰 Tufahija <i>(Tufahija)</i>
+- 🍰 Hurmašice <i>(Hurmašice)</i>
+- 🧀 Bosnian Smoked Cheese <i>(Suhi Dimljeni Sir)</i>
+- 🍶 Bosnian Coffee <i>(Bosanska Kafa)</i>
+- <u>Sarajevo - Regional Special:</u> 
+  - 🥘 Sarajevo Sahan <i>(Sarajevski Sahan)</i>
+  - 🥘 Klepe <i>(Klepe)</i>
+- <u>Herzegovina-Neretva - Regional Special:</u> 
+  - 🥘 Buredžići <i>(Buredžići)</i>
+  - 🍰 Smokvara <i>(Smokvara)</i>
 
 
 <b>🎬 Local movies:</b>
