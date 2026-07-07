@@ -199,7 +199,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - Lento Violento. Originated: late 1990s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Italian Lunch Meats <i>(Salumi Italiani)</i>
   - Carpaccio <i>(Carpaccio)</i>
   - Bresaola <i>(Bresaola)</i> 

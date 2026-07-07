@@ -61,16 +61,16 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - Shamstep. Originated: mid-2010s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - 🥗 Hummus <i>(حمص بطحينة)</i>
-- 🥧 Makmoura <i>(مكمورة)</i>
+- 🥙 Makmoura <i>(مكمورة)</i>
 - 🥘 Maqluba <i>(مَقْلُوبَة)</i>
 - 🥘 Qalayet Bandora <i>(قلاية البندورة)</i>
 - 🥘 Mansaf <i>(منسف)</i>
 - 🥘 Zarb-Style Lamb <i>(زرب)</i>
 - 🍰 Warbat <i>(وربات)</i>
 - 🍰 Knafeh <i>(كنافة)</i>
-- 🍞 Khubz <i>(خبز)</i>
+- 🫓 Khubz <i>(خبز)</i>
 - 🍶 Arabic Tea <i>(شَايْ عَرَبي)</i>
 
 

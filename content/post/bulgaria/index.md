@@ -107,7 +107,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 <b>🎚️ Authentic EDM genres: </b>
 - Chalga. Originated: early 1990s
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Shopska Salad <i>(Шопска Салата)</i>
 - Snow White Salad <i>(Салата Снежанка)</i>
 - Ovcharska Salad <i>(Овчарска Салата)</i>

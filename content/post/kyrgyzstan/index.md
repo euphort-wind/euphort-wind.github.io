@@ -77,7 +77,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - 🇰🇬 Talant 60'k (singer). Genre: pop 
 - 🇺🇳 Vtoroi Ka (band). Genre: post punk
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Kurut <i>(Курут)</i>
 - Shurugan <i>(Шуруган)</i>
 - Oromo Pie <i>(Оромо)</i>

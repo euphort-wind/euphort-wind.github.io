@@ -85,7 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 <b>🎚️ Authentic EDM genres: </b>
 - Future Rave. Originated: late 2010s
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Flæskesvær Snack <i>(Flæskesvær)</i>
 - Rullepølse <i>(Rullepølse)</i>
 - Øllebrød <i>(Øllebrød)</i>

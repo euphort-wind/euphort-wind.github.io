@@ -81,7 +81,7 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 - 🇺🇳 Galoski (DJ). Genre: bass house
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Macedonian Relishes <i>(Македонско Мезе)</i>
   - Ajvar <i>(Ајвар)</i>
   - Malidzano <i>(Малиџано)</i>

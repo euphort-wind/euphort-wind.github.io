@@ -92,7 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - Turbo Folk. Originated: early 1990s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Urnebes <i>(Урнебес)</i>
 - Serbian Salad <i>(Српска Салата)</i>
 - Moravska Salata <i>(Моравска Салата)</i>

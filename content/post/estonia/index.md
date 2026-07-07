@@ -74,7 +74,7 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - 🇺🇳 Vanilla Ninja (band). Genre: pop rock
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Kama <i>(Kama)</i>
 - Rosolje <i>(Rosolje)</i>
 - Hiiumaa Aspic <i>(Hiiumaa Sült)</i>

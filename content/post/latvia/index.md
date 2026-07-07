@@ -76,7 +76,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 - 🇺🇳 Laima Vaikule (singer). Genre: pop 
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Speķrauši <i>(Speķrauši)</i>
 - Sklandrausis <i>(Sklandrausis)</i>
 - Latvian Gray Peas with Bacon and Onion <i>(Pelēkie Zirņi)</i>

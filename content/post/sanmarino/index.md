@@ -56,7 +56,7 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 - 🇺🇳 Valentina Monetta (singer). Genre: pop
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Piadina <i>(Pièda)</i>
   - Piadina with Bresaola <i>(Pièda con Bresaola e Rucola)</i>
   - Piadina with Prosciutto <i>(Pièda con Prosciutto e Rucola)</i>

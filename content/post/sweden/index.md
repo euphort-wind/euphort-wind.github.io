@@ -303,7 +303,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Europop. Originated: late 1960s
 - Epadunk. Originated: early 2020s
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Surströmming <i>(Surströmming)</i>
 - Smörgåskaviar <i>(Smörgåskaviar)</i>
 - Toast Skagen <i>(Toast Skagen)</i>

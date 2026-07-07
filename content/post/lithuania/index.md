@@ -83,7 +83,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 <b>🎚️ Authentic EDM genres: </b>
 - Slap House. Originated: late 2010s
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Lithuanian Cold Borscht <i>(Šaltibarščiai)</i>
 - Samogitian Pancakes <i>(Žemaičių Blynai)</i>
 - Lithuanian Potato Sausages <i>(Vėdarai)</i>

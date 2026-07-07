@@ -84,7 +84,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 - 🇺🇳 Olivia Lewis (singer). Genre: pop
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Aljotta <i>(Aljotta)</i>
 - Pastizzi <i>(Pastizzi)</i>
   - Pastizzi with Curried Peas <i>(Pastizzi tal-Piżelli)</i> 

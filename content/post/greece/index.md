@@ -86,7 +86,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - Skiladiko. Originated: mid-1980s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Greek Salad <i>(Ελληνική Σαλάτα)</i>
 - Marinated Olives <i>(Μαριναρισμένες Ελιές)</i>
 - Taramasalata <i>(Ταραμοσαλάτα)</i>

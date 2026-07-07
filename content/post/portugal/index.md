@@ -81,7 +81,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - Batida. Originated: early 2000s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Caldo Verde Soup <i>(Caldo Verde)</i>
 - Caldeirada <i>(Caldeirada)</i>
 - Bifana Sandwich <i>(Bifana)</i>

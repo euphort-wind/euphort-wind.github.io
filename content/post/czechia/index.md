@@ -76,7 +76,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - 🇺🇳 Daniel Žižka (singer). Genre: pop
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Tatarák <i>(Tatarák)</i>
 - Kulajda <i>(Kulajda)</i>
 - Česnečka <i>(Česnečka)</i>

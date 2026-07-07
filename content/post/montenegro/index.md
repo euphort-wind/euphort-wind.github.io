@@ -91,7 +91,7 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 - 🇲🇪 Tamara Živković (singer). Genre: pop
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Njeguški Pršut <i>(Његушки Пршут)</i>
 - Kuvana Krtola <i>(Кувана Кртола)</i>
 - Kačamak <i>(Црногорски Качамак)</i>

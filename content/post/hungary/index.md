@@ -95,7 +95,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Lecsó <i>(Lecsó)</i>
 - Hungarian Soups <i>(Magyar Levesek)</i>
   - Goulash <i>(Gulyás)</i>

@@ -71,7 +71,7 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
 - 🇺🇳 Eva Marija (singer). Genre: pop
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Éisleker Ham <i>(Éisleker Ham)</i>
 - Bouneschlupp <i>(Bouneschlupp)</i>
 - Rieslingspaschtéit <i>(Rieslingspaschtéit)</i>

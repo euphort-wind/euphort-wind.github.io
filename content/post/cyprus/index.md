@@ -66,7 +66,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 - 🇺🇳 Eric Alamango (DJ). Genre: pop
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Cyprus Village Salad <i>(Κυπριακή Χωριάτικη Σαλάτα)</i>
 - Fasolada <i>(Φασουλάδα)</i>
 - Afelia <i>(Αφέλια)</i>

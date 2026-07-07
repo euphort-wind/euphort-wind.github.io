@@ -137,7 +137,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - Synthwave. Originated: mid-2000s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Poireaux Vinaigrette <i>(Poireaux Vinaigrette)</i>
 - Terrine <i>(Terrine)</i>
 - Foie Gras <i>(Foie Gras)</i>

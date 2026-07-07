@@ -88,7 +88,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - Q-Pop. Originated: mid-2010s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Qazi Sausage <i>(Қазы)</i>
 - Zhent <i>(Жент)</i>
 - Kazakh Sorpa <i>(Сорпа)</i>

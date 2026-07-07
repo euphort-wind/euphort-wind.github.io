@@ -162,7 +162,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Mettbrötchen <i>(Mettbrötchen)</i>
 - Rollmops <i>(Rollmops)</i>
 - German Fries <i>(Bratkartoffeln)</i>

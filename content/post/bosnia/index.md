@@ -84,7 +84,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - Balkan Beats. Originated: mid-1990s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Suho Meso <i>(Suho Meso)</i>
 - Bosnian Sirnica <i>(Bosanska Sirnica)</i>
 - Bey’s Soup <i>(Begova Čorba)</i>

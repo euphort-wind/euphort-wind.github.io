@@ -75,7 +75,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - 🇦🇱 Elvana Gjata (singer). Genre: pop
 - 🇦🇱 Shkodra Elektronike (band). Genre: folktronica
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Albanian Yogurt <i>(Kos)</i>
 - Flia <i>(Flia)</i>
 - Lakror <i>(Laknor)</i>

@@ -58,7 +58,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 - 🇺🇳 Henrik Klingenberg (keytarist). Genre: metal
 - 🇺🇳 Cim Dahlle (singer). Genre: rock
 
-<b>🥘Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Gravad Sik <i>(Gravad Sik)</i>
 - Ålandic Pancake with Cream and Prune Jam <i>(Åländsk Pannkaka med Sviskonkräm och Snömos)</i>
 - Mustaleipä Bread <i>(Åländskt Svartbröd)</i>

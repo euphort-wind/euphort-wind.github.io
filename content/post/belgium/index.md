@@ -95,7 +95,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - Jumpstyle. Originated: late 1990s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Filet Americain <i>(Americain Préparé / Filet Americain)</i>
 - Martino Sandwich <i>(Martino Sandwich / Martino Sandwich)</i>
 - Mussels'n'Fries <i>(Moules-Frites / Mosselen-Friet)</i>

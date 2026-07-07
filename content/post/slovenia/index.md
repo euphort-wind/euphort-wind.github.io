@@ -78,7 +78,7 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 - 🇺🇳 UMEK (DJ). Genre: techno 
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Gobova Juha <i>(Gobova Juha)</i>
 - Ričet <i>(Ričet)</i>
 - Funšterc <i>(Funšterc)</i>

@@ -100,7 +100,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - Tropical House. Originated: early 2010s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Gravlaks <i>(Gravlaks)</i>
 - Smoked Salmon <i>(Røkt Laks)</i>
 - Ribberull <i>(Ribberull)</i>

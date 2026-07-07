@@ -74,7 +74,7 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
 - 🇺🇳 Persefone (band). Genre: death metal
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Truites De Carreroles <i>(Truites De Carreroles)</i>
 - Trinxat <i>(Trinxat)</i>
 - Andorran Escudella <i>(Escudella)</i>

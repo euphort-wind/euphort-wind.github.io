@@ -85,7 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 - 🇺🇳 Nifra (DJ). Genre: progressive trance
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Kapustnica <i>(Kapustnica)</i>
 - Lokša <i>(Lokša)</i> 
 - Podpecník <i>(Podplamenník)</i>

@@ -87,7 +87,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - 🇺🇳 Matroda (DJ). Genre: bass house
 - 🇺🇳 Lost Sky (singer). Genre: future bass
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Sataraš <i>(Sataraš)</i>
 - Fritaja <i>(Fritaja)</i>
 - Češnjovka Sausage <i>(Češnjovka)</i>

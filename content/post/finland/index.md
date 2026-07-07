@@ -85,7 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - Skweee. Originated: late 2000s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Karelian Pastry <i>(Karjalanpiirakka)</i>
 - Kuivaliha <i>(Kapaliha)</i>
 - Porilainen <i>(Porilainen)</i>

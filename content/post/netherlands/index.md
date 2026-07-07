@@ -144,7 +144,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - Future Bounce. Originated: mid-2010s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Soused Herring <i>(Hollandse Nieuwe)</i>
 - Metworst <i>(Metworst)</i>
 - Rookworst <i>(Rookworst)</i>

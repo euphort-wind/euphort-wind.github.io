@@ -230,7 +230,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Hardbass. Originated: late 1990s
 - Drift Phonk. Originated: late 2010s
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Vinegret <i>(Винегрет)</i> 
 - Olivier Salad <i>(Салат Оливье)</i> 
 - Kholodets <i>(Холодец)</i> 

@@ -54,7 +54,7 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 - 🇻🇦 Pope Francis (speaker). Genre: christian rock
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Grissini <i>(Grissini)</i>
 - Pasta alla Papalina <i>(Pasta alla Papalina)</i>
 - Baked Pasta <i>(Pasta Cocta)</i>

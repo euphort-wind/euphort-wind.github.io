@@ -110,7 +110,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Modern Manele. Originated: early 1990s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Pastrami <i>(Pastrami)</i>
 - Zacuscă <i>(Zacuscă)</i>
 - Salată de Icre <i>(Salată de Icre)</i>

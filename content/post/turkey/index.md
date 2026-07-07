@@ -101,7 +101,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - 🇺🇳 Ummet Ozcan (DJ). Genre: progressive house
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Kısır <i>(Kısır)</i>
 - Yaprak Sarması <i>(Yaprak Sarması)</i>
 - Choban Salad <i>(Çoban Salatası)</i>

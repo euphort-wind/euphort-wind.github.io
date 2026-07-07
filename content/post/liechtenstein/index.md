@@ -73,7 +73,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
 - 🇺🇳 Al Walser (singer). Genre: dance pop
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Ribel <i>(Ribel)</i>
 - Hafalaab <i>(Hafalaab)</i>
 - Käsknöpfle <i>(Käsknöpfle)</i>

@@ -80,7 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Mákina. Originated: early 1990s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Tapas-Style Snacks <i>(Tapas)</i>
   - Jamón Serrano Tapas <i>(Jamón Serrano)</i>
   - Jamón Ibérico Tapas <i>(Jamón Ibérico)</i>

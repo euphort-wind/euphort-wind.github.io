@@ -89,7 +89,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - 🇺🇳 Generali Minerali (DJ). Genre: house
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Satsivi <i>(საცივი)</i>
 - Pkhali <i>(ფხალი)</i>
 - Badrijani <i>(ნიგვზიანი ბადრიჯანი)</i>

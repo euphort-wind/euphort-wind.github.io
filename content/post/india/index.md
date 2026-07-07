@@ -73,7 +73,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Psy Trance. Originated: late 1990s
 
 
-<b>🥘 Local food & drinks: </b>
+<b>🍽️ Local food & drinks: </b>
 - Phool Makhana <i>(फूल मखाने)</i>
 - Thali-Style Dishes <i>(थाली)</i>
   - Dal <i>(दाल)</i>
