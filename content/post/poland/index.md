@@ -89,34 +89,35 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 
 
 <b>🍽️ Local food & drinks: </b>
-- Polish Soups <i>(Polskie Zupy)</i>
-  - Żurek <i>(Żurek)</i>
-  - Flaki <i>(Flaczki)</i>
-  - Krupnik <i>(Krupnik)</i>
-  - Rosół <i>(Rosół)</i>
-  - Cucumber Soup <i>(Zupa Ogórkowa)</i>
-- Zapiekanka <i>(Zapiekanka)</i>
-- Szczecin Pasztecik <i>(Pasztecik Szczeciński)</i>
-- Bigos <i>(Bigos)</i>
-- Pierogi <i>(Pierogi)</i>
-  - Pierogi with Beef <i>(Pierogi z Mięsem Wołowym)</i>
-  - Pierogi with Pork <i>(Pierogi z Mięsem Wieprzowym)</i>
-  - Pierogi with Duck <i>(Pierogi z Mięsem Kaczki)</i>
-  - Pierogi with Cabbage and Mushrooms <i>(Pierogi z Kapustą i Grzybami)</i>
-- Kotlet Schabowy <i>(Kotlet Schabowy)</i>
-- Zrazy <i>(Zrazy)</i>
-- Pyzy <i>(Pyzy)</i>
-- Kopytka <i>(Szagówki)</i>
-- Gołąbki <i>(Gołąbki)</i>
-- Polish Cheesecake <i>(Sernik)</i> 
-- Pączki <i>(Pączki)</i>
-- Makowiec <i>(Makowiec)</i>
-- Angel Wings <i>(Faworki)</i>
-- Pampuchy <i>(Pampuchy)</i>
-- Ptasie Mleczko <i>(Ptasie Mleczko)</i>
-- Polonaise Sauce <i>(À la Polonaise)</i>
-- Polish Bison Grass Vodka <i>(Brand: "Żubrówka")</i>
-- <u>Pomeranian (Regional Special):</u> Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
+- 🥙 Zapiekanka <i>(Zapiekanka)</i>
+- 🥙 Szczecin Pasztecik <i>(Pasztecik Szczeciński)</i>
+- 🍲 Polish Soups <i>(Polskie Zupy)</i>
+  - 🍲 Żurek <i>(Żurek)</i>
+  - 🍲 Flaki <i>(Flaczki)</i>
+  - 🍲 Krupnik <i>(Krupnik)</i>
+  - 🍲 Rosół <i>(Rosół)</i>
+  - 🍲 Cucumber Soup <i>(Zupa Ogórkowa)</i>
+- 🥘 Bigos <i>(Bigos)</i>
+- 🥘 Pierogi <i>(Pierogi)</i>
+  - 🥘 Pierogi with Beef <i>(Pierogi z Mięsem Wołowym)</i>
+  - 🥘 Pierogi with Pork <i>(Pierogi z Mięsem Wieprzowym)</i>
+  - 🥘 Pierogi with Duck <i>(Pierogi z Mięsem Kaczki)</i>
+  - 🥘 Pierogi with Cabbage and Mushrooms <i>(Pierogi z Kapustą i Grzybami)</i>
+- 🥘 Kotlet Schabowy <i>(Kotlet Schabowy)</i>
+- 🥘 Zrazy <i>(Zrazy)</i>
+- 🥘 Pyzy <i>(Pyzy)</i>
+- 🥘 Kopytka <i>(Szagówki)</i>
+- 🥘 Gołąbki <i>(Gołąbki)</i>
+- 🍰 Polish Cheesecake <i>(Sernik)</i> 
+- 🍰 Pączki <i>(Pączki)</i>
+- 🍰 Makowiec <i>(Makowiec)</i>
+- 🍰 Angel Wings <i>(Faworki)</i>
+- 🍰 Pampuchy <i>(Pampuchy)</i>
+- 🍰 Ptasie Mleczko <i>(Ptasie Mleczko)</i>
+- 🥫 Polonaise Sauce <i>(À la Polonaise)</i>
+- 🍶 Polish Bison Grass Vodka <i>(Brand: "Żubrówka")</i>
+- <u>Pomeranian - Regional Special:</u> 
+  - 🍰 Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
 
 
 <b>🎬 Local movies:</b>

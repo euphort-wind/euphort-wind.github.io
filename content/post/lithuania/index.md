@@ -84,17 +84,18 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - Slap House. Originated: late 2010s
 
 <b>🍽️ Local food & drinks: </b>
-- Lithuanian Cold Borscht <i>(Šaltibarščiai)</i>
-- Samogitian Pancakes <i>(Žemaičių Blynai)</i>
-- Lithuanian Potato Sausages <i>(Vėdarai)</i>
-- Kugelis <i>(Kugelis)</i>
-- Cepelinai <i>(Cepelinai)</i>
-- Samogitian Kastinys <i>(Žemaitiškas Kastinys)</i>
-- Šakotis <i>(Šakotis)</i>
-- Tinginys <i>(Tinginys)</i>
-- Kepta Duona <i>(Kepta Duona)</i>
-- Lithuanian Beer <i>(Brand: "Kalnapilis")</i> 
-- <u>Vilnius (Regional Special):</u> Karaite Kibinai <i>(Kibinai / Kybynlar)</i>
+- 🥗 Samogitian Kastinys <i>(Žemaitiškas Kastinys)</i>
+- 🍲 Lithuanian Cold Borscht <i>(Šaltibarščiai)</i>
+- 🥘 Samogitian Pancakes <i>(Žemaičių Blynai)</i>
+- 🥘 Lithuanian Potato Sausages <i>(Vėdarai)</i>
+- 🥘 Kugelis <i>(Kugelis)</i>
+- 🥘 Cepelinai <i>(Cepelinai)</i>
+- 🍰 Šakotis <i>(Šakotis)</i>
+- 🍰 Tinginys <i>(Tinginys)</i>
+- 🫓 Kepta Duona <i>(Kepta Duona)</i>
+- 🍶 Lithuanian Beer <i>(Brand: "Kalnapilis")</i> 
+- <u>Vilnius - Regional Special:</u> 
+  - 🥙 Karaite Kibinai <i>(Kibinai / Kybynlar)</i>
 
 
 <b>🎬 Local movies:</b>
