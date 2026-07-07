@@ -200,59 +200,62 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 
 <b>🍽️ Local food & drinks: </b>
-- Italian Lunch Meats <i>(Salumi Italiani)</i>
-  - Carpaccio <i>(Carpaccio)</i>
-  - Bresaola <i>(Bresaola)</i> 
-  - Mortadella <i>(Mortadella)</i> 
-  - Prosciutto <i>(Prosciutto Crudo)</i> 
-  - Salami <i>(Salame)</i> 
-- Italian Pasta <i>(Pasta)</i>
-  - Farfalle <i>(Farfalle)</i>
-  - Tagliatelle <i>(Tagliatelle)</i>
-  - Spaghetti <i>(Spaghetti)</i>
-  - Fettuccine <i>(Fettuccine)</i> 
-  - Fusilli <i>(Fusilli)</i> 
-  - Scialatielli <i>(Scialatielli)</i> 
-- Italian Pizza <i>(Pizza)</i>
-  - Quattro Formaggi <i>(Quattro Formaggi)</i>
-  - Quattro Stagioni <i>(Quattro Stagioni)</i>
-  - Capricciosa <i>(Capricciosa)</i>
-- Bruschetta <i>(Bruschetta)</i>
-- Panino <i>(Panino)</i>
-- Frittata <i>(Frittata)</i>
-- Risotto <i>(Risotto)</i>
-- Ravioli <i>(Ravioli)</i>
-- Maritozzo <i>(Maritozzo)</i>
-- Panna Cotta <i>(Panna Cotta)</i>
-- Tiramisu <i>(Tiramisu)</i>
-- Italian Cheese <i>(Formaggio Italiano)</i>
-  - Parmesan <i>(Parmigiano Reggiano)</i>
-  - Mozzarella <i>(Mozzarella)</i>
-  - Gorgonzola <i>(Gorgonzola)</i>
-  - Pecorino <i>(Pecorino)</i>
-  - Taleggio <i>(Taleggio)</i>
-  - Caciocavallo <i>(Caciocavallo)</i>
-  - Ricotta <i>(Ricotta)</i>
-  - Burrata <i>(Burrata)</i>
-  - Mascarpone <i>(Mascarpone)</i>
-- Pesto Sauce <i>(Pesto)</i>
-- Italian Coffee Drinks <i>(Caffè Italiano)</i> 
-  - Cappuccino <i>(Cappuccino)</i>
-  - Latte <i>(Caffè e Latte)</i>
-  - Macchiato <i>(Caffè Macchiato)</i> 
-- Limoncello <i>(Brand: "Pallini")</i> 
-- Vermouth <i>(Brand: "Martini")</i> 
-- Italian Liqueur <i>(Brands: "Campari", "Aperol")</i> 
-- <u>Lazio (Regional Special):</u> Pasta Carbonara <i>(Pasta alla Carbonara)</i>
-- <u>Lazio (Regional Special):</u> Fettuccine Alfredo <i>(Fettuccine Alfredo)</i>
-- <u>Lazio (Regional Special):</u> Saltimbocca <i>(Saltimbocca)</i>
-- <u>Emilia-Romagna (Regional Special):</u> Ragù alla Bolognese <i>(Ragù alla Bolognese / Ragó)</i>
-- <u>Emilia-Romagna (Regional Special):</u> Lasagna <i>(Lasagna / Lasagna)</i>
-- <u>Emilia-Romagna (Regional Special):</u> Tortelli <i>(Tortelli / Tortelli)</i>
-- <u>Emilia-Romagna (Regional Special):</u> Torta di Riso <i>(Torta di Riso / Torta degli Addobbi)</i>
-- <u>Tuscany (Regional Special):</u> Florentine Steak <i>(Bistecca alla Fiorentina)</i>
-- <u>Tuscany (Regional Special):</u> Panzanella <i>(Panzanella)</i>
-- <u>Tuscany (Regional Special):</u> Ribollita <i>(Ribollita)</i>
+- 🥓 Italian Lunch Meats <i>(Salumi Italiani)</i>
+  - 🥓 Carpaccio <i>(Carpaccio)</i>
+  - 🥓 Bresaola <i>(Bresaola)</i> 
+  - 🥓 Mortadella <i>(Mortadella)</i> 
+  - 🥓 Prosciutto <i>(Prosciutto Crudo)</i> 
+  - 🥓 Salami <i>(Salame)</i> 
+- 🥙 Italian Pizza <i>(Pizza)</i>
+  - 🥙 Quattro Formaggi <i>(Quattro Formaggi)</i>
+  - 🥙 Quattro Stagioni <i>(Quattro Stagioni)</i>
+  - 🥙 Capricciosa <i>(Capricciosa)</i>
+- 🥙 Bruschetta <i>(Bruschetta)</i>
+- 🥙 Panino <i>(Panino)</i>
+- 🥘 Italian Pasta <i>(Pasta)</i>
+  - 🥘 Farfalle <i>(Farfalle)</i>
+  - 🥘 Tagliatelle <i>(Tagliatelle)</i>
+  - 🥘 Spaghetti <i>(Spaghetti)</i>
+  - 🥘 Fettuccine <i>(Fettuccine)</i> 
+  - 🥘 Fusilli <i>(Fusilli)</i> 
+  - 🥘 Scialatielli <i>(Scialatielli)</i> 
+- 🥘 Frittata <i>(Frittata)</i>
+- 🥘 Risotto <i>(Risotto)</i>
+- 🥘 Ravioli <i>(Ravioli)</i>
+- 🍰 Maritozzo <i>(Maritozzo)</i>
+- 🍰 Panna Cotta <i>(Panna Cotta)</i>
+- 🍰 Tiramisu <i>(Tiramisu)</i>
+- 🧀 Italian Cheese <i>(Formaggio Italiano)</i>
+  - 🧀 Parmesan <i>(Parmigiano Reggiano)</i>
+  - 🧀 Mozzarella <i>(Mozzarella)</i>
+  - 🧀 Gorgonzola <i>(Gorgonzola)</i>
+  - 🧀 Pecorino <i>(Pecorino)</i>
+  - 🧀 Taleggio <i>(Taleggio)</i>
+  - 🧀 Caciocavallo <i>(Caciocavallo)</i>
+  - 🧀 Ricotta <i>(Ricotta)</i>
+  - 🧀 Burrata <i>(Burrata)</i>
+  - 🧀 Mascarpone <i>(Mascarpone)</i>
+- 🥫 Pesto Sauce <i>(Pesto)</i>
+- 🍶 Italian Coffee Drinks <i>(Caffè Italiano)</i> 
+  - 🍶 Cappuccino <i>(Cappuccino)</i>
+  - 🍶 Latte <i>(Caffè e Latte)</i>
+  - 🍶 Macchiato <i>(Caffè Macchiato)</i> 
+- 🍶 Limoncello <i>(Brand: "Pallini")</i> 
+- 🍶 Vermouth <i>(Brand: "Martini")</i> 
+- 🍶 Italian Liqueur <i>(Brands: "Campari", "Aperol")</i> 
+- <u>Lazio - Regional Special:</u> 
+  - 🥘 Pasta Carbonara <i>(Pasta alla Carbonara)</i>
+  - 🥘 Fettuccine Alfredo <i>(Fettuccine Alfredo)</i>
+  - 🥘 Saltimbocca <i>(Saltimbocca)</i>
+- <u>Emilia-Romagna - Regional Special:</u> 
+  - 🥘 Ragù alla Bolognese <i>(Ragù alla Bolognese / Ragó)</i>
+  - 🥘 Lasagna <i>(Lasagna / Lasagna)</i>
+  - 🥘 Tortelli <i>(Tortelli / Tortelli)</i>
+  - 🍰 Torta di Riso <i>(Torta di Riso / Torta degli Addobbi)</i>
+- <u>Tuscany - Regional Special:</u>
+  - 🥗 Panzanella <i>(Panzanella)</i>
+  - 🍲 Ribollita <i>(Ribollita)</i>
+  - 🥘 Florentine Steak <i>(Bistecca alla Fiorentina)</i>
 - <u>Sicily (Regional Special):</u> Caponata <i>(Caponata / Capunata)</i>
 - <u>Sicily (Regional Special):</u> Panella <i>(Panella / Panella)</i>
 - <u>Sicily (Regional Special):</u> Pani câ Meusa <i>(Pane con Meusa / Pani câ Meusa)</i>
