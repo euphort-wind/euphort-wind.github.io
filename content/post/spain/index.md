@@ -81,12 +81,12 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 
 <b>🍽️ Local food & drinks: </b>
-- 🥗 Tapas-Style Snacks <i>(Tapas)</i>
-  - Jamón Serrano Tapas <i>(Jamón Serrano)</i>
-  - Jamón Ibérico Tapas <i>(Jamón Ibérico)</i>
-  - Chorizo Tapas <i>(Chorizo)</i>
-  - Salchichon Tapas <i>(Salchichón)</i>
-  - Boquerones en Vinagre <i>(Boquerones en Vinagre)</i>
+- 🥓 Tapas-Style Snacks <i>(Tapas)</i>
+  - 🥓 Jamón Serrano Tapas <i>(Jamón Serrano)</i>
+  - 🥓 Jamón Ibérico Tapas <i>(Jamón Ibérico)</i>
+  - 🥓 Chorizo Tapas <i>(Chorizo)</i>
+  - 🥓 Salchichon Tapas <i>(Salchichón)</i>
+- 🥗 Boquerones en Vinagre <i>(Boquerones en Vinagre)</i>
 - 🍲 Gazpacho <i>(Gazpacho)</i>
 - 🥘 Patatas Bravas <i>(Patatas Bravas)</i>
 - 🥘 Spanish Omelette <i>(Tortilla Española)</i>
@@ -102,7 +102,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🍶 Sherry Wine <i>(Brands: "La Guita Manzanilla", "Tio Pepe Fino")</i>
 - 🍶 Sangria Cocktail <i>(Sangría)</i>
 - 🗺️ <u>Catalonia - Regional Special:</u>
-  - 🥗 Fuet Sausage <i>(Fuet / Fuet)</i>
+  - 🥓 Fuet Sausage <i>(Fuet / Fuet)</i>
   - 🥗 Samfaina <i>(Samfaina / Pebrereta)</i>
   - 🥗 Esqueixada <i>(Esqueixada / Esqueixada)</i>
   - 🥗 Escalivada <i>(Escalibada / Escalivada)</i>
