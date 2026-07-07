@@ -96,17 +96,19 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 
 
 <b>🍽️ Local food & drinks: </b>
-- Filet Americain <i>(Americain Préparé / Filet Americain)</i>
-- Martino Sandwich <i>(Martino Sandwich / Martino Sandwich)</i>
-- Mussels'n'Fries <i>(Moules-Frites / Mosselen-Friet)</i>
-- Steak Frites <i>(Steak-Frites / Steak-Friet)</i>
-- Belgian Waffles <i>(Gaufres Belges / Belgische Wafels)</i>
-- Belgian Chocolate & Pralines <i>(Chocolats et Pralines Belges / Belgische Chocolade en Pralines)</i>
-- Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Leffe", "Delirium")</i>
-- <u>Brussels-Capital (Regional Special):</u> Stewed Brussels Sprouts <i>(Choux de Bruxelles / Spruitjes)</i>
-- <u>Flanders (Regional Special):</u> Shrimp Croquettes <i>(Garnaalkroket)</i>
-- <u>Flanders (Regional Special):</u> Flemish Stew <i>(Stoofvlees)</i>
-- <u>Flanders (Regional Special):</u> Eel in the Green <i>(Paling in 't Groen)</i>
+- 🥗 Filet Americain <i>(Americain Préparé / Filet Americain)</i>
+- 🥙 Martino Sandwich <i>(Martino Sandwich / Martino Sandwich)</i>
+- 🥘 Mussels'n'Fries <i>(Moules-Frites / Mosselen-Friet)</i>
+- 🥘 Steak Frites <i>(Steak-Frites / Steak-Friet)</i>
+- 🍰 Belgian Waffles <i>(Gaufres Belges / Belgische Wafels)</i>
+- 🍰 Belgian Chocolate & Pralines <i>(Chocolats et Pralines Belges / Belgische Chocolade en Pralines)</i>
+- 🍶 Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Leffe", "Delirium")</i>
+- <u>Brussels-Capital - Regional Special:</u> 
+  - 🥘 Stewed Brussels Sprouts <i>(Choux de Bruxelles / Spruitjes)</i>
+- <u>Flanders - Regional Special:</u> 
+  - 🥘 Shrimp Croquettes <i>(Garnaalkroket)</i>
+  - 🥘 Flemish Stew <i>(Stoofvlees)</i>
+  - 🥘 Eel in the Green <i>(Paling in 't Groen)</i>
 
 <b>🎬 Local movies:</b>
 - Mr. Nobody <i>(Mr. Nobody)</i>. Year: 2009. Genre: fantasy

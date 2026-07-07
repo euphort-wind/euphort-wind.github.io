@@ -79,18 +79,19 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 
 
 <b>🍽️ Local food & drinks: </b>
-- Gobova Juha <i>(Gobova Juha)</i>
-- Ričet <i>(Ričet)</i>
-- Funšterc <i>(Funšterc)</i>
-- Ajdovi Žganci <i>(Ajdovi Žganci)</i>
-- Matevž <i>(Matevž)</i>
-- Idrijski Žlikrofi <i>(Idrijski Žlikrofi)</i>
-- Štruklji <i>(Štruklji)</i>
-- Potica <i>(Potica)</i>
-- Prekmurska Gibanica <i>(Prekmurska Gibanica)</i>
-- Brinjevec <i>(Brands: "Berryshka", "Dobrote Dolenjske")</i>
-- <u>Upper Carniola (Regional Special):</u> Carniolan Sausage <i>(Kranjska Klobasa)</i>
-- <u>Upper Carniola (Regional Special):</u> Bled Cream Cake <i>(Blejska Kremšnita)</i>
+- 🍲 Gobova Juha <i>(Gobova Juha)</i>
+- 🍲 Ričet <i>(Ričet)</i>
+- 🥘 Funšterc <i>(Funšterc)</i>
+- 🥘 Ajdovi Žganci <i>(Ajdovi Žganci)</i>
+- 🥘 Matevž <i>(Matevž)</i>
+- 🥘 Idrijski Žlikrofi <i>(Idrijski Žlikrofi)</i>
+- 🍰 Štruklji <i>(Štruklji)</i>
+- 🍰 Potica <i>(Potica)</i>
+- 🍰 Prekmurska Gibanica <i>(Prekmurska Gibanica)</i>
+- 🍶 Brinjevec <i>(Brands: "Berryshka", "Dobrote Dolenjske")</i>
+- <u>Upper Carniola - Regional Special:</u> 
+  - 🥓 Carniolan Sausage <i>(Kranjska Klobasa)</i>
+  - 🍰 Bled Cream Cake <i>(Blejska Kremšnita)</i>
 
 
 <b>🎬 Local movies:</b>

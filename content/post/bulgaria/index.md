@@ -1,6 +1,6 @@
 ---
 title: 🇧🇬 Bulgaria 
-date: '2025-08-01'
+date: '2026-07-02'
 summary: Trip to Bulgaria
 
 gallery_item:
@@ -108,35 +108,36 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Chalga. Originated: early 1990s
 
 <b>🍽️ Local food & drinks: </b>
-- Shopska Salad <i>(Шопска Салата)</i>
-- Snow White Salad <i>(Салата Снежанка)</i>
-- Ovcharska Salad <i>(Овчарска Салата)</i>
-- Tarator Soup <i>(Таратор)</i>
-- Topcheta Soup <i>(Супа Топчета)</i>
-- Lyutenitsa <i>(Лютеница)</i>
-- Kyopolou <i>(Кьопоолу)</i>
-- Lukanka <i>(Луканка)</i>
-- Banitsa Pie <i>(Баница)</i>
-  - Banitsa with Crushed White Cheese <i>(Баница със Сирене)</i>
-  - Banitsa with Apples <i>(Баница с Ябълки)</i>
-  - Banitsa with Spinach <i>(Баница със Спанак)</i>
-- Princess Sandwich <i>(Принцеса)</i>
-- Mish-Mash <i>(Миш-Маш)</i>
-- Ezik v Maslo <i>(Език в Масло)</i>
-- Gyuvech <i>(Гювеч)</i>
-- Patatnik <i>(Пататник)</i>
-- Chushki Burek <i>(Чушки Бюрек)</i>
-- Kebapche <i>(Кебапче)</i>
-- Kyufte <i>(Кюфте)</i>
-- Tsatsa Fish <i>(Цаца)</i>
-- Garash Cake <i>(Гараш Торта)</i>
-- Bulgarian Cheese <i>(Български Сирена)</i>
-  - Sirene <i>(Сирене)</i>
-  - Kashkaval <i>(Кашкавал)</i>
-  - Katǎk <i>(Катък)</i>
-- Mekitsa <i>(Мекица)</i>
-- Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
-- <u>Burgas (Regional Special):</u> Strandzhanka Sandwich <i>(Странджанка)</i>
+- 🥓 Lukanka <i>(Луканка)</i>
+- 🥗 Shopska Salad <i>(Шопска Салата)</i>
+- 🥗 Snow White Salad <i>(Салата Снежанка)</i>
+- 🥗 Ovcharska Salad <i>(Овчарска Салата)</i>
+- 🥗 Tarator Soup <i>(Таратор)</i>
+- 🥗 Lyutenitsa <i>(Лютеница)</i>
+- 🥗 Kyopolou <i>(Кьопоолу)</i>
+- 🥙 Banitsa Pie <i>(Баница)</i>
+  - 🥙 Banitsa with Crushed White Cheese <i>(Баница със Сирене)</i>
+  - 🥙 Banitsa with Spinach <i>(Баница със Спанак)</i>
+  - 🍰 Banitsa with Apples <i>(Баница с Ябълки)</i>
+- 🥙 Princess Sandwich <i>(Принцеса)</i>
+- 🍲 Topcheta Soup <i>(Супа Топчета)</i>
+- 🥘 Mish-Mash <i>(Миш-Маш)</i>
+- 🥘 Ezik v Maslo <i>(Език в Масло)</i>
+- 🥘 Gyuvech <i>(Гювеч)</i>
+- 🥘 Patatnik <i>(Пататник)</i>
+- 🥘 Chushki Burek <i>(Чушки Бюрек)</i>
+- 🥘 Kebapche <i>(Кебапче)</i>
+- 🥘 Kyufte <i>(Кюфте)</i>
+- 🥘 Tsatsa Fish <i>(Цаца)</i>
+- 🍰 Garash Cake <i>(Гараш Торта)</i>
+- 🧀 Bulgarian Cheese <i>(Български Сирена)</i>
+  - 🧀 Sirene <i>(Сирене)</i>
+  - 🧀 Kashkaval <i>(Кашкавал)</i>
+  - 🧀 Katǎk <i>(Катък)</i>
+- 🫓 Mekitsa <i>(Мекица)</i>
+- 🍶 Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
+- <u>Burgas - Regional Special:</u> 
+  - 🥙 Strandzhanka Sandwich <i>(Странджанка)</i>
 
 
 <b>🎬 Local movies:</b>
