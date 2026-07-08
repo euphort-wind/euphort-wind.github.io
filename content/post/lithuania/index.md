@@ -125,7 +125,8 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - Saint Jonas's Festival <i>(Rãsos)</i>. Month: June 
 
 
-<b>💐 National flower: </b> Common Rue <i>(Žalioji Rūta)</i>
+<b>💐 National flower: </b>
+- Common Rue <i>(Žalioji Rūta)</i>
 
 
 <b>🦉 Local wisdom:</b> "The flax isn’t even sown, and they’re already weaving linen." / <i>"Linai nesėti, o jau drobes audžia."</i> — Lithuanian Proverb

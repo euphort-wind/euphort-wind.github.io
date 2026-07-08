@@ -81,7 +81,8 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 
 
 
-<b>💐 National flower: </b> Purple Cyclamen <i>(Ciclamino Viola)</i>
+<b>💐 National flower: </b> 
+- Purple Cyclamen <i>(Ciclamino Viola)</i>
 
 
 <b>🦉 Local wisdom:</b> "He who believes in everything he dreams would go mad."  / <i>"Chi ch’cardess a tot quel che po’ insugnê, mat è po’ dvintê."</i> — Sammarinese proverb

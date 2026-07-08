@@ -150,7 +150,8 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - Saint Anthony Festival in Lisbon <i>(Festa de Santo António em Lisboa)</i>. Month: May to June
 
 
-<b>💐 National flower: </b> [unofficially] Lavender Cotton <i>(Abrótano-Fêmea)</i>
+<b>💐 National flower: </b>
+- [unofficially] Lavender Cotton <i>(Abrótano-Fêmea)</i>
 
 
 <b>🦉 Local wisdom:</b> "If horseshoes brought luck, donkeys wouldn't pull carts." / <i>"Se ferradura trouxesse sorte, burro não puxava carroça."</i> — Portuguese proverb

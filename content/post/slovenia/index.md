@@ -117,7 +117,8 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 - Maritime Day <i>(Dan Pomorstva)</i>. Month: March
 
 
-<b>💐 National flower: </b> Red Carnation <i>(Rdeči Nagelj)</i>
+<b>💐 National flower: </b>
+- Red Carnation <i>(Rdeči Nagelj)</i>
 
 
 <b>🦉 Local wisdom:</b> "A hungry crow doesn't care about the scarecrow."  / <i>"Lačna vrana se ne zmeni za strašilo."</i> —  Slovenian proverb

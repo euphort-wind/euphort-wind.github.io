@@ -377,7 +377,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 
 
 
-<b>💐 National flower: </b> Chamomile <i>(Ромашка Обыкновенная)</i><br>
+<b>💐 National flower: </b> 
+- Chamomile <i>(Ромашка Обыкновенная)</i><br>
 <u>Bashkortostan - Regional Special:</u> 
 - Pleurospermum Uralense <i>(Реброплодник Уральский / Ҡурай Сәскәһе)</i><br>
 <u>Karachay-Cherkessia - Regional Special:</u> 

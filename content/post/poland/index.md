@@ -161,7 +161,8 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March 
 
 
-<b>💐 National flower: </b> Red Poppy <i>(Mak Polny)</i><br>
+<b>💐 National flower: </b> 
+- Red Poppy <i>(Mak Polny)</i><br>
 <u>Pomeranian - Regional Special:</u> 
 - Kashubian Vetch <i>(Wyka Kaszubska / Kaszëbskô Wika)</i>
 

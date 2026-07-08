@@ -131,7 +131,8 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 - Salamander Days <i>(Salamandrové Dni)</i>. Month: September
 
 
-<b>💐 National flower: </b> Linden Blossom <i>(Lipový Kvet)</i>
+<b>💐 National flower: </b> 
+- Linden Blossom <i>(Lipový Kvet)</i>
 
 
 <b>🦉 Local wisdom:</b> "Well off is the one who has friends; woe to the one who needs them." / <i>"Dobre tomu, kto má priateľov, beda tomu, kto ich potrebuje."</i> — Slovak proverb

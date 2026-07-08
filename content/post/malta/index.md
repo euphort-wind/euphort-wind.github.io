@@ -125,7 +125,8 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 - Maltese Village Festa <i>(Festa)</i>. Month: May to October
 
 
-<b>💐 National flower: </b> Maltese Centaury <i>(Widnet il-Baħar)</i>
+<b>💐 National flower: </b>
+- Maltese Centaury <i>(Widnet il-Baħar)</i>
 
 
 <b>🦉 Local wisdom:</b> "With money you can make a path in the sea, but you cannot buy a place in heaven." / <i>"Bil-flus tagħmel triq fil-baħar iżda ma tixtrix il-ġenna."</i> — Maltese proverb

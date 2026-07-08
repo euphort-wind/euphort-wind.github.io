@@ -156,7 +156,8 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - Day of Serb Unity <i>(Дан Српског Јединства)</i>. Month: September
 
 
-<b>💐 National flower: </b> Natalie's Ramonda <i>(Наталијина Рамонда)</i>
+<b>💐 National flower: </b> 
+- Natalie's Ramonda <i>(Наталијина Рамонда)</i>
 
 
 <b>🦉 Local wisdom:</b> "Whether the pot hits the rock or the rock hits the pot, it’s bad for the pot either way." / <i>"И лонцем о камен или каменом о лонац, тешко лонцу свакојако."</i> — Serbian proverb

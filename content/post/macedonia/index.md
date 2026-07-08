@@ -127,7 +127,8 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 <u>Pelagonia - Regional Special:</u> 
 - Ilinden Days Festival <i>(Илинденски Денови)</i>. Month: July to August
 
-<b>💐 National flower: </b> Breadseed Poppy <i>(Афион)</i>
+<b>💐 National flower: </b> 
+- Breadseed Poppy <i>(Афион)</i>
 
 
 <b>🦉 Local wisdom:</b> "If you don't throw a seed into the field, it won't sprout, but thorns will sprout even where they haven't been sown." / <i>"Дури не фрлиш семе во нива, не никнува, а трње никнуваат и несеани."</i> — Macedonian proverb

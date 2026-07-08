@@ -86,7 +86,8 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 - Christmas <i>(Dies Natalis Christi)</i>. Month: December
 
 
-<b>💐 National flower: </b> Easter Lily <i>(Lilium Longiflorum)</i>
+<b>💐 National flower: </b> 
+- Easter Lily <i>(Lilium Longiflorum)</i>
 
 
 <b>🦉 Local wisdom:</b> "All the darkness in the world cannot extinguish the light of a single candle."  / <i>"Omnes tenebrae in mundo non possunt lucem unius candelae extinguere."</i> — St. Francis of Assisi  

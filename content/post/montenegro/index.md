@@ -142,7 +142,8 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 - Fašinada <i>(Фашинада)</i>
 
 
-<b>💐 National flower: </b> Mimosa Pudica <i>(Мимоза)</i>
+<b>💐 National flower: </b>
+- Mimosa Pudica <i>(Мимоза)</i>
 
 
 <b>🦉 Local wisdom:</b> "Brothers who agree build a house; brothers who disagree tear it down." / <i>"Сложна браћа граде кућу, а несложна руше куће."</i> —  Montenegrin proverb

@@ -194,7 +194,8 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 
 
 
-<b>💐 National flower: </b> Red Tulip <i>(Kırmızı Lale)</i>
+<b>💐 National flower: </b>
+- Red Tulip <i>(Kırmızı Lale)</i>
 
 
 <b>🦉 Local wisdom:</b> "The father gave his son a vineyard, the son didn't give the father even a grape." / <i>"Babası oğluna bir bağ bağışlamış, oğul babaya bir salkım üzüm vermemiş."</i> — Turkish proverb

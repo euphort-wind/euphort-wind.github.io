@@ -396,7 +396,8 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Alingsås Potatisfestivalen <i>(Potatisfestivalen)</i>. Month: June
 
 
-<b>💐 National flower: </b> Harebell <i>(Liten Blåklocka)</i><br>
+<b>💐 National flower: </b> 
+- Harebell <i>(Liten Blåklocka)</i><br>
 <u>Västra Götaland - Regional Special:</u> 
 - Common Heather <i>(Ljung)</i><br>
 <u>Västernorrland - Regional Special:</u> 

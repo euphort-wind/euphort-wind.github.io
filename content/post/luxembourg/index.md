@@ -102,7 +102,8 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
 - Schueberfouer <i>(Schueberfouer)</i>. Month: August to September
 
 
-<b>💐 National flower: </b> Floribunda Rose <i>(Anne Beffort Rose)</i>
+<b>💐 National flower: </b> 
+- Floribunda Rose <i>(Anne Beffort Rose)</i>
 
 
 <b>🦉 Local wisdom:</b> "You should not give up as long as you still have some dumplings in the pot." / <i>"Et muss ee sech net ginn, soulaang nach Kniddelen am Dëppe sinn."</i> — Luxembourgish proverb

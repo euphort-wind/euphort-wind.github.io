@@ -174,7 +174,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - Oslo Medieval Festival <i>(Oslo Middelalderfestival)</i>. Month: May to June 
 
 
-<b>💐 National flower: </b> Pyramidal Saxifrage <i>(Bergfrue)</i>
+<b>💐 National flower: </b> 
+- Pyramidal Saxifrage <i>(Bergfrue)</i>
 
 
 <b>🦉 Local wisdom:</b> "Good words should be carved in rock, bad words should be written in snow." / <i>"Det gode skal en hugge i fjell, det onde skal en skrive i snø."</i> — Norwegian proverb

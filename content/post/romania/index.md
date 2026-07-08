@@ -200,7 +200,8 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Sighişoara Medieval Festival <i>(Festivalul Sighişoara Medievală)</i>. Month: July
 
 
-<b>💐 National flower: </b> Romanian Peony <i>(Bujor Românesc)</i>
+<b>💐 National flower: </b> 
+- Romanian Peony <i>(Bujor Românesc)</i>
 
 
 <b>🦉 Local wisdom:</b> "The good man values goodness, as the bee values the flower." / <i>"Omul bun preţuieşte bunătatea, aşa cum albina preţuieşte floarea."</i> — Romanian proverb

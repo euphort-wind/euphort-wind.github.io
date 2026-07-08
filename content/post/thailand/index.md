@@ -139,7 +139,8 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 
 
 
-<b>💐 National flower: </b> Purging Cassia <i>(ดอกราชพฤกษ์)</i>
+<b>💐 National flower: </b>
+- Purging Cassia <i>(ดอกราชพฤกษ์)</i>
 
 
 <b>🦉 Local wisdom:</b> "Do not let the fire inside spread outward; do not bring outside fire in." / <i>"ไฟในอย่านำออก ไฟนอกอย่านำเข้า"</i> — Thai proverb

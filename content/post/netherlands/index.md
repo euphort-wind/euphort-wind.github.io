@@ -236,7 +236,9 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - Elfstedentocht Event <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February 
 
 
-<b>💐 National flower: </b> [historically] Tulip <i>(Tulp)</i> & [officially] Daisy <i>(Madeliefje)</i><br>
+<b>💐 National flower: </b> 
+- [historically] Tulip <i>(Tulp)</i> 
+- [officially] Daisy <i>(Madeliefje)</i><br>
 <u>Friesland - Regional Special:</u> 
 - Fringed Water-Lily <i>(Pompeblêd)</i>
 
