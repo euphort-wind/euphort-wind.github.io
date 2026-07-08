@@ -92,20 +92,24 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 
 
 <b>🍽️ Local food & drinks: </b>
-- Njeguški Pršut <i>(Његушки Пршут)</i>
-- Kuvana Krtola <i>(Кувана Кртола)</i>
-- Kačamak <i>(Црногорски Качамак)</i>
-- Cicvara <i>(Цицвара)</i>
-- Balšića Tava <i>(Балшића Тава)</i>
-- Priganice <i>(Приганице)</i>
-- Montenegrin Cheese <i>(Црногорски Сир)</i>
-  - Njeguški Cheese <i>(Његушки Сир)</i>
-  - Pljevaljski Cheese <i>(Пљеваљски Сир)</i> 
-  - Lisnati Cheese <i>(Лиснати Сир)</i> 
-- Montenegrin Wine <i>(Brand: "Plantaže Vranac")</i>
-- <u>Central Montenegro (Regional Special):</u> Podgorički Popeci <i>(Подгорички Попеци)</i>
-- <u>Coastal Montenegro (Regional Special):</u> Kotorska Pašta <i>(Которска Кремпита)</i>
-- <u>Coastal Montenegro (Regional Special):</u> Peraška Torta <i>(Перашка Торта)</i>
+- 🥓 Njeguški Pršut <i>(Његушки Пршут)</i>
+- 🥘 Kuvana Krtola <i>(Кувана Кртола)</i>
+- 🥘 Kačamak <i>(Црногорски Качамак)</i>
+- 🥘 Cicvara <i>(Цицвара)</i>
+- 🥘 Balšića Tava <i>(Балшића Тава)</i>
+- 🍰 Priganice <i>(Приганице)</i>
+- 🧀 Montenegrin Cheese <i>(Црногорски Сир)</i>
+  - 🧀 Njeguški Cheese <i>(Његушки Сир)</i>
+  - 🧀 Pljevaljski Cheese <i>(Пљеваљски Сир)</i> 
+  - 🧀 Lisnati Cheese <i>(Лиснати Сир)</i> 
+- 🍶 Montenegrin Wine <i>(Brand: "Plantaže Vranac")</i>
+</br>
+<u>Central Montenegro - Regional Special:</u> 
+- 🥘 Podgorički Popeci <i>(Подгорички Попеци)</i>
+</br>
+<u>Coastal Montenegro - Regional Special:</u> 
+- 🍰 Kotorska Pašta <i>(Которска Кремпита)</i>
+- 🍰 Peraška Torta <i>(Перашка Торта)</i>
 
 
 
