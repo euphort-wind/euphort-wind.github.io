@@ -126,7 +126,8 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - Seto Kingdom Day <i>(Seto Kuningriigi Päev / Seto Kuningriik)</i>. Month: August
 
 
-<b>💐 National flower: </b> Blue Cornflower <i>(Rukkilill)</i>
+<b>💐 National flower: </b>
+- Blue Cornflower <i>(Rukkilill)</i>
 
 
 <b>🦉 Local wisdom:</b> "Who else will lift a dog’s tail if not the dog itself?"  / <i>"Kes koera saba kergitab, kui koer ise."</i> — Estonian proverb

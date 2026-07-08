@@ -135,7 +135,8 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - Fastelavn Carnival <i>(Fastelavn)</i>. Month: February or March
 
 
-<b>💐 National flower: </b> Marguerite Daisy <i>(Margerit)</i>
+<b>💐 National flower: </b> 
+- Marguerite Daisy <i>(Margerit)</i>
 
 
 <b>🦉 Local wisdom:</b> "The road to a friend's house is never long." / <i>"Vejen til en vens hus er aldrig lang."</i> — Danish proverb

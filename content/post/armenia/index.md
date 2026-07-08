@@ -205,8 +205,8 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 - Barekendan <i>(Բարեկենդան)</i>. Month: February or March
 
 
-
-<b>💐 National flower: </b> Forget-me-Nots <i>(Անմոռուկ)</i>
+<b>💐 National flower: </b> 
+- Forget-me-Nots <i>(Անմոռուկ)</i>
 
 
 <b>🦉 Local wisdom:</b> "Not every piece of wood becomes a ladle; not every mountain is Ararat." / <i>"Ամեն փայտ շերեփ չի դառնա, ամեն սար՝ Մասիս."</i> — Armenian proverb

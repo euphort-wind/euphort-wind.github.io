@@ -109,7 +109,8 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 - Limassol Carnival <i>(Καρναβάλι Λεμεσού)</i>. Month: February or March
 
 
-<b>💐 National flower: </b> Cyprus Cyclamen <i>(Κυκλάμινο το Κυπριακό)</i>
+<b>💐 National flower: </b> 
+- Cyprus Cyclamen <i>(Κυκλάμινο το Κυπριακό)</i>
 
 
 <b>🦉 Local wisdom:</b> "Some live by hard work, others by clever means." / <i>"Άλλοι ζιούσιν με τον κόπον τζαι άλλοι ζιούσιν με τον τρόπον."</i> — Cypriot proverb

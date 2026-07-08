@@ -186,7 +186,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 
 
 
-<b>💐 National flower: </b> Indian Lotus <i>(कमल)</i><br>
+<b>💐 National flower: </b> 
+- Indian Lotus <i>(कमल)</i><br>
 <u>Goa - Regional Special:</u> 
 - Red Jasmine <i>(रेड जास्मिन  / चमेली)</i><br>
 <u>Karnataka - Regional Special:</u> 

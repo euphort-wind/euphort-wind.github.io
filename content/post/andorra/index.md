@@ -113,7 +113,8 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
 - La Massana Annual Festival <i>(Festa Major de la Massana)</i>. Month: August
 
 
-<b>💐 National flower: </b> Poet's Narcissus <i>(Grandalla)</i>
+<b>💐 National flower: </b>
+- Poet's Narcissus <i>(Grandalla)</i>
 
 
 <b>🦉 Local wisdom:</b> "If the peak is covered in clouds, bad weather will come to the capital." / <i>"Quan Carroi es posa el capell, pluja o neu a la vall del Consell."</i> — Andorran proverb

@@ -102,7 +102,8 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
 - Funkensonntag <i>(Funkensonntag)</i>. Month: February or March
 
 
-<b>💐 National flower: </b> Yellow Lily <i>(Gelbe Lilie)</i>
+<b>💐 National flower: </b> 
+- Yellow Lily <i>(Gelbe Lilie)</i>
 
 
 <b>🦉 Local wisdom:</b> "Those who can party can also work." / <i>"Wer fiira ka, ka o schaffa."</i> — Liechtenstein proverb

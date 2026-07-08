@@ -325,7 +325,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 <u>Occitania - Regional Special:</u> 
 - Estivada <i>(L'Estivada / L'Estivada)</i>. Month: July
 
-<b>💐 National flower: </b> Yellow Iris <i>(Iris des Marais)</i>
+<b>💐 National flower: </b> 
+- Yellow Iris <i>(Iris des Marais)</i>
 - <u>Occitania - Regional Special:</u> Toulouse Violet <i>(Violette de Toulouse / Violeta de Tolosa)</i>
 
 

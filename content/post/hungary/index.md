@@ -157,7 +157,8 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 
 
 
-<b>💐 National flower: </b> Hungarian Tulip <i>(Magyar Tulipán)</i>
+<b>💐 National flower: </b>
+- Hungarian Tulip <i>(Magyar Tulipán)</i>
 
 
 <b>🦉 Local wisdom:</b> "He who seeks a flawless horse may in the end go on foot." / <i>"Aki hibátlan lovat keres, járhat gyalog."</i> — Hungarian proverb

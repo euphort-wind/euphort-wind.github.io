@@ -125,7 +125,8 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - Sham Ennessim Festival <i>(شم النسيم)</i>. Month: April or May
 - Wafaa El-Nil Festival <i>(عيد وفاء النيل)</i>. Month: August
 
-<b>💐 National flower: </b> White Egyptian Lotus <i>(زهرة اللوتس البيضاء)</i>
+<b>💐 National flower: </b> 
+- White Egyptian Lotus <i>(زهرة اللوتس البيضاء)</i>
 
 
 <b>🦉 Local wisdom:</b> "He whose tongue has been burned by hot soup blows on yogurt." / <i>"اللى اتلسع من الشوربة ينفخ فى الزبادى"</i> — Egyptian proverb

@@ -163,7 +163,8 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 
 
 
-<b>💐 National flower: </b> Croatian Iris <i>(Hrvatska Perunika)</i>
+<b>💐 National flower: </b>
+- Croatian Iris <i>(Hrvatska Perunika)</i>
 
 
 <b>🦉 Local wisdom:</b> "To get warm from the fire, you must suffer the smoke." / <i>"Tko se dima ne nadimi, taj se vatre ne nagrije."</i> — Croatian proverb

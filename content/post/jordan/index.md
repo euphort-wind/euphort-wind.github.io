@@ -97,7 +97,8 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 
 
-<b>💐 National flower: </b> Black Iris <i>(السوسنة السوداء)</i>
+<b>💐 National flower: </b> 
+- Black Iris <i>(السوسنة السوداء)</i>
 
 
 <b>🦉 Local wisdom:</b> "Whoever knocks on the door gets an answer." / "<i>اللي بدقّ الباب بسمع الجواب</i>" — Jordanian proverb 

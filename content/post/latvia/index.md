@@ -120,7 +120,8 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 - Meteņi <i>(Meteņdiena)</i>. Month: February or March
 
 
-<b>💐 National flower: </b> Ox-eye Daisy <i>(Parastā Pīpene)</i>
+<b>💐 National flower: </b> 
+- Ox-eye Daisy <i>(Parastā Pīpene)</i>
 
 
 <b>🦉 Local wisdom:</b> "A tree does not fall after the first cut." / <i>"Koks nekrīt uz pirmā cirtiena."</i> — Latvian proverb

@@ -145,7 +145,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - Carnival of Aalst <i>(Aalst Carnaval / Oilsjt Carnaval)</i>. Month: February or March
 
 
-<b>💐 National flower: </b> Red Poppy <i>(Coquelicot Rouge / Rode Klaproos)</i><br>
+<b>💐 National flower: </b> 
+- Red Poppy <i>(Coquelicot Rouge / Rode Klaproos)</i><br>
 <u>Brussels-Capital - Regional Special:</u> 
 - Yellow Iris <i>(Iris Jaune / Gele Lis)</i>
 

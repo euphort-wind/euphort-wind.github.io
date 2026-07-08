@@ -114,7 +114,8 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - Dita e Verës <i>(Verëza)</i>. Month: March
 
 
-<b>💐 National flower: </b> Red Poppy <i>(Lulëkuqe)</i>
+<b>💐 National flower: </b> 
+- Red Poppy <i>(Lulëkuqe)</i>
 
 
 <b>🦉 Local wisdom:</b> "Only two men can disrupt an assembly: one who know and doesn't speak, and the other who doesn't know and speak." / <i>"Dy burra mund ta prishin kuvendin: njëri që di dhe nuk flet dhe tjetri që s’di dhe flet."</i> — Albanian proverb

@@ -287,7 +287,8 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - Oktoberfest <i>(Oktoberfest / D'Wiesn)</i>. Month: September to  October
 
 
-<b>💐 National flower: </b> Cornflower <i>(Kornblumen)</i><br>
+<b>💐 National flower: </b>
+- Cornflower <i>(Kornblumen)</i><br>
 <u>Bavaria - Regional Special:</u> 
 - Edelweiss <i>(Alpen-Edelweiß / Edlweiß)</i>
 

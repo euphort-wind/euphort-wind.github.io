@@ -405,7 +405,8 @@ Carnival of Viareggio <i>(Carnevale di Viareggio)</i>. Month: February or March<
 - Ambrosian Carnival <i>(Carnevale Ambrosiano / Carnevalòne di Milano)</i>. Month: February
 
 
-<b>💐 National flower: </b> Strawberry Tree Blossom <i>(Fiore del Corbezzolo)</i><br>
+<b>💐 National flower: </b> 
+- Strawberry Tree Blossom <i>(Fiore del Corbezzolo)</i><br>
 <u>Tuscany - Regional Special:</u> 
 - Sunflower <i>(Girasole)</i><br>
 <u>Emilia-Romagna - Regional Special:</u>

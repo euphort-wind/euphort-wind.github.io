@@ -130,7 +130,8 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - Astana Day <i>(Астана Күні)</i>. Month: July
 
 
-<b>💐 National flower: </b> White Water Lily <i>(Ақ Тұңғиық)</i>
+<b>💐 National flower: </b>
+- White Water Lily <i>(Ақ Тұңғиық)</i>
 
 
 <b>🦉 Local wisdom:</b> "A united hundred is stronger than a divided thousand." / <i>"Біріккен жүз, бытыраңқы мыңды алады."</i> — Kazakh proverb

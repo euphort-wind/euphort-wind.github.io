@@ -130,7 +130,8 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - Masopust Carnival <i>(Masopust)</i>. Month: February to March
 
 
-<b>💐 National flower: </b> Linden Blossom <i>(Lipový Květ)</i>
+<b>💐 National flower: </b> 
+- Linden Blossom <i>(Lipový Květ)</i>
 
 
 <b>🦉 Local wisdom:</b> "What you let out of your mouth, you can't get back even with a couple of horses." / <i>"Co jsi z úst vypustil, ani párem koní nedostaneš zpět."</i> — Czech proverb
