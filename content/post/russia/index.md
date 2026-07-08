@@ -362,21 +362,30 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Maslenitsa <i>(Мaсленица)</i>. Month: February or March
-- <u>Bashkortostan - Regional Special:</u> Sabantuy <i>(Сабантуй / Һабантуй)</i>. Month: June or July
-- <u>Kabardino-Balkaria - Regional Special:</u> Balkar Day <i>(День Возрождения Балкарского Народа)</i>. Month: March
-- <u>Karachay-Cherkessia - Regional Special:</u> Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May 
-- <u>St. Petersburg-City - Regional Special:</u> White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July
-- <u>North Ossetia - Regional Special:</u> Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November
+- Maslenitsa <i>(Мaсленица)</i>. Month: February or March<br>
+<u>Bashkortostan - Regional Special:</u> 
+- Sabantuy <i>(Сабантуй / Һабантуй)</i>. Month: June or July<br>
+<u>Kabardino-Balkaria - Regional Special:</u>
+- Balkar Day <i>(День Возрождения Балкарского Народа)</i>. Month: March<br>
+<u>Karachay-Cherkessia - Regional Special:</u>
+- Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May<br>
+<u>St. Petersburg-City - Regional Special:</u>
+- White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July<br>
+<u>North Ossetia - Regional Special:</u> 
+- Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November
 
 
 
 
-<b>💐 National flower: </b> Chamomile <i>(Ромашка Обыкновенная)</i>
-- <u>Bashkortostan - Regional Special:</u> Pleurospermum Uralense <i>(Реброплодник Уральский / Ҡурай Сәскәһе)</i>
-- <u>Karachay-Cherkessia - Regional Special:</u> Caucasian Rhododendron <i>(Рододендрон Кавказский)</i>
-- <u>North Ossetia - Regional Special:</u> Military Orchid <i>(Ятрышник / Æнæзæнæджыхос)</i>
-- <u>Orenburzhie - Regional Special:</u> Tulipa Schrenkii <i>(Тюльпан Шренка)</i>
+<b>💐 National flower: </b> Chamomile <i>(Ромашка Обыкновенная)</i><br>
+<u>Bashkortostan - Regional Special:</u> 
+- Pleurospermum Uralense <i>(Реброплодник Уральский / Ҡурай Сәскәһе)</i><br>
+<u>Karachay-Cherkessia - Regional Special:</u> 
+- Caucasian Rhododendron <i>(Рододендрон Кавказский)</i><br>
+<u>North Ossetia - Regional Special:</u> 
+- Military Orchid <i>(Ятрышник / Æнæзæнæджыхос)</i><br>
+<u>Orenburzhie - Regional Special:</u> 
+- Tulipa Schrenkii <i>(Тюльпан Шренка)</i>
 
 
 <b>🦉 Local wisdom:</b> "Without effort, one wouldn’t even get a fish out of a pond." / <i>"Без труда не выловишь и рыбку из пруда."</i> — Russian proverb

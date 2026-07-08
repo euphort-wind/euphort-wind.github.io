@@ -145,8 +145,9 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Portugal National Day <i>(Dia de Portugal, de Camões e das Comunidades Portuguesas)</i>. Month: June
-- Freedom Day of Portugal <i>(Dia da Liberdade)</i>. Month: April
-- <u>Lisbon - Regional Special:</u> Saint Anthony Festival in Lisbon <i>(Festa de Santo António em Lisboa)</i>. Month: May to June
+- Freedom Day of Portugal <i>(Dia da Liberdade)</i>. Month: April<br>
+<u>Lisbon - Regional Special:</u> 
+- Saint Anthony Festival in Lisbon <i>(Festa de Santo António em Lisboa)</i>. Month: May to June
 
 
 <b>💐 National flower: </b> [unofficially] Lavender Cotton <i>(Abrótano-Fêmea)</i>

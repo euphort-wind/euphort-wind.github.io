@@ -389,20 +389,30 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 <b>🎊 Authentic holidays & celebrations:</b>
 - National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June
 - Midsummer <i>(Midsommar)</i>. Month: June
-- Crayfish Party <i>(Kräftskiva)</i>. Month: August
-- <u>Gotland - Regional Special:</u> Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August
-- <u>Västra Götaland - Regional Special:</u> Alingsås Potatisfestivalen <i>(Potatisfestivalen)</i>. Month: June
+- Crayfish Party <i>(Kräftskiva)</i>. Month: August<br>
+<u>Gotland - Regional Special:</u> 
+- Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August<br>
+<u>Västra Götaland - Regional Special:</u> 
+- Alingsås Potatisfestivalen <i>(Potatisfestivalen)</i>. Month: June
 
 
-<b>💐 National flower: </b> Harebell <i>(Liten Blåklocka)</i>
-- <u>Västra Götaland - Regional Special:</u> Common Heather <i>(Ljung)</i>
-- <u>Västernorrland - Regional Special:</u> Globeflower <i>(Smörboll)</i>
-- <u>Gotland - Regional Special:</u> European Ivy <i>(Murgröna)</i>
-- <u>Halland - Regional Special:</u> Hairy Greenweed <i>(Hårginst)</i>
-- <u>Skåne - Regional Special:</u> Daisy <i>(Prästkrage)</i>
-- <u>Uppsala - Regional Special:</u> Lily of the Valley <i>(Kungsängslilja)</i>
-- <u>Jämtland - Regional Special:</u> Black Vanilla Orchid <i>(Brunkulla)</i>
-- <u>Värmland - Regional Special:</u> Arctic Starflower <i>(Skogsstjärna)</i>
+<b>💐 National flower: </b> Harebell <i>(Liten Blåklocka)</i><br>
+<u>Västra Götaland - Regional Special:</u> 
+- Common Heather <i>(Ljung)</i><br>
+<u>Västernorrland - Regional Special:</u> 
+- Globeflower <i>(Smörboll)</i><br>
+<u>Gotland - Regional Special:</u>
+- European Ivy <i>(Murgröna)</i><br>
+<u>Halland - Regional Special:</u> 
+- Hairy Greenweed <i>(Hårginst)</i><br>
+<u>Skåne - Regional Special:</u> 
+- Daisy <i>(Prästkrage)</i><br>
+<u>Uppsala - Regional Special:</u>
+- Lily of the Valley <i>(Kungsängslilja)</i><br>
+<u>Jämtland - Regional Special:</u> 
+- Black Vanilla Orchid <i>(Brunkulla)</i><br>
+<u>Värmland - Regional Special:</u> 
+- Arctic Starflower <i>(Skogsstjärna)</i><br>
 
 
 <b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece." / <i>"Den som gapar över mycket mister ofta hela stycket."</i> — Swedish proverb

@@ -91,8 +91,9 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - Heritage of Edom Kingdom <i>(𐤀𐤃𐤌 / مملكة إدوم)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Independence Day of Jordan <i>(الاستقلال)</i>. Month: May
-- <u>Ma'an - Regional Special:</u> Petra Cultural Festival <i>(مهرجان البترا الثقافي)</i>. Month: October
+- Independence Day of Jordan <i>(الاستقلال)</i>. Month: May<br>
+<u>Ma'an - Regional Special:</u> 
+- Petra Cultural Festival <i>(مهرجان البترا الثقافي)</i>. Month: October
 
 
 

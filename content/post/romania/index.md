@@ -191,11 +191,13 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Day of the Unification of the Romanian Principalities <i>(Ziua Unirii Principatelor Române)</i>. Month: January
 - Mărțișor <i>(Mărțișor)</i>. Month: March
 - Dragobete <i>(Dragobete)</i>. Month: February
-- International Romani Day <i>(Ziua Internațională a Romilor / Maśkarthemutno Rromenqo Dives)</i>. Month: April
-- <u>Brașov - Regional Special:</u> 
-- Junii Brașoveni <i>(Junii Brașoveni)</i>. Month: April
-- <u>Covasna - Regional Special:</u> Székely Freedom Day <i>(Ziua Libertății Secuilor/ Székely Szabadság Napja)</i>. Month: March
-- <u>Mureș - Regional Special:</u> Sighişoara Medieval Festival <i>(Festivalul Sighişoara Medievală)</i>. Month: July
+- International Romani Day <i>(Ziua Internațională a Romilor / Maśkarthemutno Rromenqo Dives)</i>. Month: April<br>
+<u>Brașov - Regional Special:</u> 
+- Junii Brașoveni <i>(Junii Brașoveni)</i>. Month: April<br>
+<u>Covasna - Regional Special:</u> 
+- Székely Freedom Day <i>(Ziua Libertății Secuilor/ Székely Szabadság Napja)</i>. Month: March<br>
+<u>Mureș - Regional Special:</u> 
+- Sighişoara Medieval Festival <i>(Festivalul Sighişoara Medievală)</i>. Month: July
 
 
 <b>💐 National flower: </b> Romanian Peony <i>(Bujor Românesc)</i>

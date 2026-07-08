@@ -152,13 +152,16 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 <b>🎊 Authentic holidays & celebrations:</b>
 - National Day of Spain <i>(Fiesta Nacional de España)</i>. Month: October
 - Constitution Day of Spain <i>(Día de la Constitución Española)</i>. Month: December
-- La Tomatina <i>(La Tomatina)</i>. Month: August
-- <u>Catalonia - Regional Special:</u> National Day of Catalonia <i>(Día de Cataluña / Diada Nacional de Catalunya)</i>. Month: September
-- <u>Catalonia - Regional Special:</u> La Mercè <i>(Fiestas de la Merced / La Mercè)</i>. Month: September
+- La Tomatina <i>(La Tomatina)</i>. Month: August<br>
+<u>Catalonia - Regional Special:</u> 
+- National Day of Catalonia <i>(Día de Cataluña / Diada Nacional de Catalunya)</i>. Month: September<br>
+<u>Catalonia - Regional Special:</u> 
+- La Mercè <i>(Fiestas de la Merced / La Mercè)</i>. Month: September
 
 
-<b>💐 National flower: </b> Red Carnation <i>(Clavel Rojo)</i>
-- <u>Catalonia - Regional Special:</u> Weaver's Broom <i>(Retama / Ginesta)</i>
+<b>💐 National flower: </b> Red Carnation <i>(Clavel Rojo)</i><br>
+<u>Catalonia - Regional Special:</u> 
+- Weaver's Broom <i>(Retama / Ginesta)</i>
 
 
 <b>🦉 Local wisdom:</b> "Even if a monkey dresses in silk, it remains a monkey." / <i>"Aunque la mona se vista de seda, mona se queda."</i> —  Spanish proverb

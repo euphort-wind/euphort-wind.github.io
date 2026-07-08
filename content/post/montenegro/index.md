@@ -136,9 +136,10 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day <i>(Дан Независности)</i>. Month: May 
 - Statehood Day <i>(Дан Државности)</i>. Month: July
-- Njegoš Day <i>(Његошев Дан)</i>. Month: November
-- <u>Coastal Montenegro - Regional Special:</u> Bokeljska Night <i>(Бокељска Ноћ)</i>
-- <u>Coastal Montenegro - Regional Special:</u> Fašinada <i>(Фашинада)</i>
+- Njegoš Day <i>(Његошев Дан)</i>. Month: November<br>
+<u>Coastal Montenegro - Regional Special:</u> 
+- Bokeljska Night <i>(Бокељска Ноћ)</i>
+- Fašinada <i>(Фашинада)</i>
 
 
 <b>💐 National flower: </b> Mimosa Pudica <i>(Мимоза)</i>

@@ -165,10 +165,13 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 <b>🎊 Authentic holidays & celebrations:</b>
 - Norwegian Constitution Day <i>(Syttende Mai)</i>. Month: May
 - Russefeiring <i>(Russefeiring)</i>. Month: April to May
-- Olsok <i>(Olsok)</i>. Month: July
-- <u>Vestland - Regional Special:</u> Bergen International Festival <i>(Festspillene i Bergen)</i>. Month: May to June
-- <u>Vestfold - Regional Special:</u> Midgard Viking Festival <i>(Midgard Vikingfestival)</i>. Month: July 
-- <u>Oslo-City - Regional Special:</u> Oslo Medieval Festival <i>(Oslo Middelalderfestival)</i>. Month: May to June 
+- Olsok <i>(Olsok)</i>. Month: July<br>
+<u>Vestland - Regional Special:</u> 
+- Bergen International Festival <i>(Festspillene i Bergen)</i>. Month: May to June<br>
+<u>Vestfold - Regional Special:</u> 
+- Midgard Viking Festival <i>(Midgard Vikingfestival)</i>. Month: July<br> 
+<u>Oslo-City - Regional Special:</u> 
+- Oslo Medieval Festival <i>(Oslo Middelalderfestival)</i>. Month: May to June 
 
 
 <b>💐 National flower: </b> Pyramidal Saxifrage <i>(Bergfrue)</i>

@@ -229,13 +229,16 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
  
 <b>🎊 Authentic holidays & celebrations:</b>
 - King's Day <i>(Koningsdag)</i>. Month: April
-- Sinterklaas Feast <i>(Sinterklaas)</i>. Month: December
-- <u>South Holland - Regional Special:</u> 3 October Festival <i>(Leidens Ontzet)</i>. Month: October
-- <u>Friesland - Regional Special:</u> Elfstedentocht Event <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February 
+- Sinterklaas Feast <i>(Sinterklaas)</i>. Month: December<br>
+<u>South Holland - Regional Special:</u> 
+- 3 October Festival <i>(Leidens Ontzet)</i>. Month: October<br>
+<u>Friesland - Regional Special:</u> 
+- Elfstedentocht Event <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February 
 
 
-<b>💐 National flower: </b> [historically] Tulip <i>(Tulp)</i> & [officially] Daisy <i>(Madeliefje)</i>
-- <u>Friesland - Regional Special:</u> Fringed Water-Lily <i>(Pompeblêd)</i>
+<b>💐 National flower: </b> [historically] Tulip <i>(Tulp)</i> & [officially] Daisy <i>(Madeliefje)</i><br>
+<u>Friesland - Regional Special:</u> 
+- Fringed Water-Lily <i>(Pompeblêd)</i>
 
 
 <b>🦉 Local wisdom:</b> "Don't throw away your old shoes until you have got new ones." / <i>"Gooi nooit oude schoenen weg voordat je nieuwe hebt."</i> — Dutch proverb

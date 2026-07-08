@@ -156,12 +156,14 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - Independence Day of Poland <i>(Narodowe Święto Niepodległości)</i>. Month: November
 - Third May Constitution Day <i>(Święto Konstytucji 3 Maja)</i>. Month: May
 - Dożynki <i>(Dożynki)</i>. Month: August
-- Wigilia <i>(Wigilia Bożego Narodzenia)</i>. Month: December
-- <u>Pomeranian - Regional Special:</u> Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March 
+- Wigilia <i>(Wigilia Bożego Narodzenia)</i>. Month: December<br>
+<u>Pomeranian - Regional Special:</u> 
+- Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March 
 
 
-<b>💐 National flower: </b> Red Poppy <i>(Mak Polny)</i>
-- <u>Pomeranian - Regional Special:</u> Kashubian Vetch <i>(Wyka Kaszubska / Kaszëbskô Wika)</i>
+<b>💐 National flower: </b> Red Poppy <i>(Mak Polny)</i><br>
+<u>Pomeranian - Regional Special:</u> 
+- Kashubian Vetch <i>(Wyka Kaszubska / Kaszëbskô Wika)</i>
 
 <b>🦉 Local wisdom:</b> "The turkey had a plan for Sunday, but it was eaten on Saturday." / <i>"Indyk myślał o niedzieli, a w sobotę łeb mu ścięli."</i> — Polish proverb
 
