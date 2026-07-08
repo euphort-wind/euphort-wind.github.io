@@ -243,19 +243,19 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🍶 Limoncello <i>(Brand: "Pallini")</i> 
 - 🍶 Vermouth <i>(Brand: "Martini")</i> 
 - 🍶 Italian Liqueur <i>(Brands: "Campari", "Aperol")</i> 
-- <u>Lazio - Regional Special:</u> 
-  - 🥘 Pasta Carbonara <i>(Pasta alla Carbonara)</i>
-  - 🥘 Fettuccine Alfredo <i>(Fettuccine Alfredo)</i>
-  - 🥘 Saltimbocca <i>(Saltimbocca)</i>
-- <u>Emilia-Romagna - Regional Special:</u> 
-  - 🥘 Ragù alla Bolognese <i>(Ragù alla Bolognese / Ragó)</i>
-  - 🥘 Lasagna <i>(Lasagna / Lasagna)</i>
-  - 🥘 Tortelli <i>(Tortelli / Tortelli)</i>
-  - 🍰 Torta di Riso <i>(Torta di Riso / Torta degli Addobbi)</i>
-- <u>Tuscany - Regional Special:</u>
-  - 🥗 Panzanella <i>(Panzanella)</i>
-  - 🍲 Ribollita <i>(Ribollita)</i>
-  - 🥘 Florentine Steak <i>(Bistecca alla Fiorentina)</i>
+<u>Lazio - Regional Special:</u> 
+- 🥘 Pasta Carbonara <i>(Pasta alla Carbonara)</i>
+- 🥘 Fettuccine Alfredo <i>(Fettuccine Alfredo)</i>
+- 🥘 Saltimbocca <i>(Saltimbocca)</i>
+<u>Emilia-Romagna - Regional Special:</u> 
+- 🥘 Ragù alla Bolognese <i>(Ragù alla Bolognese / Ragó)</i>
+- 🥘 Lasagna <i>(Lasagna / Lasagna)</i>
+- 🥘 Tortelli <i>(Tortelli / Tortelli)</i>
+- 🍰 Torta di Riso <i>(Torta di Riso / Torta degli Addobbi)</i>
+<u>Tuscany - Regional Special:</u>
+- 🥗 Panzanella <i>(Panzanella)</i>
+- 🍲 Ribollita <i>(Ribollita)</i>
+- 🥘 Florentine Steak <i>(Bistecca alla Fiorentina)</i>
 - <u>Sicily (Regional Special):</u> Caponata <i>(Caponata / Capunata)</i>
 - <u>Sicily (Regional Special):</u> Panella <i>(Panella / Panella)</i>
 - <u>Sicily (Regional Special):</u> Pani câ Meusa <i>(Pane con Meusa / Pani câ Meusa)</i>
