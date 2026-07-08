@@ -172,12 +172,14 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Legacy of Dacians <i>(Dacii)</i>
 - Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
 - Heritage of the Principality of Transylvania <i>(Principatul Transilvaniei / Erdélyi Fejedelemség)</i>
-- Heritage of the Kingdom of Romania <i>(Regatul României)</i>
-- <u>Covasna - Regional Special:</u> Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
+- Heritage of the Kingdom of Romania <i>(Regatul României)</i><br>
+<u>Covasna - Regional Special:</u> 
+- Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
   - Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐲘𐳀𐳎𐳀𐳢 𐲢𐳛𐳮𐳁𐳤)</i>
   - Székely Gates <i>(Poartă Secuiască / Székelykapu)</i>
-  - Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i>
-- <u>Brașov - Regional Special:</u> Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
+  - Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i><br>
+<u>Brașov - Regional Special:</u> 
+- Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
   - Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
   - Königinnentanz Dance <i>(Dansul Reginelor / Königinnentanz)</i>
   - Authentic Garb: Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>

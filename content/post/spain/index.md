@@ -134,8 +134,9 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Authentic Garb: Mantilla & Traje de Luces <i>(Mantilla y Traje de Luces)</i>
 - Legacy of Iberians <i>(Íberos)</i>
 - Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
-- Heritage of the Spanish Republic <i>(República Española)</i>
-- <u>Catalonia - Regional Special:</u> Culture of Catalans <i>(Catalanes / Catalans)</i>
+- Heritage of the Spanish Republic <i>(República Española)</i><br>
+<u>Catalonia - Regional Special:</u> 
+- Culture of Catalans <i>(Catalanes / Catalans)</i>
   - Authentic Concept: Seny <i>(Seny / Seny)</i>
   - Sardana Dance <i>(Sardana / Sardana)</i>
   - Patacó Game <i>(Patacó / Patacó)</i>
@@ -145,7 +146,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - Catalan Art Nouveau Architecture <i>(Modernismo Catalán / Modernisme Català)</i>
   - Authentic Garb: Espadrilles & Barretina <i>(Alpargatas y Barretina / Espardenyes i Barretina)</i>
   - Authentic Musical Instrument: Flabiol <i>(Flabiol / Flabiol)</i>
-  - Heritage of the Principality of Catalonia <i>(Principado de Cataluña / Principat de Catalunya)</i>
+- Heritage of the Principality of Catalonia <i>(Principado de Cataluña / Principat de Catalunya)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

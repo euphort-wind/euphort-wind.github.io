@@ -177,10 +177,13 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - Authentic Musical Instrument: Bağlama <i>(Bağlama)</i> 
 - Authentic Garb: Shalvar & Yelek <i>(Şalvar ve Yelek)</i>
 - Heritage of the Byzantine Empire <i>(Bizans İmparatorluğu / Imperium Romanum Orientale)</i>
-- Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i>
-- <u>İstanbul - Regional Special:</u> Istanbul Feral Cats <i>(Sokak Kedisi)</i>
-- <u>Antalya - Regional Special:</u> Düğmeli Houses <i>(Düğmeli Evler)</i>
-- <u>Muğla - Regional Special:</u> Heritage of Lycia <i>(Likya / 𐊗𐊕𐊐𐊎𐊆𐊖)</i>
+- Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i><br>
+<u>İstanbul - Regional Special:</u> 
+- Istanbul Feral Cats <i>(Sokak Kedisi)</i><br>
+<u>Antalya - Regional Special:</u> 
+- Düğmeli Houses <i>(Düğmeli Evler)</i><br>
+<u>Muğla - Regional Special:</u> 
+- Heritage of Lycia <i>(Likya / 𐊗𐊕𐊐𐊎𐊆𐊖)</i>
 
 
 

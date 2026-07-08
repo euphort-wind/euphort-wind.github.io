@@ -210,11 +210,14 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
   - Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
   - Title of Stadtholder <i>(Stadhouder)</i>
   - Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
-  - Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i>
-- <u>Utrecht - Regional Special:</u> De Stijl Architecture <i>(De Stijl Architectuur)</i>
-- <u>South Holland - Regional Special:</u> Wall Poems in Leiden <i>(Muurgedichten in Leiden)</i>
-- <u>South Holland - Regional Special:</u> Delftware <i>(Delfts Blauw)</i>
-- <u>Friesland - Regional Special:</u> Culture of Frisians <i>(Friezen / Friezen)</i>
+  - Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i><br>
+<u>Utrecht - Regional Special:</u> 
+- De Stijl Architecture <i>(De Stijl Architectuur)</i><br>
+<u>South Holland - Regional Special:</u> 
+- Wall Poems in Leiden <i>(Muurgedichten in Leiden)</i>
+- Delftware <i>(Delfts Blauw)</i><br>
+<u>Friesland - Regional Special:</u> 
+- Culture of Frisians <i>(Friezen / Friezen)</i>
   - Authentic Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
   - Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
   - Fierljeppen Sport <i>(Polsstokverspringen / Fierljeppen)</i> 

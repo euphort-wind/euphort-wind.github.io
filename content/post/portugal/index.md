@@ -138,8 +138,9 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - Portuguese Folklore <i>(Folclore de Portugal)</i> 
 - Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>   
 - Authentic Garb: Portuguese Traje <i>(Traje Típico Português)</i>
-- Heritage of the Portuguese Empire <i>(Império Português)</i>
-- <u>Lisbon - Regional Special:</u> Lisbon Historic Trams <i>(Brand: "Remodelados")</i>
+- Heritage of the Portuguese Empire <i>(Império Português)</i><br>
+<u>Lisbon - Regional Special:</u> 
+- Lisbon Historic Trams <i>(Brand: "Remodelados")</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
