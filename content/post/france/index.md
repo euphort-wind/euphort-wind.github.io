@@ -138,102 +138,106 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 
 
 <b>🍽️ Local food & drinks: </b>
-- Poireaux Vinaigrette <i>(Poireaux Vinaigrette)</i>
-- Terrine <i>(Terrine)</i>
-- Foie Gras <i>(Foie Gras)</i>
-- Steak Tartare <i>(Steak Tartare)</i>
-- French Egg Dishes <i>(Plats Français à Base d'Œufs)</i>
-    - Omelette <i>(Omelette)</i>
-    - Oeuf Mayonnaise <i>(Œuf Mayonnaise)</i>
-    - Poached Egg <i>(Œuf Poché)</i>
-- French Onion Soup <i>(Soupe à l’Oignon)</i>
-- Bouillabaisse <i>(Bouillabaisse)</i>
-- Quiche Lorraine <i>(Quiche Lorraine)</i>
-- Croque Monsieur <i>(Croque Monsieur)</i>
-- Croque Madame <i>(Croque Madame)</i>
-- French Toast <i>(Pain Perdu)</i>
-- Escargots in Tomato Sauce <i>(Escargot à la Tomate)</i>
-- Escargots de Bourgogne <i>(Escargot de Bourgogne)</i> 
-- Ratatouille <i>(Ratatouille)</i>
-- Gratin Dauphinois <i>(Gratin Dauphinois)</i>
-- Anna Potatoes <i>(Pommes Anna)</i>
-- Tartiflette <i>(Tartiflette)</i>
-- French Frog Legs <i>(Cuisses de Grenouille)</i>
-- Coq au Vin <i>(Coq au Vin)</i>
-- Magret de Canard <i>(Magret de Canard)</i>
-- Duck Confit <i>(Confit de Canard)</i>
-- Fricassee <i>(Fricassée)</i>
-- Beef Bourguignon <i>(Bœuf Bourguignon)</i>
-- Ragout <i>(Ragout)</i>
-- Navarin <i>(Navarin)</i>
-- Crème Brûlée <i>(Crème Brûlée)</i>
-- Crème Caramel <i>(Crème Caramel)</i>
-- Éclair <i>(Éclair)</i>
-- Profiterole <i>(Profiterole)</i>
-- Meringue <i>(Meringue)</i>
-- Macaron <i>(Macaron)</i>
-- Chocolate Mousse <i>(Mousse au Chocolat)</i>
-- Crêpe <i>(Crêpe)</i>
-- Molten Chocolate Cake <i>(Mi-Cuit au Chocolat)</i>
-- Vanilla Soufflé <i>(Soufflé à la Vanille)</i>
-- Rum Baba <i>(Baba au Rhum)</i>
-- Lemon Tart <i>(Tarte au Citron)</i>
-- Mille-Feuille <i>(Mille-Feuille)</i>
-- French Viennoiseries <i>(Viennoiserie Française)</i>
-    - Croissant <i>(Croissant)</i>
-    - Brioche <i>(Brioche)</i>
-    - Pain aux Raisins <i>(Pain aux Raisin)</i>
-    - Pain au Chocolat <i>(Pain au Chocolat)</i>
-    - Chausson aux Pommes <i>(Chausson aux Pommes)</i>
-- French Cheese <i>(Fromages Français)</i>
-    - Époisses <i>(Époisses)</i>
-    - Camembert <i>(Camembert)</i>
-    - Roquefort <i>(Roquefort)</i>
-    - Brie <i>(Brie)</i>
-    - Comté Cheese <i>(Comté)</i>
-    - Maroilles Cheese <i>(Maroilles)</i>
-    - Livarot Cheese <i>(Livarot)</i>
-    - Saint-Nectaire <i>(Saint-Nectaire)</i>
-    - Bleu d'Auvergne <i>(Bleu d'Auvergne)</i>
-    - Fourme d'Ambert <i>(Fourme d'Ambert)</i>
-    - Crottin de Chavignol <i>(Crottin de Chavignol)</i>
-    - Chaumes <i>(Chaumes)</i>
-    - Saint Albray <i>(Saint Albray)</i>
-    - Pont-l'Évêque Cheese <i>(Pont-l'Évêque)</i>
-    - Mimolette <i>(Mimolette)</i>
-    - Langres Cheese <i>(Langres)</i>
-    - Tomme <i>(Tomme)</i>
-    - Morbier <i>(Morbier)</i>
-- French Sauces <i>(Sauces Françaises)</i>
-    - Mayonnaise <i>(Mayonnaise)</i>
-    - Hollandaise <i>(Sauce Hollandaise)</i>
-    - Béchamel <i>(Sauce Béchamel)</i>
-    - Remoulade <i>(Rémoulade)</i>
-    - Béarnaise <i>(Sauce Béarnaise)</i>
-    - Aioli <i>(Aïoli)</i>
-    - Demi-Glace <i>(Sauce Demi-Glace)</i>
-    - Tartar Sauce <i>(Sauce Tartare)</i>
-    - Beurre Noisette <i>(Beurre Noisette)</i>
-    - Beurre Blanc <i>(Beurre Blanc)</i>
-    - Dijon Mustard <i>(Moutarde de Dijon)</i>
-    - Sauce Vierge <i>(Sauce Vierge)</i>
-- Baguette <i>(Baguette)</i>
-- Vol-au-Vent <i>(Vol-au-Vent)</i>
-- Crouton <i>(Croûton)</i>
-- Cognac <i>(Brands: "Courvoisier VS", "Hennessy XO", "Rémy Martin VSOP")</i> 
-- Calvados <i>(Brand: "Anée Cuvée des Capucins")</i> 
-- Champagne Wine <i>(Brand: "Dom Pérignon Blanc", "Moët & Chandon Brut Impérial")</i> 
-- <u>Île-de-France (Regional Special):</u> Jambon-Beurre Sandwich <i>(Jambon-Beurre)</i>
-- <u>Île-de-France (Regional Special):</u> Hachis Parmentier <i>(Hachis Parmentier)</i>
-- <u>Île-de-France (Regional Special):</u> Paris-Brest <i>(Paris-Brest)</i>
-- <u>Île-de-France (Regional Special):</u> Flan Pâtissier <i>(Flan Pâtissier)</i>
-- <u>Occitania (Regional Special):</u> Farçous <i>(Farçous / Farsou)</i>
-- <u>Occitania (Regional Special):</u> Aligot <i>(Aligot / Aligòt)</i>
-- <u>Occitania (Regional Special):</u> Cassoulet <i>(Cassoulet / Cassolada)</i>
-- <u>Occitania (Regional Special):</u> Saucisse de Toulouse <i>(Saucisse de Toulouse / Salsissa de Tolosa)</i>
-- <u>Occitania (Regional Special):</u> Alicot <i>(Alicot / Alicuit)</i>
-- <u>Occitania (Regional Special):</u> Croustade <i>(Croustade / Crostada)</i>
-- <u>Occitania (Regional Special):</u> Fénétra <i>(Fénétra / Fénétra)</i>
+- 🥗 Poireaux Vinaigrette <i>(Poireaux Vinaigrette)</i>
+- 🥗 Terrine <i>(Terrine)</i>
+- 🥗 Foie Gras <i>(Foie Gras)</i>
+- 🥗 Steak Tartare <i>(Steak Tartare)</i>
+- 🥗 French Egg Dishes <i>(Plats Français à Base d'Œufs)</i>
+    - 🥗 Omelette <i>(Omelette)</i>
+    - 🥗 Oeuf Mayonnaise <i>(Œuf Mayonnaise)</i>
+    - 🥗 Poached Egg <i>(Œuf Poché)</i>
+- 🥙 Quiche Lorraine <i>(Quiche Lorraine)</i>
+- 🥙 Croque Monsieur <i>(Croque Monsieur)</i>
+- 🥙 Croque Madame <i>(Croque Madame)</i>
+- 🥙 French Toast <i>(Pain Perdu)</i>
+- 🍲 French Onion Soup <i>(Soupe à l’Oignon)</i>
+- 🍲 Bouillabaisse <i>(Bouillabaisse)</i>
+- 🥘 Escargots in Tomato Sauce <i>(Escargot à la Tomate)</i>
+- 🥘 Escargots de Bourgogne <i>(Escargot de Bourgogne)</i> 
+- 🥘 Ratatouille <i>(Ratatouille)</i>
+- 🥘 Gratin Dauphinois <i>(Gratin Dauphinois)</i>
+- 🥘 Anna Potatoes <i>(Pommes Anna)</i>
+- 🥘 Tartiflette <i>(Tartiflette)</i>
+- 🥘 French Frog Legs <i>(Cuisses de Grenouille)</i>
+- 🥘 Coq au Vin <i>(Coq au Vin)</i>
+- 🥘 Magret de Canard <i>(Magret de Canard)</i>
+- 🥘 Duck Confit <i>(Confit de Canard)</i>
+- 🥘 Fricassee <i>(Fricassée)</i>
+- 🥘 Beef Bourguignon <i>(Bœuf Bourguignon)</i>
+- 🥘 Ragout <i>(Ragout)</i>
+- 🥘 Navarin <i>(Navarin)</i>
+- 🍰 Crème Brûlée <i>(Crème Brûlée)</i>
+- 🍰 Crème Caramel <i>(Crème Caramel)</i>
+- 🍰 Éclair <i>(Éclair)</i>
+- 🍰 Profiterole <i>(Profiterole)</i>
+- 🍰 Meringue <i>(Meringue)</i>
+- 🍰 Macaron <i>(Macaron)</i>
+- 🍰 Chocolate Mousse <i>(Mousse au Chocolat)</i>
+- 🍰 Crêpe <i>(Crêpe)</i>
+- 🍰 Molten Chocolate Cake <i>(Mi-Cuit au Chocolat)</i>
+- 🍰 Vanilla Soufflé <i>(Soufflé à la Vanille)</i>
+- 🍰 Rum Baba <i>(Baba au Rhum)</i>
+- 🍰 Lemon Tart <i>(Tarte au Citron)</i>
+- 🍰 Mille-Feuille <i>(Mille-Feuille)</i>
+- 🍰 French Viennoiseries <i>(Viennoiserie Française)</i>
+    - 🍰 Croissant <i>(Croissant)</i>
+    - 🍰 Brioche <i>(Brioche)</i>
+    - 🍰 Pain aux Raisins <i>(Pain aux Raisin)</i>
+    - 🍰 Pain au Chocolat <i>(Pain au Chocolat)</i>
+    - 🍰 Chausson aux Pommes <i>(Chausson aux Pommes)</i>
+- 🧀 French Cheese <i>(Fromages Français)</i>
+    - 🧀 Époisses <i>(Époisses)</i>
+    - 🧀 Camembert <i>(Camembert)</i>
+    - 🧀 Roquefort <i>(Roquefort)</i>
+    - 🧀 Brie <i>(Brie)</i>
+    - 🧀 Comté Cheese <i>(Comté)</i>
+    - 🧀 Maroilles Cheese <i>(Maroilles)</i>
+    - 🧀 Livarot Cheese <i>(Livarot)</i>
+    - 🧀 Saint-Nectaire <i>(Saint-Nectaire)</i>
+    - 🧀 Bleu d'Auvergne <i>(Bleu d'Auvergne)</i>
+    - 🧀 Fourme d'Ambert <i>(Fourme d'Ambert)</i>
+    - 🧀 Crottin de Chavignol <i>(Crottin de Chavignol)</i>
+    - 🧀 Chaumes <i>(Chaumes)</i>
+    - 🧀 Saint Albray <i>(Saint Albray)</i>
+    - 🧀 Pont-l'Évêque Cheese <i>(Pont-l'Évêque)</i>
+    - 🧀 Mimolette <i>(Mimolette)</i>
+    - 🧀 Langres Cheese <i>(Langres)</i>
+    - 🧀 Tomme <i>(Tomme)</i>
+    - 🧀 Morbier <i>(Morbier)</i>
+- 🥫 French Sauces <i>(Sauces Françaises)</i>
+    - 🥫  Mayonnaise <i>(Mayonnaise)</i>
+    - 🥫  Hollandaise <i>(Sauce Hollandaise)</i>
+    - 🥫  Béchamel <i>(Sauce Béchamel)</i>
+    - 🥫  Remoulade <i>(Rémoulade)</i>
+    - 🥫  Béarnaise <i>(Sauce Béarnaise)</i>
+    - 🥫  Aioli <i>(Aïoli)</i>
+    - 🥫  Demi-Glace <i>(Sauce Demi-Glace)</i>
+    - 🥫  Tartar Sauce <i>(Sauce Tartare)</i>
+    - 🥫  Beurre Noisette <i>(Beurre Noisette)</i>
+    - 🥫  Beurre Blanc <i>(Beurre Blanc)</i>
+    - 🥫  Dijon Mustard <i>(Moutarde de Dijon)</i>
+    - 🥫  Sauce Vierge <i>(Sauce Vierge)</i>
+- 🫓 Baguette <i>(Baguette)</i>
+- 🫓 Vol-au-Vent <i>(Vol-au-Vent)</i>
+- 🫓 Crouton <i>(Croûton)</i>
+- 🍶 Cognac <i>(Brands: "Courvoisier VS", "Hennessy XO", "Rémy Martin VSOP")</i> 
+- 🍶 Calvados <i>(Brand: "Anée Cuvée des Capucins")</i> 
+- 🍶 Champagne Wine <i>(Brand: "Dom Pérignon Blanc", "Moët & Chandon Brut Impérial")</i> 
+</br>
+<u>Île-de-France - Regional Special:</u> 
+- 🥙 Jambon-Beurre Sandwich <i>(Jambon-Beurre)</i>
+- 🥘 Hachis Parmentier <i>(Hachis Parmentier)</i>
+- 🍰 Paris-Brest <i>(Paris-Brest)</i>
+- 🍰 Flan Pâtissier <i>(Flan Pâtissier)</i>
+</br>
+<u>Occitania - Regional Special:</u> 
+- 🥘 Farçous <i>(Farçous / Farsou)</i>
+- 🥘 Aligot <i>(Aligot / Aligòt)</i>
+- 🥘Cassoulet <i>(Cassoulet / Cassolada)</i>
+- 🥘 Saucisse de Toulouse <i>(Saucisse de Toulouse / Salsissa de Tolosa)</i>
+- 🥘 Alicot <i>(Alicot / Alicuit)</i>
+- 🍰 Croustade <i>(Croustade / Crostada)</i>
+- 🍰 Fénétra <i>(Fénétra / Fénétra)</i>
 
 
 <b>🎬 Local movies:</b>
