@@ -139,13 +139,15 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
   - Authentic Musical Instrument: Doedelzak <i>(Doedelzak)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- National Day of Belgium <i>(Fête Nationale Belge / Nationale Feestdag van België)</i>. Month: July
-- <u>Flanders - Regional Special:</u> Flemish Community Day <i>(Feestdag van de Vlaamse Gemeenschap)</i>. Month: July 
-- <u>Flanders - Regional Special:</u> Carnival of Aalst <i>(Aalst Carnaval / Oilsjt Carnaval)</i>. Month: February or March
+- National Day of Belgium <i>(Fête Nationale Belge / Nationale Feestdag van België)</i>. Month: July<br>
+<u>Flanders - Regional Special:</u> 
+- Flemish Community Day <i>(Feestdag van de Vlaamse Gemeenschap)</i>. Month: July 
+- Carnival of Aalst <i>(Aalst Carnaval / Oilsjt Carnaval)</i>. Month: February or March
 
 
-<b>💐 National flower: </b> Red Poppy <i>(Coquelicot Rouge / Rode Klaproos)</i>
-- <u>Brussels-Capital - Regional Special:</u> Yellow Iris <i>(Iris Jaune / Gele Lis)</i>
+<b>💐 National flower: </b> Red Poppy <i>(Coquelicot Rouge / Rode Klaproos)</i><br>
+<u>Brussels-Capital - Regional Special:</u> 
+- Yellow Iris <i>(Iris Jaune / Gele Lis)</i>
 
 
 <b>🦉 Local wisdom:</b> "If you want butter, you have to beat it." / <i>"Si tu veux du beurre, il en faut battre. / Als je boter wilt, moet je het kloppen."</i> — Belgian proverb
