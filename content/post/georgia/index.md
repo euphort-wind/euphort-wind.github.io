@@ -128,7 +128,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - 🍶 Georgian Lemonades <i>(Brands: "Natakhtari Cream Soda", "Kazbegi Tarkhuna", etc.)</i> 
 - 🍶 Georgian Wine <i>(Brands: "Keburia Rkatsiteli", "Khareba Rkatsiteli", "GRW Saperavi", "Duruji Valley Kisi Qvevri", "Dugladze Mukuzani", "Duruji Valley Kindzmarauli", Kakhetian Home-Made Kindzmarauli, etc.)</i> 
 - 🍶 Georgian Chacha <i>(Brands: "Askaneli Brothers Chacha", Georgian Home-Made Chacha, etc.)</i> 
-<\br>
+</br>
 <u>Kakheti - Regional Special:</u> 
 - 🍲 Kakhetian Khashlama <i>(ხაშლამა)</i>
 - 🥘 Chakapuli <i>(ჩაქაფული)</i>

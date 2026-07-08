@@ -94,7 +94,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - 🍰 Tinginys <i>(Tinginys)</i>
 - 🫓 Kepta Duona <i>(Kepta Duona)</i>
 - 🍶 Lithuanian Beer <i>(Brand: "Kalnapilis")</i>
-<\br> 
+</br> 
 <u>Vilnius - Regional Special:</u> 
 - 🥙 Karaite Kibinai <i>(Kibinai / Kybynlar)</i>
 

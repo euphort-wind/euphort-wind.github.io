@@ -146,14 +146,14 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - 🍶 Şalgam Drink <i>(Şalgam Suyu)</i>
 - 🍶 Ayran Drink <i>(Ayran)</i>
 - 🍶 Turkish Raki <i>(Brand: "Yeni Rakı")</i>
-<\br>
+</br>
 <u>İstanbul - Regional Special:</u>
 - 🥙 Balık Ekmek <i>(Balık Ekmek)</i>
 - 🥘 Arnavut Ciğeri <i>(Arnavut Ciğeri)</i>
-<\br>
+</br>
 <u>Antalya - Regional Special:</u> 
 - 🥘 Shish Kofta <i>(Şiş Köfte)</i>
-<\br>
+</br>
 <u>Muğla - Regional Special:</u> 
 - 🥘 Çökertme Kebabı <i>(Çökertme Kebabı)</i>
 

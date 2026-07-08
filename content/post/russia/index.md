@@ -258,12 +258,12 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🍶 Baked Milk <i>(Топлёное Молоко)</i> 
 - 🍶 Russian Draft Beer <i>(Brand: "Sladovar")</i> 
 - 🍶 Russian Vodka <i>(Brands: "Derevenka", "Tsarskaya")</i> 
-<\br>
+</br>
 <u>Bashkortostan - Regional Special:</u> 
 - 🥙 Bashkir Uchpuchmak <i>(Эчпочмак / Өсбосмаҡ)</i>
 - 🥙 Peremech <i>(Беляш / Бәрәмес)</i>
 - 🍰 Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
-<\br>
+</br>
 <u>Kabardino-Balkaria - Regional Special:</u> 
 - 🥙Balkar Khychin <i>(Хычин / Хычин)</i>
     - 🥙 Khychin with Meat <i>(Хычин c Мясом / Эт Хычин)</i>
@@ -271,12 +271,12 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🥙 Khychin with Beet Leaves <i>(Хычин c Листьями Свёклы / Чюгюндюр Хычин)</i> 
     - 🥙 Khychin with Liver <i>(Хычин c Ливером / Ындыр Хычин)</i> 
 - 🧀 Balkar Cheese <i>(Балкарский Cыр / Бишлакъ)</i>
-<\br>
+</br>
 <u>Karachay-Cherkessia - Regional Special:</u>
 - 🥙 Circassian Khalyuzh <i>(Халюж / Хьалыжъо)</i>
 - 🥘 Circassian Libzhe <i>(Либжа / Либжэ)</i>
 - 🥘 Circassian Lyagur <i>(Лягур / Лягур)</i>
-<\br>
+</br>
 <u>North Ossetia - Regional Special:</u>
 - 🥙 Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
     - 🥙 Ossetian Pie with Cheese <i>(Осетинский Пирог с Сыром / Уæлибæх)</i>

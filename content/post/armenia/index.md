@@ -110,28 +110,28 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 
 
 <b>🍽️ Local food & drinks: </b>
-- Matzoon <i>(մածուն)</i>
-- Armenian Soups <i>(Հայկական ապուրներ)</i>
-    - Spas <i>(Սպաս)</i>
-    - Putuk <i>(պուտուկ)</i>
-    - Krchik <i>(Քրչիկ)</i>
-    - Khash <i>(խաշ)</i>
-- Armenian Tolma <i>(Տոլմա)</i>
-- Arishta <i>(Արիշտա)</i>
-- Eetch <i>(Էտչ)</i>
-- Ailazan <i>(այլազան)</i>
-- Harisa <i>(հարիսա)</i>
-- Khorovats <i>(խորոված)</i>
-- Lula Kebab <i>(լուլա քյաբաբ)</i>
-- Armenian Khashlama <i>(Խաշլամա)</i>
-- Khurjin <i>(Խուրջին)</i>
-- Tjvjik <i>(տժվժիկ)</i>
+- 🍲 Armenian Soups <i>(Հայկական ապուրներ)</i>
+    - 🍲 Spas <i>(Սպաս)</i>
+    - 🍲 Putuk <i>(պուտուկ)</i>
+    - 🍲 Krchik <i>(Քրչիկ)</i>
+    - 🍲 Khash <i>(խաշ)</i>
+- 🥗 Armenian Tolma <i>(Տոլմա)</i>
+- 🥗 Eetch <i>(Էտչ)</i>
+- 🥗 Ailazan <i>(այլազան)</i>
+- 🥘 Harisa <i>(հարիսա)</i>
+- 🥘 Khorovats <i>(խորոված)</i>
+- 🥘 Arishta <i>(Արիշտա)</i>
+- 🥘 Lula Kebab <i>(լուլա քյաբաբ)</i>
+- 🥘 Armenian Khashlama <i>(Խաշլամա)</i>
+- 🥘 Khurjin <i>(Խուրջին)</i>
+- 🥘 Tjvjik <i>(տժվժիկ)</i>
 - Armenian Cheese <i>(Հայկական պանիրներ)</i>
     - Chanakh <i>(չանախ)</i>
     - Chechil <i>(Չեչիլ)</i>
     - Lori <i>(լոռի)</i>
     - Horats Panir <i>(հորած պանիր)</i>
 - Nazook <i>(Նազուկ)</i>
+- Matzoon <i>(մածուն)</i>
 - Gata <i>(գաթա)</i>
 - Sharots <i>(շարոց)</i>
 - Alani Dried Fruit <i>(ալանի)</i>

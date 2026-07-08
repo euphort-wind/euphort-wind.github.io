@@ -99,7 +99,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
   - 🧀 Oštiepok <i>(Oštiepok)</i>
   - 🧀 Parenica <i>(Parenica)</i>
 - 🍶 Borovička <i>(Brand: "Spišská")</i>
-<\br>
+</br>
 <u>Bratislava - Regional Special:</u> 
 - 🧀 Bratislavský Rožok <i>(Bratislavský Rožok)</i>
 

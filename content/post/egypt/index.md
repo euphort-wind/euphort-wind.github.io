@@ -65,12 +65,12 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 <b>🍽️ Local food & drinks: </b>
 - 🥗 Salata Baladi <i>(سلطة بلدي)</i>
 - 🥗 Besarah <i>(بصارة)</i>
-- 🥙 Falafel <i>(طعمية)</i>
 - 🥙 Gollash <i>(جلاش)</i>
 - 🥙 Hawawshi <i>(حواوشى)</i>
 - 🥙 Fatayer <i>(فطاير)</i>
 - 🥙 Feteer <i>(فطير)</i>
 - 🍲 Ful Nabet <i>(فول نابت)</i>
+- 🥘 Falafel <i>(طعمية)</i>
 - 🥘 Koshary <i>(كشري)</i>
 - 🥘 Ful Medames <i>(فول مدمس)</i>
 - 🥘 Koftet el Hati <i>(كفتة الحاتى)</i>

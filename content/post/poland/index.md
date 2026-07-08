@@ -116,7 +116,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🍰 Ptasie Mleczko <i>(Ptasie Mleczko)</i>
 - 🥫 Polonaise Sauce <i>(À la Polonaise)</i>
 - 🍶 Polish Bison Grass Vodka <i>(Brand: "Żubrówka")</i>
-<\br>
+</br>
 <u>Pomeranian - Regional Special:</u> 
 - 🍰 Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
 

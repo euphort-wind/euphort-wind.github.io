@@ -74,11 +74,11 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
 
 
 <b>🍽️ Local food & drinks: </b>
-- Ribel <i>(Ribel)</i>
-- Hafalaab <i>(Hafalaab)</i>
-- Käsknöpfle <i>(Käsknöpfle)</i>
-- Liechtensteiner Winzer Cheese <i>(Liechtensteiner Winzer Käse)</i>
-- Liechtensteiner Beer <i>(Brands: "Liechtensteiner Brauhaus")</i>
+- 🍲 Hafalaab <i>(Hafalaab)</i>
+- 🥘 Käsknöpfle <i>(Käsknöpfle)</i>
+- 🍰 Ribel <i>(Ribel)</i>
+- 🧀 Liechtensteiner Winzer Cheese <i>(Liechtensteiner Winzer Käse)</i>
+- 🍶 Liechtensteiner Beer <i>(Brands: "Liechtensteiner Brauhaus")</i>
 
 
 <b>🎬 Local movies:</b>

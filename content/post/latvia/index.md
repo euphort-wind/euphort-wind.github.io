@@ -85,7 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 - 🧀 Jāņi Cheese <i>(Jāņu Siers)</i>
 - 🫓 Latvian Black Bread <i>(Rupjmaize)</i>
 - 🍶 Latvian Balsam <i>(Brand: "Rīgas Melnais Balzams")</i>
-<\br>
+</br>
 <u>Riga - Regional Special:</u> 
 - 🥓 Riga Smoked Sprats <i>(Rīgas Šprotes)</i>
 

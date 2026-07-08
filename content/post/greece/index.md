@@ -119,12 +119,12 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🫓 Karydopita <i>(Καρυδόπιτα)</i>
 - 🍶 Frappé <i>(Φραπέ)</i>
 - 🍶 Greek Liqueur <i>(Brand: "Metaxa")</i>
-<\br>
+</br>
 <u>Crete - Regional Special:</u> 
 - 🥙 Dakos <i>(Ντάκος)</i>
 - 🥙 Kalitsounia <i>(Καλιτσούνια)</i>
 - 🥙 Sarikopites <i>(Σαρικόπιτες)</i>
-<\br>
+</br>
 <u>South Aegean - Regional Special:</u> 
 - 🥘 Pitaroudia <i>(Πιταρούδια)</i>
 - 🥘 Tomatokeftedes <i>(Τοματοκεφτέδες)</i>

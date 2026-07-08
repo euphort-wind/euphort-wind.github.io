@@ -137,11 +137,11 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🧀 Telemea Cheese <i>(Telemea)</i>
 - 🫓 Covrigi <i>(Covrigi)</i>
 - 🍶 Țuică <i>(Brand: "Vlad Țepeș")</i>
-<\br>
+</br>
 <u>Covasna - Regional Special:</u> 
 - 🥘 Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>
 - 🍰 Székely Kürtőskalács <i>(Cozonac Secuiesc / Kürtőskalács)</i>
-<\br>
+</br>
 <u>Brașov - Regional Special:</u> 
 - 🥘 Braşovence <i>(Clătite Brașovene / Braşovence)</i>
 - 🍰 Transylvanian Saxon Hanklich <i>(Hencleș Săsesc / Hanklich)</i>

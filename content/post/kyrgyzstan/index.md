@@ -90,7 +90,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - 🍶 Maksym Drink <i>(Brand: "Шоро Максым")</i>
 - 🍶 Chalap Drink <i>(Brand: "Шоро Чалап")</i>
 - 🍶 Aralash Drink <i>(Brand: "Шоро Аралаш")</i>
-<\br>
+</br>
 <u>Issyk-Kul - Regional Special:</u> 
 - 🍲 Ash-Lyanfu Soup <i>(Ашлян-Фу / Лен-Фын)</i>
 

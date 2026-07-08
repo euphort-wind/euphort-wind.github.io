@@ -101,7 +101,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - 🍰 Zhent <i>(Жент)</i>
 - 🫓 Tandyr Nan <i>(Тандыр Нан)</i>
 - 🫓 Shelpek <i>(Шелпек)</i>
-<\br>
+</br>
 <u>Mangystau - Regional Special:</u> 
 - 🍲 Beshbarmak with Sturgeon <i>(Фишбармақ)</i>
 

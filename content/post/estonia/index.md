@@ -87,10 +87,10 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - 🍰 Kohuke <i>(Kohuke)</i>
 - 🍰 Kama <i>(Kama)</i>
 - 🍰 Kirju Koer <i>(Kirju Koer)</i>
-<\br>
+</br>
 <u>Harju - Regional Special:</u> 
 - 🍰 Tallinn Marzipan <i>(Tallinna Martsipan)</i>
-<\br>
+</br>
 <u>Võru - Regional Special:</u> 
 - 🍲 Seto Cold Soup <i>(Seto Külmsupp / Suulliim)</i>
 - 🧀 Seto Sõir Cheese <i>(Seto Sõir / Seto Sõir)</i>

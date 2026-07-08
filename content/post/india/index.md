@@ -101,12 +101,12 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 🍰 Kheer <i>(खीर)</i>
 - 🍰 Mukhwas <i>(मुखवास)</i>
 - 🫓 Naan <i>(नान)</i>
-<\br>
+</br>
 <u>Karnataka - Regional Special:</u> 
 - 🥙 Masala Dosa <i>(मसाला डोसा / ಮಸಾಲೆ ದೋಸೆ)</i>
 - 🥘 Bisi Bele Bath <i>(बिसी बेले बाथ / ಬಿಸಿ ಬೇಳೆ ಭಾತ್)</i>
 - 🍰 Mysore Pak <i>(मैसूर पाक / ಮೈಸೂರು ಪಾಕ್)</i>
-<\br>
+</br>
 <u>Goa - Regional Special:</u> 
 - 🥘 Vindaloo <i>(विंदालू / विंदालू)</i>
 - 🥘 Goan Fish Curry <i>(गोवा मछली करी / हुमण)</i>
