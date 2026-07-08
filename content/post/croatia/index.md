@@ -105,21 +105,16 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - 🧀 Pag Cheese <i>(Paški Sir)</i>
 - 🍶 Maraskino <i>(Brand: "Perković")</i>
 - 🍶 Travarica <i>(Brand: "Velebit")</i>
-</br>
-<u>Zagreb - Regional Special:</u> 
+<br><u>Zagreb - Regional Special:</u> 
 - 🥘 Zagrebački Odrezak <i>(Zagrebački Odrezak)</i>
 - 🍰 Štrukli <i>(Štrukli)</i> 
-  - 🍰 Štrukli with Pumpkin Seeds <i>(Štrukli sa Bučinim Sjemenkama)</i>
-  - 🍰 Štrukli with Blueberries <i>(Štrukli s Borovnicama)</i>
-  - 🍰 Štrukli with Walnuts and Honey <i>(Štrukli s Orasima i Medom)</i> 
-<u>Zadar - Regional Special:</u> 
+<br><u>Zadar - Regional Special:</u> 
 - 🥘Buzara-Style Seafood <i>(Morski Plodovi na Buzaru)</i>
   - 🥘 Buzara-Style Scampi <i>(Škampi na Buzaru)</i>
   - 🥘 Buzara-Style Squids <i>(Lignje na Buzaru)</i>
   - 🥘 Buzara-Style Mussels <i>(Dagnje na Buzaru)</i>
 - 🍰 Zadarska Torta <i>(Zadarska Torta)</i>
-</br>
-<u>Dubrovnik-Neretva - Regional Special:</u>
+<br><u>Dubrovnik-Neretva - Regional Special:</u>
 - 🥘 Peka-Style Octopus <i>(Hobotnica ispod Peke)</i>
 - 🍰 Rožata <i>(Rožata)</i>
 
