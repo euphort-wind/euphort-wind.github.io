@@ -248,47 +248,55 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🥘 Pasta Carbonara <i>(Pasta alla Carbonara)</i>
 - 🥘 Fettuccine Alfredo <i>(Fettuccine Alfredo)</i>
 - 🥘 Saltimbocca <i>(Saltimbocca)</i>
+</br>
 <u>Emilia-Romagna - Regional Special:</u> 
 - 🥘 Ragù alla Bolognese <i>(Ragù alla Bolognese / Ragó)</i>
 - 🥘 Lasagna <i>(Lasagna / Lasagna)</i>
 - 🥘 Tortelli <i>(Tortelli / Tortelli)</i>
 - 🍰 Torta di Riso <i>(Torta di Riso / Torta degli Addobbi)</i>
+</br>
 <u>Tuscany - Regional Special:</u>
 - 🥗 Panzanella <i>(Panzanella)</i>
 - 🍲 Ribollita <i>(Ribollita)</i>
 - 🥘 Florentine Steak <i>(Bistecca alla Fiorentina)</i>
-- <u>Sicily (Regional Special):</u> Caponata <i>(Caponata / Capunata)</i>
-- <u>Sicily (Regional Special):</u> Panella <i>(Panella / Panella)</i>
-- <u>Sicily (Regional Special):</u> Pani câ Meusa <i>(Pane con Meusa / Pani câ Meusa)</i>
-- <u>Sicily (Regional Special):</u> Arancini <i>(Arancini / Arancini)</i>
-  - Arancini with Pistachio <i>(Arancini al Pistacchio / Arancini ô Pistacchiu)</i>
-  - Arancini with Ragu <i>(Arancini al Ragù / Arancini cu Ragu)</i> 
-  - Arancini with Mozzarella and Ham <i>(Arancini al Burro / Arancini cu Burru)</i>  
-  - Arancini with Eggplant <i>(Arancini alla Norma / Arancini â Norma)</i>  
-- <u>Sicily (Regional Special):</u> Pasta con le Sarde <i>(Pasta con le Sarde / Pasta chî Sardi)</i>
-- <u>Sicily (Regional Special):</u> Pasta alla Norma <i>(Pasta alla Norma / Pasta â Norma)</i>
-- <u>Sicily (Regional Special):</u> Parmigiana <i>(Parmigiana / Parmigiana)</i>
-- <u>Sicily (Regional Special):</u> Cannoli <i>(Cannolo / Cannolu)</i>
-- <u>Sicily (Regional Special):</u> Granita <i>(Granita Siciliana / Granita)</i>
-- <u>Sicily (Regional Special):</u> Frutta Martorana <i>(Frutta di Martorana / Frutta Marturana)</i>
-- <u>Campania (Regional Special):</u> Neapolitan Pizza <i>(Pizza Napoletana / Pizza Napulitana)</i>
-  - Pizza Marinara <i>(Pizza alla Marinara / Pizza a Marinara)</i>
-  - Pizza Margherita <i>(Pizza Margherita / Pizza Margherita)</i> 
-- <u>Campania (Regional Special):</u> Neapolitan Calzone <i>(Calzone Napoletano / Cauzone Napulitano)</i>
-- <u>Campania (Regional Special):</u> Carrozza <i>(Mozzarella in Carrozza / Muzzarella 'n Carrozza)</i>
-- <u>Campania (Regional Special):</u> Caprese Salad <i>(Insalata Caprese / Caprese)</i>
-- <u>Campania (Regional Special):</u> Spaghetti alle Vongole <i>(Spaghetti alle Vongole / Spaghetti cu 'e Vongole)</i>
-- <u>Campania (Regional Special):</u> Pasta alla Genovese <i>(Pasta alla Genovese / Pasta â Genovese)</i>
-- <u>Campania (Regional Special):</u> Sfogliatella <i>(Sfogliatelle / Sfugliatelle)</i>
-- <u>Campania (Regional Special):</u> Pastiera Napoletana <i>(Pastiera Napoletana / Pastiera Napulitana)</i>
-- <u>Campania (Regional Special):</u> Taralli <i>(Taralli / Taralle)</i>
-- <u>Lombardy (Regional Special):</u> Risotto alla Milanese <i>(Risotto alla Milanese / Risòtt Giald)</i>
-- <u>Lombardy (Regional Special):</u> Cassoeula <i>(Cazzoeula / Cassola)</i>
-- <u>Lombardy (Regional Special):</u> Ossobuco alla Milanese <i>(Ossobuco alla Milanese / Òss Bus)</i>
-- <u>Lombardy (Regional Special):</u> Mondeghili <i>(Mondeghili / Mondeghitt)</i>
-- <u>Lombardy (Regional Special):</u> Veal Milanese <i>(Cotoletta alla Milanese / Cutuletta)</i>
-- <u>Lombardy (Regional Special):</u> Panettone <i>(Panettone / Panattón)</i>
-- <u>Lombardy (Regional Special):</u> Pirlo Cocktail <i>(Pirlo / Pirlo)</i>
+</br>
+- <u>Sicily - Regional Special:</u>
+- 🥙 Pani câ Meusa <i>(Pane con Meusa / Pani câ Meusa)</i>
+- 🥘 Panella <i>(Panella / Panella)</i>
+- 🥘 Caponata <i>(Caponata / Capunata)</i>
+- 🥘 Arancini <i>(Arancini / Arancini)</i>
+  - 🥘 Arancini with Pistachio <i>(Arancini al Pistacchio / Arancini ô Pistacchiu)</i>
+  - 🥘 Arancini with Ragu <i>(Arancini al Ragù / Arancini cu Ragu)</i> 
+  - 🥘 Arancini with Mozzarella and Ham <i>(Arancini al Burro / Arancini cu Burru)</i>  
+  - 🥘 Arancini with Eggplant <i>(Arancini alla Norma / Arancini â Norma)</i>  
+- 🥘 Pasta con le Sarde <i>(Pasta con le Sarde / Pasta chî Sardi)</i>
+- 🥘 Pasta alla Norma <i>(Pasta alla Norma / Pasta â Norma)</i>
+- 🥘 Parmigiana <i>(Parmigiana / Parmigiana)</i>
+- 🍰 Cannoli <i>(Cannolo / Cannolu)</i>
+- 🍰 Granita <i>(Granita Siciliana / Granita)</i>
+- 🍰 Frutta Martorana <i>(Frutta di Martorana / Frutta Marturana)</i>
+</br>
+- <u>Campania - Regional Special:</u> 
+- 🥗 Caprese Salad <i>(Insalata Caprese / Caprese)</i>
+- 🥙 Neapolitan Pizza <i>(Pizza Napoletana / Pizza Napulitana)</i>
+  - 🥙 Pizza Marinara <i>(Pizza alla Marinara / Pizza a Marinara)</i>
+  - 🥙 Pizza Margherita <i>(Pizza Margherita / Pizza Margherita)</i> 
+- 🥙 Neapolitan Calzone <i>(Calzone Napoletano / Cauzone Napulitano)</i>
+- 🥘 Carrozza <i>(Mozzarella in Carrozza / Muzzarella 'n Carrozza)</i>
+- 🥘 Spaghetti alle Vongole <i>(Spaghetti alle Vongole / Spaghetti cu 'e Vongole)</i>
+- 🥘 Pasta alla Genovese <i>(Pasta alla Genovese / Pasta â Genovese)</i>
+- 🍰 Sfogliatella <i>(Sfogliatelle / Sfugliatelle)</i>
+- 🍰 Pastiera Napoletana <i>(Pastiera Napoletana / Pastiera Napulitana)</i>
+- 🫓 Taralli <i>(Taralli / Taralle)</i>
+</br>
+- <u>Lombardy - Regional Special:</u> 
+- 🥘 Risotto alla Milanese <i>(Risotto alla Milanese / Risòtt Giald)</i>
+- 🥘 Cassoeula <i>(Cazzoeula / Cassola)</i>
+- 🥘 Ossobuco alla Milanese <i>(Ossobuco alla Milanese / Òss Bus)</i>
+- 🥘 Mondeghili <i>(Mondeghili / Mondeghitt)</i>
+- 🥘 Veal Milanese <i>(Cotoletta alla Milanese / Cutuletta)</i>
+- 🍰 Panettone <i>(Panettone / Panattón)</i>
+- 🍶 Pirlo Cocktail <i>(Pirlo / Pirlo)</i>
 
 
 
