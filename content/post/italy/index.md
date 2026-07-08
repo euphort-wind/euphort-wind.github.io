@@ -243,7 +243,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🍶 Limoncello <i>(Brand: "Pallini")</i> 
 - 🍶 Vermouth <i>(Brand: "Martini")</i> 
 - 🍶 Italian Liqueur <i>(Brands: "Campari", "Aperol")</i> 
-<u>Lazio - Regional Special:</u> 
+<u>Lazio - Regional Special:</u></br>
 - 🥘 Pasta Carbonara <i>(Pasta alla Carbonara)</i>
 - 🥘 Fettuccine Alfredo <i>(Fettuccine Alfredo)</i>
 - 🥘 Saltimbocca <i>(Saltimbocca)</i>
