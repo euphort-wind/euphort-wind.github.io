@@ -273,18 +273,23 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - German Unity Day <i>(Tag der Deutschen Einheit)</i>. Month: October 
-- Rosenmontag <i>(Rosenmontag)</i>. Month: February or March
-- <u>Hessen - Regional Special:</u> Lullusfest <i>(Lullusfest / Lullusfest)</i>. Month: October
-- <u>Hessen - Regional Special:</u> Frankfurt Apple Wine Festival <i>(Apfelweinfestival / Ebbelwoifest)</i>. Month: August
-- <u>Rhineland-Palatinate - Regional Special:</u> "Rhine in Flames" Festival <i>(Rhein in Flammen)</i>. Month: August
-- <u>Rhineland-Palatinate - Regional Special:</u> Wurstmarkt <i>(Wurstmarkt)</i>. Month: September
-- <u>North Rhine-Westphalia - Regional Special:</u> Cologne Carnival <i>(Kölner Karneval)</i>. Month: November
-- <u>North Rhine-Westphalia - Regional Special:</u> Düsseldorf Carnival <i>(Düsseldorfer Karneval)</i>. Month: November 
-- <u>Bavaria - Regional Special:</u> Oktoberfest <i>(Oktoberfest / D'Wiesn)</i>. Month: September to  October
+- Rosenmontag <i>(Rosenmontag)</i>. Month: February or March<br>
+<u>Hessen - Regional Special:</u> 
+- Lullusfest <i>(Lullusfest / Lullusfest)</i>. Month: October
+- Frankfurt Apple Wine Festival <i>(Apfelweinfestival / Ebbelwoifest)</i>. Month: August<br>
+<u>Rhineland-Palatinate - Regional Special:</u> 
+- "Rhine in Flames" Festival <i>(Rhein in Flammen)</i>. Month: August
+- Wurstmarkt <i>(Wurstmarkt)</i>. Month: September<br>
+<u>North Rhine-Westphalia - Regional Special:</u> 
+- Cologne Carnival <i>(Kölner Karneval)</i>. Month: November
+- Düsseldorf Carnival <i>(Düsseldorfer Karneval)</i>. Month: November<br>
+<u>Bavaria - Regional Special:</u> 
+- Oktoberfest <i>(Oktoberfest / D'Wiesn)</i>. Month: September to  October
 
 
-<b>💐 National flower: </b> Cornflower <i>(Kornblumen)</i>
-- <u>Bavaria - Regional Special:</u> Edelweiss <i>(Alpen-Edelweiß / Edlweiß)</i>
+<b>💐 National flower: </b> Cornflower <i>(Kornblumen)</i><br>
+<u>Bavaria - Regional Special:</u> 
+- Edelweiss <i>(Alpen-Edelweiß / Edlweiß)</i>
 
 
 <b>🦉 Local wisdom:</b> "The devil's favorite piece of furniture is the long bench." / <i>"Des Teufels liebstes Möbelstück ist die lange Bank."</i> — German proverb

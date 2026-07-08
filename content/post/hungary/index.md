@@ -150,9 +150,10 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- 1848 Memorial Day <i>(1848-as Forradalom Ünnepe)</i>. Month: March
-- <u>Central Transdanubia - Regional Special:</u> Royal Days Festival <i>(Királyi Napok)</i>. Month: August
-- <u>Central Transdanubia - Regional Special:</u> Belle of the Anna-ball <i>(Anna-Bál)</i>. Month: July
+- 1848 Memorial Day <i>(1848-as Forradalom Ünnepe)</i>. Month: March<br>
+<u>Central Transdanubia - Regional Special:</u> 
+- Royal Days Festival <i>(Királyi Napok)</i>. Month: August
+- Belle of the Anna-ball <i>(Anna-Bál)</i>. Month: July
 
 
 

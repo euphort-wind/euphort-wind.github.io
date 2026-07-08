@@ -144,8 +144,9 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - Independence Day of Finland <i>(Itsenäisyyspäivä)</i>. Month: December
 - Laskiainen <i>(Laskiainen)</i>. Month: January to February
 - Kalevala Day <i>(Kalevalan Päivä)</i>. Month: February
-- Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Month: February
-- <u>Uusimaa - Regional Special:</u> Helsinki Day <i>(Helsinki-Päivä)</i>. Month: June 
+- Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Month: February<br>
+<u>Uusimaa - Regional Special:</u> 
+- Helsinki Day <i>(Helsinki-Päivä)</i>. Month: June 
 
 
 

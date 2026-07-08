@@ -176,17 +176,21 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Diwali <i>(दीपावली)</i>. Month: October or November
 - Makara Sankrānti <i>(मकर संक्रान्ति)</i>. Month: January
 - Maha Shivaratri <i>(महाशिवरात्रि)</i>. Month: February or March
-- Rama Navami <i>(राम नवमी)</i>. Month: March or April
-- <u>Karnataka - Regional Special:</u> Karnataka Rajyotsava <i>(कर्नाटक राज्य दिवस / ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ)</i>. Month: November
-- <u>Karnataka - Regional Special:</u> Yugādi <i>(उगादि / ಯುಗಾದಿ)</i>. Month: March
-- <u>Goa - Regional Special:</u> Goan Carnival <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>. Month: February or March
-- <u>Goa - Regional Special:</u> Shigmo <i>(शिग्मो / शिगमो)</i>. Month: February or March
+- Rama Navami <i>(राम नवमी)</i>. Month: March or April<br>
+<u>Karnataka - Regional Special:</u> 
+- Karnataka Rajyotsava <i>(कर्नाटक राज्य दिवस / ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ)</i>. Month: November
+- Yugādi <i>(उगादि / ಯುಗಾದಿ)</i>. Month: March<br>
+<u>Goa - Regional Special:</u> 
+- Goan Carnival <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>. Month: February or March
+- Shigmo <i>(शिग्मो / शिगमो)</i>. Month: February or March
 
 
 
-<b>💐 National flower: </b> Indian Lotus <i>(कमल)</i>
-- <u>Goa - Regional Special:</u> Red Jasmine <i>(रेड जास्मिन  / चमेली)</i>
-- <u>Karnataka - Regional Special:</u> Indian Lotus <i>(कमल / ಕಮಲ)</i>
+<b>💐 National flower: </b> Indian Lotus <i>(कमल)</i><br>
+<u>Goa - Regional Special:</u> 
+- Red Jasmine <i>(रेड जास्मिन  / चमेली)</i><br>
+<u>Karnataka - Regional Special:</u> 
+- Indian Lotus <i>(कमल / ಕಮಲ)</i>
 
 
 <b>🦉 Local wisdom:</b> "The half-filled pitcher overflows with noise, the full pitcher goes silent." / <i>"अधजल गगरी छलकत जाए, भरी गगरिया चुपके जाए ।"</i> — Indian proverb

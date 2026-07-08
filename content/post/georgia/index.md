@@ -175,10 +175,13 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Independence Day of Georgia <i>(დამოუკიდებლობის დღე)</i>. Month: May
-- <u>Tbilisi-Capital - Regional Special:</u> Tbilisoba Festival <i>(თბილისობა)</i>. Month: October
-- <u>Mtskheta-Mtianeti - Regional Special:</u> Day of Svetitskhoveli Cathedral <i>(სვეტიცხოვლობა)</i>. Month: October
-- <u>Kakheti - Regional Special:</u> Alaverdoba Festival <i>(ალავერდობა)</i>. Month: September
+- Independence Day of Georgia <i>(დამოუკიდებლობის დღე)</i>. Month: May<br>
+<u>Tbilisi-Capital - Regional Special:</u> 
+- Tbilisoba Festival <i>(თბილისობა)</i>. Month: October<br>
+<u>Mtskheta-Mtianeti - Regional Special:</u> 
+- Day of Svetitskhoveli Cathedral <i>(სვეტიცხოვლობა)</i>. Month: October<br>
+<u>Kakheti - Regional Special:</u> 
+- Alaverdoba Festival <i>(ალავერდობა)</i>. Month: September
 
 
 <b>💐 National flower: </b> [unofficially] Georgian Snow Rose <i>(კავკასიური როდოდენდრონი)</i>

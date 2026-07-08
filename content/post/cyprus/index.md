@@ -102,9 +102,11 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Independence Day of Cyprus <i>(Ημέρα Ανεξαρτησίας της Κύπρου)</i>. Month: October
-- <u>Larnaca - Regional Special:</u> Kataklysmos Festival <i>(Φεστιβάλ Κατακλυσμού στη Λάρνακα)</i>. Month: June
-- <u>Limassol - Regional Special:</u> Limassol Carnival <i>(Καρναβάλι Λεμεσού)</i>. Month: February or March
+- Independence Day of Cyprus <i>(Ημέρα Ανεξαρτησίας της Κύπρου)</i>. Month: October<br>
+<u>Larnaca - Regional Special:</u> 
+- Kataklysmos Festival <i>(Φεστιβάλ Κατακλυσμού στη Λάρνακα)</i>. Month: June<br>
+<u>Limassol - Regional Special:</u> 
+- Limassol Carnival <i>(Καρναβάλι Λεμεσού)</i>. Month: February or March
 
 
 <b>💐 National flower: </b> Cyprus Cyclamen <i>(Κυκλάμινο το Κυπριακό)</i>

@@ -178,13 +178,16 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Greece <i>(Εορτασμός της Ελληνικής Επανάστασης του 1821)</i>. Month: March
 - Tsiknopempti <i>(Τσικνοπέμπτη)</i>. Month: February or March
-- Ohi Day <i>(Επέτειος του Όχι)</i>. Month: October
-- <u>Crete - Regional Special:</u> Cretan Diet Festival <i>(Γιορτή Κρητικής Διατροφής)</i>. Month: July
-- <u>South Aegean - Regional Special:</u> Medieval Rose Festival <i>(Μεσαιωνικό Φεστιβάλ Ρόδου)</i>. Month: October 
+- Ohi Day <i>(Επέτειος του Όχι)</i>. Month: October<br>
+<u>Crete - Regional Special:</u> 
+- Cretan Diet Festival <i>(Γιορτή Κρητικής Διατροφής)</i>. Month: July<br>
+<u>South Aegean - Regional Special:</u> 
+- Medieval Rose Festival <i>(Μεσαιωνικό Φεστιβάλ Ρόδου)</i>. Month: October 
 
 
-<b>💐 National flower: </b> Bear's Breech <i>(Άκανθος)</i>
-- <u>Crete - Regional Special:</u> Cretan Dittany <i>(Δίκταμο / Έρωντας)</i>
+<b>💐 National flower: </b> Bear's Breech <i>(Άκανθος)</i><br>
+<u>Crete - Regional Special:</u> 
+- Cretan Dittany <i>(Δίκταμο / Έρωντας)</i>
 
 
 <b>🦉 Local wisdom:</b> "The one who lives will see, but the one who walks will see more." / "<i>Όποιος ζήσει θα ιδεί, μα όποιος περπατήσει θα ιδεί περισσότερα.</i>" — Greek proverb

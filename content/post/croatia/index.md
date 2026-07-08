@@ -155,9 +155,11 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 <b>🎊 Authentic holidays & celebrations:</b>
 - Statehood Day of Croatia <i>(Dan Državnosti)</i>. Month: May
 - Rijeka Carnival <i>(Riječki Karneval)</i>. Month: February or March
-- <u>Zagreb - Regional Special:</u> Samobor Carnival <i>(Samoborski Fašnik)</i>. Month: February to March
-- <u>Dubrovnik-Neretva - Regional Special:</u> Ladja Marathon <i>(Maraton Lađa)</i>. Month: August
-- <u>Dubrovnik-Neretva - Regional Special:</u> Festivity of Saint Blaise <i>(Festa Svetog Vlaha)</i>. Month: February
+<br><u>Zagreb - Regional Special:</u> 
+- Samobor Carnival <i>(Samoborski Fašnik)</i>. Month: February to March
+<br><u>Dubrovnik-Neretva - Regional Special:</u> 
+- Ladja Marathon <i>(Maraton Lađa)</i>. Month: August
+- Festivity of Saint Blaise <i>(Festa Svetog Vlaha)</i>. Month: February
 
 
 

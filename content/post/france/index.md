@@ -319,9 +319,11 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 <b>🎊 Authentic holidays & celebrations:</b>
 - Bastille Day <i>(Fête Nationale Française)</i>. Month: July
 - Fête de la Musique <i>(Fête de la Musique)</i>. Month: June
-- Beaujolais Nouveau Day <i>(Journée du Beaujolais Nouveau)</i>. Month: November
-- <u>Île-de-France - Regional Special:</u> Nuit Blanche Festival <i>(Nuit Blanche)</i>. Month: November
-- <u>Occitania - Regional Special:</u> Estivada <i>(L'Estivada / L'Estivada)</i>. Month: July
+- Beaujolais Nouveau Day <i>(Journée du Beaujolais Nouveau)</i>. Month: November<br>
+<u>Île-de-France - Regional Special:</u> 
+- Nuit Blanche Festival <i>(Nuit Blanche)</i>. Month: November<br>
+<u>Occitania - Regional Special:</u> 
+- Estivada <i>(L'Estivada / L'Estivada)</i>. Month: July
 
 <b>💐 National flower: </b> Yellow Iris <i>(Iris des Marais)</i>
 - <u>Occitania - Regional Special:</u> Toulouse Violet <i>(Violette de Toulouse / Violeta de Tolosa)</i>
