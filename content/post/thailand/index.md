@@ -93,13 +93,14 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - 🥫 Nam Phrik Sauce <i>(น้ำพริก)</i>
 - 🍶 Thai Iced Tea <i>(ชาเย็น)</i>
 - 🍶 Thai Rum <i>(Brand: "SangSom")</i>
-- <u>Phuket - Regional Special:</u> 
-  - 🥘 Grilled Seafood Skewers <i>(ซีฟู้ดย่างเสียบไม้)</i>
-    - 🥘 Grilled Shrimp Skewers <i>(กุ้งย่างเสียบไม้)</i>
-    - 🥘 Grilled Clam Skewers <i>(หอยย่างเสียบไม้)</i>
-    - 🥘 Grilled Squid Skewers <i>(ปลาหมึกย่าง)</i>
-  - 🥘 Mu Wan <i>(หมูหวาน)</i>
-  - 🥘 Pla Thot Khamin <i>(ปลาทอดขมิ้น)</i>
+<\br>
+<u>Phuket - Regional Special:</u> 
+- 🥘 Grilled Seafood Skewers <i>(ซีฟู้ดย่างเสียบไม้)</i>
+  - 🥘 Grilled Shrimp Skewers <i>(กุ้งย่างเสียบไม้)</i>
+  - 🥘 Grilled Clam Skewers <i>(หอยย่างเสียบไม้)</i>
+  - 🥘 Grilled Squid Skewers <i>(ปลาหมึกย่าง)</i>
+- 🥘 Mu Wan <i>(หมูหวาน)</i>
+- 🥘 Pla Thot Khamin <i>(ปลาทอดขมิ้น)</i>
 
 
 <b>🎬 Local movies:</b>

@@ -89,9 +89,10 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 - 🍰 Potica <i>(Potica)</i>
 - 🍰 Prekmurska Gibanica <i>(Prekmurska Gibanica)</i>
 - 🍶 Brinjevec <i>(Brands: "Berryshka", "Dobrote Dolenjske")</i>
-- <u>Upper Carniola - Regional Special:</u> 
-  - 🥓 Carniolan Sausage <i>(Kranjska Klobasa)</i>
-  - 🍰 Bled Cream Cake <i>(Blejska Kremšnita)</i>
+<\br>
+<u>Upper Carniola - Regional Special:</u> 
+- 🥓 Carniolan Sausage <i>(Kranjska Klobasa)</i>
+- 🍰 Bled Cream Cake <i>(Blejska Kremšnita)</i>
 
 
 <b>🎬 Local movies:</b>

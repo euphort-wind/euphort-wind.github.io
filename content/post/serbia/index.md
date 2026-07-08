@@ -116,10 +116,11 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - 🥫 Serbian Kajmak <i>(Српски Кајмак)</i>
 - 🫓 Proja <i>(Проја)</i>
 - 🍶 Serbian Rakija <i>(Brand: "Stara Sokolova Vilijamovka")</i>
-- <u>Vojvodina - Regional Special:</u> 
-  - 🥓 Kulen <i>(Кулен)</i>
-  - 🥘 Rinflajš <i>(Ринфлајш)</i>
-  - 🍶 Bermet Wine <i>(Brand: "Vinarija Mrđanin")</i>
+<\br>
+<u>Vojvodina - Regional Special:</u> 
+- 🥓 Kulen <i>(Кулен)</i>
+- 🥘 Rinflajš <i>(Ринфлајш)</i>
+- 🍶 Bermet Wine <i>(Brand: "Vinarija Mrđanin")</i>
 
 
 
