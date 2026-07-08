@@ -114,8 +114,9 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - 🍶 Galão Coffee Drink <i>(Galão)</i>
 - 🍶 Port Wine <i>(Brand: "Ferreira")</i>
 - 🍶 Green Wine <i>(Brand: "Muralhas Vinho Verde")</i>
-- <u>Lisbon - Regional Special:</u> 
-  - 🍰 De Belém Pastry <i>(Pastel de Belém)</i>
+<\br>
+<u>Lisbon - Regional Special:</u> 
+- 🍰 De Belém Pastry <i>(Pastel de Belém)</i>
 
 
 <b>🎬 Local movies:</b>

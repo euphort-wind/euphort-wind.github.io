@@ -93,12 +93,14 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 - 🍰 Popara <i>(Попара)</i>
 - 🧀 Bieno Sirenje Cheese <i>(Биено Сирење)</i>
 - 🍶 Macedonian Mastika <i>(Brand: "Grozd Strumica Mastika")</i>
-- <u>Jugozapaden - Regional Special:</u> 
-  - 🥘 Ohrid Trout with Baked Vegetables <i>(Охридска Пастрмка со Зеленчук)</i>
-  - 🥫 Ohrid Garlic Makalo <i>(Охридско Макало)</i>
-  - 🫓 Ohrid Gjomleze <i>(Охридско Ѓомлезе)</i>
-- <u>Pelagonia - Regional Special:</u> 
-  - 🥙 Bitolski Zelnik <i>(Битолски Зелник)</i>
+<\br>
+<u>Jugozapaden - Regional Special:</u> 
+- 🥘 Ohrid Trout with Baked Vegetables <i>(Охридска Пастрмка со Зеленчук)</i>
+- 🥫 Ohrid Garlic Makalo <i>(Охридско Макало)</i>
+- 🫓 Ohrid Gjomleze <i>(Охридско Ѓомлезе)</i>
+<\br>
+<u>Pelagonia - Regional Special:</u> 
+- 🥙 Bitolski Zelnik <i>(Битолски Зелник)</i>
 
 
 <b>🎬 Local movies:</b>

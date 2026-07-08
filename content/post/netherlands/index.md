@@ -170,16 +170,20 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
   - 🧀 Maasdam <i>(Maasdamer)</i>
   - 🧀 Boerenkaas <i>(Boerenkaas)</i> 
 - 🍶 Jenever <i>(Brand: "Bols Zeer Oude")</i>
-- <u>North Holland - Regional Special:</u> 
-  - 🥓 Ossenworst <i>(Ossenworst)</i>
-- <u>Utrecht - Regional Special:</u> 
-  - 🍰 Utrechtse Spritsen <i>(Utrechtse Spritsen)</i>
-- <u>South Holland - Regional Special:</u> 
-  - 🥘 Hutspot <i>(Hutspot)</i>
-- <u>Friesland - Regional Special:</u> 
-  - 🍰 Oranjekoek <i>(Oranjekoek / Oranjekoeke)</i>
-  - 🍰 Fryske Dúmkes <i>(Fryske Dúmkes / Fryske Dúmkes)</i>
-  - 🍰 Suikerbrood <i>(Suikerbrood / Sûkerbôle)</i>
+<\br>
+<u>North Holland - Regional Special:</u> 
+- 🥓 Ossenworst <i>(Ossenworst)</i>
+<\br>
+<u>Utrecht - Regional Special:</u> 
+- 🍰 Utrechtse Spritsen <i>(Utrechtse Spritsen)</i>
+<\br>
+<u>South Holland - Regional Special:</u> 
+- 🥘 Hutspot <i>(Hutspot)</i>
+<\br>
+<u>Friesland - Regional Special:</u> 
+- 🍰 Oranjekoek <i>(Oranjekoek / Oranjekoeke)</i>
+- 🍰 Fryske Dúmkes <i>(Fryske Dúmkes / Fryske Dúmkes)</i>
+- 🍰 Suikerbrood <i>(Suikerbrood / Sûkerbôle)</i>
 
 <b>🎬 Local movies:</b>
 - The Wild City <i>(De Wilde Stad)</i>. Year: 2018. Genre: documentary

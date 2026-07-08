@@ -137,12 +137,14 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🧀 Telemea Cheese <i>(Telemea)</i>
 - 🫓 Covrigi <i>(Covrigi)</i>
 - 🍶 Țuică <i>(Brand: "Vlad Țepeș")</i>
-- <u>Covasna - Regional Special:</u> 
-  - 🥘 Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>
-  - 🍰 Székely Kürtőskalács <i>(Cozonac Secuiesc / Kürtőskalács)</i>
-- <u>Brașov - Regional Special:</u> 
-  - 🥘 Braşovence <i>(Clătite Brașovene / Braşovence)</i>
-  - 🍰 Transylvanian Saxon Hanklich <i>(Hencleș Săsesc / Hanklich)</i>
+<\br>
+<u>Covasna - Regional Special:</u> 
+- 🥘 Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>
+- 🍰 Székely Kürtőskalács <i>(Cozonac Secuiesc / Kürtőskalács)</i>
+<\br>
+<u>Brașov - Regional Special:</u> 
+- 🥘 Braşovence <i>(Clătite Brașovene / Braşovence)</i>
+- 🍰 Transylvanian Saxon Hanklich <i>(Hencleș Săsesc / Hanklich)</i>
 
 <b>🎬 Local movies:</b>
 - Do Not Expect Too Much from the End of the World <i>(Nu Aștepta Prea Mult de la Sfârșitul Lumii)</i>. Year: 2023. Genre: black comedy

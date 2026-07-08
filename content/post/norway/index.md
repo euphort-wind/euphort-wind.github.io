@@ -126,10 +126,12 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - 🫓 Lefse <i>(Lefse)</i>
 - 🍶 Julebrus <i>(Brand: "Hansa")</i>
 - 🍶 Norwegian Akevitt <i>(Brands: "Løiten", "Linie")</i>
-- <u>Vestland - Regional Special:</u> 
-  - 🥘 Bergen Pressed Cod <i>(Persetorsk)</i>
-- <u>Vestfold - Regional Special:</u> 
-  - 🥫 Sandefjord Sauce <i>(Sandefjordsmør)</i>
+<\br>
+<u>Vestland - Regional Special:</u> 
+- 🥘 Bergen Pressed Cod <i>(Persetorsk)</i>
+<\br>
+<u>Vestfold - Regional Special:</u> 
+- 🥫 Sandefjord Sauce <i>(Sandefjordsmør)</i>
 
 
 <b>🎬 Local movies:</b>
