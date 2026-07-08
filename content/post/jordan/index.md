@@ -92,7 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Jordan <i>(الاستقلال)</i>. Month: May
-- <u>Ma'an (Regional Special):</u> Petra Cultural Festival <i>(مهرجان البترا الثقافي)</i>. Month: October
+- <u>Ma'an - Regional Special:</u> Petra Cultural Festival <i>(مهرجان البترا الثقافي)</i>. Month: October
 
 
 

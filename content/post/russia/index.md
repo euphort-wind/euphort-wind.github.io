@@ -322,11 +322,11 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
 - Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
 - Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
-- <u>Bashkortostan (Regional Special):</u> Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
+- <u>Bashkortostan - Regional Special:</u> Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
     - Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
     - Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
     - Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
-- <u>Kabardino-Balkaria (Regional Special):</u> Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
+- <u>Kabardino-Balkaria - Regional Special:</u> Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
     - Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
     - Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
     - Balkar Bychak Knives <i>(Бичак / Бычак)</i>
@@ -336,37 +336,37 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
     - Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
     - Heritage of the Circassia <i>(Черкесия / Адыгэ Хэку)</i>
-- <u>North Ossetia (Regional Special):</u> Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
+- <u>North Ossetia - Regional Special:</u> Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
     - Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
     - Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
     - Ossetian Assianism <i>(Уасдин / Уацдин)</i>
     - Ossetian Simd Dance <i>(Симд / Синд)</i>
     - Authentic Musical Instrument: Kisyn Fandyr <i>(Хисын Фандыр / Xъисын Фæндыр)</i>
-- <u>North Ossetia (Regional Special):</u> Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i>
-- <u>Leningrad (Regional Special):</u> Culture of Izhorians <i>(Ижоры / Ižorat)</i>
-- <u>St. Petersburg-City (Regional Special):</u> Petrine Baroque Architecture <i>(Петровское Барокко)</i>
-- <u>Orenburzhie (Regional Special):</u> Legacy of Orenburg Cossacks <i>(Оренбургские Казаки)</i>
-- <u>Orenburzhie (Regional Special):</u> Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i>
-- <u>Chelyabinsk (Regional Special):</u> Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
-- <u>Chelyabinsk (Regional Special):</u> Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>
+- <u>North Ossetia - Regional Special:</u> Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i>
+- <u>Leningrad - Regional Special:</u> Culture of Izhorians <i>(Ижоры / Ižorat)</i>
+- <u>St. Petersburg-City - Regional Special:</u> Petrine Baroque Architecture <i>(Петровское Барокко)</i>
+- <u>Orenburzhie - Regional Special:</u> Legacy of Orenburg Cossacks <i>(Оренбургские Казаки)</i>
+- <u>Orenburzhie - Regional Special:</u> Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i>
+- <u>Chelyabinsk - Regional Special:</u> Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
+- <u>Chelyabinsk - Regional Special:</u> Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Maslenitsa <i>(Мaсленица)</i>. Month: February or March
-- <u>Bashkortostan (Regional Special):</u> Sabantuy <i>(Сабантуй / Һабантуй)</i>. Month: June or July
-- <u>Kabardino-Balkaria (Regional Special):</u> Balkar Day <i>(День Возрождения Балкарского Народа)</i>. Month: March
-- <u>Karachay-Cherkessia (Regional Special):</u> Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May 
-- <u>St. Petersburg-City (Regional Special):</u> White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July
-- <u>North Ossetia (Regional Special):</u> Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November
+- <u>Bashkortostan - Regional Special:</u> Sabantuy <i>(Сабантуй / Һабантуй)</i>. Month: June or July
+- <u>Kabardino-Balkaria - Regional Special:</u> Balkar Day <i>(День Возрождения Балкарского Народа)</i>. Month: March
+- <u>Karachay-Cherkessia - Regional Special:</u> Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May 
+- <u>St. Petersburg-City - Regional Special:</u> White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July
+- <u>North Ossetia - Regional Special:</u> Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November
 
 
 
 
 <b>💐 National flower: </b> Chamomile <i>(Ромашка Обыкновенная)</i>
-- <u>Bashkortostan (Regional Special):</u> Pleurospermum Uralense <i>(Реброплодник Уральский / Ҡурай Сәскәһе)</i>
-- <u>Karachay-Cherkessia (Regional Special):</u> Caucasian Rhododendron <i>(Рододендрон Кавказский)</i>
-- <u>North Ossetia (Regional Special):</u> Military Orchid <i>(Ятрышник / Æнæзæнæджыхос)</i>
-- <u>Orenburzhie (Regional Special):</u> Tulipa Schrenkii <i>(Тюльпан Шренка)</i>
+- <u>Bashkortostan - Regional Special:</u> Pleurospermum Uralense <i>(Реброплодник Уральский / Ҡурай Сәскәһе)</i>
+- <u>Karachay-Cherkessia - Regional Special:</u> Caucasian Rhododendron <i>(Рододендрон Кавказский)</i>
+- <u>North Ossetia - Regional Special:</u> Military Orchid <i>(Ятрышник / Æнæзæнæджыхос)</i>
+- <u>Orenburzhie - Regional Special:</u> Tulipa Schrenkii <i>(Тюльпан Шренка)</i>
 
 
 <b>🦉 Local wisdom:</b> "Without effort, one wouldn’t even get a fish out of a pond." / <i>"Без труда не выловишь и рыбку из пруда."</i> — Russian proverb

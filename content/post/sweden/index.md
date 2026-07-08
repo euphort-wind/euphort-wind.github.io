@@ -349,7 +349,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 <b>🎬 Local movies:</b>
 - A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
-- The 100 Year-Old Man Who Climbed Out the Window and Disappeared <i>(Hundraåringen som Klev Ut Genom Fönstret och Försvann)</i>. Year: 2013. Genre: comedy
+- The 100 Year-Old Man Who Climbed out the Window and Disappeared <i>(Hundraåringen som Klev ut genom Fönstret och Försvann)</i>. Year: 2013. Genre: comedy
 - Border <i>(Gräns)</i>. Year: 2018. Genre: fantasy
 - End of Summer <i>(Slutet på Sommaren)</i>. Year: 2023. Genre: thriller (series)
 - Anxious People <i>(Folk med Ångest)</i>. Year: 2021. Genre: drama (series)
@@ -368,16 +368,20 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Swedish Fashion <i>(Brands: "Fjällräven", "H&M COS", etc.)</i>
 - Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
-- Heritage of the Swedish Empire <i>(Stormaktstiden Sverige)</i>
-- <u>Gotland (Regional Special):</u> Rauk Landforms <i>(Raukar)</i>
-- <u>Gotland (Regional Special):</u> Legacy of Gutes <i>(Gutar)</i>
+- Heritage of the Swedish Empire <i>(Stormaktstiden Sverige)</i><br>
+<u>Gotland - Regional Special:</u> 
+- Legacy of Gutes <i>(Gutar)</i>
     - Pärk Game <i>(Pärk)</i>
     - Varpa Game <i>(Varpa)</i>
     - Guta Saga <i>(Gutasagan)</i>
     - Gotland Picture Stones <i>(Bildstenar)</i>
-- <u>Jämtland (Regional Special):</u> Överhogdal Tapestries <i>(Överhogdalstapeten)</i>
-- <u>Halland (Regional Special):</u> Bonad Painting <i>(Bonadsmålning)</i>
-- <u>Västra Götaland (Regional Special):</u> Legacy of Geates <i>(Götar)</i>
+- Rauk Landforms <i>(Raukar)</i><br>
+<u>Jämtland - Regional Special:</u> 
+- Överhogdal Tapestries <i>(Överhogdalstapeten)</i><br>
+<u>Halland - Regional Special:</u> 
+- Bonad Painting <i>(Bonadsmålning)</i><br>
+<u>Västra Götaland - Regional Special:</u> 
+- Legacy of Geates <i>(Götar)</i>
     - Domarringar <i>(Domarringar)</i>
     - Stone Ships <i>(Skeppssättning)</i>
     - Elder Futhark Runic Alphabet <i>(Äldre Futhark / ᚠᚢᚦᚨᚱᚲ)</i>
@@ -386,19 +390,19 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June
 - Midsummer <i>(Midsommar)</i>. Month: June
 - Crayfish Party <i>(Kräftskiva)</i>. Month: August
-- <u>Gotland (Regional Special):</u> Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August
-- <u>Västra Götaland (Regional Special):</u> Alingsås Potatisfestivalen <i>(Potatisfestivalen)</i>. Month: June
+- <u>Gotland - Regional Special:</u> Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August
+- <u>Västra Götaland - Regional Special:</u> Alingsås Potatisfestivalen <i>(Potatisfestivalen)</i>. Month: June
 
 
 <b>💐 National flower: </b> Harebell <i>(Liten Blåklocka)</i>
-- <u>Västra Götaland (Regional Special):</u> Common Heather <i>(Ljung)</i>
-- <u>Västernorrland (Regional Special):</u> Globeflower <i>(Smörboll)</i>
-- <u>Gotland (Regional Special):</u> European Ivy <i>(Murgröna)</i>
-- <u>Halland (Regional Special):</u> Hairy Greenweed <i>(Hårginst)</i>
-- <u>Skåne (Regional Special):</u> Daisy <i>(Prästkrage)</i>
-- <u>Uppsala (Regional Special):</u> Lily of the Valley <i>(Kungsängslilja)</i>
-- <u>Jämtland (Regional Special):</u> Black Vanilla Orchid <i>(Brunkulla)</i>
-- <u>Värmland (Regional Special):</u> Arctic Starflower <i>(Skogsstjärna)</i>
+- <u>Västra Götaland - Regional Special:</u> Common Heather <i>(Ljung)</i>
+- <u>Västernorrland - Regional Special:</u> Globeflower <i>(Smörboll)</i>
+- <u>Gotland - Regional Special:</u> European Ivy <i>(Murgröna)</i>
+- <u>Halland - Regional Special:</u> Hairy Greenweed <i>(Hårginst)</i>
+- <u>Skåne - Regional Special:</u> Daisy <i>(Prästkrage)</i>
+- <u>Uppsala - Regional Special:</u> Lily of the Valley <i>(Kungsängslilja)</i>
+- <u>Jämtland - Regional Special:</u> Black Vanilla Orchid <i>(Brunkulla)</i>
+- <u>Värmland - Regional Special:</u> Arctic Starflower <i>(Skogsstjärna)</i>
 
 
 <b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece." / <i>"Den som gapar över mycket mister ofta hela stycket."</i> — Swedish proverb

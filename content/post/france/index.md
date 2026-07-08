@@ -301,12 +301,12 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - Legacy of Franks <i>(Francs / *Frankōz)</i> 
 - Heritage of the Kingdom of France <i>(Royaume de France / Reaume de France)</i>
 - Heritage of the French Empire <i>(Empire Français)</i>
-- <u>Île-de-France (Regional Special):</u> Apache Dance <i>(Valse Chaloupée)</i>
-- <u>Île-de-France (Regional Special):</u> Bal-Musette Music <i>(Bal Musette)</i>
-- <u>Île-de-France (Regional Special):</u> Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
-- <u>Île-de-France (Regional Special):</u> Art Déco Architecture <i>(Architecture Art Déco)</i>
-- <u>Occitania (Regional Special):</u> Chabrot Tradition <i>(Chabrot / Chabròt)</i>
-- <u>Occitania (Regional Special):</u> Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
+- <u>Île-de-France - Regional Special:</u> Apache Dance <i>(Valse Chaloupée)</i>
+- <u>Île-de-France - Regional Special:</u> Bal-Musette Music <i>(Bal Musette)</i>
+- <u>Île-de-France - Regional Special:</u> Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
+- <u>Île-de-France - Regional Special:</u> Art Déco Architecture <i>(Architecture Art Déco)</i>
+- <u>Occitania - Regional Special:</u> Chabrot Tradition <i>(Chabrot / Chabròt)</i>
+- <u>Occitania - Regional Special:</u> Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
   - Authentic Concept: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
   - Troubadours & Occitan Lyric Poetry <i>(Troubadours et Poésie Lyrique Occitane / Trobadors e Poesia Lirica Occitana)</i>
   - Floral Games <i>(Jeux Floraux / Jòcs Florals)</i>
@@ -318,11 +318,11 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - Bastille Day <i>(Fête Nationale Française)</i>. Month: July
 - Fête de la Musique <i>(Fête de la Musique)</i>. Month: June
 - Beaujolais Nouveau Day <i>(Journée du Beaujolais Nouveau)</i>. Month: November
-- <u>Île-de-France (Regional Special):</u> Nuit Blanche Festival <i>(Nuit Blanche)</i>. Month: November
-- <u>Occitania (Regional Special):</u> Estivada <i>(L'Estivada / L'Estivada)</i>. Month: July
+- <u>Île-de-France - Regional Special:</u> Nuit Blanche Festival <i>(Nuit Blanche)</i>. Month: November
+- <u>Occitania - Regional Special:</u> Estivada <i>(L'Estivada / L'Estivada)</i>. Month: July
 
 <b>💐 National flower: </b> Yellow Iris <i>(Iris des Marais)</i>
-- <u>Occitania (Regional Special):</u> Toulouse Violet <i>(Violette de Toulouse / Violeta de Tolosa)</i>
+- <u>Occitania - Regional Special:</u> Toulouse Violet <i>(Violette de Toulouse / Violeta de Tolosa)</i>
 
 
 <b>🦉 Local wisdom:</b> "Little by little, the bird makes its nest." / <i>"Petit à petit, l'oiseau fait son nid."</i> — French proverb

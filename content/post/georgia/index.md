@@ -163,19 +163,19 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - Heritage of the Kingdom of Iberia <i>(იბერია)</i>
 - Heritage of the Kingdom of Colchis <i>(ეგრისი)</i>
 - Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>
-- <u>Mtskheta-Mtianeti (Regional Special):</u> Heritage of the Kingdom of Kartli <i>(ქართლის სამეფო)</i>
-- <u>Kakheti (Regional Special):</u> Kakhuri Dance <i>(კახურის ცეკვა)</i>
-- <u>Kakheti (Regional Special):</u> Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
-- <u>Kakheti (Regional Special):</u> Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i>
-- <u>Tbilisi-Capital (Regional Special):</u> Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
-- <u>Tbilisi-Capital (Regional Special):</u> Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i>
+- <u>Mtskheta-Mtianeti - Regional Special:</u> Heritage of the Kingdom of Kartli <i>(ქართლის სამეფო)</i>
+- <u>Kakheti - Regional Special:</u> Kakhuri Dance <i>(კახურის ცეკვა)</i>
+- <u>Kakheti - Regional Special:</u> Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
+- <u>Kakheti - Regional Special:</u> Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i>
+- <u>Tbilisi-Capital - Regional Special:</u> Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
+- <u>Tbilisi-Capital - Regional Special:</u> Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Georgia <i>(დამოუკიდებლობის დღე)</i>. Month: May
-- <u>Tbilisi-Capital (Regional Special):</u> Tbilisoba Festival <i>(თბილისობა)</i>. Month: October
-- <u>Mtskheta-Mtianeti (Regional Special):</u> Day of Svetitskhoveli Cathedral <i>(სვეტიცხოვლობა)</i>. Month: October
-- <u>Kakheti (Regional Special):</u> Alaverdoba Festival <i>(ალავერდობა)</i>. Month: September
+- <u>Tbilisi-Capital - Regional Special:</u> Tbilisoba Festival <i>(თბილისობა)</i>. Month: October
+- <u>Mtskheta-Mtianeti - Regional Special:</u> Day of Svetitskhoveli Cathedral <i>(სვეტიცხოვლობა)</i>. Month: October
+- <u>Kakheti - Regional Special:</u> Alaverdoba Festival <i>(ალავერდობა)</i>. Month: September
 
 
 <b>💐 National flower: </b> [unofficially] Georgian Snow Rose <i>(კავკასიური როდოდენდრონი)</i>

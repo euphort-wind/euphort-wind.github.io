@@ -173,11 +173,11 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
 - Heritage of the Principality of Transylvania <i>(Principatul Transilvaniei / Erdélyi Fejedelemség)</i>
 - Heritage of the Kingdom of Romania <i>(Regatul României)</i>
-- <u>Covasna (Regional Special):</u> Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
+- <u>Covasna - Regional Special:</u> Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
   - Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐲘𐳀𐳎𐳀𐳢 𐲢𐳛𐳮𐳁𐳤)</i>
   - Székely Gates <i>(Poartă Secuiască / Székelykapu)</i>
   - Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i>
-- <u>Brașov (Regional Special):</u> Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
+- <u>Brașov - Regional Special:</u> Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
   - Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
   - Königinnentanz Dance <i>(Dansul Reginelor / Königinnentanz)</i>
   - Authentic Garb: Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>
@@ -188,9 +188,9 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Mărțișor <i>(Mărțișor)</i>. Month: March
 - Dragobete <i>(Dragobete)</i>. Month: February
 - International Romani Day <i>(Ziua Internațională a Romilor / Maśkarthemutno Rromenqo Dives)</i>. Month: April
-- <u>Brașov (Regional Special):</u> Junii Brașoveni <i>(Junii Brașoveni)</i>. Month: April
-- <u>Covasna (Regional Special):</u> Székely Freedom Day <i>(Ziua Libertății Secuilor/ Székely Szabadság Napja)</i>. Month: March
-- <u>Mureș (Regional Special):</u> Sighişoara Medieval Festival <i>(Festivalul Sighişoara Medievală)</i>. Month: July
+- <u>Brașov - Regional Special:</u> Junii Brașoveni <i>(Junii Brașoveni)</i>. Month: April
+- <u>Covasna - Regional Special:</u> Székely Freedom Day <i>(Ziua Libertății Secuilor/ Székely Szabadság Napja)</i>. Month: March
+- <u>Mureș - Regional Special:</u> Sighişoara Medieval Festival <i>(Festivalul Sighişoara Medievală)</i>. Month: July
 
 
 <b>💐 National flower: </b> Romanian Peony <i>(Bujor Românesc)</i>

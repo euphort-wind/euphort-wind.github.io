@@ -142,20 +142,20 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - Authentic Garb: Cravat & Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
 - Legacy of Illyrians <i>(Iliri)</i>
 - Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>  
-- <u>Zadar (Regional Special):</u> Klapa Singing <i>(Klapa)</i>
-- <u>Dubrovnik-Neretva (Regional Special):</u> Linđo Dance <i>(Linđo)</i>
-- <u>Dubrovnik-Neretva (Regional Special):</u> Neretvanska Ladja <i>(Neretvanska Lađa)</i>
-- <u>Dubrovnik-Neretva (Regional Special):</u> Konavle Embroidery <i>(Konavoski Vez)</i>
-- <u>Dubrovnik-Neretva (Regional Special):</u> Authentic Musical Instrument: Lijerica <i>(Lijerica)</i>
-- <u>Dubrovnik-Neretva (Regional Special):</u> Heritage of the Republic of Ragusa <i>(Dubrovačka Republika / Republica de Ragusa)</i>
+- <u>Zadar - Regional Special:</u> Klapa Singing <i>(Klapa)</i>
+- <u>Dubrovnik-Neretva - Regional Special:</u> Linđo Dance <i>(Linđo)</i>
+- <u>Dubrovnik-Neretva - Regional Special:</u> Neretvanska Ladja <i>(Neretvanska Lađa)</i>
+- <u>Dubrovnik-Neretva - Regional Special:</u> Konavle Embroidery <i>(Konavoski Vez)</i>
+- <u>Dubrovnik-Neretva - Regional Special:</u> Authentic Musical Instrument: Lijerica <i>(Lijerica)</i>
+- <u>Dubrovnik-Neretva - Regional Special:</u> Heritage of the Republic of Ragusa <i>(Dubrovačka Republika / Republica de Ragusa)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Statehood Day of Croatia <i>(Dan Državnosti)</i>. Month: May
 - Rijeka Carnival <i>(Riječki Karneval)</i>. Month: February or March
-- <u>Zagreb (Regional Special):</u> Samobor Carnival <i>(Samoborski Fašnik)</i>. Month: February to March
-- <u>Dubrovnik-Neretva (Regional Special):</u> Ladja Marathon <i>(Maraton Lađa)</i>. Month: August
-- <u>Dubrovnik-Neretva (Regional Special):</u> Festivity of Saint Blaise <i>(Festa Svetog Vlaha)</i>. Month: February
+- <u>Zagreb - Regional Special:</u> Samobor Carnival <i>(Samoborski Fašnik)</i>. Month: February to March
+- <u>Dubrovnik-Neretva - Regional Special:</u> Ladja Marathon <i>(Maraton Lađa)</i>. Month: August
+- <u>Dubrovnik-Neretva - Regional Special:</u> Festivity of Saint Blaise <i>(Festa Svetog Vlaha)</i>. Month: February
 
 
 

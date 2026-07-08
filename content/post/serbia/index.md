@@ -145,7 +145,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - Heritage of the Serbian Empire <i>(Српско Царство)</i>
 - Heritage of the Modern Kingdom of Serbia <i>(Модерна Краљевина Србија)</i>
 - Heritage of Yugoslavia <i>(Југославија / Jugoslavija)</i>
-- <u>Vojvodina (Regional Special):</u> Legacy of Grenzers <i>(Граничари)</i>
+- <u>Vojvodina - Regional Special:</u> Legacy of Grenzers <i>(Граничари)</i>
 
 
 

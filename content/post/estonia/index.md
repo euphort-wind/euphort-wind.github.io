@@ -110,8 +110,8 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - Estonian Runic Singing <i>(Regilaul)</i>
 - Estonian E-Government <i>(E-Riik)</i>
 - Authentic Musical Instrument: Kannel <i>(Kannel)</i>
-- <u>Võru (Regional Special):</u> Võro Smoke Sauna <i>(Suitsusaun / Savvusann)</i>
-- <u>Võru (Regional Special):</u> Culture of Setos <i>(Setukesed / Setokõsõq)</i>
+- <u>Võru - Regional Special:</u> Võro Smoke Sauna <i>(Suitsusaun / Savvusann)</i>
+- <u>Võru - Regional Special:</u> Culture of Setos <i>(Setukesed / Setokõsõq)</i>
   - Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
   - Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
   - Title of Ülemsootska <i>(Ülemsootska / Ülembsootśka)</i>
@@ -121,7 +121,7 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - Independence Day of Estonia <i>(Eesti Iseseisvuspäev)</i>. Month: February
 - Estonian National Song Festival <i>(Eesti Üldlaulupidu)</i>. Month: July
 - Jaanipäev <i>(Leedopäev)</i>. Month: June
-- <u>Võru (Regional Special):</u> Seto Kingdom Day <i>(Seto Kuningriigi Päev / Seto Kuningriik)</i>. Month: August
+- <u>Võru - Regional Special:</u> Seto Kingdom Day <i>(Seto Kuningriigi Päev / Seto Kuningriik)</i>. Month: August
 
 
 <b>💐 National flower: </b> Blue Cornflower <i>(Rukkilill)</i>

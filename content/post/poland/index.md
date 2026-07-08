@@ -144,7 +144,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - Title of Szlachcic <i>(Szlachcic)</i>
   - Polish Baroque Architecture <i>(Sztuka Barokowa w Polsce)</i>
   - Authentic Garb: Robe à la Polonaise & Żupan <i>(Poloneska i Żupan)</i> 
-- <u>Pomeranian (Regional Special):</u> Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
+- <u>Pomeranian - Regional Special:</u> Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
   - Koseder Dance <i>(Koseder / Kòséder)</i>
   - Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
   - Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
@@ -155,11 +155,11 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - Third May Constitution Day <i>(Święto Konstytucji 3 Maja)</i>. Month: May
 - Dożynki <i>(Dożynki)</i>. Month: August
 - Wigilia <i>(Wigilia Bożego Narodzenia)</i>. Month: December
-- <u>Pomeranian (Regional Special):</u> Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March 
+- <u>Pomeranian - Regional Special:</u> Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March 
 
 
 <b>💐 National flower: </b> Red Poppy <i>(Mak Polny)</i>
-- <u>Pomeranian (Regional Special):</u> Kashubian Vetch <i>(Wyka Kaszubska / Kaszëbskô Wika)</i>
+- <u>Pomeranian - Regional Special:</u> Kashubian Vetch <i>(Wyka Kaszubska / Kaszëbskô Wika)</i>
 
 <b>🦉 Local wisdom:</b> "The turkey had a plan for Sunday, but it was eaten on Saturday." / <i>"Indyk myślał o niedzieli, a w sobotę łeb mu ścięli."</i> — Polish proverb
 

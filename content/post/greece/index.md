@@ -159,29 +159,29 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - Ancient Greek Religion <i>(Αρχαία Ελληνική Θρησκεία)</i>
   - Ancient Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
   - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος και Χλαμύδα)</i>
-- <u>Crete (Regional Special):</u> Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
-- <u>Crete (Regional Special):</u> Authentic Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
-- <u>Crete (Regional Special):</u> The Legacy of Minoans <i>(Μινωίτες)</i>
+- <u>Crete - Regional Special:</u> Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
+- <u>Crete - Regional Special:</u> Authentic Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
+- <u>Crete - Regional Special:</u> The Legacy of Minoans <i>(Μινωίτες)</i>
   - Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
   - Linear A Writing System <i>(Γραμμική Α)</i>
   - Knossos Board Game <i>(Ζατρίκιον)</i>
   - Minoan Painting <i>(Μινωική Ζωγραφική)</i>
   - Minoan Pottery <i>(Μινωική Κεραμική)</i>
   - Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
-- <u>South Aegean (Regional Special):</u> Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
-- <u>South Aegean (Regional Special):</u> Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
+- <u>South Aegean - Regional Special:</u> Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
+- <u>South Aegean - Regional Special:</u> Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Greece <i>(Εορτασμός της Ελληνικής Επανάστασης του 1821)</i>. Month: March
 - Tsiknopempti <i>(Τσικνοπέμπτη)</i>. Month: February or March
 - Ohi Day <i>(Επέτειος του Όχι)</i>. Month: October
-- <u>Crete (Regional Special):</u> Cretan Diet Festival <i>(Γιορτή Κρητικής Διατροφής)</i>. Month: July
-- <u>South Aegean (Regional Special):</u> Medieval Rose Festival <i>(Μεσαιωνικό Φεστιβάλ Ρόδου)</i>. Month: October 
+- <u>Crete - Regional Special:</u> Cretan Diet Festival <i>(Γιορτή Κρητικής Διατροφής)</i>. Month: July
+- <u>South Aegean - Regional Special:</u> Medieval Rose Festival <i>(Μεσαιωνικό Φεστιβάλ Ρόδου)</i>. Month: October 
 
 
 <b>💐 National flower: </b> Bear's Breech <i>(Άκανθος)</i>
-- <u>Crete (Regional Special):</u> Cretan Dittany <i>(Δίκταμο / Έρωντας)</i>
+- <u>Crete - Regional Special:</u> Cretan Dittany <i>(Δίκταμο / Έρωντας)</i>
 
 
 <b>🦉 Local wisdom:</b> "The one who lives will see, but the one who walks will see more." / "<i>Όποιος ζήσει θα ιδεί, μα όποιος περπατήσει θα ιδεί περισσότερα.</i>" — Greek proverb

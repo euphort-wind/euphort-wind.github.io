@@ -139,13 +139,13 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>   
 - Authentic Garb: Portuguese Traje <i>(Traje Típico Português)</i>
 - Heritage of the Portuguese Empire <i>(Império Português)</i>
-- <u>Lisbon (Regional Special):</u> Lisbon Historic Trams <i>(Brand: "Remodelados")</i>
+- <u>Lisbon - Regional Special:</u> Lisbon Historic Trams <i>(Brand: "Remodelados")</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Portugal National Day <i>(Dia de Portugal, de Camões e das Comunidades Portuguesas)</i>. Month: June
 - Freedom Day of Portugal <i>(Dia da Liberdade)</i>. Month: April
-- <u>Lisbon (Regional Special):</u> Saint Anthony Festival in Lisbon <i>(Festa de Santo António em Lisboa)</i>. Month: May to June
+- <u>Lisbon - Regional Special:</u> Saint Anthony Festival in Lisbon <i>(Festa de Santo António em Lisboa)</i>. Month: May to June
 
 
 <b>💐 National flower: </b> [unofficially] Lavender Cotton <i>(Abrótano-Fêmea)</i>

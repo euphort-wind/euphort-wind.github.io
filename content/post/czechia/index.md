@@ -121,7 +121,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - Culture of Moravians <i>(Moravané / Moraváci)</i>
 - Heritage of the Kingdom of Bohemia <i>(České Království / Königreich Böhmen)</i>
 - Heritage of Great Moravia <i>(Velkomoravská Říše / Ⰿⱁⱃⰰⰲⰰ)</i>
-- <u>Central Bohemia (Regional Special):</u> Bohemian Glass <i>(České Sklo)</i>
+- <u>Central Bohemia - Regional Special:</u> Bohemian Glass <i>(České Sklo)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Statehood Day of Czechia <i>(Den České Státnosti)</i>. Month: September

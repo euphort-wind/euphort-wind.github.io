@@ -120,13 +120,13 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 - Authentic Garb: Slovak Kroj <i>(Slovenský Kroj)</i>
 - Culture of Rusyns <i>(Rusíni / Русины)</i>
 - Heritage of the Principality of Nitra <i>(Nitrianske Kniežatstvo)</i>
-- <u>Banská Bystrica (Regional Special):</u> Tajchy Artificial Lakes <i>(Tajchy)</i>
+- <u>Banská Bystrica - Regional Special:</u> Tajchy Artificial Lakes <i>(Tajchy)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Day of the Establishment of the Slovak Republic <i>(Deň Vzniku Slovenskej Republiky)</i>. Month: January
 - Fašiangy <i>(Fašiangy)</i>. Month: January to February
 - Jánošík´s Days <i>(Jánošíkove Dni)</i>. Month: July
-- <u>Banská Bystrica (Regional Special):</u> Salamander Days <i>(Salamandrové Dni)</i>. Month: September
+- <u>Banská Bystrica - Regional Special:</u> Salamander Days <i>(Salamandrové Dni)</i>. Month: September
 
 
 <b>💐 National flower: </b> Linden Blossom <i>(Lipový Kvet)</i>

@@ -211,10 +211,10 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
   - Title of Stadtholder <i>(Stadhouder)</i>
   - Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
   - Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i>
-- <u>Utrecht (Regional Special):</u> De Stijl Architecture <i>(De Stijl Architectuur)</i>
-- <u>South Holland (Regional Special):</u> Wall Poems in Leiden <i>(Muurgedichten in Leiden)</i>
-- <u>South Holland (Regional Special):</u> Delftware <i>(Delfts Blauw)</i>
-- <u>Friesland (Regional Special):</u> Culture of Frisians <i>(Friezen / Friezen)</i>
+- <u>Utrecht - Regional Special:</u> De Stijl Architecture <i>(De Stijl Architectuur)</i>
+- <u>South Holland - Regional Special:</u> Wall Poems in Leiden <i>(Muurgedichten in Leiden)</i>
+- <u>South Holland - Regional Special:</u> Delftware <i>(Delfts Blauw)</i>
+- <u>Friesland - Regional Special:</u> Culture of Frisians <i>(Friezen / Friezen)</i>
   - Authentic Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
   - Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
   - Fierljeppen Sport <i>(Polsstokverspringen / Fierljeppen)</i> 
@@ -225,12 +225,12 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 <b>🎊 Authentic holidays & celebrations:</b>
 - King's Day <i>(Koningsdag)</i>. Month: April
 - Sinterklaas Feast <i>(Sinterklaas)</i>. Month: December
-- <u>South Holland (Regional Special):</u> 3 October Festival <i>(Leidens Ontzet)</i>. Month: October
-- <u>Friesland (Regional Special):</u> Elfstedentocht Event <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February 
+- <u>South Holland - Regional Special:</u> 3 October Festival <i>(Leidens Ontzet)</i>. Month: October
+- <u>Friesland - Regional Special:</u> Elfstedentocht Event <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February 
 
 
 <b>💐 National flower: </b> [historically] Tulip <i>(Tulp)</i> & [officially] Daisy <i>(Madeliefje)</i>
-- <u>Friesland (Regional Special):</u> Fringed Water-Lily <i>(Pompeblêd)</i>
+- <u>Friesland - Regional Special:</u> Fringed Water-Lily <i>(Pompeblêd)</i>
 
 
 <b>🦉 Local wisdom:</b> "Don't throw away your old shoes until you have got new ones." / <i>"Gooi nooit oude schoenen weg voordat je nieuwe hebt."</i> — Dutch proverb

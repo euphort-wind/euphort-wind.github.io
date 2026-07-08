@@ -192,8 +192,8 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
   - Vishapakars <i>(Վիշապաքար)</i>
 - Heritage of the Kingdom of Greater Armenia <i>(Մեծ Հայք / Armenia Maior)</i>
 - Heritage of Bagratid Armenia <i>(Բագրատունիների թագավորություն)</i>
-- <u>Shirak (Regional Special):</u> Gyumri Klklans <i>(Գյումրվա կլկլան)</i>
-- <u>Shirak (Regional Special):</u> Gyumri Blacksmithing Tradition <i>(Գյումրիի դարբնության ավանդույթ)</i>
+- <u>Shirak - Regional Special:</u> Gyumri Klklans <i>(Գյումրվա կլկլան)</i>
+- <u>Shirak - Regional Special:</u> Gyumri Blacksmithing Tradition <i>(Գյումրիի դարբնության ավանդույթ)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

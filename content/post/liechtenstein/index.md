@@ -92,7 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
 - Title of Prince of Liechtenstein <i>(Landesfürst)</i>
 - Liechtenstein Folklore <i>(Liechtensteiner Folklore)</i>
 - Authentic Garb: Liechtensteiner Tracht <i>(Liechtensteiner Tracht)</i>
-- <u>Triesenberg (Regional Special):</u> Culture of Walser People <i>(Walser)</i>
+- <u>Triesenberg - Regional Special:</u> Culture of Walser People <i>(Walser)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

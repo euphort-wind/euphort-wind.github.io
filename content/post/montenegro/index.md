@@ -128,16 +128,16 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
   - Title of Vladika of Montenegro <i>(Владика)</i>
   - Title of Guvernadur <i>(Гувернадур)</i>
 - Heritage of the Principality of Montenegro <i>(Књажевина Црна Горa)</i>
-- <u>Coastal Montenegro (Regional Special):</u> Legends of Kotor <i>(Легенде о Настанку Котора)</i>
-- <u>Coastal Montenegro (Regional Special):</u> Dobrota Lace <i>(Добротска Чипка)</i>
+- <u>Coastal Montenegro - Regional Special:</u> Legends of Kotor <i>(Легенде о Настанку Котора)</i>
+- <u>Coastal Montenegro - Regional Special:</u> Dobrota Lace <i>(Добротска Чипка)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day <i>(Дан Независности)</i>. Month: May 
 - Statehood Day <i>(Дан Државности)</i>. Month: July
 - Njegoš Day <i>(Његошев Дан)</i>. Month: November
-- <u>Coastal Montenegro (Regional Special):</u> Bokeljska Night <i>(Бокељска Ноћ)</i>
-- <u>Coastal Montenegro (Regional Special):</u> Fašinada <i>(Фашинада)</i>
+- <u>Coastal Montenegro - Regional Special:</u> Bokeljska Night <i>(Бокељска Ноћ)</i>
+- <u>Coastal Montenegro - Regional Special:</u> Fašinada <i>(Фашинада)</i>
 
 
 <b>💐 National flower: </b> Mimosa Pudica <i>(Мимоза)</i>

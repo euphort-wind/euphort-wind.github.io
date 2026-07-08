@@ -148,9 +148,9 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Heritage of the Gupta Empire <i>(गुप्त राजवंश / गुप्त)</i>
 - Heritage of the Chola Empire <i>(चोल साम्राज्य / இடைக்காலச் சோழர்கள்)</i>
 - Heritage of the Maratha Empire <i>(मराठा साम्राज्य)</i>
-- <u>Karnataka (Regional Special):</u> Heritage of the Rashtrakuta Empire <i>(राष्ट्रकूट राजवंश / ರಾಷ್ಟ್ರಕೂಟ)</i>
-- <u>Karnataka (Regional Special):</u> Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i>
-- <u>Karnataka (Regional Special):</u> Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
+- <u>Karnataka - Regional Special:</u> Heritage of the Rashtrakuta Empire <i>(राष्ट्रकूट राजवंश / ರಾಷ್ಟ್ರಕೂಟ)</i>
+- <u>Karnataka - Regional Special:</u> Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i>
+- <u>Karnataka - Regional Special:</u> Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
   - Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
   - Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
   - Dasa Sahitya Literature <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
@@ -158,7 +158,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - Pallanguzhi Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>
   - Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
   - Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
-- <u>Goa (Regional Special):</u> Culture of Goans <i>(गोवाई / गोएनकर)</i>
+- <u>Goa - Regional Special:</u> Culture of Goans <i>(गोवाई / गोएनकर)</i>
   - Authentic Concept: Susegad <i>(सुसेगाद / सुसेगाद)</i>
   - Fugdi Dance <i>(फुगडी / फुगडी)</i>
   - Authentic Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
@@ -175,16 +175,16 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Makara Sankrānti <i>(मकर संक्रान्ति)</i>. Month: January
 - Maha Shivaratri <i>(महाशिवरात्रि)</i>. Month: February or March
 - Rama Navami <i>(राम नवमी)</i>. Month: March or April
-- <u>Karnataka (Regional Special):</u> Karnataka Rajyotsava <i>(कर्नाटक राज्य दिवस / ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ)</i>. Month: November
-- <u>Karnataka (Regional Special):</u> Yugādi <i>(उगादि / ಯುಗಾದಿ)</i>. Month: March
-- <u>Goa (Regional Special):</u> Goan Carnival <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>. Month: February or March
-- <u>Goa (Regional Special):</u> Shigmo <i>(शिग्मो / शिगमो)</i>. Month: February or March
+- <u>Karnataka - Regional Special:</u> Karnataka Rajyotsava <i>(कर्नाटक राज्य दिवस / ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ)</i>. Month: November
+- <u>Karnataka - Regional Special:</u> Yugādi <i>(उगादि / ಯುಗಾದಿ)</i>. Month: March
+- <u>Goa - Regional Special:</u> Goan Carnival <i>(गोवा कार्निवल / गोंय कार्निवाल)</i>. Month: February or March
+- <u>Goa - Regional Special:</u> Shigmo <i>(शिग्मो / शिगमो)</i>. Month: February or March
 
 
 
 <b>💐 National flower: </b> Indian Lotus <i>(कमल)</i>
-- <u>Goa (Regional Special):</u> Red Jasmine <i>(रेड जास्मिन  / चमेली)</i>
-- <u>Karnataka (Regional Special):</u> Indian Lotus <i>(कमल / ಕಮಲ)</i>
+- <u>Goa - Regional Special:</u> Red Jasmine <i>(रेड जास्मिन  / चमेली)</i>
+- <u>Karnataka - Regional Special:</u> Indian Lotus <i>(कमल / ಕಮಲ)</i>
 
 
 <b>🦉 Local wisdom:</b> "The half-filled pitcher overflows with noise, the full pitcher goes silent." / <i>"अधजल गगरी छलकत जाए, भरी गगरिया चुपके जाए ।"</i> — Indian proverb

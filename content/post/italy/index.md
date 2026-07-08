@@ -346,59 +346,59 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Roman Religion <i>(Religione Romana Antica)</i> 
   - Ancient Authentic Musical Instrument: Cornu <i>(Cornu)</i> 
   - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
-- <u>Lazio (Regional Special):</u> Nasoni <i>(Nasoni)</i> 
-- <u>Tuscany (Regional Special):</u> Scoppio del Carro Easter Tradition <i>(Scoppio del Carro)</i> 
-- <u>Tuscany (Regional Special):</u> Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
+- <u>Lazio - Regional Special:</u> Nasoni <i>(Nasoni)</i> 
+- <u>Tuscany - Regional Special:</u> Scoppio del Carro Easter Tradition <i>(Scoppio del Carro)</i> 
+- <u>Tuscany - Regional Special:</u> Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
   - Medici Porcelain <i>(Porcellane Medicee)</i>
   - Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i>
   - Italian Renaissance Painting <i>(Pittura Rinascimentale)</i>
-- <u>Tuscany (Regional Special):</u> Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i> 
-- <u>Emilia-Romagna (Regional Special):</u> Liscio Dance <i>(Ballo Liscio)</i> 
-- <u>Emilia-Romagna (Regional Special):</u> Porticoes of Bologna <i>(Portici di Bologna)</i>
-- <u>Emilia-Romagna (Regional Special):</u> Towers of Bologna <i>(Torri di Bologna)</i>
-- <u>Sicily (Regional Special):</u> Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i> 
-- <u>Sicily (Regional Special):</u> Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
+- <u>Tuscany - Regional Special:</u> Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i> 
+- <u>Emilia-Romagna - Regional Special:</u> Liscio Dance <i>(Ballo Liscio)</i> 
+- <u>Emilia-Romagna - Regional Special:</u> Porticoes of Bologna <i>(Portici di Bologna)</i>
+- <u>Emilia-Romagna - Regional Special:</u> Towers of Bologna <i>(Torri di Bologna)</i>
+- <u>Sicily - Regional Special:</u> Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i> 
+- <u>Sicily - Regional Special:</u> Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
   - Authentic Concept: Omerta <i>(Omertà / Ômertà)</i> 
   - Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
   - Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
   - Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
   - Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
   - Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
-- <u>Campania (Regional Special):</u> Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
-- <u>Campania (Regional Special):</u> Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
-- <u>Campania (Regional Special):</u> Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
-- <u>Campania (Regional Special):</u> Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
-- <u>Campania (Regional Special):</u> Strummolo Game <i>(Strummolo / Strummolo)</i> 
-- <u>Campania (Regional Special):</u> Tombola Game <i>(Tombola / Tombola)</i> 
-- <u>Campania (Regional Special):</u> Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
-- <u>Campania (Regional Special):</u> Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
-- <u>Campania (Regional Special):</u> Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
-- <u>Campania (Regional Special):</u> Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i> 
-- <u>Lombardy (Regional Special):</u> Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
-- <u>Lombardy (Regional Special):</u> Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
-- <u>Lombardy (Regional Special):</u> Navigli of Milan <i>(Navigli / Navili)</i>
-- <u>Lombardy (Regional Special):</u> Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
+- <u>Campania - Regional Special:</u> Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
+- <u>Campania - Regional Special:</u> Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
+- <u>Campania - Regional Special:</u> Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
+- <u>Campania - Regional Special:</u> Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
+- <u>Campania - Regional Special:</u> Strummolo Game <i>(Strummolo / Strummolo)</i> 
+- <u>Campania - Regional Special:</u> Tombola Game <i>(Tombola / Tombola)</i> 
+- <u>Campania - Regional Special:</u> Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
+- <u>Campania - Regional Special:</u> Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
+- <u>Campania - Regional Special:</u> Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
+- <u>Campania - Regional Special:</u> Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i> 
+- <u>Lombardy - Regional Special:</u> Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
+- <u>Lombardy - Regional Special:</u> Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
+- <u>Lombardy - Regional Special:</u> Navigli of Milan <i>(Navigli / Navili)</i>
+- <u>Lombardy - Regional Special:</u> Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Republic Day of Italy <i>(Festa della Repubblica Italiana)</i>. Month: June
 - Ferragosto <i>(Ferragosto)</i>. Month: August
-- <u>Lazio (Regional Special):</u> Natale di Roma <i>(Natale di Roma)</i>. Month: April
-- <u>Emilia-Romagna (Regional Special):</u> Palio of Ferrara <i>(Palio di Ferrara)</i>. Month: May
-- <u>Tuscany (Regional Special):</u> Carnival of Viareggio <i>(Carnevale di Viareggio)</i>. Month: February or March
-- <u>Sicily (Regional Special):</u> Festival of Saint Agatha <i>(La Festa di Sant'agata / A Fest' 'i Sant'àjita)</i>. Month: February and August
-- <u>Campania (Regional Special):</u> Feast of San Gennaro <i>(La Festa di San Gennaro / Juorno 'e San Gennaro)</i>. Month: September
-- <u>Lombardy (Regional Special):</u> Ambrosian Carnival <i>(Carnevale Ambrosiano / Carnevalòne di Milano)</i>. Month: February
+- <u>Lazio - Regional Special:</u> Natale di Roma <i>(Natale di Roma)</i>. Month: April
+- <u>Emilia-Romagna - Regional Special:</u> Palio of Ferrara <i>(Palio di Ferrara)</i>. Month: May
+- <u>Tuscany - Regional Special:</u> Carnival of Viareggio <i>(Carnevale di Viareggio)</i>. Month: February or March
+- <u>Sicily - Regional Special:</u> Festival of Saint Agatha <i>(La Festa di Sant'agata / A Fest' 'i Sant'àjita)</i>. Month: February and August
+- <u>Campania - Regional Special:</u> Feast of San Gennaro <i>(La Festa di San Gennaro / Juorno 'e San Gennaro)</i>. Month: September
+- <u>Lombardy - Regional Special:</u> Ambrosian Carnival <i>(Carnevale Ambrosiano / Carnevalòne di Milano)</i>. Month: February
 
 
 <b>💐 National flower: </b> Strawberry Tree Blossom <i>(Fiore del Corbezzolo)</i>
-- <u>Tuscany (Regional Special):</u> Sunflower <i>(Girasole)</i>
-- <u>Emilia-Romagna (Regional Special):</u> Cowslip <i>(Primula Appenninica)</i>
-- <u>Lazio (Regional Special):</u> Storax Flower <i>(Fiore di Storace)</i>
-- <u>Sicily (Regional Special):</u> Plumeria <i>(Plumeria / Plumeria)</i>
-- <u>Campania (Regional Special):</u> Palinuri Primrose <i>(Primula di Palinuro / Primula 'e Palinuro)</i>
-- <u>Lombardy (Regional Special):</u> Elisabetta's Catchfly <i>(Silene di Elisabetta / Silene di Elisabetta)</i> 
+- <u>Tuscany - Regional Special:</u> Sunflower <i>(Girasole)</i>
+- <u>Emilia-Romagna - Regional Special:</u> Cowslip <i>(Primula Appenninica)</i>
+- <u>Lazio - Regional Special:</u> Storax Flower <i>(Fiore di Storace)</i>
+- <u>Sicily - Regional Special:</u> Plumeria <i>(Plumeria / Plumeria)</i>
+- <u>Campania - Regional Special:</u> Palinuri Primrose <i>(Primula di Palinuro / Primula 'e Palinuro)</i>
+- <u>Lombardy - Regional Special:</u> Elisabetta's Catchfly <i>(Silene di Elisabetta / Silene di Elisabetta)</i> 
 
 
 <b>🦉 Local wisdom:</b> "He who leaves the old path for the new knows what he leaves, and does not know what he finds."  / <i>"Chi lascia la via vecchia per la nuova, sa quel che lascia, e non sa quel che trova."</i> — Italian proverb

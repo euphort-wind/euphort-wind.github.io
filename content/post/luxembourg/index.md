@@ -98,7 +98,7 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
 - Grand Duke's Official Birthday <i>(Groussherzogsgebuertsdag)</i>. Month: June
 - Buergbrennen <i>(Buergbrennen)</i>. Month: February or March
 - Émaischen <i>(Éimaischen)</i>. Month: March or April
-- <u>Luxembourg-City (Regional Special):</u> Schueberfouer <i>(Schueberfouer)</i>. Month: August to September
+- <u>Luxembourg-City - Regional Special:</u> Schueberfouer <i>(Schueberfouer)</i>. Month: August to September
 
 
 <b>💐 National flower: </b> Floribunda Rose <i>(Anne Beffort Rose)</i>

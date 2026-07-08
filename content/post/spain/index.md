@@ -135,7 +135,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Legacy of Iberians <i>(Íberos)</i>
 - Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - Heritage of the Spanish Republic <i>(República Española)</i>
-- <u>Catalonia (Regional Special):</u> Culture of Catalans <i>(Catalanes / Catalans)</i>
+- <u>Catalonia - Regional Special:</u> Culture of Catalans <i>(Catalanes / Catalans)</i>
   - Authentic Concept: Seny <i>(Seny / Seny)</i>
   - Sardana Dance <i>(Sardana / Sardana)</i>
   - Patacó Game <i>(Patacó / Patacó)</i>
@@ -152,12 +152,12 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - National Day of Spain <i>(Fiesta Nacional de España)</i>. Month: October
 - Constitution Day of Spain <i>(Día de la Constitución Española)</i>. Month: December
 - La Tomatina <i>(La Tomatina)</i>. Month: August
-- <u>Catalonia (Regional Special):</u> National Day of Catalonia <i>(Día de Cataluña / Diada Nacional de Catalunya)</i>. Month: September
-- <u>Catalonia (Regional Special):</u> La Mercè <i>(Fiestas de la Merced / La Mercè)</i>. Month: September
+- <u>Catalonia - Regional Special:</u> National Day of Catalonia <i>(Día de Cataluña / Diada Nacional de Catalunya)</i>. Month: September
+- <u>Catalonia - Regional Special:</u> La Mercè <i>(Fiestas de la Merced / La Mercè)</i>. Month: September
 
 
 <b>💐 National flower: </b> Red Carnation <i>(Clavel Rojo)</i>
-- <u>Catalonia (Regional Special):</u> Weaver's Broom <i>(Retama / Ginesta)</i>
+- <u>Catalonia - Regional Special:</u> Weaver's Broom <i>(Retama / Ginesta)</i>
 
 
 <b>🦉 Local wisdom:</b> "Even if a monkey dresses in silk, it remains a monkey." / <i>"Aunque la mona se vista de seda, mona se queda."</i> —  Spanish proverb

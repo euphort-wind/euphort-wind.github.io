@@ -247,15 +247,15 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - Authentic Garb: German Tracht <i>(Tracht)</i>
 - Heritage of the Holy Roman Empire <i>(Heiliges Römisches Reich / Sacrum Imperium Romanum)</i>
 - Heritage of Prussia <i>(Preußen / Prūsija)</i>
-- <u>Hessen (Regional Special):</u> Schwälmer Dance <i>(Schwälmer Tanz)</i>
-- <u>Hessen (Regional Special):</u> Authentic Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i>
-- <u>Rhineland-Palatinate (Regional Special):</u> German Wine Queen Competition <i>(Deutsche Weinkönigin)</i>
-- <u>Rhineland-Palatinate (Regional Special):</u> Westerwald Pottery <i>(Westerwälder Steinzeug)</i>
-- <u>Rhineland-Palatinate (Regional Special):</u> Authentic Garb: Tugendpfeil <i>(Tugendpfeil)</i>
-- <u>North Rhine-Westphalia (Regional Special):</u> Eau de Cologne Perfume <i>(Kölnisch Wasser)</i>
-- <u>Bavaria (Regional Special):</u> Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
-- <u>Bavaria (Regional Special):</u> Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
-- <u>Bavaria (Regional Special):</u> Culture of Bavarians <i>(Bayern / Boarn)</i>
+- <u>Hessen - Regional Special:</u> Schwälmer Dance <i>(Schwälmer Tanz)</i>
+- <u>Hessen - Regional Special:</u> Authentic Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i>
+- <u>Rhineland-Palatinate - Regional Special:</u> German Wine Queen Competition <i>(Deutsche Weinkönigin)</i>
+- <u>Rhineland-Palatinate - Regional Special:</u> Westerwald Pottery <i>(Westerwälder Steinzeug)</i>
+- <u>Rhineland-Palatinate - Regional Special:</u> Authentic Garb: Tugendpfeil <i>(Tugendpfeil)</i>
+- <u>North Rhine-Westphalia - Regional Special:</u> Eau de Cologne Perfume <i>(Kölnisch Wasser)</i>
+- <u>Bavaria - Regional Special:</u> Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
+- <u>Bavaria - Regional Special:</u> Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
+- <u>Bavaria - Regional Special:</u> Culture of Bavarians <i>(Bayern / Boarn)</i>
   - Schuhplattler Dance <i>(Schuhplattler / Schuhplattler)</i>
   - Aperschnalzen Tradition <i>(Aperschnalzen / Apaschnoizn)</i>
   - Gstanzl Singing <i>(Gstanzl / Gestanzel)</i>
@@ -270,17 +270,17 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 <b>🎊 Authentic holidays & celebrations:</b>
 - German Unity Day <i>(Tag der Deutschen Einheit)</i>. Month: October 
 - Rosenmontag <i>(Rosenmontag)</i>. Month: February or March
-- <u>Hessen (Regional Special):</u> Lullusfest <i>(Lullusfest / Lullusfest)</i>. Month: October
-- <u>Hessen (Regional Special):</u> Frankfurt Apple Wine Festival <i>(Apfelweinfestival / Ebbelwoifest)</i>. Month: August
-- <u>Rhineland-Palatinate (Regional Special):</u> "Rhine in Flames" Festival <i>(Rhein in Flammen)</i>. Month: August
-- <u>Rhineland-Palatinate (Regional Special):</u> Wurstmarkt <i>(Wurstmarkt)</i>. Month: September
-- <u>North Rhine-Westphalia (Regional Special):</u> Cologne Carnival <i>(Kölner Karneval)</i>. Month: November
-- <u>North Rhine-Westphalia (Regional Special):</u> Düsseldorf Carnival <i>(Düsseldorfer Karneval)</i>. Month: November 
-- <u>Bavaria (Regional Special):</u> Oktoberfest <i>(Oktoberfest / D'Wiesn)</i>. Month: September to  October
+- <u>Hessen - Regional Special:</u> Lullusfest <i>(Lullusfest / Lullusfest)</i>. Month: October
+- <u>Hessen - Regional Special:</u> Frankfurt Apple Wine Festival <i>(Apfelweinfestival / Ebbelwoifest)</i>. Month: August
+- <u>Rhineland-Palatinate - Regional Special:</u> "Rhine in Flames" Festival <i>(Rhein in Flammen)</i>. Month: August
+- <u>Rhineland-Palatinate - Regional Special:</u> Wurstmarkt <i>(Wurstmarkt)</i>. Month: September
+- <u>North Rhine-Westphalia - Regional Special:</u> Cologne Carnival <i>(Kölner Karneval)</i>. Month: November
+- <u>North Rhine-Westphalia - Regional Special:</u> Düsseldorf Carnival <i>(Düsseldorfer Karneval)</i>. Month: November 
+- <u>Bavaria - Regional Special:</u> Oktoberfest <i>(Oktoberfest / D'Wiesn)</i>. Month: September to  October
 
 
 <b>💐 National flower: </b> Cornflower <i>(Kornblumen)</i>
-- <u>Bavaria (Regional Special):</u> Edelweiss <i>(Alpen-Edelweiß / Edlweiß)</i>
+- <u>Bavaria - Regional Special:</u> Edelweiss <i>(Alpen-Edelweiß / Edlweiß)</i>
 
 
 <b>🦉 Local wisdom:</b> "The devil's favorite piece of furniture is the long bench." / <i>"Des Teufels liebstes Möbelstück ist die lange Bank."</i> — German proverb
