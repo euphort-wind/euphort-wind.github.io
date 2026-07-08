@@ -88,34 +88,39 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - 🇺🇳 Lost Sky (singer). Genre: future bass
 
 <b>🍽️ Local food & drinks: </b>
-- Sataraš <i>(Sataraš)</i>
-- Fritaja <i>(Fritaja)</i>
-- Češnjovka Sausage <i>(Češnjovka)</i>
-- Croatian Rižot <i>(Hrvatski Rižot)</i>
-  - Black Rižot <i>(Crni Rižot)</i>
-  - Skradinski Rižot <i>(Skradinski Rižot)</i>
-  - Rižot s Tartufima <i>(Rižot s Tartufima)</i>
-- Gregada <i>(Gregada)</i>
-- Brudet <i>(Brodet)</i>
-- Pašticada <i>(Pašticada)</i>
-- Kroštule <i>(Kroštule)</i>
-- Uštipci <i>(Uštipci)</i>
-- Bajadera <i>(Bajadera)</i>
-- Međimurska Gibanica <i>(Međimurska Gibanica)</i>
-- Pag Cheese <i>(Paški Sir)</i>
-- Maraskino <i>(Brand: "Perković")</i>
-- Travarica <i>(Brand: "Velebit")</i>
-- <u>Zagreb (Regional Special):</u> Štrukli <i>(Štrukli)</i>
-  - Štrukli with Pumpkin Seeds <i>(Štrukli sa Bučinim Sjemenkama)</i>
-  - Štrukli with Blueberries <i>(Štrukli s Borovnicama)</i>
-  - Štrukli with Walnuts and Honey <i>(Štrukli s Orasima i Medom)</i>
-- <u>Zadar (Regional Special):</u> Buzara-Style Seafood <i>(Morski Plodovi na Buzaru
-)</i>
-  - Buzara-Style Scampi <i>(Škampi na Buzaru)</i>
-  - Buzara-Style Squids <i>(Lignje na Buzaru)</i>
-  - Buzara-Style Mussels <i>(Dagnje na Buzaru)</i>
-- <u>Dubrovnik-Neretva (Regional Special):</u> Peka-Style Octopus <i>(Hobotnica ispod Peke)</i>
-- <u>Dubrovnik-Neretva (Regional Special):</u> Rožata <i>(Rožata)</i>
+- 🥓 Češnjovka Sausage <i>(Češnjovka)</i>
+- 🥘 Sataraš <i>(Sataraš)</i>
+- 🥘 Fritaja <i>(Fritaja)</i>
+- 🥘 Croatian Rižot <i>(Hrvatski Rižot)</i>
+  - 🥘 Black Rižot <i>(Crni Rižot)</i>
+  - 🥘 Skradinski Rižot <i>(Skradinski Rižot)</i>
+  - 🥘 Rižot s Tartufima <i>(Rižot s Tartufima)</i>
+- 🥘 Gregada <i>(Gregada)</i>
+- 🥘 Brudet <i>(Brodet)</i>
+- 🥘 Pašticada <i>(Pašticada)</i>
+- 🍰 Kroštule <i>(Kroštule)</i>
+- 🍰 Uštipci <i>(Uštipci)</i>
+- 🍰 Bajadera <i>(Bajadera)</i>
+- 🍰 Međimurska Gibanica <i>(Međimurska Gibanica)</i>
+- 🧀 Pag Cheese <i>(Paški Sir)</i>
+- 🍶 Maraskino <i>(Brand: "Perković")</i>
+- 🍶 Travarica <i>(Brand: "Velebit")</i>
+</br>
+<u>Zagreb - Regional Special:</u> 
+- 🍰 Štrukli <i>(Štrukli)</i>
+  - 🍰 Štrukli with Pumpkin Seeds <i>(Štrukli sa Bučinim Sjemenkama)</i>
+  - 🍰 Štrukli with Blueberries <i>(Štrukli s Borovnicama)</i>
+  - 🍰 Štrukli with Walnuts and Honey <i>(Štrukli s Orasima i Medom)</i>
+</br>  
+<u>Zadar - Regional Special:</u> 
+- 🥘Buzara-Style Seafood <i>(Morski Plodovi na Buzaru)</i>
+  - 🥘 Buzara-Style Scampi <i>(Škampi na Buzaru)</i>
+  - 🥘 Buzara-Style Squids <i>(Lignje na Buzaru)</i>
+  - 🥘 Buzara-Style Mussels <i>(Dagnje na Buzaru)</i>
+</br>  
+<u>Dubrovnik-Neretva - Regional Special:</u>
+- 🥘 Peka-Style Octopus <i>(Hobotnica ispod Peke)</i>
+- 🍰 Rožata <i>(Rožata)</i>
 
 
 <b>🎬 Local movies:</b>

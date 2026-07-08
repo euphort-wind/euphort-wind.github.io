@@ -143,9 +143,9 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🥗 Foie Gras <i>(Foie Gras)</i>
 - 🥗 Steak Tartare <i>(Steak Tartare)</i>
 - 🥗 French Egg Dishes <i>(Plats Français à Base d'Œufs)</i>
-    - 🥗 Omelette <i>(Omelette)</i>
     - 🥗 Oeuf Mayonnaise <i>(Œuf Mayonnaise)</i>
-    - 🥗 Poached Egg <i>(Œuf Poché)</i>
+    - 🥘 Poached Egg <i>(Œuf Poché)</i>
+    - 🥘 Omelette <i>(Omelette)</i>
 - 🥙 Quiche Lorraine <i>(Quiche Lorraine)</i>
 - 🥙 Croque Monsieur <i>(Croque Monsieur)</i>
 - 🥙 Croque Madame <i>(Croque Madame)</i>

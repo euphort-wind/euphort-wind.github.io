@@ -75,14 +75,14 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
 
 
 <b>🍽️ Local food & drinks: </b>
-- Truites De Carreroles <i>(Truites De Carreroles)</i>
-- Trinxat <i>(Trinxat)</i>
-- Andorran Escudella <i>(Escudella)</i>
-- Trucha a la Andorrana <i>(Trucha a l'Andorrana)</i>
-- Crema a la Andorrana <i>(Crema a l'Andorrana)</i>
-- Andorran Orelletes <i>(Orelletes)</i>
-- Coca Pastry <i>(Coca)</i>
-- Andorran Liqueur <i>(Brand: "Ratassia de la Carmeta")</i>
+- 🥘 Truites De Carreroles <i>(Truites De Carreroles)</i>
+- 🥘 Trinxat <i>(Trinxat)</i>
+- 🥘 Andorran Escudella <i>(Escudella)</i>
+- 🥘 Trucha a la Andorrana <i>(Trucha a l'Andorrana)</i>
+- 🍰 Crema a la Andorrana <i>(Crema a l'Andorrana)</i>
+- 🍰 Andorran Orelletes <i>(Orelletes)</i>
+- 🍰 Coca Pastry <i>(Coca)</i>
+- 🍶 Andorran Liqueur <i>(Brand: "Ratassia de la Carmeta")</i>
 
 
 <b>🎬 Local movies:</b>
