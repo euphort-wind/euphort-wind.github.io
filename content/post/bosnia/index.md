@@ -121,8 +121,8 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - Heritage of the Bosnian Banate <i>(Banovina Bosna / Boszniai Bánság)</i>
     - Bosnian Church Christianity <i>(Crkva Bosanska)</i>
     - Stećci <i>(Stećci)</i>
-    - Bosančica Script <i>(Bosančica)</i><br>
-- Heritage of the Bosnian Kingdom <i>(Kraljevina Bosna / Краљевина Босна)</i>
+    - Bosančica Script <i>(Bosančica)</i>
+- Heritage of the Bosnian Kingdom <i>(Kraljevina Bosna / Краљевина Босна)</i><br>
 <u>Sarajevo - Regional Special:</u> 
 - Sarajevo Roses <i>(Sarajevske Ruže)</i><br>
 <u>Herzegovina-Neretva - Regional Special:</u>

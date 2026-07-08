@@ -345,8 +345,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Roman Roads <i>(Antiche Strade Romane)</i> 
   - Ancient Roman Religion <i>(Religione Romana Antica)</i> 
   - Ancient Authentic Musical Instrument: Cornu <i>(Cornu)</i> 
-  - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i><br>
-- Heritage of the Kingdom of Italy <i>(Regno d'Italia)</i>
+  - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i>
+- Heritage of the Kingdom of Italy <i>(Regno d'Italia)</i><br>
 <u>Lazio - Regional Special:</u> 
 - Nasoni <i>(Nasoni)</i><br> 
 <u>Tuscany - Regional Special:</u> 
