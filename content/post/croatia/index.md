@@ -109,7 +109,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - 🥘 Zagrebački Odrezak <i>(Zagrebački Odrezak)</i>
 - 🍰 Štrukli <i>(Štrukli)</i> 
 <br><u>Zadar - Regional Special:</u> 
-- 🥘Buzara-Style Seafood <i>(Morski Plodovi na Buzaru)</i>
+- 🥘 Buzara-Style Seafood <i>(Morski Plodovi na Buzaru)</i>
   - 🥘 Buzara-Style Scampi <i>(Škampi na Buzaru)</i>
   - 🥘 Buzara-Style Squids <i>(Lignje na Buzaru)</i>
   - 🥘 Buzara-Style Mussels <i>(Dagnje na Buzaru)</i>
