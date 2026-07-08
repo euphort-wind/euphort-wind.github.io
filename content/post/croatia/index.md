@@ -141,13 +141,15 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - Authentic Musical Instrument: Tamburica <i>(Tamburica)</i>
 - Authentic Garb: Cravat & Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
 - Legacy of Illyrians <i>(Iliri)</i>
-- Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>  
-- <u>Zadar - Regional Special:</u> Klapa Singing <i>(Klapa)</i>
-- <u>Dubrovnik-Neretva - Regional Special:</u> Linđo Dance <i>(Linđo)</i>
-- <u>Dubrovnik-Neretva - Regional Special:</u> Neretvanska Ladja <i>(Neretvanska Lađa)</i>
-- <u>Dubrovnik-Neretva - Regional Special:</u> Konavle Embroidery <i>(Konavoski Vez)</i>
-- <u>Dubrovnik-Neretva - Regional Special:</u> Authentic Musical Instrument: Lijerica <i>(Lijerica)</i>
-- <u>Dubrovnik-Neretva - Regional Special:</u> Heritage of the Republic of Ragusa <i>(Dubrovačka Republika / Republica de Ragusa)</i>
+- Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i><br>  
+<u>Zadar - Regional Special:</u> 
+- Klapa Singing <i>(Klapa)</i><br>
+<u>Dubrovnik-Neretva - Regional Special:</u> 
+- Linđo Dance <i>(Linđo)</i>
+- Neretvanska Ladja <i>(Neretvanska Lađa)</i>
+- Konavle Embroidery <i>(Konavoski Vez)</i>
+- Authentic Musical Instrument: Lijerica <i>(Lijerica)</i>
+- Heritage of the Republic of Ragusa <i>(Dubrovačka Republika / Republica de Ragusa)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

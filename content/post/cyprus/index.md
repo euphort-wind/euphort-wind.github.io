@@ -96,8 +96,9 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 - Cypriot Syllabic Script <i>(Κυπριακό Συλλαβάριο)</i>
 - Authentic Musical Instrument: Laouto <i>(Λαούτο)</i>
 - Authentic Garb: Cypriot Sayia & Worry Beads <i>(Σαγιά και Κομπολόι)</i>
-- Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>
-- <u>Larnaca - Regional Special:</u> Lefkara Lace <i>(Λευκαρίτικα)</i>
+- Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i><br>
+<u>Larnaca - Regional Special:</u> 
+- Lefkara Lace <i>(Λευκαρίτικα)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

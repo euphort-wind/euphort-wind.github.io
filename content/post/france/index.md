@@ -300,13 +300,15 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - Legacy of Gauls <i>(Gaulois)</i> 
 - Legacy of Franks <i>(Francs / *Frankōz)</i> 
 - Heritage of the Kingdom of France <i>(Royaume de France / Reaume de France)</i>
-- Heritage of the French Empire <i>(Empire Français)</i>
-- <u>Île-de-France - Regional Special:</u> Apache Dance <i>(Valse Chaloupée)</i>
-- <u>Île-de-France - Regional Special:</u> Bal-Musette Music <i>(Bal Musette)</i>
-- <u>Île-de-France - Regional Special:</u> Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
-- <u>Île-de-France - Regional Special:</u> Art Déco Architecture <i>(Architecture Art Déco)</i>
-- <u>Occitania - Regional Special:</u> Chabrot Tradition <i>(Chabrot / Chabròt)</i>
-- <u>Occitania - Regional Special:</u> Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
+- Heritage of the French Empire <i>(Empire Français)</i><br>
+<u>Île-de-France - Regional Special:</u> 
+- Apache Dance <i>(Valse Chaloupée)</i>
+- Bal-Musette Music <i>(Bal Musette)</i>
+- Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
+- Art Déco Architecture <i>(Architecture Art Déco)</i><br>
+<u>Occitania - Regional Special:</u> 
+- Chabrot Tradition <i>(Chabrot / Chabròt)</i>
+- Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
   - Authentic Concept: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
   - Troubadours & Occitan Lyric Poetry <i>(Troubadours et Poésie Lyrique Occitane / Trobadors e Poesia Lirica Occitana)</i>
   - Floral Games <i>(Jeux Floraux / Jòcs Florals)</i>

@@ -129,9 +129,11 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - Belgian Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
 - Belgian Friterie Culture <i>(Culture de la Friterie / Friteriecultuur)</i>
 - Belgian Folklore <i>(Folklore Belge / Belgische Folklore)</i>
-- Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
-- <u>Brussels-Capital - Regional Special:</u> Flower Carpet <i>(Tapis de Fleurs / Bloementapijt)</i>
-- <u>Flanders - Regional Special:</u> Culture of Flemings <i>(Vlamingen)</i>
+- Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i><br>
+<u>Brussels-Capital - Regional Special:</u> 
+- Flower Carpet <i>(Tapis de Fleurs / Bloementapijt)</i><br>
+<u>Flanders - Regional Special:</u> 
+- Culture of Flemings <i>(Vlamingen)</i>
   - Flemish Baroque Painting <i>(Vlaamse Barokschilderkunst)</i>  
   - Bruges Lace <i>(Brugs Bloemwerk)</i>
   - Authentic Musical Instrument: Doedelzak <i>(Doedelzak)</i>

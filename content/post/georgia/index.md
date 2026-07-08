@@ -162,13 +162,16 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - Authentic Garb: Chokha & Kabalakhi <i>(ჩოხა და ყაბალახი)</i>
 - Heritage of the Kingdom of Iberia <i>(იბერია)</i>
 - Heritage of the Kingdom of Colchis <i>(ეგრისი)</i>
-- Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>
-- <u>Mtskheta-Mtianeti - Regional Special:</u> Heritage of the Kingdom of Kartli <i>(ქართლის სამეფო)</i>
-- <u>Kakheti - Regional Special:</u> Kakhuri Dance <i>(კახურის ცეკვა)</i>
-- <u>Kakheti - Regional Special:</u> Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
-- <u>Kakheti - Regional Special:</u> Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i>
-- <u>Tbilisi-Capital - Regional Special:</u> Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
-- <u>Tbilisi-Capital - Regional Special:</u> Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i>
+- Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i><br>
+<u>Mtskheta-Mtianeti - Regional Special:</u> 
+- Heritage of the Kingdom of Kartli <i>(ქართლის სამეფო)</i><br>
+<u>Kakheti - Regional Special:</u> 
+- Kakhuri Dance <i>(კახურის ცეკვა)</i>
+- Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
+- Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i><br>
+<u>Tbilisi-Capital - Regional Special:</u> 
+- Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
+- Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

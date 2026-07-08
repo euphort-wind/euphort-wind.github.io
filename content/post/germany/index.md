@@ -246,16 +246,20 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - Authentic Musical Instrument: Zither <i>(Zither)</i>
 - Authentic Garb: German Tracht <i>(Tracht)</i>
 - Heritage of the Holy Roman Empire <i>(Heiliges Römisches Reich / Sacrum Imperium Romanum)</i>
-- Heritage of Prussia <i>(Preußen / Prūsija)</i>
-- <u>Hessen - Regional Special:</u> Schwälmer Dance <i>(Schwälmer Tanz)</i>
-- <u>Hessen - Regional Special:</u> Authentic Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i>
-- <u>Rhineland-Palatinate - Regional Special:</u> German Wine Queen Competition <i>(Deutsche Weinkönigin)</i>
-- <u>Rhineland-Palatinate - Regional Special:</u> Westerwald Pottery <i>(Westerwälder Steinzeug)</i>
-- <u>Rhineland-Palatinate - Regional Special:</u> Authentic Garb: Tugendpfeil <i>(Tugendpfeil)</i>
-- <u>North Rhine-Westphalia - Regional Special:</u> Eau de Cologne Perfume <i>(Kölnisch Wasser)</i>
-- <u>Bavaria - Regional Special:</u> Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
-- <u>Bavaria - Regional Special:</u> Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
-- <u>Bavaria - Regional Special:</u> Culture of Bavarians <i>(Bayern / Boarn)</i>
+- Heritage of Prussia <i>(Preußen / Prūsija)</i><br>
+<u>Hessen - Regional Special:</u> 
+- Schwälmer Dance <i>(Schwälmer Tanz)</i>
+- Authentic Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i><br>
+<u>Rhineland-Palatinate - Regional Special:</u>
+- German Wine Queen Competition <i>(Deutsche Weinkönigin)</i>
+- Westerwald Pottery <i>(Westerwälder Steinzeug)</i>
+- Authentic Garb: Tugendpfeil <i>(Tugendpfeil)</i><br>
+<u>North Rhine-Westphalia - Regional Special:</u> 
+- Eau de Cologne Perfume <i>(Kölnisch Wasser)</i><br> 
+<u>Bavaria - Regional Special:</u>
+- Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
+- Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
+- Culture of Bavarians <i>(Bayern / Boarn)</i>
   - Schuhplattler Dance <i>(Schuhplattler / Schuhplattler)</i>
   - Aperschnalzen Tradition <i>(Aperschnalzen / Apaschnoizn)</i>
   - Gstanzl Singing <i>(Gstanzl / Gestanzel)</i>
