@@ -108,7 +108,10 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 </br>
 <u>Zagreb - Regional Special:</u> 
 - 🥘 Zagrebački Odrezak <i>(Zagrebački Odrezak)</i>
-- 🍰 Štrukli <i>(Štrukli)</i>  
+- 🍰 Štrukli <i>(Štrukli)</i> 
+  - 🍰 Štrukli with Pumpkin Seeds <i>(Štrukli sa Bučinim Sjemenkama)</i>
+  - 🍰 Štrukli with Blueberries <i>(Štrukli s Borovnicama)</i>
+  - 🍰 Štrukli with Walnuts and Honey <i>(Štrukli s Orasima i Medom)</i> 
 <u>Zadar - Regional Special:</u> 
 - 🥘Buzara-Style Seafood <i>(Morski Plodovi na Buzaru)</i>
   - 🥘 Buzara-Style Scampi <i>(Škampi na Buzaru)</i>
