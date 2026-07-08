@@ -166,14 +166,14 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 <u>Crete - Regional Special:</u> 
 - Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
 - Authentic Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
-- The Legacy of Minoans <i>(Μινωίτες)</i>
+- Legacy of Minoans <i>(Μινωίτες)</i>
   - Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
   - Linear A Writing System <i>(Γραμμική Α)</i>
   - Knossos Board Game <i>(Ζατρίκιον)</i>
   - Minoan Painting <i>(Μινωική Ζωγραφική)</i>
   - Minoan Pottery <i>(Μινωική Κεραμική)</i>
   - Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
-
+- Heritage of the Cretan State <i>(Κρητική Πολιτεία)</i><br> 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Greece <i>(Εορτασμός της Ελληνικής Επανάστασης του 1821)</i>. Month: March

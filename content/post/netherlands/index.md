@@ -210,7 +210,9 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
   - Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
   - Title of Stadtholder <i>(Stadhouder)</i>
   - Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
-  - Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i><br>
+  - Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i>
+- Heritage of the Dutch Empire <i>(Nederlandse Rijk)</i>
+<br>
 <u>Utrecht - Regional Special:</u> 
 - De Stijl Architecture <i>(De Stijl Architectuur)</i><br>
 <u>South Holland - Regional Special:</u> 

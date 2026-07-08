@@ -183,6 +183,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
   - Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
   - Königinnentanz Dance <i>(Dansul Reginelor / Königinnentanz)</i>
   - Authentic Garb: Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>
+ 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - National Day of Romania <i>(Ziua Națională a României)</i>. Month: December

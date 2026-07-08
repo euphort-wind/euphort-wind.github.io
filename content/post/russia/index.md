@@ -327,20 +327,20 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
     - Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
     - Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
-- Shikhan Chalk Hills <i>(Шиханы / Шихандар)</i>
+- Shikhan Chalk Hills <i>(Шиханы / Шихандар)</i><br>
 <u>Kabardino-Balkaria - Regional Special:</u> 
 - Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
     - Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
     - Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
     - Balkar Bychak Knives <i>(Бичак / Бычак)</i>
-- Heritage of Princedom of Kabardia <i>(Кабарда / Къэбэрдей Пщыгъуэ)</i> <br>
+- Heritage of Princedom of Kabardia <i>(Кабарда / Къэбэрдей Пщыгъуэ)</i><br>
 <u>Karachay-Cherkessia - Regional Special:</u> 
 - Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
     - Authentic Concept: Circassian Xabze <i>(Хабза / Адыгэ Хабзэ)</i>
     - Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
     - Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
     - Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
-- Heritage of the Circassia <i>(Черкесия / Адыгэ Хэку)</i><br>
+- Heritage of Zichia <i>(Черкесия / Адыгэ Хэку)</i><br>
 <u>North Ossetia - Regional Special:</u> 
 - Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
     - Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
