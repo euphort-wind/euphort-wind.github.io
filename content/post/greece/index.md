@@ -158,7 +158,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - Ancient Greek Chariot Racing <i>(Ἁρματοδρομία)</i>
   - Ancient Greek Religion <i>(Αρχαία Ελληνική Θρησκεία)</i>
   - Ancient Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
-  - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος και Χλαμύδα)</i><br> 
+  - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος και Χλαμύδα)</i>
+- Heritage of the Kingdom of Greece <i>(Βασίλειον τῆς Ἑλλάδος)</i><br> 
 <u>South Aegean - Regional Special:</u>
 - Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
 - Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i><br>
