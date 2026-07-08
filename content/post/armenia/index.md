@@ -125,27 +125,35 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 - 🥘 Armenian Khashlama <i>(Խաշլամա)</i>
 - 🥘 Khurjin <i>(Խուրջին)</i>
 - 🥘 Tjvjik <i>(տժվժիկ)</i>
-- Armenian Cheese <i>(Հայկական պանիրներ)</i>
-    - Chanakh <i>(չանախ)</i>
-    - Chechil <i>(Չեչիլ)</i>
-    - Lori <i>(լոռի)</i>
-    - Horats Panir <i>(հորած պանիր)</i>
-- Nazook <i>(Նազուկ)</i>
-- Matzoon <i>(մածուն)</i>
-- Gata <i>(գաթա)</i>
-- Sharots <i>(շարոց)</i>
-- Alani Dried Fruit <i>(ալանի)</i>
-- Lavash <i>(լավաշ)</i>
-- Matnakash <i>(մատնաքաշ)</i>
-- Tan Drink <i>(Թան)</i>
-- Armenian Brandy <i>(Brands: "Noy", "Ararat")</i>
-- Mulberry Vodka <i>(Brands: "Stone Land")</i>
-- <u>Syunik (Regional Special):</u> Zhingyalov Hats <i>(Ժենգյալով հաց)</i>
-- <u>Gegharkunik (Regional Special):</u> Crayfish Lula Kebab <i>(խեցգետնի քաբաբի)</i>
-- <u>Gegharkunik (Regional Special):</u> Sevan Trout with Steamed Vegetables <i>(Սևանի իշխան բանջարեղենով)</i>
-- <u>Tavush (Regional Special):</u> Kchuch <i>(կճուճ)</i>
-- <u>Tavush (Regional Special):</u> Konchol <i>(Կոնչոլ)</i>
-- <u>Shirak (Regional Special):</u> Qyalla <i>(Քյալլա)</i>
+- 🧀 Armenian Cheese <i>(Հայկական պանիրներ)</i>
+    - 🧀 Chanakh <i>(չանախ)</i>
+    - 🧀 Chechil <i>(Չեչիլ)</i>
+    - 🧀 Lori <i>(լոռի)</i>
+    - 🧀 Horats Panir <i>(հորած պանիր)</i>
+- 🍰 Nazook <i>(Նազուկ)</i>
+- 🍰 Matzoon <i>(մածուն)</i>
+- 🍰 Gata <i>(գաթա)</i>
+- 🍰 Sharots <i>(շարոց)</i>
+- 🍰 Alani Dried Fruit <i>(ալանի)</i>
+- 🫓 Lavash <i>(լավաշ)</i>
+- 🫓 Matnakash <i>(մատնաքաշ)</i>
+- 🍶 Tan Drink <i>(Թան)</i>
+- 🍶 Armenian Brandy <i>(Brands: "Noy", "Ararat")</i>
+- 🍶 Mulberry Vodka <i>(Brands: "Stone Land")</i>
+</br>
+<u>Syunik - Regional Special:</u> 
+- 🥙 Zhingyalov Hats <i>(Ժենգյալով հաց)</i>
+</br>
+<u>Gegharkunik - Regional Special:</u> 
+- 🥘 Crayfish Lula Kebab <i>(խեցգետնի քաբաբի)</i>
+- 🥘 Sevan Trout with Steamed Vegetables <i>(Սևանի իշխան բանջարեղենով)</i>
+</br>
+<u>Tavush - Regional Special:</u>
+- 🍲 Konchol <i>(Կոնչոլ)</i> 
+- 🥘 Kchuch <i>(կճուճ)</i>
+</br>
+<u>Shirak - Regional Special:</u> 
+- 🥘 Qyalla <i>(Քյալլա)</i>
 
 
 <b>🎬 Local movies:</b>
