@@ -154,8 +154,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Constitution Day of Spain <i>(Día de la Constitución Española)</i>. Month: December
 - La Tomatina <i>(La Tomatina)</i>. Month: August<br>
 <u>Catalonia - Regional Special:</u> 
-- National Day of Catalonia <i>(Día de Cataluña / Diada Nacional de Catalunya)</i>. Month: September<br>
-<u>Catalonia - Regional Special:</u> 
+- National Day of Catalonia <i>(Día de Cataluña / Diada Nacional de Catalunya)</i>. Month: September
 - La Mercè <i>(Fiestas de la Merced / La Mercè)</i>. Month: September
 
 
