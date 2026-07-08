@@ -136,8 +136,9 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
   - 🧀 Katǎk <i>(Катък)</i>
 - 🫓 Mekitsa <i>(Мекица)</i>
 - 🍶 Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
-- <u>Burgas - Regional Special:</u> 
-  - 🥙 Strandzhanka Sandwich <i>(Странджанка)</i>
+</br>
+<u>Burgas - Regional Special:</u> 
+- 🥙 Strandzhanka Sandwich <i>(Странджанка)</i>
 
 
 <b>🎬 Local movies:</b>

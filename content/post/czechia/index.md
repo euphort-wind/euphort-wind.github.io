@@ -96,8 +96,9 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - 🧀 Hermelín Cheese <i>(Hermelín)</i>
 - 🍶 Czech Beer <i>(Brands: "Pilsner Urquell", "Staropramen", "Gambrinus")</i>
 - 🍶 Czech Herbal Bitter <i>(Brand: "Becherovka")</i>
-- <u>Prague-Capital - Regional Special:</u> 
-  - 🥓 Prague Ham <i>(Pražská Šunka)</i>
+</br>
+<u>Prague-Capital - Regional Special:</u> 
+- 🥓 Prague Ham <i>(Pražská Šunka)</i>
 
 
 <b>🎬 Local movies:</b>

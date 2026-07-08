@@ -95,12 +95,14 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - 🍰 Hurmašice <i>(Hurmašice)</i>
 - 🧀 Bosnian Smoked Cheese <i>(Suhi Dimljeni Sir)</i>
 - 🍶 Bosnian Coffee <i>(Bosanska Kafa)</i>
-- <u>Sarajevo - Regional Special:</u> 
-  - 🥘 Sarajevo Sahan <i>(Sarajevski Sahan)</i>
-  - 🥘 Klepe <i>(Klepe)</i>
-- <u>Herzegovina-Neretva - Regional Special:</u> 
-  - 🥘 Buredžići <i>(Buredžići)</i>
-  - 🍰 Smokvara <i>(Smokvara)</i>
+</br>
+<u>Sarajevo - Regional Special:</u> 
+- 🥘 Sarajevo Sahan <i>(Sarajevski Sahan)</i>
+- 🥘 Klepe <i>(Klepe)</i>
+</br>
+<u>Herzegovina-Neretva - Regional Special:</u> 
+- 🥘 Buredžići <i>(Buredžići)</i>
+- 🍰 Smokvara <i>(Smokvara)</i>
 
 
 <b>🎬 Local movies:</b>

@@ -178,36 +178,40 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🍰 Gummy Bears <i>(Gummibärchen)</i>
 - 🫓 Pretzel <i>(Brezel)</i>
 - 🍶 German Liqueur <i>(Brand: "Jägermeister")</i> 
-- <u>Hessen - Regional Special:</u> 
-  - 🥙 Speckkuchen <i>(Speckkuchen / Speckkuchen)</i>
-  - 🥘 Frankfurter Rippchen <i>(Frankfurter Rippchen / Frankfurter Rippchen)</i>
-  - 🍰 Frankfurt Crown Cake <i>(Frankfurter Kranz / Frankfurter Kranz)</i>
-  - 🧀 Handkäse <i>(Handkäse / Handkäse mit Musik)</i>
-  - 🍶 Hessian Apfelwein <i>(Brands: "Kelterei Walther", "Kelterei Possmann")</i>
-- <u>Rhineland-Palatinate - Regional Special:</u> 
-  - 🥘 Reibekuchen <i>(Reibekuchen)</i>
-  - 🥘 Saumagen <i>(Saumagen)</i>
-  - 🥫 Frankfurter Green Sauce <i>(Frankfurter Grüne Soße / Frankfurter Grie Soß)</i>
-  - 🍶 German Wine <i>(Brands: "Volk Riesling Trocken", "Robert Weil Rheingau Riesling Trocken")</i>
-- <u>North Rhine-Westphalia - Regional Special:</u>
-  - 🥓 Panhas <i>(Panhas / Pannas)</i>
-  - 🥓 Flönz <i>(Flönz / Flönz)</i>
-  - 🥙 Cologne Caviar <i>(Kölscher Kaviar / Kölscher Kaviar)</i>
-  - 🥙 Halve Hahn <i>(Halve Hahn / Halve Hahn)</i>
-  - 🥙 Potthucke <i>(Potthucke / Puffert)</i>
-  - 🥘 Himmel und Erde <i>(Himmel und Erde / Himmel un Ääd)</i>
-  - 🫓 Pumpernickel <i>(Pumpernickel / Pumpernickel)</i>
-  - 🍶 Kölsch Beer <i>(Brands: "Gaffel Kölsch", "Früh Kölsch")</i>
-- <u>Bavaria - Regional Special:</u>
-  - 🥓 Gelbwurst <i>(Gelbwurst / Gelbwuascht)</i> 
-  - 🥗 Obatzda <i>(Obatzda / Obazda)</i>
-  - 🥗 Kartoffelkäse <i>(Kartoffelkäse / Erdäpfelkäse)</i>
-  - 🥘 Leberkäse <i>(Fleischkäse / Lebakaas)</i>
-  - 🥘 Weißwurst <i>(Weißwurst / Weißwuascht)</i>
-  - 🥘 Schweinshaxe <i>(Schweinshaxe / Schweinshaxn)</i>
-  - 🥘 Schweinsbraten with Beer Sauce <i>(Schweinsbraten mit Biersauce / Schweinsbratn mit Biersoß) </i>
-  - 🥘 Bavarian Cabbage <i>(Bayrisch Kraut / Bayrischkraut)</i>
-  - 🍶 Hefeweizen Beer <i>(Brands: "Hofbräu München", "Paulaner", "Erdinger", "Weihenstephaner")</i>
+<\br>
+<u>Hessen - Regional Special:</u> 
+- 🥙 Speckkuchen <i>(Speckkuchen / Speckkuchen)</i>
+- 🥘 Frankfurter Rippchen <i>(Frankfurter Rippchen / Frankfurter Rippchen)</i>
+- 🍰 Frankfurt Crown Cake <i>(Frankfurter Kranz / Frankfurter Kranz)</i>
+- 🧀 Handkäse <i>(Handkäse / Handkäse mit Musik)</i>
+- 🍶 Hessian Apfelwein <i>(Brands: "Kelterei Walther", "Kelterei Possmann")</i>
+<\br>
+<u>Rhineland-Palatinate - Regional Special:</u> 
+- 🥘 Reibekuchen <i>(Reibekuchen)</i>
+- 🥘 Saumagen <i>(Saumagen)</i>
+- 🥫 Frankfurter Green Sauce <i>(Frankfurter Grüne Soße / Frankfurter Grie Soß)</i>
+- 🍶 German Wine <i>(Brands: "Volk Riesling Trocken", "Robert Weil Rheingau Riesling Trocken")</i>
+<\br>
+<u>North Rhine-Westphalia - Regional Special:</u>
+- 🥓 Panhas <i>(Panhas / Pannas)</i>
+- 🥓 Flönz <i>(Flönz / Flönz)</i>
+- 🥙 Cologne Caviar <i>(Kölscher Kaviar / Kölscher Kaviar)</i>
+- 🥙 Halve Hahn <i>(Halve Hahn / Halve Hahn)</i>
+- 🥙 Potthucke <i>(Potthucke / Puffert)</i>
+- 🥘 Himmel und Erde <i>(Himmel und Erde / Himmel un Ääd)</i>
+- 🫓 Pumpernickel <i>(Pumpernickel / Pumpernickel)</i>
+- 🍶 Kölsch Beer <i>(Brands: "Gaffel Kölsch", "Früh Kölsch")</i>
+<\br>
+<u>Bavaria - Regional Special:</u>
+- 🥓 Gelbwurst <i>(Gelbwurst / Gelbwuascht)</i> 
+- 🥗 Obatzda <i>(Obatzda / Obazda)</i>
+- 🥗 Kartoffelkäse <i>(Kartoffelkäse / Erdäpfelkäse)</i>
+- 🥘 Leberkäse <i>(Fleischkäse / Lebakaas)</i>
+- 🥘 Weißwurst <i>(Weißwurst / Weißwuascht)</i>
+- 🥘 Schweinshaxe <i>(Schweinshaxe / Schweinshaxn)</i>
+- 🥘 Schweinsbraten with Beer Sauce <i>(Schweinsbraten mit Biersauce / Schweinsbratn mit Biersoß) </i>
+- 🥘 Bavarian Cabbage <i>(Bayrisch Kraut / Bayrischkraut)</i>
+- 🍶 Hefeweizen Beer <i>(Brands: "Hofbräu München", "Paulaner", "Erdinger", "Weihenstephaner")</i>
 
 
 <b>🎬 Local movies:</b>

@@ -83,8 +83,9 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - 🍰 Albanian Yogurt <i>(Kos)</i>
 - 🫓 Flia <i>(Flia)</i>
 - 🍶 Albanian Salep <i>(Salep)</i>
-- <u>Tirana - Regional Special:</u> 
-  - 🥘 Fërgesë of Tirana <i>(Fërgesë Tirane)</i>
+</br>
+<u>Tirana - Regional Special:</u> 
+- 🥘 Fërgesë of Tirana <i>(Fërgesë Tirane)</i>
 
 
 <b>🎬 Local movies:</b>

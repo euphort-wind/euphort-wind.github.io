@@ -260,7 +260,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🍲 Ribollita <i>(Ribollita)</i>
 - 🥘 Florentine Steak <i>(Bistecca alla Fiorentina)</i>
 </br>
-- <u>Sicily - Regional Special:</u>
+<u>Sicily - Regional Special:</u>
 - 🥙 Pani câ Meusa <i>(Pane con Meusa / Pani câ Meusa)</i>
 - 🥘 Panella <i>(Panella / Panella)</i>
 - 🥘 Caponata <i>(Caponata / Capunata)</i>
@@ -276,7 +276,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🍰 Granita <i>(Granita Siciliana / Granita)</i>
 - 🍰 Frutta Martorana <i>(Frutta di Martorana / Frutta Marturana)</i>
 </br>
-- <u>Campania - Regional Special:</u> 
+<u>Campania - Regional Special:</u> 
 - 🥗 Caprese Salad <i>(Insalata Caprese / Caprese)</i>
 - 🥙 Neapolitan Pizza <i>(Pizza Napoletana / Pizza Napulitana)</i>
   - 🥙 Pizza Marinara <i>(Pizza alla Marinara / Pizza a Marinara)</i>
@@ -289,7 +289,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🍰 Pastiera Napoletana <i>(Pastiera Napoletana / Pastiera Napulitana)</i>
 - 🫓 Taralli <i>(Taralli / Taralle)</i>
 </br>
-- <u>Lombardy - Regional Special:</u> 
+<u>Lombardy - Regional Special:</u> 
 - 🥘 Risotto alla Milanese <i>(Risotto alla Milanese / Risòtt Giald)</i>
 - 🥘 Cassoeula <i>(Cazzoeula / Cassola)</i>
 - 🥘 Ossobuco alla Milanese <i>(Ossobuco alla Milanese / Òss Bus)</i>

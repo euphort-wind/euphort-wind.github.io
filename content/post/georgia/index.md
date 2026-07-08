@@ -128,14 +128,15 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - 🍶 Georgian Lemonades <i>(Brands: "Natakhtari Cream Soda", "Kazbegi Tarkhuna", etc.)</i> 
 - 🍶 Georgian Wine <i>(Brands: "Keburia Rkatsiteli", "Khareba Rkatsiteli", "GRW Saperavi", "Duruji Valley Kisi Qvevri", "Dugladze Mukuzani", "Duruji Valley Kindzmarauli", Kakhetian Home-Made Kindzmarauli, etc.)</i> 
 - 🍶 Georgian Chacha <i>(Brands: "Askaneli Brothers Chacha", Georgian Home-Made Chacha, etc.)</i> 
-- <u>Kakheti - Regional Special:</u> 
-  - 🍲 Kakhetian Khashlama <i>(ხაშლამა)</i>
-  - 🥘 Chakapuli <i>(ჩაქაფული)</i>
-  - 🥘 Chashushuli <i>(ჩაშუშული)</i>
-  - 🥘 Mtsvadi <i>(მწვადი)</i>
-    - 🥘 Mtsvadi-Style Pork <i>(ღორის მწვადი)</i>
-    - 🥘 Mtsvadi-Style Lamb <i>(ცხვრის მწვადი)</i>
-    - 🥘 Mtsvadi-Style Chicken <i>(ქათმის მწვადი)</i>
+<\br>
+<u>Kakheti - Regional Special:</u> 
+- 🍲 Kakhetian Khashlama <i>(ხაშლამა)</i>
+- 🥘 Chakapuli <i>(ჩაქაფული)</i>
+- 🥘 Chashushuli <i>(ჩაშუშული)</i>
+- 🥘 Mtsvadi <i>(მწვადი)</i>
+  - 🥘 Mtsvadi-Style Pork <i>(ღორის მწვადი)</i>
+  - 🥘 Mtsvadi-Style Lamb <i>(ცხვრის მწვადი)</i>
+  - 🥘 Mtsvadi-Style Chicken <i>(ქათმის მწვადი)</i>
 
 <b>🎬 Local movies:</b>
 - The Other Bank <i>(გაღმა ნაპირი)</i>. Year: 2009. Genre: drama 

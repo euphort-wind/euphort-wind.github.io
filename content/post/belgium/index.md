@@ -103,12 +103,14 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 🍰 Belgian Waffles <i>(Gaufres Belges / Belgische Wafels)</i>
 - 🍰 Belgian Chocolate & Pralines <i>(Chocolats et Pralines Belges / Belgische Chocolade en Pralines)</i>
 - 🍶 Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Leffe", "Delirium")</i>
-- <u>Brussels-Capital - Regional Special:</u> 
-  - 🥘 Stewed Brussels Sprouts <i>(Choux de Bruxelles / Spruitjes)</i>
-- <u>Flanders - Regional Special:</u> 
-  - 🥘 Shrimp Croquettes <i>(Garnaalkroket)</i>
-  - 🥘 Flemish Stew <i>(Stoofvlees)</i>
-  - 🥘 Eel in the Green <i>(Paling in 't Groen)</i>
+</br>
+<u>Brussels-Capital - Regional Special:</u> 
+- 🥘 Stewed Brussels Sprouts <i>(Choux de Bruxelles / Spruitjes)</i>
+</br>
+<u>Flanders - Regional Special:</u> 
+- 🥘 Shrimp Croquettes <i>(Garnaalkroket)</i>
+- 🥘 Flemish Stew <i>(Stoofvlees)</i>
+- 🥘 Eel in the Green <i>(Paling in 't Groen)</i>
 
 <b>🎬 Local movies:</b>
 - Mr. Nobody <i>(Mr. Nobody)</i>. Year: 2009. Genre: fantasy
