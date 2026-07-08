@@ -304,38 +304,46 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - Epadunk. Originated: early 2020s
 
 <b>🍽️ Local food & drinks: </b>
-- Surströmming <i>(Surströmming)</i>
-- Smörgåskaviar <i>(Smörgåskaviar)</i>
-- Toast Skagen <i>(Toast Skagen)</i>
-- Smörgåstårta <i>(Smörgåstårta)</i>
-- Raggmunk with Bacon and Lingonberry Sauce <i>(Raggmunk med Fläsk och Lingonsylt)</i>
-- Swedish Meatballs with Mashed Potatoes, Cream Sauce and Lingonberry Jam <i>(Köttbullar med Potatismos, Gräddsås och Lingonsylt)</i>
-- Pyttipanna <i>(Pytt-i-Panna)</i>
-- Wallenbergare <i>(Wallenbergare)</i>
-- Flying Jacob <i>(Flygande Jacob)</i>
-- Jansson's Temptation <i>(Janssons Frestelse)</i>
-- Cinnamon Rolls <i>(Kanelbullar)</i>
-- Princess Cake <i>(Prinsesstårta)</i>
-- Punsch-Rolls <i>(Dammsugare)</i>
-- Saffron Buns <i>(Lussekatter)</i>
-- Kladdkaka <i>(Kladdkaka)</i>
-- Blueberry Soup <i>(Blåbärssoppa)</i>
-- Swedish Cheese <i>(Svensk Ost)</i>
-    - Västerbottensost <i>(Västerbottensost)</i> 
-    - Prästost <i>(Prästost)</i>
-    - Herrgårdsost <i>(Herrgårdsost)</i>
-    - Hushållsost <i>(Hushållsost)</i>
-    - Grevé <i>(Grevé)</i>
-    - Gräddost <i>(Gräddost)</i>
-- Crispbread <i>(Knäckebröd)</i>
-- Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
-- Swedish Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
-- Blueberry Wine <i>(Brand: "Rålund")</i>
-- <u>Västernorrland (Regional Special):</u> Toast with Chanterelles <i>(Norrlandstoast med Gula Kantareller)</i>
-- <u>Gotland (Regional Special):</u> Gotland Spring Onion Soup <i>(Gotländsk Kajpsoppa)</i>
-- <u>Gotland (Regional Special):</u> Gotland Saffran Pancake with Cream and Dewberry Jam <i>(Saffranspannkaka med Grädde och Salmbärssylt)</i>
-- <u>Västra Götaland (Regional Special):</u> Swedish Sausage with Mashed Potatoes on Top <i>(Halv Special)</i>
-- <u>Halland (Regional Special):</u> Långkål <i>(Halländsk Långkål)</i>
+- 🥓 Surströmming <i>(Surströmming)</i>
+- 🥗 Smörgåskaviar <i>(Smörgåskaviar)</i>
+- 🥙 Toast Skagen <i>(Toast Skagen)</i>
+- 🥙 Smörgåstårta <i>(Smörgåstårta)</i>
+- 🥘 Raggmunk with Bacon and Lingonberry Sauce <i>(Raggmunk med Fläsk och Lingonsylt)</i>
+- 🥘 Swedish Meatballs with Mashed Potatoes, Cream Sauce and Lingonberry Jam <i>(Köttbullar med Potatismos, Gräddsås och Lingonsylt)</i>
+- 🥘 Pyttipanna <i>(Pytt-i-Panna)</i>
+- 🥘 Wallenbergare <i>(Wallenbergare)</i>
+- 🥘 Flying Jacob <i>(Flygande Jacob)</i>
+- 🥘 Jansson's Temptation <i>(Janssons Frestelse)</i>
+- 🍰 Cinnamon Rolls <i>(Kanelbullar)</i>
+- 🍰 Princess Cake <i>(Prinsesstårta)</i>
+- 🍰 Punsch-Rolls <i>(Dammsugare)</i>
+- 🍰 Saffron Buns <i>(Lussekatter)</i>
+- 🍰 Kladdkaka <i>(Kladdkaka)</i>
+- 🍰 Blueberry Soup <i>(Blåbärssoppa)</i>
+- 🧀 Swedish Cheese <i>(Svensk Ost)</i>
+    - 🧀 Västerbottensost <i>(Västerbottensost)</i> 
+    - 🧀 Prästost <i>(Prästost)</i>
+    - 🧀 Herrgårdsost <i>(Herrgårdsost)</i>
+    - 🧀 Hushållsost <i>(Hushållsost)</i>
+    - 🧀 Grevé <i>(Grevé)</i>
+    - 🧀 Gräddost <i>(Gräddost)</i>
+- 🫓 Crispbread <i>(Knäckebröd)</i>
+- 🍶 Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
+- 🍶 Swedish Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
+- 🍶 Blueberry Wine <i>(Brand: "Rålund")</i>
+</br>
+<u>Västernorrland - Regional Special:</u> 
+- 🥙 Toast with Chanterelles <i>(Norrlandstoast med Gula Kantareller)</i>
+</br>
+<u>Gotland - Regional Special:</u> 
+- 🍲 Gotland Spring Onion Soup <i>(Gotländsk Kajpsoppa)</i>
+- 🍰 Gotland Saffran Pancake with Cream and Dewberry Jam <i>(Saffranspannkaka med Grädde och Salmbärssylt)</i>
+</br>
+<u>Västra Götaland - Regional Special:</u> 
+- 🥙 Swedish Sausage with Mashed Potatoes on Top <i>(Halv Special)</i>
+</br>
+<u>Halland - Regional Special:</u> 
+- 🥘 Långkål <i>(Halländsk Långkål)</i>
 
 
 
