@@ -326,8 +326,9 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - Estivada <i>(L'Estivada / L'Estivada)</i>. Month: July
 
 <b>💐 National flower: </b> 
-- Yellow Iris <i>(Iris des Marais)</i>
-- <u>Occitania - Regional Special:</u> Toulouse Violet <i>(Violette de Toulouse / Violeta de Tolosa)</i>
+- Yellow Iris <i>(Iris des Marais)</i><br>
+<u>Occitania - Regional Special:</u> 
+- Toulouse Violet <i>(Violette de Toulouse / Violeta de Tolosa)</i>
 
 
 <b>🦉 Local wisdom:</b> "Little by little, the bird makes its nest." / <i>"Petit à petit, l'oiseau fait son nid."</i> — French proverb
