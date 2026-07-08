@@ -345,39 +345,45 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - Ancient Roman Roads <i>(Antiche Strade Romane)</i> 
   - Ancient Roman Religion <i>(Religione Romana Antica)</i> 
   - Ancient Authentic Musical Instrument: Cornu <i>(Cornu)</i> 
-  - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
-- <u>Lazio - Regional Special:</u> Nasoni <i>(Nasoni)</i> 
-- <u>Tuscany - Regional Special:</u> Scoppio del Carro Easter Tradition <i>(Scoppio del Carro)</i> 
-- <u>Tuscany - Regional Special:</u> Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
+  - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i><br> 
+<u>Lazio - Regional Special:</u> 
+- Nasoni <i>(Nasoni)</i><br> 
+<u>Tuscany - Regional Special:</u> 
+- Scoppio del Carro Easter Tradition <i>(Scoppio del Carro)</i> 
+- Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
   - Medici Porcelain <i>(Porcellane Medicee)</i>
   - Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i>
   - Italian Renaissance Painting <i>(Pittura Rinascimentale)</i>
-- <u>Tuscany - Regional Special:</u> Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i> 
-- <u>Emilia-Romagna - Regional Special:</u> Liscio Dance <i>(Ballo Liscio)</i> 
-- <u>Emilia-Romagna - Regional Special:</u> Porticoes of Bologna <i>(Portici di Bologna)</i>
-- <u>Emilia-Romagna - Regional Special:</u> Towers of Bologna <i>(Torri di Bologna)</i>
-- <u>Sicily - Regional Special:</u> Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i> 
-- <u>Sicily - Regional Special:</u> Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
+- Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i><br> 
+<u>Emilia-Romagna - Regional Special:</u> 
+- Liscio Dance <i>(Ballo Liscio)</i> 
+- Porticoes of Bologna <i>(Portici di Bologna)</i>
+- Towers of Bologna <i>(Torri di Bologna)</i><br>
+<u>Sicily - Regional Special:</u> 
+- Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
   - Authentic Concept: Omerta <i>(Omertà / Ômertà)</i> 
   - Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
   - Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
   - Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
   - Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
   - Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
-- <u>Campania - Regional Special:</u> Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
-- <u>Campania - Regional Special:</u> Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
-- <u>Campania - Regional Special:</u> Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
-- <u>Campania - Regional Special:</u> Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
-- <u>Campania - Regional Special:</u> Strummolo Game <i>(Strummolo / Strummolo)</i> 
-- <u>Campania - Regional Special:</u> Tombola Game <i>(Tombola / Tombola)</i> 
-- <u>Campania - Regional Special:</u> Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
-- <u>Campania - Regional Special:</u> Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
-- <u>Campania - Regional Special:</u> Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
-- <u>Campania - Regional Special:</u> Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i> 
-- <u>Lombardy - Regional Special:</u> Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
-- <u>Lombardy - Regional Special:</u> Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
-- <u>Lombardy - Regional Special:</u> Navigli of Milan <i>(Navigli / Navili)</i>
-- <u>Lombardy - Regional Special:</u> Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
+- Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i><br> 
+<u>Campania - Regional Special:</u> 
+- Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
+- Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
+- Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
+- Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
+- Strummolo Game <i>(Strummolo / Strummolo)</i> 
+- Tombola Game <i>(Tombola / Tombola)</i> 
+- Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
+- Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
+- Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
+- Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i><br> 
+<u>Lombardy - Regional Special:</u> 
+- Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
+- Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
+- Navigli of Milan <i>(Navigli / Navili)</i>
+- Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
 
 
 

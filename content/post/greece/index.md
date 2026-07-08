@@ -158,18 +158,20 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - Ancient Greek Chariot Racing <i>(Ἁρματοδρομία)</i>
   - Ancient Greek Religion <i>(Αρχαία Ελληνική Θρησκεία)</i>
   - Ancient Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
-  - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος και Χλαμύδα)</i>
-- <u>Crete - Regional Special:</u> Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
-- <u>Crete - Regional Special:</u> Authentic Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
-- <u>Crete - Regional Special:</u> The Legacy of Minoans <i>(Μινωίτες)</i>
+  - Ancient Authentic Garb: Peplos & Chlamys <i>(Πέπλος και Χλαμύδα)</i><br> 
+<u>South Aegean - Regional Special:</u>
+- Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
+- Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i><br>
+<u>Crete - Regional Special:</u> 
+- Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
+- Authentic Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
+- The Legacy of Minoans <i>(Μινωίτες)</i>
   - Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
   - Linear A Writing System <i>(Γραμμική Α)</i>
   - Knossos Board Game <i>(Ζατρίκιον)</i>
   - Minoan Painting <i>(Μινωική Ζωγραφική)</i>
   - Minoan Pottery <i>(Μινωική Κεραμική)</i>
   - Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
-- <u>South Aegean - Regional Special:</u> Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
-- <u>South Aegean - Regional Special:</u> Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

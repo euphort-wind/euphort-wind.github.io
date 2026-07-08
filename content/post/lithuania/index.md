@@ -112,8 +112,9 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - Lithuanian Mythology <i>(Lietuvių Mitologija)</i>
 - Authentic Musical Instrument: Birbynė <i>(Birbynė)</i> 
-- Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i>
-- <u>Vilnius - Regional Special:</u> Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
+- Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžiosios Kunigaikštystės Paveldas)</i><br>
+<u>Vilnius - Regional Special:</u>
+- Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

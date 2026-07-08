@@ -91,8 +91,9 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
 - Alpine Skiing Tradition <i>(Alpinen Skirennen)</i>
 - Title of Prince of Liechtenstein <i>(Landesfürst)</i>
 - Liechtenstein Folklore <i>(Liechtensteiner Folklore)</i>
-- Authentic Garb: Liechtensteiner Tracht <i>(Liechtensteiner Tracht)</i>
-- <u>Triesenberg - Regional Special:</u> Culture of Walser People <i>(Walser)</i>
+- Authentic Garb: Liechtensteiner Tracht <i>(Liechtensteiner Tracht)</i><br>
+<u>Triesenberg - Regional Special:</u> 
+- Culture of Walser People <i>(Walser)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

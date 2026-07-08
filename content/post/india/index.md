@@ -147,18 +147,20 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Heritage of the Maurya Empire <i>(मौर्यसाम्राज्य / मौर्यसाम्राज्यम्)</i>
 - Heritage of the Gupta Empire <i>(गुप्त राजवंश / गुप्त)</i>
 - Heritage of the Chola Empire <i>(चोल साम्राज्य / இடைக்காலச் சோழர்கள்)</i>
-- Heritage of the Maratha Empire <i>(मराठा साम्राज्य)</i>
-- <u>Karnataka - Regional Special:</u> Heritage of the Rashtrakuta Empire <i>(राष्ट्रकूट राजवंश / ರಾಷ್ಟ್ರಕೂಟ)</i>
-- <u>Karnataka - Regional Special:</u> Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i>
-- <u>Karnataka - Regional Special:</u> Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
+- Heritage of the Maratha Empire <i>(मराठा साम्राज्य)</i><br>
+<u>Karnataka - Regional Special:</u> 
+- Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
   - Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
   - Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
   - Dasa Sahitya Literature <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
   - Kambala Buffalo Race <i>(कंबाला / ಕಂಬಳ)</i>
   - Pallanguzhi Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>
   - Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
-  - Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i>
-- <u>Goa - Regional Special:</u> Culture of Goans <i>(गोवाई / गोएनकर)</i>
+  - Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i><br>
+- Heritage of the Rashtrakuta Empire <i>(राष्ट्रकूट राजवंश / ರಾಷ್ಟ್ರಕೂಟ)</i>
+- Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i><br>
+<u>Goa - Regional Special:</u> 
+- Culture of Goans <i>(गोवाई / गोएनकर)</i>
   - Authentic Concept: Susegad <i>(सुसेगाद / सुसेगाद)</i>
   - Fugdi Dance <i>(फुगडी / फुगडी)</i>
   - Authentic Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
