@@ -242,8 +242,9 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🍶 Macchiato <i>(Caffè Macchiato)</i> 
 - 🍶 Limoncello <i>(Brand: "Pallini")</i> 
 - 🍶 Vermouth <i>(Brand: "Martini")</i> 
-- 🍶 Italian Liqueur <i>(Brands: "Campari", "Aperol")</i> 
-<u>Lazio - Regional Special:</u></br>
+- 🍶 Italian Liqueur <i>(Brands: "Campari", "Aperol")</i>
+</br>
+<u>Lazio - Regional Special:</u>
 - 🥘 Pasta Carbonara <i>(Pasta alla Carbonara)</i>
 - 🥘 Fettuccine Alfredo <i>(Fettuccine Alfredo)</i>
 - 🥘 Saltimbocca <i>(Saltimbocca)</i>
