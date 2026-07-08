@@ -265,7 +265,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🍰 Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i>
 </br>
 <u>Kabardino-Balkaria - Regional Special:</u> 
-- 🥙Balkar Khychin <i>(Хычин / Хычин)</i>
+- 🥙 Balkar Khychin <i>(Хычин / Хычин)</i>
     - 🥙 Khychin with Meat <i>(Хычин c Мясом / Эт Хычин)</i>
     - 🥙 Khychin with Cheese & Potatoes <i>(Хычин c Сыром и Картошкой / Гардош Хычин)</i> 
     - 🥙 Khychin with Beet Leaves <i>(Хычин c Листьями Свёклы / Чюгюндюр Хычин)</i> 
