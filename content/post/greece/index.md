@@ -191,7 +191,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - Cretan Dittany <i>(Δίκταμο / Έρωντας)</i>
 
 
-<b>🦉 Local wisdom:</b> "The tongue has no bones, but it can break bones." / "<i>Η γλώσσα κόκαλα δεν έχει, αλλά κόκαλα τσακίζει.</i>" — Greek proverb
+<b>🦉 Local wisdom:</b> "The tongue has no bones, but it can break them." / "<i>Η γλώσσα κόκαλα δεν έχει, αλλά κόκαλα τσακίζει.</i>" — Greek proverb
 
 
 <b>👨‍🎓 The oldest university:</b> The National and Kapodistrian University of Athens <i>(Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών)</i>, Zografou, est. 1837.  
