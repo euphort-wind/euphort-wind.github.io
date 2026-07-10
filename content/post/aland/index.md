@@ -60,10 +60,10 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 
 <b>🍽️ Local food & drinks: </b>
 - 🥓 Gravad Sik <i>(Gravad Sik)</i>
-- 🍰 Ålandic Pancake with Cream and Prune Jam <i>(Åländsk Pannkaka med Sviskonkräm och Snömos)</i>
+- 🍰 Åland Pancake <i>(Ålandspannkaka)</i>
 - 🫓 Mustaleipä Bread <i>(Åländskt Svartbröd)</i>
-- 🍶 Ålandic Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
-- 🍶 Ålandic Beer <i>(Brand: "Stallhagen")</i>
+- 🍶 Åland Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
+- 🍶 Åland Beer <i>(Brand: "Stallhagen")</i>
 
 
 <b>🎬 Local movies:</b>
@@ -71,10 +71,10 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 
 
 <b>🪔 Authentic features:</b>
-- Ålandic Shipping <i>(Åländsk Sjöfart)</i>
-- Ålandic Ship Building <i>(Åländsk Skeppsbyggnad)</i>
-- Ålandic Red Granite <i>(Ålands Röda Granit)</i>
-- Ålandic Postal System <i>(Ålands Postsystem)</i>
+- Åland Shipping <i>(Åländsk Sjöfart)</i>
+- Åland Ship Building <i>(Åländsk Skeppsbyggnad)</i>
+- Åland Red Granite <i>(Ålands Röda Granit)</i>
+- Åland Postal System <i>(Ålands Postsystem)</i>
 - Title of Lantråd <i>(Lantråd)</i>
 
 

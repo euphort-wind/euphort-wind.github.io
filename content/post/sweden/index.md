@@ -308,8 +308,8 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🥗 Smörgåskaviar <i>(Smörgåskaviar)</i>
 - 🥙 Toast Skagen <i>(Toast Skagen)</i>
 - 🥙 Smörgåstårta <i>(Smörgåstårta)</i>
-- 🥘 Raggmunk with Bacon and Lingonberry Sauce <i>(Raggmunk med Fläsk och Lingonsylt)</i>
-- 🥘 Swedish Meatballs with Mashed Potatoes, Cream Sauce and Lingonberry Jam <i>(Köttbullar med Potatismos, Gräddsås och Lingonsylt)</i>
+- 🥘 Raggmunk with Bacon <i>(Raggmunk med Fläsk)</i>
+- 🥘 Swedish Meatballs <i>(Köttbullar)</i>
 - 🥘 Pyttipanna <i>(Pytt-i-Panna)</i>
 - 🥘 Wallenbergare <i>(Wallenbergare)</i>
 - 🥘 Flying Jacob <i>(Flygande Jacob)</i>

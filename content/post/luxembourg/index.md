@@ -76,7 +76,7 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
 - 🥙 Rieslingspaschtéit <i>(Rieslingspaschtéit)</i>
 - 🍲 Bouneschlupp <i>(Bouneschlupp)</i>
 - 🥘 Judd mat Gaardebounen <i>(Judd mat Gaardebounen)</i>
-- 🥘 Luxembourgish Dumplings with Bacon and Cream <i>(Kniddelen mat Speck a Rahm)</i>
+- 🥘 Luxembourgish Dumplings <i>(Kniddelen)</i>
 - 🍰 Quetschentaart <i>(Quetschentaart)</i>
 - 🍶 Luxembourgish Beer <i>(Brands: "Diekirch", "Battin Blanche")</i>
 

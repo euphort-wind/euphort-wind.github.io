@@ -101,7 +101,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 🥘 Mussels'n'Fries <i>(Moules-Frites / Mosselen-Friet)</i>
 - 🥘 Steak Frites <i>(Steak-Frites / Steak-Friet)</i>
 - 🍰 Belgian Waffles <i>(Gaufres Belges / Belgische Wafels)</i>
-- 🍰 Belgian Chocolate & Pralines <i>(Chocolats et Pralines Belges / Belgische Chocolade en Pralines)</i>
+- 🍰 Belgian Chocolate <i>(Chocolats Belges / Belgische Chocolade)</i>
+- 🍰 Belgian Pralines <i>(Pralines Belges / Belgische Pralines)</i>
 - 🍶 Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Leffe", "Delirium")</i>
 </br>
 <u>Brussels-Capital - Regional Special:</u> 

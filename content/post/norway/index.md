@@ -109,9 +109,9 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - 🍲 Sodd <i>(Sodd)</i>
 - 🥘 Fårikål <i>(Fårikål)</i>
 - 🥘 Lutefisk <i>(Lutefisk)</i>
-- 🥘 Pinnekjøtt with Puréed Swede, Sausages and Potatoes <i>(Pinnekjøtt med Rotmos, Poteter og Pølse)</i>
+- 🥘 Pinnekjøtt <i>(Pinnekjøtt)</i>
 - 🥘 Raspeball <i>(Raspeball)</i>
-- 🥘 Norwegian Meatcakes with Pea Purée and Brown Gravy <i>(Kjøttkaker med Ertepuré og Brun Saus)</i>
+- 🥘 Norwegian Meatcakes <i>(Kjøttkaker)</i>
 - 🍰 Rømmegrøt <i>(Rømmegrøt)</i>
 - 🍰 Norwegian Waffles <i>(Norske Vafler)</i>
 - 🍰 Ingefærnøtter <i>(Ingefærnøtter)</i>

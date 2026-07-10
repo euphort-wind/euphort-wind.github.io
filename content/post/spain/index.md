@@ -82,10 +82,10 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 <b>🍽️ Local food & drinks: </b>
 - 🥓 Tapas-Style Snacks <i>(Tapas)</i>
-  - 🥓 Jamón Serrano Tapas <i>(Jamón Serrano)</i>
-  - 🥓 Jamón Ibérico Tapas <i>(Jamón Ibérico)</i>
-  - 🥓 Chorizo Tapas <i>(Chorizo)</i>
-  - 🥓 Salchichon Tapas <i>(Salchichón)</i>
+  - 🥓 Jamón Serrano <i>(Jamón Serrano)</i>
+  - 🥓 Jamón Ibérico <i>(Jamón Ibérico)</i>
+  - 🥓 Chorizo <i>(Chorizo)</i>
+  - 🥓 Salchichon <i>(Salchichón)</i>
 - 🥗 Boquerones en Vinagre <i>(Boquerones en Vinagre)</i>
 - 🍲 Gazpacho <i>(Gazpacho)</i>
 - 🥘 Patatas Bravas <i>(Patatas Bravas)</i>
