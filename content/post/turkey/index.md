@@ -111,7 +111,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - 🥙 Gözleme <i>(Gözleme)</i>
   - 🥙 Gözleme with Meat <i>(Etli Gözleme)</i>
   - 🥙 Gözleme with Cheese <i>(Peynirli Gözleme)</i>
-  - 🥙 Gözleme with Sugar <i>(Şekerli Gözleme)</i>
+  - 🍰 Gözleme with Sugar <i>(Şekerli Gözleme)</i>
 - 🥙 Börek <i>(Börek)</i>
 - 🥙 Döner Kebap <i>(Döner Kebap)</i>
 - 🥙 Kokoreç <i>(Kokoreç)</i>
