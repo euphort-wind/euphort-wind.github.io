@@ -43,18 +43,18 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 {{< spoiler text="Click to view" >}}
 1. İstanbul
     - Hagia Sophia <i>(Ayasofya)</i>
-    - The Blue Mosque <i>(Sultanahmet Camii)</i>
-    - The Basilica Cistern <i>(Yerebatan Sarnıcı)</i>
+    - Blue Mosque <i>(Sultanahmet Camii)</i>
+    - Basilica Cistern <i>(Yerebatan Sarnıcı)</i>
     - Süleymaniye Mosque <i>(Süleymaniye Camii)</i>
-    - The Galata Tower <i>(Galata Kulesi)</i>
+    - Galata Tower <i>(Galata Kulesi)</i>
     - Dolmabahçe Palace <i>(Dolmabahçe Sarayı)</i>
     - Topkapı Palace <i>(Topkapı Sarayı)</i>
-    - The Galata Bridge <i>(Galata Köprüsü)</i>
-    - The Grand Bazaar <i>(Kapalıçarşı)</i>
-    - The Spice Bazaar <i>(Mısır Çarşısı)</i>
-    - The University of Istanbul <i>(İstanbul Üniversitesi)</i>
+    - Galata Bridge <i>(Galata Köprüsü)</i>
+    - Grand Bazaar <i>(Kapalıçarşı)</i>
+    - Spice Bazaar <i>(Mısır Çarşısı)</i>
+    - University of Istanbul <i>(İstanbul Üniversitesi)</i>
     - İstiklâl Street <i>(İstiklâl Caddesi)</i>
-    - The Taksim Square <i>(Taksim Meydanı)</i>
+    - Taksim Square <i>(Taksim Meydanı)</i>
     - Gülhane Park <i>(Gülhane Parkı)</i>
 2. Antalya
     - Old Antalya <i>(Kaleiçi)</i>

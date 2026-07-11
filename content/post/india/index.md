@@ -45,8 +45,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
     - Fort Aguada <i>(किला अगुआड़ा)</i>
     - Dudhsagar Falls <i>(दूधसागर झरना)</i>
 2. Badami
-    - The Cave Temples <i>(बादामी गुफा मंदिर)</i>
-    - The Pattadakal Complex <i>(पट्टडकल मंदिर समूह)</i>
+    - Cave Temples <i>(बादामी गुफा मंदिर)</i>
+    - Pattadakal Complex <i>(पट्टडकल मंदिर समूह)</i>
     - Badami Fort <i>(बादामी किला)</i>
     - Sri Bhootanaatha Gudi <i>(भूतनाथ मन्दिर समूह)</i>
     - Agastya Lake <i>(अगस्त्य झील)</i>

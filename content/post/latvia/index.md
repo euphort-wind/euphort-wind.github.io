@@ -42,12 +42,12 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
     - Old Riga <i>(Vecrīga)</i>
     - House of the Blackheads <i>(Melngalvju Nams)</i>
     - House of the Livonian Noble Corporation <i>(Saeimas Nams)</i>
-    - The Powder Tower <i>(Pulvertornis)</i>
+    - Powder Tower <i>(Pulvertornis)</i>
     - Latvian Museum of National History <i>(Latvijas Nacionālais Vēstures Muzejs)</i>
     - Riga Cathedral <i>(Rīgas Doms)</i>
     - St. Peter's Church <i>(Svētā Pētera Baznīca)</i>
     - Riga Central Market <i>(Rīgas Centrāltirgus)</i>
-    - The Three Brothers <i>(Trīs Brāļi)</i> 
+    - Three Brothers <i>(Trīs Brāļi)</i> 
     - Freedom Monument <i>(Brīvības Piemineklis)</i>
     - Riga Castle <i>(Rīgas Pils)</i>
 2. Jūrmala
@@ -59,9 +59,9 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 3. Tukums
     - Tukuma Evangelical Lutheran Church <i>(Tukuma Evaņģēliski Luteriskā Baznīca)</i>
     - Freedom Square <i>(Brīvības Laukums)</i>
-    - The Tukku Magi <i>(Tukku Magi)</i>
+    - Tukku Magi <i>(Tukku Magi)</i>
     - Tukums Museum <i>(Tukuma Muzejs)</i>
-    - The Castle Tower of Tukums <i>(Tukuma Pils Tornis)</i>
+    - Castle Tower of Tukums <i>(Tukuma Pils Tornis)</i>
     - Harmony Street <i>(Harmonijas Iela)</i>
 {{< /spoiler >}}
 

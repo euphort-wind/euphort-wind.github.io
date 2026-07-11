@@ -46,18 +46,18 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
     - Ball del Contrapàs Monument <i>(Ball del Contrapàs)</i>
     - Meritxell Avenue <i>(Avinguda Meritxell)</i>
     - Plaça del Poble <i>(Plaça del Poble)</i>
-    - The Central Park <i>(Parc Central)</i>
-    - The Nobility of Time Monument <i>(La Noblesse du Temps)</i>
-    - The Paris Bridge <i>(Pont de París)</i>
-    - The Seven Poets Monument <i>(7 Poetes)</i>
+    - Central Park <i>(Parc Central)</i>
+    - Nobility of Time Monument <i>(La Noblesse du Temps)</i>
+    - Paris Bridge <i>(Pont de París)</i>
+    - Seven Poets Monument <i>(7 Poetes)</i>
 2. Escaldes-Engordany
     - Carlemany Avenue <i>(Avinguda Carlemany)</i>
-    - The Caldea Spa Complex <i>(Centre Termolúdic Caldea)</i>
+    - Caldea Spa Complex <i>(Centre Termolúdic Caldea)</i>
     - Pont d'Engordany <i>(Pont d'Engordany)</i>
     - Plaça Santa Anna <i>(Plaça Santa Anna)</i>
     - Església de Sant Pere Màrtir <i>(Església de Sant Pere Màrtir)</i>
     - Escaldes-Engordany Centre of Art <i>(Centro de Arte de Escaldes-Engordany)</i>
-    - The Infantil Prat del Roure Park <i>(Parc Infantil Prat del Roure)</i>    
+    - Infantil Prat del Roure Park <i>(Parc Infantil Prat del Roure)</i>    
 3. La Massana
     - Casa Raubert Cheese Factory <i>(Casa Raubert)</i>
     - Museo del Comic <i>(Museo del Comic)</i>

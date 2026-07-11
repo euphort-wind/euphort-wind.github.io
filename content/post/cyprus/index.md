@@ -44,14 +44,14 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
     - Glyki Nero Beach <i>(Παραλία Γλυκό Νερό)</i>
     - Ayia Napa Harbour <i>(Λιμάνι Αγίας Νάπας)</i>
 2. Lefkara
-    - The Church Of Holy Cross <i>(Εκκλησία του Τιμίου Σταυρού)</i>
+    - Church Of Holy Cross <i>(Εκκλησία του Τιμίου Σταυρού)</i>
     - Lefkara Square <i>(Πλατεία Λευκάρων)</i>
     - Museum of Traditional Embroidery and Silversmith <i>(Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοϊας)</i>
     - Holy Church of Archangel Michael <i>(Ιερός Ναός Αρχαγγέλου Μιχαήλ)</i>
 3. Kakopetria
-    - The Old Kakopetria <i>(Παλιά Κακοπετριά)</i>
+    - Old Kakopetria <i>(Παλιά Κακοπετριά)</i>
     - Kakopetria Square <i>(Πλατεία Κακοπετριάς)</i>
-    - The Church of St. Nicholas of the Roof <i>(Άγιος Νικόλαος της Στέγης)</i>
+    - Church of St. Nicholas of the Roof <i>(Άγιος Νικόλαος της Στέγης)</i>
 4. Limassol
     - Kourion Ancient City <i>(Κούριον)</i>
     - Limassol Molos <i>(Μόλος Λεμεσού)</i>
@@ -86,7 +86,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 
 
 <b>🎬 Local movies:</b>
--  Leonidas and the Fish <i>(Ο Λεωνίδας και το Ψάρι)</i>. Year: 2021. Genre: short / drama
+- Leonidas and the Fish <i>(Ο Λεωνίδας και το Ψάρι)</i>. Year: 2021. Genre: short / drama
 
 
 <b>🪔 Authentic features:</b>

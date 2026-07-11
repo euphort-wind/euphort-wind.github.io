@@ -40,20 +40,20 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 {{< spoiler text="Click to view" >}}
 1. Rome
-    - The Colosseum <i>(Colosseo)</i>
-    - The Basilica of Saint Mary Major <i>(Basilica di Santa Maria Maggiore)</i>
-    - The Roman Forum <i>(Foro Romano)</i>
+    - Colosseum <i>(Colosseo)</i>
+    - Basilica of Saint Mary Major <i>(Basilica di Santa Maria Maggiore)</i>
+    - Roman Forum <i>(Foro Romano)</i>
     - Capitoline Square <i>(Piazza del Campidoglio)</i>
     - Venezia Square <i>(Piazza Venezia)</i>
     - Argentina Tower Square <i>(Largo di Torre Argentina)</i>
     - Navona Square <i>(Piazza Navona)</i>
-    - The Pantheon <i>(Pantheon)</i>
-    - The Trevi Fountain <i>(Fontana di Trevi)</i>
-    - The Spanish Steps <i>(Scalinata di Trinità dei Monti)</i>
+    - Pantheon <i>(Pantheon)</i>
+    - Trevi Fountain <i>(Fontana di Trevi)</i>
+    - Spanish Steps <i>(Scalinata di Trinità dei Monti)</i>
     - Colle Oppio Park <i>(Parco di Colle Oppio)</i>
-    - The Lateran Basilica <i>(Archbasilica)</i>
+    - Lateran Basilica <i>(Archbasilica)</i>
 2. Pisa 
-    - The Leaning Tower of Pisa <i>(Torre Pendente di Pisa)</i>
+    - Leaning Tower of Pisa <i>(Torre Pendente di Pisa)</i>
     - Miracoli Square <i>(Piazza dei Miracoli)</i>
     - Garibaldi Square <i>(Piazza Garibaldi)</i>
     - Santa Caterina d'Alessandria <i>(Chiesa di Santa Caterina)</i> 
@@ -63,28 +63,28 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 3. Florence
     - Florence Cathedral <i>(Duomo di Firenze)</i>
     - Signoria Square <i>(Piazza della Signoria)</i>
-    - The Fountain of Neptune <i>(Fontana del Nettuno)</i>
-    - The Palazzo Vecchio <i>(Palazzo Vecchio)</i>
-    - The Uffizi Gallery <i>(Galleria degli Uffizi)</i>
-    - The Pitti Palace <i>(Palazzo Pitti)</i>
-    - The Fontains of Rampe del Poggi <i>(Fontane delle Rampe del Poggi)</i>
-    - The Ponte Vecchio Bridge <i>(Ponte Vecchio)</i>
+    - Fountain of Neptune <i>(Fontana del Nettuno)</i>
+    - Palazzo Vecchio <i>(Palazzo Vecchio)</i>
+    - Uffizi Gallery <i>(Galleria degli Uffizi)</i>
+    - Pitti Palace <i>(Palazzo Pitti)</i>
+    - Fontains of Rampe del Poggi <i>(Fontane delle Rampe del Poggi)</i>
+    - Ponte Vecchio Bridge <i>(Ponte Vecchio)</i>
     - Michelangelo Square <i>(Piazzale Michelangelo)</i>
-    - The Basilica di Santa Croce <i>(Basilica di Santa Croce)</i>
+    - Basilica di Santa Croce <i>(Basilica di Santa Croce)</i>
 4. Bologna
     - Maggiore Square <i>(Piazza Maggiore)</i>
     - Porta Galliera <i>(Pôrta d Galîra)</i>
     - Finestrella di Via Piella <i>(Finestrella di Via Piella)</i>
-    - The Basilica of San Petronio <i>(Basilica di San Petronio)</i>
+    - Basilica of San Petronio <i>(Basilica di San Petronio)</i>
     - D'Accursio Palace <i>(Palazzo d'Accursio)</i>
-    - The Casa Isolani <i>(Casa Isolani)</i> 
+    - Casa Isolani <i>(Casa Isolani)</i> 
     - Santo Stefano Square <i>(Piazza Santo Stefano)</i> 
-    - The Basilica of Santo Stefano <i>(Basilica di Santo Stefano)</i> 
-    - The Archiginnasium of Bologna <i>(Archiginnasio)</i>
-    - The Two Towers <i>(Le Due Torri)</i>
+    - Basilica of Santo Stefano <i>(Basilica di Santo Stefano)</i> 
+    - Archiginnasium of Bologna <i>(Archiginnasio)</i>
+    - Two Towers <i>(Le Due Torri)</i>
 5. Rimini
-    - The Tiberius Bridge <i>(Ponte di Tiberio)</i>
-    - The Arch of Augustus <i>(Arco d'Augusto)</i>
+    - Tiberius Bridge <i>(Ponte di Tiberio)</i>
+    - Arch of Augustus <i>(Arco d'Augusto)</i>
     - Malatesta Temple <i>(Tempio Malatestiano)</i>
     - Sismondo Castle <i>(Castel Sismondo)</i>
     - Tre Martiri Square <i>(Piazza Tre Martiri)</i>
@@ -95,8 +95,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
     - Roman Amphitheatre of Catania <i>(Anfiteatro Romano di Catania)</i>
     - Bellini Gardens <i>(Giardino Bellini)</i>
     - Biscari Palace <i>(Palazzo Paternò Castello di Biscari)</i>
-    - The Baths of the Rotonda <i>(Terme della Rotonda)</i>
-    - The Monastery of San Nicolò l'Arena <i>(Il Monastero di San Nicolò l'Arena)</i>
+    - Baths of the Rotonda <i>(Terme della Rotonda)</i>
+    - Monastery of San Nicolò l'Arena <i>(Il Monastero di San Nicolò l'Arena)</i>
     - Ursino Castle <i>(Castello Ursino)</i>
 7. Syracuse
     - Temple of Apollo <i>(Tempio di Apollo)</i>
@@ -108,7 +108,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 8. Taormina
     - IX April's Square <i>(Piazza IX Aprile)</i>
     - Cathedral Square <i>(Piazza del Duomo)</i>
-    - The Naumachie <i>(Naumachia di Taormina)</i>
+    - Naumachie <i>(Naumachia di Taormina)</i>
     - Corvaja Palace <i>(Palazzo Corvaja)</i>
 9. Castelmola
     - Di Mola Castle <i>(Castello di Mola)</i>
@@ -120,28 +120,28 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
     - Arechi Castle <i>(Castello di Arechi)</i>
     - Church of San Pietro a Corte <i>(Complesso Archeologico di San Pietro a Corte)</i>
     - Giuseppe Verdi Theatre <i>(Teatro Municipale Giuseppe Verdi)</i>
-    - The Medieval Aqueduct <i>(L'acquedotto Medievale di Salerno)</i>
+    - Medieval Aqueduct <i>(L'acquedotto Medievale di Salerno)</i>
 11. Pompeii
-    - The Stabian Baths <i>(Terme Stabiane)</i>
+    - Stabian Baths <i>(Terme Stabiane)</i>
     - Temple of Apollo <i>(Tempio di Apollo)</i>
-    - The Basilica of Pompeii <i>(La Basilica di Pompei)</i>
-    - The Macellum of Pompeii <i>(Macellum)</i>
-    - The Lupanar <i>(Lupanare)</i>
-    - The Amphitheatre of Pompeii <i>(Anfiteatro Romano di Pompei)</i>
-    - The House of the Vettii <i>(Casa dei Vettii)</i>
-    - The House of the Chaste Lovers <i>(Casa dei Casti Amanti)</i>
-    - The Large Theatre <i>(Teatro Grande)</i>
-    - The House of the Faun <i>(Casa del Fauno)</i>
-    - The Forum of Pompeii <i>(Foro di Pompei)</i>
-    - The Pontifical Shrine of the Blessed Virgin of the Rosary of Pompei <i>(Pontificio Santuario della Beata Vergine del Santo Rosario di Pompei)</i>
+    - Basilica of Pompeii <i>(La Basilica di Pompei)</i>
+    - Macellum of Pompeii <i>(Macellum)</i>
+    - Lupanar <i>(Lupanare)</i>
+    - Amphitheatre of Pompeii <i>(Anfiteatro Romano di Pompei)</i>
+    - House of the Vettii <i>(Casa dei Vettii)</i>
+    - House of the Chaste Lovers <i>(Casa dei Casti Amanti)</i>
+    - Large Theatre <i>(Teatro Grande)</i>
+    - House of the Faun <i>(Casa del Fauno)</i>
+    - Forum of Pompeii <i>(Foro di Pompei)</i>
+    - Pontifical Shrine of the Blessed Virgin of the Rosary of Pompei <i>(Pontificio Santuario della Beata Vergine del Santo Rosario di Pompei)</i>
 12. Naples
     - San Gregorio Armeno Street <i>(Via San Gregorio Armeno)</i>
-    - The National Archaeological Museum <i>(Museo Archeologico Nazionale di Napoli)</i> 
+    - National Archaeological Museum <i>(Museo Archeologico Nazionale di Napoli)</i> 
     - Dante Square <i>(Piazza Dante)</i> 
     - Nuovo Castle <i>(Castel Nuovo)</i> 
     - Galleria Umberto I <i>(Galleria Umberto I)</i> 
-    - The Teatro di San Carlo <i>(Teatro di San Carlo)</i> 
-    - The Royal Palace of Naples <i>(Palazzo Reale di Napoli)</i> 
+    - Teatro di San Carlo <i>(Teatro di San Carlo)</i> 
+    - Royal Palace of Naples <i>(Palazzo Reale di Napoli)</i> 
     - Piazza del Plebiscito <i>(Piazza del Plebiscito)</i> 
     - Castel dell'Ovo <i>(Castel dell'Ovo)</i>
     - Toledo Street <i>(Via Toledo)</i>
@@ -150,16 +150,16 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
     - Milan Cathedral <i>(Duomo di Milano)</i>     
     - Via Montenapoleone Fashion District <i>(Quadrilatero della Moda)</i>
     - La Scala <i>(Teatro alla Scala)</i>
-    - The Galleria Vittorio Emanuele II <i>(Galeria Vittorio Emanuele)</i>
+    - Galleria Vittorio Emanuele II <i>(Galeria Vittorio Emanuele)</i>
     - Piazza del Duomo <i>(Piazza del Duomo)</i>
-    - The Biblioteca Ambrosiana <i>(Pinacoteca Ambrosiana)</i>
+    - Biblioteca Ambrosiana <i>(Pinacoteca Ambrosiana)</i>
     - Via Dante <i>(Via Dante)</i>
-    - The Sforza Castle <i>(Castello Sforzesco)</i>
+    - Sforza Castle <i>(Castello Sforzesco)</i>
     - Sempione Park <i>(Parco Sempione)</i>
     - Branca Tower <i>(Torre Branca)</i>
-    - The Natural History Museum <i>(Museo Civico di Storia Naturale)</i>
-    - The Cà de l'Oreggia <i>(Cà de l'Oreggia)</i>
-    - The Palazzo Invernizzi <i>(Palazzo Invernizzi)</i>
+    - Natural History Museum <i>(Museo Civico di Storia Naturale)</i>
+    - Cà de l'Oreggia <i>(Cà de l'Oreggia)</i>
+    - Palazzo Invernizzi <i>(Palazzo Invernizzi)</i>
 {{< /spoiler >}}
 
 

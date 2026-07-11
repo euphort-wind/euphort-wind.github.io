@@ -39,12 +39,12 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 
 {{< spoiler text="Click to view" >}}
 1. Oslo
-    - The Norwegian National Opera & Ballet <i>(Den Norske Opera & Ballett)</i>
+    - Norwegian National Opera & Ballet <i>(Den Norske Opera & Ballett)</i>
     - Vigeland Sculpture Park <i>(Vigelandsanlegget)</i>
     - Akershus Fortress  <i>(Akershus Festning)</i>
-    - The Royal Palace <i>(Det Kongelige Slott)</i>
-    - The Storting <i>(Stortinget)</i>
-    - The Nobel Peace Center <i>(Nobels Fredssenter)</i>
+    - Royal Palace <i>(Det Kongelige Slott)</i>
+    - Storting <i>(Stortinget)</i>
+    - Nobel Peace Center <i>(Nobels Fredssenter)</i>
     - Oslo City Hall <i>(Oslo Rådhus)</i>
     - National Theatre <i>(Nationaltheatret)</i>
     - Oslo Cathedral <i>(Oslo Domkirke)</i>
@@ -55,7 +55,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
     - Bergen Fishmarket <i>(Bergen Fisketorget)</i>
     - Bergen Cathedral <i>(Bergen Domkirke)</i>
     - Musikkpaviljongen <i>(Musikkpaviljongen i Bergen)</i>
-    - The Sailor's Monument <i>(Sjømannsmonumentet)</i>
+    - Sailor's Monument <i>(Sjømannsmonumentet)</i>
     - St. Mary's Church <i>(Mariakirken)</i>
 3. Flåm
     - Naroy Fjord <i>(Nærøyfjord)</i>

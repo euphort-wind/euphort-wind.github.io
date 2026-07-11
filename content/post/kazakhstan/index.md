@@ -49,7 +49,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
     - Palace of Peace and Reconciliation <i>(Бейбітшілік пен Келісім Сарайы)</i>
     - Independence Square and Kazak Eli Monument <i>(Тәуелсіздік Алаңы және Қазақ Елі Монументі)</i>
     - Park of Lovers <i>(Ғашықтар Саябағы)</i>
-    - The Central Mosque <i>(Астана Қаласының Орталық Мешіті)</i>
+    - Central Mosque <i>(Астана Қаласының Орталық Мешіті)</i>
     - Mäñgilik El Triumphal Arch <i>(Мәңгілік Ел Қақпасы)</i>
     - Hazret Sultan Mosque <i>(Хазірет Сұлтан Мешіті)</i>
 2. Kostanay
@@ -111,7 +111,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 
 <b>🪔 Authentic features:</b>
 - Authentic Concept: Jeti Ata <i>(Жеті Ата)</i> 
-- Aytıs & Akyns <i>(Айтыс пен Ақындар)</i> 
+- Akyns & Aytıs <i>(Ақындар пен Айтыс)</i> 
 - System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i> 
 - Baige Horse Race <i>(Бәйге)</i>
 - Togyzkumalak Game <i>(Тоғызқұмалақ)</i>  

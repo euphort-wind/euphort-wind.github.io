@@ -41,35 +41,35 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 {{< spoiler text="Click to view" >}}
 1. Skopje
     - Macedonia Square <i>(Плоштад Македонија)</i>
-    - The Skopje Fortress <i>(Скопско Кале)</i>
+    - Skopje Fortress <i>(Скопско Кале)</i>
     - Archaeological Museum <i>(Археолошки Музеј на Македонија)</i>
-    - The Old Bazaar of Skopje <i>(Стара Чаршија)</i>
-    - The Stone Bridge <i>(Камен Мост)</i>
-    - The Art Bridge <i>(Мост на Уметноста)</i>
-    - The Church of St. Clement <i>(Соборна Црква – Свети Климент Охридски)</i>
-    - The Mother Teresa Memorial House <i>(Спомен-куќа на Мајка Тереза)</i>
-    - The Museum of the Macedonian Struggle <i>(Музеј на Македонската Борба)</i>
-    - The Macedonian Government Building <i>(Влада на Македонија)</i>
-    - The City Park <i>(Градски Парк)</i>
+    - Old Bazaar of Skopje <i>(Стара Чаршија)</i>
+    - Stone Bridge <i>(Камен Мост)</i>
+    - Art Bridge <i>(Мост на Уметноста)</i>
+    - Church of St. Clement <i>(Соборна Црква – Свети Климент Охридски)</i>
+    - Mother Teresa Memorial House <i>(Спомен-куќа на Мајка Тереза)</i>
+    - Museum of the Macedonian Struggle <i>(Музеј на Македонската Борба)</i>
+    - Macedonian Government Building <i>(Влада на Македонија)</i>
+    - City Park <i>(Градски Парк)</i>
 2. Ohrid
-    - The Church of St. Sophia <i>(Црква Света Софија)</i>
-    - The Church of St. John at Kaneo <i>(Свети Јован Канео)</i>
+    - Church of St. Sophia <i>(Црква Света Софија)</i>
+    - Church of St. John at Kaneo <i>(Свети Јован Канео)</i>
     - Samuel's Fortress <i>(Самуилова Тврдина)</i>
     - Plaošnik Archaeological Site <i>(Плаошник)</i>
-    - The Church of St. Mary Peribleptos <i>(Света Богородица Перивлепта)</i>
-    - The Robevi Family House <i>(Куќа на Робевци)</i>
-    - The Ancient Theatre of Ohrid <i>(Античкиот Театар во Охрид)</i>
+    - Church of St. Mary Peribleptos <i>(Света Богородица Перивлепта)</i>
+    - vi Family House <i>(Куќа на Робевци)</i>
+    - Ancient Theatre of Ohrid <i>(Античкиот Театар во Охрид)</i>
     - Ohrid Plane Tree <i>(Охридски Чинар)</i>
 3. Bitola
     - NI Institute & Museum Bitola <i>(Народен Музеј - Битола)</i>
-    - The Clock Tower of Bitola <i>(Саат Кула)</i>
+    - k Tower of Bitola <i>(Саат Кула)</i>
     - Širok Sokak Street <i>(Широк Сокак)</i>
-    - The Co-Cathedral of the Sacred Heart <i>(Црква Пресвето Срце Исусово)</i>
-    - The Church of St. Demetrius <i>(Црква Свети Димитрија)</i>
-    - The Manaki Cinema <i>(Кино Манаки)</i>
-    - The Old Bazaar of Bitola <i>(Стара Чаршија)</i>
+    - Co-Cathedral of the Sacred Heart <i>(Црква Пресвето Срце Исусово)</i>
+    - Church of St. Demetrius <i>(Црква Свети Димитрија)</i>
+    - Manaki Cinema <i>(Кино Манаки)</i>
+    - Old Bazaar of Bitola <i>(Стара Чаршија)</i>
     - Heraclea Lyncestis Archeological Park <i>(Хераклеја Линкестис)</i>
-    - The City Park <i>(Градски Парк)</i>
+    - City Park <i>(Градски Парк)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>

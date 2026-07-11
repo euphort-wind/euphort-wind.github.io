@@ -43,7 +43,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
     - Ras Mohamed Nature Reserve <i>(راس محمد)</i>
     - Sharm El-Sheikh Old Market <i>(السوق القديم)</i>
     - Shark's Bay Beach <i>(خليج القرش)</i>
-    - The Bedouin Village <i>(القرية البدوية)</i>
+    - Bedouin Village <i>(القرية البدوية)</i>
     - Naama Bay Promenade <i>(خليج نعمة)</i>
 {{< /spoiler >}}
 

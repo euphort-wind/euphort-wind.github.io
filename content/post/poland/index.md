@@ -39,19 +39,20 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 
 {{< spoiler text="Click to view" >}}
 1. Gdańsk
-    - Rybackie Street & Ołowianka Island <i>(Rybackie Pobrzeże i Wyspa Ołowianka)</i>
+    - Rybackie Street <i>(Rybackie Pobrzeże)</i>
+    - Ołowianka Island <i>(Wyspa Ołowianka)</i>
     - Gdańsk City Hall <i>(Ratusz Głównego Miasta w Gdańsku)</i>
     - Neptun Fountain <i>(Fontanna Neptuna)</i>
-    - The Great Mill <i>(Wielki Młyn)</i>
-    - The Small Mill <i>(Mały Młyn)</i>
+    - Great Mill <i>(Wielki Młyn)</i>
+    - Small Mill <i>(Mały Młyn)</i>
     - St. Mary Church <i>(Bazylika Mariacka)</i>
     - Długa Street <i>(Ulica Długa)</i>
-    - The Great Armoury <i>(Wielka Zbrojownia)</i>
-    - The Highland Gate <i>(Brama Wyżynna)</i>
-    - The Golden Gate <i>(Złota Brama)</i>
+    - Great Armoury <i>(Wielka Zbrojownia)</i>
+    - Highland Gate <i>(Brama Wyżynna)</i>
+    - Golden Gate <i>(Złota Brama)</i>
 2. Sopot
     - Church of St. George <i>(Kościół św. Jerzego w Sopocie)</i>
-    - The Crooked House <i>(Krzywy Domek)</i>
+    - Crooked House <i>(Krzywy Domek)</i>
     - Kuracyjny Square <i>(Skwer Kuracyjny)</i>
     - Sopot Pier <i>(Molo w Sopocie)</i> 
 3. Gdynia 
@@ -66,8 +67,8 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
     - Hel Lighthouse <i>(Latarnia Morska Hel)</i>
     - Hel Beach <i>(Plaża w Helu)</i>
     - Wiejska Street <i>(Ulica Wiejska)</i>
-    - The Fisheries Museum <i>(Muzeum Rybołówstwa)</i>
-    - The Fokarium <i>(Fokarium)</i>
+    - Fisheries Museum <i>(Muzeum Rybołówstwa)</i>
+    - Fokarium <i>(Fokarium)</i>
 {{< /spoiler >}}
 
 

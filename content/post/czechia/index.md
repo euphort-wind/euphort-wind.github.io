@@ -44,7 +44,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
     - Powder Tower <i>(Prašná Brána)</i>
     - Schwarzenberg Palace <i>(Schwarzenberský Palác)</i>
     - Municipal House <i>(Obecní Dům)</i>
-    - The Church of the Mother of God before Týn <i>(Kostel Matky Boží před Týnem)</i>
+    - Church of the Mother of God before Týn <i>(Kostel Matky Boží před Týnem)</i>
     - Zlatá Ulička <i>(Zlatá Ulička)</i>
     - National Museum <i>(Národní Muzeum)</i>
     - Celetná Street <i>(Celetná)</i>
@@ -56,10 +56,10 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
     - Church of Saint Palmacius in Karlštejn <i>(Kostel Svatého Palmacia)</i>
     - Karlštejn Market Town <i>(Karlštejn Tržní Město)</i>
 3. Kutná Hora
-    - The Sedlec Ossuary <i>(Kostnice v Sedlci)</i>
+    - Sedlec Ossuary <i>(Kostnice v Sedlci)</i>
     - St. Barbara's Church <i>(Chrám Svaté Barbory)</i>
-    - The Italian Court <i>(Vlašský Dvůr)</i>
-    - The Stone House in Kutná Hora <i>(Kamenný dům v Kutné Hoře)</i>
+    - Italian Court <i>(Vlašský Dvůr)</i>
+    - Stone House in Kutná Hora <i>(Kamenný dům v Kutné Hoře)</i>
     - Czech Museum of Silver <i>(České Muzeum Stříbra)</i>
     - Plague Column <i>(Morový Sloup)</i>
     - Gothic Stone Fountain <i>(Kamenná Kašna)</i>

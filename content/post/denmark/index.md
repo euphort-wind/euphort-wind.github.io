@@ -39,19 +39,19 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 
 {{< spoiler text="Click to view" >}}
 1. Copenhagen
-    - The New Harbour <i>(Nyhavn)</i>
-    - The Little Mermaid Statue <i>(Den Lille Havfrue)</i>
+    - New Harbour <i>(Nyhavn)</i>
+    - Little Mermaid Statue <i>(Den Lille Havfrue)</i>
     - Amalienborg Castle <i>(Amalienborg Slot)</i>
     - Rosenborg Castle <i>(Rosenborg Slot)</i>
     - Christiansborg Castle <i>(Christiansborg Slot)</i>
-    - The Round Tower <i>(Rundetaarn)</i>
+    - Round Tower <i>(Rundetaarn)</i>
     - Frederik's Church <i>(Frederiks Kirke)</i>
     - Kastellet <i>(Kastellet)</i>
     - Strøget <i>(Strøget)</i>
     - Børsen <i>(Børsen)</i>
     - Freetown Christiania <i>(Fristaden Christiania)</i>
-    - The Church of Our Saviour <i>(Vor Frelsers Kirke)</i>
-    - The Opera <i>(Operaen)</i>
+    - Church of Our Saviour <i>(Vor Frelsers Kirke)</i>
+    - Opera <i>(Operaen)</i>
 2. Helsingør
     - Kronborg Castle <i>(Kronborg Slot)</i>
     - Helsingør Station <i>(Helsingør Station)</i>

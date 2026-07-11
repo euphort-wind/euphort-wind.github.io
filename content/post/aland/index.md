@@ -39,15 +39,15 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 
 {{< spoiler text="Click to view" >}}
 1. Eckerö
-    - The Post Office <i>(Post- och Tullhus)</i>
-    - The Käringsunds Lighthouse <i>(Käringsunds Fyr)</i>
-    - The Museum of Fisheries and Navigation <i>(Ålands Jakt- och Fiskemuseum)</i>
+    - Post Office <i>(Post- och Tullhus)</i>
+    - Käringsunds Lighthouse <i>(Käringsunds Fyr)</i>
+    - Museum of Fisheries and Navigation <i>(Ålands Jakt- och Fiskemuseum)</i>
 2. Mariehamn
-    - The Maritime Museum <i>(Ålands Sjöfartsmuseum)</i>
-    - The Pommern Ship <i>(Pommern)</i>
-    - The Central Park <i>(Esplanaden)</i>
-    - The Sea Quarter <i>(Sjökvarteret)</i>
-    - The Town Hall <i>(Mariehamns Stadshus)</i>
+    - Maritime Museum <i>(Ålands Sjöfartsmuseum)</i>
+    - Pommern Ship <i>(Pommern)</i>
+    - Central Park <i>(Esplanaden)</i>
+    - Sea Quarter <i>(Sjökvarteret)</i>
+    - Town Hall <i>(Mariehamns Stadshus)</i>
     - Saint George Church <i>(S:t Görans Kyrka)</i>
 {{< /spoiler >}}
 

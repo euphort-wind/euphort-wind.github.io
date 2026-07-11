@@ -40,11 +40,11 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 {{< spoiler text="Click to view" >}}
 1. Petra
-    - The Siq <i>(السيق)</i>
+    - Siq <i>(السيق)</i>
     - Al-Khazneh Treasury <i>(الخزنة)</i>
-    - The Urn Tombs <i>(قبر الجرة)</i>
+    - Urn Tombs <i>(قبر الجرة)</i>
     - Petra Theater <i>(مسرح البتراء)</i>
-    - The "Street of Facades" <i>(شارع الواجهات)</i>
+    - "Street of Facades" <i>(شارع الواجهات)</i>
 2. Aqaba
     - Aqaba Flagpole <i>(سارية العلم العقبة)</i>
     - Aqaba Harbor <i>(ميناء العقبة)</i>

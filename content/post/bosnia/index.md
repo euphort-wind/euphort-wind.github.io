@@ -39,20 +39,20 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 
 {{< spoiler text="Click to view" >}}
 1. Sarajevo
-    - The Baščaršija <i>(Baščaršija)</i>
-    - The Latin Bridge <i>(Latinska Ćuprija)</i>
-    - The National Gallery <i>(Umjetnička Galerija)</i>
-    - The Emperor's Mosque <i>(Careva Džamija)</i>
+    - Baščaršija <i>(Baščaršija)</i>
+    - Latin Bridge <i>(Latinska Ćuprija)</i>
+    - National Gallery <i>(Umjetnička Galerija)</i>
+    - Emperor's Mosque <i>(Careva Džamija)</i>
     - Sarajevo Brewery <i>(Sarajevska Pivara)</i>
     - At Mejdan Park <i>(At Mejdan)</i>
     - Ferhadija Street <i>(Ulica Ferhadija)</i>
-    - The Gradska Tržnica Markale <i>(Gradska Tržnica Markale)</i>
-    - The Sacred Heart Cathedral <i>(Katedrala Srca Isusova)</i>
+    - Gradska Tržnica Markale <i>(Gradska Tržnica Markale)</i>
+    - Sacred Heart Cathedral <i>(Katedrala Srca Isusova)</i>
     - Gazi Husrev-Beg's Bezistan <i>(Gazi Husrev-Begov Bezistan)</i>
     - Sarajevo City Hall <i>(Gradska Vijećnica)</i>
 2. Mostar
-    - The Old Bridge <i>(Stari Most)</i>
-    - The Kujundžiluk Bazaar <i>(Kujundžiluk)</i>
+    - Old Bridge <i>(Stari Most)</i>
+    - Kujundžiluk Bazaar <i>(Kujundžiluk)</i>
     - Karađoz Beg Mosque <i>(Karađoz-Begova Džamija)</i>
     - Muslibegović House <i>(Muslibegovićeva Kuća)</i>
     - Mostar Crooked Bridge <i>(Kriva Ćuprija)</i>
@@ -63,9 +63,9 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 4. Kravice 
     - Kravice Waterfalls <i>(Slapovi Kravice)</i>
 5. Počitelj
-    - The Počitelj Citadel <i>(Počiteljska Tvrđava)</i>
+    - Počitelj Citadel <i>(Počiteljska Tvrđava)</i>
     - Gavrankapetanović House <i>(Gavrankapetanovića Kuća)</i>
-    - The Počitelj Clock Tower <i>(Sahat Kula)</i>
+    - Počitelj Clock Tower <i>(Sahat Kula)</i>
 {{< /spoiler >}}  
 
 

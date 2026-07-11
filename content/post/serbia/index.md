@@ -40,41 +40,41 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 
 {{< spoiler text="Click to view" >}}
 1. Belgrade
-    - The Belgrade Fortress <i>(Београдска Тврђава)</i>
-    - The Church of Saint Sava <i>(Храм Светог Саве)</i>
-    - The Stari Dvor <i>(Стари Двор)</i>
-    - The National House of Assembly <i>(Дом Народне Скупштине)</i>
-    - The St. Mark's Church <i>(Црква Светог Марка)</i>
-    - The Historical Museum of Serbia <i>(Историјски Музеј Србије)</i>
+    - Belgrade Fortress <i>(Београдска Тврђава)</i>
+    - Church of Saint Sava <i>(Храм Светог Саве)</i>
+    - Stari Dvor <i>(Стари Двор)</i>
+    - National House of Assembly <i>(Дом Народне Скупштине)</i>
+    - St. Mark's Church <i>(Црква Светог Марка)</i>
+    - Historical Museum of Serbia <i>(Историјски Музеј Србије)</i>
     - Zeleni Venac Market <i>(Зелени Венац)</i>
-    - The Republic Square <i>(Трг Републике)</i>
+    - Republic Square <i>(Трг Републике)</i>
     - Skadarlija <i>(Скадарлија)</i>
     - Knez Mihailova Street <i>(Кнез Михаилова Улица)</i>
-    - The Residence of Princess Ljubica <i>(Конак Књегиње Љубице)</i>
+    - Residence of Princess Ljubica <i>(Конак Књегиње Љубице)</i>
     - Pobednik <i>(Победник)</i>
-    - The Kalemegdan Park <i>(Калемегдански Парк)</i>
+    - Kalemegdan Park <i>(Калемегдански Парк)</i>
     - Ružica Church <i>(Црква Ружица)</i>
 2. Novi Sad
     - Petrovaradin Fortress <i>(Петроварадинска Тврђава)</i>
-    - The Clock Tower <i>(Кула са Сатом)</i>
-    - The Novi Sad City Hall <i>(Градска Кућа)</i>
-    - The Name of Mary Church <i>(Црква имена Маријиног)</i>
-    - The Bishop's Palace <i>(Владичански Двор)</i>
+    - Clock Tower <i>(Кула са Сатом)</i>
+    - Novi Sad City Hall <i>(Градска Кућа)</i>
+    - Name of Mary Church <i>(Црква имена Маријиног)</i>
+    - Bishop's Palace <i>(Владичански Двор)</i>
     - Zmaj Jovina Street <i>(Улица Змај Јовина)</i>
-    - The Novi Sad Synagogue <i>(Новосадска Синагога)</i>
+    - Novi Sad Synagogue <i>(Новосадска Синагога)</i>
     - Danube Park <i>(Дунавски Парк)</i>
-    - The Museum of Vojvodina <i>(Музеј Војводине)</i>
-    - The Matica Srpska <i>(Матица Српска)</i>
+    - Museum of Vojvodina <i>(Музеј Војводине)</i>
+    - Matica Srpska <i>(Матица Српска)</i>
     - Saint George Cathedral <i>(Саборни Храм Светог Георгија)</i>
 3. Sremski Karlovci
-    - The Clerical High School of Saint Arsenije <i>(Богословија Свети Арсеније Сремац)</i>
-    - The Palace of the Patriarchate <i>(Патријаршијски Двор)</i>
-    - The Four Lions Fountain <i>(Чесма "Четири лава")</i>
-    - The Sremski Karlovci Orthodox Cathedral <i>(Саборна Црква)</i>
-    - The Church of the Holy Trinity <i>(Римокатоличка Црква Светог Тројства)</i>
-    - The Karlovci Gymnasium <i>(Карловачка Гимназија)</i>
-    - The Church of St. Peter and Paul <i>(Доња Црква)</i>
-    - The Chapel of Peace <i>(Капела Мира)</i>
+    - Clerical High School of Saint Arsenije <i>(Богословија Свети Арсеније Сремац)</i>
+    - Palace of the Patriarchate <i>(Патријаршијски Двор)</i>
+    - Four Lions Fountain <i>(Чесма "Четири лава")</i>
+    - Sremski Karlovci Orthodox Cathedral <i>(Саборна Црква)</i>
+    - Church of the Holy Trinity <i>(Римокатоличка Црква Светог Тројства)</i>
+    - Karlovci Gymnasium <i>(Карловачка Гимназија)</i>
+    - Church of St. Peter and Paul <i>(Доња Црква)</i>
+    - Chapel of Peace <i>(Капела Мира)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>

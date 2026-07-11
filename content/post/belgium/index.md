@@ -39,31 +39,31 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 
 {{< spoiler text="Click to view" >}}
 1. Brussels
-    - The Grand Square <i>(Grand-Place / Grote Markt)</i>
-    - The Manneken Pis <i>(Petit Julien / Manneken Pis)</i>
-    - The Palace of Justice <i>(Palais de Justice de Bruxelles / Justitiepaleis van Brussel)</i>
-    - The Egmont Park <i>(Parc Egmont / Egmontpark)</i>
-    - The Royal Palace of Brussels <i>(Palais Royal de Bruxelles / Koninklijk Paleis van Brussel)</i>
-    - The Brussels Park <i>(Parc de Bruxelles / Warandepark)</i>
-    - The Cathedral of St. Michael and St. Gudula <i>(Cathédrale Saints-Michel-et-Gudule / Kathedraal van Sint-Michiel en Sint-Goedele)</i>
-    - The Mont des Arts <i>(Mont des Arts / Kunstberg)</i>
-    - The Church of Our Lady of the Chapel <i>(Église Notre-Dame-de-la-Chapelle / Onze-Lieve-Vrouw-ter-Kapellekerk)</i>
+    - Grand Square <i>(Grand-Place / Grote Markt)</i>
+    - Manneken Pis <i>(Petit Julien / Manneken Pis)</i>
+    - Palace of Justice <i>(Palais de Justice de Bruxelles / Justitiepaleis van Brussel)</i>
+    - Egmont Park <i>(Parc Egmont / Egmontpark)</i>
+    - Royal Palace of Brussels <i>(Palais Royal de Bruxelles / Koninklijk Paleis van Brussel)</i>
+    - Brussels Park <i>(Parc de Bruxelles / Warandepark)</i>
+    - Cathedral of St. Michael and St. Gudula <i>(Cathédrale Saints-Michel-et-Gudule / Kathedraal van Sint-Michiel en Sint-Goedele)</i>
+    - Mont des Arts <i>(Mont des Arts / Kunstberg)</i>
+    - Church of Our Lady of the Chapel <i>(Église Notre-Dame-de-la-Chapelle / Onze-Lieve-Vrouw-ter-Kapellekerk)</i>
 2.  Saint-Josse-ten-Noode
-    - The Saint-Josse-ten-Noode City Hall <i>(Maison Communale de Saint-Josse-ten-Noode / Gemeentehuis van Sint-Joost-ten-Node)</i>
-    - The Botanical Garden <i>(Jardin Botanique / Kruidtuin)</i>
-    - The World Trade Center <i>(World Trade Center / World Trade Center)</i>
+    - Saint-Josse-ten-Noode City Hall <i>(Maison Communale de Saint-Josse-ten-Noode / Gemeentehuis van Sint-Joost-ten-Node)</i>
+    - Botanical Garden <i>(Jardin Botanique / Kruidtuin)</i>
+    - World Trade Center <i>(World Trade Center / World Trade Center)</i>
 3.  Schaerbeek 
-    - The Schaerbeek City Hall <i>(Hôtel Communal / Gemeentehuis)</i>
+    - Schaerbeek City Hall <i>(Hôtel Communal / Gemeentehuis)</i>
     - Saint Mary's Royal Church <i>(Église Royale Sainte-Marie / Koninklijke Sint-Mariakerk)</i> 
-    - The Lehon Plein <i>(Place Lehon / Lehonplein)</i> 
+    - Lehon Plein <i>(Place Lehon / Lehonplein)</i> 
 4. Antwerp
-    - The MAS <i>(The Museum aan de Stroom)</i> 
+    - MAS <i>(The Museum aan de Stroom)</i> 
     - Het Steen <i>(Het Steen)</i> 
-    - The Rubenshuis <i>(Rubenshuis)</i> 
-    - The Vleeshuis <i>(Vleeshuis)</i>
-    - The Grote Markt <i>(Grote Markt)</i>
-    - The Cathedral of Our Lady <i>(Onze-Lieve-Vrouwekathedraal)</i>
-    - The Vlaeykensgang <i>(Vlaaikensgang)</i>
+    - Rubenshuis <i>(Rubenshuis)</i> 
+    - Vleeshuis <i>(Vleeshuis)</i>
+    - Grote Markt <i>(Grote Markt)</i>
+    - Cathedral of Our Lady <i>(Onze-Lieve-Vrouwekathedraal)</i>
+    - Vlaeykensgang <i>(Vlaaikensgang)</i>
     - De Zwarte Panter <i>(De Zwarte Panter)</i>
     - Antwerp Diamond District <i>(Diamantkwartier)</i>
 {{< /spoiler >}}

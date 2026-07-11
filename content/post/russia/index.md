@@ -4,28 +4,28 @@ date: '2021-01-31'
 summary: Stay in Russia
 
 gallery_item:
--   album: russia
+- album: russia
     image: 1ekb.jpeg
     caption: Ekaterinburg
--   album: russia
+- album: russia
     image: 2kislo.jpg
     caption: Main Narzan Baths (Kislovodsk)
--   album: russia
+- album: russia
     image: 2msk.jpeg
     caption: Saint Basil's Cathedral
--   album: russia
+- album: russia
     image: 3kavkaz.jpeg
     caption: Fiagdon Village
--   album: russia
+- album: russia
     image: 4bannoye.jpeg
     caption: Bannoye Lake
--   album: russia
+- album: russia
     image: 5mgn.jpeg
     caption: Magnitogorsk Technical University 
--   album: russia
+- album: russia
     image: 1spb.jpg
     caption: State Hermitage Museum (St. Petersburg)
--   album: russia
+- album: russia
     image: 8solyanka.jpeg
     caption: Russian Solyanka
 
@@ -41,11 +41,11 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 {{< spoiler text="Click to view" >}}
 1. Moscow
     - St. Basil's Cathedral <i>(Собор Василия Блаженного)</i>
-    - The Cathedral of Christ the Saviour <i>(Храм Христа Спасителя)</i>
-    - The Red Square <i>(Красная площадь)</i>
-    - The Moscow Metro <i>(Московский Метрополитен)</i>
+    - Cathedral of Christ the Saviour <i>(Храм Христа Спасителя)</i>
+    - Red Square <i>(Красная площадь)</i>
+    - Moscow Metro <i>(Московский Метрополитен)</i>
     - GUM <i>(ГУМ)</i>
-    - The Bolshoi Theatre <i>(Большой Театр)</i>
+    - Bolshoi Theatre <i>(Большой Театр)</i>
     - Exhibition of Achievements of National Economy <i>(ВДНХ)</i>
     - Gorky Central Park <i>(ЦПКиО им. Горького)</i>
     - Arbat Street <i>(Старый Арбат)</i>
@@ -99,7 +99,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 9. Pavlovsk 
     - Pavlovsk Museum <i>(Павловский Дворец)</i> 
 10. Gatchina
-    - The State Museum-Reserve "Gatchina" <i>(Музей "Гатчина")</i> 
+    - State Museum-Reserve "Gatchina" <i>(Музей "Гатчина")</i> 
 11. Degtyarsk
     - Degtyarsk Mines <i>(Дегтярские Шахты)</i> 
     - Palace of Culture <i>(Дворец Культуры)</i> 
@@ -189,7 +189,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Nana Zadaleski Museum <i>(Музей Наны Задалески)</i>
     - Digori Gorge <i>(Дигорское Ущелье)</i>
 29. Vladikavkaz
-    - The Mukhtarov Mosque <i>(Мечеть Мухтарова)</i>
+    - Mukhtarov Mosque <i>(Мечеть Мухтарова)</i>
     - Park of Culture and Recreation <i>(Парк Культуры и Отдыха)</i>
     - National Museum of North Ossetia <i>(Национальный Музей Северной Осетии)</i>
     - Vladikavkaz Central Waterfront <i>(Набережная Реки Терек)</i>

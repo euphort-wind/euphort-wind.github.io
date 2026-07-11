@@ -41,49 +41,49 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 {{< spoiler text="Click to view" >}}
 1. Paris
     - Notre-Dame de Paris <i>(Cathédrale Notre-Dame de Paris)</i>
-    - The Louvre Museum <i>(Musée du Louvre)</i>
-    - The Eiffel Tower <i>(Tour Eiffel)</i>
-    - The Hôtel des Invalides <i>(Hôtel des Invalides)</i>
-    - The Arc de Triomphe <i>(Arc de Triomphe de l'Étoile)</i>
+    - Louvre Museum <i>(Musée du Louvre)</i>
+    - Eiffel Tower <i>(Tour Eiffel)</i>
+    - Hôtel des Invalides <i>(Hôtel des Invalides)</i>
+    - Arc de Triomphe <i>(Arc de Triomphe de l'Étoile)</i>
     - Galeries Lafayette <i>(Galeries Lafayette)</i>
-    - The Champs-Élysées Avenue <i>(Avenue des Champs-Élysées)</i>
-    - The Palais Garnier <i>(Palais Garnier)</i>
-    - The Panthéon <i>(Panthéon)</i>
-    - The Hôtel de Ville <i>(Hôtel de Ville)</i>
-    - The Place de la Concorde <i>(Place de la Concorde)</i>
-    - The Pont Alexandre III <i>(Pont Alexandre III)</i>
-    - The Pont Neuf <i>(Pont Neuf)</i>
-    - The Luxembourg Palace <i>(Palais du Luxembourg)</i>
-    - The Sainte-Chapelle <i>(Sainte-Chapelle)</i>
-    - The Conciergerie <i>(Conciergerie)</i>
-    - The Trocadéro Square <i>(Trocadéro)</i>
+    - Champs-Élysées Avenue <i>(Avenue des Champs-Élysées)</i>
+    - Palais Garnier <i>(Palais Garnier)</i>
+    - Panthéon <i>(Panthéon)</i>
+    - Hôtel de Ville <i>(Hôtel de Ville)</i>
+    - Place de la Concorde <i>(Place de la Concorde)</i>
+    - Pont Alexandre III <i>(Pont Alexandre III)</i>
+    - Pont Neuf <i>(Pont Neuf)</i>
+    - Luxembourg Palace <i>(Palais du Luxembourg)</i>
+    - Sainte-Chapelle <i>(Sainte-Chapelle)</i>
+    - Conciergerie <i>(Conciergerie)</i>
+    - Trocadéro Square <i>(Trocadéro)</i>
     - Moulin Rouge Cabaret <i>(Moulin Rouge)</i>
-    - The Sacré-Cœur Basilica <i>(Basilique du Sacré-Cœur de Montmartre)</i>
+    - Sacré-Cœur Basilica <i>(Basilique du Sacré-Cœur de Montmartre)</i>
 2. Versailles
-    - The Palace of Versailles <i>(Château de Versailles)</i>
-    - The Gardens of Versailles <i>(Jardins du Château de Versailles)</i>
-    - The Chapel of Versailles <i>(Chapelle Royale de Versailles)</i>
-    - The Hôtel de Ville <i>(Hôtel de Ville)</i>
-    - The Palace of Justice <i>(Palais de Justice)</i>
+    - Palace of Versailles <i>(Château de Versailles)</i>
+    - Gardens of Versailles <i>(Jardins du Château de Versailles)</i>
+    - Chapel of Versailles <i>(Chapelle Royale de Versailles)</i>
+    - Hôtel de Ville <i>(Hôtel de Ville)</i>
+    - Palace of Justice <i>(Palais de Justice)</i>
     - Versailles Cathedral <i>(Cathédrale Saint-Louis de Versailles)</i>
 3. Toulouse
-    - The Basilica of Saint-Sernin <i>(Basilique Saint-Sernin de Toulouse)</i>
-    - The Capitole de Toulouse <i>(Capitole de Toulouse)</i>
-    - The Hôpital de La Grave <i>(Hôpital de La Grave)</i>
-    - The Pont Neuf <i>(Pont Neuf)</i>
-    - The Hôtel d'Assézat <i>(Hôtel d'Assézat)</i>
-    - The Musée des Augustins <i>(Musée des Augustins)</i>
+    - Basilica of Saint-Sernin <i>(Basilique Saint-Sernin de Toulouse)</i>
+    - Capitole de Toulouse <i>(Capitole de Toulouse)</i>
+    - Hôpital de La Grave <i>(Hôpital de La Grave)</i>
+    - Pont Neuf <i>(Pont Neuf)</i>
+    - Hôtel d'Assézat <i>(Hôtel d'Assézat)</i>
+    - Musée des Augustins <i>(Musée des Augustins)</i>
     - Toulouse Cathedral <i>(Cathédrale Saint-Étienne)</i>
     - Jardin des Plantes <i>(Jardin des Plantes)</i>
     - Toulouse-Matabiau Station <i>(Toulouse-Matabiau)</i>
 4. Albi
     - Old Town Albi <i>(Vieille d'Albi)</i>
-    - The Cathedral of Saint Cecilia <i>(Cathédrale Sainte-Cécile d'Albi)</i> 
+    - Cathedral of Saint Cecilia <i>(Cathédrale Sainte-Cécile d'Albi)</i> 
     - Musée Toulouse-Lautrec <i>(Musée Toulouse-Lautrec)</i> 
-    - The Pont-Vieux d'Albi <i>(Pont-Vieux d'Albi)</i>
-    - The Berbie Palace <i>(Palais de la Berbie)</i> 
+    - Pont-Vieux d'Albi <i>(Pont-Vieux d'Albi)</i>
+    - Berbie Palace <i>(Palais de la Berbie)</i> 
     - Albi City Hall <i>(Hôtel de Ville d'Albi)</i>
-    - The Church of St. Salvy <i>(Collégiale Saint-Salvi d'Albi)</i>
+    - Church of St. Salvy <i>(Collégiale Saint-Salvi d'Albi)</i>
     - Albi Market Hall <i>(Halle du Marché)</i>
     - Hôtel du Bosc <i>(Hôtel du Bosc)</i>
 {{< /spoiler >}}
@@ -279,7 +279,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - Aubusson Tapestries <i>(Tapisserie d'Aubusson)</i>
 - Equitation Tradition <i>(Équitation)</i>
 - Parkour Sport <i>(Parkour)</i>
-- The Savate Boxing <i>(Savate)</i>
+- Savate Boxing <i>(Savate)</i>
 - Pétanque Game <i>(Pétanque)</i>
 - System of Compagnonnage <i>(Compagnonnage)</i>
 - French Perfumery <i>(Parfumerie Française)</i>

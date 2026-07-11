@@ -43,7 +43,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
     - Museum Embankment <i>(Museumsufer)</i> 
     - Frankfurt Cathedral <i>(Frankfurter Dom)</i> 
     - St. Paul's Church <i>(Paulskirche)</i>
-    - The Hauptwache <i>(Hauptwache)</i> 
+    - Hauptwache <i>(Hauptwache)</i> 
     - Bankenviertel <i>(Bankenviertel)</i>
     - Zeil Street <i>(Zeil)</i>
     - Old Opera <i>(Alte Oper)</i>
@@ -70,31 +70,31 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
     - Roman Tower <i>(Römerturm)</i>
     - Schnütgen Museum <i>(Museum Schnütgen)</i>
 5. Düsseldorf
-    - The Basilica of St. Lambertus <i>(Basilika St. Lambertus)</i>
-    - The Burgplatz <i>(Der Burgplatz)</i>
+    - Basilica of St. Lambertus <i>(Basilika St. Lambertus)</i>
+    - Burgplatz <i>(Der Burgplatz)</i>
     - Triton Fountain <i>(Tritonenbrunnen)</i>
-    - The Königsallee <i>(Königsallee)</i>
-    - The Old Town Hall of Düsseldorf <i>(Rathaus)</i>
+    - Königsallee <i>(Königsallee)</i>
+    - Old Town Hall of Düsseldorf <i>(Rathaus)</i>
     - Martin Luther Square <i>(Martin-Luther-Platz)</i>
     - Flinger Street <i>(Flinger Straße)</i>
 6. Bochum
     - German Mining Museum <i>(Deutsches Bergbau-Museum Bochum)</i>
-    - The Provost Church of Ss. Peter and Paul <i>(Propsteikirche St. Peter und Paul)</i>
+    - Provost Church of Ss. Peter and Paul <i>(Propsteikirche St. Peter und Paul)</i>
     - Bochum Town Hall <i>(Rathaus Bochum)</i>
 7. Duisburg
     - Lehmbruck Museum <i>(Lehmbruck-Museum)</i>
     - Duisburg Inner Harbour <i>(Innenhafen)</i>
-    - The Church of Our Saviour <i>(Salvatorkirche)</i>
-    - The Burgplatz <i>(Der Burgplatz)</i>
+    - Church of Our Saviour <i>(Salvatorkirche)</i>
+    - Burgplatz <i>(Der Burgplatz)</i>
 8. Munich
-    - The Frauenkirche <i>(Dom zu Unserer Lieben Frau)</i>
-    - The Mary's Square <i>(Marienplatz)</i>
-    - The Hofbräuhaus am Platzl <i>(Hofbräuhaus am Platzl)</i>
+    - Frauenkirche <i>(Dom zu Unserer Lieben Frau)</i>
+    - Mary's Square <i>(Marienplatz)</i>
+    - Hofbräuhaus am Platzl <i>(Hofbräuhaus am Platzl)</i>
     - Munich Residenz <i>(Residenz)</i>
-    - The Hofgarten <i>(Hofgarten)</i>
+    - Hofgarten <i>(Hofgarten)</i>
     - St. Peter's Church <i>(Peterskirche)</i>
-    - The Viktualienmarkt <i>(Viktualienmarkt)</i>
-    - The Englischer Garten <i>(Englischer Garten)</i>
+    - Viktualienmarkt <i>(Viktualienmarkt)</i>
+    - Englischer Garten <i>(Englischer Garten)</i>
     - Theresienwiese <i>(Theresienwiese)</i>
 {{< /spoiler >}}
 

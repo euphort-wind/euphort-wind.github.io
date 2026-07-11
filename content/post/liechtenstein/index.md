@@ -42,25 +42,25 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
 1. Vaduz
     - Vaduz Castle <i>(Schloss Vaduz)</i>
     - Vaduz Cathedral <i>(St. Florinskirche)</i>
-    - The Government Building <i>(Regierungsgebäude)</i>
-    - The Liechtenstein National Museum <i>(Liechtensteinisches Landesmuseum)</i>
+    - Government Building <i>(Regierungsgebäude)</i>
+    - Liechtenstein National Museum <i>(Liechtensteinisches Landesmuseum)</i>
     - Alte Rheinbrücke <i>(Alte Rheinbrücke)</i>
-    - The Postal Museum <i>(Postmuseum)</i>
+    - Postal Museum <i>(Postmuseum)</i>
     - Vaduz Town Hall <i>(Rathaus von Vaduz)</i>
-    - The Red House of Vaduz <i>(Rotes Haus)</i>
+    - Red House of Vaduz <i>(Rotes Haus)</i>
     - Liechtenstein Museum of Fine Arts <i>(Kunstmuseum Liechtenstein)</i> 
 2. Triesen
     - Triesen Parish Church <i>(Pfarrkirche St. Gallus)</i>
-    - The Chapel of St. Mamerten <i>(Kapelle St. Mamerten)</i>
+    - Chapel of St. Mamerten <i>(Kapelle St. Mamerten)</i>
     - Private University in the Principality of Liechtenstein <i>(UFL)</i>
 3. Triesenberg  
     - Triesenberg Parish Church <i>(Pfarrkirche St. Joseph)</i>
-    - The Walser Museum <i>(Walsermuseum)</i>
+    - Walser Museum <i>(Walsermuseum)</i>
     - Triesenberg Town Hall <i>(Rathaus Triesenberg)</i>
     - Malbun Ski Resort <i>(Malbun)</i>
 4. Schaan
     - Schaan Parish Church <i>(Pfarrkirche St. Laurentius)</i>
-    - The TAK Theater Liechtenstein <i>(TAK Theater)</i> 
+    - TAK Theater Liechtenstein <i>(TAK Theater)</i> 
     - DoMus: Museum & Gallery <i>(DoMus: Galerie & Museum)</i> 
 {{< /spoiler >}}
 

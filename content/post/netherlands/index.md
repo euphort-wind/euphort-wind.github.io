@@ -42,13 +42,13 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
     - Damrak Street <i>(Damrak)</i>
     - Dam Square <i>(De Dam)</i>
     - Spui Square <i>(Spui)</i>
-    - The Begijnhof <i>(Begijnhof)</i>
+    - Begijnhof <i>(Begijnhof)</i>
     - Singel Canal <i>(Singel)</i>
-    - The Flower Market <i>(Bloemenmarkt)</i>
+    - Flower Market <i>(Bloemenmarkt)</i>
     - Muntplein Square <i>(Muntplein)</i>
     - Kloveniersburgwal Canal <i>(Kloveniersburgwal)</i>
     - Dutch National Museum <i>(Rijksmuseum)</i>
-    - The Red Light District <i>(De Wallen)</i>
+    - Red Light District <i>(De Wallen)</i>
 2. Haarlem
     - Grote Markt <i>(De Grote Markt)</i>
     - Windmill de Adriaan <i>(De Adriaan)</i>
@@ -59,39 +59,39 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 3. Utrecht
     - Zeven Steegjes <i>(De Zeven Steegjes)</i> 
     - St. Marie’s Cloister Garden <i>(Kloostergang van Mariakerk)</i> 
-    - The Grand Hotel Karel V <i>(Grand Hotel Karel V)</i> 
+    - Grand Hotel Karel V <i>(Grand Hotel Karel V)</i> 
     - De Inktpot <i>(De Inktpot)</i> 
     - Central Museum <i>(Centraal Museum)</i> 
     - St. Martin's Cathedral <i>(Dom van Utrecht)</i> 
-    - The Dom Tower <i>(Domtoren)</i>
+    - Dom Tower <i>(Domtoren)</i>
 4. Leiden
     - Academy Building of Leiden University <i>(Academiegebouw)</i>
     - Museum De Valk <i>(Museum De Valk)</i>
-    - The Burcht van Leiden <i>(Burcht van Leiden)</i>
-    - The Pieterskerk <i>(Pieterskerk)</i>
+    - Burcht van Leiden <i>(Burcht van Leiden)</i>
+    - Pieterskerk <i>(Pieterskerk)</i>
     - Leiden City Hall <i>(Stadhuis)</i>
-    - The Leiden Weigh House <i>(De Waag)</i>
-    - The Hooglandse Church <i>(Hooglandse Kerk)</i>
-    - The Korenbeurs Bridge <i>(Koornbrug)</i>
+    - Leiden Weigh House <i>(De Waag)</i>
+    - Hooglandse Church <i>(Hooglandse Kerk)</i>
+    - Korenbeurs Bridge <i>(Koornbrug)</i>
 5. Leeuwarden
-    - The Oldehove <i>(Oldehove)</i>
+    - Oldehove <i>(Oldehove)</i>
     - Fries Museum <i>(Fries Museum)</i>
-    - The Blokhuis <i>(De Blokhuispoort)</i>
-    - The Kanselarij <i>(De Kanselarij)</i>
-    - The Hoofdpostkantoor <i>(Hoofdpostkantoor)</i>
+    - Blokhuis <i>(De Blokhuispoort)</i>
+    - Kanselarij <i>(De Kanselarij)</i>
+    - Hoofdpostkantoor <i>(Hoofdpostkantoor)</i>
     - Kleine Kerkstraat Street <i>(De Kleine Kerkstraat)</i>
     - Frisian Museum of Natural History <i>(Natuurmuseum Fryslân)</i>
-    - The Saint Boniface Church <i>(Sint-Bonifatiuskerk)</i>
+    - Saint Boniface Church <i>(Sint-Bonifatiuskerk)</i>
 6. The Hague
-    - The Binnenhof <i>(Binnenhof)</i>
-    - The Mauritshuis <i>(Mauritshuis)</i>
-    - The Scheveningen Pier <i>(Scheveningse Pier)</i>
-    - The Kurhaus of Scheveningen <i>(Grand Hotel Amrâth Kurhaus Den Haag)</i>
-    - The Lange Voorhout <i>(Lange Voorhout)</i>
-    - The Peace Palace <i>(Vredespaleis)</i>
-    - The Kunstmuseum Den Haag <i>(Kunstmuseum Den Haag)</i>
-    - The Passage <i>(De Passage)</i>
-    - The Grote Markt <i>(De Grote Markt)</i>
+    - Binnenhof <i>(Binnenhof)</i>
+    - Mauritshuis <i>(Mauritshuis)</i>
+    - Scheveningen Pier <i>(Scheveningse Pier)</i>
+    - Kurhaus of Scheveningen <i>(Grand Hotel Amrâth Kurhaus Den Haag)</i>
+    - Lange Voorhout <i>(Lange Voorhout)</i>
+    - Peace Palace <i>(Vredespaleis)</i>
+    - Kunstmuseum Den Haag <i>(Kunstmuseum Den Haag)</i>
+    - Passage <i>(De Passage)</i>
+    - Grote Markt <i>(De Grote Markt)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>

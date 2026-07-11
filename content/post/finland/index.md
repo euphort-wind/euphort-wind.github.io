@@ -44,14 +44,14 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
     - Temppeliaukio Church <i>(Temppeliaukion Kirkko)</i>
     - Sea Fortress Suomenlinna <i>(Suomenlinna)</i>
     - Helsinki Cathedral <i>(Helsingin Tuomiokirkko)</i>
-    - The Senate Square <i>(Senaatintori)</i>
+    - Senate Square <i>(Senaatintori)</i>
     - Kallio Church <i>(Kallion Kirkko)</i>
-    - The Parliament House <i>(Eduskuntatalo)</i>
+    - Parliament House <i>(Eduskuntatalo)</i>
     - Old Market Hall <i>(Vanha Kauppahalli)</i>
     - Uspenskin Cathedral <i>(Uspenskin Katedraali)</i>
     - Esplanadi Street <i>(Esplanadi)</i>
     - Kamppi Chapel of Silence <i>(Kampin Kappeli)</i>
-    - The Sibelius Monument <i>(Sibelius-Monumentti)</i>
+    - Sibelius Monument <i>(Sibelius-Monumentti)</i>
     - Helsinki Winter Garden <i>(Helsingin Talvipuutarha)</i>
 2. Vaasa
     - Vaasa City Hall <i>(Kaupungintalo)</i>

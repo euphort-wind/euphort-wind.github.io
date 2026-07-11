@@ -39,8 +39,8 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 
 {{< spoiler text="Click to view" >}}
 1. Yerevan
-    - The Cascade <i>(Կասկադ)</i>
-    - The Matenadaran <i>(Մատենադարան)</i>
+    - Cascade <i>(Կասկադ)</i>
+    - Matenadaran <i>(Մատենադարան)</i>
     - Northern Avenue <i>(Հյուսիսային պողոտա)</i>
     - Mashtots Avenue <i>(Մաշտոցի Պողոտա)</i>
     - Yerevan Opera Theatre <i>(օպերայի և բալետի թատրոն)</i>
@@ -50,28 +50,28 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
     - Saint Sarkis Cathedral <i>(Սուրբ Սարգիս Մայր Եկեղեցի)</i>
     - Erebuni Fortress <i>(Էրեբունի ամրոց)</i>
     - Ararat Brandy Factory <i>(Երևանի Արարատ կոնյակի-գինու-օղու կոմբինատ)</i>
-    - The Mother Armenia <i>(Մայր Հայաստան)</i>
+    - Mother Armenia <i>(Մայր Հայաստան)</i>
     - Tsitsernakaberd <i>(Ծիծեռնակաբերդ)</i>
     - Zoravor Surp Astvatsatsin Church <i>(Զորավոր Սուրբ Աստվածածին եկեղեցի)</i>
 2. Garni
-    - The Garni Temple <i>(Գառնու հեթանոսական տաճար)</i>
-    - The Garni Gorge <i>(Գառնու ձոր)</i>
-    - The Symphony of Stones <i>(Քարերի սիմֆոնիա)</i>
+    - Garni Temple <i>(Գառնու հեթանոսական տաճար)</i>
+    - Garni Gorge <i>(Գառնու ձոր)</i>
+    - Symphony of Stones <i>(Քարերի սիմֆոնիա)</i>
     - Geghard Monastery <i>(Գեղարդ)</i>
 3. Lusarat
     - Khor Virap Monastery <i>(Խոր Վիրապ)</i>
 4. Areni
     - Noravank <i>(Նորավանք)</i>
     - Areni Wine Factory <i>(Արենի Գինու Գործարան)</i>
-    - The Areni-1 Cave Complex <i>(Արենիի քարանձավ)</i>
+    - Areni-1 Cave Complex <i>(Արենիի քարանձավ)</i>
 5. Goris
     - Goris City Hall <i>(Գորիսի քաղաքապետարան)</i>
     - Medieval Goris Cave Dwellings <i>(գորիսի քարանձավներ)</i>
 6. Khndzoresk 
     - Khndzoresk Cave Village <i>(Խնձորեսկ)</i>
-    - The Old Khndzoresk Church <i>(Հին Խնձորեսկի եկեղեցի)</i>
+    - Old Khndzoresk Church <i>(Հին Խնձորեսկի եկեղեցի)</i>
 7. Tatev  
-    - The Tatev Monastery <i>(Տաթևի վանք)</i>
+    - Tatev Monastery <i>(Տաթևի վանք)</i>
     - Wings of Tatev <i>(Տաթևի թևեր)</i>
 8. Sevan  
     - Lake Sevan <i>(Սևանա լիճ)</i>
@@ -82,16 +82,16 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
     - Lake Parz <i>(Պարզ լիճ)</i>
     - Mimino Statue <i>(Միմինո հուշարձան)</i>
     - Dilijan City Park <i>(Դիլիջանի քաղաքային այգի)</i>
-    - The Regional Museum of Dilijan <i>(Դիլիջանի երկրագիտական թանգարան)</i>
+    - Regional Museum of Dilijan <i>(Դիլիջանի երկրագիտական թանգարան)</i>
 10. Gyumri
-    - The Sev Berd <i>(Սև բերդ)</i>
+    - Sev Berd <i>(Սև բերդ)</i>
     - Abovyan Street <i>(Աբովյան փողոց)</i>
     - Holy Saviour's Church <i>(Սուրբ Ամենափրկիչ Եկեղեցի)</i>
     - Vartanants Square <i>(Վարդանանց Հրապարակ)</i>
     - Independence Square <i>(Անկախության հրապարակ)</i>
     - Gyumri Central Market <i>(Գյումրու կենտրոնական շուկան)</i>
     - Dzitoghtsyan Museum of National Architecture <i>(Ձիթողցոնց տուն-թանգարան)</i>
-    - The Mother Armenia <i>(Մայր Հայաստան)</i>
+    - Mother Armenia <i>(Մայր Հայաստան)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>

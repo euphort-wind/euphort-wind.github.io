@@ -40,38 +40,38 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 {{< spoiler text="Click to view" >}}
 1. Bratislava
     - Bratislava Castle <i>(Bratislavský Hrad)</i>
-    - The Main Square <i>(Hlavné Námestie)</i>
+    - Main Square <i>(Hlavné Námestie)</i>
     - Old Town Hall <i>(Stará Radnica)</i>
     - Čumil Statue <i>(Čumil)</i>
     - Michael's Gate <i>(Michalská Brána)</i>
     - Grassalkovich Palace <i>(Grasalkovičov Palác)</i>
-    - The Trinitarian Church <i>(Kostol Trinitárov)</i>
-    - The Capuchin Church <i>(Kostol Sv. Štefana)</i>
-    - The Church of St. Elizabeth <i>(Kostol Sv. Alžbety)</i>
+    - Trinitarian Church <i>(Kostol Trinitárov)</i>
+    - Capuchin Church <i>(Kostol Sv. Štefana)</i>
+    - Church of St. Elizabeth <i>(Kostol Sv. Alžbety)</i>
     - Mirbach Palace <i>(Mirbachov Palác)</i>
     - Hviezdoslavovo Square <i>(Hviezdoslavovo Námestie)</i>
-    - The House of the Good Shepherd <i>(Dom u Dobrého Pastiera)</i>
+    - House of the Good Shepherd <i>(Dom u Dobrého Pastiera)</i>
 2. Banská Štiavnica
     - Calvary Banská Štiavnica <i>(Banskoštiavnická Kalvária)</i>
-    - The Old Castle <i>(Mestský Hrad v Banskej Štiavnici)</i>
-    - The New Castle <i>(Nový Zámok)</i>
-    - The Holy Trinity Column <i>(Morový Stíp v Banskej Štiavnici)</i>
-    - The Town Hall <i>(Mestská Radnica)</i>
+    - Old Castle <i>(Mestský Hrad v Banskej Štiavnici)</i>
+    - New Castle <i>(Nový Zámok)</i>
+    - Holy Trinity Column <i>(Morový Stíp v Banskej Štiavnici)</i>
+    - Town Hall <i>(Mestská Radnica)</i>
     - Klopačka <i>(Klopačka)</i>
     - Kammerhof <i>(Kammerhof)</i>
     - Adit Glanzenberg <i>(Štôlňa Glanzenberg)</i>
 3. Trnava
     - St. John the Baptist Cathedral <i>(Katedrála Sv. Jána Krstiteľa)</i>
-    - The City Tower <i>(Mestská Veža)</i>
-    - The Church of the Holy Trinity <i>(Kostol Sv. Trojice)</i>
+    - City Tower <i>(Mestská Veža)</i>
+    - Church of the Holy Trinity <i>(Kostol Sv. Trojice)</i>
     - Ján Palárik's Theater <i>(Divadlo Jána Palárika)</i>
     - Hlavná Street <i>(Hlavná Ulica)</i>
-    - The Church of St. Jacob <i>(Kostol Sv. Jakuba)</i>
+    - Church of St. Jacob <i>(Kostol Sv. Jakuba)</i>
 4. Zvolen
     - Zvolen Castle <i>(Zvolenský Zámok)</i>
-    - The Armored Train Hurban <i>(Pancierový Vlak Hurban)</i>
+    - Armored Train Hurban <i>(Pancierový Vlak Hurban)</i>
     - Finkova Kúria <i>(Finkova Kúria)</i>
-    - The Church of St. Elizabeth <i>(Kostol Sv. Alžbety)</i>
+    - Church of St. Elizabeth <i>(Kostol Sv. Alžbety)</i>
     - Námestie SNP <i>(Námestie SNP)</i>
 {{< /spoiler >}}
 

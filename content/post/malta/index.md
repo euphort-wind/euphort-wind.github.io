@@ -42,24 +42,24 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
     - Tritons' Fountain <i>(Il-Funtana tat-Tritoni)</i>
     - St. John's Co-Cathedral <i>(Kon-Katidral ta' San Ġwann)</i>
     - Republic Street <i>(Triq ir-Repubblika)</i>
-    - The Upper Barrakka Gardens <i>(Il-Barrakka ta' Fuq)</i>
+    - Upper Barrakka Gardens <i>(Il-Barrakka ta' Fuq)</i>
     - Republic Square <i>(Misraħ ir-Repubblika)</i>
     - Fort St. Elmo <i>(Forti Sant'Iermu)</i>
-    - The Basilica of St. Dominic <i>(Il-Bażilika ta' San Duminku)</i>
+    - Basilica of St. Dominic <i>(Il-Bażilika ta' San Duminku)</i>
     - Valletta Boat Taxi <i>(Taxi tal-Ilma)</i>
 2. Birgu
     - Fort St. Angelo <i>(Forti Sant'Anġlu)</i>
     - Xatt il-Forn <i>(Xatt il-Forn)</i>
     - Victory Square <i>(Pjazza il-Vitorja)</i>
-    - The Collegiate church of Saint Lawrence <i>(Knisja Kolleġġjata ta' San Lawrenz)</i>  
+    - Collegiate church of Saint Lawrence <i>(Knisja Kolleġġjata ta' San Lawrenz)</i>  
     - Collachio <i>(Collachio)</i> 
 3. St. Paul's Bay
     - Buġibba Temple <i>(Tempju ta’ Buġibba)</i>
-    - The Malta Classic Car Collection <i>(The Malta Classic Car Collection)</i>  
+    - Malta Classic Car Collection <i>(The Malta Classic Car Collection)</i>  
     - It-Trunciera Street <i>(Triq it-Trunciera)</i> 
 4. Rabat
     - St Paul’s Catacombs <i>(Il-Katakombi ta’ San Pawl)</i>
-    - The Basilica of St. Paul <i>(Il-Bażilika Kolleġġjata u Proto-Parrokkjali ta' San Pawl)</i>  
+    - Basilica of St. Paul <i>(Il-Bażilika Kolleġġjata u Proto-Parrokkjali ta' San Pawl)</i>  
     - Casino Notabile <i>(Il-Casino Notabile)</i>
 5. Mdina
     - Mdina Gate <i>(Il-Bieb tal-Imdina)</i>
@@ -68,7 +68,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
     - Mesquita Square <i>(Pjazza Mesquita)</i>
     - Casa Gourgion <i>(Casa Gourgion)</i>
 6. Mellieħa
-    - The Parish Church of the Nativity of the Virgin Mary <i>(Knisja Parrokjali tat-Twelid tal-Vergni Marija)</i>
+    - Parish Church of the Nativity of the Virgin Mary <i>(Knisja Parrokjali tat-Twelid tal-Vergni Marija)</i>
     - Cave Dwellings <i>(Għerien tat-Trogloditi)</i>
     - Popeye Village <i>(Popeye Village)</i>
 {{< /spoiler >}}    

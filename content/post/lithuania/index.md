@@ -39,18 +39,18 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 
 {{< spoiler text="Click to view" >}}
 1. Vilnius
-    - The Gate of Dawn and Gate Street <i>(Aušros Vartai ir Aušros Vartų gatvė)</i>
+    - Gate of Dawn and Gate Street <i>(Aušros Vartai ir Aušros Vartų gatvė)</i>
     - Vilnius Town Hall Square <i>(Vilniaus Rotušės Aikštė)</i>
     - Church of St. Johns and Vilnius University <i>(Šv. Jonų Bažnyčia ir Vilniaus Universitetas)</i>
     - St. Parasceve Orthodox Church <i>(Šv. Kankinės Paraskevės Cerkvė)</i>
-    - The Presidential Palace <i>(Prezidentūra)</i>
+    - Presidential Palace <i>(Prezidentūra)</i>
     - St. Anne's Church <i>(Šv. Onos Bažnyčia)</i>
     - Bernardine Garden <i>(Bernardinų Sodas)</i>
     - Vilnius Castle Complex <i>(Vilniaus Pilių Kompleksas)</i>
     - Vilnius Cathedral <i>(Vilniaus Šv. Stanislovo ir Šv. Vladislovo Arkikatedra Bazilika)</i>
     - Vilnius Street <i>(Vilniaus Gatvė)</i>
 2. Kaunas
-    - The Garrison Church <i>(Šv. Arkangelo Mykolo Bažnyčia)</i>
+    - Garrison Church <i>(Šv. Arkangelo Mykolo Bažnyčia)</i>
     - Žaliakalnis Funikulierius <i>(Žaliakalnio Funikulierius)</i>
     - Christ's Resurrection Basilica <i>(Kristaus Prisikėlimo Bazilika)</i>
     - Vytautas the Great War Museum <i>(Vytauto Didžiojo Karo Muziejus)</i>

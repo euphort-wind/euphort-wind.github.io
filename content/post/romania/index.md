@@ -40,30 +40,30 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 {{< spoiler text="Click to view" >}}
 1. Bucharest
     - Old Town Bucharest <i>(Centrul Istoric al Bucureștiului)</i>
-    - The Parliament of Romania <i>(Parlamentul României)</i>
+    - Parliament of Romania <i>(Parlamentul României)</i>
     - National History Museum of Romania <i>(Muzeul Național de Istorie a României)</i>
     - Stavropoleos Monastery <i>(Mănăstirea Stavropoleos)</i>
-    - The CEC Bank Palace <i>(Palatul CEC)</i>
+    - CEC Bank Palace <i>(Palatul CEC)</i>
     - Curtea Veche Church <i>(Biserica Curtea Veche)</i>
     - National Bank of Romania <i>(Banca Națională a României)</i>
     - Palace of Justice <i>(Palatul Justiției)</i>
-    - The Romanian Athenaeum <i>(Ateneul Român)</i>
+    - Romanian Athenaeum <i>(Ateneul Român)</i>
 2. Sinaia
     - Peleș Castle <i>(Castelul Peleș)</i>
     - Pelișor Castle <i>(Castelul Pelișor)</i>
     - Sinaia Monastery <i>(Mănăstirea Sinaia)</i>
-    - The Casino of Sinaia <i>(Cazinoul Sinaia)</i>
+    - Casino of Sinaia <i>(Cazinoul Sinaia)</i>
     - Hotel Palace <i>(Hotel Palace din Sinaia)</i>
     - Dimitrie Ghica Park <i>(Parcul Dimitrie Ghica)</i>
 3. Bran
     - Bran Castle <i>(Castelul Bran)</i>
     - Royal Park <i>(Parcul Regal)</i>
 4. Brașov
-    - The Council Square <i>(Piața Sfatului)</i>
-    - The Black Church of Romania <i>(Biserica Neagră)</i>
+    - Council Square <i>(Piața Sfatului)</i>
+    - Black Church of Romania <i>(Biserica Neagră)</i>
     - Catherine's Gate <i>(Poarta Ecaterinei)</i>
-    - The Black Tower <i>(Turnul Negru din Brașov)</i>
-    - The White Tower <i>(Turnul Alb din Brașov)</i>
+    - Black Tower <i>(Turnul Negru din Brașov)</i>
+    - White Tower <i>(Turnul Alb din Brașov)</i>
     - Saint Nicholas Church <i>(Biserica Sfântul Nicolae)</i>
     - Transilvania University of Brașov <i>(Universitatea Transilvania din Brașov)</i>
 5. Prejmer
@@ -72,17 +72,17 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 6. Sfântu Gheorghe
     - Székely National Museum <i>(Muzeul Național Secuiesc)</i>
     - Elizabeth Park <i>(Parcul Elisabeta)</i>
-    - The Beör Palace <i>(Palatul Beör)</i>
+    - Beör Palace <i>(Palatul Beör)</i>
     - Unitarian Church <i>(Biserica Unitariană)</i>
 7. Sighișoara
     - Old Town Sighișoara <i>(Cetatea Sighișoara)</i>
     - Sighișoara Clock Tower <i>(Turnul cu Ceas)</i>
-    - The Church on the Hill <i>(Biserica din Deal)</i>
+    - Church on the Hill <i>(Biserica din Deal)</i>
     - Vlad Dracul House <i>(Casa Vlad Dracul din Sighișoara)</i>
-    - The Scholar's Stairs <i>(Scara Acoperită)</i>
+    - Scholar's Stairs <i>(Scara Acoperită)</i>
     - Sighișoara City Hall <i>(Primăria Municipiului)</i>
-    - The Bootmakers' Tower <i>(Turnul Cizmarilor)</i>
-    - The Stag House <i>(Casa cu Cerb)</i>
+    - Bootmakers' Tower <i>(Turnul Cizmarilor)</i>
+    - Stag House <i>(Casa cu Cerb)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
@@ -165,7 +165,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - Authentic Musical Instrument: Romanian Nai <i>(Nai)</i> 
 - Culture of Romani <i>(Romi / Romane Manusha)</i>
   - Authentic Concept: Romanipen <i>(Romanipenul / Romanipen)</i>
-  - Lăutărească Music & Lăutari <i>(Muzica Lăutărească și Lăutari / Lăutărească Muzika thaj Lăutari)</i> 
+  - Lăutari & Lăutărească Music <i>(Lăutari Muzica și Lăutărească / Lăutari thaj Lăutărească Muzika)</i> 
   - Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
   - Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
   - Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 

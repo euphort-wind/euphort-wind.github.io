@@ -41,13 +41,13 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 1. Lisbon
     - Santa Justa Lift <i>(Elevador de Santa Justa)</i>
     - Rua Augusta Street <i>(Rua Augusta)</i>
-    - The Rua Augusta Arch <i>(Arco da Rua Augusta)</i>
-    - The Commerce Plaza <i>(Praça do Comércio)</i>
+    - Rua Augusta Arch <i>(Arco da Rua Augusta)</i>
+    - Commerce Plaza <i>(Praça do Comércio)</i>
     - Lisbon Cathedral <i>(Sé de Lisboa)</i>
-    - The Casa dos Bicos <i>(Casa dos Bicos)</i>
+    - Casa dos Bicos <i>(Casa dos Bicos)</i>
     - Saint George's Castle <i>(Castelo de São Jorge)</i>
-    - The Jerónimos Monastery <i>(Mosteiro dos Jerónimos)</i> 
-    - The Monument of the Discoveries <i>(Padrão dos Descobrimentos)</i> 
+    - Jerónimos Monastery <i>(Mosteiro dos Jerónimos)</i> 
+    - Monument of the Discoveries <i>(Padrão dos Descobrimentos)</i> 
     - Belém Tower <i>(Torre de Belém)</i> 
 2. Algés
     - Algés Beach <i>(Praia de Algés)</i> 
@@ -55,12 +55,12 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
     - Algés Market <i>(Mercado de Algés)</i> 
 3. Cascais 
     - Seixas Palace <i>(Palácio Seixas)</i> 
-    - The Citadel of Cascais <i>(Cidadela de Cascais)</i> 
+    - Citadel of Cascais <i>(Cidadela de Cascais)</i> 
     - Marechal Carmona Park <i>(Parque Marechal Carmona)</i> 
-    - The Palácio dos Condes de Castro Guimarães <i>(Palácio dos Condes de Castro Guimarães)</i> 
+    - Palácio dos Condes de Castro Guimarães <i>(Palácio dos Condes de Castro Guimarães)</i> 
     - Boca do Inferno <i>(Boca do Inferno)</i> 
 4. Sintra 
-    - The Pena Palace <i>(Palácio da Pena)</i>
+    - Pena Palace <i>(Palácio da Pena)</i>
     - Sintra National Palace <i>(Palácio Nacional de Sintra)</i>
     - Quinta da Regaleira <i>(Quinta da Regaleira)</i>
     - Moorish Castle <i>(Castelo dos Mouros)</i>
@@ -120,9 +120,9 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 
 
 <b>🎬 Local movies:</b>
--  A Sublime Life <i>(Uma Vida Sublime)</i>. Year: 2018. Genre: thriller / drama
--  Ice Merchants <i>(Ice Merchants)</i>. Year: 2022. Genre: animation / short
--  Momentos <i>(Momentos)</i>. Year: 2010. Genre: short
+- A Sublime Life <i>(Uma Vida Sublime)</i>. Year: 2018. Genre: thriller / drama
+- Ice Merchants <i>(Ice Merchants)</i>. Year: 2022. Genre: animation / short
+- Momentos <i>(Momentos)</i>. Year: 2010. Genre: short
 <br>
 
 

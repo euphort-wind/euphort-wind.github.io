@@ -56,7 +56,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Museum of Fine Art <i>(Göteborgs Konstmuseum)</i> 
     - Gothenburg Cathedral <i>(Göteborg Domkyrkan)</i>
     - Slottsskogen Park <i>(Slottsskogen)</i>
-    - The Garden Society <i>(Trädgårdsföreningen)</i>
+    - Garden Society <i>(Trädgårdsföreningen)</i>
     - Gothenburg Botanical Garden <i>(Botaniska Trädgården)</i>
 3. Mölndal
     - Gunnebo Palace <i>(Gunnebo Slott och Trädgårdar)</i>
@@ -96,7 +96,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Västra Street <i>(Västra Gatan)</i>
     - Bohus Fortress <i>(Bohus Fästning)</i>
 12. Kungsbacka
-    - The Tree of Life Statue <i>(Statyn "Livets Träd")</i>
+    - Tree of Life Statue <i>(Statyn "Livets Träd")</i>
     - Tölöberg Watertower <i>(Tölöbergs Vattentorn)</i>
     - Kungsbackaskogen <i>(Kungsbacka Forest)</i>
     - Tjolöholm Castle <i>(Tjolöholm Slott)</i>
@@ -144,7 +144,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Nolhaga Palace <i>(Nolhaga Slott)</i>
     - Alingsås City Hall <i>(Alingsås Rådhus)</i>
     - Christinae Church <i>(Christinae Kyrka)</i>
-    - The Woman with the Handbag Statue <i>(Statyn "Med Handväskan som Vapen")</i>
+    - Woman with the Handbag Statue <i>(Statyn "Med Handväskan som Vapen")</i>
     - Mjörn Lake <i>(Mjörn)</i>
 28. Trollhättan
     - Trollhättan Waterfall <i>(Trollhättefallen)</i>
@@ -176,10 +176,10 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 35. Borås
     - Main Square <i>(Stora Torget)</i>
     - Caroli Church <i>(Caroli Kyrkan)</i>
-    - The Textile Museum <i>(Textilmuseet)</i>
+    - Textile Museum <i>(Textilmuseet)</i>
 36. Falköping
     - Mösseberg's Park <i>(Mössebergs Kurorten och Parken)</i> 
-    - The Observation Tower <i>(Mösseberg Torn)</i> 
+    - Observation Tower <i>(Mösseberg Torn)</i> 
     - Mösseberg's Zoo <i>(Mössebergs Djurpark)</i> 
     - Falbygdens Museum <i>(Falbygdens Museum)</i> 
 37. Vårgårda

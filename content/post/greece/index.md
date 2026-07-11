@@ -41,14 +41,14 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 1. Rhodes
     - Old Town Rhodes <i>(Παλιά Πόλη της Ρόδου)</i>
     - Palace of the Grand Master of the Knights of Rhodes <i>(Παλάτι του Μεγάλου Μαγίστρου)</i>
-    - The Street of the Knights <i>(Οδός των Ιπποτών)</i>
+    - Street of the Knights <i>(Οδός των Ιπποτών)</i>
     - Ancient Stadium of Rhodes <i>(Αρχαίο Στάδιο της Ρόδου)</i>
     - Acropolis of Rhodes <i>(Ακρόπολη της Ρόδου)</i>
-    - The Valley of Butterflies <i>(Κοιλάδα Πεταλούδων)</i>
+    - Valley of Butterflies <i>(Κοιλάδα Πεταλούδων)</i>
     - Ancient Site of Kamiros <i>(Κάμιρος)</i>
 2. Lindos
     - Lindos Acropolis <i>(Ακρόπολη της Λίνδου)</i>
-    - The Temple of Athena Lindia <i>(Ο Ναός Της Λινδίας)</i>
+    - Temple of Athena Lindia <i>(Ο Ναός Της Λινδίας)</i>
     - Lindos Beach <i>(Παραλία Λίνδου)</i>
 3. Agios Nikolaos
     - Port of Agios Nikolaos <i>(Λιμάνι Αγίου Νικολάου)</i>
@@ -62,7 +62,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
     - Lion's Fountain <i>(Κρήνη Μοροζίνι)</i>
     - Old Venetian Harbor of Heraklion <i>(Παλιό Ενετικό Λιμάνι Ηρακλείου)</i>
 5. Oia 
-    - The Castle of St. Nicholas <i>(Το Κάστρο του Αγίου Νικολάου)</i>
+    - Castle of St. Nicholas <i>(Το Κάστρο του Αγίου Νικολάου)</i>
     - Church of Panagia <i>(Εκκλησία της Παναγίας)</i>
     - Nikolaou Nomikou <i>(Νικολάου Νομικού)</i>
     - Amoudi Bay <i>(Όρμος Αμμούδι)</i>

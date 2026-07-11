@@ -42,10 +42,10 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 1. Sofia
     - St. Alexander Nevski Cathedral <i>(Храм-Паметник "Свети Александър Невски")</i>
     - Sofia Central Mineral Baths <i>(Централна Минерална Баня)</i>
-    - The Statue of Sofia <i>(Статуя на София)</i>
+    - Statue of Sofia <i>(Статуя на София)</i>
     - Vitosha Boulevard <i>(Булевард "Витоша")</i>
     - Vitosha Mountain <i>(Планина Витоша)</i>
-    - The Rotunda Church of St George <i>(Ротонда "Свети Георги")</i>
+    - Rotunda Church of St George <i>(Ротонда "Свети Георги")</i>
     - Amphitheatre of Serdica <i>(Амфитеатър на Сердика)</i>
     - Saint Nedelya Cathedral <i>(Катедрален Храм "Света Неделя")</i>
     - National Palace of Culture <i>(Национален Дворец на Културата)</i>
@@ -62,9 +62,9 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
     - Saints Cyril and Methodius Church <i>(Църква "Св. Кирил и Методий")</i>
 4. Varna
     - Cathedral of the Assumption of the Virgin <i>(Катедралата Успение Богородично)</i>
-    - The Sea Garden <i>(Морска Градина)</i>
-    - The Roman Thermae <i>(Римски Терми)</i>
-    - The Clock Tower of Varna <i>(Часовникова Кула)</i>
+    - Sea Garden <i>(Морска Градина)</i>
+    - Roman Thermae <i>(Римски Терми)</i>
+    - Clock Tower of Varna <i>(Часовникова Кула)</i>
     - Varna Opera Theatre <i>(Варненската Опера)</i>
     - Varna Archaeological Museum <i>(Варненски Археологически Музей)</i>
 5. Sveti Vlas
@@ -73,14 +73,14 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
     - Marina Dinevi Port <i>(Марина Диневи)</i>
 6. Pomorie
     - Monastery of St. George <i>(Манастир Свети Георги)</i>
-    - The Salt Museum <i>(Музей на Солта)</i>
+    - Salt Museum <i>(Музей на Солта)</i>
     - Open-Air Mud Bath <i>(Безплатни Кални Бани)</i>
     - Pomorie Lake <i>(Поморийско Езеро)</i>
     - Old Houses of Pomorie Architectural Reserve <i>(Архитектурен Резерват "Стари Поморийски Къщи")</i>
 7. Byala
     - Cape of St. Athanasius <i>(Нос Свети Атанас)</i>
     - Byala Public Beach <i>(Обществен Плаж Бяла)</i>
-    - The White Cliffs <i>(Бели Скали)</i>
+    - White Cliffs <i>(Бели Скали)</i>
 8. Obzor
     - Church of Saint John the Baptist <i>(Храм "Св. Йоан Предтеча")</i>
     - Obzor Park <i>(Парк Град Обзор)</i>

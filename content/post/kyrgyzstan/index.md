@@ -41,10 +41,10 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 1. Bishkek
     - Ala-Too Square <i>(Ала-тоо Аянты)</i>
     - Victory Square <i>(Жеңиш Аянты)</i>
-    - The White House of Bishkek <i>(Жогорку Кенеш)</i>
+    - White House of Bishkek <i>(Жогорку Кенеш)</i>
     - Kurmanzhan Datka Statue <i>(Курманжан Датка Эстелиги)</i>
     - Bishkek Baatyr Monument <i>(Бишкек Баатыр Эстелиги)</i>
-    - The Bishkek Old Central Mosque <i>(Эски Борбордук Мечит)</i>
+    - Bishkek Old Central Mosque <i>(Эски Борбордук Мечит)</i>
     - Kyrgyz National University <i>(Жусуп Баласагын атындагы Кыргыз Улуттук Университети)</i>
     - Oak Park <i>(Эмен Паркы)</i>
     - Kyrgyz National Opera and Ballet Theatre <i>(Кыргыз Улуттук Опера жана Балет Театры)</i>

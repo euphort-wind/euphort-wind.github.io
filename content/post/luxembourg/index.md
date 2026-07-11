@@ -40,24 +40,24 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
 
 {{< spoiler text="Click to view" >}}
 1. Luxembourg City
-    - The Adolphe Bridge <i>(Adolphe-Bréck)</i>
-    - The Constitution Square <i>(Place de la Constitution)</i>
+    - Adolphe Bridge <i>(Adolphe-Bréck)</i>
+    - Constitution Square <i>(Place de la Constitution)</i>
     - Notre Dame Cathedral <i>(Kathedral Notre Dame)</i>
     - Place Guillaume II <i>(Knuedler)</i>
     - Grand Ducal Palace <i>(Groussherzogleche Palais)</i>
-    - The Ministry of Foreign Affairs <i>(Ministère des Affaires Étrangères et Europeennes)</i>
+    - Ministry of Foreign Affairs <i>(Ministère des Affaires Étrangères et Europeennes)</i>
     - Luxembourg Railway Station <i>(Gare Lëtzebuerg)</i>
-    - The Bock <i>(Bockfiels)</i>
+    - Bock <i>(Bockfiels)</i>
     - Place de Clairefontaine <i>(D'Clairefontaine-Plaz)</i>
-    - The Pétrusse Park <i>(De Péitruss-Park)</i>
+    - Pétrusse Park <i>(De Péitruss-Park)</i>
     - Fort Thüngen <i>(Dräi Eechelen)</i>
-    - The Chamber of Deputies <i>(Chamber vun den Deputéierten)</i>
+    - Chamber of Deputies <i>(Chamber vun den Deputéierten)</i>
 2. Mersch
     - Mersch Castle <i>(Schlass Miersch)</i>
-    - The Church of Saint Michael in Mersch <i>(Église de Mersch)</i>
+    - Church of Saint Michael in Mersch <i>(Église de Mersch)</i>
     - Roman Villa in Mersch <i>(Réimesch Villa zu Miersch)</i>
     - Mersch Municipal Park <i>(Gemengepark zu Miersch)</i>
-    - The National Literature Centre <i>(Lëtzebuerger Literaturarchiv)</i>
+    - National Literature Centre <i>(Lëtzebuerger Literaturarchiv)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>

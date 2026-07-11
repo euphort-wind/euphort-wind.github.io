@@ -44,13 +44,13 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
     - Ljubljana Castle <i>(Ljubljanski Grad)</i>
     - Ljubljana Central Market <i>(Osrednja Ljubljanska Tržnica)</i>
     - Prešeren Square <i>(Prešernov Trg)</i>
-    - The Triple Bridge <i>(Tromostovje)</i>
+    - Triple Bridge <i>(Tromostovje)</i>
     - Ljubljana Cathedral <i>(Ljubljanska Stolnica)</i>
-    - The Dragon Bridge <i>(Zmajski Most)</i>
+    - Dragon Bridge <i>(Zmajski Most)</i>
     - Ljubljana Town Hall <i>(Ljubljanska Mestna Hiša)</i>
     - Congress Square <i>(Kongresni Trg)</i>
     - Tivoli City Park <i>(Mestni Park Tivoli)</i>
-    - The Ljubljana Opera House <i>(Ljubljanska Operna Hiša)</i>  
+    - Ljubljana Opera House <i>(Ljubljanska Operna Hiša)</i>  
 2. Kranj
     - Old Town Kranj <i>(Staro Mestno Jedro)</i>
     - St. Kancijan’s Church <i>(Cerkev sv. Kancijana)</i>

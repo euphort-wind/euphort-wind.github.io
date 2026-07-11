@@ -42,37 +42,37 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 {{< spoiler text="Click to view" >}}
 1. Budapest
     - Hungarian Parliament Building <i>(Országház)</i>
-    - The Fisherman's Bastion <i>(Halászbástya)</i>
+    - Fisherman's Bastion <i>(Halászbástya)</i>
     - Buda Castle <i>(Budavári Palota)</i>
-    - The Matthias Fountain <i>(Mátyás Kútja)</i>
-    - The Matthias Church <i>(Mátyás-Templom)</i>
-    - The Széchenyi Chain Bridge <i>(Széchenyi Lánchíd)</i>
-    - The Great Market Hall <i>(Nagyvásárcsarnok)</i>
-    - The National Archives of Hungary <i>(Magyar Nemzeti Levéltár)</i>
+    - Matthias Fountain <i>(Mátyás Kútja)</i>
+    - Matthias Church <i>(Mátyás-Templom)</i>
+    - Széchenyi Chain Bridge <i>(Széchenyi Lánchíd)</i>
+    - Great Market Hall <i>(Nagyvásárcsarnok)</i>
+    - National Archives of Hungary <i>(Magyar Nemzeti Levéltár)</i>
     - St. Stephen's Basilica <i>(Szent István-Bazilika)</i>
     - Liberty Square <i>(Szabadság Tér)</i>
     - Heroes' Square <i>(Hősök Tere)</i>
-    - The City Park <i>(Városliget)</i>
-    - The Budapest Funicular <i>(Budavári Sikló)</i>
+    - City Park <i>(Városliget)</i>
+    - Budapest Funicular <i>(Budavári Sikló)</i>
     - Vajdahunyad Castle <i>(Vajdahunyad Vára)</i>
-    - The Széchenyi Thermal <i>(Széchenyi Gyógyfürdő)</i>
+    - Széchenyi Thermal <i>(Széchenyi Gyógyfürdő)</i>
 2. Balatonfüred
     - Balaton Lake <i>(Balaton)</i>
     - Esterhazy Beach <i>(Esterházy Strand)</i>
     - Tagore Promenade <i>(Tagore Sétány)</i>
-    - The Round Church <i>(Kerektemplom Balatonfüred)</i>
+    - Round Church <i>(Kerektemplom Balatonfüred)</i>
     - Kossuth Lajos Drinking Hall <i>(Kossuth Lajos Forrás)</i>
-    - The Fisherman & Ferryman Statues <i>(Halász és Révész Szobra)</i>
+    - Fisherman & Ferryman Statues <i>(Halász és Révész Szobra)</i>
 3. Tihany
-    - The Tihany Abbey <i>(Tihanyi Bencés Apátság)</i>
-    - The Paprika House <i>(Paprikaház)</i>
+    - Tihany Abbey <i>(Tihanyi Bencés Apátság)</i>
+    - Paprika House <i>(Paprikaház)</i>
     - Old Town Tihany <i>(Óváros)</i>
-    - The Calvary of King Charles IV <i>(IV. Károly Kálvária)</i> 
+    - Calvary of King Charles IV <i>(IV. Károly Kálvária)</i> 
     - Belső-Tó Lake <i>(Belső-Tó)</i>
 4. Székesfehérvár
     - Medieval Ruin Garden <i>(Középkori Romkert)</i>
     - Fő Street <i>(Fő Utca)</i>
-    - The Clockwork <i>(Az Órajáték)</i>
+    - Clockwork <i>(Az Órajáték)</i>
     - Koronázó Square <i>(Koronázó Tér)</i>
     - Bishop's Palace <i>(Püspöki Palota)</i>
     - Árpád Bath <i>(Árpád Fürdő)</i>
