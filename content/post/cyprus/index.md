@@ -73,7 +73,6 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 - 🥘 Afelia <i>(Αφέλια)</i>
 - 🥘 Kleftiko <i>(Κλέφτικο)</i>
 - 🥘 Souvla-Style Meats <i>(Σούβλα)</i>
-  - 🥘 Souvla-Style Chicken <i>(Σούβλα Κοτόπουλο)</i>
   - 🥘 Souvla-Style Pork <i>(Σούβλα Χοιρινό)</i>
   - 🥘 Souvla-Style Lamb <i>(Σούβλα Αρνί)</i>
   - 🥘 Souvla-Style Beef <i>(Σούβλα Μοσχάρι)</i>

@@ -308,11 +308,11 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🥗 Smörgåskaviar <i>(Smörgåskaviar)</i>
 - 🥙 Toast Skagen <i>(Toast Skagen)</i>
 - 🥙 Smörgåstårta <i>(Smörgåstårta)</i>
-- 🥘 Raggmunk with Bacon <i>(Raggmunk med Fläsk)</i>
 - 🥘 Swedish Meatballs <i>(Köttbullar)</i>
 - 🥘 Pyttipanna <i>(Pytt-i-Panna)</i>
 - 🥘 Wallenbergare <i>(Wallenbergare)</i>
 - 🥘 Flying Jacob <i>(Flygande Jacob)</i>
+- 🥘 Raggmunk with Bacon <i>(Raggmunk med Fläsk)</i>
 - 🥘 Jansson's Temptation <i>(Janssons Frestelse)</i>
 - 🍰 Cinnamon Rolls <i>(Kanelbullar)</i>
 - 🍰 Princess Cake <i>(Prinsesstårta)</i>
@@ -337,7 +337,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 </br>
 <u>Gotland - Regional Special:</u> 
 - 🍲 Gotland Spring Onion Soup <i>(Gotländsk Kajpsoppa)</i>
-- 🍰 Gotland Saffran Pancake with Cream and Dewberry Jam <i>(Saffranspannkaka med Grädde och Salmbärssylt)</i>
+- 🍰 Gotland Saffran Pancake <i>(Gotlandspannkaka)</i>
 </br>
 <u>Västra Götaland - Regional Special:</u> 
 - 🥙 Swedish Sausage with Mashed Potatoes on Top <i>(Halv Special)</i>

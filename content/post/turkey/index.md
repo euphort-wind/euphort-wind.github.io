@@ -105,7 +105,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - 🥗 Kısır <i>(Kısır)</i>
 - 🥗 Choban Salad <i>(Çoban Salatası)</i>
 - 🥙 Pide <i>(Pide)</i>
-  - 🥙 Pide with Minced Beef <i>(Kıymalı Pide)</i>
+  - 🥙 Pide with Beef <i>(Kıymalı Pide)</i>
   - 🥙 Pide with Cheese <i>(Peynirli Pide)</i>
   - 🥙 Pide with Sujuk <i>(Sucuklu Pide)</i>
 - 🥙 Gözleme <i>(Gözleme)</i>

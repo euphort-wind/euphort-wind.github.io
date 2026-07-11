@@ -88,7 +88,6 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 
 <b>🍽️ Local food & drinks: </b>
 - 🥗 Greek Salad <i>(Ελληνική Σαλάτα)</i>
-- 🥗 Marinated Olives <i>(Μαριναρισμένες Ελιές)</i>
 - 🥗 Taramasalata <i>(Ταραμοσαλάτα)</i>
 - 🥗 Spanakorizo <i>(Σπανακόρυζο)</i>
 - 🥗 Skordalia <i>(Σκορδαλιά)</i>

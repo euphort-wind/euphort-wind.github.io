@@ -79,7 +79,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 <b>🍽️ Local food & drinks: </b>
 - 🥙 Speķrauši <i>(Speķrauši)</i>
 - 🥙 Sklandrausis <i>(Sklandrausis)</i>
-- 🥘 Latvian Gray Peas with Bacon and Onion <i>(Pelēkie Zirņi)</i>
+- 🥘 Latvian Gray Peas with Bacon <i>(Pelēkie Zirņi)</i>
 - 🥘 Latvian Porridge <i>(Putra)</i>
 - 🍰 Layered Rye Bread <i>(Rupjmaizes Kārtojums)</i>
 - 🧀 Jāņi Cheese <i>(Jāņu Siers)</i>
