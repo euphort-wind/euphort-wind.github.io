@@ -165,7 +165,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 
 <b>🪔 Authentic features:</b>
 - Halay Dance <i>(Halay)</i>
-- Meddahlık & Meddahs <i>(Meddahlık ve Meddahlar)</i>
+- Meddahs & Meddahlık <i>(Meddahlar ve Meddahlık)</i>
 - Iznik Pottery <i>(İznik Çinisi)</i>
 - Oil Wrestling <i>(Yağlı Güreş)</i>
 - Oryantal Dance <i>(Oryantal Dans)</i>
