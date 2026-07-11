@@ -5,29 +5,29 @@ summary: Stay in Russia
 
 gallery_item:
 - album: russia
-    image: 1ekb.jpeg
-    caption: Ekaterinburg
+  image: 1ekb.jpeg
+  caption: Ekaterinburg
 - album: russia
-    image: 2kislo.jpg
-    caption: Main Narzan Baths (Kislovodsk)
+  image: 2kislo.jpg
+  caption: Main Narzan Baths (Kislovodsk)
 - album: russia
-    image: 2msk.jpeg
-    caption: Saint Basil's Cathedral
+  image: 2msk.jpeg
+  caption: Saint Basil's Cathedral
 - album: russia
-    image: 3kavkaz.jpeg
-    caption: Fiagdon Village
+  image: 3kavkaz.jpeg
+  caption: Fiagdon Village
 - album: russia
-    image: 4bannoye.jpeg
-    caption: Bannoye Lake
+  image: 4bannoye.jpeg
+  caption: Bannoye Lake
 - album: russia
-    image: 5mgn.jpeg
-    caption: Magnitogorsk Technical University 
+  image: 5mgn.jpeg
+  caption: Magnitogorsk Technical University 
 - album: russia
-    image: 1spb.jpg
-    caption: State Hermitage Museum (St. Petersburg)
+  image: 1spb.jpg
+  caption: State Hermitage Museum (St. Petersburg)
 - album: russia
-    image: 8solyanka.jpeg
-    caption: Russian Solyanka
+  image: 8solyanka.jpeg
+  caption: Russian Solyanka
 
 ---
 Hej! Below are some notes on what I tasted, saw and listened to in Russia. 
