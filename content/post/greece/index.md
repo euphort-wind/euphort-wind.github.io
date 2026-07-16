@@ -17,10 +17,10 @@ gallery_item:
     image: 4chalcis.jpeg
     caption: Chalkida
   - album: greece
-    image: 5ageos.jpg
+    image: 6ageos.jpg
     caption: Agios Nikolaos
   - album: greece
-    image: 6sant.PNG
+    image: 5sant.PNG
     caption: Santorini Blue Domes
   - album: greece
     image: 7ah.jpeg
