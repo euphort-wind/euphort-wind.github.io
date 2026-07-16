@@ -134,7 +134,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - 🇺🇳 Rondé (band). Genre: indie pop
 
 
-<b>🎚️ Authentic EDM genres: </b>
+<b>🎚️ Contribution to Electronic Music: </b>
 - Gabber. Originated: early 1990s
 - Hardstyle. Originated: late 1990s
 - Uplifting Trance. Originated: mid-1990s

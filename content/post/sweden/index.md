@@ -1,6 +1,6 @@
 ---
 title: 🇸🇪 Sweden
-date: '2026-07-03'
+date: '2026-07-15'
 summary: Life in Sweden
 
 gallery_item:
@@ -299,7 +299,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇺🇳 Smash into Pieces (band). Genre: alternative rock
 - 🇺🇳 Fröken Snusk (project). Genre: epadunk
 
-<b>🎚️ Authentic EDM genres: </b>
+<b>🎚️ Contribution to Electronic Music: </b>
 - Europop. Originated: late 1960s
 - Epadunk. Originated: early 2020s
 

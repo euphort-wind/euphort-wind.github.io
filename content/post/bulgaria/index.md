@@ -104,8 +104,8 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🇧🇬 Молец (duo). Genre: pop
 - 🇺🇳 Dara (singer). Genre: pop
 
-<b>🎚️ Authentic EDM genres: </b>
-- Chalga. Originated: early 1990s
+<b>🎚️ Contribution to Electronic Music: </b>
+- Chalga (Ethnic Electronica). Originated: early 1990s
 
 <b>🍽️ Local food & drinks: </b>
 - 🥓 Lukanka <i>(Луканка)</i>
@@ -156,6 +156,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Bulgarian Mythology <i>(Българската Митология)</i>
 - Authentic Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
 - Authentic Garb: Bulgarian Nosiya <i>(Носия)</i>
+- Ethos of Hajduks <i>(Хайдутите)</i>
 - Legacy of Thracians <i>(Траки)</i>
 - Legacy of Bulghars <i>(Прабългари)</i>
 - Heritage of the First Bulgarian Empire <i>(Първо Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>

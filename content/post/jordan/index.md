@@ -57,7 +57,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - 🇯🇴 Diana Karazon (singer). Genre: pop
 - 🇺🇳 Ayah Marar (singer). Genre: drum'n'bass
 
-<b>🎚️ Authentic EDM genres: </b>
+<b>🎚️ Contribution to Electronic Music: </b>
 - Shamstep. Originated: mid-2010s
 
 

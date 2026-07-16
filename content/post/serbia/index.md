@@ -88,8 +88,8 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - 🇷🇸 Tina Ivanović (singer). Genre: turbo folk
 - 🇷🇸 Lavina (band). Genre: progressive rock
 
-<b>🎚️ Authentic EDM genres: </b>
-- Turbo Folk. Originated: early 1990s
+<b>🎚️ Contribution to Electronic Music: </b>
+- Turbo Folk (Ethnic Electronica). Originated: early 1990s
 
 
 <b>🍽️ Local food & drinks: </b>
@@ -146,7 +146,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - Heritage of the Modern Kingdom of Serbia <i>(Модерна Краљевина Србија)</i>
 - Heritage of Yugoslavia <i>(Југославија / Jugoslavija)</i><br>
 <u>Vojvodina - Regional Special:</u> 
-- Legacy of Grenzers <i>(Граничари)</i>
+- Ethos of Grenzers <i>(Граничари)</i>
 
 
 

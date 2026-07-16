@@ -74,7 +74,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🇺🇳 José Padilla (DJ). Genre: balearic trance
 - 🇺🇳 Sak Noel (DJ). Genre: pop
 
-<b>🎚️ Authentic EDM genres: </b>
+<b>🎚️ Contribution to Electronic Music: </b>
 - Balearic House. Originated: late 1980s
 - Balearic Trance. Originated: early 1990s
 - Mákina. Originated: early 1990s

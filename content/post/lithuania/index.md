@@ -80,7 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - 🇺🇳 Gaullin (DJ). Genre: slap house
 - 🇺🇳 Lion Ceccah (singer). Genre: art pop
 
-<b>🎚️ Authentic EDM genres: </b>
+<b>🎚️ Contribution to Electronic Music: </b>
 - Slap House. Originated: late 2010s
 
 <b>🍽️ Local food & drinks: </b>

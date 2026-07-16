@@ -226,7 +226,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🇺🇳 Shapov (DJ). Genre: progressive house
 - 🇺🇳 Swanky Tunes (DJ trio). Genre: electro house
 
-<b>🎚️ Authentic EDM genres: </b>
+<b>🎚️ Contribution to Electronic Music: </b>
 - Hardbass. Originated: late 1990s
 - Drift Phonk. Originated: late 2010s
 
@@ -351,7 +351,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 <u>St. Petersburg-City - Regional Special:</u> 
 - Petrine Baroque Architecture <i>(Петровское Барокко)</i><br>
 <u>Orenburzhie - Regional Special:</u> 
-- Legacy of Orenburg Cossacks <i>(Оренбургские Казаки)</i>
+- Ethos of Orenburg Cossacks <i>(Оренбургские Казаки)</i>
 - Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i><br>
 <u>Chelyabinsk - Regional Special:</u> 
 - Kasli Iron Sculpture <i>(Каслинское Литьё)</i>

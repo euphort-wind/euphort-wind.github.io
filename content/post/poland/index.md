@@ -85,7 +85,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🇺🇳 Alicja (singer). Genre: pop
 - 🇺🇳 WIXAPOL S.A. (DJ band). Genre: wixa
 
-<b>🎚️ Authentic EDM genres: </b>
+<b>🎚️ Contribution to Electronic Music: </b>
 - Wixa Music. Originated: early 2000s
 
 

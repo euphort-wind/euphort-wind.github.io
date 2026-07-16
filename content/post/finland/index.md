@@ -80,7 +80,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - 🇺🇳 Mesak (DJ). Genre: skweee
 
 
-<b>🎚️ Authentic EDM genres: </b>
+<b>🎚️ Contribution to Electronic Music: </b>
 - Suomisaundi. Originated: mid-1990s
 - Skweee. Originated: late 2000s
 
