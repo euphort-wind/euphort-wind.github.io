@@ -23,7 +23,7 @@ organizations:
     url: https://www.gu.se/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: SE, ML, BI, EDM, etc...
+bio: MLOps, SE, BI, EDM, etc...
 
 # Interests to show in About widget
 interests:
@@ -78,4 +78,4 @@ social:
 highlight_name: true
 ---
 
-Hej! My name is <b><u>Vladislav Indykov</b></u>. I am also known as <b><u>Euphort Wind</b></u>. I work at the Joint Department of Computer Science & Engineering (<a href = "https://www.gu.se/en/computer-science-engineering" target="_blank">University of Gothenburg</a> | <a href = "https://www.chalmers.se/en/departments/cse/" target="_blank"> Chalmers University of Technology</a>). I explore  architectural and operational issues of ML-enabled systems. 
+Hej! My name is <b><u>Vladislav Indykov</b></u>. I am also known as <b><u>Euphort Wind</b></u>. I work at the Joint Department of Computer Science & Engineering (<a href = "https://www.gu.se/en/computer-science-engineering" target="_blank">University of Gothenburg</a> | <a href = "https://www.chalmers.se/en/departments/cse/" target="_blank"> Chalmers University of Technology</a>). I explore the quality trade-offs of MLOps systems.
