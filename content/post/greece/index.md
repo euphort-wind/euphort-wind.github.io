@@ -83,6 +83,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
     - Heraklion Archaeological Museum <i>(Αρχαιολογικό Μουσείο Ηρακλείου)</i>
     - Cathedral of St. Minas <i>(Καθεδρικός Ναός Αγίου Μηνά)</i>
     - Lion's Fountain <i>(Κρήνη Μοροζίνι)</i>
+    - Knossos <i>(Κνωσός)</i>
     - Old Venetian Harbor of Heraklion <i>(Παλιό Ενετικό Λιμάνι Ηρακλείου)</i>
 7. Gournes
     - Cretaquarium <i>(Θαλασσόκοσμος)</i> 
