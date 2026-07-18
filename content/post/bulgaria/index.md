@@ -149,9 +149,9 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 <b>🪔 Authentic features:</b>
 - Cyrillic Alphabet <i>(Кирилица)</i>
 - Horo Dance <i>(Хоро)</i>
-- Kukeri Costume <i>(Кукери)</i>
 - Anastenaria Ritual <i>(Нестинарство)</i>
 - Shevitsa Embroidery <i>(Шевица)</i>
+- Kukeri Costume <i>(Кукери)</i>
 - Bulgarian Revival Architecture <i>(Възрожденска Архитектура)</i>
 - Bulgarian Mythology <i>(Българската Митология)</i>
 - Authentic Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
