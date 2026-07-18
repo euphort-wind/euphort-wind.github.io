@@ -235,10 +235,6 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🥗 Olivier Salad <i>(Салат Оливье)</i> 
 - 🥗 Kholodets <i>(Холодец)</i> 
 - 🥗 Dressed Herring <i>(Селёдка под Шубой)</i>
-- 🥗 Okroshka <i>(Окрошка)</i>  
-    - 🥗 Okroshka with Kefir <i>(Окрошка на Кефире)</i> 
-    - 🥗 Okroshka with Kvass <i>(Окрошка на Квасе)</i>  
-    - 🥗 Okroshka with Mineral Water <i>(Окрошка на Минеральной Воде)</i> 
 - 🥙 Coulibiac <i>(Кулебяка)</i>
 - 🥙 Kurnik <i>(Курник)</i>
 - 🥙 Rasstegai <i>(Расстегай)</i>
@@ -248,6 +244,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🍲 Rassolnik <i>(Рассольник)</i>
     - 🍲 Ukha <i>(Уха)</i>
     - 🍲 Shchi <i>(Щи)</i>
+    - 🍲 Okroshka <i>(Окрошка)</i>  
 - 🥘 Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
 - 🥘 Beef Stroganoff <i>(Бефстроганов)</i> 
 - 🥘 Pelmeni <i>(Пельмени)</i>

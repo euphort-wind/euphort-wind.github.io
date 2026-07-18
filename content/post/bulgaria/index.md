@@ -112,7 +112,6 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🥗 Shopska Salad <i>(Шопска Салата)</i>
 - 🥗 Snow White Salad <i>(Салата Снежанка)</i>
 - 🥗 Ovcharska Salad <i>(Овчарска Салата)</i>
-- 🥗 Tarator Soup <i>(Таратор)</i>
 - 🥗 Lyutenitsa <i>(Лютеница)</i>
 - 🥗 Kyopolou <i>(Кьопоолу)</i>
 - 🥙 Banitsa Pie <i>(Баница)</i>
@@ -120,6 +119,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
   - 🥙 Banitsa with Spinach <i>(Баница със Спанак)</i>
   - 🍰 Banitsa with Apples <i>(Баница с Ябълки)</i>
 - 🥙 Princess Sandwich <i>(Принцеса)</i>
+- 🍲 Tarator Soup <i>(Таратор)</i>
 - 🍲 Topcheta Soup <i>(Супа Топчета)</i>
 - 🥘 Mish-Mash <i>(Миш-Маш)</i>
 - 🥘 Ezik v Maslo <i>(Език в Масло)</i>

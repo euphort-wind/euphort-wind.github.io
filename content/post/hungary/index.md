@@ -105,7 +105,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
   - 🍲 Jókai Bean Soup <i>(Jókai Bableves)</i>
   - 🍲 Halászlé <i>(Halászlé)</i>
   - 🍲 Palóc Soup <i>(Palócleves)</i>
-  - 🥗 Hungarian Sour Cherry Soup <i>(Hideg Meggyleves)</i>
+  - 🍲 Hungarian Sour Cherry Soup <i>(Hideg Meggyleves)</i>
 - 🥘 Lecsó <i>(Lecsó)</i>
 - 🥘 Pörkölt <i>(Marhapörkölt)</i>  
 - 🥘 Chicken Paprikash <i>(Paprikás Csirke)</i>
