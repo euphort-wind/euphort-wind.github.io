@@ -228,7 +228,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 <u>Crete - Regional Special:</u> 
 - Cretan Diet Festival <i>(Γιορτή Κρητικής Διατροφής)</i>. Month: July<br>
 <u>South Aegean - Regional Special:</u> 
-- Medieval Rose Festival <i>(Μεσαιωνικό Φεστιβάλ Ρόδου)</i>. Month: October 
+- Medieval Rose Festival <i>(Μεσαιωνικό Φεστιβάλ Ρόδου)</i>. Month: October<br> 
 <u>Attica - Regional Special:</u> 
 - Athens-Epidaurus Festival <i>(Φεστιβάλ Αθηνών Επιδαύρου)</i>. Month: May to October
 
