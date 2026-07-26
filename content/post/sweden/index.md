@@ -305,20 +305,28 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 <b>🍽️ Local food & drinks: </b>
 - 🥓 Surströmming <i>(Surströmming)</i>
+- 🥓 S.O.S. Appetizer <i>(Smör-Ost-Sill)</i>
 - 🥗 Smörgåskaviar <i>(Smörgåskaviar)</i>
 - 🥙 Toast Skagen <i>(Toast Skagen)</i>
 - 🥙 Smörgåstårta <i>(Smörgåstårta)</i>
+- 🍲 Köttsoppa <i>(Köttsoppa)</i>
 - 🥘 Swedish Meatballs <i>(Köttbullar)</i>
 - 🥘 Pyttipanna <i>(Pytt-i-Panna)</i>
 - 🥘 Wallenbergare <i>(Wallenbergare)</i>
 - 🥘 Flying Jacob <i>(Flygande Jacob)</i>
+- 🥘 Sausage Stroganoff <i>(Korv Stroganoff)</i>
+- 🥘 Prinskorv <i>(Prinskorv)</i>
 - 🥘 Raggmunk with Bacon <i>(Raggmunk med Fläsk)</i>
 - 🥘 Jansson's Temptation <i>(Janssons Frestelse)</i>
 - 🍰 Cinnamon Rolls <i>(Kanelbullar)</i>
 - 🍰 Princess Cake <i>(Prinsesstårta)</i>
+- 🍰 Smulpaj <i>(Smulpaj)</i>
+- 🍰 Ostkaka <i>(Ostkaka)</i> 
+- 🍰 Chocolate Balls <i>(Chokladbollar)</i> 
 - 🍰 Punsch-Rolls <i>(Dammsugare)</i>
 - 🍰 Saffron Buns <i>(Lussekatter)</i>
 - 🍰 Kladdkaka <i>(Kladdkaka)</i>
+- 🍰 Vanilla Hearts <i>(Vaniljhjärtan)</i>
 - 🍰 Blueberry Soup <i>(Blåbärssoppa)</i>
 - 🧀 Swedish Cheese <i>(Svensk Ost)</i>
     - 🧀 Västerbottensost <i>(Västerbottensost)</i> 
@@ -344,7 +352,8 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 </br>
 <u>Halland - Regional Special:</u> 
 - 🥘 Långkål <i>(Halländsk Långkål)</i>
-
+<u>Jönköping- Regional Special:</u> 
+- 🍰 Budapest Roll <i>(Budapestbakelse)</i>
 
 
 <b>🎬 Local movies:</b>
