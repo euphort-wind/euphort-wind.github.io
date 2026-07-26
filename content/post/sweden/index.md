@@ -352,6 +352,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 </br>
 <u>Halland - Regional Special:</u> 
 - 🥘 Långkål <i>(Halländsk Långkål)</i>
+</br>
 <u>Jönköping- Regional Special:</u> 
 - 🍰 Budapest Roll <i>(Budapestbakelse)</i>
 
