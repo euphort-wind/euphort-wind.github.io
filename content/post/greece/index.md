@@ -185,6 +185,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
 - Ancient Authentic Garb: Fustanella & Amalía Dress <i>(Φουστανέλα και Αμαλία)</i>
 - Ethos of Klephts <i>(Κλέφτες)</i>
+- Culture of Sarakatsani <i>(Σαρακατσάνοι)</i>
 - Legacy of Mycenaeans <i>(Μυκηναίοι)</i>
 - Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
   - Ancient Authentic Concept: Eudaimonia <i>(Ευδαιμονία)</i>
