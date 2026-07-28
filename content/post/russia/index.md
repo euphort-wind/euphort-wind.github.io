@@ -207,24 +207,19 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 {{< /spoiler >}}
   
 <b>🎧 Local musicians: </b>
-- 🇷🇺 Viktor Tsoi (singer). Genre: post punk
 - 🇷🇺 Valery Meladze (singer). Genre: pop
 - 🇷🇺 Zemfira (singer). Genre: indie rock
+- 🇷🇺 Viktor Tsoi (singer). Genre: post punk
 - 🇷🇺 Pavel Smeyan (singer). Genre: rock opera
-- 🇷🇺 Animal Jazz (band). Genre: alternative rock
-- 🇷🇺 Kris Kelmi (singer). Genre: rock
-- 🇷🇺 Zivert (singer). Genre: pop
-- 🇷🇺 Дора (singer). Genre: pop
 - 🇷🇺 Alla Pugacheva (singer). Genre: pop
 - 🇷🇺 Жин-Жин (singer). Genre: house
-- 🇺🇳 Natalie Gioia (singer). Genre: trance
-- 🇺🇳 Alexander Popov (DJ). Genre: trance
+- 🇷🇺 Kris Kelmi (singer). Genre: rock
 - 🇺🇳 Russian Village Boys (DJ band). Genre: hardbass
 - 🇺🇳 Dvrst (DJ). Genre: drift phonk
+- 🇺🇳 Øneheart (DJ). Genre: ambient
 - 🇺🇳 Arty (DJ). Genre: progressive house
 - 🇺🇳 Serge Devant (DJ). Genre: melodic house
-- 🇺🇳 Shapov (DJ). Genre: progressive house
-- 🇺🇳 Swanky Tunes (DJ trio). Genre: electro house
+- 🇺🇳 Natalie Gioia (singer). Genre: trance
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Hardbass. Originated: late 1990s
