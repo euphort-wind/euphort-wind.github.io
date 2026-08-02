@@ -1,6 +1,6 @@
 ---
 title: Euphort Wind - Simple Human Happiness
-summary: 'Style: Ambient.<br> Produced in 2023.<br>Album: <i>Single</i>'
+summary: 'Style: Ambient.<br> Produced in 2023.<br>Album: <i>Single</i>.'
 tags:
   - Demo
 date: "2023-03-09T00:00:00Z"

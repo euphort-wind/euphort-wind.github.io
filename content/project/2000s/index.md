@@ -1,6 +1,6 @@
 ---
 title: Euphort Wind - We Did It In 2000s
-summary: "Style: Eurodance.<br>Release Date: 2025.<br>Album: <i>Single</i>"
+summary: "Style: Eurodance.<br>Release Date: 2025.<br>Album: <i>Single</i>."
 tags:
   - Demo
 date: "2025-05-12T00:00:00Z"

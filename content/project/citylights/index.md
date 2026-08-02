@@ -1,6 +1,6 @@
 ---
 title: Euphort Wind - City Lights
-summary: "Style: House.<br>Produced: 2026.<br>Album: <i>'I Will Never Get Old' EP</i>"
+summary: "Style: House.<br>Produced: 2026.<br>Album: <i>'I Will Never Get Old' EP</i>."
 tags:
   - Demo
 date: "2026-08-02T00:00:00Z"
