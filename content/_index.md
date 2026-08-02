@@ -199,7 +199,7 @@ sections:
           icon: jet
           organization: Front-End Developer Intern, JetStyle, Ekaterinburg
           organization_url: https://jet.style/
-          title: Ural Geek Camp 2018
+          title: JetStyle Internship 2018
         - date_start: '2018-03-01'
           icon: geek
           organization: Participant, Digital Ural Geek Camp, Abzakovo
