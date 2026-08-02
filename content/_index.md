@@ -195,6 +195,11 @@ sections:
           organization: Participant, Erasmus University, Rotterdam
           organization_url: https://www.coursera.org/account/accomplishments/verify/4Y7H3PTZGEKX
           title: Innovation Management Course 2021
+        - date_start: '2018-10-01'
+          icon: jet
+          organization: Front-End Developer Intern, JetStyle, Ekaterinburg
+          organization_url: https://jet.style/
+          title: Ural Geek Camp 2018
         - date_start: '2018-03-01'
           icon: geek
           organization: Participant, Digital Ural Geek Camp, Abzakovo
