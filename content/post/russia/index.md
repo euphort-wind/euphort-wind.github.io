@@ -227,8 +227,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 
 <b>🍽️ Local food & drinks: </b>
 - 🥗 Vinegret <i>(Винегрет)</i> 
-- 🥗 Olivier Salad <i>(Салат Оливье)</i> 
 - 🥗 Kholodets <i>(Холодец)</i> 
+- 🥗 Olivier Salad <i>(Салат Оливье)</i> 
 - 🥗 Dressed Herring <i>(Селёдка под Шубой)</i>
 - 🥙 Coulibiac <i>(Кулебяка)</i>
 - 🥙 Kurnik <i>(Курник)</i>
@@ -276,7 +276,10 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🍲 Lyvzha <i>(Лывжа / Лывзæ)</i>
 - 🥘 Ossetian Dzykka <i>(Дзыкка / Дзыкка)</i>
 - 🍶 Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
-
+</br>
+<u>Moscow - Regional Special:</u>
+- 🍶 Raf Coffee <i>(Раф-Кофе)</i>
+- 🥗 Stolychny Salad <i>(Салат Столичный)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -306,7 +309,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Russian Stoves <i>(Русские Печи)</i>
 - Russian Banya <i>(Русская Баня)</i>
 - Russian Folklore <i>(Русский Фольклор)</i> 
-- Russian Cars <i>(Brands: "GAZ", "LADA", etc.)</i> 
+- Russian Cars <i>(Brands: "LADA", "GAZ", "Moskvitch", etc.)</i> 
 - Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
 - Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
@@ -347,7 +350,11 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i><br>
 <u>Chelyabinsk - Regional Special:</u> 
 - Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
-- Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>
+- Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i><br>
+<u>Moscow-City - Regional Special:</u> 
+- Heritage of the Grand Duchy of Moscow <i>(Великое Княжество Московское)</i>
+
+
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
@@ -361,7 +368,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 <u>St. Petersburg-City - Regional Special:</u>
 - White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July<br>
 <u>North Ossetia - Regional Special:</u> 
-- Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November
+- Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November<br>
 
 
 

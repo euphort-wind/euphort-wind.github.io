@@ -177,6 +177,9 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - Turkic Mythology <i>(Türk Mitolojisi)</i>
 - Authentic Musical Instrument: Bağlama <i>(Bağlama)</i> 
 - Authentic Garb: Shalvar & Yelek <i>(Şalvar ve Yelek)</i>
+- Legacy of Phrygians <i>(Frigler)</i>
+- Heritage of the Hittite Empire <i>(Hititler / 𒄩𒀜𒌅𒊭)</i>
+- Heritage of the Kingdom of Lydia <i>(Lidya / 𐤮𐤱𐤠𐤭𐤣𐤠)</i>
 - Heritage of the Byzantine Empire <i>(Bizans İmparatorluğu / Imperium Romanum Orientale)</i>
 - Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i><br>
 <u>İstanbul - Regional Special:</u> 
@@ -184,7 +187,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 <u>Antalya - Regional Special:</u> 
 - Düğmeli Houses <i>(Düğmeli Evler)</i><br>
 <u>Muğla - Regional Special:</u> 
-- Heritage of Lycia <i>(Likya / 𐊗𐊕𐊐𐊎𐊆𐊖)</i>
+- Legacy of Lycians <i>(Likyalılar / 𐊗𐊕𐊐𐊎𐊆𐊍𐊆)</i>
 
 
 
