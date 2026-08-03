@@ -92,6 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
  
 <b>🎧 Local musicians: </b>
 - 🇹🇷 Tarkan (singer). Genre: pop
+- 🇹🇷 Zeynep Bastık (singer). Genre: pop
 - 🇹🇷 Emre Altuğ (singer). Genre: pop
 - 🇹🇷 Soner Sarıkabadayı (singer). Genre: pop
 - 🇹🇷 Serhat Durmus (DJ). Genre: house
