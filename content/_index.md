@@ -77,6 +77,7 @@ sections:
   - block: collection
     id: recent
     content:
+      count: 8
       title: Publications
       filters:
         folders:
