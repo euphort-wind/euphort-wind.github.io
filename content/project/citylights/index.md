@@ -1,5 +1,5 @@
 ---
-title: Euphort Wind - City Lights
+title: Euphort Wind - City Lights (The Past)
 summary: "Style: House.<br>Release Date: 2026.<br>Album: <i>'I Will Never Get Old' EP</i>."
 tags:
   - Demo
