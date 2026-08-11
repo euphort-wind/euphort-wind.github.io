@@ -303,6 +303,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Zhostovo Painting <i>(Жостовская Роспись)</i>
 - Horovod Dance <i>(Хоровод)</i>
 - Matryoshka Dolls <i>(Матрёшки)</i>
+- Painted Samovars <i>(Расписные Самовары)</i>
 - Gorodki Game <i>(Городки)</i>
 - Lapta Game <i>(Лапта)</i>
 - Dymkovo Toys <i>(Дымковские Игрушки)</i>
