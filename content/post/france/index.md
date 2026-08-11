@@ -159,6 +159,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🥘 Anna Potatoes <i>(Pommes Anna)</i>
 - 🥘 Tartiflette <i>(Tartiflette)</i>
 - 🥘 French Frog Legs <i>(Cuisses de Grenouille)</i>
+- 🥘 Steak au Poivre <i>(Steak au Poivre)</i>
 - 🥘 Coq au Vin <i>(Coq au Vin)</i>
 - 🥘 Magret de Canard <i>(Magret de Canard)</i>
 - 🥘 Duck Confit <i>(Confit de Canard)</i>
