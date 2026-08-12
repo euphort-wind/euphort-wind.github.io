@@ -78,6 +78,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 <b>🍽️ Local food & drinks: </b>
 - 🥙 Lakror <i>(Laknor)</i>
 - 🥘 Tavë Kosi <i>(Tavë Kosi)</i>
+- 🥘 Qofte Fërguara <i>(Qofte Fërguara)</i>
 - 🍰 Krafne <i>(Krafne)</i>
 - 🍰 Petulla <i>(Petulla)</i>
 - 🍰 Albanian Yogurt <i>(Kos)</i>
