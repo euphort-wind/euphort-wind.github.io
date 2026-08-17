@@ -8,16 +8,16 @@ gallery_item:
   image: 1ekb.jpeg
   caption: Ekaterinburg
 - album: russia
-  image: 2kislo.jpg
+  image: 3kislo.jpg
   caption: Main Narzan Baths (Kislovodsk)
 - album: russia
   image: 2msk.jpeg
   caption: Saint Basil's Cathedral
 - album: russia
-  image: 3kavkaz.jpeg
+  image: 3lkavkaz.jpeg
   caption: Fiagdon Village
 - album: russia
-  image: 4bannoye.jpeg
+  image: 2xbannoye.jpeg
   caption: Bannoye Lake
 - album: russia
   image: 5mgn.jpeg
