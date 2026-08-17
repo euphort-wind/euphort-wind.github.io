@@ -15,5 +15,3 @@ image:
   focal_point: Smart
 ---
 
----
-
