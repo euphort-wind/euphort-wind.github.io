@@ -230,6 +230,8 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 <b>🪔 Authentic features:</b>
 - Authentic Concept: Gemütlichkeit <i>(Gemütlichkeit)</i>
+- Authentic Concept: Wanderlust <i>(Wanderlust)</i>
+- Authentic Concept: Weltschmerz <i>(Weltschmerz)</i>
 - Protestantism <i>(Protestantismus)</i>
 - Allemande Dance <i>(Allemande)</i>
 - Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 

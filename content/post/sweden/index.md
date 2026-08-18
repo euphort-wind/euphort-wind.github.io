@@ -387,12 +387,12 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Gotland Picture Stones <i>(Bildstenar)</i>
 - Rauk Landforms <i>(Raukar)</i><br>
 <u>Jämtland - Regional Special:</u> 
-- Överhogdal Tapestries <i>(Överhogdalstapeten)</i><br>
+- Överhogdal Tapestry <i>(Överhogdalstapeten)</i><br>
 <u>Halland - Regional Special:</u> 
 - Bonad Painting <i>(Bonadsmålning)</i><br>
 <u>Västra Götaland - Regional Special:</u> 
 - Legacy of Geates <i>(Götar)</i>
-    - Domarringar <i>(Domarringar)</i>
+    - Domarrings <i>(Domarringar)</i>
     - Stone Ships <i>(Skeppssättning)</i>
     - Elder Futhark Runic Alphabet <i>(Äldre Futhark / ᚠᚢᚦᚨᚱᚲ)</i>
 

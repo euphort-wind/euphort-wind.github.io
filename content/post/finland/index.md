@@ -121,7 +121,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 
 <b>🪔 Authentic features:</b>
 - Authentic Concept: Sisu <i>(Sisu)</i> 
-- Finnish Sauna <i>(Saunakulttuuri)</i>
+- Finnish Saunas <i>(Saunakulttuuri)</i>
 - Puukko Knives <i>(Puukko)</i>
 - Ryijy Tapestry <i>(Ryijy)</i>
 - Kyykkä Game <i>(Kyykkä)</i>

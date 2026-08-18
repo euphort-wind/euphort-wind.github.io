@@ -111,7 +111,7 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - Estonian E-Government <i>(E-Riik)</i>
 - Authentic Musical Instrument: Kannel <i>(Kannel)</i><br>
 <u>Võru - Regional Special:</u> 
-- Võro Smoke Sauna <i>(Suitsusaun / Savvusann)</i>
+- Võro Smoke Saunas <i>(Suitsusaun / Savvusann)</i>
 - Culture of Setos <i>(Setukesed / Setokõsõq)</i>
   - Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
   - Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>

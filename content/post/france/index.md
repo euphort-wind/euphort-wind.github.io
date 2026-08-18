@@ -277,7 +277,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - Bourrée Dance <i>(Bourrée)</i> 
 - Carousels <i>(Carrousel)</i>
 - Point de France Lace <i>(Point de France)</i>
-- Aubusson Tapestries <i>(Tapisserie d'Aubusson)</i>
+- Aubusson Tapestry <i>(Tapisserie d'Aubusson)</i>
 - Equitation Tradition <i>(Équitation)</i>
 - Parkour Sport <i>(Parkour)</i>
 - Savate Boxing <i>(Savate)</i>

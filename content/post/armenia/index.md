@@ -174,9 +174,9 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 - Kochari Dance <i>(Քոչարի)</i>
 - Berd Dance <i>(Բերդ)</i>
 - Oriental Orthodoxy <i>(Արևելյան ուղղափառ եկեղեցիներ)</i>
-- Epos of David of Sassoun <i>(Սասնա ծռեր)</i>
 - Title of Catholicos of All Armenians <i>(Ամենայն Հայոց Կաթողիկոս)</i>
 - Title of Nakharar <i>(նախարար)</i>
+- Epos of David of Sassoun <i>(Սասնա ծռեր)</i>
 - Armenian Alphabet <i>(Հայոց գրեր)</i>
 - Armenian Carpets <i>(Հայկական գորգ)</i>
 - Armenian Mythology <i>(Հայկական դիցաբանություն)</i>

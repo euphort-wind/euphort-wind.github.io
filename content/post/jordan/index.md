@@ -79,8 +79,8 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 
 <b>🪔 Authentic features:</b>
-- Tradition of Al-Mansaf Festive Banquet <i>(وليمة المنسف التقليدية)</i> 
 - Dabke Dance <i>(دبكة)</i>
+- Al-Mansaf Festive Banquet Tradition <i>(وليمة المنسف التقليدية)</i> 
 - Authentic Musical Instrument: Mijwiz <i>(مجوز)</i>
 - Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والطاقية)</i>
 - Culture of Bedouins <i>(بَدَوِيُّون / بَدْو)</i>

@@ -124,7 +124,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 <b>🪔 Authentic features:</b>
 - Authentic Concept: Hispanidad <i>(Hispanidad)</i>
-- Siesta Nap <i>(Siesta)</i>
+- Siesta Nap <i>(Siesta)</i> 
 - Flamenco Art Form <i>(Flamenco)</i>
 - Mudéjar Architecture <i>(Arte Mudéjar)</i>
 - Spanish Bullfighting <i>(Corrida de Toros)</i>

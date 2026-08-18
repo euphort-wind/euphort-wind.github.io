@@ -172,7 +172,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - Oryantal Dance <i>(Oryantal Dans)</i>
 - Okey Game <i>(Okey)</i>
 - Mangala Game <i>(Mangala)</i>
-- Turkish Hammam <i>(Hamam)</i>
+- Turkish Hammams <i>(Hamam)</i>
 - Turkish Television Drama <i>(Türk Dizileri)</i>
 - Turkic Mythology <i>(Türk Mitolojisi)</i>
 - Authentic Musical Instrument: Bağlama <i>(Bağlama)</i> 

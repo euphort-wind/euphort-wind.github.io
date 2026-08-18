@@ -308,7 +308,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Lapta Game <i>(Лапта)</i>
 - Dymkovo Toys <i>(Дымковские Игрушки)</i>
 - Russian Stoves <i>(Русские Печи)</i>
-- Russian Banya <i>(Русская Баня)</i>
+- Russian Banyas <i>(Русские Бани)</i>
 - Russian Folklore <i>(Русский Фольклор)</i> 
 - Russian Cars <i>(Brands: "LADA", "GAZ", "Moskvitch", etc.)</i> 
 - Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
