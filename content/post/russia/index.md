@@ -277,7 +277,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🥘 Ossetian Dzykka <i>(Дзыкка / Дзыкка)</i>
 - 🍶 Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
 </br>
-<u>Moscow - Regional Special:</u>
+<u>Moscow-City - Regional Special:</u>
 - 🍶 Raf Coffee <i>(Раф-Кофе)</i>
 - 🥗 Stolychny Salad <i>(Салат Столичный)</i>
 
