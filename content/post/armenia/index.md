@@ -31,7 +31,7 @@ gallery_item:
 ---
 Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was there in 2026. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Yerevan, Garni, Lusarat, Areni, Goris, Khndzoresk, Tatev, Sevan, Dilijan, Gyumri. 
 
