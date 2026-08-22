@@ -1,6 +1,6 @@
 ---
 title: 🇫🇷 France
-date: '2026-05-30'
+date: '2026-08-20'
 summary: Trip to France
 
 gallery_item:
