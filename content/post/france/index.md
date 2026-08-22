@@ -98,8 +98,6 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
     - Nice Harbour <i>(Port de Nice)</i>
     - Opéra de Nice <i>(Opéra de Nice)</i>
     - Palais de Justice de Nice <i>(Palais de Justice de Nice)</i>
-
-  
 {{< /spoiler >}}
     
 <b>🎧 Local musicians: </b>
@@ -165,10 +163,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🥙 Croque Madame <i>(Croque Madame)</i>
 - 🥙 French Toast <i>(Pain Perdu)</i>
 - 🍲 French Onion Soup <i>(Soupe à l’Oignon)</i>
-- 🍲 Bouillabaisse <i>(Bouillabaisse)</i>
 - 🥘 Escargots in Tomato Sauce <i>(Escargot à la Tomate)</i>
 - 🥘 Escargots de Bourgogne <i>(Escargot de Bourgogne)</i> 
-- 🥘 Ratatouille <i>(Ratatouille)</i>
 - 🥘 Gratin Dauphinois <i>(Gratin Dauphinois)</i>
 - 🥘 Anna Potatoes <i>(Pommes Anna)</i>
 - 🥘 Tartiflette <i>(Tartiflette)</i>
@@ -248,13 +244,25 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 <u>Occitania - Regional Special:</u> 
 - 🥘 Farçous <i>(Farçous / Farsou)</i>
 - 🥘 Aligot <i>(Aligot / Aligòt)</i>
-- 🥘Cassoulet <i>(Cassoulet / Cassolada)</i>
+- 🥘 Cassoulet <i>(Cassoulet / Cassolada)</i>
 - 🥘 Saucisse de Toulouse <i>(Saucisse de Toulouse / Salsissa de Tolosa)</i>
 - 🥘 Alicot <i>(Alicot / Alicuit)</i>
 - 🍰 Croustade <i>(Croustade / Crostada)</i>
 - 🍰 Fénétra <i>(Fénétra / Fénétra)</i>
 </br>
-<u>Occitania - Regional Special:</u> 
+<u>Provence-Alpes-Côte d'Azur - Regional Special:</u>
+- 🥗 Salade Niçoise <i>(Salade Niçoise / Salada Nissarda)</i>
+- 🥗 Tapenade <i>(Tapenade / Tapenada)</i>  
+- 🥙 Pan Bagnat <i>(Pan Bagnat / Pan Banhat)</i>
+- 🥙 Pissaladière <i>(Pissaladière / Pissaladiera)</i>
+- 🍲 Bouillabaisse <i>(Bouillabaisse / Bolhabaissa)</i>
+- 🥘 Socca <i>(Socca / Sòca)</i>
+- 🥘 Panisse <i>(Panisse / Panissa Fregidi)</i>
+- 🥘 Ratatouille <i>(Ratatouille / Ratatolha)</i>
+- 🥘 Daube Niçoise <i>(Daube Niçoise / Doba Nissarda)</i>
+- 🍰 Tourte de Blettes <i>(Tourte de Blettes / Torta de Blea)</i>
+
+
 
 <b>🎬 Local movies:</b>
 - The Intouchables <i>(Intouchables)</i>. Year: 2011. Genre: dramedy
@@ -296,7 +304,6 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - Equitation Tradition <i>(Équitation)</i>
 - Parkour Sport <i>(Parkour)</i>
 - Savate Boxing <i>(Savate)</i>
-- Pétanque Game <i>(Pétanque)</i>
 - System of Compagnonnage <i>(Compagnonnage)</i>
 - French Perfumery <i>(Parfumerie Française)</i>
   - Parfum <i>(Extrait)</i>
@@ -323,13 +330,23 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
 - Art Déco Architecture <i>(Architecture Art Déco)</i><br>
 <u>Occitania - Regional Special:</u> 
-- Chabrot Tradition <i>(Chabrot / Chabròt)</i>
 - Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
   - Authentic Concept: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
   - Troubadours & Occitan Lyric Poetry <i>(Troubadours et Poésie Lyrique Occitane / Trobadors e Poesia Lirica Occitana)</i>
   - Floral Games <i>(Jeux Floraux / Jòcs Florals)</i>
   - Catharism <i>(Catharisme / Catarisme)</i>
   - Meridional Gothic Architecture <i>(Architecture Gothique Méridional / Arquitectura Gòtica Meridionala)</i>
+- Chabrot Tradition <i>(Chabrot / Chabròt)</i>
+</br>
+<u>Provence-Alpes-Côte d'Azur - Regional Special:</u>
+- Farandole Dance <i>(Farandole / Farandola)</i>
+- Santons of Provence <i>(Santons / Santons)</i>
+- Pilou Game <i>(Pilou / Lo Pilo)</i>
+- Pétanque Game <i>(Pétanque / Petanca)</i>
+- Blue Chairs of Nice <i>(Chaise Bleue / Cadiera Bleua)</i>
+- Nice Midday Cannon Ritual <i>(Canon de Midi / Canoun de Miejour)</i>
+- Authentic Garb: Taillole <i>(Taillole Provençal / Taiolo)</i>
+- Heritage of the County of Provence <i>(Comté de Provence / Comtat de Provença)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
@@ -339,13 +356,16 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 <u>Île-de-France - Regional Special:</u> 
 - Nuit Blanche Festival <i>(Nuit Blanche)</i>. Month: November<br>
 <u>Occitania - Regional Special:</u> 
-- Estivada <i>(L'Estivada / L'Estivada)</i>. Month: July
+- Estivada <i>(L'Estivada / L'Estivada)</i>. Month: July<br>
+<u>Provence-Alpes-Côte d'Azur - Regional Special:</u> 
+- Fête des Cougourdons <i>(Fête des Cougourdons / Festin dei Cougourdouns)</i>. Month: March<br>
 
 <b>💐 National flower: </b> 
 - Yellow Iris <i>(Iris des Marais)</i><br>
 <u>Occitania - Regional Special:</u> 
-- Toulouse Violet <i>(Violette de Toulouse / Violeta de Tolosa)</i>
-
+- Toulouse Violet <i>(Violette de Toulouse / Violeta de Tolosa)</i><br>
+<u>Provence-Alpes-Côte d'Azur - Regional Special:</u> 
+- Common Lavender <i>(Lavande Officinale / Lavanda)</i>
 
 <b>🦉 Local wisdom:</b> "Little by little, the bird makes its nest." / <i>"Petit à petit, l'oiseau fait son nid."</i> — French proverb
 
