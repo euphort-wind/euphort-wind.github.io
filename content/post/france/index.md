@@ -17,10 +17,10 @@ gallery_item:
     image: 4toulou.jpeg
     caption: The Basilica of Saint-Sernin
   - album: france
-    image: 5vers.jpg
-    caption: Hôtel de Ville de Versailles
+    image: 4xnice.jpeg
+    caption: Nice
   - album: france
-    image: 6palac.jpg
+    image: 3xpalac.jpg
     caption: The Palace of Versailles 
   - album: france
     image: 7albi.jpeg
@@ -34,7 +34,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 
 <b>Important:</b> I only share my own experience and recommend the things I personally tried and liked. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️. 
 
-<b>🗺 Places:</b> Paris, Versailles, Toulouse, Albi.<br>
+<b>🗺 Places:</b> Paris, Versailles, Toulouse, Albi, Nice.<br>
 
 <b>🏛 Top sights visited: </b>
 
@@ -86,6 +86,20 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
     - Church of St. Salvy <i>(Collégiale Saint-Salvi d'Albi)</i>
     - Albi Market Hall <i>(Halle du Marché)</i>
     - Hôtel du Bosc <i>(Hôtel du Bosc)</i>
+5. Nice
+    - Promenade des Anglais <i>(Promenade des Anglais)</i>
+    - Palais de la Préfecture <i>(Palais de la Préfecture)</i>
+    - Cours Saleya Market <i>(Cours Saleya Market)</i>
+    - Colline du Château <i>(Colline du Château)</i>
+    - Hotel Negresco <i>(Hotel Negresco)</i>
+    - Nice Cathedral <i>(Cathédrale Sainte-Réparate)</i>
+    - Basilica of Notre-Dame de Nice <i>(Basilique Notre-Dame de Nice)</i>
+    - Place Masséna <i>(Place Masséna)</i>
+    - Nice Harbour <i>(Port de Nice)</i>
+    - Opéra de Nice <i>(Opéra de Nice)</i>
+    - Palais de Justice de Nice <i>(Palais de Justice de Nice)</i>
+
+  
 {{< /spoiler >}}
     
 <b>🎧 Local musicians: </b>
@@ -239,7 +253,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🥘 Alicot <i>(Alicot / Alicuit)</i>
 - 🍰 Croustade <i>(Croustade / Crostada)</i>
 - 🍰 Fénétra <i>(Fénétra / Fénétra)</i>
-
+</br>
+<u>Occitania - Regional Special:</u> 
 
 <b>🎬 Local movies:</b>
 - The Intouchables <i>(Intouchables)</i>. Year: 2011. Genre: dramedy
