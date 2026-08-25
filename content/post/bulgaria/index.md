@@ -11,8 +11,8 @@ gallery_item:
     image: 2sofnex.jpg
     caption: St. Alexander Nevski Cathedral
   - album: bulgaria
-    image: 3banya.jpg
-    caption: Sofia Central Mineral Baths
+    image: 3xsoz.jpeg
+    caption: Sozopol
   - album: bulgaria
     image: 4nesebar.jpg
     caption: Old Nesebar
