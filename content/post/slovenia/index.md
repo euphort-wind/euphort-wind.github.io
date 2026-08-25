@@ -17,10 +17,10 @@ gallery_item:
     image: 4hall.jpg
     caption: Kranj Town Hall
   - album: slovenia
-    image: 5villa.jpg
+    image: 6villa.jpg
     caption: The Zlatorog Villa 
   - album: slovenia
-    image: 6bled.jpg
+    image: 5bled.jpg
     caption: Church of the Assumption of the Blessed Virgin Mary (Bled)
   - album: slovenia
     image: 7ch.jpg
