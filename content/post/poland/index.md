@@ -173,8 +173,8 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🥓 Kraków Sausage <i>(Kiełbasa Krakowska)</i>
 - 🥙 Maczanka Krakowska <i>(Maczanka Krakowska)</i>
 - 🫓 Obwarzanek Krakowski <i>(Obwarzanek Krakowski)</i>
-- 🍲 Góralska Kwaśnica <i>(Góralska Kwaśnica)</i>
-- 🥘 Góralskie Moskole <i>(Góralskie Moskole)</i>
+- 🍲 Góral Kwaśnica <i>(Góralska Kwaśnica)</i>
+- 🥘 Góral Moskole <i>(Góralskie Moskole)</i>
 - 🧀 Góral Cheese <i>(Góralski Ser)</i>
   - 🧀 Oscypek <i>(Oscypek)</i>
   - 🧀 Gołka <i>(Gołka)</i>
