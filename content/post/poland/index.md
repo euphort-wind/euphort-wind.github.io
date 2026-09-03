@@ -70,6 +70,36 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
     - Fisheries Museum <i>(Muzeum Rybołówstwa)</i>
     - Fokarium <i>(Fokarium)</i>
 6. Kraków
+    - Old Town Kraków <i>(Stare Miasto)</i>
+    - Main Market Square <i>(Rynek Główny)</i>
+    - St. Mary's Church <i>(Kościół Mariacki)</i>
+    - Wawel Royal Castle <i>(Zamek Królewski na Wawelu)</i>
+    - Wawel Cathedral <i>(Katedra Wawelska)</i>
+    - Kraków Barbican <i>(Barbakan)</i>
+    - Kościuszko's Mound <i>(Kopiec Kościuszki)</i>
+    - St. Florian's Gate <i>(Brama Floriańska)</i>
+    - Church of Ss. Apostles Peter and Paul <i>(Kościół Św. Apostołów Piotra i Pawła)</i>
+    - Wawel Dragon Statue <i>(Pomnik Smoka Wawelskiego)</i>
+    - Czartoryski Museum <i>(Muzeum Książąt Czartoryskich)</i>
+    - Jagiellonian University <i>(Uniwersytet Jagielloński)</i>
+7. Katowice
+    - Market Square <i>(Rynek w Katowicach)</i>
+    - Silesian Museum <i>(Muzeum Śląskie)</i>
+    - Mariacka Street <i>(Ulica Mariacka)</i>
+    - Cathedral of Christ the King <i>(Archikatedra Chrystusa Króla)</i>
+    - Silesian Parliament <i>(Sejm Śląski)</i>
+    - Monopol Hotel <i>(Hotel Monopol)</i>
+    - St. Mary's Church <i>(Kościół Mariacki)</i>
+    - Spodek <i>(Spodek)</i>
+8. Zakopane
+    - Krupówki Street <i>(Ulica Krupówki)</i>
+    - Gubalowka Mountain <i>(Gubałówka)</i>
+    - Gravitational Slide <i>(Zjeżdżalnia Grawitacyjna)</i>
+    - Tatra Museum <i>(Muzeum Tatrzańskie)</i>
+    - Museum of Zakopane Style <i>(Muzeum Stylu Zakopiańskiego)</i>
+    - Holy Family Church <i>(Kościół Św. Rodziny)</i>
+    - Church of Our Lady of Częstochowa <i>(Kościół Matki Bożej Częstochowskiej)</i> 
+    - Oscypka Museum <i>(Muzeum Oscypka)</i>
 {{< /spoiler >}}
 
 
@@ -81,6 +111,9 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🇵🇱 LemON (band). Genre: rock
 - 🇵🇱 Oskar Cyms (singer). Genre: pop
 - 🇵🇱 Justyna Steczkowska (singer). Genre: pop
+- 🇵🇱 Krzikopa (band). Genre: folk
+- 🇵🇱 Patrick the Pan (singer). Genre: indie pop
+- 🇵🇱 IGO (singer). Genre: pop
 - 🇺🇳 C-Bool (DJ). Genre: house
 - 🇺🇳 Tom Swoon (DJ). Genre: progressive house
 - 🇺🇳 Alicja (singer). Genre: pop
@@ -101,10 +134,9 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - 🍲 Cucumber Soup <i>(Zupa Ogórkowa)</i>
 - 🥘 Bigos <i>(Bigos)</i>
 - 🥘 Pierogi <i>(Pierogi)</i>
-  - 🥘 Pierogi with Beef <i>(Pierogi z Mięsem Wołowym)</i>
-  - 🥘 Pierogi with Pork <i>(Pierogi z Mięsem Wieprzowym)</i>
-  - 🥘 Pierogi with Duck <i>(Pierogi z Mięsem Kaczki)</i>
+  - 🥘 Pierogi with Meat <i>(Pierogi z Mięsem)</i>
   - 🥘 Pierogi with Cabbage and Mushrooms <i>(Pierogi z Kapustą i Grzybami)</i>
+  - 🥘 Pierogi Ruskie <i>(Pierogi Ruskie)</i>
 - 🥘 Kotlet Schabowy <i>(Kotlet Schabowy)</i>
 - 🥘 Zrazy <i>(Zrazy)</i>
 - 🥘 Pyzy <i>(Pyzy)</i>
@@ -118,15 +150,42 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🍰 Ptasie Mleczko <i>(Ptasie Mleczko)</i>
 - 🥫 Polonaise Sauce <i>(À la Polonaise)</i>
 - 🍶 Polish Bison Grass Vodka <i>(Brand: "Żubrówka")</i>
+- 🍶 Polish Nalewka <i>(Brands: "Lubelska Wiśniówka", "Soplica Orzech Laskowy")</i>
 </br>
 <u>Pomeranian - Regional Special:</u> 
+- 🥓 Kashubian Pickled  Herring <i>(Śledzie po Kaszubsku / Szledz po Kaszëbskù)</i>
 - 🍰 Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
+</br>
+<u>Silesian - Regional Special:</u> 
+- 🥓 Krupniok Śląski <i>(Krupniok Śląski / Krupniok)</i>
+- 🥗 Szałot <i>(Szałot / Szałot)</i>
+- 🍲 Wodzianka <i>(Wodzianka / Wodźůnka)</i>
+- 🥘 Silesian Dumplings <i>(Kluski Śląskie / Gůmiklyjzy)</i>
+- 🥘 Silesian Roulade <i>(Rolada Śląska / Rolada)</i>
+- 🥘 Karminadle <i>(Karminadle / Gehaktyz)</i>
+- 🍰 Streuselkuchen <i>(Kołocz Śląski / Kołoc)</i>
+- 🍰 Szpajza <i>(Szpajza / Szpajza)</i>
+- 🍰 Kopalnioki <i>(Kopalnioki / Kopalnioki)</i>
+- 🍰 Makówki <i>(Makówki / Makůwki)</i>
+- 🧀 Hauskyjza <i>(Ser Domowy / Hauskyjza)</i>
+</br>
+<u>Lesser Poland - Regional Special:</u> 
+- 🥓 Kraków Sausage <i>(Kiełbasa Krakowska)</i>
+- 🥙 Maczanka Krakowska <i>(Maczanka Krakowska)</i>
+- 🫓 Obwarzanek Krakowski <i>(Obwarzanek Krakowski)</i>
+- 🍲 Góralska Kwaśnica <i>(Góralska Kwaśnica)</i>
+- 🥘 Góralskie Moskole <i>(Góralskie Moskole)</i>
+- 🧀 Góral Cheese <i>(Góralski Ser)</i>
+  - 🧀 Oscypek <i>(Oscypek)</i>
+  - 🧀 Gołka <i>(Gołka)</i>
+  - 🧀 Redykołka <i>(Redykołka)</i>
 
 
 <b>🎬 Local movies:</b>
+- Corpus Christi <i>(Boże Ciało)</i>. Year: 2019. Genre: drama 
 - The Peasants <i>(Chłopi)</i>. Year: 2023. Genre: drama 
 - Forgotten Love <i>(Znachor)</i>. Year: 2023. Genre: drama 
-- Corpus Christi <i>(Boże Ciało)</i>. Year: 2019. Genre: drama 
+- Mug <i>(Twarz)</i>. Year: 2018. Genre: drama 
 
 
 <b>🪔 Authentic features:</b>
@@ -151,7 +210,8 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
   - Koseder Dance <i>(Koseder / Kòséder)</i>
   - Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
-  - Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
+  - Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i><br> 
+
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
