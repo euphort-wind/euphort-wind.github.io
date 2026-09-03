@@ -20,7 +20,7 @@ gallery_item:
     image: 5czak.jpeg
     caption: Museum of Zakopane Style at Villa Koliba
   - album: poland
-    image: 5dkat.jpg
+    image: 5dkat.jpeg
     caption: Katowice
   - album: poland
     image: 5hel.jpeg
