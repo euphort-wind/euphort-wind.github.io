@@ -194,7 +194,6 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - Oberek Dance <i>(Oberek)</i>
 - Palant Game <i>(Palant)</i>
 - Bolesławiec Pottery <i>(Ceramika Bolesławiecka)</i>
-- Zakopane Architecture <i>(Styl Zakopiański)</i>
 - Polish Brick Gothic Architecture <i>(Gotyk Ceglany)</i>
 - Polish Folklore <i>(Folklor Polski)</i>
 - Authentic Musical Instrument: Koza <i>(Koza)</i>
@@ -211,7 +210,28 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - Koseder Dance <i>(Koseder / Kòséder)</i>
   - Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
   - Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i><br> 
-
+<u>Silesian - Regional Special:</u> 
+- Culture of Silesians <i>(Ślązacy / Ślůnzoki)</i>
+  - Trojak Dance <i>(Trojak / Trojok)</i>
+  - Familok Houses <i>(Familok / Familok)</i>
+  - Leading the Bear Ritual <i>(Wodzenie Niedźwiedzia / Wodzynie Bera)</i>
+  - Authentic Garb: Strój Rozbarski <i>(Strój Rozbarski / Rozbarske Ôblyczynie)</i>
+- Katowice Beboks <i>(Katowickie Beboki / Katowicke Beboki)</i><br> 
+<u>Lesser Poland - Regional Special:</u> 
+- Kraków Szopki <i>(Szopki Krakowskie)</i>
+- Krakowiak Dance <i>(Krakowiak)</i>
+- Lajkonik Ritual <i>(Lajkonik)</i>
+- St. Mary's Trumpet Call Ritual <i>(Hejnał Mariacki)</i>
+- Siuda Baba Ritual <i>(Siuda Baba)</i>
+- Legend of the Wawel Dragon <i>(Legenda o Smoku Wawelskim)</i>
+- Authentic Garb: Krakuska Hat <i>(Czapka Krakowska)</i>
+- Culture of Gorals <i>(Górale / Górole)</i>
+  - Zakopane Architecture <i>(Styl Zakopiański)</i>
+  - Parzenica Embroidery <i>(Parzenica)</i>
+  - Wałaszka Axe/s <i>(Ciupagi)</i>
+  - Góralski Dance <i>(Taniec Góralski)</i>
+  - Authentic Garb: Goral Hat <i>(Kapelusz Góralski)</i>
+- Heritage of the Republic of Cracow <i>(Rzeczpospolita Krakowska)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
@@ -220,13 +240,24 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - Dożynki <i>(Dożynki)</i>. Month: August
 - Wigilia <i>(Wigilia Bożego Narodzenia)</i>. Month: December<br>
 <u>Pomeranian - Regional Special:</u> 
-- Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March 
-
+- Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March<br> 
+<u>Silesian - Regional Special:</u> 
+- Barbórka (Barbórka / Barbůrka). Month: December<br> 
+<u>Lesser Poland - Regional Special:</u> 
+- Rękawka (Rękawka). Month: March or April
+- Wianki Festival (Wianki). Month: June
+- Festival of Goral Folklore (Festiwal Folkloru Ziem Górskich). Month: August 
 
 <b>💐 National flower: </b> 
 - Red Poppy <i>(Mak Polny)</i><br>
 <u>Pomeranian - Regional Special:</u> 
-- Kashubian Vetch <i>(Wyka Kaszubska / Kaszëbskô Wika)</i>
+- Kashubian Vetch <i>(Wyka Kaszubska / Kaszëbskô Wika)</i><br>
+<u>Silesia - Regional Special:</u>
+- Red Rose <i>(Czerwona Róża / Czyrwōno Rōuza)</i><br>
+<u>Lesser Poland - Regional Special:</u> 
+- Carline Thistle <i>(Dziewięćsił)</i>
+
+
 
 <b>🦉 Local wisdom:</b> "The turkey had a plan for Sunday, but it was eaten on Saturday." / <i>"Indyk myślał o niedzieli, a w sobotę łeb mu ścięli."</i> — Polish proverb
 
