@@ -1,6 +1,6 @@
 ---
 title: 🇸🇪 Sweden
-date: '2026-08-22'
+date: '2026-09-02'
 summary: Life in Sweden
 
 gallery_item:

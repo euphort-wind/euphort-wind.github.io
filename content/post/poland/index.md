@@ -1,6 +1,6 @@
 ---
 title: 🇵🇱 Poland
-date: '2024-08-31'
+date: '2026-09-01'
 summary: Trip to Poland
 
 gallery_item:
@@ -8,20 +8,20 @@ gallery_item:
     image: 1gdansk.jpeg
     caption: Gdańsk & St. Mary Church
   - album: poland
-    image: 2port.jpeg
-    caption: Rybackie Pobrzeże (Gdańsk)
-  - album: poland
     image: 3sopot.jpeg
     caption: Skwer Kuracyjny (Sopot)
   - album: poland
-    image: 4wladis.jpeg
-    caption: Władysławowo Church
-  - album: poland
-    image: 4ag.jpg
-    caption: Gdynia
-  - album: poland
     image: 5av.jpg
     caption: Władysławowo 
+  - album: poland
+    image: 5bkrak.jpeg
+    caption: Main Market Square of Krakow
+  - album: poland
+    image: 5czak.jpeg
+    caption: Museum of Zakopane Style at Villa Koliba
+  - album: poland
+    image: 5dkat.jpg
+    caption: Katowice
   - album: poland
     image: 5hel.jpeg
     caption: Statue of St. Peter in Hel
@@ -29,11 +29,11 @@ gallery_item:
     image: 6bigos.jpeg
     caption: Polish Bigos
 ---
-Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was there in 2024. Below are some notes on what I tasted, saw and listened to.
+Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was there in 2024 and 2026. Below are some notes on what I tasted, saw and listened to.
 
 <b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Gdańsk, Sopot, Gdynia, Władysławowo, Hel. <br>
+<b>🗺 Places:</b> Gdańsk, Sopot, Gdynia, Władysławowo, Hel, Kraków, Katowice, Zakopane. <br>
 
 <b>🏛 Top sights visited: </b>
 
@@ -69,6 +69,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
     - Wiejska Street <i>(Ulica Wiejska)</i>
     - Fisheries Museum <i>(Muzeum Rybołówstwa)</i>
     - Fokarium <i>(Fokarium)</i>
+6. Kraków
 {{< /spoiler >}}
 
 

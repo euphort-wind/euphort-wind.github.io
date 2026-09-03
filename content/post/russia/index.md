@@ -301,7 +301,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Authentic Concept: Russian Avos <i>(Русское Авось)</i>
 - Khokhloma Painting <i>(Хохлома)</i>
 - Zhostovo Painting <i>(Жостовская Роспись)</i>
-- Horovod Dance <i>(Хоровод)</i>
+- Khorovod Dance <i>(Хоровод)</i>
 - Matryoshka Dolls <i>(Матрёшки)</i>
 - Painted Samovars <i>(Расписные Самовары)</i>
 - Gorodki Game <i>(Городки)</i>
