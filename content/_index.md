@@ -61,7 +61,6 @@ sections:
 
         - title: Business Analyst
           company: Naumen
-          company_url: 'https://www.naumen.ru/en/'
           company_logo: lnaumen
           location: Ekaterinburg
           date_start: '2019-07-01'
@@ -184,7 +183,6 @@ sections:
         - date_start: '2023-02-01'
           icon: ppk
           organization: Participant, Ural Federal University, Ekaterinburg
-          organization_url: https://urfu.ru/en/
           title: Project-Based Learning Qualification 2023
         - date_start: '2021-09-01'
           icon: ovik
@@ -206,11 +204,6 @@ sections:
           organization: Front-End Developer Intern, JetStyle, Ekaterinburg
           organization_url: https://jet.style/
           title: JetStyle Internship 2018
-        - date_start: '2018-03-01'
-          icon: geek
-          organization: Participant, Digital Ural Geek Camp, Abzakovo
-          organization_url: https://www.facebook.com/UGCmgn/
-          title: Ural Geek Camp 2018
     design:
       columns: '2'
       
