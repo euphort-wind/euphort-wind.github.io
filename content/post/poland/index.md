@@ -140,7 +140,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🥘 Kotlet Schabowy <i>(Kotlet Schabowy)</i>
 - 🥘 Zrazy <i>(Zrazy)</i>
 - 🥘 Pyzy <i>(Pyzy)</i>
-- 🥘 Kopytka <i>(Szagówki)</i>
+- 🥘 Kopytka <i>(Kopytka)</i>
 - 🥘 Gołąbki <i>(Gołąbki)</i>
 - 🍰 Polish Cheesecake <i>(Sernik)</i> 
 - 🍰 Pączki <i>(Pączki)</i>
