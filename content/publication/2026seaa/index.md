@@ -11,7 +11,7 @@ authors:
 
 
 date: '2026-09-12'
-doi: ''
+doi: '10.1007/978-3-032-36590-3_8'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-01T00:00:00Z'
