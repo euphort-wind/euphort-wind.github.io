@@ -208,8 +208,12 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 <u>Pomeranian - Regional Special:</u> 
 - Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
   - Koseder Dance <i>(Koseder / Kòséder)</i>
+  - Kashubian Gwiôzdka Ritual <i>(kaszubska Gwiazdka / Gwiôzdka)</i>
   - Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
-  - Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i><br> 
+  - Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
+  - Authentic Musical Instrument: Burczybas  <i>(Burczybas / Mrëczk)</i>
+- Heritage of the Free City of Danzig <i>(Wolne Miasto Gdańsk / Freie Stadt Danzig)</i>
+<br> 
 <u>Silesian - Regional Special:</u> 
 - Culture of Silesians <i>(Ślązacy / Ślůnzoki)</i>
   - Trojak Dance <i>(Trojak / Trojok)</i>
