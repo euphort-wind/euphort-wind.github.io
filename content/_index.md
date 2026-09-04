@@ -121,6 +121,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_start: '2026-09-03'
+          icon: seaa1
+          organization: Speaker, Euromicro DSD/SEAA (Advanced Applications), Kraków
+          organization_url: https://dsd-seaa.com/seaa2026/
+          title:  SEAA Conference 2025
         - date_start: '2025-11-05'
           icon: isaps
           organization: Participant, Lorentz Workshop Center, Leiden
@@ -139,7 +144,7 @@ sections:
         - date_start: '2025-09-10'
           icon: seaa
           organization: Speaker, Euromicro DSD/SEAA (Advanced Applications), Salerno
-          organization_url: https://dsd-seaa.com/
+          organization_url: https://dsd-seaa.com/seaa2025/
           title:  SEAA Conference 2025
         - date_start: '2025-06-10'
           icon: staf
