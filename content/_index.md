@@ -125,7 +125,7 @@ sections:
           icon: seaa1
           organization: Speaker, Euromicro DSD/SEAA (Advanced Applications), Kraków
           organization_url: https://dsd-seaa.com/seaa2026/
-          title:  SEAA Conference 2025
+          title:  SEAA Conference 2026
         - date_start: '2025-11-05'
           icon: isaps
           organization: Participant, Lorentz Workshop Center, Leiden
