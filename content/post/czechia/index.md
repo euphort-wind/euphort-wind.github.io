@@ -142,7 +142,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - Authentic Garb: Czech Kroj <i>(Kroje)</i>
 - Heritage of the Dutchy of Bohemia <i>(České Knížectví / Ducatus Bohemiæ)</i>
 - Heritage of the Kingdom of Bohemia <i>(České Království / Königreich Böhmen)</i>
-- Heritage of Czechoslovakia <i>(Československo)</i>
+- Heritage of Czechoslovakia <i>(Československo)</i></br>
 <u>Central Bohemia - Regional Special:</u> 
 - Bohemian Glass <i>(České Sklo)</i></br>
 <u>South Moravia - Regional Special:</u> 
