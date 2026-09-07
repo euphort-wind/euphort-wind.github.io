@@ -320,8 +320,9 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - French Cars <i>(Brands: "Peugeot", "Renault", "Citroën", "Bugatti")</i>
 - Authentic Musical Instrument: Flageolet <i>(Flageolet)</i>
 - Authentic Garb: Faluche & Marinière <i>(Faluche et Tricot Rayé)</i> 
-- Legacy of Gauls <i>(Gaulois)</i> 
-- Legacy of Franks <i>(Francs / *Frankōz)</i> 
+- Legacy of Gauls <i>(Gaulois)</i>  
+- Heritage of the Frankish Kingdom <i>(Royaume des Francs / Regnum Francorum)</i>
+- Heritage of the Carolingian Empire <i>(Empire Carolingien / Universum Regnum)</i>
 - Heritage of the Kingdom of France <i>(Royaume de France / Reaume de France)</i>
 - Heritage of the French Empire <i>(Empire Français)</i><br>
 <u>Île-de-France - Regional Special:</u> 

@@ -77,7 +77,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 <b>🎧 Local musicians: </b>
 - 🇭🇷 Miach (singer). Genre: pop
 - 🇭🇷 Gibonni (singer). Genre: pop
-- 🇭🇷 Silente (band). Genre: pop-rock
+- 🇭🇷 Silente (band). Genre: pop rock
 - 🇭🇷 IDEM (band). Genre: pop-punk
 - 🇭🇷 Valentino Bošković (band). Genre: pop
 - 🇭🇷 Jelena Rozga (singer). Genre: pop

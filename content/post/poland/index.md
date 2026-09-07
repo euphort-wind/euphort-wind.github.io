@@ -231,7 +231,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - Culture of Gorals <i>(Górale / Górole)</i>
   - Zakopane Architecture <i>(Styl Zakopiański)</i>
   - Parzenica Embroidery <i>(Parzenica)</i>
-  - Wałaszka Axe/s <i>(Ciupagi)</i>
+  - Wałaszka Axes <i>(Ciupagi)</i>
   - Góralski Dance <i>(Taniec Góralski)</i>
   - Authentic Garb: Goral Hat <i>(Kapelusz Góralski)</i>
 - Heritage of the Republic of Cracow <i>(Rzeczpospolita Krakowska)</i>
