@@ -134,9 +134,10 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - 🍲 Cucumber Soup <i>(Zupa Ogórkowa)</i>
 - 🥘 Bigos <i>(Bigos)</i>
 - 🥘 Pierogi <i>(Pierogi)</i>
-  - 🥘 Pierogi with Meat <i>(Pierogi z Mięsem)</i>
-  - 🥘 Pierogi with Cabbage and Mushrooms <i>(Pierogi z Kapustą i Grzybami)</i>
-  - 🥘 Pierogi Ruskie <i>(Pierogi Ruskie)</i>
+  - 🥘 Meat Pierogi <i>(Pierogi z Mięsem)</i>
+  - 🥘 Cabbage Pierogi <i>(Pierogi z Kapustą)</i>
+  - 🥘 Mashroom Pierogi <i>(Pierogi z Grzybami)</i>
+  - 🥘 Ruskie Pierogi <i>(Pierogi Ruskie)</i>
 - 🥘 Kotlet Schabowy <i>(Kotlet Schabowy)</i>
 - 🥘 Zrazy <i>(Zrazy)</i>
 - 🥘 Pyzy <i>(Pyzy)</i>
