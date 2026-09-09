@@ -318,6 +318,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🥘 Prinskorv <i>(Prinskorv)</i>
 - 🥘 Raggmunk with Bacon <i>(Raggmunk med Fläsk)</i>
 - 🥘 Jansson's Temptation <i>(Janssons Frestelse)</i>
+- 🥘 Kroppkaka <i>(Kroppkaka)</i>
 - 🍰 Cinnamon Rolls <i>(Kanelbullar)</i>
 - 🍰 Princess Cake <i>(Prinsesstårta)</i>
 - 🍰 Smulpaj <i>(Smulpaj)</i>

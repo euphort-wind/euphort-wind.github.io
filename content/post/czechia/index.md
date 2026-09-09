@@ -149,7 +149,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - Culture of Moravians <i>(Moravané / Moraváci)</i>
   - Ride of the Kings Ritual <i>(Jízda Králů)</i>
   - Moravian Verbuňk Dance <i>(Slovácko Verbuňk)</i>
-  - Authentic Garb: Kordulka Vest & Ceremonial Pentleni <i>(Kordulka Vest & Ceremonial Pentleni)</i>
+  - Authentic Garb: Kordulka Vest & Ceremonial Pentleni <i>(Kordulka Vest & Pentleni)</i>
 - Heritage of Great Moravia <i>(Velkomoravská Říše / Ⰿⱁⱃⰰⰲⰰ)</i><br>
   - Great Moravian Sacral Architecture <i>(Velkomoravská Sakrální Architektura)</i>
   - Great Moravian Gombíky <i>(Gombíky)</i>
