@@ -141,6 +141,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - Authentic Musical Instrument: Tamburica <i>(Tamburica)</i>
 - Authentic Garb: Cravat & Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
 - Legacy of Illyrians <i>(Iliri)</i>
+- Heritage of the Duchy of Croatia <i>(Kneževina Hrvatska / Ducatus Chroatorum)</i>
 - Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>
 <br><u>Zadar - Regional Special:</u> 
 - Klapa Singing <i>(Klapa)</i>

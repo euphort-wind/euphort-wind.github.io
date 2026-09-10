@@ -161,6 +161,9 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - Legacy of Bulghars <i>(Прабългари)</i>
 - Heritage of the First Bulgarian Empire <i>(Първо Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>
 - Heritage of the Second Bulgarian Empire <i>(Второ Българско Царство / Ц︢рьство Блъгарское)</i>
+- Heritage of the Principality of Bulgaria <i>(Княжество България)</i>
+- Heritage of the Kingdom of Bulgaria <i>(Царство България)</i>
+
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

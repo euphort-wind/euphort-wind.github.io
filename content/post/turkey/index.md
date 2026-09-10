@@ -180,7 +180,8 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - Legacy of Phrygians <i>(Frigler)</i>
 - Heritage of the Hittite Empire <i>(Hititler / 𒄩𒀜𒌅𒊭)</i>
 - Heritage of the Kingdom of Lydia <i>(Lidya / 𐤮𐤱𐤠𐤭𐤣𐤠)</i>
-- Heritage of the Byzantine Empire <i>(Bizans İmparatorluğu / Imperium Romanum Orientale)</i>
+- Heritage of the Kingdom of Pontus <i>(Pontus Krallığı / Πόντος)</i>
+- Heritage of the Seljuk Sultanate of Rum <i>(Anadolu Selçukluları / سلجوقیان روم)</i>
 - Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i><br>
 <u>İstanbul - Regional Special:</u> 
 - Istanbul Feral Cats <i>(Sokak Kedisi)</i><br>

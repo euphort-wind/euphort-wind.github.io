@@ -127,7 +127,9 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
   - System of Montenegrin Tribes <i>(Племена Црне Горе)</i>
   - Title of Vladika of Montenegro <i>(Владика)</i>
   - Title of Guvernadur <i>(Гувернадур)</i>
-- Heritage of the Principality of Montenegro <i>(Књажевина Црна Горa)</i><br>
+- Heritage of the Principality of Montenegro <i>(Књажевина Црна Горa)</i>
+- Heritage of the Kingdom of Montenegro <i>(Краљевина Црна Гора)</i>
+<br>
 <u>Coastal Montenegro - Regional Special:</u> 
 - Legends of Kotor <i>(Легенде о Настанку Котора)</i>
 - Dobrota Lace <i>(Добротска Чипка)</i>
