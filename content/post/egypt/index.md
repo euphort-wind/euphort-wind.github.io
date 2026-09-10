@@ -115,7 +115,9 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة)</i>
   - Ancient Authentic Musical Instrument: Sistrum <i>(السيستروم)</i>
   - Ancient Authentic Garb: Khat & Shendyt <i>(الخات والشنديت)</i>
-- Heritage of the Ptolemaic Kingdom <i>(المملكه البطلميه / Ptolemaic Kingdom)</i>
+- Heritage of the Ptolemaic Kingdom <i>(المملكه البطلميه / Πτολεμαϊκὴ βασιλεία)</i>
+- Heritage of the Fatimid Empire <i>(الخلافة الفاطمیّة)</i>
+- Heritage of the Ayyubid Sultanate <i>(الدولة الأيوبية)</i>
 - Heritage of the Mamluk Sultanate <i>(سلطنة المماليك)</i>
 - Heritage of the Kingdom of Egypt <i>(المملكة المصرية)</i>
 

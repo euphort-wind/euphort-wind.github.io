@@ -313,8 +313,10 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Russian Cars <i>(Brands: "LADA", "GAZ", "Moskvitch", etc.)</i> 
 - Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
+- Heritage of the Grand Principality of Moscow <i>(Великое Княжество Московское)</i>
 - Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
-- Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i><br>
+- Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
+<br>
 <u>Bashkortostan - Regional Special:</u> 
 - Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
     - Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
@@ -352,8 +354,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 <u>Chelyabinsk - Regional Special:</u> 
 - Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
 - Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i><br>
-<u>Moscow-City - Regional Special:</u> 
-- Heritage of the Grand Duchy of Moscow <i>(Великое Княжество Московское)</i>
+
+
 
 
 

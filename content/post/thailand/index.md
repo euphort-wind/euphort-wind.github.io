@@ -124,6 +124,7 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
 - Authentic Garb: Pha Nung <i>(ผ้านุ่ง)</i>
 - Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>
+- Heritage of the Thonburi Kingdom <i>(อาณาจักรธนบุรี)</i>
 - Heritage of the Rattanakosin Kingdom <i>(อาณาจักรรัตนโกสินทร์)</i><br>
 <u>Phuket - Regional Special</u>: 
 - Culture of Urak Lawoi <i>(อูรักลาโว้ย / Orang Laut)</i>

@@ -93,6 +93,8 @@ Hej! I'm sharing a glimpse of my experience visiting elegant Luxembourg. I was t
 - Konter a Matt Game <i>(Konter a Matt)</i>
 - Péckvillercher Whistles <i>(Péckvillercher)</i>
 - Title of Grand Duke <i>(Groussherzog)</i>
+- Heritage of the County of Luxembourg <i>(Grofschaft Lëtzebuerg / Grafschaft Luxemburg)</i>
+- Heritage of the Duchy of Luxembourg <i>(Herzogtum Lëtzebuerg / Herzogtum Luxemburg)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Grand Duke's Official Birthday <i>(Groussherzogsgebuertsdag)</i>. Month: June

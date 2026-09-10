@@ -130,7 +130,9 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - Belgian Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
 - Belgian Friterie Culture <i>(Culture de la Friterie / Friteriecultuur)</i>
 - Belgian Folklore <i>(Folklore Belge / Belgische Folklore)</i>
-- Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i><br>
+- Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
+- Heritage of the United Belgian States <i>(États-Belgiques-Unis / Verenigde Belgische Staten)</i>
+<br>
 <u>Brussels-Capital - Regional Special:</u> 
 - Flower Carpet <i>(Tapis de Fleurs / Bloementapijt)</i><br>
 <u>Flanders - Regional Special:</u> 

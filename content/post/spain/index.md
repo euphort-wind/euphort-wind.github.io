@@ -133,6 +133,10 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - Authentic Musical Instrument: Castanets <i>(Castañuelas)</i> 
 - Authentic Garb: Mantilla & Traje de Luces <i>(Mantilla y Traje de Luces)</i>
 - Legacy of Iberians <i>(Íberos)</i>
+- Heritage of the Visigothic Kingdom <i>(Reino Visigodo / Gutþiuda Þiudinassus)</i>
+- Heritage of the Caliphate of Córdoba <i>(Califato de Córdoba / خِلَافَةُ قُرطُبَة)</i>
+- Heritage of the Kingdom of León <i>(Reino de León / Lleom)</i>
+- Heritage of the Crown of Castile <i>(Corona de Castilla / Corona Castellae)</i>
 - Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - Heritage of the Spanish Republic <i>(República Española)</i><br>
 <u>Catalonia - Regional Special:</u> 

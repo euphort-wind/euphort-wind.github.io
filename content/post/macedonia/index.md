@@ -116,7 +116,8 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 - Macedonian Slavic Mythology <i>(Македонската Словенска Митологија)</i> 
 - Authentic Musical Instrument: Šupelka <i>(Шупелка)</i> 
 - Culture of Aromanians <i>(Македонски Власи / Armãnji)</i>
-- Legacy of Paeonians <i>(Пајонци)</i> 
+- Legacy of Paeonians <i>(Пајонци)</i>
+- Heritage of the Kingdom of Macedonia <i>(Античка Македонија / Μακεδονία)</i> 
 
 
 

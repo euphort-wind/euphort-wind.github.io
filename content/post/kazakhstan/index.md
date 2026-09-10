@@ -121,7 +121,8 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - Kazakh Folklore <i>(Қазақ Фольклоры)</i>  
 - Authentic Musical Instrument: Dombra <i>(Домбыра)</i>
 - Authentic Garb: Shapan & Borik <i>(Шапан пен Бөрік)</i> 
-- Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق خاندیغی)</i> 
+- Heritage of the Golden Horde <i>(Алтын Орда / اولوغ اولوس)</i> 
+- Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق جورتی)</i> 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

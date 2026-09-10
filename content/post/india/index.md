@@ -147,6 +147,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Heritage of the Maurya Empire <i>(मौर्यसाम्राज्य / मौर्यसाम्राज्यम्)</i>
 - Heritage of the Gupta Empire <i>(गुप्त राजवंश / गुप्त)</i>
 - Heritage of the Chola Empire <i>(चोल साम्राज्य / இடைக்காலச் சோழர்கள்)</i>
+- Heritage of the Delhi Sultanate (दिल्ली सल्तनत / سلطنت دهلی)
+- Heritage of the Mughal Empire (मुग़ल साम्राज्य / گورکانیان)
 - Heritage of the Maratha Empire <i>(मराठा साम्राज्य)</i><br>
 <u>Karnataka - Regional Special:</u> 
 - Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
