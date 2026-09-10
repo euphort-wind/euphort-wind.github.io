@@ -107,7 +107,10 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - 🥘 Khinkali <i>(ხინკალი)</i>
 - 🥘 Kupati <i>(კუპატი)</i>
 - 🥘 Chakhokhbili <i>(ჩახოხბილი)</i>
+- 🥘 Ojakhuri <i>(ოჯახური)</i>
+- 🥘 Kuchmachi <i>(კუჭმაჭი)</i>
 - 🥘 Shkmeruli <i>(შქმერული)</i>
+- 🥘 Chicken Tabaka <i>(წიწილა ტაფაკა)</i>
 - 🥘 Chanakhi <i>(ჩანახი)</i>
 - 🥘 Abkhazura <i>(აბხაზურა)</i>
 - 🍰 Churchkhela <i>(ჩურჩხელა)</i>
