@@ -139,12 +139,12 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - Serbian Cars <i>(Brand: "Zastava")</i>
 - Authentic Musical Instrument: Gusle <i>(Гусле)</i>
 - Authentic Garb: Šajkača & Opanci <i>(Шајкача и Опанци)</i> 
-- Heritage of the Medieval Kingdom of Serbia <i>(Средњовековна Краљевина Србија / Regnum Serbiæ)</i>
+- Heritage of the Kingdom of Serbia <i>(Средњовековна Краљевина Србија / Regnum Serbiæ)</i>
   - Raška Architecture <i>(Рашки Стил)</i>
   - System of Zadrugas <i>(Задруге)</i>
   - Serbian Epic Poetry <i>(Српске Епске Народне Песме)</i>
 - Heritage of the Serbian Empire <i>(Српско Царство)</i>
-- Heritage of the Modern Kingdom of Serbia <i>(Модерна Краљевина Србија)</i>
+- Heritage of the Principality of Serbia <i>(Књажество Србија)</i>
 - Heritage of Yugoslavia <i>(Југославија / Jugoslavija)</i><br>
 <u>Vojvodina - Regional Special:</u> 
 - Ethos of Grenzers <i>(Граничари)</i>

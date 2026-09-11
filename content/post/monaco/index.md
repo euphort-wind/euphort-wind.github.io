@@ -81,6 +81,7 @@ Hej! I'm sharing a glimpse of my experience visiting luxurious Monaco. I was the
 - Monaco Belle Epoque Villas <i>(Monaco Belle Epoque Villas)</i>
 - Ciaraviyù Ritual <i>(Ciaraviyù)</i>
 - Legend of Francesco Grimaldi <i>(Légende de François Grimaldi)</i>
+- Heritage of the Lordship of Monaco <i>(Seigneurie de Monaco)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

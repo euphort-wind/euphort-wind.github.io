@@ -247,8 +247,14 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
 - Authentic Musical Instrument: Zither <i>(Zither)</i>
 - Authentic Garb: German Tracht <i>(Tracht)</i>
+- Legacy of Alemanni <i>(Alamannen)</i>
+- Legacy of Thuringians <i>(Thüringer)</i>
+- Legacy of Suebi <i>(Sueben)</i>
 - Heritage of the Holy Roman Empire <i>(Heiliges Römisches Reich / Sacrum Imperium Romanum)</i>
-- Heritage of Prussia <i>(Preußen / Prūsija)</i><br>
+- Heritage of Prussia <i>(Preußen / Prūsija)</i>
+- Heritage of the German Empire <i>(Deutsches Kaiserreich)</i>
+- Heritage of the Weimar Republic <i>(Weimarer Republik)</i>
+<br>
 <u>Hessen - Regional Special:</u> 
 - Schwälmer Dance <i>(Schwälmer Tanz)</i>
 - Authentic Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i><br>
@@ -259,8 +265,6 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 <u>North Rhine-Westphalia - Regional Special:</u> 
 - Eau de Cologne Perfume <i>(Kölnisch Wasser)</i><br> 
 <u>Bavaria - Regional Special:</u>
-- Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
-- Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
 - Culture of Bavarians <i>(Bayern / Boarn)</i>
   - Schuhplattler Dance <i>(Schuhplattler / Schuhplattler)</i>
   - Aperschnalzen Tradition <i>(Aperschnalzen / Apaschnoizn)</i>
@@ -270,6 +274,9 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
   - Bavarian Beer Gardens <i>(Biergarten / Bierkeller)</i>
   - Bavarian Folklore <i>(Bayerische Folklore / Bairische Volkskultur)</i>
   - Authentic Garb: Lederhosen & Dirndl <i>(Lederhose und Dirndl / Lederhosn un Diandl)</i>
+- Legacy of Baiuvarii <i>(Bajuwaren)</i>
+- Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
+- Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
 
 
 

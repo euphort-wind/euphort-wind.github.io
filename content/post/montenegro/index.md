@@ -123,6 +123,7 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 - Montenegrin Oro Dance <i>(Црногорско Оро)</i>
 - Authentic Garb: Montenegrin Cap <i>(Црногорска Капа)</i>
 - Heritage of the Kingdom of Duklja <i>(Дукља / Διόκλεια)</i>
+- Heritage of the Kingdom of Zeta <i>(Зета)</i>
 - Heritage of the Prince-Bishopric of Montenegro <i>(Митрополство Црногорско)</i>
   - System of Montenegrin Tribes <i>(Племена Црне Горе)</i>
   - Title of Vladika of Montenegro <i>(Владика)</i>
