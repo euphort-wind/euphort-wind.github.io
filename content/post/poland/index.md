@@ -206,7 +206,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - Title of Szlachcic <i>(Szlachcic)</i>
   - Polish Baroque Architecture <i>(Sztuka Barokowa w Polsce)</i>
   - Authentic Garb: Robe à la Polonaise & Żupan <i>(Poloneska i Żupan)</i>
-- Heritage of the Duchy of Warsaw <i>(Księstwo Warszawskie / Duché de Varsovie)</i><br>  
+- Heritage of the Duchy of Warsaw <i>(Księstwo Warszawskie / Duché de Varsovie)</i><br>
 <u>Pomeranian - Regional Special:</u> 
 - Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
   - Koseder Dance <i>(Koseder / Kòséder)</i>
