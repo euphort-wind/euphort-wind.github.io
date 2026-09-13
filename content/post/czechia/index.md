@@ -105,7 +105,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - 🥘 Svíčková <i>(Svíčková na Smetaně)</i>
 - 🥘 Bohemian Roast Duck <i>(Pečená Kachna)</i>
 - 🍰 Czech Trdelník <i>(Trdelník)</i>
-- 🍰 Czech Kolach <i>(Český Koláč)</i>
+- 🍰 Czech Kolache <i>(Český Koláč)</i>
 - 🍰 Žloutkové Řezy <i>(Žloutkové Řezy)</i>
 - 🧀 Hermelín Cheese <i>(Hermelín)</i>
 - 🍶 Czech Beer <i>(Brands: "Pilsner Urquell", "Staropramen", "Gambrinus")</i>
@@ -117,7 +117,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 <u>South Moravia - Regional Special:</u> 
 - 🥘 Moravian Sparrow <i>(Moravský Vrabec)</i>
 - 🥘 Znojemská Pečeně <i>(Znojemská Pečeně)</i>
-- 🍰 Moravian Double-filled Kolach <i>(Moravský Dvojctihodný Koláč)</i>
+- 🍰 Moravian Double-Filled Kolache <i>(Moravský Dvojctihodný Koláč)</i>
 - 🍶 Burčák Young Wine <i>(Burčák)</i>
 
 
