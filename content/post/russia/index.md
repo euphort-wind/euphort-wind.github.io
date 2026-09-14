@@ -344,7 +344,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Ossetian Assianism <i>(Уасдин / Уацдин)</i>
     - Ossetian Simd Dance <i>(Симд / Синд)</i>
     - Authentic Musical Instrument: Kisyn Fandyr <i>(Хисын Фандыр / Xъисын Фæндыр)</i>
-- Legacy of Alans <i>(Аланы / Алантæ)</i><br>
+- Legacy of Alans <i>(Аланы / Алантæ)</i>
 - Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i><br>
 <u>Leningrad - Regional Special:</u> 
 - Culture of Izhorians <i>(Ижоры / Ižorat)</i><br>
@@ -356,7 +356,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i><br>
 <u>Chelyabinsk - Regional Special:</u> 
 - Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
-- Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i><br>
+- Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>
 
 
 
@@ -374,7 +374,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 <u>St. Petersburg-City - Regional Special:</u>
 - White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July<br>
 <u>North Ossetia - Regional Special:</u> 
-- Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November<br>
+- Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November
 
 
 
