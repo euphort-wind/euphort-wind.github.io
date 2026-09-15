@@ -162,7 +162,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - Heritage of the Rashtrakuta Empire <i>(राष्ट्रकूट राजवंश / ರಾಷ್ಟ್ರಕೂಟ)</i>
 - Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i><br>
 <u>Goa - Regional Special:</u> 
-- Culture of Goans <i>(गोवाई / गोएनकर)</i>
+- Culture of Konkanites <i>(कोंकणी लोग / कोंकणी लोक)</i>
   - Authentic Concept: Susegad <i>(सुसेगाद / सुसेगाद)</i>
   - Fugdi Dance <i>(फुगडी / फुगडी)</i>
   - Authentic Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
