@@ -94,27 +94,27 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 
 
 <b>🪔 Authentic features:</b>
-- Desert Safari <i>(رحلات السفاري الصحراوية)</i>
+- Desert Safari Tradition <i>(رحلات السفاري الصحراوية)</i>
 - Henna Body Painting <i>(رسم الحنة)</i>
 - Khayamiya Textile <i>(خيّامية)</i>
 - Authentic Musical Instrument: Goblet Drum <i>(دربوكة)</i>
 - Authentic Garb: Galabiya <i>(جلابية)</i>
 - Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
-  - Authentic Concept: Coptic Monasticism <i>(الرهبنه القبطيه)</i>
+  - Authentic Concept: Coptic Monasticism <i>(الرهبنه القبطيه / Ⲡⲓⲃⲓⲟⲥ Ⲛⲙⲟⲛⲁⲭⲟⲥ)</i>
   - Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
-  - Coptic Script <i>(الأبجدية القبطية)</i>
-  - Coptic Crosses <i>(الصليب القبطى)</i>
+  - Coptic Script <i>(الأبجدية القبطية / Ⲁⲃⲅⲇⲉ)</i>
+  - Coptic Crosses <i>(الصليب القبطى / Ⲥⲧⲁⲩⲣⲟⲥ)</i>
 - Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
-  - Ancient Authentic Concept: Maat <i>(ماعت)</i>
-  - Senet Game <i>(لعبة السِّينِت)</i>
-  - Title of Pharaoh <i>(فرعون)</i>
-  - Ancient Egyptian Mythology <i>(أساطير مصرية)</i>
-  - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية)</i>
-  - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة)</i>
-  - Ancient Egyptian Religion <i>(ديانة قدماء المصريين)</i>
-  - Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة)</i>
-  - Ancient Authentic Musical Instrument: Sistrum <i>(السيستروم)</i>
-  - Ancient Authentic Garb: Khat & Shendyt <i>(الخات والشنديت)</i>
+  - Ancient Authentic Concept: Maat <i>(ماعت / 𓁦)</i>
+  - Senet Game <i>(لعبة السِّينِت / 𓊃𓈖𓏏𓏠)</i>
+  - Title of Pharaoh <i>(فرعون / 𓉐𓉻)</i>
+  - Ancient Egyptian Mythology <i>(أساطير مصرية / 𓌳𓇋𓀁𓊹𓊹𓊹)</i>
+  - Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية / 𓀀𓀁𓀂𓀃)</i>
+  - Ancient Egyptian Architecture <i>(العمارة المصرية القديمة / 𓉐)</i>
+  - Ancient Egyptian Religion <i>(ديانة قدماء المصريين / 𓊹𓌃)</i>
+  - Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة / 𓍔𓏲)</i>
+  - Ancient Authentic Musical Instrument: Sistrum <i>(السيستروم / 𓊃𓈙𓈙𓏏𓏣)</i>
+  - Ancient Authentic Garb: Khat & Shendyt <i>(الخات والشنديت / 𓄡𓂧𓏏𓋜 𓈖𓎛𓂋 𓈙𓈖𓂋𓏏𓋚)</i>
 - Heritage of the Ptolemaic Kingdom <i>(المملكه البطلميه / Πτολεμαϊκὴ βασιλεία)</i>
 - Heritage of the Fatimid Empire <i>(الخلافة الفاطمیّة)</i>
 - Heritage of the Ayyubid Sultanate <i>(الدولة الأيوبية)</i>

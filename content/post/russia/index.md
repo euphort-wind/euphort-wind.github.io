@@ -336,6 +336,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Circassian Paganism <i>(Черкесская Религия / ТхьэлъэӀу)</i>
     - Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
     - Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
+- Culture of Abazins <i>(Абазины / Абаза)</i>
 - Heritage of Zichia <i>(Черкесия / Адыгэ Хэку)</i><br>
 <u>North Ossetia - Regional Special:</u> 
 - Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
@@ -351,12 +352,15 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 <u>St. Petersburg-City - Regional Special:</u> 
 - Petrine Baroque Architecture <i>(Петровское Барокко)</i>
 - Culture of Votians <i>(Водь / Vađđalaizõd)</i><br>
-<u>Orenburzhie - Regional Special:</u> 
-- Ethos of Orenburg Cossacks <i>(Оренбургские Казаки)</i>
-- Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i><br>
 <u>Chelyabinsk - Regional Special:</u> 
 - Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
-- Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i>
+- Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i></br>
+<u>Moscow-City - Regional Special:</u>
+- Muscovite Baroque Architecture <i>(Нарышкинское Барокко)</i>
+</br>
+<u>Orenburzhie - Regional Special:</u> 
+- Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i><br>
+
 
 
 
@@ -368,13 +372,13 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 <u>Bashkortostan - Regional Special:</u> 
 - Sabantuy <i>(Сабантуй / Һабантуй)</i>. Month: June or July<br>
 <u>Kabardino-Balkaria - Regional Special:</u>
-- Balkar Day <i>(День Возрождения Балкарского Народа)</i>. Month: March<br>
+- Balkar Day <i>(День Возрождения Балкарского Народа / Малкъар Халкъны Жангырыууну Кюню)</i>. Month: March<br>
 <u>Karachay-Cherkessia - Regional Special:</u>
 - Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May<br>
-<u>St. Petersburg-City - Regional Special:</u>
-- White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July<br>
 <u>North Ossetia - Regional Special:</u> 
-- Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November
+- Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November<br>
+<u>St. Petersburg-City - Regional Special:</u>
+- White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July
 
 
 
