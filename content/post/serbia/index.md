@@ -131,23 +131,23 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Concept: Serbian Inat <i>(Српски Инат)</i>
-- Authentic Concept: Polako <i>(Полако)</i> 
-- Slava Celebrations <i>(Српска Слава)</i>
-- Pirot Carpets <i>(Пиротски Ћилим)</i>
-- Kolo Dance <i>(Коло)</i>
-- Serbian Cars <i>(Brand: "Zastava")</i>
-- Authentic Musical Instrument: Gusle <i>(Гусле)</i>
-- Authentic Garb: Šajkača & Opanci <i>(Шајкача и Опанци)</i> 
-- Heritage of the Kingdom of Serbia <i>(Средњовековна Краљевина Србија / Regnum Serbiæ)</i>
-  - Raška Architecture <i>(Рашки Стил)</i>
-  - System of Zadrugas <i>(Задруге)</i>
-  - Serbian Epic Poetry <i>(Српске Епске Народне Песме)</i>
-- Heritage of the Serbian Empire <i>(Српско Царство)</i>
-- Heritage of the Principality of Serbia <i>(Књажество Србија)</i>
-- Heritage of Yugoslavia <i>(Југославија / Jugoslavija)</i><br>
+- 🦉 Authentic Concept: Serbian Inat <i>(Српски Инат)</i>
+- 🦉 Authentic Concept: Polako <i>(Полако)</i> 
+- 🎑 Slava Celebration Ritual <i>(Српска Слава)</i>
+- 🎨 Pirot Carpets <i>(Пиротски Ћилим)</i>
+- 💃 Serbian Kolo Dance <i>(Коло)</i>
+- 🚗 Serbian Cars <i>(Brand: "Zastava")</i>
+- 🪕 Authentic Musical Instrument: Gusle <i>(Гусле)</i>
+- 👘 Authentic Garb: Šajkača & Opanci <i>(Шајкача и Опанци)</i> 
+- 🏰 Heritage of the Kingdom of Serbia <i>(Средњовековна Краљевина Србија / Regnum Serbiæ)</i>
+  - 🏛️ Raška Architectural Style <i>(Рашки Стил)</i>
+  - 👑 System of Zadrugas <i>(Задруге)</i>
+  - 🎭 Serbian Epic Poetry <i>(Српске Епске Народне Песме)</i>
+- 🏰 Heritage of the Serbian Empire <i>(Српско Царство)</i>
+- 🏰 Heritage of the Principality of Serbia <i>(Књажество Србија)</i>
+- 🏰 Heritage of Yugoslavia <i>(Југославија / Jugoslavija)</i><br>
 <u>Vojvodina - Regional Special:</u> 
-- Cuture of Bunjevci <i>(Буњевци / Bunjevci)</i>
+- 👲 Cuture of Bunjevci <i>(Буњевци / Bunjevci)</i>
 
 
 

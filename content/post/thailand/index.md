@@ -109,25 +109,26 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Concept: Thainess <i>(ความเป็นไทย)</i>
-- Buddhism <i>(ศาสนาพุทธ)</i>
-- Muay Thai Boxing <i>(มวยไทย)</i>
-- Khon Dance <i>(โขน)</i>
-- Lai Rot Nam Art <i>(ลายรดน้ำ)</i>
-- Makruk Game <i>(หมากรุก)</i> 
-- Ka Fak Khai Game <i>(กาฟักไข่)</i>
-- Mak-Yek Game <i>(หมากแยก)</i>
-- Thai Folk Religion <i>(ศาสนาผี)</i>
-- Thai Massage <i>(นวดแผนไทย)</i>
-- Thai Script <i>(อักษรไทย)</i>
-- Thai Folklore <i>(นิทานพื้นบ้านไทย)</i>
-- Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
-- Authentic Garb: Pha Nung <i>(ผ้านุ่ง)</i>
-- Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>
-- Heritage of the Thonburi Kingdom <i>(อาณาจักรธนบุรี)</i>
-- Heritage of the Rattanakosin Kingdom <i>(อาณาจักรรัตนโกสินทร์)</i><br>
+- 🦉 Authentic Concept: Thainess <i>(ความเป็นไทย)</i>
+- 🕯️ Buddhism <i>(ศาสนาพุทธ)</i>
+- 🕯️ Thai Folk Religion <i>(ศาสนาผี)</i>
+- 🔠 Thai Script <i>(อักษรไทย)</i>
+- 🏃🏻 Muay Thai Boxing Tradition <i>(มวยไทย)</i>
+- 🏃🏻 Thai Massage Tradition <i>(นวดแผนไทย)</i>
+- 💃 Khon Dance <i>(โขน)</i>
+- 🎨 Lai Rot Nam Art <i>(ลายรดน้ำ)</i>
+- 🏓 Makruk Game <i>(หมากรุก)</i> 
+- 🏓 Ka Fak Khai Game <i>(กาฟักไข่)</i>
+- 🏓 Mak-Yek Game <i>(หมากแยก)</i>
+- 🐦‍🔥 Thai Folklore <i>(นิทานพื้นบ้านไทย)</i>
+- ⛵ Thai Long-Tail Boats <i>(เรือหางยาว)</i>
+- 🪕 Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
+- 👘 Authentic Garb: Pha Nung <i>(ผ้านุ่ง)</i>
+- 🏰 Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>
+- 🏰 Heritage of the Thonburi Kingdom <i>(อาณาจักรธนบุรี)</i>
+- 🏰 Heritage of the Rattanakosin Kingdom <i>(อาณาจักรรัตนโกสินทร์)</i><br>
 <u>Phuket - Regional Special</u>: 
-- Culture of Urak Lawoi <i>(อูรักลาโว้ย / Orang Laut)</i>
+- 👲 Culture of Urak Lawoi <i>(อูรักลาโว้ย / Orang Laut)</i>
 
 
 

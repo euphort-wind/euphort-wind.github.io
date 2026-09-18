@@ -298,68 +298,69 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Concept: Russian Avos <i>(Русское Авось)</i>
-- Khokhloma Painting <i>(Хохлома)</i>
-- Zhostovo Painting <i>(Жостовская Роспись)</i>
-- Khorovod Dance <i>(Хоровод)</i>
-- Matryoshka Dolls <i>(Матрёшки)</i>
-- Painted Samovars <i>(Расписные Самовары)</i>
-- Gorodki Game <i>(Городки)</i>
-- Lapta Game <i>(Лапта)</i>
-- Dymkovo Toys <i>(Дымковские Игрушки)</i>
-- Russian Stoves <i>(Русские Печи)</i>
-- Russian Banyas <i>(Русские Бани)</i>
-- Russian Folklore <i>(Русский Фольклор)</i> 
-- Russian Cars <i>(Brands: "LADA", "GAZ", "Moskvitch", etc.)</i> 
-- Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
-- Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
-- Heritage of the Grand Principality of Moscow <i>(Великое Княжество Московское)</i>
-- Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
-- Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
+- 🦉 Authentic Concept: Russian Avos <i>(Русское Авось)</i>
+- 🎨 Khokhloma Painting <i>(Хохлома)</i>
+- 🎨 Zhostovo Painting <i>(Жостовская Роспись)</i>
+- 💃 Khorovod Dance <i>(Хоровод)</i>
+- 🏺 Matryoshka Dolls <i>(Матрёшки)</i>
+- 🏺 Painted Samovars <i>(Расписные Самовары)</i>
+- 🏺 Dymkovo Toys <i>(Дымковские Игрушки)</i>
+- 🏺 Russian Stoves <i>(Русские Печи)</i>
+- 🏓 Gorodki Game <i>(Городки)</i>
+- 🏓 Lapta Game <i>(Лапта)</i>
+- 🏃🏻 Sambo Fighting Tradition <i>(Самбо)</i>
+- 🛖 Russian Banyas <i>(Русские Бани)</i>
+- 🐦‍🔥 Russian Folklore <i>(Русский Фольклор)</i> 
+- 🚗 Russian Cars <i>(Brands: "LADA", "GAZ", "Moskvitch", etc.)</i> 
+- 🪕 Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
+- 👘 Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
+- 🏰 Heritage of the Grand Principality of Moscow <i>(Великое Княжество Московское)</i>
+- 🏰 Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
+- 🏰 Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
 <br>
 <u>Bashkortostan - Regional Special:</u> 
-- Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
-    - Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
-    - Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
-    - Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
-- Shikhan Chalk Hills <i>(Шиханы / Шихандар)</i><br>
+- 👲 Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
+    - 🐦‍🔥 Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
+    - 🐦‍🔥 Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
+    - 🪕 Authentic Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
+- ⛰️ Shikhan Chalk Hills <i>(Шиханы / Шихандар)</i><br>
 <u>Kabardino-Balkaria - Regional Special:</u> 
-- Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
-    - Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
-    - Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
-    - Balkar Bychak Knives <i>(Бичак / Бычак)</i>
-- Heritage of Princedom of Kabardia <i>(Кабарда / Къэбэрдей Пщыгъуэ)</i><br>
+- 👲 Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
+    - 🐦‍🔥 Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
+    - 🎨 Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
+    - 🏺 Balkar Bychak Knives <i>(Бичак / Бычак)</i>
+- 🏰 Heritage of Princedom of Kabardia <i>(Кабарда / Къэбэрдей Пщыгъуэ)</i><br>
 <u>Karachay-Cherkessia - Regional Special:</u> 
-- Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
-    - Authentic Concept: Circassian Xabze <i>(Хабза / Адыгэ Хабзэ)</i>
-    - Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
-    - Circassian Paganism <i>(Черкесская Религия / ТхьэлъэӀу)</i>
-    - Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
-    - Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
-- Culture of Abazins <i>(Абазины / Абаза)</i>
-- Heritage of Zichia <i>(Черкесия / Адыгэ Хэку)</i><br>
+- 👲 Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
+    - 🦉 Authentic Concept: Circassian Xabze <i>(Хабза / Адыгэ Хабзэ)</i>
+    - 🕯️ Circassian Paganism <i>(Черкесская Религия / ТхьэлъэӀу)</i>
+    - 🐦‍🔥 Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
+    - 🪕 Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
+    - 👘 Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
+- 👲 Culture of Abazins <i>(Абазины / Абаза)</i>
+- 🏰 Heritage of Zichia <i>(Черкесия / Адыгэ Хэку)</i><br>
 <u>North Ossetia - Regional Special:</u> 
-- Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
-    - Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
-    - Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
-    - Ossetian Assianism <i>(Уасдин / Уацдин)</i>
-    - Ossetian Simd Dance <i>(Симд / Синд)</i>
-    - Authentic Musical Instrument: Kisyn Fandyr <i>(Хисын Фандыр / Xъисын Фæндыр)</i>
-- Legacy of Alans <i>(Аланы / Алантæ)</i>
-- Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i><br>
+- 👲 Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
+    - 🐦‍🔥 Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
+    - 🐦‍🔥 Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
+    - 🕯️ Ossetian Assianism <i>(Уасдин / Уацдин)</i>
+    - 💃 Ossetian Simd Dance <i>(Симд / Синд)</i>
+    - 🪕 Authentic Musical Instrument: Kisyn Fandyr <i>(Хисын Фандыр / Xъисын Фæндыр)</i>
+- 🧝 Legacy of Alans <i>(Аланы / Алантæ)</i>
+- 🏰 Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i><br>
 <u>Leningrad - Regional Special:</u> 
-- Culture of Izhorians <i>(Ижоры / Ižorat)</i><br>
+- 👲 Culture of Izhorians <i>(Ижоры / Ižorat)</i><br>
 <u>St. Petersburg-City - Regional Special:</u> 
-- Petrine Baroque Architecture <i>(Петровское Барокко)</i>
-- Culture of Votians <i>(Водь / Vađđalaizõd)</i><br>
+- 🏛️ Petrine Baroque Architectural Style <i>(Петровское Барокко)</i>
+- 👲 Culture of Votians <i>(Водь / Vađđalaizõd)</i><br>
 <u>Chelyabinsk - Regional Special:</u> 
-- Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
-- Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i></br>
+- 🛠️ Kasli Iron Sculptural Tradition <i>(Каслинское Литьё)</i>
+- 👲 Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i></br>
 <u>Moscow-City - Regional Special:</u>
-- Muscovite Baroque Architecture <i>(Нарышкинское Барокко)</i>
+- 🏛️ Muscovite Baroque Architectural Style <i>(Нарышкинское Барокко)</i>
 </br>
 <u>Orenburzhie - Regional Special:</u> 
-- Orenburg Shawls <i>(Оренбургские Пуховые Платки)</i><br>
+- 👘 Authentic Garb: Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i><br>
 
 
 

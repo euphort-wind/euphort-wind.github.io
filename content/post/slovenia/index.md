@@ -100,17 +100,17 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 
 
 <b>🪔 Authentic features:</b>
-- Štajeriš Dance <i>(Štajeriš)</i>
-- Idrija Lace <i>(Idrijska Čipka)</i>
-- Kurentija Costume <i>(Kurentija)</i>
-- Slovene Quintain Game <i>(Štehvanje)</i>
-- Slovene Mythology <i>(Slovenska Mitologija)</i>
-- Authentic Garb: Gorenjska Avba <i>(Gorenjska Avba)</i> 
-- Heritage of the Carantanian Principality <i>(Karantanija / *Korǫtanъ)</i>
-- Heritage of the Duchy of Carniola <i>(Vojvodina Kranjska / Herzogtum Krain)</i>
+- 💃 Štajeriš Dance <i>(Štajeriš)</i>
+- 🎨 Idrija Lace <i>(Idrijska Čipka)</i>
+- 🎑 Kurentija Ritual <i>(Kurentija)</i>
+- 🏓 Slovene Quintain Game <i>(Štehvanje)</i>
+- 🐦‍🔥 Slovene Mythology <i>(Slovenska Mitologija)</i>
+- 👘 Authentic Garb: Gorenjska Avba <i>(Gorenjska Avba)</i> 
+- 🏰 Heritage of the Carantanian Principality <i>(Karantanija / *Korǫtanъ)</i>
+- 🏰 Heritage of the Duchy of Carniola <i>(Vojvodina Kranjska / Herzogtum Krain)</i>
 <br>
 <u>Upper Carniola - Regional Special:</u> 
-- Bled Pletna Boats <i>(Pletna)</i>
+- ⛵ Bled Pletna Boats <i>(Pletna)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

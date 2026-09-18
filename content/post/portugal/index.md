@@ -137,8 +137,8 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - 🏓 Jogo da Laranjinha Game <i>(Jogo da Laranjinha)</i>
 - ⛵ Rabelo Boats <i>(Barco Rabelo)</i>
 - 🐦‍🔥 Portuguese Folklore <i>(Folclore de Portugal)</i>    
-- 👘 Authentic Garb: Portuguese Traje <i>(Traje Típico Português)</i>
 - 🪕 Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>
+- 👘 Authentic Garb: Portuguese Traje <i>(Traje Típico Português)</i>
 - 🏰 Heritage of the Kingdom of Portugal <i>(Reino de Portugal)</i>
 - 🏰 Heritage of the Portuguese Empire <i>(Império Português)</i><br>
 <u>Lisbon - Regional Special:</u> 

@@ -363,7 +363,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 👲 Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
   - 🦉 Authentic Concept: Omerta <i>(Omertà / Ômertà)</i> 
   - 🎭 Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
-  - 🎨 Sicilian Cart Paintings <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
+  - 🎨 Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
   - 🏛️ Sicilian Baroque Architectural Style <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
   - 🏺 Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
   - 🪕 Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>

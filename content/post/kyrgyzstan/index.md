@@ -118,7 +118,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - 🏰 Heritage of the Khanate of Kokand <i>(Кокон Хандыгы / خوقند خانليغى)</i><br> 
 <u>Issyk-Kul - Regional Special:</u> 
 - 🐦‍🔥 Legends of Issyk-Kul & Cholpon <i>(Ысык-Көл жана Чолпон-Ата Легендалары)</i>
-- 🏺 Petroglyph Stones of Issyk-Kul <i>(Ысык-Көлдүн Петроглифтери)</i>
+- 🏺 Issyk-Kul Petroglyph Stones <i>(Ысык-Көлдүн Петроглифтери)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

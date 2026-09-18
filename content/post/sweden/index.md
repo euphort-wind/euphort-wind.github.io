@@ -370,32 +370,31 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Concept: Lagom <i>(Lagom)</i>
-- Hambo Dance <i>(Hambo)</i>
-- Kubb Game <i>(Kubb)</i>
-- Dala Horses <i>(Dalahästar)</i>
-- Swedish Fika <i>(Fika)</i>
-- Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
-- Swedish Fashion <i>(Brands: "Fjällräven", "H&M COS", etc.)</i>
-- Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
-- Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
-- Heritage of the Swedish Empire <i>(Stormaktstiden Sverige)</i><br>
+- 🦉 Authentic Concept: Lagom <i>(Lagom)</i>
+- 💃 Hambo Dance <i>(Hambo)</i>
+- 🏓 Kubb Game <i>(Kubb)</i>
+- 🏺 Dala Horses <i>(Dalahästar)</i>
+- 🎑 Swedish Fika Ritual <i>(Fika)</i>
+- 🚗 Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
+- 🪕 Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
+- 👘 Authentic Garb: Folkdräkter <i>(Svenska Folkdräkter)</i>
+- 🏰 Heritage of the Swedish Empire <i>(Stormaktstiden Sverige)</i><br>
 <u>Gotland - Regional Special:</u> 
-- Legacy of Gutes <i>(Gutar)</i>
-    - Pärk Game <i>(Pärk)</i>
-    - Varpa Game <i>(Varpa)</i>
-    - Guta Saga <i>(Gutasagan)</i>
-    - Gotland Picture Stones <i>(Bildstenar)</i>
-- Rauk Landforms <i>(Raukar)</i><br>
+- 🧝 Legacy of Gutes <i>(Gutar)</i>
+    - 🏓 Pärk Game <i>(Pärk)</i>
+    - 🏓 Varpa Game <i>(Varpa)</i>
+    - 🐦‍🔥 Guta Saga <i>(Gutasagan)</i>
+    - 🏺 Gotland Picture Stones <i>(Bildstenar)</i>
+- ⛰️ Rauk Landforms <i>(Raukar)</i><br>
 <u>Jämtland - Regional Special:</u> 
-- Överhogdal Tapestry <i>(Överhogdalstapeten)</i><br>
+- 🎨 Överhogdal Tapestry <i>(Överhogdalstapeten)</i><br>
 <u>Halland - Regional Special:</u> 
-- Bonad Painting <i>(Bonadsmålning)</i><br>
+- 🎨 Bonad Painting <i>(Bonadsmålning)</i><br>
 <u>Västra Götaland - Regional Special:</u> 
-- Legacy of Geates <i>(Götar)</i>
-    - Domarrings <i>(Domarringar)</i>
-    - Stone Ships <i>(Skeppssättning)</i>
-    - Elder Futhark Runic Alphabet <i>(Äldre Futhark / ᚠᚢᚦᚨᚱᚲ)</i>
+- 🧝 Legacy of Geates <i>(Götar)</i>
+    - 🛖 Domarrings <i>(Domarringar)</i>
+    - 🛖 Stone Ships <i>(Skeppssättning)</i>
+    - 🔠 Elder Futhark Runic Alphabet <i>(Äldre Futhark / ᚠᚢᚦᚨᚱᚲ)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June

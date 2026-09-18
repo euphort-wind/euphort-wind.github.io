@@ -301,11 +301,11 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🛖 French Carousels <i>(Carrousel)</i>
 - 🎨 Point de France Lace <i>(Point de France)</i>
 - 🎨 Aubusson Tapestry <i>(Tapisserie d'Aubusson)</i>
+- 🎨 French Impressionist Paintings <i>(Peinture Impressionniste)</i>
 - 🏃🏻 Equitation Tradition <i>(Équitation)</i>
 - 🏃🏻 Parkour Tradition <i>(Parkour)</i>
 - 🏃🏻 Savate Boxing Tradition <i>(Savate)</i>
 - 👑 System of Compagnonnage <i>(Compagnonnage)</i>
-- 🎨 French Impressionist Paintings <i>(Peinture Impressionniste)</i>
 - 🏛️ French Baroque Architectural Style <i>(Architecture Baroque Française)</i>
 - 🏛️ French Neoclassical Architectural Style <i>(Architecture Néoclassique Française)</i>
 - 🏛️ French Rococo Architectural Style <i>(Architecture Rococo Française)</i>

@@ -165,30 +165,27 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 
 
 <b>🪔 Authentic features:</b>
-- Halay Dance <i>(Halay)</i>
-- Meddahs & Meddahlık <i>(Meddahlar ve Meddahlık)</i>
-- Iznik Pottery <i>(İznik Çinisi)</i>
-- Oil Wrestling <i>(Yağlı Güreş)</i>
-- Oryantal Dance <i>(Oryantal Dans)</i>
-- Okey Game <i>(Okey)</i>
-- Mangala Game <i>(Mangala)</i>
-- Turkish Hammams <i>(Hamam)</i>
-- Turkish Television Drama <i>(Türk Dizileri)</i>
-- Turkic Mythology <i>(Türk Mitolojisi)</i>
-- Authentic Musical Instrument: Bağlama <i>(Bağlama)</i> 
-- Authentic Garb: Shalvar & Yelek <i>(Şalvar ve Yelek)</i>
-- Legacy of Phrygians <i>(Frigler)</i>
-- Heritage of the Hittite Empire <i>(Hititler / 𒄩𒀜𒌅𒊭)</i>
-- Heritage of the Kingdom of Lydia <i>(Lidya / 𐤮𐤱𐤠𐤭𐤣𐤠)</i>
-- Heritage of the Kingdom of Pontus <i>(Pontus Krallığı / Πόντος)</i>
-- Heritage of the Seljuk Sultanate of Rum <i>(Anadolu Selçukluları / سلجوقیان روم)</i>
-- Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i><br>
-<u>İstanbul - Regional Special:</u> 
-- Istanbul Feral Cats <i>(Sokak Kedisi)</i><br>
+- 💃 Halay Dance <i>(Halay)</i>
+- 💃 Oryantal Dance <i>(Oryantal Dans)</i>
+- 🎭 Meddahs & Meddahlık <i>(Meddahlar ve Meddahlık)</i>
+- 🛠️ Iznik Pottery Tradition <i>(İznik Çinisi)</i>
+- 🏃🏻 Oil Wrestling Tradition <i>(Yağlı Güreş)</i>
+- 🏓 Okey Game <i>(Okey)</i>
+- 🏓 Mangala Game <i>(Mangala)</i>
+- 🛖 Turkish Hammams <i>(Hamam)</i>
+- 🐦‍🔥 Turkic Mythology <i>(Türk Mitolojisi)</i>
+- 🪕 Authentic Musical Instrument: Bağlama <i>(Bağlama)</i> 
+- 👘 Authentic Garb: Shalvar & Yelek <i>(Şalvar ve Yelek)</i>
+- 🧝 Legacy of Phrygians <i>(Frigler)</i>
+- 🏰 Heritage of the Hittite Empire <i>(Hititler / 𒄩𒀜𒌅𒊭)</i>
+- 🏰 Heritage of the Kingdom of Lydia <i>(Lidya / 𐤮𐤱𐤠𐤭𐤣𐤠)</i>
+- 🏰 Heritage of the Kingdom of Pontus <i>(Pontus Krallığı / Πόντος)</i>
+- 🏰 Heritage of the Seljuk Sultanate of Rum <i>(Anadolu Selçukluları / سلجوقیان روم)</i>
+- 🏰 Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i><br>
 <u>Antalya - Regional Special:</u> 
-- Düğmeli Houses <i>(Düğmeli Evler)</i><br>
+- 🛖 Düğmeli Houses <i>(Düğmeli Evler)</i><br>
 <u>Muğla - Regional Special:</u> 
-- Legacy of Lycians <i>(Likyalılar / 𐊗𐊕𐊐𐊎𐊆𐊍𐊆)</i>
+- 🧝 Legacy of Lycians <i>(Likyalılar / 𐊗𐊕𐊐𐊎𐊆𐊍𐊆)</i>
 
 
 

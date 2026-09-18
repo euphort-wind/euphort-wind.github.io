@@ -209,6 +209,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - 🏰 Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
   - 🐦‍🔥 Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
   - 👑 Title of Stadtholder <i>(Stadhouder)</i>
+  - ⛵ Dutch Barge Boats <i>(Schuit)</i>
   - 🎨 Dutch Golden Age Paintings <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
   - 🏛️ Dutch Baroque Architectural Style <i>(Nederlandse Barokarchitectuur)</i>
 - 🏰 Heritage of the Dutch Empire <i>(Nederlandse Rijk)</i>
