@@ -198,34 +198,34 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Concept: Gezelligheid <i>(Gezelligheid)</i>
-- Cycling Tradition <i>(Het Fietsen)</i>
-- Sjoelen Game <i>(Sjoelen)</i>
-- Canal Houses <i>(Grachtenpanden)</i>
-- Dutch Windmills <i>(Windmolens)</i>
-- Dutch Canals & Polders <i>(Kanalen en Polders)</i>
-- Authentic Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
-- Authentic Garb: Dutch Cap & Klomps <i>(Nederlandse Bonnet en Klompen)</i>
-- Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
-  - Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
-  - Title of Stadtholder <i>(Stadhouder)</i>
-  - Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
-  - Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i>
-- Heritage of the Dutch Empire <i>(Nederlandse Rijk)</i>
+- 🦉 Authentic Concept: Gezelligheid <i>(Gezelligheid)</i>
+- 🏃🏻 Cycling Tradition <i>(Het Fietsen)</i>
+- 🏓 Sjoelen Game <i>(Sjoelen)</i>
+- 🛖 Canal Houses <i>(Grachtenpanden)</i>
+- 🛖 Dutch Windmills <i>(Windmolens)</i>
+- ⛰️ Dutch Canals & Polders <i>(Kanalen en Polders)</i>
+- 🪕 Authentic Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
+- 👘 Authentic Garb: Dutch Cap & Klomps <i>(Nederlandse Bonnet en Klompen)</i>
+- 🏰 Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
+  - 🐦‍🔥 Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
+  - 👑 Title of Stadtholder <i>(Stadhouder)</i>
+  - 🎨 Dutch Golden Age Paintings <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
+  - 🏛️ Dutch Baroque Architectural Style <i>(Nederlandse Barokarchitectuur)</i>
+- 🏰 Heritage of the Dutch Empire <i>(Nederlandse Rijk)</i>
 <br>
 <u>Utrecht - Regional Special:</u> 
-- De Stijl Architecture <i>(De Stijl Architectuur)</i><br>
+- 🏛️ De Stijl Architectural Style <i>(De Stijl Architectuur)</i><br>
 <u>South Holland - Regional Special:</u> 
-- Wall Poems in Leiden <i>(Muurgedichten in Leiden)</i>
-- Delftware <i>(Delfts Blauw)</i><br>
+- 🏺 Leiden Wall Poems <i>(Muurgedichten in Leiden)</i>
+- 🎨 Delftware <i>(Delfts Blauw)</i><br>
 <u>Friesland - Regional Special:</u> 
-- Culture of Frisians <i>(Friezen / Friezen)</i>
-  - Authentic Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
-  - Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
-  - Fierljeppen Sport <i>(Polsstokverspringen / Fierljeppen)</i> 
-  - Frisian Handball <i>(Kaatsen / Keatsen)</i> 
-  - Skûtsjes Sailing Boats <i>(Skûtsje / Skûtsje)</i>
-  - Authentic Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
+- 👲 Culture of Frisians <i>(Friezen / Friezen)</i>
+  - 🦉 Authentic Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
+  - 🏃🏻 Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
+  - 🏃🏻 Fierljeppen Tradition <i>(Polsstokverspringen / Fierljeppen)</i> 
+  - 🏃🏻 Frisian Handball Tradition <i>(Kaatsen / Keatsen)</i> 
+  - ⛵ Skûtsjes Boats <i>(Skûtsje / Skûtsje)</i>
+  - 👘 Authentic Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
  
 <b>🎊 Authentic holidays & celebrations:</b>
 - King's Day <i>(Koningsdag)</i>. Month: April

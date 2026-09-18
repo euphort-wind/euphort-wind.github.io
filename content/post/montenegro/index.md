@@ -119,21 +119,21 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Concept: Čojstvo <i>(Чојство)</i>
-- Montenegrin Oro Dance <i>(Црногорско Оро)</i>
-- Authentic Garb: Montenegrin Cap <i>(Црногорска Капа)</i>
-- Heritage of the Kingdom of Duklja <i>(Дукља / Διόκλεια)</i>
-- Heritage of the Kingdom of Zeta <i>(Зета)</i>
-- Heritage of the Prince-Bishopric of Montenegro <i>(Митрополство Црногорско)</i>
-  - System of Montenegrin Tribes <i>(Племена Црне Горе)</i>
-  - Title of Vladika of Montenegro <i>(Владика)</i>
-  - Title of Guvernadur <i>(Гувернадур)</i>
-- Heritage of the Principality of Montenegro <i>(Књажевина Црна Горa)</i>
-- Heritage of the Kingdom of Montenegro <i>(Краљевина Црна Гора)</i>
+- 🦉 Authentic Concept: Čojstvo <i>(Чојство)</i>
+- 💃 Montenegrin Oro Dance <i>(Црногорско Оро)</i>
+- 👘 Authentic Garb: Montenegrin Cap <i>(Црногорска Капа)</i>
+- 🏰 Heritage of the Kingdom of Duklja <i>(Дукља / Διόκλεια)</i>
+- 🏰 Heritage of the Kingdom of Zeta <i>(Зета)</i>
+- 🏰 Heritage of the Prince-Bishopric of Montenegro <i>(Митрополство Црногорско)</i>
+  - 👑 System of Montenegrin Tribes <i>(Племена Црне Горе)</i>
+  - 👑 Title of Vladika of Montenegro <i>(Владика)</i>
+  - 👑 Title of Guvernadur <i>(Гувернадур)</i>
+- 🏰 Heritage of the Principality of Montenegro <i>(Књажевина Црна Горa)</i>
+- 🏰 Heritage of the Kingdom of Montenegro <i>(Краљевина Црна Гора)</i>
 <br>
 <u>Coastal Montenegro - Regional Special:</u> 
-- Legends of Kotor <i>(Легенде о Настанку Котора)</i>
-- Dobrota Lace <i>(Добротска Чипка)</i>
+- 🐦‍🔥 Legends of Kotor <i>(Легенде о Настанку Котора)</i>
+- 🎨 Dobrota Lace <i>(Добротска Чипка)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

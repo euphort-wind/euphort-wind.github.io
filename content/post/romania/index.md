@@ -153,38 +153,38 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 
 
 <b>🪔 Authentic features:</b>
-- Doina Song <i>(Doina)</i>
-- Ballad of Miorița <i>(Miorița)</i>
-- Paparuda Ritual <i>(Paparudă)</i> 
-- Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
-- Oină Game <i>(Oină)</i>
-- Romanian Horă Dance <i>(Horă)</i>
-- Romanian Folklore <i>(Folclorul Românesc)</i>
-- Romanian Cars <i>(Brand: "Dacia")</i>
-- Authentic Garb: Pieptar & Romanian Ie <i>(Pieptar și Ie)</i> 
-- Authentic Musical Instrument: Romanian Nai <i>(Nai)</i> 
-- Culture of Romani <i>(Romi / Romane Manusha)</i>
-  - Authentic Concept: Romanipen <i>(Romanipenul / Romanipen)</i>
-  - Lăutari & Lăutărească Music <i>(Lăutari Muzica și Lăutărească / Lăutari thaj Lăutărească Muzika)</i> 
-  - Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
-  - Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
-  - Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
-- Legacy of Dacians <i>(Dacii)</i>
-- Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
-- Heritage of the Principality of Transylvania <i>(Principatul Transilvaniei / Erdélyi Fejedelemség)</i>
-- Heritage of the United Principalities <i>(Principatele Unite Române)</i>
-- Heritage of the Kingdom of Romania <i>(Regatul României)</i><br>
+- 🎙️ Doina Singing <i>(Doina)</i>
+- 🐦‍🔥 Ballad of Miorița <i>(Miorița)</i>
+- 🎑 Paparuda Ritual <i>(Paparudă)</i> 
+- 🏛️ Brâncovenesc Architectural Style <i>(Artă Brâncovenească)</i> 
+- 🏓 Oină Game <i>(Oină)</i>
+- 💃 Romanian Horă Dance <i>(Horă)</i>
+- 🐦‍🔥 Romanian Folklore <i>(Folclorul Românesc)</i>
+- 🚗 Romanian Cars <i>(Brand: "Dacia")</i>
+- 👘 Authentic Garb: Pieptar & Romanian Ie <i>(Pieptar și Ie)</i> 
+- 🪕 Authentic Musical Instrument: Romanian Nai <i>(Nai)</i> 
+- 👲 Culture of Romani <i>(Romi / Romane Manusha)</i>
+  - 🦉 Authentic Concept: Romanipen <i>(Romanipenul / Romanipen)</i>
+  - 🎙️ Lăutari & Lăutărească Music <i>(Lăutari Muzica și Lăutărească / Lăutari thaj Lăutărească Muzika)</i> 
+  - 👑 Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
+  - 🐦‍🔥 Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
+  - 👘 Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
+- 🧝 Legacy of Dacians <i>(Dacii)</i>
+- 🏰 Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
+- 🏰 Heritage of the Principality of Transylvania <i>(Principatul Transilvaniei / Erdélyi Fejedelemség)</i>
+- 🏰 Heritage of the United Principalities <i>(Principatele Unite Române)</i>
+- 🏰 Heritage of the Kingdom of Romania <i>(Regatul României)</i><br>
 <u>Covasna - Regional Special:</u> 
-- Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
-  - Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐲘𐳀𐳎𐳀𐳢 𐲢𐳛𐳮𐳁𐳤)</i>
-  - Székely Gates <i>(Poartă Secuiască / Székelykapu)</i>
-  - Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i>
-- Covasna Mofettes <i>(Mofetele din Covasna / A Kovásznai Mofetták)</i><br>
+- 👲 Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
+  - 🔠 Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐲘𐳀𐳎𐳀𐳢 𐲢𐳛𐳮𐳁𐳤)</i>
+  - 🏺 Székely Gates <i>(Poartă Secuiască / Székelykapu)</i>
+  - 🕯️ Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i>
+- ⛰️ Covasna Mofettes <i>(Mofetele din Covasna / A Kovásznai Mofetták)</i><br>
 <u>Brașov - Regional Special:</u> 
-- Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
-  - Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
-  - Königinnentanz Dance <i>(Dansul Reginelor / Königinnentanz)</i>
-  - Authentic Garb: Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>
+- 👲 Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
+  - 🛖 Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
+  - 💃 Königinnentanz Dance <i>(Dansul Reginelor / Königinnentanz)</i>
+  - 👘 Authentic Garb: Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>
  
 
 <b>🎊 Authentic holidays & celebrations:</b>

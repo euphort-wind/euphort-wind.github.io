@@ -147,7 +147,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - 🎙️ Klapa Singing <i>(Klapa)</i>
 <br><u>Dubrovnik-Neretva - Regional Special:</u> 
 - 💃 Linđo Dance <i>(Linđo)</i>
-- 🏺 Neretva Ladja Boats <i>(Neretvanske Lađe)</i>
+- ⛵ Neretva Ladja Boats <i>(Neretvanske Lađe)</i>
 - 🎨 Konavle Embroidery <i>(Konavoski Vez)</i>
 - 🪕 Authentic Musical Instrument: Lijerica <i>(Lijerica)</i>
 - 🏰 Heritage of the Republic of Ragusa <i>(Dubrovačka Republika / Republica de Ragusa)</i>

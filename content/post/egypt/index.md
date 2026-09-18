@@ -113,6 +113,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - 🏛️ Ancient Egyptian Architectural Style <i>(العمارة المصرية القديمة / 𓉐)</i>
   - 🕯️ Ancient Egyptian Religion <i>(ديانة قدماء المصريين / 𓊹𓌃)</i>
   - 🏺 Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة / 𓍔𓏲)</i>
+  - ⛵ Ancient Egyptian Royal Ships <i>(مراكب الشمس / 𓊛)</i>
   - 🪕 Authentic Musical Instrument: Sistrum <i>(السيستروم / 𓊃𓈙𓈙𓏏𓏣)</i>
   - 👘 Authentic Garb: Khat & Shendyt <i>(الخات والشنديت / 𓄡𓂧𓏏𓋜 𓈖𓎛𓂋 𓈙𓈖𓂋𓏏𓋚)</i>
 - 🏰 Heritage of the Ptolemaic Kingdom <i>(المملكه البطلميه / Πτολεμαϊκὴ βασιλεία)</i>
