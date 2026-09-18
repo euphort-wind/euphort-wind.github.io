@@ -97,17 +97,17 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 
 
 <b>🪔 Authentic features:</b>
-- Daina Music <i>(Dainas)</i> 
-- Novuss Game <i>(Novuss)</i>
-- Legend of Lāčplēsis <i>(Lāčplēsis: Eposs)</i>
-- Latvian Mythology <i>(Latviešu Mitoloģija)</i> 
-- Authentic Musical Instrument: Kokle <i>(Kokle)</i> 
-- Authentic Garb: Latvian Belt <i>(Lielvārdes Josta)</i> 
-- Heritage of the Livonian Confederation <i>(Livonijas Konfederācija / Terra Mariana)</i><br>
+- 🎙️ Daina Music <i>(Dainas)</i> 
+- 🏓 Novuss Game <i>(Novuss)</i>
+- 🐦‍🔥 Legend of Lāčplēsis <i>(Lāčplēsis: Eposs)</i>
+- 🐦‍🔥 Latvian Mythology <i>(Latviešu Mitoloģija)</i> 
+- 🪕 Authentic Musical Instrument: Kokle <i>(Kokle)</i> 
+- 👘 Authentic Garb: Latvian Belt <i>(Lielvārdes Josta)</i> 
+- 🏰 Heritage of the Livonian Confederation <i>(Livonijas Konfederācija / Terra Mariana)</i><br>
 <u>Riga - Regional Special:</u> 
-- Riga Art Nouveau Architecture <i>(Jūgendstila Arhitektūra Rīgā)</i><br>
+- 🏛️ Riga Art Nouveau Architectural Style <i>(Jūgendstila Arhitektūra Rīgā)</i><br>
 <u>Kurzeme - Regional Special:</u> 
-- Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
+- 👲 Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

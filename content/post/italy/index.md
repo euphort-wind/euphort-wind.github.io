@@ -328,11 +328,6 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🐦‍🔥 Italian Folklore <i>(Folclore d'Italia)</i> 
 - 🚗 Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>
 - 🪕 Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
-- 🧝 Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i>
-  - 👑 Title of Lucumo <i>(Lucumone)</i> 
-  - 🕯️ Ancient Etruscan Religion <i>(Religione Etrusca)</i> 
-  - 🔠 Ancient Etruscan Alphabet <i>(Alfabeto Etrusco)</i> 
-  - 🛠️ Bucchero Pottery Tradition <i>(Bucchero)</i> 
 - 🏰 Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
 - 🏰 Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
   - 🦉 Authentic Concept: Mos Maiorum <i>(Mos Maiorum)</i> 
@@ -349,7 +344,12 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 <u>Lazio - Regional Special:</u> 
 - 🏺 Nasoni <i>(Nasoni)</i><br> 
 <u>Tuscany - Regional Special:</u> 
-- 🎑 Scoppio del Carro Ritual <i>(Scoppio del Carro)</i> 
+- 🎑 Scoppio del Carro Ritual <i>(Scoppio del Carro)</i>
+- 🧝 Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i>
+  - 👑 Title of Lucumo <i>(Lucumone)</i> 
+  - 🕯️ Ancient Etruscan Religion <i>(Religione Etrusca)</i> 
+  - 🔠 Ancient Etruscan Alphabet <i>(Alfabeto Etrusco)</i> 
+  - 🛠️ Bucchero Pottery Tradition <i>(Bucchero)</i> 
 - 🏰 Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
   - 🎨 Medici Porcelain <i>(Porcellane Medicee)</i>
   - 🏛️ Italian Renaissance Architectural Style <i>(Architettura Rinascimentale)</i>
