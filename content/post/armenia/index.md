@@ -168,33 +168,33 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 
 
 <b>🪔 Authentic features:</b>
-- Gusans & Gusan Songs <i>(Գուսաններ և Գուսան երգեր)</i>
-- Khachkars <i>(խաչքար)</i>
-- Pulpulaks <i>(պուլպուլակ)</i>
-- Kochari Dance <i>(Քոչարի)</i>
-- Berd Dance <i>(Բերդ)</i>
-- Oriental Orthodoxy <i>(Արևելյան ուղղափառ եկեղեցիներ)</i>
-- Title of Catholicos of All Armenians <i>(Ամենայն Հայոց Կաթողիկոս)</i>
-- Title of Nakharar <i>(նախարար)</i>
-- Epos of David of Sassoun <i>(Սասնա ծռեր)</i>
-- Armenian Alphabet <i>(Հայոց գրեր)</i>
-- Armenian Carpets <i>(Հայկական գորգ)</i>
-- Armenian Mythology <i>(Հայկական դիցաբանություն)</i>
-- Armenian Illuminated Manuscripts <i>(Հայկական մանրանկարչություն)</i>
-- Authentic Musical Instrument: Armenian Duduk <i>(դուդուկ)</i>
-- Authentic Garb: Armenian Taraz <i>(տարազ)</i>
-- Heritage of Urartu <i>(Վանի թագավորություն / 𒁉𒀀𒉌𒇷)</i>
-  - Urartian Religion <i>(Վանի թագավորության կրոն)</i>
-  - Urartian Mythology <i>(Ուրարտական ​​դիցաբանություն)</i>
-  - Urartian Architecture <i>(Ուրարտուի ճարտարապետությունը)</i>
-  - Urartian Pottery <i>(Ուրարտական ​​խեցեղեն)</i>
-  - Urartian Rhytons <i>(Ուրարտական ​​ռիտոն)</i>
-  - Vishapakars <i>(Վիշապաքար)</i>
-- Heritage of the Kingdom of Greater Armenia <i>(Մեծ Հայք / Armenia Maior)</i>
-- Heritage of Bagratid Armenia <i>(Բագրատունիների թագավորություն)</i><br>
+- 🎙️ Gusans & Gusan Songs <i>(Գուսաններ և Գուսան երգեր)</i>
+- 🏺 Khachkars <i>(խաչքար)</i>
+- 🏺 Pulpulaks <i>(պուլպուլակ)</i>
+- 💃 Kochari Dance <i>(Քոչարի)</i>
+- 💃 Berd Dance <i>(Բերդ)</i>
+- 🕯️ Oriental Orthodoxy <i>(Արևելյան ուղղափառ եկեղեցիներ)</i>
+- 👑 Title of Catholicos of All Armenians <i>(Ամենայն Հայոց Կաթողիկոս)</i>
+- 👑 Title of Nakharar <i>(նախարար)</i>
+- 🐦‍🔥 Epos of David of Sassoun <i>(Սասնա ծռեր)</i>
+- 🐦‍🔥 Armenian Mythology <i>(Հայկական դիցաբանություն)</i>
+- 🔠 Armenian Alphabet <i>(Հայոց գրեր)</i>
+- 🎨 Armenian Carpets <i>(Հայկական գորգ)</i>
+- 🎨 Armenian Illuminated Manuscripts <i>(Հայկական մանրանկարչություն)</i>
+- 🪕 Authentic Musical Instrument: Armenian Duduk <i>(դուդուկ)</i>
+- 👘 Authentic Garb: Armenian Taraz <i>(տարազ)</i>
+- 🏰 Heritage of Urartu <i>(Վանի թագավորություն / 𒁉𒀀𒉌𒇷)</i>
+  - 🕯️ Urartian Religion <i>(Վանի թագավորության կրոն)</i>
+  - 🐦‍🔥 Urartian Mythology <i>(Ուրարտական ​​դիցաբանություն)</i>
+  - 🏛️ Urartian Architectural Style <i>(Ուրարտուի ճարտարապետությունը)</i>
+  - 🛠️ Urartian Pottery Tradition <i>(Ուրարտական ​​խեցեղեն)</i>
+  - 🏺 Urartian Rhytons <i>(Ուրարտական ​​ռիտոն)</i>
+  - 🏺 Vishapakars <i>(Վիշապաքար)</i>
+- 🏰 Heritage of the Kingdom of Greater Armenia <i>(Մեծ Հայք / Armenia Maior)</i>
+- 🏰 Heritage of Bagratid Armenia <i>(Բագրատունիների թագավորություն)</i><br>
 <u>Shirak - Regional Special:</u> 
-- Gyumri Klklans <i>(Գյումրվա կլկլան)</i>
-- Gyumri Blacksmithing Tradition <i>(Գյումրիի դարբնության ավանդույթ)</i>
+- 🏺 Gyumri Klklans <i>(Գյումրվա կլկլան)</i>
+- 🛠️ Gyumri Blacksmithing Tradition <i>(Գյումրիի դարբնության ավանդույթ)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

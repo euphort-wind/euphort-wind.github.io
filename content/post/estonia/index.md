@@ -104,18 +104,17 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 
 
 <b>🪔 Authentic features:</b>
-- Epic of Kalevipoeg <i>(Kalevipoeg: Eesti Rahva Eepos)</i>
-- Kiiking <i>(Kiiking)</i>
-- Estonian Mythology <i>(Eesti Mütoloogia)</i>
-- Estonian Runic Singing <i>(Regilaul)</i>
-- Estonian E-Government <i>(E-Riik)</i>
-- Authentic Musical Instrument: Kannel <i>(Kannel)</i><br>
+- 🐦‍🔥 Epic of Kalevipoeg <i>(Kalevipoeg: Eesti Rahva Eepos)</i>
+- 🐦‍🔥 Estonian Mythology <i>(Eesti Mütoloogia)</i>
+- 🏃🏻 Kiiking Tradition <i>(Kiiking)</i>
+- 🎙️ Estonian Runic Singing <i>(Regilaul)</i>
+- 🪕 Authentic Musical Instrument: Kannel <i>(Kannel)</i><br>
 <u>Võru - Regional Special:</u> 
-- Võro Smoke Saunas <i>(Suitsusaun / Savvusann)</i>
-- Culture of Setos <i>(Setukesed / Setokõsõq)</i>
-  - Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
-  - Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
-  - Title of Ülemsootska <i>(Ülemsootska / Ülembsootśka)</i>
+- 🛖 Võro Smoke Saunas <i>(Suitsusaun / Savvusann)</i>
+- 👲 Culture of Setos <i>(Setukesed / Setokõsõq)</i>
+  - 🎙️ Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
+  - 🐦‍🔥 Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
+  - 👑 Title of Ülemsootska <i>(Ülemsootska / Ülembsootśka)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

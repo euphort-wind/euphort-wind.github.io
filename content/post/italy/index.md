@@ -316,75 +316,72 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Concept: La Dolce Vita <i>(La Dolce Vita)</i> 
-- Latin Alphabet <i>(Alfabeto Latino)</i> 
-- Tarantella Dance <i>(Tarantella)</i> 
-- Maiolica Pottery <i>(Maiolica)</i> 
-- Bocce Game <i>(Bocci)</i> 
-- Morra Game <i>(Morra)</i>
-- Pallone Game <i>(Pallone)</i>
-- Italian Neoclassical Architecture <i>(Architettura Neoclassica Italiana)</i> 
-- Italian Baroque Painting <i>(Pittura Barocca Italiana)</i> 
-- Italian Folklore <i>(Folclore d'Italia)</i> 
-- Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>
-- Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
-- Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i>
-  - Title of Lucumo <i>(Lucumone)</i> 
-  - Ancient Etruscan Religion <i>(Religione Etrusca)</i> 
-  - Ancient Etruscan Alphabet <i>(Alfabeto Etrusco)</i> 
-  - Ancient Etruscan Vase Painting <i>(Pittura Vascolare Etrusca)</i> 
-  - Ancient Bucchero Ceramics <i>(Bucchero)</i> 
-- Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
-- Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
-  - Harpastum Game <i>(Harpastum)</i> 
-  - Trigon Game <i>(Trigon)</i>
-  - Title of Pater Patriae <i>(Pater Patriae)</i> 
-  - Ancient Roman Mythology <i>(Mitologia Romana Antica)</i>
-  - Ancient Roman Architecture <i>(Architettura Romana Antica)</i>
-  - Ancient Roman Sculpture <i>(Scultura Romana Antica)</i>
-  - Ancient Roman Roads <i>(Antiche Strade Romane)</i> 
-  - Ancient Roman Religion <i>(Religione Romana Antica)</i> 
-  - Ancient Authentic Musical Instrument: Cornu <i>(Cornu)</i> 
-  - Ancient Authentic Garb: Toga & Palla <i>(Toga e Palla)</i>
-- Heritage of the Kingdom of Italy <i>(Regno d'Italia)</i><br>
+- 🦉 Authentic Concept: La Dolce Vita <i>(La Dolce Vita)</i> 
+- 🔠 Latin Alphabet <i>(Alfabeto Latino)</i> 
+- 💃 Tarantella Dance <i>(Tarantella)</i> 
+- 🛠️ Maiolica Pottery Tradition <i>(Maiolica)</i> 
+- 🏓 Bocce Game <i>(Bocci)</i> 
+- 🏓 Morra Game <i>(Morra)</i>
+- 🏓 Pallone Game <i>(Pallone)</i>
+- 🎨 Italian Baroque Paintings <i>(Pittura Barocca Italiana)</i> 
+- 🏛️ Italian Neoclassical Architectural Style <i>(Architettura Neoclassica Italiana)</i> 
+- 🐦‍🔥 Italian Folklore <i>(Folclore d'Italia)</i> 
+- 🚗 Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>
+- 🪕 Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
+- 🧝 Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i>
+  - 👑 Title of Lucumo <i>(Lucumone)</i> 
+  - 🕯️ Ancient Etruscan Religion <i>(Religione Etrusca)</i> 
+  - 🔠 Ancient Etruscan Alphabet <i>(Alfabeto Etrusco)</i> 
+  - 🛠️ Bucchero Pottery Tradition <i>(Bucchero)</i> 
+- 🏰 Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
+- 🏰 Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
+  - 🦉 Authentic Concept: Mos Maiorum <i>(Mos Maiorum)</i> 
+  - 🏓 Harpastum Game <i>(Harpastum)</i> 
+  - 🏓 Trigon Game <i>(Trigon)</i>
+  - 👑 Title of Pater Patriae <i>(Pater Patriae)</i> 
+  - 🐦‍🔥 Ancient Roman Mythology <i>(Mitologia Romana Antica)</i>
+  - 🏛️ Ancient Roman Architectural Style <i>(Architettura Romana Antica)</i>
+  - 🛠️ Ancient Roman Sculptural Tradition <i>(Scultura Romana Antica)</i>
+  - 🕯️ Ancient Roman Religion <i>(Religione Romana Antica)</i> 
+  - 🪕 Authentic Musical Instrument: Cornu <i>(Cornu)</i> 
+  - 👘 Authentic Garb: Toga & Palla <i>(Toga e Palla)</i>
+- 🏰 Heritage of the Kingdom of Italy <i>(Regno d'Italia)</i><br>
 <u>Lazio - Regional Special:</u> 
-- Nasoni <i>(Nasoni)</i><br> 
+- 🏺 Nasoni <i>(Nasoni)</i><br> 
 <u>Tuscany - Regional Special:</u> 
-- Scoppio del Carro Easter Tradition <i>(Scoppio del Carro)</i> 
-- Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
-  - Medici Porcelain <i>(Porcellane Medicee)</i>
-  - Italian Renaissance Architecture <i>(Architettura Rinascimentale)</i>
-  - Italian Renaissance Painting <i>(Pittura Rinascimentale)</i>
-- Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i><br> 
+- 🎑 Scoppio del Carro Ritual <i>(Scoppio del Carro)</i> 
+- 🏰 Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
+  - 🎨 Medici Porcelain <i>(Porcellane Medicee)</i>
+  - 🏛️ Italian Renaissance Architectural Style <i>(Architettura Rinascimentale)</i>
+  - 🎨 Italian Renaissance Paintings <i>(Pittura Rinascimentale)</i>
+- 🏰 Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i><br> 
 <u>Emilia-Romagna - Regional Special:</u> 
-- Liscio Dance <i>(Ballo Liscio)</i> 
-- Porticoes of Bologna <i>(Portici di Bologna)</i>
-- Towers of Bologna <i>(Torri di Bologna)</i><br>
+- 💃 Liscio Dance <i>(Ballo Liscio)</i> 
+- 🛖 Porticoes of Bologna <i>(Portici di Bologna)</i>
+- 🛖 Towers of Bologna <i>(Torri di Bologna)</i><br>
 <u>Sicily - Regional Special:</u> 
-- Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
-  - Authentic Concept: Omerta <i>(Omertà / Ômertà)</i> 
-  - Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
-  - Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
-  - Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
-  - Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
-  - Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
-- Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i><br> 
+- 👲 Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
+  - 🦉 Authentic Concept: Omerta <i>(Omertà / Ômertà)</i> 
+  - 🎭 Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
+  - 🎨 Sicilian Cart Paintings <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
+  - 🏛️ Sicilian Baroque Architectural Style <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
+  - 🏺 Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
+  - 🪕 Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
+- 🏰 Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i><br> 
 <u>Campania - Regional Special:</u> 
-- Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
-- Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
-- Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
-- Canzone Napoletana <i>(Canzone Napoletana / Canzona Napulitana)</i> 
-- Strummolo Game <i>(Strummolo / Strummolo)</i> 
-- Tombola Game <i>(Tombola / Tombola)</i> 
-- Tarantella Napoletana <i>(Tarantella Napoletana / Tarantella Napulitana)</i> 
-- Caffè Sospeso Tradition <i>(Caffè Sospeso / Cafè Suspiso)</i> 
-- Southern Quartet of Commedia dell'Arte Masks <i>(Pulcinella, Tartaglia, Scaramuccia, Coviello / Pulecenella, Tartaglia, Scaramuccia, Cuvielle)</i>
-- Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i><br> 
+- 🏺 Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
+- 🏺 Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
+- 🎨 Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
+- 🎙️ Canzone Napoletana Music <i>(Canzone Napoletana / Canzona Napulitana)</i> 
+- 🏓 Strummolo Game <i>(Strummolo / Strummolo)</i> 
+- 🏓 Tombola Game <i>(Tombola / Tombola)</i> 
+- 🎑 Caffè Sospeso Ritual <i>(Caffè Sospeso / Cafè Suspiso)</i> 
+- 🎭 Neapolitan Puppetry <i>(Guarattelle Napoletane / Guarattelle Napulitane)</i>
+- 🏰 Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i><br> 
 <u>Lombardy - Regional Special:</u> 
-- Italian Fashion <i>(Brands: "Gucci", "Prada", "Versace", etc.)</i> 
-- Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
-- Navigli of Milan <i>(Navigli / Navili)</i>
-- Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
+- 💃 Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
+- ⛰️ Navigli of Milan <i>(Navigli / Navili)</i>
+- 🏰 Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
 
 
 

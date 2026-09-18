@@ -295,59 +295,52 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Concept: L'Art de Vivre <i>(L'Art de Vivre)</i>
-- Can-Can Dance <i>(Cancan)</i>
-- Bourrée Dance <i>(Bourrée)</i> 
-- Carousels <i>(Carrousel)</i>
-- Point de France Lace <i>(Point de France)</i>
-- Aubusson Tapestry <i>(Tapisserie d'Aubusson)</i>
-- Equitation Tradition <i>(Équitation)</i>
-- Parkour Sport <i>(Parkour)</i>
-- Savate Boxing <i>(Savate)</i>
-- System of Compagnonnage <i>(Compagnonnage)</i>
-- French Perfumery <i>(Parfumerie Française)</i>
-  - Parfum <i>(Extrait)</i>
-  - Eau de Parfum <i>(Eau de Parfum)</i>
-  - Eau de Toilette <i>(Eau de Toilette)</i>
-  - Eau Fraîche <i>(Eau Fraîche)</i>
-- French Impressionist Painting <i>(Peinture Impressionniste)</i>
-- French Baroque Architecture <i>(Architecture Baroque Française)</i>
-- French Neoclassical Architecture <i>(Architecture Néoclassique Française)</i>
-- French Rococo Architecture <i>(Architecture Rococo Française)</i>
-- French Philosophy <i>(Philosophie Française)</i>
-- French Folklore <i>(Folklore Français)</i>
-- French Fashion <i>(Brands: "Lacoste", "Chanel", "Dior", "Givenchy", "Louis Vuitton", "YSL", etc.)</i> 
-- French Cars <i>(Brands: "Peugeot", "Renault", "Citroën", "Bugatti")</i>
-- Authentic Musical Instrument: Flageolet <i>(Flageolet)</i>
-- Authentic Garb: Faluche & Marinière <i>(Faluche et Tricot Rayé)</i> 
-- Legacy of Gauls <i>(Gaulois)</i>  
-- Heritage of the Frankish Kingdom <i>(Royaume des Francs / Regnum Francorum)</i>
-- Heritage of the Carolingian Empire <i>(Empire Carolingien / Universum Regnum)</i>
-- Heritage of the Kingdom of France <i>(Royaume de France / Reaume de France)</i>
-- Heritage of the French Empire <i>(Empire Français)</i><br>
+- 🦉 Authentic Concept: L'Art de Vivre <i>(L'Art de Vivre)</i>
+- 💃 Can-Can Dance <i>(Cancan)</i>
+- 💃 Bourrée Dance <i>(Bourrée)</i> 
+- 🛖 French Carousels <i>(Carrousel)</i>
+- 🎨 Point de France Lace <i>(Point de France)</i>
+- 🎨 Aubusson Tapestry <i>(Tapisserie d'Aubusson)</i>
+- 🏃🏻 Equitation Tradition <i>(Équitation)</i>
+- 🏃🏻 Parkour Tradition <i>(Parkour)</i>
+- 🏃🏻 Savate Boxing Tradition <i>(Savate)</i>
+- 👑 System of Compagnonnage <i>(Compagnonnage)</i>
+- 🎨 French Impressionist Paintings <i>(Peinture Impressionniste)</i>
+- 🏛️ French Baroque Architectural Style <i>(Architecture Baroque Française)</i>
+- 🏛️ French Neoclassical Architectural Style <i>(Architecture Néoclassique Française)</i>
+- 🏛️ French Rococo Architectural Style <i>(Architecture Rococo Française)</i>
+- 🐦‍🔥 French Folklore <i>(Folklore Français)</i>
+- 🚗 French Cars <i>(Brands: "Peugeot", "Renault", "Citroën", "Bugatti")</i>
+- 🪕 Authentic Musical Instrument: Flageolet <i>(Flageolet)</i>
+- 👘 Authentic Garb: Faluche & Marinière <i>(Faluche et Tricot Rayé)</i> 
+- 🧝 Legacy of Gauls <i>(Gaulois)</i>  
+- 🏰 Heritage of the Frankish Kingdom <i>(Royaume des Francs / Regnum Francorum)</i>
+- 🏰 Heritage of the Carolingian Empire <i>(Empire Carolingien / Universum Regnum)</i>
+- 🏰 Heritage of the Kingdom of France <i>(Royaume de France / Reaume de France)</i>
+- 🏰 Heritage of the French Empire <i>(Empire Français)</i><br>
 <u>Île-de-France - Regional Special:</u> 
-- Apache Dance <i>(Valse Chaloupée)</i>
-- Bal-Musette Music <i>(Bal Musette)</i>
-- Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
-- Art Déco Architecture <i>(Architecture Art Déco)</i><br>
+- 💃 Apache Dance <i>(Valse Chaloupée)</i>
+- 🎙️ Bal-Musette Music <i>(Bal Musette)</i>
+- 🏛️ Beaux-Arts Architectural Style <i>(Architecture des Beaux-Arts)</i>
+- 🏛️ Art Déco Architectural Style <i>(Architecture Art Déco)</i><br>
 <u>Occitania - Regional Special:</u> 
-- Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
-  - Authentic Concept: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
-  - Troubadours & Occitan Lyric Poetry <i>(Troubadours et Poésie Lyrique Occitane / Trobadors e Poesia Lirica Occitana)</i>
-  - Floral Games <i>(Jeux Floraux / Jòcs Florals)</i>
-  - Catharism <i>(Catharisme / Catarisme)</i>
-  - Meridional Gothic Architecture <i>(Architecture Gothique Méridional / Arquitectura Gòtica Meridionala)</i>
-- Chabrot Tradition <i>(Chabrot / Chabròt)</i>
+- 🏰 Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
+  - 🦉 Authentic Concept: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
+  - 🎭 Troubadours & Occitan Lyric Poetry <i>(Troubadours et Poésie Lyrique Occitane / Trobadors e Poesia Lirica Occitana)</i>
+  - 🎑 Floral Game Ritual <i>(Jeux Floraux / Jòcs Florals)</i>
+  - 🕯️ Catharism <i>(Catharisme / Catarisme)</i>
+  - 🏛️ Meridional Gothic Architectural Style <i>(Architecture Gothique Méridional / Arquitectura Gòtica Meridionala)</i>
+- 🎑 Chabrot Ritual <i>(Chabrot / Chabròt)</i>
 </br>
 <u>Provence-Alpes-Côte d'Azur - Regional Special:</u>
-- Farandole Dance <i>(Farandole / Farandola)</i>
-- Santons of Provence <i>(Santons / Santons)</i>
-- Pilou Game <i>(Pilou / Lo Pilo)</i>
-- Pétanque Game <i>(Pétanque / Petanca)</i>
-- Blue Chairs of Nice <i>(Chaise Bleue / Cadiera Bleua)</i>
-- Nice Midday Cannon Ritual <i>(Canon de Midi / Canoun de Miejour)</i>
-- Authentic Garb: Taillole <i>(Taillole Provençal / Taiolo)</i>
-- Heritage of the County of Provence <i>(Comté de Provence / Comtat de Provença)</i>
+- 💃 Farandole Dance <i>(Farandole / Farandola)</i>
+- 🏺 Santons of Provence <i>(Santons / Santons)</i>
+- 🏺 Blue Chairs of Nice <i>(Chaise Bleue / Cadiera Bleua)</i>
+- 🏓 Pilou Game <i>(Pilou / Lo Pilo)</i>
+- 🏓 Pétanque Game <i>(Pétanque / Petanca)</i>
+- 🎑 Nice Midday Cannon Ritual <i>(Canon de Midi / Canoun de Miejour)</i>
+- 👘 Authentic Garb: Taillole <i>(Taillole Provençal / Taiolo)</i>
+- 🏰 Heritage of the County of Provence <i>(Comté de Provence / Comtat de Provença)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

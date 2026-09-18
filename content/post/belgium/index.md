@@ -123,24 +123,23 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - Ben X <i>(Ben X)</i>. Year: 2007. Genre: thriller 
 
 <b>🪔 Authentic features:</b>
-- Authentic Concept: Belgitude <i>(Belgitude / Belgitude)</i>
-- Crossage Game <i>(Crossage / Chole)</i>
-- Brabantine Gothic Architecture <i>(Gothique Brabançon / Brabantse Gotiek)</i>
-- Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
-- Belgian Beer Culture <i>(Culture de la Bière / Biercultuur)</i>
-- Belgian Friterie Culture <i>(Culture de la Friterie / Friteriecultuur)</i>
-- Belgian Folklore <i>(Folklore Belge / Belgische Folklore)</i>
-- Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
-- Heritage of the Duchy of Brabant <i>(Duché de Brabant / Hertogdom Brabant)</i>
-- Heritage of the United Belgian States <i>(États-Belgiques-Unis / Verenigde Belgische Staten)</i>
+- 🦉 Authentic Concept: Belgitude <i>(Belgitude / Belgitude)</i>
+- 🏓 Crossage Game <i>(Crossage / Chole)</i>
+- 🛖 Belgian Friteries <i>(Friteries / Frietkoten)</i>
+- 🏛️ Brabantine Gothic Architectural Style <i>(Gothique Brabançon / Brabantse Gotiek)</i>
+- 🎨 Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
+- 🐦‍🔥 Belgian Folklore <i>(Folklore Belge / Belgische Folklore)</i>
+- 🪕 Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
+- 🏰 Heritage of the Duchy of Brabant <i>(Duché de Brabant / Hertogdom Brabant)</i>
+- 🏰 Heritage of the United Belgian States <i>(États-Belgiques-Unis / Verenigde Belgische Staten)</i>
 <br>
 <u>Brussels-Capital - Regional Special:</u> 
-- Flower Carpet <i>(Tapis de Fleurs / Bloementapijt)</i><br>
+- ⛰️ Flower Carpets <i>(Tapis de Fleurs / Bloementapijt)</i><br>
 <u>Flanders - Regional Special:</u> 
-- Culture of Flemings <i>(Vlamingen)</i>
-  - Flemish Baroque Painting <i>(Vlaamse Barokschilderkunst)</i>  
-  - Bruges Lace <i>(Brugs Bloemwerk)</i>
-  - Authentic Musical Instrument: Doedelzak <i>(Doedelzak)</i>
+- 👲 Culture of Flemings <i>(Vlamingen)</i>
+  - 🎨 Flemish Baroque Paintings <i>(Vlaamse Barokschilderkunst)</i>  
+  - 🎨 Bruges Lace <i>(Brugs Bloemwerk)</i>
+  - 🪕 Authentic Musical Instrument: Doedelzak <i>(Doedelzak)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - National Day of Belgium <i>(Fête Nationale Belge / Nationale Feestdag van België)</i>. Month: July<br>

@@ -95,19 +95,19 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
  
 
 <b>🪔 Authentic features:</b>
-- Authentic Concept: Besa <i>(Besa)</i>
-- Bektashism <i>(Bektashizmi)</i>
-- Shota Dance <i>(Shotë)</i>
-- System of Albanian Tribes <i>(Fiset Shqiptare)</i>
-- Title of Dedebaba <i>(Kryegjyshi)</i>
-- Legend of Skanderbeg <i>(Legjenda e Skënderbeut)</i>
-- Albanian Iso-Polyphony <i>(Iso-Polifonia Shqiptare)</i>
-- Albanian Bunkers <i>(Bunkerët Shqiptarë)</i>
-- Albanian Folklore <i>(Folklori Shqiptar)</i>
-- Authentic Musical Instrument: Çifteli <i>(Çiftelia)</i>
-- Authentic Garb: Xhubleta & Xhamadan <i>(Xhubleta dhe Xhamadan)</i> 
-- Heritage of the Kingdom of Albania <i>(Mbretëria e Arbërisë / Regnum Albaniae)</i>
-- Heritage of the League of Lezhë <i>(Lidhja e Lezhës)</i>
+- 🦉 Authentic Concept: Besa <i>(Besa)</i>
+- 🕯️ Bektashism <i>(Bektashizmi)</i>
+- 💃 Shota Dance <i>(Shotë)</i>
+- 👑 System of Albanian Tribes <i>(Fiset Shqiptare)</i>
+- 👑 Title of Dedebaba <i>(Kryegjyshi)</i>
+- 🐦‍🔥 Legend of Skanderbeg <i>(Legjenda e Skënderbeut)</i>
+- 🐦‍🔥 Albanian Folklore <i>(Folklori Shqiptar)</i>
+- 🎙️ Albanian Iso-Polyphonic Music <i>(Iso-Polifonia Shqiptare)</i>
+- 🛖 Albanian Bunkers <i>(Bunkerët Shqiptarë)</i>
+- 🪕 Authentic Musical Instrument: Çifteli <i>(Çiftelia)</i>
+- 👘 Authentic Garb: Xhubleta & Xhamadan <i>(Xhubleta dhe Xhamadan)</i> 
+- 🏰 Heritage of the Kingdom of Albania <i>(Mbretëria e Arbërisë / Regnum Albaniae)</i>
+- 🏰 Heritage of the League of Lezhë <i>(Lidhja e Lezhës)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

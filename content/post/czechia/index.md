@@ -131,29 +131,28 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 
 
 <b>🪔 Authentic features:</b>
-- Beseda Dance <i>(Česká Beseda)</i>
-- Polka Dance <i>(Polka)</i>
-- Czech Beer Culture <i>(Pivní Kultura)</i>
-- Czech Puppetry <i>(České Loutkářství)</i>
-- Czech Gothic Architecture <i>(Česká Gotická Architektura)</i>
-- Czech Folklore <i>(Český Folklór)</i>
-- Czech Cars <i>(Brand: "Škoda")</i>
-- Authentic Musical Instrument: Bohemian Harp <i>(Harfa)</i>
-- Authentic Garb: Czech Kroj <i>(Kroje)</i>
-- Heritage of the Dutchy of Bohemia <i>(České Knížectví / Ducatus Bohemiæ)</i>
-- Heritage of the Kingdom of Bohemia <i>(České Království / Königreich Böhmen)</i>
-- Heritage of Czechoslovakia <i>(Československo)</i></br>
+- 💃 Beseda Dance <i>(Česká Beseda)</i>
+- 💃 Polka Dance <i>(Polka)</i>
+- 🎭 Czech Puppetry <i>(České Loutkářství)</i>
+- 🏛️ Czech Gothic Architectural Style <i>(Česká Gotická Architektura)</i>
+- 🐦‍🔥 Czech Folklore <i>(Český Folklór)</i>
+- 🚗 Czech Cars <i>(Brand: "Škoda")</i>
+- 🪕 Authentic Musical Instrument: Bohemian Harp <i>(Harfa)</i>
+- 👘 Authentic Garb: Czech Kroj <i>(Kroje)</i>
+- 🏰 Heritage of the Dutchy of Bohemia <i>(České Knížectví / Ducatus Bohemiæ)</i>
+- 🏰 Heritage of the Kingdom of Bohemia <i>(České Království / Königreich Böhmen)</i>
+- 🏰 Heritage of Czechoslovakia <i>(Československo)</i></br>
 <u>Central Bohemia - Regional Special:</u> 
-- Bohemian Glass <i>(České Sklo)</i></br>
+- 🎨 Bohemian Glass <i>(České Sklo)</i></br>
 <u>South Moravia - Regional Special:</u> 
-- Culture of Moravians <i>(Moravané / Moraváci)</i>
-  - Ride of the Kings Ritual <i>(Jízda Králů)</i>
-  - Moravian Verbuňk Dance <i>(Slovácko Verbuňk)</i>
-  - Authentic Garb: Kordulka Vest & Ceremonial Pentleni <i>(Kordulka Vest & Pentleni)</i>
-- Heritage of Great Moravia <i>(Velkomoravská Říše / Ⰿⱁⱃⰰⰲⰰ)</i><br>
-  - Great Moravian Sacral Architecture <i>(Velkomoravská Sakrální Architektura)</i>
-  - Great Moravian Gombíky <i>(Gombíky)</i>
-  - Great Moravian Axe-shaped Bars <i>(Moravské Sekerovité Hřivny)</i>
+- 👲 Culture of Moravians <i>(Moravané / Moraváci)</i>
+  - 🎑 Ride of the Kings Ritual <i>(Jízda Králů)</i>
+  - 💃 Moravian Verbuňk Dance <i>(Slovácko Verbuňk)</i>
+  - 👘 Authentic Garb: Kordulka Vest & Ceremonial Pentleni <i>(Kordulka Vest & Pentleni)</i>
+- 🏰 Heritage of Great Moravia <i>(Velkomoravská Říše / Ⰿⱁⱃⰰⰲⰰ)</i><br>
+  - 🏛️ Great Moravian Sacral Architectural Style <i>(Velkomoravská Sakrální Architektura)</i>
+  - 🏺 Great Moravian Gombíky <i>(Gombíky)</i>
+  - 🏺 Great Moravian Axe-shaped Bars <i>(Moravské Sekerovité Hřivny)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

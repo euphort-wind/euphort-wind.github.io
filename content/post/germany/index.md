@@ -229,54 +229,49 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Concept: Gemütlichkeit <i>(Gemütlichkeit)</i>
-- Authentic Concept: Wanderlust <i>(Wanderlust)</i>
-- Authentic Concept: Weltschmerz <i>(Weltschmerz)</i>
-- Protestantism <i>(Protestantismus)</i>
-- Allemande Dance <i>(Allemande)</i>
-- Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
-- Ottonian Architecture <i>(Ottonische Architektur)</i>
-- Half-Timbered Architecture <i>(Fachwerkbauweise)</i>
-- Mensch-Ärgere-Dich-Nicht Game <i>(Mensch Ärgere Dich Nicht)</i>
-- Cuckoo Clocks <i>(Kuckucksuhr)</i>
-- German Beer Steins <i>(Humpen)</i>
-- German Beer Culture <i>(Bierkultur)</i>
-- German Philosophy <i>(Deutsche Philosophie)</i> 
-- German Folklore <i>(Deutsche Folklore)</i>
-- German Fashion <i>(Brands: "Hugo Boss", "Tom Tailor", "PUMA", "Adidas", etc.)</i> 
-- German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
-- Authentic Musical Instrument: Zither <i>(Zither)</i>
-- Authentic Garb: German Tracht <i>(Tracht)</i>
-- Legacy of Alemanni <i>(Alamannen)</i>
-- Legacy of Thuringians <i>(Thüringer)</i>
-- Legacy of Suebi <i>(Sueben)</i>
-- Heritage of the Holy Roman Empire <i>(Heiliges Römisches Reich / Sacrum Imperium Romanum)</i>
-- Heritage of Prussia <i>(Preußen / Prūsija)</i>
-- Heritage of the German Empire <i>(Deutsches Kaiserreich)</i>
-- Heritage of the Weimar Republic <i>(Weimarer Republik)</i>
+- 🦉 Authentic Concept: Gemütlichkeit <i>(Gemütlichkeit)</i>
+- 🦉 Authentic Concept: Wanderlust <i>(Wanderlust)</i>
+- 🦉 Authentic Concept: Weltschmerz <i>(Weltschmerz)</i>
+- 🕯️ Protestantism <i>(Protestantismus)</i>
+- 💃 Allemande Dance <i>(Allemande)</i>
+- 🎨 Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
+- 🏛️ Ottonian Architectural Style <i>(Ottonische Architektur)</i>
+- 🏛️ Half-Timbered Architectural Style <i>(Fachwerkbauweise)</i>
+- 🏓 Mensch-Ärgere-Dich-Nicht Game <i>(Mensch Ärgere Dich Nicht)</i>
+- 🏺 Cuckoo Clocks <i>(Kuckucksuhr)</i>
+- 🏺 German Beer Steins <i>(Humpen)</i>
+- 🐦‍🔥 German Folklore <i>(Deutsche Folklore)</i>
+- 🚗 German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
+- 🪕 Authentic Musical Instrument: Zither <i>(Zither)</i>
+- 👘 Authentic Garb: German Tracht <i>(Tracht)</i>
+- 🧝 Legacy of Alemanni <i>(Alamannen)</i>
+- 🧝 Legacy of Thuringians <i>(Thüringer)</i>
+- 🧝 Legacy of Suebi <i>(Sueben)</i>
+- 🏰 Heritage of the Holy Roman Empire <i>(Heiliges Römisches Reich / Sacrum Imperium Romanum)</i>
+- 🏰 Heritage of Prussia <i>(Preußen / Prūsija)</i>
+- 🏰 Heritage of the German Empire <i>(Deutsches Kaiserreich)</i>
+- 🏰 Heritage of the Weimar Republic <i>(Weimarer Republik)</i>
 <br>
 <u>Hessen - Regional Special:</u> 
-- Schwälmer Dance <i>(Schwälmer Tanz)</i>
-- Authentic Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i><br>
+- 💃 Schwälmer Dance <i>(Schwälmer Tanz)</i>
+- 👘 Authentic Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i><br>
 <u>Rhineland-Palatinate - Regional Special:</u>
-- German Wine Queen Competition <i>(Deutsche Weinkönigin)</i>
-- Westerwald Pottery <i>(Westerwälder Steinzeug)</i>
-- Authentic Garb: Tugendpfeil <i>(Tugendpfeil)</i><br>
-<u>North Rhine-Westphalia - Regional Special:</u> 
-- Eau de Cologne Perfume <i>(Kölnisch Wasser)</i><br> 
+- 👑 Title of German Wine Queen <i>(Deutsche Weinkönigin)</i>
+- 🛠️ Westerwald Pottery Tradition <i>(Westerwälder Steinzeug)</i>
+- 👘 Authentic Garb: Tugendpfeil <i>(Tugendpfeil)</i><br>
 <u>Bavaria - Regional Special:</u>
-- Culture of Bavarians <i>(Bayern / Boarn)</i>
-  - Schuhplattler Dance <i>(Schuhplattler / Schuhplattler)</i>
-  - Aperschnalzen Tradition <i>(Aperschnalzen / Apaschnoizn)</i>
-  - Gstanzl Singing <i>(Gstanzl / Gestanzel)</i>
-  - Lüftlmalerei Mural Art <i>(Lüftlmalerei / Lüftelmalerei)</i>
-  - Bavarian Brotzeit <i>(Brotzeit / Brotzeit)</i>
-  - Bavarian Beer Gardens <i>(Biergarten / Bierkeller)</i>
-  - Bavarian Folklore <i>(Bayerische Folklore / Bairische Volkskultur)</i>
-  - Authentic Garb: Lederhosen & Dirndl <i>(Lederhose und Dirndl / Lederhosn un Diandl)</i>
-- Legacy of Baiuvarii <i>(Bajuwaren)</i>
-- Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
-- Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
+- 👲 Culture of Bavarians <i>(Bayern / Boarn)</i>
+  - 💃 Schuhplattler Dance <i>(Schuhplattler / Schuhplattler)</i>
+  - 🎑 Aperschnalzen Ritual <i>(Aperschnalzen / Apaschnoizn)</i>
+  - 🎑 Bavarian Brotzeit Ritual <i>(Brotzeit / Brotzeit)</i>
+  - 🎙️ Gstanzl Singing <i>(Gstanzl / Gestanzel)</i>
+  - 🎨 Lüftlmalerei Mural Art <i>(Lüftlmalerei / Lüftelmalerei)</i>
+  - 🛖 Bavarian Beer Gardens <i>(Biergarten / Bierkeller)</i>
+  - 🐦‍🔥 Bavarian Folklore <i>(Bayerische Folklore / Bairische Volkskultur)</i>
+  - 👘 Authentic Garb: Lederhosen & Dirndl <i>(Lederhose und Dirndl / Lederhosn un Diandl)</i>
+- 🧝 Legacy of Baiuvarii <i>(Bajuwaren)</i>
+- 🏰 Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
+- 🏰 Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
 
 
 

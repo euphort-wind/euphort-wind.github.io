@@ -150,32 +150,32 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 
 
 <b>🪔 Authentic features:</b>
-- Tamadas & Supra <i>(თამადა და სუფრა)</i>
-- Kvevri-Based Wine Production <i>(ქვევრის ღვინო)</i>
-- Mkhedruli Script <i>(მხედრული)</i>
-- Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
-- Nuskhuri Script <i>(ნუსხური / ⴌⴓⴑⴞⴓⴐⴈ)</i>
-- Kartuli Dance <i>(ქართული ცეკვა)</i>
-- Berikaoba Theater <i>(ბერიკაობა)</i>
-- Chidaoba Wrestling <i>(ჩიდაობა)</i>
-- Lelo Burti Game <i>(ლელო ბურთი)</i>
-- Georgian Polyphonic Singing <i>(ქართული მრავალხმიანობა)</i>
-- Georgian Mythology <i>(ქართული მითოლოგია)</i> 
-- Authentic Musical Instrument: Panduri <i>(ფანდური)</i>
-- Authentic Garb: Chokha & Kabalakhi <i>(ჩოხა და ყაბალახი)</i>
-- Heritage of the Kingdom of Colchis <i>(ეგრისი)</i>
-- Heritage of the Kingdom of Iberia <i>(იბერია)</i>
-- Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>
-- Heritage of the Kingdom of Imereti <i>(იმერეთის სამეფო)</i><br>
+- 🎑 Tamadas & Supra Ritual <i>(თამადა და სუფრა)</i>
+- 🛠️ Kvevri-Based Wine Production Tradition <i>(ქვევრის ღვინო)</i>
+- 🔠 Mkhedruli Script <i>(მხედრული)</i>
+- 🔠 Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
+- 🔠 Nuskhuri Script <i>(ნუსხური / ⴌⴓⴑⴞⴓⴐⴈ)</i>
+- 💃 Kartuli Dance <i>(ქართული ცეკვა)</i>
+- 🎭 Berikaoba Theater <i>(ბერიკაობა)</i>
+- 🏃🏻 Chidaoba Wrestling Tradition <i>(ჩიდაობა)</i>
+- 🏓 Lelo Burti Game <i>(ლელო ბურთი)</i>
+- 🎙️ Georgian Polyphonic Singing <i>(ქართული მრავალხმიანობა)</i>
+- 🐦‍🔥 Georgian Mythology <i>(ქართული მითოლოგია)</i> 
+- 🪕 Authentic Musical Instrument: Panduri <i>(ფანდური)</i>
+- 👘 Authentic Garb: Chokha & Kabalakhi <i>(ჩოხა და ყაბალახი)</i>
+- 🏰 Heritage of the Kingdom of Colchis <i>(ეგრისი)</i>
+- 🏰 Heritage of the Kingdom of Iberia <i>(იბერია)</i>
+- 🏰 Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>
+- 🏰 Heritage of the Kingdom of Imereti <i>(იმერეთის სამეფო)</i><br>
 <u>Mtskheta-Mtianeti - Regional Special:</u> 
-- Heritage of the Kingdom of Kartli <i>(ქართლის სამეფო)</i><br>
+- 🏰 Heritage of the Kingdom of Kartli <i>(ქართლის სამეფო)</i><br>
 <u>Kakheti - Regional Special:</u> 
-- Kakhuri Dance <i>(კახურის ცეკვა)</i>
-- Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
-- Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i><br>
+- 💃 Kakhuri Dance <i>(კახურის ცეკვა)</i>
+- 👘 Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
+- 🏰 Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i><br>
 <u>Tbilisi-Capital - Regional Special:</u> 
-- Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
-- Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i>
+- 🛖 Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
+- 🏺 Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

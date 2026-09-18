@@ -128,29 +128,29 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 
 
 <b>🪔 Authentic features:</b>
-- Authentic Concept: Fjaka <i>(Fjaka)</i>
-- Ojkanje Singing <i>(Ojkanje)</i>
-- Zvončari Costume <i>(Zvončari)</i>  
-- Glagolitic Script <i>(Hrvatska Glagoljica / ⰳⰾⰰⰳⱁⰾⰻⱌⰰ)</i>
-- Sicanje Tattooing <i>(Sicanje)</i>
-- Story of Klepetan & Malena <i>(Klepetan i Malena)</i>
-- Title of Župan <i>(Župan)</i>
-- Croatian Lace <i>(Čipkarstvo u Hrvatskoj)</i>
-- Croatian Pre-Romanesque Architecture <i>(Starohrvatska Arhitektura)</i>
-- Croatian Folklore <i>(Hrvatski Folklor)</i>
-- Authentic Musical Instrument: Tamburica <i>(Tamburica)</i>
-- Authentic Garb: Cravat & Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
-- Legacy of Illyrians <i>(Iliri)</i>
-- Heritage of the Duchy of Croatia <i>(Kneževina Hrvatska / Ducatus Chroatorum)</i>
-- Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>
+- 🦉 Authentic Concept: Fjaka <i>(Fjaka)</i>
+- 🎙️ Ojkanje Singing <i>(Ojkanje)</i>
+- 🎑 Zvončari Ritual <i>(Zvončari)</i>  
+- 🔠 Glagolitic Script <i>(Hrvatska Glagoljica / ⰳⰾⰰⰳⱁⰾⰻⱌⰰ)</i>
+- 🎨 Sicanje Tattooing <i>(Sicanje)</i>
+- 🎨 Croatian Lace <i>(Čipkarstvo u Hrvatskoj)</i>
+- 👑 Title of Župan <i>(Župan)</i>
+- 🐦‍🔥 Story of Klepetan & Malena <i>(Klepetan i Malena)</i>
+- 🐦‍🔥 Croatian Folklore <i>(Hrvatski Folklor)</i>
+- 🏛️ Croatian Pre-Romanesque Architectural Style <i>(Starohrvatska Arhitektura)</i>
+- 🪕 Authentic Musical Instrument: Tamburica <i>(Tamburica)</i>
+- 👘 Authentic Garb: Cravat & Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
+- 🧝 Legacy of Illyrians <i>(Iliri)</i>
+- 🏰 Heritage of the Duchy of Croatia <i>(Kneževina Hrvatska / Ducatus Chroatorum)</i>
+- 🏰 Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>
 <br><u>Zadar - Regional Special:</u> 
-- Klapa Singing <i>(Klapa)</i>
+- 🎙️ Klapa Singing <i>(Klapa)</i>
 <br><u>Dubrovnik-Neretva - Regional Special:</u> 
-- Linđo Dance <i>(Linđo)</i>
-- Neretva Ladja Boats <i>(Neretvanske Lađe)</i>
-- Konavle Embroidery <i>(Konavoski Vez)</i>
-- Authentic Musical Instrument: Lijerica <i>(Lijerica)</i>
-- Heritage of the Republic of Ragusa <i>(Dubrovačka Republika / Republica de Ragusa)</i>
+- 💃 Linđo Dance <i>(Linđo)</i>
+- 🏺 Neretva Ladja Boats <i>(Neretvanske Lađe)</i>
+- 🎨 Konavle Embroidery <i>(Konavoski Vez)</i>
+- 🪕 Authentic Musical Instrument: Lijerica <i>(Lijerica)</i>
+- 🏰 Heritage of the Republic of Ragusa <i>(Dubrovačka Republika / Republica de Ragusa)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
