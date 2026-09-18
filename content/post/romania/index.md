@@ -154,11 +154,11 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 
 <b>🪔 Authentic features:</b>
 - 🎙️ Doina Singing <i>(Doina)</i>
-- 🐦‍🔥 Ballad of Miorița <i>(Miorița)</i>
 - 🎑 Paparuda Ritual <i>(Paparudă)</i> 
 - 🏛️ Brâncovenesc Architectural Style <i>(Artă Brâncovenească)</i> 
 - 🏓 Oină Game <i>(Oină)</i>
 - 💃 Romanian Horă Dance <i>(Horă)</i>
+- 🐦‍🔥 Ballad of Miorița <i>(Miorița)</i>
 - 🐦‍🔥 Romanian Folklore <i>(Folclorul Românesc)</i>
 - 🚗 Romanian Cars <i>(Brand: "Dacia")</i>
 - 🪕 Authentic Musical Instrument: Romanian Nai <i>(Nai)</i>
