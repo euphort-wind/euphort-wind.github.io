@@ -140,6 +140,9 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 💃 Bharatanatyam Dance <i>(भरतनाट्यम)</i>
 - 🏛️ Nagara Architectural Style <i>(नागर शैली)</i>
 - 🏛️ Indo-Saracenic Architectural Style <i>(इंडो-सारासेनिक वास्तुकला)</i>
+- 🛖 Chhatri Pavilions <i>(छतरी)</i>
+- 🛖 Haveli Houses <i>(हवेली)</i>
+- 🛖 Stepwells <i>(बावड़ी)</i>
 - 🐦‍🔥 Indian Folklore <i>(भारतीय लोकवार्ता)</i>
 - 🚗 Indian Cars <i>(Brands: "Tata", Mahindra")</i>
 - 🪕 Authentic Musical Instrument: Saraswati Veena <i>(सरस्वती वीणा)</i>

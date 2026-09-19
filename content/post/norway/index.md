@@ -149,6 +149,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - 🦉 Authentic Concept: Friluftsliv <i>(Friluftsliv)</i> 
 - 🏃🏻 Nordic Skiing Tradition <i>(Nordiske Grener)</i>
 - 🏛️ Dragestil Architectural Style <i>(Dragestil)</i>
+- 🛖 Stave Churches <i>(Stavkirker)</i>
+- 🛖 Rorbu Fishermen Houses <i>(Rorbuer)</i>
 - 🛖 Stabbur Storehouses <i>(Stabbur)</i>
 - 🏓 Basse Game <i>(Basse)</i>
 - 🎨 Norwegian Rose-Painting <i>(Rosemaling)</i>

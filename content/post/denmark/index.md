@@ -124,6 +124,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - 🐦‍🔥 Legend of the Danish Flag <i>(Dannebrog)</i>
 - 🐦‍🔥 Danish Folklore <i>(Dansk Folketro)</i>
 - 🏓 Daldøs Game <i>(Daldøs)</i>
+- 🛖 Danish Beach Huts <i>(Badehuse)</i>
 - 🏛️ National Romantic Architectural Style <i>(Nationalromantik Byggestil)</i>
 - 🏛️ Nordic Classical Architectural Style <i>(Nordiske Klassiske Arkitektur)</i>
 - 🎙️ Danish Fiddle Music <i>(Spillemandsmusik)</i>

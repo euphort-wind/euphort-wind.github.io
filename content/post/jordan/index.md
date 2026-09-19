@@ -86,6 +86,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - 👲 Culture of Bedouins <i>(بَدَوِيُّون / بَدْو)</i>
   - 🦉 Authentic Concept: Sharaf <i>(شرف)</i> 
   - 🦉 Authentic Concept: Ird <i>(عرض)</i> 
+  - 🛖 Bedouin Tents <i>(خيام بدوية)</i> 
   - 🎭 Nabaṭī Poetry <i>(الشعر النبطي)</i>
   - 🏃🏻 Camel Racing Tradition <i>(سباق الهجن)</i>
 - 🏰 Heritage of the Kingdom of Edom <i>(𐤀𐤃𐤌 / مملكة إدوم)</i>

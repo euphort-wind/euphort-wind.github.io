@@ -120,6 +120,9 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - 🏓 Makruk Game <i>(หมากรุก)</i> 
 - 🏓 Ka Fak Khai Game <i>(กาฟักไข่)</i>
 - 🏓 Mak-Yek Game <i>(หมากแยก)</i>
+- 🛖 Sala Thai Pavilions <i>(ศาลา)</i> 
+- 🛖 Thai Stilt Houses <i>(เรือนไทย)</i> 
+- 🏺 Thai Spirit Houses <i>(ศาลพระภูมิ)</i>
 - 🐦‍🔥 Thai Folklore <i>(นิทานพื้นบ้านไทย)</i>
 - ⛵ Thai Long-Tail Boats <i>(เรือหางยาว)</i>
 - 🪕 Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 

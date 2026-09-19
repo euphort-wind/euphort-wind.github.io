@@ -126,6 +126,9 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🦉 Authentic Concept: Hispanidad <i>(Hispanidad)</i>
 - 💃 Flamenco Dance <i>(Flamenco)</i>
 - 🏛️ Mudéjar Architectural Style <i>(Arte Mudéjar)</i>
+- 🛖 Bullrings <i>(Plazas de Toros)</i>
+- 🛖 Chiringuito Bars <i>(Chiringuitos)</i>
+- 
 - 🏃🏻 Spanish Bullfighting Tradition <i>(Corrida de Toros)</i>
 - 🐦‍🔥 Spanish Folklore <i>(Folclore de España)</i>
 - 🚗 Spanish Cars <i>(Brand: "SEAT")</i>
