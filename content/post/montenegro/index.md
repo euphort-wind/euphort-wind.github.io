@@ -121,6 +121,7 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Čojstvo <i>(Чојство)</i>
 - 💃 Montenegrin Oro Dance <i>(Црногорско Оро)</i>
+- 👑 System of Katuns <i>(Катуни)</i>
 - 👘 Authentic Garb: Montenegrin Cap <i>(Црногорска Капа)</i>
 - 🏰 Heritage of the Kingdom of Duklja <i>(Дукља / Διόκλεια)</i>
 - 🏰 Heritage of the Kingdom of Zeta <i>(Зета)</i>

@@ -196,6 +196,8 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🏓 Palant Game <i>(Palant)</i>
 - 🛠️ Bolesławiec Pottery Tradition <i>(Ceramika Bolesławiecka)</i>
 - 🏛️ Polish Brick Gothic Architectural Style <i>(Gotyk Ceglany)</i>
+- 🏺 Kapliczka Shrines <i>(Kapliczki)</i>
+- 🛖 Mleczny Bars <i>(Bary Mleczne)</i>
 - 🐦‍🔥 Polish Folklore <i>(Folklor Polski)</i>
 - 🪕 Authentic Musical Instrument: Koza <i>(Koza)</i>
 - 👘 Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i>

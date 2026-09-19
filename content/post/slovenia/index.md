@@ -105,6 +105,7 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 - 🎑 Kurentija Ritual <i>(Kurentija)</i>
 - 🏓 Slovene Quintain Game <i>(Štehvanje)</i>
 - 🐦‍🔥 Slovene Mythology <i>(Slovenska Mitologija)</i>
+- 🛖 Slovene Hayracks <i>(Kozólci)</i>
 - 👘 Authentic Garb: Gorenjska Avba <i>(Gorenjska Avba)</i> 
 - 🏰 Heritage of the Carantanian Principality <i>(Karantanija / *Korǫtanъ)</i>
 - 🏰 Heritage of the Duchy of Carniola <i>(Vojvodina Kranjska / Herzogtum Krain)</i>

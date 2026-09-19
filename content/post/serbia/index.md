@@ -136,6 +136,8 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - 🎑 Slava Celebration Ritual <i>(Српска Слава)</i>
 - 🎨 Pirot Carpets <i>(Пиротски Ћилим)</i>
 - 💃 Serbian Kolo Dance <i>(Коло)</i>
+- 🛖 Vajat Houses <i>(Вајати)</i>
+- 🏛️ Morava Architectural Style <i>(Моравски Стил)</i>
 - 🚗 Serbian Cars <i>(Brand: "Zastava")</i>
 - 🪕 Authentic Musical Instrument: Gusle <i>(Гусле)</i>
 - 👘 Authentic Garb: Šajkača & Opanci <i>(Шајкача и Опанци)</i> 

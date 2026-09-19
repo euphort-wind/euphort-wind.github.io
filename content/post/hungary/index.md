@@ -140,6 +140,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 - 🎨 Kalocsa Embroidery <i>(Kalocsai Hímzés)</i>
 - 🏛️ Hungarian Secession Architectural Style <i>(Magyar Szecesszió)</i>
 - 🛖 Hungarian Thermal Baths <i>(Magyar Gyógyfürdők)</i>
+- 🛖 Csárda Road Taverns <i>(Csárdák)</i>
 - 🚗 Hungarian Busses <i>(Brand: "Ikarus")</i>
 - 🪕 Authentic Musical Instrument: Cimbalom <i>(Cimbalom)</i>
 - 👘 Authentic Garb: Bocskai Coat & Attila <i>(Bocskai Öltöny és Atilla)</i>

@@ -112,6 +112,7 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 - 💃 Teškoto Dance <i>(Тешкото)</i>
 - 💃 Kopačka Dance <i>(Копачка)</i>
 - 🎙️ Glasoechko Singing <i>(Гласоечко)</i>
+- 🛖 Chardak Houses <i>(Чардаци)</i>
 - 🎨 Macedonian Embroidery <i>(Македонски Вез)</i> 
 - 🐦‍🔥 Macedonian Slavic Mythology <i>(Македонската Словенска Митологија)</i> 
 - 🪕 Authentic Musical Instrument: Šupelka <i>(Шупелка)</i> 

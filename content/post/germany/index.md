@@ -236,7 +236,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 💃 Allemande Dance <i>(Allemande)</i>
 - 🎨 Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
 - 🏛️ Ottonian Architectural Style <i>(Ottonische Architektur)</i>
-- 🏛️ Half-Timbered Architectural Style <i>(Fachwerkbauweise)</i>
+- 🛖 Half-Timbered Houses <i>(Fachwerkhäuser)</i>
 - 🏓 Mensch-Ärgere-Dich-Nicht Game <i>(Mensch Ärgere Dich Nicht)</i>
 - 🏺 Cuckoo Clocks <i>(Kuckucksuhr)</i>
 - 🏺 German Beer Steins <i>(Humpen)</i>

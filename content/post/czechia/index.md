@@ -135,6 +135,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - 💃 Polka Dance <i>(Polka)</i>
 - 🎭 Czech Puppetry <i>(České Loutkářství)</i>
 - 🏛️ Czech Gothic Architectural Style <i>(Česká Gotická Architektura)</i>
+- 🛖 Sokolovna Buildings <i>(Sokolovny)</i>
 - 🐦‍🔥 Czech Folklore <i>(Český Folklór)</i>
 - 🚗 Czech Cars <i>(Brand: "Škoda")</i>
 - 🪕 Authentic Musical Instrument: Bohemian Harp <i>(Harfa)</i>

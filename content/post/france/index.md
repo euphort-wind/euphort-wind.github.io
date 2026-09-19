@@ -298,7 +298,6 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🦉 Authentic Concept: L'Art de Vivre <i>(L'Art de Vivre)</i>
 - 💃 Can-Can Dance <i>(Cancan)</i>
 - 💃 Bourrée Dance <i>(Bourrée)</i> 
-- 🛖 French Carousels <i>(Carrousel)</i>
 - 🎨 Point de France Lace <i>(Point de France)</i>
 - 🎨 Aubusson Tapestry <i>(Tapisserie d'Aubusson)</i>
 - 🎨 French Impressionist Paintings <i>(Peinture Impressionniste)</i>
@@ -306,6 +305,11 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🏃🏻 Parkour Tradition <i>(Parkour)</i>
 - 🏃🏻 Savate Boxing Tradition <i>(Savate)</i>
 - 👑 System of Compagnonnage <i>(Compagnonnage)</i>
+- 🛖 Lavoir Wash Houses <i>(Lavoirs)</i> 
+- 🛖 Château Manor Houses <i>(Châteaux)</i>
+- 🛖 Pâtisseries <i>(Pâtisseries)</i>
+- 🛖 Brasseries <i>(Brasseries)</i>
+- 🛖 French Carousels <i>(Carrousel)</i>
 - 🏛️ French Baroque Architectural Style <i>(Architecture Baroque Française)</i>
 - 🏛️ French Neoclassical Architectural Style <i>(Architecture Néoclassique Française)</i>
 - 🏛️ French Rococo Architectural Style <i>(Architecture Rococo Française)</i>
@@ -321,6 +325,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 <u>Île-de-France - Regional Special:</u> 
 - 💃 Apache Dance <i>(Valse Chaloupée)</i>
 - 🎙️ Bal-Musette Music <i>(Bal Musette)</i>
+- 🛖 Bouillons <i>(Bouillons)</i>
 - 🏛️ Beaux-Arts Architectural Style <i>(Architecture des Beaux-Arts)</i>
 - 🏛️ Art Déco Architectural Style <i>(Architecture Art Déco)</i><br>
 <u>Occitania - Regional Special:</u> 

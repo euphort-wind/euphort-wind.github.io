@@ -134,6 +134,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - 🔠 Glagolitic Script <i>(Hrvatska Glagoljica / ⰳⰾⰰⰳⱁⰾⰻⱌⰰ)</i>
 - 🎨 Sicanje Tattooing <i>(Sicanje)</i>
 - 🎨 Croatian Lace <i>(Čipkarstvo u Hrvatskoj)</i>
+- 🛖 Kažun Buildings <i>(Kažuni)</i>
 - 👑 Title of Župan <i>(Župan)</i>
 - 🐦‍🔥 Story of Klepetan & Malena <i>(Klepetan i Malena)</i>
 - 🐦‍🔥 Croatian Folklore <i>(Hrvatski Folklor)</i>

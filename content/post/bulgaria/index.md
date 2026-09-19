@@ -152,6 +152,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🎑 Anastenaria Ritual <i>(Нестинарство)</i>
 - 🎑 Kukeri Ritual <i>(Кукери)</i>
 - 🎨 Shevitsa Embroidery <i>(Шевица)</i>
+- 🛖 Chitalishte Buildings <i>(Читалища)</i>
 - 🏛️ Bulgarian Revival Architectural Style <i>(Възрожденска Архитектура)</i>
 - 🐦‍🔥 Bulgarian Mythology <i>(Българската Митология)</i>
 - 🛠️ Rose Oil Production Tradition <i>(Производство на Розово Масло)</i>

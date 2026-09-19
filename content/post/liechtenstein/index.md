@@ -97,13 +97,19 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
 <br>
 <u>Triesenberg - Regional Special:</u> 
 - 👲 Culture of Walser People <i>(Walser)</i>
+  - 🐦‍🔥 Walser Folklore <i>(Walser-Brauchtum)</i>
+  - 🛖 Walser Houses <i>(Walserhäuser)</i>
+  - 👘 Authentic Garb: Walser Tracht <i>(Walser Tracht)</i>
+
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Berchtold's Day <i>(Berchtoldstag)</i>. Month: January
 - National Day of Liechtenstein <i>(Staatsfeiertag)</i>. Month: August
 - Funkensonntag <i>(Funkensonntag)</i>. Month: February or March
-
+<br>
+<u>Triesenberg - Regional Special:</u> 
+- Walsertreffen <i>(Walsertreffen)</i>. Month: September
 
 <b>💐 National flower: </b> 
 - Yellow Lily <i>(Gelbe Lilie)</i>

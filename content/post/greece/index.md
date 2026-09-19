@@ -180,6 +180,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🕯️ Hellenic Polytheism <i>(Ελληνική Εθνική Θρησκεία)</i>
 - 👑 Title of Ecumenical Patriarch of Constantinople <i>(Οἰκουμενικός Πατριάρχης)</i>
 - 💃 Sirtaki Dance <i>(Σιρτάκη)</i>
+- 🛖 Kafenios <i>(Καφενεία)</i>
 - 🎙️ Rebetiko Music <i>(Ρεμπέτικο Τραγούδι)</i>
 - 🔠 Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - 🪕 Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
@@ -205,6 +206,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🏰 Heritage of the Kingdom of Greece <i>(Βασίλειον τῆς Ἑλλάδος)</i><br> 
 <u>South Aegean - Regional Special:</u>
 - 🐦‍🔥 Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
+- 🛖 Mykonos Windmills <i>(Ανεμόμυλοι Μυκόνου)</i>
 - 🏛️ Cycladic Architectural Style <i>(Κυκλαδική Αρχιτεκτονική)</i>
 - ⛵ Caïque Boates <i>(Καΐκι)</i><br>
 <u>Crete - Regional Special:</u> 

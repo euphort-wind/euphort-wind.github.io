@@ -302,6 +302,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🎨 Khokhloma Painting <i>(Хохлома)</i>
 - 🎨 Zhostovo Painting <i>(Жостовская Роспись)</i>
 - 💃 Khorovod Dance <i>(Хоровод)</i>
+- 💃 Barynya Dance <i>(Пляска Барыня)</i>
 - 🏺 Matryoshka Dolls <i>(Матрёшки)</i>
 - 🏺 Painted Samovars <i>(Расписные Самовары)</i>
 - 🏺 Dymkovo Toys <i>(Дымковские Игрушки)</i>
@@ -310,6 +311,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🏓 Lapta Game <i>(Лапта)</i>
 - 🏃🏻 Sambo Fighting Tradition <i>(Самбо)</i>
 - 🛖 Russian Banyas <i>(Русские Бани)</i>
+- 🛖 Russian Izbas <i>(Русские Избы)</i>
 - 🐦‍🔥 Russian Folklore <i>(Русский Фольклор)</i> 
 - 🚗 Russian Cars <i>(Brands: "LADA", "GAZ", "Moskvitch", etc.)</i> 
 - 🪕 Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
