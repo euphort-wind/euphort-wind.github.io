@@ -185,9 +185,9 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 <u>Antalya - Regional Special:</u> 
 - 🛖 Düğmeli Houses <i>(Düğmeli Evler)</i><br>
 <u>Muğla - Regional Special:</u> 
-- 🧝 Legacy of Lycians <i>(Likyalılar / 𐊗𐊕𐊐𐊎𐊆𐊍𐊆)</i>
+- 🧝 Legacy of Lycians <i>(Likyalılar / 𐊗𐊕𐊐𐊎𐊆𐊍𐊆)</i><br>
 <u>İstanbul - Regional Special:</u> 
-- 🛖 Yalı Houses <i>(Yalılar)</i><br>
+- 🛖 Yalı Houses <i>(Yalılar)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
