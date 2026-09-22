@@ -117,7 +117,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - 👲 Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
   - 🕯️ Karaism <i>(Karaizmas / Karaj Din)</i>
   - 🛖 Kenesas <i>(Kinesė / Kieniesalar)</i>
-  - 🏛️ Karaite Three-Window Architectural Style <i>(Karaimų Namai / Karaj Üvleri)</i>
+  - 🛖 Karaite Three-Window Houses <i>(Karaimų Namai / Karaj Üvleri)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
