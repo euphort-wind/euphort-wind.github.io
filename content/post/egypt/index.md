@@ -109,13 +109,13 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - 🏓 Senet Game <i>(لعبة السِّينِت / 𓊃𓈖𓏏𓏠)</i>
   - 👑 Title of Pharaoh <i>(فرعون / 𓉐𓉻)</i>
   - 🐦‍🔥 Ancient Egyptian Mythology <i>(أساطير مصرية / 𓌳𓇋𓀁𓊹𓊹𓊹)</i>
-  - 🔠 Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية / 𓀀𓀁𓀂𓀃)</i>
+  - 🔠 Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية / 𓊹𓌃𓏥)</i>
   - 🏛️ Ancient Egyptian Architectural Style <i>(العمارة المصرية القديمة / 𓉐)</i>
   - 🕯️ Ancient Egyptian Religion <i>(ديانة قدماء المصريين / 𓊹𓌃)</i>
   - 🏺 Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة / 𓍔𓏲)</i>
   - ⛵ Ancient Egyptian Royal Ships <i>(مراكب الشمس / 𓊛)</i>
-  - 🪕 Authentic Musical Instrument: Sistrum <i>(السيستروم / 𓊃𓈙𓈙𓏏𓏣)</i>
-  - 👘 Authentic Garb: Khat & Shendyt <i>(الخات والشنديت / 𓄡𓂧𓏏𓋜 𓈖𓎛𓂋 𓈙𓈖𓂋𓏏𓋚)</i>
+  - 🪕 Authentic Musical Instrument: Sistrum <i>(السيستروم / 𓏣)</i>
+  - 👘 Authentic Garb: Khat & Shendyt <i>(الخات والشنديت / 𓐍𓄿𓏏𓋴 𓋴𓈙𓅱𓂧𓏏𓋱)</i>
 - 🏰 Heritage of the Ptolemaic Kingdom <i>(المملكه البطلميه / Πτολεμαϊκὴ βασιλεία)</i>
 - 🏰 Heritage of the Fatimid Empire <i>(الخلافة الفاطمیّة)</i>
 - 🏰 Heritage of the Ayyubid Sultanate <i>(الدولة الأيوبية)</i>
