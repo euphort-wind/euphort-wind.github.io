@@ -211,9 +211,9 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🏰 Heritage of the Kingdom of Greece <i>(Βασίλειον τῆς Ἑλλάδος)</i><br> 
 <u>South Aegean - Regional Special:</u>
 - 🐦‍🔥 Legend of the Colossus of Rhodes <i>(Κολοσσός της Ρόδου)</i>
-- ⛵ Caïque Boats <i>(Καΐκια)</i><br>
+- ⛵ Caïque Boats <i>(Καΐκια)</i>
 - 🛖 Mykonos Windmills <i>(Ανεμόμυλοι Μυκόνου)</i>
-- 🏛️ Cycladic Architectural Style <i>(Κυκλαδική Αρχιτεκτονική)</i>
+- 🏛️ Cycladic Architectural Style <i>(Κυκλαδική Αρχιτεκτονική)</i><br>
 <u>Crete - Regional Special:</u> 
 - 🪕 Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
 - 👘 Authentic Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
