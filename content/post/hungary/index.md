@@ -133,21 +133,23 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 
 
 <b>🪔 Authentic features:</b>
-- 💃 Csárdás Dance <i>(Csárdás)</i>
-- 💃 Verbunkos Dance <i>(Verbunkos)</i>
-- 🎑 Táncház Dance Ritual <i>(Táncház)</i>
+- 🕯️ Hungarian Neopaganism <i>(Ősmagyar Vallás)</i>
 - 🏺 Rubik's Cubes <i>(Rubik-Kocka)</i>
-- 🎨 Kalocsa Embroidery <i>(Kalocsai Hímzés)</i>
-- 🏛️ Hungarian Secession Architectural Style <i>(Magyar Szecesszió)</i>
+- 🚗 Hungarian Buses <i>(Brand: "Ikarus")</i>
 - 🛖 Hungarian Thermal Baths <i>(Magyar Gyógyfürdők)</i>
 - 🛖 Csárda Road Taverns <i>(Csárdák)</i>
-- 🚗 Hungarian Busses <i>(Brand: "Ikarus")</i>
+- 🏛️ Hungarian Secession Architectural Style <i>(Magyar Szecesszió)</i>
+- 🎨 Kalocsa Embroidery <i>(Kalocsai Hímzés)</i>
+- 🎑 Táncház Dance Ritual <i>(Táncház)</i>
+- 💃 Csárdás Dance <i>(Csárdás)</i>
+- 💃 Verbunkos Dance <i>(Verbunkos)</i>
 - 🪕 Authentic Musical Instrument: Cimbalom <i>(Cimbalom)</i>
 - 👘 Authentic Garb: Bocskai Coat & Attila <i>(Bocskai Öltöny és Atilla)</i>
 - 🏰 Heritage of the Grand Principality of Hungary <i>(Magyar Nagyfejedelemség)</i>
 - 🏰 Heritage of the Kingdom of Hungary <i>(Magyar Királyság / Regnum Hungariae)</i>
+  - 🕯️ Old Hungarian Shamanism <i>(Táltoshit)</i>
   - 🐦‍🔥 Old Hungarian Mythology <i>(Ősmagyar Mitológia)</i>
-  - 🕯️ Old Hungarian Shamanism <i>(Ősmagyar Vallás)</i>
+  - 👑 Title of Táltos <i>(Táltos)</i>
   - 👑 Title of Ispán <i>(Ispán)</i>
 
 

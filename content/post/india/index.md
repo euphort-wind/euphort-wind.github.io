@@ -128,23 +128,23 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 🕯️ Hinduism <i>(हिन्दू धर्म)</i>
 - 🕯️ Sikhism <i>(सिख धर्म)</i>
 - 🕯️ Jainism <i>(जैन धर्म)</i>
-- 🏃🏻 Yoga Tradition <i>(योग)</i>
-- 👑 Title of Guru <i>(गुरु)</i>
 - 🔠 Devanagari Script <i>(देवनागरी)</i>
+- 🐦‍🔥 Indian Folklore <i>(भारतीय लोकवार्ता)</i>
+- 👑 Title of Guru <i>(गुरु)</i>
+- 🚗 Indian Cars <i>(Brands: "Tata", "Mahindra")</i>
+- 🛖 Chhatri Pavilions <i>(छतरी)</i>
+- 🛖 Haveli Houses <i>(हवेली)</i>
+- 🛖 Stepwells <i>(बावड़ी)</i>
+- 🏛️ Nagara Architectural Style <i>(नागर शैली)</i>
+- 🏛️ Indo-Saracenic Architectural Style <i>(इंडो-सारासेनिक वास्तुकला)</i>
 - 🎨 Madhubani Paintings <i>(मधुबनी चित्रकला)</i>
 - 🎨 Kalamkari Textile <i>(कलमकारी)</i>
+- 🏃🏻 Yoga Tradition <i>(योग)</i>
 - 🏓 Gillidanda Game <i>(गिल्ली डंडा)</i>
 - 🏓 Kho Kho Game <i>(खो-खो)</i>
 - 🏓 Carrom Game <i>(कैरम)</i>
 - 🏓 Chaturanga Game <i>(चतुरंग)</i>
 - 💃 Bharatanatyam Dance <i>(भरतनाट्यम)</i>
-- 🏛️ Nagara Architectural Style <i>(नागर शैली)</i>
-- 🏛️ Indo-Saracenic Architectural Style <i>(इंडो-सारासेनिक वास्तुकला)</i>
-- 🛖 Chhatri Pavilions <i>(छतरी)</i>
-- 🛖 Haveli Houses <i>(हवेली)</i>
-- 🛖 Stepwells <i>(बावड़ी)</i>
-- 🐦‍🔥 Indian Folklore <i>(भारतीय लोकवार्ता)</i>
-- 🚗 Indian Cars <i>(Brands: "Tata", Mahindra")</i>
 - 🪕 Authentic Musical Instrument: Saraswati Veena <i>(सरस्वती वीणा)</i>
 - 👘 Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
 - 🏰 Heritage of the Maurya Empire <i>(मौर्यसाम्राज्य / मौर्यसाम्राज्यम्)</i>
@@ -156,11 +156,11 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 <u>Karnataka - Regional Special:</u> 
 - 👲 Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
   - 🔠 Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
-  - 💃 Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
-  - 🎭 Dasa Sahitya Poetry <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
-  - 🏃🏻 Kambala Buffalo Race Tradition <i>(कंबाला / ಕಂಬಳ)</i>
-  - 🏓 Pallanguzhi Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>
   - 🐦‍🔥 Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
+  - 💃 Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
+  - 🏃🏻 Kambala Buffalo Race Tradition <i>(कंबाला / ಕಂಬಳ)</i>
+  - 🏓 Alaguli Mane Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>
+  - 🎭 Dasa Sahitya Poetry <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
   - 🪕 Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i><br>
 - 🏰 Heritage of the Rashtrakuta Empire <i>(राष्ट्रकूट राजवंश / ರಾಷ್ಟ್ರಕೂಟ)</i>
 - 🏰 Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i><br>

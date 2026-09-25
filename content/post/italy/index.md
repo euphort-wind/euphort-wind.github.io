@@ -317,73 +317,78 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: La Dolce Vita <i>(La Dolce Vita)</i> 
-- 🔠 Latin Alphabet <i>(Alfabeto Latino)</i> 
-- 💃 Tarantella Dance <i>(Tarantella)</i> 
-- 🛠️ Maiolica Pottery Tradition <i>(Maiolica)</i> 
-- 🏓 Bocce Game <i>(Bocci)</i> 
+- 🔠 Latin Alphabet <i>(Alfabeto Latino)</i>
+- 🐦‍🔥 Italian Folklore <i>(Folclore d'Italia)</i>
+- 🚗 Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>  
+- 🛖 Trattorias <i>(Trattorie)</i>  
+- 🛖 Osterias <i>(Osterie)</i>
+- 🏛️ Italian Renaissance Architectural Style <i>(Architettura Rinascimentale)</i>
+- 🏛️ Italian Neoclassical Architectural Style <i>(Architettura Neoclassica Italiana)</i>
+- 🛠️ Maiolica Pottery Tradition <i>(Maiolica)</i>
+- 🎨 Italian Renaissance Paintings <i>(Pittura Rinascimentale)</i>
+- 🎨 Italian Baroque Paintings <i>(Pittura Barocca Italiana)</i> 
+- 🏓 Bocce Game <i>(Bocce)</i> 
 - 🏓 Morra Game <i>(Morra)</i>
 - 🏓 Pallone Game <i>(Pallone)</i>
-- 🎨 Italian Baroque Paintings <i>(Pittura Barocca Italiana)</i> 
-- 🏛️ Italian Neoclassical Architectural Style <i>(Architettura Neoclassica Italiana)</i> 
-- 🐦‍🔥 Italian Folklore <i>(Folclore d'Italia)</i> 
-- 🚗 Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>
+- 🏓 Ruzzola Game <i>(Ruzzola)</i>
+- 💃 Tarantella Dance <i>(Tarantella)</i> 
 - 🪕 Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
 - 🏰 Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
 - 🏰 Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
-  - 🦉 Authentic Concept: Mos Maiorum <i>(Mos Maiorum)</i> 
-  - 🏓 Harpastum Game <i>(Harpastum)</i> 
-  - 🏓 Trigon Game <i>(Trigon)</i>
-  - 👑 Title of Pater Patriae <i>(Pater Patriae)</i> 
+  - 🦉 Authentic Concept: Mos Maiorum <i>(Mos Maiorum)</i>
+  - 🕯️ Ancient Roman Religion <i>(Religione Romana Antica)</i>
   - 🐦‍🔥 Ancient Roman Mythology <i>(Mitologia Romana Antica)</i>
+  - 👑 Title of Pater Patriae <i>(Pater Patriae)</i>
   - 🏛️ Ancient Roman Architectural Style <i>(Architettura Romana Antica)</i>
   - 🛠️ Ancient Roman Sculptural Tradition <i>(Scultura Romana Antica)</i>
-  - 🕯️ Ancient Roman Religion <i>(Religione Romana Antica)</i> 
+  - 🏓 Harpastum Game <i>(Harpastum)</i> 
+  - 🏓 Trigon Game <i>(Trigon)</i>
+  - 🎑 Argei Ritual <i>(Argei)</i>
   - 🪕 Authentic Musical Instrument: Cornu <i>(Cornu)</i> 
   - 👘 Authentic Garb: Toga & Palla <i>(Toga e Palla)</i>
 - 🏰 Heritage of the Kingdom of Italy <i>(Regno d'Italia)</i><br>
 <u>Lazio - Regional Special:</u> 
 - 🏺 Nasoni <i>(Nasoni)</i><br> 
-<u>Tuscany - Regional Special:</u> 
+<u>Tuscany - Regional Special:</u>
+- 🏃🏻 Calcio Storico Fiorentino Tradition <i>(Calcio Storico)</i> 
 - 🎑 Scoppio del Carro Ritual <i>(Scoppio del Carro)</i>
 - 🧝 Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i>
-  - 👑 Title of Lucumo <i>(Lucumone)</i> 
-  - 🕯️ Ancient Etruscan Religion <i>(Religione Etrusca)</i> 
+  - 🕯️ Ancient Etruscan Religion <i>(Religione Etrusca)</i>
+  - 👑 Title of Lucumo <i>(Lucumone)</i>  
   - 🔠 Ancient Etruscan Alphabet <i>(Alfabeto Etrusco)</i> 
   - 🛠️ Bucchero Pottery Tradition <i>(Bucchero)</i> 
 - 🏰 Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
-  - 🎨 Medici Porcelain <i>(Porcellane Medicee)</i>
-  - 🏛️ Italian Renaissance Architectural Style <i>(Architettura Rinascimentale)</i>
-  - 🎨 Italian Renaissance Paintings <i>(Pittura Rinascimentale)</i>
 - 🏰 Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i><br> 
-<u>Emilia-Romagna - Regional Special:</u> 
-- 💃 Liscio Dance <i>(Ballo Liscio)</i> 
+<u>Emilia-Romagna - Regional Special:</u>  
 - 🛖 Porticoes of Bologna <i>(Portici di Bologna)</i>
-- 🛖 Towers of Bologna <i>(Torri di Bologna)</i><br>
+- 🛖 Towers of Bologna <i>(Torri di Bologna)</i>
+- 💃 Liscio Dance <i>(Ballo Liscio)</i><br>
 <u>Sicily - Regional Special:</u> 
 - 👲 Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
-  - 🦉 Authentic Concept: Omerta <i>(Omertà / Ômertà)</i> 
-  - 🎭 Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
-  - 🎨 Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i>
-  - 🛖 Baglio Farmhouses <i>(Bagli / Bagghi)</i>
-  - 🏛️ Sicilian Baroque Architectural Style <i>(Barocco Siciliano / Baroccu Sicilianu)</i> 
+  - 🦉 Authentic Concept: Omerta <i>(Omertà / Ômertà)</i>
+  - 🐦‍🔥 Sicilian Folklore <i>(Folclore Siciliano / Folklori Sicilianu)</i>
   - 🏺 Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
+  - 🛖 Baglio Farmhouses <i>(Bagli / Bagghi)</i>
+  - 🏛️ Sicilian Baroque Architectural Style <i>(Barocco Siciliano / Baroccu Sicilianu)</i>
+  - 🎨 Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
+  - 🎭 Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
   - 🪕 Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
 - 🏰 Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i><br> 
 <u>Campania - Regional Special:</u> 
 - 🏺 Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
 - 🏺 Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
+- 🛖 Pizza Parlors <i>(Pizzerie)</i> 
 - 🎨 Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
-- 🎙️ Canzone Napoletana Music <i>(Canzone Napoletana / Canzona Napulitana)</i> 
 - 🏓 Strummolo Game <i>(Strummolo / Strummolo)</i> 
 - 🏓 Tombola Game <i>(Tombola / Tombola)</i> 
 - 🎑 Caffè Sospeso Ritual <i>(Caffè Sospeso / Cafè Suspiso)</i> 
 - 🎭 Neapolitan Puppetry <i>(Guarattelle Napoletane / Guarattelle Napulitane)</i>
+- 🎙️ Canzone Napoletana Music <i>(Canzone Napoletana / Canzona Napulitana)</i> 
 - 🏰 Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i><br> 
 <u>Lombardy - Regional Special:</u> 
 - 💃 Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
-- ⛰️ Navigli of Milan <i>(Navigli / Navili)</i>
 - 🏰 Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
-
+- ⛰️ Navigli of Milan <i>(Navigli / Navili)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
