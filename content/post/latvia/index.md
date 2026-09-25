@@ -97,10 +97,10 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 
 
 <b>🪔 Authentic features:</b>
-- 🎙️ Daina Music <i>(Dainas)</i> 
-- 🏓 Novuss Game <i>(Novuss)</i>
 - 🐦‍🔥 Legend of Lāčplēsis <i>(Lāčplēsis: Eposs)</i>
 - 🐦‍🔥 Latvian Mythology <i>(Latviešu Mitoloģija)</i> 
+- 🏓 Novuss Game <i>(Novuss)</i>
+- 🎙️ Daina Music <i>(Dainas)</i> 
 - 🪕 Authentic Musical Instrument: Kokle <i>(Kokle)</i> 
 - 👘 Authentic Garb: Latvian Belt <i>(Lielvārdes Josta)</i> 
 - 🏰 Heritage of the Livonian Confederation <i>(Livonijas Konfederācija / Terra Mariana)</i><br>
