@@ -148,14 +148,14 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 
 <b>🪔 Authentic features:</b>
 - 🔠 Cyrillic Alphabet <i>(Кирилица)</i>
-- 💃 Horo Dance <i>(Хоро)</i>
-- 🎑 Anastenaria Ritual <i>(Нестинарство)</i>
-- 🎑 Kukeri Ritual <i>(Кукери)</i>
+- 🐦‍🔥 Bulgarian Mythology <i>(Българската Митология)</i>
+- 🏛️ Bulgarian Revival Architectural Style <i>(Възрожденска Архитектура)</i>
+- 🛠️ Rose Oil Production Tradition <i>(Производство на Розово Масло)</i>
 - 🎨 Shevitsa Embroidery <i>(Шевица)</i>
 - 🛖 Chitalishte Buildings <i>(Читалища)</i>
-- 🏛️ Bulgarian Revival Architectural Style <i>(Възрожденска Архитектура)</i>
-- 🐦‍🔥 Bulgarian Mythology <i>(Българската Митология)</i>
-- 🛠️ Rose Oil Production Tradition <i>(Производство на Розово Масло)</i>
+- 🎑 Anastenaria Ritual <i>(Нестинарство)</i>
+- 🎑 Kukeri Ritual <i>(Кукери)</i>
+- 💃 Horo Dance <i>(Хоро)</i>
 - 🪕 Authentic Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
 - 👘 Authentic Garb: Bulgarian Nosiya <i>(Носия)</i>
 - 🧝 Legacy of Thracians <i>(Траки)</i>
@@ -163,7 +163,10 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🏰 Heritage of the First Bulgarian Empire <i>(Първо Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>
 - 🏰 Heritage of the Second Bulgarian Empire <i>(Второ Българско Царство / Ц︢рьство Блъгарское)</i>
 - 🏰 Heritage of the Principality of Bulgaria <i>(Княжество България)</i>
-- 🏰 Heritage of the Kingdom of Bulgaria <i>(Царство България)</i>
+- 🏰 Heritage of the Kingdom of Bulgaria <i>(Царство България)</i><br>
+<u>Varna - Regional Special:</u> 
+- ⛰️ Pobiti Kamani <i>(Побити Камъни)</i> 
+
 
 
 

@@ -150,17 +150,17 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 
 
 <b>🪔 Authentic features:</b>
-- 🎑 Tamadas & Supra Ritual <i>(თამადა და სუფრა)</i>
-- 🛠️ Kvevri-Based Wine Production Tradition <i>(ქვევრის ღვინო)</i>
 - 🔠 Mkhedruli Script <i>(მხედრული)</i>
 - 🔠 Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
 - 🔠 Nuskhuri Script <i>(ნუსხური / ⴌⴓⴑⴞⴓⴐⴈ)</i>
-- 💃 Kartuli Dance <i>(ქართული ცეკვა)</i>
-- 🎭 Berikaoba Theater <i>(ბერიკაობა)</i>
+- 🐦‍🔥 Georgian Mythology <i>(ქართული მითოლოგია)</i>
+- 🛠️ Kvevri-Based Wine Production Tradition <i>(ქვევრის ღვინო)</i>
 - 🏃🏻 Chidaoba Wrestling Tradition <i>(ჩიდაობა)</i>
 - 🏓 Lelo Burti Game <i>(ლელო ბურთი)</i>
+- 🎑 Tamadas & Supra Ritual <i>(თამადა და სუფრა)</i>
+- 🎭 Berikaoba Theater <i>(ბერიკაობა)</i>
+- 💃 Kartuli Dance <i>(ქართული ცეკვა)</i>
 - 🎙️ Georgian Polyphonic Singing <i>(ქართული მრავალხმიანობა)</i>
-- 🐦‍🔥 Georgian Mythology <i>(ქართული მითოლოგია)</i> 
 - 🪕 Authentic Musical Instrument: Panduri <i>(ფანდური)</i>
 - 👘 Authentic Garb: Chokha & Kabalakhi <i>(ჩოხა და ყაბალახი)</i>
 - 🏰 Heritage of the Kingdom of Colchis <i>(ეგრისი)</i>
@@ -173,9 +173,10 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - 💃 Kakhuri Dance <i>(კახურის ცეკვა)</i>
 - 👘 Authentic Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
 - 🏰 Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i><br>
-<u>Tbilisi-Capital - Regional Special:</u> 
+<u>Tbilisi-Capital - Regional Special:</u>
+- 🏺 Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i> 
 - 🛖 Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
-- 🏺 Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i>
+
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

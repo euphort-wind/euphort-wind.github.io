@@ -178,48 +178,53 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🦉 Authentic Concept: Philotimo <i>(Φιλότιμο)</i>
 - 🕯️ Eastern Orthodoxy <i>(Ανατολικός Ορθόδοξος Χριστιανισμός)</i>
 - 🕯️ Hellenic Polytheism <i>(Ελληνική Εθνική Θρησκεία)</i>
-- 👑 Title of Ecumenical Patriarch of Constantinople <i>(Οἰκουμενικός Πατριάρχης)</i>
-- 💃 Sirtaki Dance <i>(Σιρτάκη)</i>
-- 🛖 Kafenios <i>(Καφενεία)</i>
-- 🎙️ Rebetiko Music <i>(Ρεμπέτικο Τραγούδι)</i>
 - 🔠 Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
+- 🐦‍🔥 Greek Folklore <i>(Ελληνική Λαογραφία)</i>
+- 👑 Title of Ecumenical Patriarch of Constantinople <i>(Οἰκουμενικός Πατριάρχης)</i>
+- 🛖 Kafenios <i>(Καφενεία)</i>
+- 🏛️ Greek Neoclassical Architectural Style <i>(Ελληνική Νεοκλασική Αρχιτεκτονική)</i>
+- 💃 Sirtaki Dance <i>(Σιρτάκι)</i>
+- 🎙️ Rebetiko Music <i>(Ρεμπέτικο Τραγούδι)</i>
 - 🪕 Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
 - 👘 Ancient Authentic Garb: Fustanella & Amalía Dress <i>(Φουστανέλα και Αμαλία)</i>
 - 🧝 Legacy of Mycenaeans <i>(Μυκηναίοι)</i>
 - 🧝 Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
   - 🦉 Authentic Concept: Eudaimonia <i>(Ευδαιμονία)</i>
-  - 🏓 Ostrakinda Game <i>(Ὀστρακίνδα)</i>
-  - 🎭 Aoidoi & Ancient Greek Epic Poetry <i>(Αοιδoί και Αρχαία Ελληνική Επική Ποίηση)</i>
-  - 🎭 Rhapsodes & Rhapsodies <i>(Ραψωδοί και Ραψωδίεςη)</i>
-  - 👑 Title of Basileus <i>(βασιλεύς)</i>
   - 🕯️ Ancient Greek Religion <i>(Αρχαία Ελληνική Θρησκεία)</i>
   - 🐦‍🔥 Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
+  - 👑 System of Ancient Greek Polises <i>(Πόλεις)</i>
+  - 👑 Title of Basileus <i>(βασιλεύς)</i>
+  - ⛵ Trireme Boats <i>(Τριήρεις)</i>
+  - 🛖 Ancient Greek Temples <i>(Ναοί)</i>
   - 🏛️ Ancient Greek Architectural Style <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
   - 🛠️ Ancient Greek Sculptural Tradition <i>(Αρχαία Ελληνική Γλυπτική)</i>
   - 🛠️ Ancient Greek Pottery Tradition <i>(Αρχαία Ελληνική Κεραμική)</i>
   - 🏃🏻 Ancient Greek Boxing Tradition <i>(Πυγμαχία)</i>
   - 🏃🏻 Chariot Racing Tradition <i>(Ἁρματοδρομία)</i>
+  - 🏓 Ostrakinda Game <i>(Ὀστρακίνδα)</i>
+  - 🎭 Aoidoi & Ancient Greek Epic Poetry <i>(Αοιδoί και Αρχαία Ελληνική Επική Ποίηση)</i>
+  - 🎭 Rhapsodes & Rhapsodies <i>(Ραψωδοί και Ραψωδίες)</i>
   - 🪕 Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
   - 👘 Authentic Garb: Peplos & Chlamys <i>(Πέπλος και Χλαμύδα)</i>
 - 🏰 Heritage of the Byzantine Empire <i>(Βυζαντινή Αυτοκρατορία / Imperium Romanum Orientale)</i>
 - 🏰 Heritage of the Nicene Empire <i>(Βασιλεία Ῥωμαίων)</i>
 - 🏰 Heritage of the Kingdom of Greece <i>(Βασίλειον τῆς Ἑλλάδος)</i><br> 
 <u>South Aegean - Regional Special:</u>
-- 🐦‍🔥 Legend of the Colossus of Rhodes <i>(Κολοσσού της Ρόδου)</i>
+- 🐦‍🔥 Legend of the Colossus of Rhodes <i>(Κολοσσός της Ρόδου)</i>
+- ⛵ Caïque Boats <i>(Καΐκια)</i><br>
 - 🛖 Mykonos Windmills <i>(Ανεμόμυλοι Μυκόνου)</i>
 - 🏛️ Cycladic Architectural Style <i>(Κυκλαδική Αρχιτεκτονική)</i>
-- ⛵ Caïque Boates <i>(Καΐκι)</i><br>
 <u>Crete - Regional Special:</u> 
 - 🪕 Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
 - 👘 Authentic Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
 - 🧝 Legacy of Minoans <i>(Μινωίτες)</i>
   - 🔠 Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
   - 🔠 Linear A Writing System <i>(Γραμμική Α)</i>
-  - 🏓 Knossos Board Game <i>(Ζατρίκιον)</i>
-  - 🎨 Minoan Paintings <i>(Μινωική Ζωγραφική)</i>
   - 🏛️ Minoan Palatial Architectural Style <i>(Μινωικά Ανάκτορα)</i>
   - 🛠️ Minoan Pottery Tradition <i>(Μινωική Κεραμική)</i>
   - 🛠️ Minoan Jewellery Tradition  <i>(Μινωικά Κοσμήματα)</i>
+  - 🎨 Minoan Paintings <i>(Μινωική Ζωγραφική)</i>
+  - 🏓 Knossos Board Game <i>(Ζατρίκιον)</i>
 - 🏰 Heritage of the Cretan State <i>(Κρητική Πολιτεία)</i><br> 
 <u>Attica - Regional Special:</u> 
 - 🏰 Heritage of the Delian League <i>(Συμμαχία της Δήλου)</i>

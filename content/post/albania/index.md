@@ -97,13 +97,14 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Besa <i>(Besa)</i>
 - 🕯️ Bektashism <i>(Bektashizmi)</i>
-- 💃 Shota Dance <i>(Shotë)</i>
-- 👑 System of Albanian Tribes <i>(Fiset Shqiptare)</i>
-- 👑 Title of Dedebaba <i>(Kryegjyshi)</i>
 - 🐦‍🔥 Legend of Skanderbeg <i>(Legjenda e Skënderbeut)</i>
 - 🐦‍🔥 Albanian Folklore <i>(Folklori Shqiptar)</i>
-- 🎙️ Albanian Iso-Polyphonic Music <i>(Iso-Polifonia Shqiptare)</i>
+- 👑 System of Albanian Tribes <i>(Fiset Shqiptare)</i>
+- 👑 Title of Dedebaba <i>(Kryegjyshi)</i>
 - 🛖 Albanian Bunkers <i>(Bunkerët Shqiptarë)</i>
+- 🛖 Albanian Kullas <i>(Kullat Shqiptare)</i>
+- 💃 Shota Dance <i>(Shotë)</i>
+- 🎙️ Albanian Iso-Polyphonic Music <i>(Iso-Polifonia Shqiptare)</i>
 - 🪕 Authentic Musical Instrument: Çifteli <i>(Çiftelia)</i>
 - 👘 Authentic Garb: Xhubleta & Xhamadan <i>(Xhubleta dhe Xhamadan)</i> 
 - 🏰 Heritage of the Kingdom of Albania <i>(Mbretëria e Arbërisë / Regnum Albaniae)</i>

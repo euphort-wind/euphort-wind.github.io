@@ -94,26 +94,29 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 
 
 <b>🪔 Authentic features:</b>
-- 🏃🏻 Desert Safari Tradition <i>(رحلات السفاري الصحراوية)</i>
+- 🐦‍🔥 Egyptian Folklore <i>(تراث مصري)</i>
+- ⛵ Falūka Boats <i>(فلايك)</i>
 - 🎨 Henna Body Painting <i>(رسم الحنة)</i>
 - 🎨 Khayamiya Textile <i>(خيّامية)</i>
+- 🏃🏻 Desert Safari Tradition <i>(رحلات السفاري الصحراوية)</i>
 - 🪕 Authentic Musical Instrument: Goblet Drum <i>(دربوكة)</i>
 - 👘 Authentic Garb: Galabiya <i>(جلابية)</i>
 - 👲 Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
   - 🦉 Authentic Concept: Coptic Monasticism <i>(الرهبنه القبطيه / Ⲡⲓⲃⲓⲟⲥ Ⲛⲙⲟⲛⲁⲭⲟⲥ)</i>
-  - 👑 Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
   - 🔠 Coptic Script <i>(الأبجدية القبطية / Ⲁⲃⲅⲇⲉ)</i>
+  - 👑 Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
   - 🏺 Coptic Crosses <i>(الصليب القبطى / Ⲥⲧⲁⲩⲣⲟⲥ)</i>
 - 🧝 Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
   - 🦉 Authentic Concept: Maat <i>(ماعت / 𓁦)</i>
-  - 🏓 Senet Game <i>(لعبة السِّينِت / 𓊃𓈖𓏏𓏠)</i>
-  - 👑 Title of Pharaoh <i>(فرعون / 𓉐𓉻)</i>
-  - 🐦‍🔥 Ancient Egyptian Mythology <i>(أساطير مصرية / 𓌳𓇋𓀁𓊹𓊹𓊹)</i>
-  - 🔠 Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية / 𓊹𓌃𓏥)</i>
-  - 🏛️ Ancient Egyptian Architectural Style <i>(العمارة المصرية القديمة / 𓉐)</i>
   - 🕯️ Ancient Egyptian Religion <i>(ديانة قدماء المصريين / 𓊹𓌃)</i>
+  - 🔠 Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية / 𓊹𓌃𓏥)</i>
+  - 🐦‍🔥 Ancient Egyptian Mythology <i>(أساطير مصرية / 𓌳𓇋𓀁𓊹𓊹𓊹)</i>
+  - 👑 Title of Pharaoh <i>(فرعون / 𓉐𓉻)</i>
   - 🏺 Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة / 𓍔𓏲)</i>
   - ⛵ Ancient Egyptian Royal Ships <i>(مراكب الشمس / 𓊛)</i>
+  - 🏛️ Ancient Egyptian Architectural Style <i>(العمارة المصرية القديمة / 𓉐)</i>
+  - 🏓 Senet Game <i>(لعبة السِّينِت / 𓊃𓈖𓏏𓏠)</i>
+  - 💃 Ancient Egyptian Dance <i>(الرقص في مصر القديمة / 𓀤)</i>
   - 🪕 Authentic Musical Instrument: Sistrum <i>(السيستروم / 𓏣)</i>
   - 👘 Authentic Garb: Khat & Shendyt <i>(الخات والشنديت / 𓐍𓄿𓏏𓋴 𓋴𓈙𓅱𓂧𓏏𓋱)</i>
 - 🏰 Heritage of the Ptolemaic Kingdom <i>(المملكه البطلميه / Πτολεμαϊκὴ βασιλεία)</i>

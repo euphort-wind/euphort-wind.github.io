@@ -90,15 +90,16 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 
 <b>🪔 Authentic features:</b>
 - 🎨 Fythkiotika Textile <i>(Φυθκιώτικα)</i>
-- 🎭 Tsiattista Poetic Duelling <i>(Τσιαττίστας)</i>
 - 🏓 Ziziros Game <i>(Ζίζιρος Παιχνίδι)</i>
+- 🎭 Tsiattista Poetic Duelling <i>(Τσιαττίστας)</i>
 - 🪕 Authentic Musical Instrument: Laouto <i>(Λαούτο)</i>
 - 👘 Authentic Garb: Cypriot Sayia & Worry Beads <i>(Σαγιά και Κομπολόι)</i>
 - 🏰 Heritage of the Ten City-Kingdoms of Cyprus <i>(Δέκα Πόλεις-βασίλεια της Κύπρου)</i>
   - 🔠 Linear C Writing System <i>(Κυπριακό Συλλαβάριο)</i>
-  - 🛠️ Cypro-Archaic Pottery Tradition <i>(Κυπρο-Αρχαϊκή Κεραμική)</i>
   - 🏺 Cypro-Archaic Terracotta Figurines <i>(Κυπρο-Αρχαϊκά Ειδώλια από Τερακότα)</i>
-- 🏰 Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i><br>
+  - 🛠️ Cypro-Archaic Pottery Tradition <i>(Κυπρο-Αρχαϊκή Κεραμική)</i>
+- 🏰 Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>
+- ⛰️ Troodos Ophiolites <i>(Οφιόλιθος του Τροόδους)</i><br>
 <u>Larnaca - Regional Special:</u> 
 - 🎨 Lefkara Lace <i>(Λευκαρίτικα)</i>
 

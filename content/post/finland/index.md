@@ -120,25 +120,27 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Sisu <i>(Sisu)</i> 
+- 🦉 Authentic Concept: Sisu <i>(Sisu)</i>
+- 🐦‍🔥 Finnish Mythology <i>(Suomalainen Mytologia)</i> 
 - 🛖 Finnish Saunas <i>(Saunakulttuuri)</i>
 - 🎨 Puukko Knives <i>(Puukko)</i>
 - 🎨 Ryijy Tapestry <i>(Ryijy)</i>
 - 🏓 Kyykkä Game <i>(Kyykkä)</i>
 - 🎙️ Finnish Runic Singing <i>(Runolaulu)</i>
-- 🐦‍🔥 Finnish Mythology <i>(Suomalainen Mytologia)</i>
 - 🪕 Authentic Musical Instrument: Kantele <i>(Kantele)</i>
 - 👘 Authentic Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
 - 👲 Culture of Sámi <i>(Saamelaiset / Sámit)</i>
   - 🕯️ Sámi Shamanism <i>(Saamelainen Muinaisusko / Sámi Osku)</i>
   - 👑 System of Siida <i>(Lapinkylä / Siida)</i>
-  - 🎙️ Joik Singing <i>(Joiku / Luohti)</i>
   - 🛖 Lavvu Dwellings <i>(Umpilaavu / Lávvu)</i>
+  - 🎨 Duodji Handicraft <i>(Saamenkäsityö / Duodji)</i>
   - 🏓 Sáhkku Game <i>(Sáhkku / Sáhkku)</i>
   - 🏓 Dablo Game <i>(Dablo / Daablodh Prejjesne)</i>
-  - 🎨 Duodji Handicraft <i>(Saamenkäsityö / Duodji)</i>
+  - 🎙️ Joik Singing <i>(Joiku / Luohti)</i>
   - 🪕 Authentic Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
   - 👘 Authentic Garb: Beaska & Four Winds Hat <i>(Beaska ja Neljäntuulenlakki / Muoddá ja Čiehgahpir)</i>
+- ⛰️ Salpausselkä <i>(Salpausselkä)</i>
+
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Independence Day of Finland <i>(Itsenäisyyspäivä)</i>. Month: December

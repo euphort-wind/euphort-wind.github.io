@@ -133,12 +133,12 @@ sections:
         - date_start: '2025-10-29'
           icon: rub
           organization: Guest Researcher, Ruhr University Bochum, Bochum
-          organization_url: https://se-rub.de/research-group/
+          organization_url: https://se.rub.de/
           title:  ISSElab Research Visit 2025
         - date_start: '2025-10-17'
           icon: gu
           organization: Speaker, University of Gothenburg, Gothenburg
-          organization_url: https://www.gu.se/en/event/towards-systematic-trade-off-management-for-mlops-quality-model-architectural-tactics-design-patterns
+          organization_url: https://www.gu.se/en
           title:  GU Licentiate Seminar 2025
         - date_start: '2025-09-10'
           icon: seaa
@@ -153,7 +153,7 @@ sections:
         - date_start: '2025-04-10'
           icon: gaia2
           organization: Participant, Artificial Intelligence Alliance, Gothenburg
-          organization_url: https://www.gaia.fish/
+          organization_url: https://www.gaia.fish/events/2025-gaia-conference
           title:  GAIA Conference 2025
         - date_start: '2025-03-31'
           icon: sac
@@ -173,7 +173,7 @@ sections:
         - date_start: '2024-03-27'
           icon: gaia
           organization: Participant, Artificial Intelligence Alliance, Gothenburg
-          organization_url: https://www.gaia.fish/
+          organization_url: https://www.gaia.fish/events/2024-gaia-conference
           title:  GAIA Conference 2024
         - date_start: '2023-10-30'
           icon: siren
@@ -197,7 +197,7 @@ sections:
         - date_start: '2021-03-01'
           icon: coursera
           organization: Participant, Erasmus University, Rotterdam
-          organization_url: https://www.coursera.org/account/accomplishments/verify/4Y7H3PTZGEKX
+          organization_url: https://www.coursera.org/learn/innovation-management
           title: Innovation Management Course 2021
         - date_start: '2018-10-01'
           icon: jet

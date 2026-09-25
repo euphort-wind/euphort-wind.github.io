@@ -124,11 +124,11 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Belgitude <i>(Belgitude / Belgitude)</i>
-- 🏓 Crossage Game <i>(Crossage / Chole)</i>
+- 🐦‍🔥 Belgian Folklore <i>(Folklore Belge / Belgische Folklore)</i>
 - 🛖 Belgian Friteries <i>(Friteries / Frietkoten)</i>
 - 🏛️ Brabantine Gothic Architectural Style <i>(Gothique Brabançon / Brabantse Gotiek)</i>
 - 🎨 Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
-- 🐦‍🔥 Belgian Folklore <i>(Folklore Belge / Belgische Folklore)</i>
+- 🏓 Crossage Game <i>(Crossage / Chole)</i>
 - 🪕 Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
 - 🏰 Heritage of the Duchy of Brabant <i>(Duché de Brabant / Hertogdom Brabant)</i>
 - 🏰 Heritage of the United Belgian States <i>(États-Belgiques-Unis / Verenigde Belgische Staten)</i>

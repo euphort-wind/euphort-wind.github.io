@@ -119,17 +119,18 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Hygge <i>(Hygge)</i>
-- 🎨 Hedebo Embroidery <i>(Hedebosyning)</i>
-- 🎨 Danish Easter Letters <i>(Gækkebreve)</i>
 - 🐦‍🔥 Legend of the Danish Flag <i>(Dannebrog)</i>
 - 🐦‍🔥 Danish Folklore <i>(Dansk Folketro)</i>
-- 🏓 Daldøs Game <i>(Daldøs)</i>
 - 🛖 Danish Beach Huts <i>(Badehuse)</i>
-- 🏛️ National Romantic Architectural Style <i>(Nationalromantik Byggestil)</i>
-- 🏛️ Nordic Classical Architectural Style <i>(Nordiske Klassiske Arkitektur)</i>
+- 🏛️ National Romantic Architectural Style <i>(Nationalromantisk Byggestil)</i>
+- 🏛️ Nordic Classical Architectural Style <i>(Nordisk Klassicistisk Arkitektur)</i>
+- 🎨 Hedebo Embroidery <i>(Hedebosyning)</i>
+- 🎨 Danish Easter Letters <i>(Gækkebreve)</i>
+- 🏓 Daldøs Game <i>(Daldøs)</i>
 - 🎙️ Danish Fiddle Music <i>(Spillemandsmusik)</i>
 - 🪕 Authentic Musical Instrument: Lur <i>(Lur)</i>
 - 🏰 Heritage of the Kalmar Union <i>(Kalmarunionen)</i>
+- ⛰️ Fur Formations <i>(Fur Formationen)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
