@@ -105,14 +105,14 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 
 
 <b>🪔 Authentic features:</b>
-- 🎙️ Għana Folk Singing <i>(Għana)</i>
-- ⛵ Luzzu Boats <i>(Luzzu)</i>
+- 🐦‍🔥 Maltese Folklore <i>(Folklor Malti)</i>
 - 🏺 Maltese Wooden Balconies <i>(Gallariji Tradizzjonali Maltin)</i>
-- 🏓 Il-Passju Game <i>(Il-Passju)</i>
-- 🎨 Maltese Lace <i>(Bizzilla)</i>
+- ⛵ Luzzu Boats <i>(Luzzu)</i>
 - 🛖 Maltese Megalithic Temples <i>(Tempji Megalitiċi)</i>
 - 🏛️ Maltese Baroque Architectural Style <i>(Arkitettura Barokka f'Malta)</i>
-- 🐦‍🔥 Maltese Folklore <i>(Folklor Malti)</i>
+- 🎨 Maltese Lace <i>(Bizzilla)</i>
+- 🏓 Il-Passju Game <i>(Il-Passju)</i>
+- 🎙️ Għana Folk Singing <i>(Għana)</i>
 - 🪕 Authentic Musical Instrument: Ċuqlajta <i>(Ċuqlajta)</i> 
 - 🏰 Heritage of the Hospitaller Malta <i>(Żmien il-Kavallieri / Status Monasticus Ordinis Sancti Ioannis)</i>
 - 🏰 Heritage of the State of Malta <i>(Stat ta’ Malta)</i>

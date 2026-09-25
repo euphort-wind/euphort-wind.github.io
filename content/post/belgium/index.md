@@ -130,6 +130,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 🎨 Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
 - 🏓 Crossage Game <i>(Crossage / Chole)</i>
 - 🪕 Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
+- 🧝 Legacy of Belgae i>(Belges / Belgae)</i>
 - 🏰 Heritage of the Duchy of Brabant <i>(Duché de Brabant / Hertogdom Brabant)</i>
 - 🏰 Heritage of the United Belgian States <i>(États-Belgiques-Unis / Verenigde Belgische Staten)</i>
 <br>

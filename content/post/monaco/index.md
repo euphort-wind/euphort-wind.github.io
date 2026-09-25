@@ -75,12 +75,12 @@ Hej! I'm sharing a glimpse of my experience visiting luxurious Monaco. I was the
 
 
 <b>🪔 Authentic features:</b>
-- 🏃🏻 Casino Gambling Tradition <i>(Jeux de Casino)</i>
+- 🐦‍🔥 Legend of Francesco Grimaldi <i>(Légende de François Grimaldi)</i>
+- 🛖 Monaco Belle Epoque Villas <i>(Villas Belle Époque de Monaco)</i>
 - 🏃🏻 Formula Racing Tradition <i>(Formule)</i>
 - 🏃🏻 Rally Racing Tradition <i>(Rallye)</i>
-- 🛖 Monaco Belle Epoque Villas <i>(Monaco Belle Epoque Villas)</i>
+- 🏓 Casino Gambling Tradition <i>(Jeux de Casino)</i>
 - 🎑 Ciaraviyù Ritual <i>(Ciaraviyù)</i>
-- 🐦‍🔥 Legend of Francesco Grimaldi <i>(Légende de François Grimaldi)</i>
 - 🏰 Heritage of the Lordship of Monaco <i>(Seigneurie de Monaco)</i>
 
 
