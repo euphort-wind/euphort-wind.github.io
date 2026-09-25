@@ -79,22 +79,22 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 
 <b>🪔 Authentic features:</b>
+- 🎑 Al-Mansaf Banquet Ritual <i>(وليمة المنسف التقليدية)</i>
 - 💃 Dabke Dance <i>(دبكة)</i>
-- 🎑 Al-Mansaf Banquet Ritual <i>(وليمة المنسف التقليدية)</i> 
 - 🪕 Authentic Musical Instrument: Mijwiz <i>(مجوز)</i>
 - 👘 Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والطاقية)</i>
 - 👲 Culture of Bedouins <i>(بَدَوِيُّون / بَدْو)</i>
   - 🦉 Authentic Concept: Sharaf <i>(شرف)</i> 
   - 🦉 Authentic Concept: Ird <i>(عرض)</i> 
-  - 🛖 Bedouin Tents <i>(خيام بدوية)</i> 
+  - 🛖 Bedouin Tents <i>(خيام بدوية)</i>
+  - 🏃🏻 Camel Racing Tradition <i>(سباق الهجن)</i> 
   - 🎭 Nabaṭī Poetry <i>(الشعر النبطي)</i>
-  - 🏃🏻 Camel Racing Tradition <i>(سباق الهجن)</i>
 - 🏰 Heritage of the Kingdom of Edom <i>(𐤀𐤃𐤌 / مملكة إدوم)</i>
 - 🏰 Heritage of the Nabataean Kingdom <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i> 
   - 🕯️ Nabataean Religion <i>(ديانة نبطية)</i> 
   - 🔠 Nabataean Script <i>(𐢅𐢄𐢂𐢀 / أبجدية نبطية)</i> 
-  - 🏛️ Nabataean Architectural Style <i>(عمارة نبطية)</i> 
   - 🏺 Nabataean Betyls <i>(حجر مقدس نبطي)</i> 
+  - 🏛️ Nabataean Architectural Style <i>(عمارة نبطية)</i> 
 - 🏰 Heritage of the Emirate of Transjordan <i>(إمارة شرق الأردن)</i>
 
  

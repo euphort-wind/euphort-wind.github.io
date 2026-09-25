@@ -110,17 +110,17 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - Qaitadan <i>(Қайтадан)</i>. Year: 2025. Genre: thriller
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Jeti Ata <i>(Жеті Ата)</i> 
-- 🎭 Akyns & Aytysh Poetry <i>(Ақындар пен Айтыс)</i> 
-- 👑 System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i> 
+- 🦉 Authentic Concept: Jeti Ata <i>(Жеті Ата)</i>
+- 🐦‍🔥 Kazakh Folklore <i>(Қазақ Фольклоры)</i>
+- 👑 System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i>
+- 🎨 Kazakh Ornaments <i>(Қазақтың Ұлттық Ою-өрнегі)</i> 
 - 🏃🏻 Baige Horse Racing Tradition <i>(Бәйге)</i>
 - 🏃🏻 Kazakh Wrestling Tradition <i>(Қазақша Күрес)</i>
 - 🏓 Togyzkumalak Game <i>(Тоғызқұмалақ)</i>  
 - 🏓 Assyk Game <i>(Асық)</i> 
-- 🎨 Kazakh Ornaments <i>(Қазақтың Ұлттық Ою-өрнегі)</i> 
-- 🐦‍🔥 Kazakh Folklore <i>(Қазақ Фольклоры)</i>  
+- 🎭 Akyns & Aytysh Poetry <i>(Ақындар мен Айтыс)</i> 
 - 🪕 Authentic Musical Instrument: Dombra <i>(Домбыра)</i>
-- 👘 Authentic Garb: Shapan & Borik <i>(Шапан пен Бөрік)</i> 
+- 👘 Authentic Garb: Shapan & Borik <i>(Шапан мен Бөрік)</i> 
 - 🏰 Heritage of the Golden Horde <i>(Алтын Орда / اولوغ اولوس)</i> 
 - 🏰 Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق جورتی)</i> 
 
