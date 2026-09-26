@@ -190,15 +190,15 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 
 
 <b>🪔 Authentic features:</b>
+- 🐦‍🔥 Polish Folklore <i>(Folklor Polski)</i>
+- 🏺 Kapliczka Shrines <i>(Kapliczki)</i>
+- 🛖 Polish Milk Bars <i>(Bary Mleczne)</i>
+- 🏛️ Polish Brick Gothic Architectural Style <i>(Gotyk Ceglany)</i>
+- 🛠️ Bolesławiec Pottery Tradition <i>(Ceramika Bolesławiecka)</i>
+- 🏓 Palant Game <i>(Palant)</i>
 - 💃 Polonaise Dance <i>(Polonez)</i>
 - 💃 Mazurka Dance <i>(Mazurek)</i>
 - 💃 Oberek Dance <i>(Oberek)</i>
-- 🏓 Palant Game <i>(Palant)</i>
-- 🛠️ Bolesławiec Pottery Tradition <i>(Ceramika Bolesławiecka)</i>
-- 🏛️ Polish Brick Gothic Architectural Style <i>(Gotyk Ceglany)</i>
-- 🏺 Kapliczka Shrines <i>(Kapliczki)</i>
-- 🛖 Mleczny Bars <i>(Bary Mleczne)</i>
-- 🐦‍🔥 Polish Folklore <i>(Folklor Polski)</i>
 - 🪕 Authentic Musical Instrument: Koza <i>(Koza)</i>
 - 👘 Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i>
 - 🏰 Heritage of the Duchy of Poland <i>(Państwo Gnieźnieńskie / Civitas Schinesghe)</i>
@@ -207,36 +207,38 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - 🦉 Authentic Concept: Sarmatism <i>(Sarmatyzm)</i>
   - 👑 Title of Szlachcic <i>(Szlachcic)</i>
   - 🏛️ Polish Baroque Architectural Style <i>(Sztuka Barokowa w Polsce)</i>
-  - 👘 Authentic Garb: Robe à la Polonaise & Żupan <i>(Poloneska i Żupan)</i>
+  - 👘 Authentic Garb: Delia & Żupan <i>(Delia i Żupan)</i>
 - 🏰 Heritage of the Duchy of Warsaw <i>(Księstwo Warszawskie / Duché de Varsovie)</i><br>
 <u>Pomeranian - Regional Special:</u> 
 - 👲 Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
-  - 💃 Koseder Dance <i>(Koseder / Kòséder)</i>
-  - 🎑 Kashubian Gwiôzdka Ritual <i>(kaszubska Gwiazdka / Gwiôzdka)</i>
-  - 🎨 Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
   - 🐦‍🔥 Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
+  - 🎨 Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
+  - 🎑 Kashubian Gwiôzdka Ritual <i>(Kaszubska Gwiazdka / Gwiôzdka)</i>
+  - 💃 Koseder Dance <i>(Koseder / Kòséder)</i>
   - 🪕 Authentic Musical Instrument: Burczybas  <i>(Burczybas / Mrëczk)</i>
 - 🏰 Heritage of the Free City of Danzig <i>(Wolne Miasto Gdańsk / Freie Stadt Danzig)</i>
 <br> 
-<u>Silesian - Regional Special:</u> 
+<u>Silesian - Regional Special:</u>
+- 🏺 Katowice Beboks <i>(Katowickie Beboki / Katowicke Beboki)</i>
 - 👲 Culture of Silesians <i>(Ślązacy / Ślůnzoki)</i>
-  - 💃 Trojak Dance <i>(Trojak / Trojok)</i>
-  - 🛖 Familok Houses <i>(Familok / Familok)</i>
+  - 🛖 Familok Houses <i>(Familoki / Familoki)</i>
   - 🎑 Leading the Bear Ritual <i>(Wodzenie Niedźwiedzia / Wodzynie Bera)</i>
+  - 💃 Trojak Dance <i>(Trojak / Trojok)</i>
   - 👘 Authentic Garb: Strój Rozbarski <i>(Strój Rozbarski / Rozbarske Ôblyczynie)</i>
-- 🏺 Katowice Beboks <i>(Katowickie Beboki / Katowicke Beboki)</i><br> 
-<u>Lesser Poland - Regional Special:</u> 
+- 🏰 Heritage of the Duchy of Silesia <i>(Księstwo Śląskie / Ślōnski firsztyntōm)</i>
+<br> 
+<u>Lesser Poland - Regional Special:</u>
+- 🐦‍🔥 Legend of the Wawel Dragon <i>(Legenda o Smoku Wawelskim)</i>
 - 🏺 Kraków Szopki <i>(Szopki Krakowskie)</i>
-- 💃 Krakowiak Dance <i>(Krakowiak)</i>
 - 🎑 Lajkonik Ritual <i>(Lajkonik)</i>
 - 🎑 St. Mary's Trumpet Call Ritual <i>(Hejnał Mariacki)</i>
 - 🎑 Siuda Baba Ritual <i>(Siuda Baba)</i>
-- 🐦‍🔥 Legend of the Wawel Dragon <i>(Legenda o Smoku Wawelskim)</i>
+- 💃 Krakowiak Dance <i>(Krakowiak)</i>
 - 👘 Authentic Garb: Krakuska Hat <i>(Czapka Krakowska)</i>
 - 👲 Culture of Gorals <i>(Górale / Górole)</i>
+  - 🏺 Wałaszka Axes <i>(Ciupagi)</i>
   - 🏛️ Zakopane Architectural Style <i>(Styl Zakopiański)</i>
   - 🎨 Parzenica Embroidery <i>(Parzenica)</i>
-  - 🏺 Wałaszka Axes <i>(Ciupagi)</i>
   - 💃 Góralski Dance <i>(Taniec Góralski)</i>
   - 👘 Authentic Garb: Goral Hat <i>(Kapelusz Góralski)</i>
 - 🏰 Heritage of the Republic of Cracow <i>(Rzeczpospolita Krakowska)</i>

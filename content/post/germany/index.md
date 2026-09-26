@@ -231,7 +231,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Gemütlichkeit <i>(Gemütlichkeit)</i>
 - 🦉 Authentic Concept: Wanderlust <i>(Wanderlust)</i>
-- 🦉 Authentic Concept: Weltschmerz <i>(Weltschmerz)</i>
+- 🦉 Authentic Concept: Sehnsucht <i>(Sehnsucht)</i>
 - 🕯️ Lutheranism <i>(Luthertum)</i>
 - 🐦‍🔥 German Folklore <i>(Deutsche Folklore)</i>
 - 👑 Title of Chancellor <i>(Kanzler)</i>
