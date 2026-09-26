@@ -199,20 +199,21 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Gezelligheid <i>(Gezelligheid)</i>
-- 🏃🏻 Cycling Tradition <i>(Het Fietsen)</i>
-- 🏓 Sjoelen Game <i>(Sjoelen)</i>
 - 🛖 Canal Houses <i>(Grachtenpanden)</i>
 - 🛖 Dutch Windmills <i>(Windmolens)</i>
-- ⛰️ Dutch Canals & Polders <i>(Kanalen en Polders)</i>
+- 🏃🏻 Cycling Tradition <i>(Het Fietsen)</i>
+- 🏓 Sjoelen Game <i>(Sjoelen)</i>
 - 🪕 Authentic Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
-- 👘 Authentic Garb: Dutch Cap & Klomps <i>(Nederlandse Bonnet en Klompen)</i>
+- 👘 Authentic Garb: Dutch Cap & Klomps <i>(Nederlandse Hul en Klompen)</i>
 - 🏰 Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
   - 🐦‍🔥 Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
   - 👑 Title of Stadtholder <i>(Stadhouder)</i>
   - ⛵ Dutch Barge Boats <i>(Schuit)</i>
-  - 🎨 Dutch Golden Age Paintings <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
   - 🏛️ Dutch Baroque Architectural Style <i>(Nederlandse Barokarchitectuur)</i>
+  - 🎨 Dutch Golden Age Paintings <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
 - 🏰 Heritage of the Dutch Empire <i>(Nederlandse Rijk)</i>
+- ⛰️ Dutch Canals <i>(Kanalen)</i>
+- ⛰️ Dutch Polders <i>(Polders)</i>
 <br>
 <u>Utrecht - Regional Special:</u> 
 - 🏛️ De Stijl Architectural Style <i>(De Stijl Architectuur)</i><br>
@@ -220,12 +221,12 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - 🏺 Leiden Wall Poems <i>(Muurgedichten in Leiden)</i>
 - 🎨 Delftware <i>(Delfts Blauw)</i><br>
 <u>Friesland - Regional Special:</u> 
-- 👲 Culture of Frisians <i>(Friezen / Friezen)</i>
+- 👲 Culture of Frisians <i>(Friezen / Frysken)</i>
   - 🦉 Authentic Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
+  - ⛵ Skûtsje Boats <i>(Skûtsje / Skûtsjes)</i>
   - 🏃🏻 Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
   - 🏃🏻 Fierljeppen Tradition <i>(Polsstokverspringen / Fierljeppen)</i> 
   - 🏃🏻 Frisian Handball Tradition <i>(Kaatsen / Keatsen)</i> 
-  - ⛵ Skûtsjes Boats <i>(Skûtsje / Skûtsje)</i>
   - 👘 Authentic Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
  
 <b>🎊 Authentic holidays & celebrations:</b>

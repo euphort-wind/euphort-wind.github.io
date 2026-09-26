@@ -120,8 +120,8 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Čojstvo <i>(Чојство)</i>
-- 💃 Montenegrin Oro Dance <i>(Црногорско Оро)</i>
 - 👑 System of Katuns <i>(Катуни)</i>
+- 💃 Montenegrin Oro Dance <i>(Црногорско Оро)</i>
 - 👘 Authentic Garb: Montenegrin Cap <i>(Црногорска Капа)</i>
 - 🏰 Heritage of the Kingdom of Duklja <i>(Дукља / Διόκλεια)</i>
 - 🏰 Heritage of the Kingdom of Zeta <i>(Зета)</i>
@@ -129,7 +129,7 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
   - 👑 System of Montenegrin Tribes <i>(Племена Црне Горе)</i>
   - 👑 Title of Vladika of Montenegro <i>(Владика)</i>
   - 👑 Title of Guvernadur <i>(Гувернадур)</i>
-- 🏰 Heritage of the Principality of Montenegro <i>(Књажевина Црна Горa)</i>
+- 🏰 Heritage of the Principality of Montenegro <i>(Књажевина Црна Гора)</i>
 - 🏰 Heritage of the Kingdom of Montenegro <i>(Краљевина Црна Гора)</i>
 <br>
 <u>Coastal Montenegro - Regional Special:</u> 

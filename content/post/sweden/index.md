@@ -374,6 +374,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 💃 Hambo Dance <i>(Hambo)</i>
 - 🏓 Kubb Game <i>(Kubb)</i>
 - 🏺 Dala Horses <i>(Dalahästar)</i>
+- 🐦‍🔥 Nordic Folklore <i>(Nordiska Folktro)</i>
 - 🎑 Fika Ritual <i>(Fika)</i>
 - 🛖 Torp Cottages <i>(Torpstugor)</i>
 - 🚗 Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>

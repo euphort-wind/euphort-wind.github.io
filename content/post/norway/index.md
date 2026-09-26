@@ -147,23 +147,33 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Kos <i>(Kos)</i>
 - 🦉 Authentic Concept: Friluftsliv <i>(Friluftsliv)</i> 
-- 🏃🏻 Nordic Skiing Tradition <i>(Nordiske Grener)</i>
-- 🏛️ Dragestil Architectural Style <i>(Dragestil)</i>
+- ⛵ Nordland Boats <i>(Nordlandsbåter)</i> 
 - 🛖 Stave Churches <i>(Stavkirker)</i>
 - 🛖 Rorbu Fishermen Houses <i>(Rorbuer)</i>
 - 🛖 Stabbur Storehouses <i>(Stabbur)</i>
-- 🏓 Basse Game <i>(Basse)</i>
+- 🏛️ Dragestil Architectural Style <i>(Dragestil)</i>
 - 🎨 Norwegian Rose-Painting <i>(Rosemaling)</i>
+- 🏃🏻 Nordic Skiing Tradition <i>(Langrenn)</i>
+- 🏓 Basse Game <i>(Basse)</i>
 - 🪕 Authentic Musical Instrument: Hardanger Fiddle <i>(Hardingfele)</i>
 - 👘 Authentic Garb: Bunad <i>(Bunad)</i>
 - 🧝 Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i>
-  - 🔠 Younger Futhark Runic Alphabet <i>(Den Yngre Futharken / ᚠᚢᚦᚬᚱᚴ)</i> 
+  - 🕯️ Norse Paganism <i>(Norrøn Religion)</i>
+  - 🔠 Younger Futhark Runic Alphabet <i>(Den Yngre Futharken / ᚠᚢᚦᚬᚱᚴ)</i>
+  - 🐦‍🔥 Norse Mythology <i>(Norrøn Mytologi)</i>
+  - 👑 System of Old Norse Clans <i>(Ættir)</i>
+  - 👑 Title of Jarl <i>(Jarl)</i>
+  - 🛖 Hearg Altars <i>(Horgar)</i>
+  - 🛖 Hof Temples <i>(Hovar)</i>
+  - 🛖 Mead Halls <i>(Mjødhaller)</i> 
+  - 🛠️ Viking Ship Construction <i>(Vikingskip)</i>
   - 🏓 Hnefatafl Game <i>(Hnefatafl)</i> 
   - 🎭 Skalds & Skaldic Poetry <i>(Skalder og Skaldekvad)</i> 
-  - 🛠️ Viking Ship Construction <i>(Vikingskip)</i>
-  - 👑 Title of Jarl <i>(Jarl)</i>
-  - 🐦‍🔥 Norse Mythology <i>(Norrøn Mytologi)</i> 
-  - 🕯️ Norse Paganism <i>(Norrøn Religion)</i>
+- ⛰️ Strandflat Landforms <i>(Strandflate)</i>
+- ⛰️ Norwegian Fjords <i>(Fjorder)</i> 
+  
+  
+ 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Norwegian Constitution Day <i>(Syttende Mai)</i>. Month: May
