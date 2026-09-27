@@ -225,7 +225,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - 🎑 Leading the Bear Ritual <i>(Wodzenie Niedźwiedzia / Wodzynie Bera)</i>
   - 💃 Trojak Dance <i>(Trojak / Trojok)</i>
   - 👘 Authentic Garb: Strój Rozbarski <i>(Strój Rozbarski / Rozbarske Ôblyczynie)</i>
-- 🏰 Heritage of the Duchy of Silesia <i>(Księstwo Śląskie / Ślōnski firsztyntōm)</i>
+- 🏰 Heritage of the Duchy of Silesia <i>(Księstwo Śląskie / Ślōnski Firsztyntōm)</i>
 <br> 
 <u>Lesser Poland - Regional Special:</u>
 - 🐦‍🔥 Legend of the Wawel Dragon <i>(Legenda o Smoku Wawelskim)</i>

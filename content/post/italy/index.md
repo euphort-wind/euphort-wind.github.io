@@ -322,10 +322,10 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🚗 Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>  
 - 🛖 Trattorias <i>(Trattorie)</i>  
 - 🛖 Osterias <i>(Osterie)</i>
-- 🏛️ Italian Renaissance Architectural Style <i>(Architettura Rinascimentale)</i>
+- 🏛️ Italian Renaissance Architectural Style <i>(Architettura Rinascimentale Italiana)</i>
 - 🏛️ Italian Neoclassical Architectural Style <i>(Architettura Neoclassica Italiana)</i>
 - 🛠️ Maiolica Pottery Tradition <i>(Maiolica)</i>
-- 🎨 Italian Renaissance Paintings <i>(Pittura Rinascimentale)</i>
+- 🎨 Italian Renaissance Paintings <i>(Pittura Rinascimentale Italiana)</i>
 - 🎨 Italian Baroque Paintings <i>(Pittura Barocca Italiana)</i> 
 - 🏓 Bocce Game <i>(Bocce)</i> 
 - 🏓 Morra Game <i>(Morra)</i>
