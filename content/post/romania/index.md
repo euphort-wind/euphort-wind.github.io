@@ -153,21 +153,22 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 
 
 <b>🪔 Authentic features:</b>
-- 🎙️ Doina Singing <i>(Doina)</i>
-- 🎑 Paparuda Ritual <i>(Paparudă)</i> 
-- 🏛️ Brâncovenesc Architectural Style <i>(Artă Brâncovenească)</i> 
-- 🏓 Oină Game <i>(Oină)</i>
-- 💃 Romanian Horă Dance <i>(Horă)</i>
+- 🦉 Authentic Concept: Dor <i>(Dor)</i>
 - 🐦‍🔥 Ballad of Miorița <i>(Miorița)</i>
 - 🐦‍🔥 Romanian Folklore <i>(Folclorul Românesc)</i>
 - 🚗 Romanian Cars <i>(Brand: "Dacia")</i>
+- 🏛️ Brâncovenesc Architectural Style <i>(Artă Brâncovenească)</i> 
+- 🏓 Oină Game <i>(Oină)</i>
+- 🎑 Paparuda Ritual <i>(Paparudă)</i> 
+- 💃 Romanian Horă Dance <i>(Horă)</i>
+- 🎙️ Doina Singing <i>(Doina)</i>
 - 🪕 Authentic Musical Instrument: Romanian Nai <i>(Nai)</i>
 - 👘 Authentic Garb: Pieptar & Romanian Ie <i>(Pieptar și Ie)</i> 
 - 👲 Culture of Romani <i>(Romi / Romane Manusha)</i>
   - 🦉 Authentic Concept: Romanipen <i>(Romanipenul / Romanipen)</i>
-  - 🎙️ Lăutari & Lăutărească Music <i>(Lăutari Muzica și Lăutărească / Lăutari thaj Lăutărească Muzika)</i> 
-  - 👑 Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
   - 🐦‍🔥 Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
+  - 👑 Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
+  - 🎙️ Lăutari & Lăutărească Music <i>(Lăutari și Muzica Lăutărească / Lăutari thaj Lăutărească Muzika)</i> 
   - 👘 Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
 - 🧝 Legacy of Dacians <i>(Dacii)</i>
 - 🏰 Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
@@ -176,9 +177,9 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🏰 Heritage of the Kingdom of Romania <i>(Regatul României)</i><br>
 <u>Covasna - Regional Special:</u> 
 - 👲 Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
+  - 🕯️ Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i>
   - 🔠 Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐲘𐳀𐳎𐳀𐳢 𐲢𐳛𐳮𐳁𐳤)</i>
   - 🏺 Székely Gates <i>(Poartă Secuiască / Székelykapu)</i>
-  - 🕯️ Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i>
 - ⛰️ Covasna Mofettes <i>(Mofetele din Covasna / A Kovásznai Mofetták)</i><br>
 <u>Brașov - Regional Special:</u> 
 - 👲 Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>

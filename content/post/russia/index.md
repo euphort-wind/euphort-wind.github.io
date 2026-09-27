@@ -299,21 +299,23 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Russian Avos <i>(Русское Авось)</i>
-- 🎨 Khokhloma Painting <i>(Хохлома)</i>
-- 🎨 Zhostovo Painting <i>(Жостовская Роспись)</i>
-- 💃 Khorovod Dance <i>(Хоровод)</i>
-- 💃 Barynya Dance <i>(Пляска Барыня)</i>
+- 🐦‍🔥 Russian Folklore <i>(Русский Фольклор)</i> 
 - 🏺 Matryoshka Dolls <i>(Матрёшки)</i>
 - 🏺 Painted Samovars <i>(Расписные Самовары)</i>
 - 🏺 Dymkovo Toys <i>(Дымковские Игрушки)</i>
 - 🏺 Russian Stoves <i>(Русские Печи)</i>
-- 🏓 Gorodki Game <i>(Городки)</i>
-- 🏓 Lapta Game <i>(Лапта)</i>
-- 🏃🏻 Sambo Fighting Tradition <i>(Самбо)</i>
+- ⛵ Yal Boats i>(Ялы)</i> 
+- 🚗 Russian Cars <i>(Brands: "LADA", "GAZ", "Moskvitch", etc.)</i>
 - 🛖 Russian Banyas <i>(Русские Бани)</i>
 - 🛖 Russian Izbas <i>(Русские Избы)</i>
-- 🐦‍🔥 Russian Folklore <i>(Русский Фольклор)</i> 
-- 🚗 Russian Cars <i>(Brands: "LADA", "GAZ", "Moskvitch", etc.)</i> 
+- 🏛️ Russian Revival Architectural Style <i>(Русский Архитектурный Стиль)</i>
+- 🎨 Khokhloma Painting <i>(Хохлома)</i>
+- 🎨 Zhostovo Painting <i>(Жостовская Роспись)</i>
+- 🏃🏻 Sambo Fighting Tradition <i>(Самбо)</i>
+- 🏓 Gorodki Game <i>(Городки)</i>
+- 🏓 Lapta Game <i>(Лапта)</i>
+- 💃 Khorovod Dance <i>(Хоровод)</i>
+- 💃 Barynya Dance <i>(Пляска Барыня)</i>
 - 🪕 Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - 👘 Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
 - 🏰 Heritage of the Grand Principality of Moscow <i>(Великое Княжество Московское)</i>
@@ -329,8 +331,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 <u>Kabardino-Balkaria - Regional Special:</u> 
 - 👲 Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
     - 🐦‍🔥 Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
+    - 🏺 Balkar Bychak Knives <i>(Бичаки / Бычакы)</i>
     - 🎨 Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
-    - 🏺 Balkar Bychak Knives <i>(Бичак / Бычак)</i>
 - 🏰 Heritage of Princedom of Kabardia <i>(Кабарда / Къэбэрдей Пщыгъуэ)</i><br>
 <u>Karachay-Cherkessia - Regional Special:</u> 
 - 👲 Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
@@ -343,9 +345,9 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🏰 Heritage of Zichia <i>(Черкесия / Адыгэ Хэку)</i><br>
 <u>North Ossetia - Regional Special:</u> 
 - 👲 Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
+    - 🕯️ Ossetian Assianism <i>(Уасдин / Уацдин)</i>
     - 🐦‍🔥 Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
     - 🐦‍🔥 Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
-    - 🕯️ Ossetian Assianism <i>(Уасдин / Уацдин)</i>
     - 💃 Ossetian Simd Dance <i>(Симд / Синд)</i>
     - 🪕 Authentic Musical Instrument: Kisyn Fandyr <i>(Хисын Фандыр / Xъисын Фæндыр)</i>
 - 🧝 Legacy of Alans <i>(Аланы / Алантæ)</i>

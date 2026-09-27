@@ -128,22 +128,22 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Saudade <i>(Saudade)</i>
-- 🎙️ Fado Music <i>(Fado)</i>
-- 🎙️ Cante Alentejano Music <i>(Cante Alentejano)</i>
+- 🐦‍🔥 Portuguese Folklore <i>(Folclore de Portugal)</i> 
+- ⛵ Rabelo Boats <i>(Barco Rabelo)</i>
 - 🏛️ Manueline Architectural Style <i>(Estilo Manuelino)</i> 
 - 🏛️ Pombaline Architectural Style <i>(Estilo Pombalino)</i> 
 - 🎨 Azulejo Tilework <i>(Azulejo)</i>
 - 🎨 Portuguese Pavement <i>(Calçada Portuguesa)</i>
 - 🏓 Jogo da Laranjinha Game <i>(Jogo da Laranjinha)</i>
-- ⛵ Rabelo Boats <i>(Barco Rabelo)</i>
-- 🐦‍🔥 Portuguese Folklore <i>(Folclore de Portugal)</i>    
+- 🎙️ Fado Music <i>(Fado)</i>
+- 🎙️ Cante Alentejano Music <i>(Cante Alentejano)</i> 
 - 🪕 Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>
 - 👘 Authentic Garb: Portuguese Traje <i>(Traje Típico Português)</i>
 - 🏰 Heritage of the Kingdom of Portugal <i>(Reino de Portugal)</i>
 - 🏰 Heritage of the Portuguese Empire <i>(Império Português)</i><br>
 <u>Lisbon - Regional Special:</u> 
-- 🚗 Lisbon Historic Trams <i>(Brand: "Remodelados")</i>
-
+- 🚗 Lisbon Historic Trams <i>(Brands: "Remodelados", "Ligeiros")</i>
+- 🚗 Lisbon Historic Funiculars <i>(Elevadores de Lisboa)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - Portugal National Day <i>(Dia de Portugal, de Camões e das Comunidades Portuguesas)</i>. Month: June

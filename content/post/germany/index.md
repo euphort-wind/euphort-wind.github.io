@@ -240,6 +240,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🚗 German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
 - 🛖 Half-Timbered Houses <i>(Fachwerkhäuser)</i>
 - 🏛️ Ottonian Architectural Style <i>(Ottonische Architektur)</i>
+- 🏛️ Heimatschutz Architectural Style <i>(Heimatschutzstil)</i>
 - 🎨 Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
 - 🏃🏻 Bodybuilding Tradition <i>(Bodybuilding)</i>
 - 🏓 Mensch-Ärgere-Dich-Nicht Game <i>(Mensch Ärgere Dich Nicht)</i>
