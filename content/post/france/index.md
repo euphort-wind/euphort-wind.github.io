@@ -334,9 +334,9 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🏰 Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
   - 🦉 Authentic Concept: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
   - 🕯️ Catharism <i>(Catharisme / Catarisme)</i>
+  - 🐦‍🔥 Occitan Lyric Poetry <i>(Poésie Lyrique Occitane / Poesia Lirica Occitana)</i>
   - 🏛️ Meridional Gothic Architectural Style <i>(Architecture Gothique Méridional / Arquitectura Gòtica Meridionala)</i>
-  - 🎑 Floral Game Ritual <i>(Jeux Floraux / Jòcs Florals)</i>
-  - 🎭 Troubadours & Occitan Lyric Poetry <i>(Troubadours et Poésie Lyrique Occitane / Trobadors e Poesia Lirica Occitana)</i>
+  - 🎭 Troubadours & Floral Games <i>(Troubadours et Jeux Floraux / Trobadors e Jòcs Florals)</i>
 - ⛰️ Causse Plateaux <i>(Causses / Causses)</i>
 </br>
 <u>Provence-Alpes-Côte d'Azur - Regional Special:</u>

@@ -133,23 +133,26 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Serbian Inat <i>(Српски Инат)</i>
 - 🦉 Authentic Concept: Polako <i>(Полако)</i> 
-- 🎑 Slava Celebration Ritual <i>(Српска Слава)</i>
-- 🎨 Pirot Carpets <i>(Пиротски Ћилим)</i>
-- 💃 Serbian Kolo Dance <i>(Коло)</i>
+- 🐦‍🔥 Serbian Folklore <i>(Српски Фолклор)</i>
+- 🚗 Serbian Cars <i>(Brand: "Zastava")</i>
 - 🛖 Vajat Houses <i>(Вајати)</i>
 - 🏛️ Morava Architectural Style <i>(Моравски Стил)</i>
-- 🚗 Serbian Cars <i>(Brand: "Zastava")</i>
+- 🎨 Pirot Carpets <i>(Пиротски Ћилим)</i>
+- 🏃🏻 Narodno Rvanje Tradition <i>(Народно Рвање)</i>
+- 🎑 Slava Celebration Ritual <i>(Српска Слава)</i>
+- 💃 Serbian Kolo Dance <i>(Коло)</i>
 - 🪕 Authentic Musical Instrument: Gusle <i>(Гусле)</i>
 - 👘 Authentic Garb: Šajkača & Opanci <i>(Шајкача и Опанци)</i> 
 - 🏰 Heritage of the Kingdom of Serbia <i>(Средњовековна Краљевина Србија / Regnum Serbiæ)</i>
-  - 🏛️ Raška Architectural Style <i>(Рашки Стил)</i>
+  - 🐦‍🔥 Serbian Epic Poetry <i>(Српске Епске Народне Песме)</i>
   - 👑 System of Zadrugas <i>(Задруге)</i>
-  - 🎭 Serbian Epic Poetry <i>(Српске Епске Народне Песме)</i>
+  - 🏛️ Raška Architectural Style <i>(Рашки Стил)</i>
 - 🏰 Heritage of the Serbian Empire <i>(Српско Царство)</i>
 - 🏰 Heritage of the Principality of Serbia <i>(Књажество Србија)</i>
 - 🏰 Heritage of Yugoslavia <i>(Југославија / Jugoslavija)</i><br>
 <u>Vojvodina - Regional Special:</u> 
-- 👲 Cuture of Bunjevci <i>(Буњевци / Bunjevci)</i>
+- 👲 Culture of Bunjevci <i>(Буњевци / Bunjevci)</i>
+- ⛰️ Deliblato Sands <i>(Делиблатска Пешчара)</i>
 
 
 

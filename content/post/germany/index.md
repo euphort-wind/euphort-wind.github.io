@@ -272,7 +272,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
   - 💃 Schuhplattler Dance <i>(Schuhplattler / Schuhplattler)</i>
   - 🎙️ Gstanzl Singing <i>(Gstanzl / Gestanzel)</i>
   - 👘 Authentic Garb: Lederhosen & Dirndl <i>(Lederhose und Dirndl / Lederhosn un Diandl)</i>
-- 🧝 Legacy of Baiuvarii <i>(Bajuwaren)</i>
+- 🧝 Legacy of Baiuvarii <i>(Bajuwaren / Bajuwarn)</i>
 - 🏰 Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
 - 🏰 Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
 

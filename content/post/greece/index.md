@@ -202,7 +202,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🏃🏻 Ancient Greek Boxing Tradition <i>(Πυγμαχία)</i>
   - 🏃🏻 Chariot Racing Tradition <i>(Ἁρματοδρομία)</i>
   - 🏓 Ostrakinda Game <i>(Ὀστρακίνδα)</i>
-  - 🎭 Aoidoi & Ancient Greek Epic Poetry <i>(Αοιδoί και Αρχαία Ελληνική Επική Ποίηση)</i>
+  - 🎭 Aoidoi & Aoidos Songs <i>(Αοιδoί και Ἀοιδή)</i>
   - 🎭 Rhapsodes & Rhapsodies <i>(Ραψωδοί και Ραψωδίες)</i>
   - 🪕 Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
   - 👘 Authentic Garb: Peplos & Chlamys <i>(Πέπλος και Χλαμύδα)</i>

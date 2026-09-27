@@ -72,7 +72,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 
 <b>🪔 Authentic features:</b>
 - 👑 Title of Lantråd <i>(Lantråd)</i>
-- 🛠️ Åland Shipping Tradition <i>(Åländsk Sjöfart)</i>
+- 🏺 Votive Ships <i>(Votivskepp)</i>
+- 🛖 Åland Boathouses <i>(Båthus)</i>
 - 🛠️ Åland Ship Building Tradition <i>(Åländsk Skeppsbyggnad)</i>
 - ⛰️ Åland Red Granite Roads <i>(Vägar av Röd Åländsk Granit)</i>
 

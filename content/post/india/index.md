@@ -157,10 +157,10 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 👲 Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
   - 🔠 Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
   - 🐦‍🔥 Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
+  - 🐦‍🔥 Dasa Sahitya Poetry <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
   - 💃 Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
   - 🏃🏻 Kambala Buffalo Race Tradition <i>(कंबाला / ಕಂಬಳ)</i>
   - 🏓 Alaguli Mane Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>
-  - 🎭 Dasa Sahitya Poetry <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
   - 🪕 Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i><br>
 - 🏰 Heritage of the Rashtrakuta Empire <i>(राष्ट्रकूट राजवंश / ರಾಷ್ಟ್ರಕೂಟ)</i>
 - 🏰 Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i><br>

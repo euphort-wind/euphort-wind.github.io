@@ -85,10 +85,10 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - 👘 Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والطاقية)</i>
 - 👲 Culture of Bedouins <i>(بَدَوِيُّون / بَدْو)</i>
   - 🦉 Authentic Concept: Sharaf <i>(شرف)</i> 
-  - 🦉 Authentic Concept: Ird <i>(عرض)</i> 
+  - 🦉 Authentic Concept: Ird <i>(عرض)</i>
+  - 🐦‍🔥 Nabaṭī Poetry <i>(الشعر النبطي)</i> 
   - 🛖 Bedouin Tents <i>(خيام بدوية)</i>
   - 🏃🏻 Camel Racing Tradition <i>(سباق الهجن)</i> 
-  - 🎭 Nabaṭī Poetry <i>(الشعر النبطي)</i>
 - 🏰 Heritage of the Kingdom of Edom <i>(𐤀𐤃𐤌 / مملكة إدوم)</i>
 - 🏰 Heritage of the Nabataean Kingdom <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i> 
   - 🕯️ Nabataean Religion <i>(ديانة نبطية)</i> 

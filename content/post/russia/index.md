@@ -92,7 +92,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Nevsky Avenue <i>(Невский Проспект)</i> 
     - Pushkin's Appartment <i>(Мемориальный Музей-Квартира А. С. Пушкина)</i> 
     - Church of the Savior on Blood <i>(Спас-на-Крови)</i> 
-    - St. Isaac’s Cathedral i>(Исаакиевский Собор)</i> 
+    - St. Isaac’s Cathedral <i>(Исаакиевский Собор)</i> 
     - Kazan Cathedral <i>(Казанский Собор)</i> 
     - Vasilyevsky Island <i>(Васильевский Остров)</i>
     - Singer House <i>(Дом Компании "Зингер")</i>
@@ -304,7 +304,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🏺 Painted Samovars <i>(Расписные Самовары)</i>
 - 🏺 Dymkovo Toys <i>(Дымковские Игрушки)</i>
 - 🏺 Russian Stoves <i>(Русские Печи)</i>
-- ⛵ Yal Boats i>(Ялы)</i> 
+- ⛵ Yal Boats <i>(Ялы)</i> 
 - 🚗 Russian Cars <i>(Brands: "LADA", "GAZ", "Moskvitch", etc.)</i>
 - 🛖 Russian Banyas <i>(Русские Бани)</i>
 - 🛖 Russian Izbas <i>(Русские Избы)</i>

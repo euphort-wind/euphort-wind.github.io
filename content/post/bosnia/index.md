@@ -113,10 +113,10 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Ćejf <i>(Ćejf)</i>
 - 🦉 Authentic Concept: Merak <i>(Merak)</i>
-- 🛠️ Konjic Woodcarving Tradition <i>(Konjičko Drvorezbarstvo)</i>
+- 🐦‍🔥 Bosniak Epic Poetry <i>(Bošnjačke Epske Narodne Pjesme)</i>
 - 👑 Title of Tripartite President <i>(Tročlano Predsjedništvo)</i>
 - 🏛️ Bosnian Architectural Style <i>(Bosanski Stil u Arhitekturi)</i>
-- 🎭 Bosniak Epic Poetry <i>(Bošnjačke Epske Narodne Pjesme)</i>
+- 🛠️ Konjic Woodcarving Tradition <i>(Konjičko Drvorezbarstvo)</i>
 - 🎙️ Sevdah Music <i>(Sevdah)</i>
 - 🪕 Authentic Musical Instrument: Šargija <i>(Šargija)</i> 
 - 🏰 Heritage of the Bosnian Banate <i>(Banovina Bosna / Boszniai Bánság)</i>

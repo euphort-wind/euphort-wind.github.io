@@ -113,18 +113,20 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - 🕯️ Buddhism <i>(ศาสนาพุทธ)</i>
 - 🕯️ Thai Folk Religion <i>(ศาสนาผี)</i>
 - 🔠 Thai Script <i>(อักษรไทย)</i>
+- 🐦‍🔥 Thai Folklore <i>(นิทานพื้นบ้านไทย)</i>
+- 🏺 Lak Mueangs <i>(หลักเมือง)</i>
+- 🚗 Thai Cars <i>(Brand: "Thairung")</i>
+- ⛵ Thai Long-Tail Boats <i>(เรือหางยาว)</i>
+- 🛖 Sala Thai Pavilions <i>(ศาลา)</i> 
+- 🛖 Thai Stilt Houses <i>(เรือนไทย)</i> 
+- 🛖 Thai Floating Markets <i>(ตลาดน้ำ)</i> 
+- 🎨 Lai Rot Nam Art <i>(ลายรดน้ำ)</i>
 - 🏃🏻 Muay Thai Boxing Tradition <i>(มวยไทย)</i>
 - 🏃🏻 Thai Massage Tradition <i>(นวดแผนไทย)</i>
-- 💃 Khon Dance <i>(โขน)</i>
-- 🎨 Lai Rot Nam Art <i>(ลายรดน้ำ)</i>
 - 🏓 Makruk Game <i>(หมากรุก)</i> 
 - 🏓 Ka Fak Khai Game <i>(กาฟักไข่)</i>
 - 🏓 Mak-Yek Game <i>(หมากแยก)</i>
-- 🛖 Sala Thai Pavilions <i>(ศาลา)</i> 
-- 🛖 Thai Stilt Houses <i>(เรือนไทย)</i> 
-- 🏺 Thai Spirit Houses <i>(ศาลพระภูมิ)</i>
-- 🐦‍🔥 Thai Folklore <i>(นิทานพื้นบ้านไทย)</i>
-- ⛵ Thai Long-Tail Boats <i>(เรือหางยาว)</i>
+- 🎭 Khon Dance Drama <i>(โขน)</i>
 - 🪕 Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
 - 👘 Authentic Garb: Pha Nung <i>(ผ้านุ่ง)</i>
 - 🏰 Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>

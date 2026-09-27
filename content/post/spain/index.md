@@ -124,31 +124,31 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Hispanidad <i>(Hispanidad)</i>
-- 💃 Flamenco Dance <i>(Flamenco)</i>
-- 🏛️ Mudéjar Architectural Style <i>(Arte Mudéjar)</i>
+- 🐦‍🔥 Spanish Folklore <i>(Folclore de España)</i>
+- 🚗 Spanish Cars <i>(Brands: "SEAT", "Cupra")</i>
 - 🛖 Bullrings <i>(Plazas de Toros)</i>
 - 🛖 Chiringuito Bars <i>(Chiringuitos)</i>
+- 🏛️ Mudéjar Architectural Style <i>(Arte Mudéjar)</i>
 - 🏃🏻 Spanish Bullfighting Tradition <i>(Corrida de Toros)</i>
-- 🐦‍🔥 Spanish Folklore <i>(Folclore de España)</i>
-- 🚗 Spanish Cars <i>(Brand: "SEAT")</i>
+- 💃 Flamenco Dance <i>(Flamenco)</i>
 - 🪕 Authentic Musical Instrument: Castanets <i>(Castañuelas)</i> 
 - 👘 Authentic Garb: Mantilla & Traje de Luces <i>(Mantilla y Traje de Luces)</i>
 - 🧝 Legacy of Iberians <i>(Íberos)</i>
 - 🏰 Heritage of the Visigothic Kingdom <i>(Reino Visigodo / Gutþiuda Þiudinassus)</i>
 - 🏰 Heritage of the Caliphate of Córdoba <i>(Califato de Córdoba / خِلَافَةُ قُرطُبَة)</i>
-- 🏰 Heritage of the Kingdom of León <i>(Reino de León / Lleom)</i>
+- 🏰 Heritage of the Kingdom of León <i>(Reino de León / Regno de Lleon)</i>
 - 🏰 Heritage of the Crown of Castile <i>(Corona de Castilla / Corona Castellae)</i>
 - 🏰 Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - 🏰 Heritage of the Spanish Republic <i>(República Española)</i><br>
 <u>Catalonia - Regional Special:</u> 
 - 👲 Culture of Catalans <i>(Catalanes / Catalans)</i>
   - 🦉 Authentic Concept: Seny <i>(Seny / Seny)</i>
+  - 🐦‍🔥 Catalan Mythology <i>(Mitología Catalana / Mitologia Catalana)</i>
+  - 🏛️ Catalan Art Nouveau Architectural Style <i>(Modernismo Catalán / Modernisme Català)</i>
+  - 🏓 Patacó Game <i>(Patacó / Patacó)</i>
+  - 🎑 Catalan Human Tower Ritual <i>(Castells / Castells)</i>
   - 💃 Sardana Dance <i>(Sardana / Sardana)</i>
   - 💃 Catalan Rumba Dance <i>(Rumba Catalana / Rumba Catalana)</i>
-  - 🏓 Patacó Game <i>(Patacó / Patacó)</i>
-  - 🐦‍🔥 Catalan Mythology <i>(Mitología Catalana / Mitologia Catalana)</i>
-  - 🎑 Catalan Human Tower Ritual <i>(Castells / Castells)</i>
-  - 🏛️ Catalan Art Nouveau Architectural Style <i>(Modernismo Catalán / Modernisme Català)</i>
   - 🪕 Authentic Musical Instrument: Flabiol <i>(Flabiol / Flabiol)</i>
   - 👘 Authentic Garb: Espadrilles & Barretina <i>(Alpargatas y Barretina / Espardenyes i Barretina)</i>
 - 🏰 Heritage of the Principality of Catalonia <i>(Principado de Cataluña / Principat de Catalunya)</i>

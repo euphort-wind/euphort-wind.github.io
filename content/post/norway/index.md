@@ -161,6 +161,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
   - 🕯️ Norse Paganism <i>(Norrøn Religion)</i>
   - 🔠 Younger Futhark Runic Alphabet <i>(Den Yngre Futharken / ᚠᚢᚦᚬᚱᚴ)</i>
   - 🐦‍🔥 Norse Mythology <i>(Norrøn Mytologi)</i>
+  - 🐦‍🔥 Skaldic Poetry <i>(Skaldekvad)</i> 
   - 👑 System of Old Norse Clans <i>(Ættir)</i>
   - 👑 Title of Jarl <i>(Jarl)</i>
   - 🛖 Hearg Altars <i>(Horgar)</i>
@@ -168,7 +169,6 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
   - 🛖 Mead Halls <i>(Mjødhaller)</i> 
   - 🛠️ Viking Ship Construction <i>(Vikingskip)</i>
   - 🏓 Hnefatafl Game <i>(Hnefatafl)</i> 
-  - 🎭 Skalds & Skaldic Poetry <i>(Skalder og Skaldekvad)</i> 
 - ⛰️ Strandflat Landforms <i>(Strandflate)</i>
 - ⛰️ Norwegian Fjords <i>(Fjorder)</i> 
   

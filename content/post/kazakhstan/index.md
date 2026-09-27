@@ -118,7 +118,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - 🏃🏻 Kazakh Wrestling Tradition <i>(Қазақша Күрес)</i>
 - 🏓 Togyzkumalak Game <i>(Тоғызқұмалақ)</i>  
 - 🏓 Assyk Game <i>(Асық)</i> 
-- 🎭 Akyns & Aytysh Poetry <i>(Ақындар мен Айтыс)</i> 
+- 🎭 Akyns & Aytysh <i>(Ақындар мен Айтыс)</i> 
 - 🪕 Authentic Musical Instrument: Dombra <i>(Домбыра)</i>
 - 👘 Authentic Garb: Shapan & Borik <i>(Шапан мен Бөрік)</i> 
 - 🏰 Heritage of the Golden Horde <i>(Алтын Орда / اولوغ اولوس)</i> 

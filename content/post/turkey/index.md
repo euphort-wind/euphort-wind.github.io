@@ -165,15 +165,18 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 
 
 <b>🪔 Authentic features:</b>
-- 💃 Halay Dance <i>(Halay)</i>
-- 💃 Oryantal Dance <i>(Oryantal Dans)</i>
-- 🎭 Meddahs & Meddahlık <i>(Meddahlar ve Meddahlık)</i>
+- 🦉 Authentic Concept: Hüzün <i>(Hüzün)</i>
+- 🕯️ Alevism <i>(Alevilik)</i>
+- 🐦‍🔥 Turkic Mythology <i>(Türk Mitolojisi)</i>
+- 🛖 Turkish Hammams <i>(Hamam)</i>
+- 🏛️ Ottoman Architectural Style <i>(Osmanlı Mimarisi)</i>
 - 🛠️ Iznik Pottery Tradition <i>(İznik Çinisi)</i>
 - 🏃🏻 Oil Wrestling Tradition <i>(Yağlı Güreş)</i>
 - 🏓 Okey Game <i>(Okey)</i>
 - 🏓 Mangala Game <i>(Mangala)</i>
-- 🛖 Turkish Hammams <i>(Hamam)</i>
-- 🐦‍🔥 Turkic Mythology <i>(Türk Mitolojisi)</i>
+- 🎭 Meddahs & Meddahlık <i>(Meddahlar ve Meddahlık)</i>
+- 💃 Halay Dance <i>(Halay)</i>
+- 💃 Oryantal Dance <i>(Oryantal Dans)</i>
 - 🪕 Authentic Musical Instrument: Bağlama <i>(Bağlama)</i> 
 - 👘 Authentic Garb: Shalvar & Yelek <i>(Şalvar ve Yelek)</i>
 - 🧝 Legacy of Phrygians <i>(Frigler)</i>
