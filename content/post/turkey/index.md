@@ -200,8 +200,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
   - 🎙️ Köçekçe & Köçeks <i>(Köçekçe ve Köçekler / کوچکچه و کوچک‌لر)</i>
   - 🪕 Authentic Musical Instrument: Çeng <i>(Çeng / چنگ)</i> 
   - 👘 Authentic Garb: Fez & Kaftan <i>(Fes ve Kaftan / قفتان و فَس)</i>
-- ⛰️ Turkish Hoodoos <i>(Peribacası)</i>  
-<br>
+- ⛰️ Turkish Hoodoos <i>(Peribacası)</i><br>
 <u>Antalya - Regional Special:</u> 
 - 🛖 Düğmeli Houses <i>(Düğmeli Evler)</i><br>
 <u>Muğla - Regional Special:</u> 
