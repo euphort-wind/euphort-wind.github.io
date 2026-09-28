@@ -168,8 +168,8 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - 🦉 Authentic Concept: Hüzün <i>(Hüzün)</i>
 - 🕯️ Alevism <i>(Alevilik)</i>
 - 🐦‍🔥 Turkic Mythology <i>(Türk Mitolojisi)</i>
+- 🏺 Cezves <i>(Cezveler)</i>
 - 🛖 Turkish Hammams <i>(Hamam)</i>
-- 🏛️ Ottoman Architectural Style <i>(Osmanlı Mimarisi)</i>
 - 🛠️ Iznik Pottery Tradition <i>(İznik Çinisi)</i>
 - 🏃🏻 Oil Wrestling Tradition <i>(Yağlı Güreş)</i>
 - 🏓 Okey Game <i>(Okey)</i>
@@ -184,7 +184,24 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - 🏰 Heritage of the Kingdom of Lydia <i>(Lidya / 𐤮𐤱𐤠𐤭𐤣𐤠)</i>
 - 🏰 Heritage of the Kingdom of Pontus <i>(Pontus Krallığı / Πόντος)</i>
 - 🏰 Heritage of the Seljuk Sultanate of Rum <i>(Anadolu Selçukluları / سلجوقیان روم)</i>
-- 🏰 Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i><br>
+- 🏰 Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i>
+  - 🦉 Authentic Concept: Circle of Justice <i>(Adalet Çemberi / دائرۀ عدالت)</i>
+  - 👑 System of Esnafs <i>(Esnaf / اصناف)</i>
+  - 👑 Title of Pasha <i>(Paşa / پاشا)</i>
+  - 👑 Title of Bey <i>(Bey / بیگ)</i>
+  - 👑 Title of Effendi <i>(Efendi / افندی)</i>
+  - 🏺 Kilij Scimitars <i>(Kılıçlar / قلیچلر)</i>
+  - 🛖 Imarets <i>(İmaretler / عمارتلر)</i>
+  - 🛖 Bedestens <i>(Bedestenler / بدستانلر)</i> 
+  - 🛖 Ottoman Sabils <i>(Sebiller / سبیللر)</i>
+  - 🏛️ Ottoman Architectural Style <i>(Osmanlı Mimarisi / عثمانی معماری)</i>
+  - 🏃🏻 Matrak Tradition <i>(Matrak / ماتراق)</i>
+  - 🎭 Karagöz Shadow Play <i>(Karagöz / قراقوز)</i>
+  - 🎙️ Köçekçe & Köçeks <i>(Köçekçe ve Köçekler / کوچکچه و کوچک‌لر)</i>
+  - 🪕 Authentic Musical Instrument: Çeng <i>(Çeng / چنگ)</i> 
+  - 👘 Authentic Garb: Fez & Kaftan <i>(Fes ve Kaftan / قفتان و فَس)</i>
+- ⛰️ Turkish Hoodoos <i>(Peribacası)</i>  
+<br>
 <u>Antalya - Regional Special:</u> 
 - 🛖 Düğmeli Houses <i>(Düğmeli Evler)</i><br>
 <u>Muğla - Regional Special:</u> 
