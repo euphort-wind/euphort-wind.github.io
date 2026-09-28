@@ -373,6 +373,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🦉 Authentic Concept: Lagom <i>(Lagom)</i>
 - 🐦‍🔥 Nordic Folklore <i>(Nordiska Folktro)</i>
 - 🏺 Dala Horses <i>(Dalahästar)</i>
+- 🏺 Gävle Goats <i>(Gävlebockar)</i>
 - 🚗 Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - 🛖 Torp Cottages <i>(Torpstugor)</i>
 - 🏛️ Swedish Functionalist Architectural Style <i>(Funkis)</i>
