@@ -347,6 +347,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🛖 Triumphal Arches <i>(Arcus Triumphares)</i>
   - 🛖 Forums <i>(Fora)</i>
   - 🛖 Thermae Baths <i>(Thermae)</i>
+  - 🛖 Mithraeums <i>(Mithraea)</i>
   - 🏛️ Ancient Roman Architectural Style <i>(Architettura Romana Antica)</i>
   - 🛠️ Ancient Roman Sculptural Tradition <i>(Scultura Romana Antica)</i>
   - 🏓 Harpastum Game <i>(Harpastum)</i> 
