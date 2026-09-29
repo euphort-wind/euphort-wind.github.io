@@ -339,6 +339,14 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🕯️ Ancient Roman Religion <i>(Religione Romana Antica)</i>
   - 🐦‍🔥 Ancient Roman Mythology <i>(Mitologia Romana Antica)</i>
   - 👑 Title of Pater Patriae <i>(Pater Patriae)</i>
+  - 🛖 Thermopoliums <i>(Thermopolia)</i>
+  - 🛖 Popina Bars <i>(Popinae)</i>
+  - 🛖 Lupanars <i>(Lupanaria)</i>
+  - 🛖 Insula Houses <i>(Insulae)</i>
+  - 🛖 Horreum Warehouses <i>(Horrea)</i>
+  - 🛖 Triumphal Arches <i>(Arcus Triumphares)</i>
+  - 🛖 Forums <i>(Fora)</i>
+  - 🛖 Thermae Baths <i>(Thermae)</i>
   - 🏛️ Ancient Roman Architectural Style <i>(Architettura Romana Antica)</i>
   - 🛠️ Ancient Roman Sculptural Tradition <i>(Scultura Romana Antica)</i>
   - 🏓 Harpastum Game <i>(Harpastum)</i> 
