@@ -217,7 +217,8 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 <br>
 <u>Utrecht - Regional Special:</u> 
 - 🏛️ De Stijl Architectural Style <i>(De Stijl Architectuur)</i><br>
-<u>South Holland - Regional Special:</u> 
+<u>South Holland - Regional Special:</u>
+- 🏺 Gouda Pipes <i>(Pijpaarde)</i>
 - 🎨 Leiden Wall Poems <i>(Muurgedichten in Leiden)</i>
 - 🎨 Delftware <i>(Delfts Blauw)</i><br>
 <u>Friesland - Regional Special:</u> 

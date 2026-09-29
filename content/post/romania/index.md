@@ -139,8 +139,8 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🍶 Țuică <i>(Brand: "Vlad Țepeș")</i>
 </br>
 <u>Covasna - Regional Special:</u> 
-- 🥘 Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>
-- 🍰 Székely Kürtőskalács <i>(Cozonac Secuiesc / Kürtőskalács)</i>
+- 🥘 Erdélyi Rakott Káposzta <i>(Varză Ardelenească / 𐳉𐳢𐳙𐳋𐳗𐳉𐳗 𐳢𐳀𐳓𐳮𐳧𐳧 𐳓𐳀𐳛𐳮𐳤𐳧𐳀)</i>
+- 🍰 Székely Kürtőskalács <i>(Cozonac Secuiesc / 𐳓𐳜𐳢𐳧𐳑𐳤𐳓𐳀𐳂𐳀𐳤)</i>
 </br>
 <u>Brașov - Regional Special:</u> 
 - 🥘 Braşovence <i>(Clătite Brașovene / Braşovence)</i>
@@ -158,6 +158,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🐦‍🔥 Romanian Folklore <i>(Folclorul Românesc)</i>
 - 🚗 Romanian Cars <i>(Brand: "Dacia")</i>
 - 🏛️ Brâncovenesc Architectural Style <i>(Artă Brâncovenească)</i> 
+- 🛠️ Horezu Pottery Tradition <i>(Ceramică de Horezu)</i>
 - 🏓 Oină Game <i>(Oină)</i>
 - 🎑 Paparuda Ritual <i>(Paparudă)</i> 
 - 💃 Romanian Horă Dance <i>(Horă)</i>
@@ -168,6 +169,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
   - 🦉 Authentic Concept: Romanipen <i>(Romanipenul / Romanipen)</i>
   - 🐦‍🔥 Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
   - 👑 Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
+  - 🛠️ Kalderash Coppersmithing Tradition <i>(Căldărărie Kalderash / Kalderash Sastripe)</i>
   - 🎙️ Lăutari & Lăutărească Music <i>(Lăutari și Muzica Lăutărească / Lăutari thaj Lăutărească Muzika)</i> 
   - 👘 Authentic Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
 - 🧝 Legacy of Dacians <i>(Dacii)</i>
@@ -177,10 +179,10 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🏰 Heritage of the Kingdom of Romania <i>(Regatul României)</i><br>
 <u>Covasna - Regional Special:</u> 
 - 👲 Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
-  - 🕯️ Székely Sabbatarianism <i>(Secuii Sabatarieni / Szombatosok)</i>
+  - 🕯️ Székely Sabbatarianism <i>(Secuii Sabatarieni / 𐳥𐳋𐳓𐳉𐳗 𐳥𐳛𐳘𐳂𐳀𐳦𐳛𐳤𐳤𐳁𐳍)</i>
   - 🔠 Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐲘𐳀𐳎𐳀𐳢 𐲢𐳛𐳮𐳁𐳤)</i>
-  - 🏺 Székely Gates <i>(Poartă Secuiască / Székelykapu)</i>
-- ⛰️ Covasna Mofettes <i>(Mofetele din Covasna / A Kovásznai Mofetták)</i><br>
+  - 🏺 Székely Gates <i>(Poartă Secuiască / 𐳤𐳯𐳋𐳓𐳉𐳗𐳓𐳀𐳠𐳪)</i>
+- ⛰️ Covasna Mofettes <i>(Mofetele din Covasna / 𐳥𐳮𐳮𐳀𐳤𐳤𐳙𐳀 𐳘𐳮𐳐𐳋𐳧𐳧𐳉𐳤)</i><br>
 <u>Brașov - Regional Special:</u> 
 - 👲 Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
   - 🛖 Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>

@@ -146,7 +146,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - 🏰 Heritage of the Kingdom of Bohemia <i>(České Království / Königreich Böhmen)</i>
 - 🏰 Heritage of Czechoslovakia <i>(Československo)</i></br>
 <u>Central Bohemia - Regional Special:</u> 
-- 🎨 Bohemian Glass <i>(České Sklo)</i></br>
+- 🎨 Bohemian Glassware <i>(České Sklo)</i></br>
 <u>South Moravia - Regional Special:</u> 
 - 👲 Culture of Moravians <i>(Moravané / Moraváci)</i>
   - 🎑 Ride of the Kings Ritual <i>(Jízda Králů)</i>

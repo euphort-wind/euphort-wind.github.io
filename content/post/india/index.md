@@ -158,6 +158,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - 🔠 Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
   - 🐦‍🔥 Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
   - 🐦‍🔥 Dasa Sahitya Poetry <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
+  - 🛠️ Bidriware Handicraft Tradition <i>(बिदरी कला / ಬಿದ್ರಿ ಕಲೆ)</i>
   - 💃 Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
   - 🏃🏻 Kambala Buffalo Race Tradition <i>(कंबाला / ಕಂಬಳ)</i>
   - 🏓 Alaguli Mane Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>

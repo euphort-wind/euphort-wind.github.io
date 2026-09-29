@@ -149,10 +149,11 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 <b>🪔 Authentic features:</b>
 - 🔠 Cyrillic Alphabet <i>(Кирилица)</i>
 - 🐦‍🔥 Bulgarian Mythology <i>(Българската Митология)</i>
+- 🛖 Chitalishte Buildings <i>(Читалища)</i>
 - 🏛️ Bulgarian Revival Architectural Style <i>(Възрожденска Архитектура)</i>
 - 🛠️ Rose Oil Production Tradition <i>(Производство на Розово Масло)</i>
+- 🛠️ Troyan Pottery Tradition <i>(Троянска Керамика)</i>
 - 🎨 Shevitsa Embroidery <i>(Шевица)</i>
-- 🛖 Chitalishte Buildings <i>(Читалища)</i>
 - 🎑 Anastenaria Ritual <i>(Нестинарство)</i>
 - 🎑 Kukeri Ritual <i>(Кукери)</i>
 - 💃 Horo Dance <i>(Хоро)</i>

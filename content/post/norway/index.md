@@ -167,7 +167,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
   - 🛖 Hearg Altars <i>(Horgar)</i>
   - 🛖 Hof Temples <i>(Hovar)</i>
   - 🛖 Mead Halls <i>(Mjødhaller)</i> 
-  - 🛠️ Viking Ship Construction <i>(Vikingskip)</i>
+  - 🛠️ Viking Ship Building Tradition <i>(Vikingskip)</i>
   - 🏓 Hnefatafl Game <i>(Hnefatafl)</i> 
 - ⛰️ Strandflat Landforms <i>(Strandflate)</i>
 - ⛰️ Norwegian Fjords <i>(Fjorder)</i> 

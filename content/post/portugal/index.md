@@ -128,7 +128,8 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Saudade <i>(Saudade)</i>
-- 🐦‍🔥 Portuguese Folklore <i>(Folclore de Portugal)</i> 
+- 🐦‍🔥 Portuguese Folklore <i>(Folclore de Portugal)</i>
+- 🏺 Roosters of Barcelos <i>(Galos de Barcelos)</i>
 - ⛵ Rabelo Boats <i>(Barco Rabelo)</i>
 - 🏛️ Manueline Architectural Style <i>(Estilo Manuelino)</i> 
 - 🏛️ Pombaline Architectural Style <i>(Estilo Pombalino)</i> 

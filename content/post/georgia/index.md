@@ -154,6 +154,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - 🔠 Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
 - 🔠 Nuskhuri Script <i>(ნუსხური / ⴌⴓⴑⴞⴓⴐⴈ)</i>
 - 🐦‍🔥 Georgian Mythology <i>(ქართული მითოლოგია)</i>
+- 🏺 Kantsi Drinking Horns <i>(ყანწი)</i>
+- 🏺 Khanjali Daggers <i>(ხანჯალიყანწი)</i>
 - 🛠️ Kvevri-Based Wine Production Tradition <i>(ქვევრის ღვინო)</i>
 - 🏃🏻 Chidaoba Wrestling Tradition <i>(ჩიდაობა)</i>
 - 🏓 Lelo Burti Game <i>(ლელო ბურთი)</i>

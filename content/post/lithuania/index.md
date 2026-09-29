@@ -110,6 +110,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - 🐦‍🔥 Lithuanian Mythology <i>(Lietuvių Mitologija)</i>
 - 🏛️ Lithuanian Gothic Architectural Style <i>(Lietuviškoji Gotika)</i>
 - 🛠️ Lithuanian Cross Crafting Tradition <i>(Lietuvos Kryždirbystė)</i>
+- 🛠️ Lithuanian Black Pottery Tradition <i>(Lietuviška Juodoji Keramika)</i>
 - 🎨 Sodai Straw Gardens <i>(Šiaudinių Sodų Tradicija)</i>
 - 🏓 Ritinis Game <i>(Ritinis)</i>
 - 🎙️ Sutartines Songs <i>(Sutartinės)</i>

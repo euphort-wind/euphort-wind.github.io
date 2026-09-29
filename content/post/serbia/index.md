@@ -134,6 +134,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - 🦉 Authentic Concept: Serbian Inat <i>(Српски Инат)</i>
 - 🦉 Authentic Concept: Polako <i>(Полако)</i> 
 - 🐦‍🔥 Serbian Folklore <i>(Српски Фолклор)</i>
+- 🏺 Čokanja Bottles <i>(Чокањи)</i>
 - 🚗 Serbian Cars <i>(Brand: "Zastava")</i>
 - 🛖 Vajat Houses <i>(Вајати)</i>
 - 🏛️ Morava Architectural Style <i>(Моравски Стил)</i>

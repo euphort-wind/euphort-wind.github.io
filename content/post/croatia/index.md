@@ -145,6 +145,8 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
   - 🏛️ Croatian Pre-Romanesque Architectural Style <i>(Starohrvatska Arhitektura)</i>
   - 🎨 Croatian Interlace <i>(Hrvatski Pleter)</i>
 - 🏰 Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>
+<br><u>Zagreb - Regional Special:</u> 
+- 🏺 Licitars <i>(Licitarska Srca)</i>
 <br><u>Zadar - Regional Special:</u> 
 - 🎙️ Klapa Singing <i>(Klapa)</i>
 <br><u>Dubrovnik-Neretva - Regional Special:</u>

@@ -362,6 +362,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 <u>Emilia-Romagna - Regional Special:</u>  
 - 🛖 Porticoes of Bologna <i>(Portici di Bologna)</i>
 - 🛖 Towers of Bologna <i>(Torri di Bologna)</i>
+- 🛠️ Faenza Potery Tradition <i>(Ceramica di Faenza)</i>
 - 💃 Liscio Dance <i>(Ballo Liscio)</i><br>
 <u>Sicily - Regional Special:</u> 
 - 👲 Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
@@ -385,7 +386,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🎭 Neapolitan Puppetry <i>(Guarattelle Napoletane / Guarattelle Napulitane)</i>
 - 🎙️ Canzone Napoletana Music <i>(Canzone Napoletana / Canzona Napulitana)</i> 
 - 🏰 Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i><br> 
-<u>Lombardy - Regional Special:</u> 
+<u>Lombardy - Regional Special:</u>
+- 🏺 Camunian Roses <i>(Rosa Camuna / Roeusa Camuna)</i> 
 - 💃 Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
 - 🏰 Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
 - ⛰️ Navigli of Milan <i>(Navigli / Navili)</i>
