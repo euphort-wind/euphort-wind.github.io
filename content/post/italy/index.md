@@ -343,8 +343,6 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🛖 Popina Bars <i>(Popinae)</i>
   - 🛖 Lupanars <i>(Lupanaria)</i>
   - 🛖 Insula Houses <i>(Insulae)</i>
-  - 🛖 Horreum Warehouses <i>(Horrea)</i>
-  - 🛖 Triumphal Arches <i>(Arcus Triumphares)</i>
   - 🛖 Forums <i>(Fora)</i>
   - 🛖 Thermae Baths <i>(Thermae)</i>
   - 🛖 Mithraeums <i>(Mithraea)</i>
