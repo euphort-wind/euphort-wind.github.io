@@ -117,6 +117,10 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - 🥙 Döner Kebap <i>(Döner Kebap)</i>
 - 🥙 Kokoreç <i>(Kokoreç)</i>
 - 🥙 Tantuni <i>(Tantuni)</i>
+- 🍲 Analı Kızlı Soup <i>(Analı Kızlı)</i>
+- 🍲 Balık Çorbası <i>(Balık Çorbası)</i>
+- 🍲 Düğün Çorbası <i>(Düğün Çorbası)</i>
+- 🍲 Sheep's Sorrel Soup <i>(Kuzukulağı Çorbası)</i>
 - 🥘 Şakşuka <i>(Şakşuka)</i>
 - 🥘 Karnıyarık <i>(Karnıyarık)</i>
 - 🥘 Barbunya Pilaki <i>(Barbunya Pilaki)</i>

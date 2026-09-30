@@ -125,6 +125,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🥙 Gyros <i>(Γύρος)</i>
 - 🍲 Avgolemono Soup <i>(Αυγολέμονο)</i>
 - 🍲 Kakavia Soup <i>(Κακκαβιά)</i>
+- 🍲 Yuvarlakia Soup <i>(Γιουβαρλάκια)</i>
 - 🥘 Souvlakia-Style Meats <i>(Σουβλάκι)</i>
   - 🥘 Souvlakia-Style Chicken <i>(Σουβλάκι Κοτόπουλο)</i>
   - 🥘 Souvlakia-Style Pork <i>(Σουβλάκι Χοιρινό)</i>
