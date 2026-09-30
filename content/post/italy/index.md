@@ -343,7 +343,13 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 👑 Title of Consul <i>(Consul)</i>
   - 👑 Title of Censor <i>(Censor)</i>
   - 👑 Title of Dictator <i>(Dictator)</i>
-  - 🏃🏻 Gladiatorial Combat Tradition <i>(Gladiātūra)</i>
+  - 🛖 Popina Bars <i>(Popinae)</i>
+  - 🛖 Insula Houses <i>(Insulae)</i>
+  - 🛖 Forums <i>(Fora)</i>
+  - 🛖 Lupanars <i>(Lupanaria)</i>
+  - 🛖 Thermae Baths <i>(Thermae)</i>
+  - 🛖 Thermopoliums <i>(Thermopolia)</i>
+  - 🏃🏻 Gladiatorial Combat Tradition <i>(Gladiatura)</i>
   - 🏓 Harpastum Game <i>(Harpastum)</i> 
   - 🏓 Trigon Game <i>(Trigon)</i>
   - 🎑 Argei Ritual <i>(Argei)</i>
@@ -356,12 +362,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 👑 Title of Emperor <i>(Imperator)</i>
   - 👑 Title of Pater Patriae <i>(Pater Patriae)</i>
   - 👑 Title of Dominus <i>(Dominus)</i>
-  - 🛖 Thermopoliums <i>(Thermopolia)</i>
-  - 🛖 Popina Bars <i>(Popinae)</i>
-  - 🛖 Lupanars <i>(Lupanaria)</i>
-  - 🛖 Insula Houses <i>(Insulae)</i>
-  - 🛖 Forums <i>(Fora)</i>
-  - 🛖 Thermae Baths <i>(Thermae)</i>
+  - 🛖 Amphitheatres <i>(Amphitheatra)</i>
   - 🛖 Mithraeums <i>(Mithraea)</i>
   - 🎭 Naumachia Performance <i>(Naumachia)</i>
   - 🏛️ Ancient Roman Architectural Style <i>(Architettura Romana Antica)</i>
