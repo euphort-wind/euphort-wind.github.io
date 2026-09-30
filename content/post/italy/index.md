@@ -360,10 +360,12 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🏃🏻 Calcio Storico Fiorentino Tradition <i>(Calcio Storico)</i> 
 - 🎑 Scoppio del Carro Ritual <i>(Scoppio del Carro)</i>
 - 🧝 Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i>
-  - 🕯️ Ancient Etruscan Religion <i>(Religione Etrusca)</i>
-  - 👑 Title of Lucumo <i>(Lucumone)</i>  
-  - 🔠 Ancient Etruscan Alphabet <i>(Alfabeto Etrusco)</i> 
-  - 🛠️ Bucchero Pottery Tradition <i>(Bucchero)</i> 
+  - 🕯️ Ancient Etruscan Religion <i>(Religione Etrusca / 𐌄𐌉𐌔𐌍𐌀)</i>
+  - 👑 Title of Lucumo <i>(Lucumone / 𐌋𐌀𐌖𐌙𐌖𐌌𐌄)</i>  
+  - 🔠 Ancient Etruscan Alphabet <i>(Alfabeto Etrusco / 𐌀𐌁𐌂𐌃)</i>
+  - 🛖 Etruscan Temples <i>(Templi Etruschi / 𐌕𐌌𐌉𐌀)</i>
+  - 🏛️ Etruscan Architectural Style <i>(Architettura Etrusca / 𐌂𐌄𐙙𐌀)</i> 
+  - 🛠️ Bucchero Pottery Tradition <i>(Bucchero / 𐌂𐌓𐌀𐌐𐌉)</i> 
 - 🏰 Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
 - 🏰 Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i><br> 
 <u>Emilia-Romagna - Regional Special:</u>  
