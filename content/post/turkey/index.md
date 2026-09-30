@@ -146,6 +146,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
   - 🧀 Çökelek <i>(Çökelek)</i>
   - 🧀 Tulum Cheese <i>(Tulum Peyniri)</i>
 - 🥫 Salça Sauce <i>(Salça)</i>
+- 🥫 Haydari Sauce <i>(Haydari)</i>
 - 🫓 Bazlama <i>(Bazlama)</i>
 - 🫓 Simit <i>(Simit)</i>
 - 🍶 Şalgam Drink <i>(Şalgam Suyu)</i>
