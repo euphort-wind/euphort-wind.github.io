@@ -194,12 +194,20 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🐦‍🔥 Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
   - 👑 System of Ancient Greek Polises <i>(Πόλεις)</i>
   - 👑 Title of Basileus <i>(βασιλεύς)</i>
+  - 🏺 Heroons <i>(Ἡρῷα)</i>
   - ⛵ Trireme Boats <i>(Τριήρεις)</i>
   - 🛖 Ancient Greek Temples <i>(Ναοί)</i>
+  - 🛖 Ancient Greek Gymnasiums <i>(Γυμνάσια)</i>
+  - 🛖 Ancient Greek Theatres <i>(θέατρα)</i>
+  - 🛖 Bouleuterions <i>(βουλευτήρια)</i>
+  - 🛖 Stoas <i>(Στοαί)</i>
+  - 🛖 Asclepieions <i>(Ἁσκληπιεῖα)</i>
+  - 🛖 Tholoi <i>(θόλοι)</i>
   - 🏛️ Ancient Greek Architectural Style <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
   - 🛠️ Ancient Greek Sculptural Tradition <i>(Αρχαία Ελληνική Γλυπτική)</i>
   - 🛠️ Ancient Greek Pottery Tradition <i>(Αρχαία Ελληνική Κεραμική)</i>
   - 🏃🏻 Ancient Greek Boxing Tradition <i>(Πυγμαχία)</i>
+  - 🏃🏻 Ancient Greek Wrestling Tradition <i>(Πάλη)</i>
   - 🏃🏻 Chariot Racing Tradition <i>(Ἁρματοδρομία)</i>
   - 🏓 Ostrakinda Game <i>(Ὀστρακίνδα)</i>
   - 🎭 Aoidoi & Aoidos Songs <i>(Αοιδoί και Ἀοιδή)</i>
