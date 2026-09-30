@@ -153,9 +153,9 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
   - 💃 Moravian Verbuňk Dance <i>(Slovácký Verbuňk)</i>
   - 👘 Authentic Garb: Kordulka Vest & Ceremonial Pentleni <i>(Kordulka Vest & Pentleni)</i>
 - 🏰 Heritage of Great Moravia <i>(Velkomoravská Říše / Ⰿⱁⱃⰰⰲⰰ)</i><br>
-  - 🏺 Great Moravian Gombíky <i>(Gombíky)</i>
-  - 🏺 Great Moravian Axe-shaped Bars <i>(Moravské Sekerovité Hřivny)</i>
-  - 🏛️ Great Moravian Sacral Architectural Style <i>(Velkomoravská Sakrální Architektura)</i>
+  - 🏺 Great Moravian Gombíky <i>(Gombíky / ⰳⱁⰿⰱⰹⰽⱏ)</i>
+  - 🏺 Great Moravian Axe-shaped Bars <i>(Moravské Sekerovité Hřivny / ⰳⱃⰻⰲⱐⰐⱏⰹ)</i>
+  - 🏛️ Great Moravian Sacral Architectural Style <i>(Velkomoravská Sakrální Architektura / ⱈⱃⰰⰿⱏ)</i>
 
 
 

@@ -186,13 +186,13 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 - 🪕 Authentic Musical Instrument: Armenian Duduk <i>(դուդուկ)</i>
 - 👘 Authentic Garb: Armenian Taraz <i>(տարազ)</i>
 - 🏰 Heritage of Urartu <i>(Վանի թագավորություն / 𒁉𒀀𒉌𒇷)</i>
-  - 🕯️ Urartian Religion <i>(Վանի թագավորության կրոն)</i>
-  - 🐦‍🔥 Urartian Mythology <i>(Ուրարտական ​​դիցաբանություն)</i>
-  - 🏺 Urartian Rhytons <i>(Ուրարտական ​​ռիտոն)</i>
-  - 🏺 Vishapakars <i>(Վիշապաքար)</i>
-  - 🏛️ Urartian Architectural Style <i>(Ուրարտուի ճարտարապետությունը)</i>
-  - 🛠️ Urartian Pottery Tradition <i>(Ուրարտական ​​խեցեղեն)</i>
-- 🏰 Heritage of the Kingdom of Greater Armenia <i>(Մեծ Հայք / Armenia Maior)</i>
+  - 🕯️ Urartian Religion <i>(Վանի թագավորության կրոն / 𒀭 𒀀𒄷𒆷𒁲)</i>
+  - 🐦‍🔥 Urartian Mythology <i>(Ուրարտական ​​դիցաբանություն / 𒀭)</i>
+  - 🏺 Urartian Rhytons <i>(Ուրարտական ​​ռիտոն / 𒃻𒉌)</i>
+  - 🏺 Vishapakars <i>(Վիշապաքար / 𒂍𒁀𒊏)</i>
+  - 🏛️ Urartian Architectural Style <i>(Ուրարտուի ճարտարապետությունը / 𒂍)</i>
+  - 🛠️ Urartian Pottery Tradition <i>(Ուրարտական ​​խեցեղեն / 𒀀𒈠𒉌)</i>
+- 🏰 Heritage of the Kingdom of Greater Armenia <i>(Մեծ Հայք / Βασίλειον τῆς Ἀρμενίας)</i>
 - 🏰 Heritage of Bagratid Armenia <i>(Բագրատունիների թագավորություն)</i>
 <br>
 <u>Shirak - Regional Special:</u> 

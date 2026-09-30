@@ -384,21 +384,21 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 👘 Authentic Garb: Folkdräkt <i>(Svensk Folkdräkt)</i>
 - 🏰 Heritage of the Swedish Empire <i>(Stormaktstiden Sverige)</i><br>
 <u>Gotland - Regional Special:</u> 
-- 🧝 Legacy of Gutes <i>(Gutar)</i>
-    - 🐦‍🔥 Guta Saga <i>(Gutasagan)</i>
-    - 🏺 Gotland Picture Stones <i>(Bildstenar)</i>
-    - 🏓 Pärk Game <i>(Pärk)</i>
-    - 🏓 Varpa Game <i>(Varpa)</i>
+- 🧝 Legacy of Gutes <i>(Gutar / ᚷᚢᛏᛟᛉ)</i>
+    - 🐦‍🔥 Guta Saga <i>(Gutasagan / ᚷᚢᛏᚨ ᛋᚨᚷᚨ)</i>
+    - 🏺 Gotland Picture Stones <i>(Bildstenar / ᛒᛁᛚᛞᚨᛋᛏᚨᛁᚾᚨᛉ)</i>
+    - 🏓 Pärk Game <i>(Pärk / ᛈᚨᚱᚲ)</i>
+    - 🏓 Varpa Game <i>(Varpa / ᚹᚨᚱᛈᚨ)</i>
 - ⛰️ Rauk Landforms <i>(Raukar)</i><br>
 <u>Jämtland - Regional Special:</u> 
 - 🎨 Överhogdal Tapestry <i>(Överhogdalstapeten)</i><br>
 <u>Halland - Regional Special:</u> 
 - 🎨 Bonad Painting <i>(Bonadsmålning)</i><br>
 <u>Västra Götaland - Regional Special:</u> 
-- 🧝 Legacy of Geates <i>(Götar)</i>
+- 🧝 Legacy of Geates <i>(Götar / ᚷᚨᚢᛏᚨᛉ)</i>
     - 🔠 Elder Futhark Runic Alphabet <i>(Äldre Futhark / ᚠᚢᚦᚨᚱᚲ)</i>
-    - 🛖 Domarrings <i>(Domarringar)</i>
-    - 🛖 Stone Ships <i>(Skeppssättning)</i>
+    - 🛖 Domarrings <i>(Domarringar / ᛏᛟᛗᚨᚺᚱᛁᛜᚷᚨᛉ)</i>
+    - 🛖 Stone Ships <i>(Skeppssättning / ᛋᚲᛁᛈᚨᛋᛏᚨᛁᚾᛟᛉ)</i>
     
 
 <b>🎊 Authentic holidays & celebrations:</b>

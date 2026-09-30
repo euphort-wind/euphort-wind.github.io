@@ -158,17 +158,17 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - 🪕 Authentic Musical Instrument: Hardanger Fiddle <i>(Hardingfele)</i>
 - 👘 Authentic Garb: Bunad <i>(Bunad)</i>
 - 🧝 Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i>
-  - 🕯️ Norse Paganism <i>(Norrøn Religion)</i>
+  - 🕯️ Norse Paganism <i>(Norrøn Religion / ᚾᚢᚱᚢᛅᚾ ᛋᛁᚦᛦ)</i>
   - 🔠 Younger Futhark Runic Alphabet <i>(Den Yngre Futharken / ᚠᚢᚦᚬᚱᚴ)</i>
-  - 🐦‍🔥 Norse Mythology <i>(Norrøn Mytologi)</i>
-  - 🐦‍🔥 Skaldic Poetry <i>(Skaldekvad)</i> 
-  - 👑 System of Old Norse Clans <i>(Ættir)</i>
-  - 👑 Title of Jarl <i>(Jarl)</i>
-  - 🛖 Hearg Altars <i>(Horgar)</i>
-  - 🛖 Hof Temples <i>(Hovar)</i>
-  - 🛖 Mead Halls <i>(Mjødhaller)</i> 
-  - 🛠️ Viking Ship Building Tradition <i>(Vikingskip)</i>
-  - 🏓 Hnefatafl Game <i>(Hnefatafl)</i> 
+  - 🐦‍🔥 Norse Mythology <i>(Norrøn Mytologi / ᚴᚢᚦᛅ ᛋᚢᚴᚢᛦ)</i>
+  - 🐦‍🔥 Skaldic Poetry <i>(Skaldekvad / ᛋᚴᛅᛚᛏᛋᚴᛅᛒᛦ)</i> 
+  - 👑 System of Old Norse Clans <i>(Ættir / ᛅᛏᛏᛁᛦ)</i>
+  - 👑 Title of Jarl <i>(Jarl / ᛁᛅᛚᛦ)</i>
+  - 🛖 Hearg Altars <i>(Horgar / ᚼᚢᚱᚴᛅᛦ)</i>
+  - 🛖 Hof Temples <i>(Hovar / ᚼᚢᚠ)</i>
+  - 🛖 Mead Halls <i>(Mjødhaller / ᛘᛁᛅᚦᛅᚱᚼᛅᛚᛁᛦ)</i> 
+  - 🛠️ Viking Ship Building Tradition <i>(Vikingskip / ᛋᚴᛁᛒ)</i>
+  - 🏓 Hnefatafl Game <i>(Hnefatafl / ᚼᚾᛁᚠᛅᛏᛅᚠᛚ)</i> 
 - ⛰️ Strandflat Landforms <i>(Strandflate)</i>
 - ⛰️ Norwegian Fjords <i>(Fjorder)</i> 
   
