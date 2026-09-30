@@ -334,11 +334,28 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 💃 Tarantella Dance <i>(Tarantella)</i> 
 - 🪕 Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
 - 🏰 Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
-- 🏰 Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
   - 🦉 Authentic Concept: Mos Maiorum <i>(Mos Maiorum)</i>
   - 🕯️ Ancient Roman Religion <i>(Religione Romana Antica)</i>
   - 🐦‍🔥 Ancient Roman Mythology <i>(Mitologia Romana Antica)</i>
+  - 👑 System of Social Orders <i>(Patricii et Plebeii)</i>
+  - 👑 Title of Princeps Senatus <i>(Princeps Senatus)</i>
+  - 👑 Title of Plebeian Tribune <i>(Tribunus Plebis)</i>
+  - 👑 Title of Consul <i>(Consul)</i>
+  - 👑 Title of Censor <i>(Censor)</i>
+  - 👑 Title of Dictator <i>(Dictator)</i>
+  - 🏃🏻 Gladiatorial Combat Tradition <i>(Gladiātūra)</i>
+  - 🏓 Harpastum Game <i>(Harpastum)</i> 
+  - 🏓 Trigon Game <i>(Trigon)</i>
+  - 🎑 Argei Ritual <i>(Argei)</i>
+  - 🪕 Authentic Musical Instrument: Cornu <i>(Cornu)</i>
+  - 👘 Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
+- 🏰 Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
+  - 🦉 Authentic Concept: Roman Imperial Cult <i>(Cultus Imperatorius)</i>
+  - 🕯️ Mithraism <i>(Cultus Mithrae)</i>
+  - 👑 System of Social Statuses <i>(Honestiores et Humiliores)</i>
+  - 👑 Title of Emperor <i>(Imperator)</i>
   - 👑 Title of Pater Patriae <i>(Pater Patriae)</i>
+  - 👑 Title of Dominus <i>(Dominus)</i>
   - 🛖 Thermopoliums <i>(Thermopolia)</i>
   - 🛖 Popina Bars <i>(Popinae)</i>
   - 🛖 Lupanars <i>(Lupanaria)</i>
@@ -346,13 +363,11 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🛖 Forums <i>(Fora)</i>
   - 🛖 Thermae Baths <i>(Thermae)</i>
   - 🛖 Mithraeums <i>(Mithraea)</i>
+  - 🎭 Naumachia Performance <i>(Naumachia)</i>
   - 🏛️ Ancient Roman Architectural Style <i>(Architettura Romana Antica)</i>
   - 🛠️ Ancient Roman Sculptural Tradition <i>(Scultura Romana Antica)</i>
-  - 🏓 Harpastum Game <i>(Harpastum)</i> 
-  - 🏓 Trigon Game <i>(Trigon)</i>
-  - 🎑 Argei Ritual <i>(Argei)</i>
-  - 🪕 Authentic Musical Instrument: Cornu <i>(Cornu)</i> 
-  - 👘 Authentic Garb: Toga & Palla <i>(Toga e Palla)</i>
+  - 🎑 Taurobolium Ritual <i>(Taurobolium)</i>
+  - 👘 Authentic Garb: Dalmatic & Paenula <i>(Dalmatica e Paenula)</i>
 - 🏰 Heritage of the Kingdom of Italy <i>(Regno d'Italia)</i><br>
 <u>Lazio - Regional Special:</u> 
 - 🏺 Nasoni <i>(Nasoni)</i><br> 

@@ -192,8 +192,11 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🦉 Authentic Concept: Eudaimonia <i>(Ευδαιμονία)</i>
   - 🕯️ Ancient Greek Religion <i>(Αρχαία Ελληνική Θρησκεία)</i>
   - 🐦‍🔥 Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
-  - 👑 System of Ancient Greek Polises <i>(Πόλεις)</i>
+  - 👑 System of Phyles <i>(Φυλαί)</i>
+  - 👑 System of Property Classes <i>(Pentakosiomedimnoi, Hippeis, Zeugitai, et Thetes)</i>
   - 👑 Title of Basileus <i>(βασιλεύς)</i>
+  - 👑 Title of Archon <i>(Ἄρχων)</i>
+  - 👑 Title of Strategos <i>(Στρατηγός)</i>
   - 🏺 Heroons <i>(Ἡρῷα)</i>
   - ⛵ Trireme Boats <i>(Τριήρεις)</i>
   - 🛖 Ancient Greek Temples <i>(Ναοί)</i>
