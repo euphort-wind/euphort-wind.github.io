@@ -69,9 +69,7 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 
 <b>🪔 Authentic features:</b>
 - 🕯️ Catholicism <i>(Ecclesia Catholica)</i>
-- 👑 System of Dioceses <i>(Dioecesis)</i>
 - 👑 Title of Bishop of Rome <i>(Pontifex Maximus)</i>
-- 👑 Title of Cardinal <i>(Cardinalis)</i>
 - 🎑 Papal Audience Ritual <i>(Audientia)</i>
 - 🎑 Papal Conclave Ritual <i>(Conclave)</i>
 - 🪕 Authentic Musical Instrument: Pipe Organ <i>(Organum)</i> 

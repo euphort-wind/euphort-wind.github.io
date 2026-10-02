@@ -112,7 +112,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Jeti Ata <i>(Жеті Ата)</i>
 - 🐦‍🔥 Kazakh Folklore <i>(Қазақ Фольклоры)</i>
-- 👑 System of Jüz <i>(Ұлы Жүз, Орта Жүз, Кіші Жүз)</i>
+- 👑 System of Jüz <i>(Жүздер)</i>
 - 🎨 Kazakh Ornaments <i>(Қазақтың Ұлттық Ою-өрнегі)</i> 
 - 🏃🏻 Baige Horse Racing Tradition <i>(Бәйге)</i>
 - 🏃🏻 Kazakh Wrestling Tradition <i>(Қазақша Күрес)</i>

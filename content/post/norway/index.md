@@ -164,6 +164,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
   - 🐦‍🔥 Skaldic Poetry <i>(Skaldekvad / ᛋᚴᛅᛚᛏᛋᚴᛅᛒᛦ)</i> 
   - 👑 System of Old Norse Clans <i>(Ættir / ᛅᛏᛏᛁᛦ)</i>
   - 👑 Title of Jarl <i>(Jarl / ᛁᛅᛚᛦ)</i>
+  - 👑 Title of Gothi <i>(Gode / ᚴᚢᚦᛁ)</i>
   - 🛖 Hearg Altars <i>(Horgar / ᚼᚢᚱᚴᛅᛦ)</i>
   - 🛖 Hof Temples <i>(Hovar / ᚼᚢᚠ)</i>
   - 🛖 Mead Halls <i>(Mjødhaller / ᛘᛁᛅᚦᛅᚱᚼᛅᛚᛁᛦ)</i> 

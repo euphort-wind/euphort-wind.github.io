@@ -337,12 +337,10 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🦉 Authentic Concept: Mos Maiorum <i>(Mos Maiorum)</i>
   - 🕯️ Ancient Roman Religion <i>(Religione Romana Antica)</i>
   - 🐦‍🔥 Ancient Roman Mythology <i>(Mitologia Romana Antica)</i>
-  - 👑 System of Social Orders <i>(Patricii et Plebeii)</i>
-  - 👑 Title of Princeps Senatus <i>(Princeps Senatus)</i>
-  - 👑 Title of Plebeian Tribune <i>(Tribunus Plebis)</i>
+  - 👑 System of Gens <i>(Gentes)</i>
   - 👑 Title of Consul <i>(Consul)</i>
-  - 👑 Title of Censor <i>(Censor)</i>
   - 👑 Title of Dictator <i>(Dictator)</i>
+  - 👑 Title of Pontifex Maximus <i>(Pontifex Maximus)</i>
   - 🛖 Popina Bars <i>(Popinae)</i>
   - 🛖 Insula Houses <i>(Insulae)</i>
   - 🛖 Forums <i>(Fora)</i>
@@ -358,10 +356,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🏰 Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
   - 🦉 Authentic Concept: Roman Imperial Cult <i>(Cultus Imperatorius)</i>
   - 🕯️ Mithraism <i>(Cultus Mithrae)</i>
-  - 👑 System of Social Statuses <i>(Honestiores et Humiliores)</i>
+  - 👑 System of Civitas <i>(Civitates)</i>
   - 👑 Title of Emperor <i>(Imperator)</i>
-  - 👑 Title of Pater Patriae <i>(Pater Patriae)</i>
-  - 👑 Title of Dominus <i>(Dominus)</i>
   - 🛖 Amphitheatres <i>(Amphitheatra)</i>
   - 🛖 Mithraeums <i>(Mithraea)</i>
   - 🎭 Naumachia Performance <i>(Naumachia)</i>

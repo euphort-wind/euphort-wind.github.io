@@ -100,6 +100,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 - 🕯️ Dievturība Religion <i>(Dievturība)</i>
 - 🐦‍🔥 Legend of Lāčplēsis <i>(Lāčplēsis: Eposs)</i>
 - 🐦‍🔥 Latvian Mythology <i>(Latviešu Mitoloģija)</i> 
+- 👑 Title of Dižvadonis <i>(Dižvadonis)</i> 
 - 🏓 Novuss Game <i>(Novuss)</i>
 - 🎙️ Daina Music <i>(Dainas)</i> 
 - 🪕 Authentic Musical Instrument: Kokle <i>(Kokle)</i> 

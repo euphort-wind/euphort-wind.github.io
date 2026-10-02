@@ -127,9 +127,9 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 - 🏰 Heritage of the Kingdom of Duklja <i>(Дукља / Διόκλεια)</i>
 - 🏰 Heritage of the Kingdom of Zeta <i>(Зета)</i>
 - 🏰 Heritage of the Prince-Bishopric of Montenegro <i>(Митрополство Црногорско)</i>
+  - 🐦‍🔥 Montenegrin Epic Poetry <i>(Црногорска Епска Поезија)</i>
   - 👑 System of Montenegrin Tribes <i>(Племена Црне Горе)</i>
-  - 👑 Title of Vladika of Montenegro <i>(Владика)</i>
-  - 👑 Title of Guvernadur <i>(Гувернадур)</i>
+  - 👑 Title of Vladika <i>(Владика)</i>
 - 🏰 Heritage of the Principality of Montenegro <i>(Књажевина Црна Гора)</i>
 - 🏰 Heritage of the Kingdom of Montenegro <i>(Краљевина Црна Гора)</i>
 <br>

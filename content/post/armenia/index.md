@@ -172,8 +172,7 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 - 🪶 Armenian Alphabet <i>(Հայոց գրեր)</i>
 - 🐦‍🔥 Epos of David of Sassoun <i>(Սասնա ծռեր)</i>
 - 🐦‍🔥 Armenian Mythology <i>(Հայկական դիցաբանություն)</i>
-- 👑 Title of Catholicos of All Armenians <i>(Ամենայն Հայոց Կաթողիկոս)</i>
-- 👑 Title of Nakharar <i>(նախարար)</i>
+- 👑 Title of Armenian Pontiff <i>(Ամենայն Հայոց Կաթողիկոս)</i>
 - 🏺 Khachkars <i>(խաչքար)</i>
 - 🏺 Pulpulaks <i>(պուլպուլակ)</i>
 - 🛖 Armenian Churches <i>(Հայկական եկեղեցիներ)</i>

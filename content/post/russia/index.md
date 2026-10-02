@@ -319,7 +319,6 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 👘 Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
 - 🏰 Heritage of the Grand Principality of Moscow <i>(Великое Княжество Московское)</i>
     - 🐦‍🔥 Bylina Epic Poetry <i>(Былины)</i>
-    - 👑 Title of Boyarin <i>(Боярин)</i>
     - 🏺 Painted Kovshes <i>(Расписные Ковши)</i>
     - 🏺 Russian Stoves <i>(Русские Печи)</i>
     - 🛖 Terems <i>(Терема)</i>
@@ -329,7 +328,6 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🎙️ Znamenny Chant Singing <i>(Знаменное Пение)</i>
     - 👘 Authentic Garb: Bast Shoes & Kokoshnik <i>(Лапти и Кокошник)</i>
 - 🏰 Heritage of the Tsardom of Russia <i>(Русское Царство)</i>
-    - 👑 System of Votchinas <i>(Вотчины)</i>
     - ⛵ Koch Boats <i>(Кочи)</i>
     - 🎨 Lubok Printing <i>(Лубки)</i>
     - 🎨 Stroganov Icon-Painting <i>(Строгановская Иконопись)</i>
@@ -338,7 +336,6 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🦉 Authentic Concept: Sobornost <i>(Соборность / Соборность)</i>      
     - 🕯️ Spiritual Christianity <i>(Духовное Христианство / Духовное Христіанство)</i>
     - 🏺 Painted Samovars <i>(Расписные Самовары / Расписныя Самовары)</i>
-    - 👑 System of Sosloviya <i>(Сословия / Сословія)</i>
     - 🛖 People's Houses <i>(Народные Дома / Народныя Дома)</i>
     - 🏛️ Elizabethan Baroque Architectural Style <i>(Елизаветинское Барокко / Елизаветинское Барокко)</i>
     - 🏛️ Russian Revival Architectural Style <i>(Русский Архитектурный Стиль / Русскій Архитектурный Стиль)</i>
@@ -364,15 +361,18 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🦉 Authentic Concept: Circassian Xabze <i>(Хабза / Адыгэ Хабзэ)</i>
     - 🕯️ Circassian Paganism <i>(Черкесская Религия / ТхьэлъэӀу)</i>
     - 🐦‍🔥 Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
+    - 👑 Title of Thamaté <i>(Тхьэматэ / Тхьэматэ)</i>
     - 🪕 Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
     - 👘 Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
 - 👲 Culture of Abazins <i>(Абазины / Абаза)</i>
 - 🏰 Heritage of Zichia <i>(Черкесия / Адыгэ Хэку)</i><br>
 <u>North Ossetia - Regional Special:</u> 
 - 👲 Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
-    - 🕯️ Ossetian Assianism <i>(Уасдин / Уацдин)</i>
+    - 🦉 Authentic Concept: Ægdau <i>(Агдау / Æгъдау)</i>
+    - 🕯️ Assianism <i>(Уасдин / Уацдин)</i>
     - 🐦‍🔥 Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
     - 🐦‍🔥 Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
+    - 👑 Title of Dzuary Læg <i>(Дзуары Лæг / Дзуары Лæг)</i>
     - 💃 Ossetian Simd Dance <i>(Симд / Синд)</i>
     - 🪕 Authentic Musical Instrument: Kisyn Fandyr <i>(Хисын Фандыр / Xъисын Фæндыр)</i>
 - 🧝 Legacy of Alans <i>(Аланы / Алантæ)</i>

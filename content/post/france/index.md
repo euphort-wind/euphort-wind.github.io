@@ -297,7 +297,6 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: L'Art de Vivre <i>(L'Art de Vivre)</i>
 - 🐦‍🔥 French Folklore <i>(Folklore Français)</i>
-- 👑 System of Compagnonnage <i>(Compagnonnage)</i>
 - 🚗 French Cars <i>(Brands: "Peugeot", "Renault", "Citroën", "Bugatti")</i>
 - 🛖 Lavoir Wash Houses <i>(Lavoirs)</i> 
 - 🛖 Château Manor Houses <i>(Châteaux)</i>

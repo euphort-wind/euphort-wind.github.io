@@ -111,9 +111,11 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Thainess <i>(ความเป็นไทย)</i>
 - 🕯️ Buddhism <i>(ศาสนาพุทธ)</i>
-- 🕯️ Thai Folk Religion <i>(ศาสนาผี)</i>
+- 🕯️ Tai Folk Religion <i>(ศาสนาผี)</i>
 - 🪶 Thai Script <i>(อักษรไทย)</i>
 - 🐦‍🔥 Thai Folklore <i>(นิทานพื้นบ้านไทย)</i>
+- 👑 Title of Sangharaja <i>(สังฆราช)</i>
+- 👑 Title of Mophi <i>(หมอผี)</i>
 - 🏺 Lak Mueangs <i>(หลักเมือง)</i>
 - 🚗 Thai Cars <i>(Brand: "Thairung")</i>
 - ⛵ Thai Long-Tail Boats <i>(เรือหางยาว)</i>

@@ -181,7 +181,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🕯️ Hellenic Polytheism <i>(Ελληνική Εθνική Θρησκεία)</i>
 - 🪶 Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - 🐦‍🔥 Greek Folklore <i>(Ελληνική Λαογραφία)</i>
-- 👑 Title of Ecumenical Patriarch of Constantinople <i>(Οἰκουμενικός Πατριάρχης)</i>
+- 👑 Title of Ecumenical Patriarch <i>(Οἰκουμενικός Πατριάρχης)</i>
 - 🛖 Kafenios <i>(Καφενεία)</i>
 - 🏛️ Greek Neoclassical Architectural Style <i>(Ελληνική Νεοκλασική Αρχιτεκτονική)</i>
 - 💃 Sirtaki Dance <i>(Σιρτάκι)</i>
@@ -194,10 +194,10 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🕯️ Ancient Greek Religion <i>(Αρχαία Ελληνική Θρησκεία)</i>
   - 🐦‍🔥 Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
   - 👑 System of Phyles <i>(Φυλαί)</i>
-  - 👑 System of Property Classes <i>(Pentakosiomedimnoi, Hippeis, Zeugitai, et Thetes)</i>
+  - 👑 System of Phratries <i>(Φρατρίαι)</i>
   - 👑 Title of Basileus <i>(βασιλεύς)</i>
   - 👑 Title of Archon <i>(Ἄρχων)</i>
-  - 👑 Title of Strategos <i>(Στρατηγός)</i>
+  - 👑 Title of Tyrant <i>(Τύραννος)</i>
   - 🏺 Heroons <i>(Ἡρῷα)</i>
   - ⛵ Trireme Boats <i>(Τριήρεις)</i>
   - 🛖 Ancient Greek Temples <i>(Ναοί)</i>

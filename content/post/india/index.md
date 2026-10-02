@@ -125,11 +125,13 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Ahimsa <i>(अहिंसा)</i>
 - 🦉 Authentic Concept: Karma <i>(कर्म)</i>
+- 🦉 Authentic Concept: Dharma <i>(धर्म)</i>
 - 🕯️ Hinduism <i>(हिन्दू धर्म)</i>
 - 🕯️ Sikhism <i>(सिख धर्म)</i>
 - 🕯️ Jainism <i>(जैन धर्म)</i>
 - 🪶 Devanagari Script <i>(देवनागरी)</i>
 - 🐦‍🔥 Indian Folklore <i>(भारतीय लोकवार्ता)</i>
+- 👑 System of Adivasi <i>(आदिवासी)</i>
 - 👑 Title of Guru <i>(गुरु)</i>
 - 🚗 Indian Cars <i>(Brands: "Tata", "Mahindra")</i>
 - 🛖 Chhatri Pavilions <i>(छतरी)</i>

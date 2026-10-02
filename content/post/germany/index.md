@@ -234,7 +234,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🦉 Authentic Concept: Sehnsucht <i>(Sehnsucht)</i>
 - 🕯️ Lutheranism <i>(Luthertum)</i>
 - 🐦‍🔥 German Folklore <i>(Deutsche Folklore)</i>
-- 👑 Title of Chancellor <i>(Kanzler)</i>
+- 👑 Title of Federal Chancellor <i>(Kanzler)</i>
 - 🏺 Cuckoo Clocks <i>(Kuckucksuhr)</i>
 - 🏺 German Beer Steins <i>(Humpen)</i>
 - 🚗 German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>

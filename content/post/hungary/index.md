@@ -150,8 +150,6 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
   - 🕯️ Old Hungarian Shamanism <i>(Táltoshit)</i>
   - 🐦‍🔥 Old Hungarian Mythology <i>(Ősmagyar Mitológia)</i>
   - 👑 Title of Táltos <i>(Táltos)</i>
-  - 👑 Title of Ispán <i>(Ispán)</i>
-
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - 1848 Memorial Day <i>(1848-as Forradalom Ünnepe)</i>. Month: March<br>
