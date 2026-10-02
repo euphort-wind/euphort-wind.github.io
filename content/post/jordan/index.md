@@ -89,7 +89,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
   - 🐦‍🔥 Nabaṭī Poetry <i>(الشعر النبطي)</i> 
   - 🛖 Bedouin Tents <i>(خيام بدوية)</i>
   - 🏃🏻 Camel Racing Tradition <i>(سباق الهجن)</i> 
-- 🏰 Heritage of the Kingdom of Edom <i>(𐤀𐤃𐤌 / مملكة إدوم)</i>
+- 🏰 Heritage of Edom <i>(𐤀𐤃𐤌 / مملكة إدوم)</i>
 - 🏰 Heritage of the Nabataean Kingdom <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i> 
   - 🕯️ Nabataean Religion <i>(𐢀𐢍𐢎𐢒 / ديانة نبطية)</i> 
   - 🔠 Nabataean Script <i>(𐢅𐢄𐢂𐢀 / أبجدية نبطية)</i> 
