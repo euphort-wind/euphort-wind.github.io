@@ -318,8 +318,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🪕 Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - 👘 Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
 - 🏰 Heritage of the Grand Principality of Moscow <i>(Великое Княжество Московское)</i>
-    - 👑 Title of Boyarin <i>(Боярин)</i>
     - 🐦‍🔥 Bylina Epic Poetry <i>(Былины)</i>
+    - 👑 Title of Boyarin <i>(Боярин)</i>
     - 🏺 Painted Kovshes <i>(Расписные Ковши)</i>
     - 🏺 Russian Stoves <i>(Русские Печи)</i>
     - 🛖 Terems <i>(Терема)</i>
@@ -342,8 +342,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🛖 People's Houses <i>(Народные Дома / Народныя Дома)</i>
     - 🏛️ Elizabethan Baroque Architectural Style <i>(Елизаветинское Барокко / Елизаветинское Барокко)</i>
     - 🏛️ Russian Revival Architectural Style <i>(Русский Архитектурный Стиль / Русскій Архитектурный Стиль)</i>
-    - 💃 Barynya Dance <i>(Пляска Барыня)</i>
-    - 💃 Kamarinskaya Dance <i>(Камаринская Пляска / Камаринская Пляска)</i>
+    - 💃 Barynya Dance <i>(Пляска Барыня / Пляска Барыня)</i>
+    - 💃 Kamarinskaya Dance <i>(Камаринская Пляска / Пляска Камаринская)</i>
     - 👘 Authentic Garb: Kosovorotka & Russian Court Dress <i>(Косоворотка и Русское Придворное Платье / Косоворотка и Русское Придворное Платье)</i>
 - 🏰 Heritage of the Russian Republic <i>(Российская Республика / Россійская Республика)</i>
 <br>
