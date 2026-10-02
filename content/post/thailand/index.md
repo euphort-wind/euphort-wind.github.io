@@ -112,7 +112,7 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - 🦉 Authentic Concept: Thainess <i>(ความเป็นไทย)</i>
 - 🕯️ Buddhism <i>(ศาสนาพุทธ)</i>
 - 🕯️ Thai Folk Religion <i>(ศาสนาผี)</i>
-- 🔠 Thai Script <i>(อักษรไทย)</i>
+- 🪶 Thai Script <i>(อักษรไทย)</i>
 - 🐦‍🔥 Thai Folklore <i>(นิทานพื้นบ้านไทย)</i>
 - 🏺 Lak Mueangs <i>(หลักเมือง)</i>
 - 🚗 Thai Cars <i>(Brand: "Thairung")</i>

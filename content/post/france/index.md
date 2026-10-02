@@ -309,7 +309,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🏛️ French Rococo Architectural Style <i>(Architecture Rococo Française)</i>
 - 🎨 Point de France Lace <i>(Point de France)</i>
 - 🎨 Aubusson Tapestry <i>(Tapisserie d'Aubusson)</i>
-- 🎨 French Impressionist Paintings <i>(Peinture Impressionniste)</i>
+- 🎨 French Impressionist Painting <i>(Peinture Impressionniste)</i>
 - 🏃🏻 Equitation Tradition <i>(Équitation)</i>
 - 🏃🏻 Parkour Tradition <i>(Parkour)</i>
 - 🏃🏻 Savate Boxing Tradition <i>(Savate)</i>

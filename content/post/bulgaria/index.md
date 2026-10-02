@@ -147,7 +147,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 
 
 <b>🪔 Authentic features:</b>
-- 🔠 Cyrillic Alphabet <i>(Кирилица)</i>
+- 🪶 Cyrillic Alphabet <i>(Кирилица)</i>
 - 🐦‍🔥 Bulgarian Mythology <i>(Българската Митология)</i>
 - 🛖 Chitalishte Buildings <i>(Читалища)</i>
 - 🏛️ Bulgarian Revival Architectural Style <i>(Възрожденска Архитектура)</i>

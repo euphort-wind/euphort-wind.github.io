@@ -179,7 +179,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🦉 Authentic Concept: Philotimo <i>(Φιλότιμο)</i>
 - 🕯️ Eastern Orthodoxy <i>(Ανατολικός Ορθόδοξος Χριστιανισμός)</i>
 - 🕯️ Hellenic Polytheism <i>(Ελληνική Εθνική Θρησκεία)</i>
-- 🔠 Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
+- 🪶 Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - 🐦‍🔥 Greek Folklore <i>(Ελληνική Λαογραφία)</i>
 - 👑 Title of Ecumenical Patriarch of Constantinople <i>(Οἰκουμενικός Πατριάρχης)</i>
 - 🛖 Kafenios <i>(Καφενεία)</i>
@@ -230,12 +230,12 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🪕 Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
 - 👘 Authentic Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
 - 🧝 Legacy of Minoans <i>(Μινωίτες)</i>
-  - 🔠 Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
-  - 🔠 Linear A Writing System <i>(Γραμμική Α)</i>
+  - 🪶 Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
+  - 🪶 Linear A Writing System <i>(Γραμμική Α)</i>
   - 🏛️ Minoan Palatial Architectural Style <i>(Μινωικά Ανάκτορα)</i>
   - 🛠️ Minoan Pottery Tradition <i>(Μινωική Κεραμική)</i>
   - 🛠️ Minoan Jewellery Tradition  <i>(Μινωικά Κοσμήματα)</i>
-  - 🎨 Minoan Paintings <i>(Μινωική Ζωγραφική)</i>
+  - 🎨 Minoan Painting <i>(Μινωική Ζωγραφική)</i>
   - 🏓 Knossos Board Game <i>(Ζατρίκιον)</i>
 - 🏰 Heritage of the Cretan State <i>(Κρητική Πολιτεία)</i><br> 
 <u>Attica - Regional Special:</u> 

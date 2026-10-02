@@ -19,7 +19,7 @@ gallery_item:
     caption: Inside St. Peter's Basilica
   - album: vatican
     image: 3museum.jpeg
-    caption: Paintings Gallery of the Vatican Museums
+    caption: Painting Gallery of the Vatican Museums
   - album: vatican
     image: 4nil.jpeg
     caption: The Statue of the Nile God

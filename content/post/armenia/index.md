@@ -169,7 +169,7 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 
 <b>🪔 Authentic features:</b>
 - 🕯️ Oriental Orthodoxy <i>(Արևելյան ուղղափառ եկեղեցիներ)</i>
-- 🔠 Armenian Alphabet <i>(Հայոց գրեր)</i>
+- 🪶 Armenian Alphabet <i>(Հայոց գրեր)</i>
 - 🐦‍🔥 Epos of David of Sassoun <i>(Սասնա ծռեր)</i>
 - 🐦‍🔥 Armenian Mythology <i>(Հայկական դիցաբանություն)</i>
 - 👑 Title of Catholicos of All Armenians <i>(Ամենայն Հայոց Կաթողիկոս)</i>

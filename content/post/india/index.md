@@ -128,7 +128,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 🕯️ Hinduism <i>(हिन्दू धर्म)</i>
 - 🕯️ Sikhism <i>(सिख धर्म)</i>
 - 🕯️ Jainism <i>(जैन धर्म)</i>
-- 🔠 Devanagari Script <i>(देवनागरी)</i>
+- 🪶 Devanagari Script <i>(देवनागरी)</i>
 - 🐦‍🔥 Indian Folklore <i>(भारतीय लोकवार्ता)</i>
 - 👑 Title of Guru <i>(गुरु)</i>
 - 🚗 Indian Cars <i>(Brands: "Tata", "Mahindra")</i>
@@ -137,7 +137,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 🛖 Stepwells <i>(बावड़ी)</i>
 - 🏛️ Nagara Architectural Style <i>(नागर शैली)</i>
 - 🏛️ Indo-Saracenic Architectural Style <i>(इंडो-सारासेनिक वास्तुकला)</i>
-- 🎨 Madhubani Paintings <i>(मधुबनी चित्रकला)</i>
+- 🎨 Madhubani Painting <i>(मधुबनी चित्रकला)</i>
 - 🎨 Kalamkari Textile <i>(कलमकारी)</i>
 - 🏃🏻 Yoga Tradition <i>(योग)</i>
 - 🏓 Gillidanda Game <i>(गिल्ली डंडा)</i>
@@ -155,7 +155,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 🏰 Heritage of the Maratha Empire <i>(मराठा साम्राज्य)</i><br>
 <u>Karnataka - Regional Special:</u> 
 - 👲 Culture of Kannadigas <i>(कन्नड़ लोग / ಕನ್ನಡಿಗರು)</i>
-  - 🔠 Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
+  - 🪶 Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
   - 🐦‍🔥 Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
   - 🐦‍🔥 Dasa Sahitya Poetry <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
   - 🛠️ Bidriware Handicraft Tradition <i>(बिदरी कला / ಬಿದ್ರಿ ಕಲೆ)</i>

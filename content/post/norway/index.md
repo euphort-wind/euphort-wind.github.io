@@ -159,7 +159,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - 👘 Authentic Garb: Bunad <i>(Bunad)</i>
 - 🧝 Legacy of Vikings <i>(Vikinger / ᚢᛁᚴᛁᚾᛦ)</i>
   - 🕯️ Norse Paganism <i>(Norrøn Religion / ᚾᚢᚱᚢᛅᚾ ᛋᛁᚦᛦ)</i>
-  - 🔠 Younger Futhark Runic Alphabet <i>(Den Yngre Futharken / ᚠᚢᚦᚬᚱᚴ)</i>
+  - 🪶 Younger Futhark Runic Alphabet <i>(Den Yngre Futharken / ᚠᚢᚦᚬᚱᚴ)</i>
   - 🐦‍🔥 Norse Mythology <i>(Norrøn Mytologi / ᚴᚢᚦᛅ ᛋᚢᚴᚢᛦ)</i>
   - 🐦‍🔥 Skaldic Poetry <i>(Skaldekvad / ᛋᚴᛅᛚᛏᛋᚴᛅᛒᛦ)</i> 
   - 👑 System of Old Norse Clans <i>(Ættir / ᛅᛏᛏᛁᛦ)</i>

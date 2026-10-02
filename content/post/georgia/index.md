@@ -150,9 +150,9 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 
 
 <b>🪔 Authentic features:</b>
-- 🔠 Mkhedruli Script <i>(მხედრული)</i>
-- 🔠 Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
-- 🔠 Nuskhuri Script <i>(ნუსხური / ⴌⴓⴑⴞⴓⴐⴈ)</i>
+- 🪶 Mkhedruli Script <i>(მხედრული)</i>
+- 🪶 Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
+- 🪶 Nuskhuri Script <i>(ნუსხური / ⴌⴓⴑⴞⴓⴐⴈ)</i>
 - 🐦‍🔥 Georgian Mythology <i>(ქართული მითოლოგია)</i>
 - 🏺 Kantsi Drinking Horns <i>(ყანწი)</i>
 - 🏺 Khanjali Daggers <i>(ხანჯალიყანწი)</i>
@@ -160,13 +160,16 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - 🏃🏻 Chidaoba Wrestling Tradition <i>(ჩიდაობა)</i>
 - 🏓 Lelo Burti Game <i>(ლელო ბურთი)</i>
 - 🎑 Tamadas & Supra Ritual <i>(თამადა და სუფრა)</i>
-- 🎭 Berikaoba Theater <i>(ბერიკაობა)</i>
 - 💃 Kartuli Dance <i>(ქართული ცეკვა)</i>
 - 🎙️ Georgian Polyphonic Singing <i>(ქართული მრავალხმიანობა)</i>
 - 🪕 Authentic Musical Instrument: Panduri <i>(ფანდური)</i>
 - 👘 Authentic Garb: Chokha & Kabalakhi <i>(ჩოხა და ყაბალახი)</i>
 - 🏰 Heritage of the Kingdom of Colchis <i>(ეგრისი)</i>
 - 🏰 Heritage of the Kingdom of Iberia <i>(იბერია)</i>
+  - 🕯️ Armazic Religion <i>(არმაზის რელიგია)</i>
+  - 🐦‍🔥 Legend of Amirani <i>(ამირანის ლეგენდა)</i>
+  - 👑 Title of Eristavi <i>(ერისთავი)</i>
+  - 🎭 Berikaoba Theater <i>(ბერიკაობა)</i>
 - 🏰 Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>
 - 🏰 Heritage of the Kingdom of Imereti <i>(იმერეთის სამეფო)</i><br>
 <u>Mtskheta-Mtianeti - Regional Special:</u> 

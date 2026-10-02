@@ -301,26 +301,51 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🦉 Authentic Concept: Russian Avos <i>(Русское Авось)</i>
 - 🐦‍🔥 Russian Folklore <i>(Русский Фольклор)</i> 
 - 🏺 Matryoshka Dolls <i>(Матрёшки)</i>
-- 🏺 Painted Samovars <i>(Расписные Самовары)</i>
 - 🏺 Dymkovo Toys <i>(Дымковские Игрушки)</i>
-- 🏺 Russian Stoves <i>(Русские Печи)</i>
 - ⛵ Yal Boats <i>(Ялы)</i> 
 - 🚗 Russian Cars <i>(Brands: "LADA", "GAZ", "Moskvitch", etc.)</i>
 - 🛖 Russian Banyas <i>(Русские Бани)</i>
 - 🛖 Russian Izbas <i>(Русские Избы)</i>
-- 🏛️ Russian Revival Architectural Style <i>(Русский Архитектурный Стиль)</i>
+- 🛠️ Gzhel Pottery Tradition <i>(Гжель)</i>
 - 🎨 Khokhloma Painting <i>(Хохлома)</i>
+- 🎨 Gorodets Painting <i>(Городецкая Роспись)</i>
 - 🎨 Zhostovo Painting <i>(Жостовская Роспись)</i>
+- 🎨 Fedoskino Miniature <i>(Федоскинская Миниатюра)</i>
 - 🏃🏻 Sambo Fighting Tradition <i>(Самбо)</i>
 - 🏓 Gorodki Game <i>(Городки)</i>
 - 🏓 Lapta Game <i>(Лапта)</i>
 - 💃 Khorovod Dance <i>(Хоровод)</i>
-- 💃 Barynya Dance <i>(Пляска Барыня)</i>
 - 🪕 Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - 👘 Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
 - 🏰 Heritage of the Grand Principality of Moscow <i>(Великое Княжество Московское)</i>
-- 🏰 Heritage of the Tsardom of Russia <i>(Русское Царство / Царствіе Рꙋсьское)</i>
+    - 👑 Title of Boyarin <i>(Боярин)</i>
+    - 🐦‍🔥 Bylina Epic Poetry <i>(Былины)</i>
+    - 🏺 Painted Kovshes <i>(Расписные Ковши)</i>
+    - 🏺 Russian Stoves <i>(Русские Печи)</i>
+    - 🛖 Terems <i>(Терема)</i>
+    - 🏛️ Russian Wooden Architectural Style <i>(Древнерусское Деревянное Зодчество)</i>
+    - 🎨 Novgorod Icon-Painting <i>(Новгородская Иконопись)</i>
+    - 🎭 Skomorokh Performance <i>(Выступления Скоморохов)</i>
+    - 🎙️ Znamenny Chant Singing <i>(Знаменное Пение)</i>
+    - 👘 Authentic Garb: Bast Shoes & Kokoshnik <i>(Лапти и Кокошник)</i>
+- 🏰 Heritage of the Tsardom of Russia <i>(Русское Царство)</i>
+    - 👑 System of Votchinas <i>(Вотчины)</i>
+    - ⛵ Koch Boats <i>(Кочи)</i>
+    - 🎨 Lubok Printing <i>(Лубки)</i>
+    - 🎨 Stroganov Icon-Painting <i>(Строгановская Иконопись)</i>
+    - 👘 Authentic Garb: Feryaz & Boyar Hat <i>(Ферязь и Горлатная Шапка)</i> 
 - 🏰 Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
+    - 🦉 Authentic Concept: Sobornost <i>(Соборность / Соборность)</i>      
+    - 🕯️ Spiritual Christianity <i>(Духовное Христианство / Духовное Христіанство)</i>
+    - 🏺 Painted Samovars <i>(Расписные Самовары / Расписныя Самовары)</i>
+    - 👑 System of Sosloviya <i>(Сословия / Сословія)</i>
+    - 🛖 People's Houses <i>(Народные Дома / Народныя Дома)</i>
+    - 🏛️ Elizabethan Baroque Architectural Style <i>(Елизаветинское Барокко / Елизаветинское Барокко)</i>
+    - 🏛️ Russian Revival Architectural Style <i>(Русский Архитектурный Стиль / Русскій Архитектурный Стиль)</i>
+    - 💃 Barynya Dance <i>(Пляска Барыня)</i>
+    - 💃 Kamarinskaya Dance <i>(Камаринская Пляска / Камаринская Пляска)</i>
+    - 👘 Authentic Garb: Kosovorotka & Russian Court Dress <i>(Косоворотка и Русское Придворное Платье / Косоворотка и Русское Придворное Платье)</i>
+- 🏰 Heritage of the Russian Republic <i>(Российская Республика / Россійская Республика)</i>
 <br>
 <u>Bashkortostan - Regional Special:</u> 
 - 👲 Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
@@ -361,7 +386,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🛠️ Kasli Iron Sculptural Tradition <i>(Каслинское Литьё)</i>
 - 👲 Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i></br>
 <u>Moscow-City - Regional Special:</u>
-- 🏛️ Muscovite Baroque Architectural Style <i>(Нарышкинское Барокко)</i>
+- 🏛️ Naryshkin Baroque Architectural Style <i>(Нарышкинское Барокко)</i>
 </br>
 <u>Orenburzhie - Regional Special:</u> 
 - 👘 Authentic Garb: Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i><br>

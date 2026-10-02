@@ -210,7 +210,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
   - 👑 Title of Stadtholder <i>(Stadhouder)</i>
   - ⛵ Dutch Barge Boats <i>(Schuit)</i>
   - 🏛️ Dutch Baroque Architectural Style <i>(Nederlandse Barokarchitectuur)</i>
-  - 🎨 Dutch Golden Age Paintings <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
+  - 🎨 Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
 - 🏰 Heritage of the Dutch Empire <i>(Nederlandse Rijk)</i>
 - ⛰️ Dutch Canals <i>(Kanalen)</i>
 - ⛰️ Dutch Polders <i>(Polders)</i>

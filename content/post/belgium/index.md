@@ -138,7 +138,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - ⛰️ Flower Carpets <i>(Tapis de Fleurs / Bloementapijt)</i><br>
 <u>Flanders - Regional Special:</u> 
 - 👲 Culture of Flemings <i>(Vlamingen)</i>
-  - 🎨 Flemish Baroque Paintings <i>(Vlaamse Barokschilderkunst)</i>  
+  - 🎨 Flemish Baroque Painting <i>(Vlaamse Barokschilderkunst)</i>  
   - 🎨 Bruges Lace <i>(Brugs Bloemwerk)</i>
   - 🪕 Authentic Musical Instrument: Doedelzak <i>(Doedelzak)</i>
 

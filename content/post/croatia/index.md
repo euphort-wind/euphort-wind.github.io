@@ -141,7 +141,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - 👘 Authentic Garb: Cravat & Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
 - 🧝 Legacy of Illyrians <i>(Iliri)</i>
 - 🏰 Heritage of the Duchy of Croatia <i>(Kneževina Hrvatska / ⰽⰐⰵⰶⰵⰲⰻⰐⰰ ⱈⱃⰲⰰⱅⱄⰽⰰ)</i>
-  - 🔠 Glagolitic Script <i>(Hrvatska Glagoljica / ⰳⰾⰰⰳⱁⰾⰻⱌⰰ)</i>
+  - 🪶 Glagolitic Script <i>(Hrvatska Glagoljica / ⰳⰾⰰⰳⱁⰾⰻⱌⰰ)</i>
   - 🏛️ Croatian Pre-Romanesque Architectural Style <i>(Starohrvatska Arhitektura / ⰰⱃⱈⰻⱅⰵⰽⱅⱆⱃⰰ)</i>
   - 🎨 Croatian Interlace <i>(Hrvatski Pleter / ⱂⰾⰵⱅⰵⱃ)</i>
 - 🏰 Heritage of the Kingdom of Croatia <i>(Kraljevina Hrvatska / Regnum Croatiæ)</i>

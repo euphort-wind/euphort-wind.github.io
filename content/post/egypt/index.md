@@ -103,13 +103,13 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - 👘 Authentic Garb: Galabiya <i>(جلابية)</i>
 - 👲 Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
   - 🦉 Authentic Concept: Coptic Monasticism <i>(الرهبنه القبطيه / Ⲡⲓⲃⲓⲟⲥ Ⲛⲙⲟⲛⲁⲭⲟⲥ)</i>
-  - 🔠 Coptic Script <i>(الأبجدية القبطية / Ⲁⲃⲅⲇⲉ)</i>
+  - 🪶 Coptic Script <i>(الأبجدية القبطية / Ⲁⲃⲅⲇⲉ)</i>
   - 👑 Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
   - 🏺 Coptic Crosses <i>(الصليب القبطى / Ⲥⲧⲁⲩⲣⲟⲥ)</i>
 - 🧝 Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
   - 🦉 Authentic Concept: Maat <i>(ماعت / 𓁦)</i>
   - 🕯️ Ancient Egyptian Religion <i>(ديانة قدماء المصريين / 𓊹𓌃)</i>
-  - 🔠 Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية / 𓊹𓌃𓏥)</i>
+  - 🪶 Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية / 𓊹𓌃𓏥)</i>
   - 🐦‍🔥 Ancient Egyptian Mythology <i>(أساطير مصرية / 𓌳𓇋𓀁𓊹𓊹𓊹)</i>
   - 👑 Title of Pharaoh <i>(فرعون / 𓉐𓉻)</i>
   - 🏺 Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة / 𓍔𓏲)</i>

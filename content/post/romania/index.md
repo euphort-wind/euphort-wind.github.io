@@ -180,7 +180,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 <u>Covasna - Regional Special:</u> 
 - 👲 Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
   - 🕯️ Székely Sabbatarianism <i>(Secuii Sabatarieni / 𐳥𐳋𐳓𐳉𐳗 𐳥𐳛𐳘𐳂𐳀𐳦𐳛𐳤𐳤𐳁𐳍)</i>
-  - 🔠 Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐳘𐳀𐳎𐳀𐳢 𐳢𐳛𐳮𐳁𐳤)</i>
+  - 🪶 Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐳘𐳀𐳎𐳀𐳢 𐳢𐳛𐳮𐳁𐳤)</i>
   - 🏺 Székely Gates <i>(Poartă Secuiască / 𐳤𐳯𐳋𐳓𐳉𐳗𐳓𐳀𐳠𐳪)</i>
 - ⛰️ Covasna Mofettes <i>(Mofetele din Covasna / 𐳥𐳮𐳮𐳀𐳤𐳤𐳙𐳀 𐳘𐳮𐳐𐳋𐳧𐳧𐳉𐳤)</i><br>
 <u>Brașov - Regional Special:</u> 
