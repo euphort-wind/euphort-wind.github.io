@@ -63,13 +63,12 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 
 <b>🍽️ Local food & drinks: </b>
 - 🥗 Yum Woon Sen <i>(ยำวุ้นเส้น)</i> 
-- 🍲 Thai Soups <i>(ต้มยำ)</i>
-  - 🍲 Tom Yam Talay <i>(ต้มยำทะเล)</i>
-  - 🍲 Tom Yam Kung <i>(ต้มยำกุ้ง)</i>
-  - 🍲 Tom Yam Nam Sai <i>(ต้มยำน้ำใส)</i>
-  - 🍲 Tom Yam Nam Khon <i>(ต้มยำน้ำข้น)</i>
-  - 🍲 Tom Yam Gai <i>(ต้มยำไก่)</i>
-  - 🍲 Tom Kha Gai <i>(ต้มข่าไก่)</i>
+- 🍲 Tom Yam Talay <i>(ต้มยำทะเล)</i>
+- 🍲 Tom Yam Kung <i>(ต้มยำกุ้ง)</i>
+- 🍲 Tom Yam Nam Sai <i>(ต้มยำน้ำใส)</i>
+- 🍲 Tom Yam Nam Khon <i>(ต้มยำน้ำข้น)</i>
+- 🍲 Tom Yam Gai <i>(ต้มยำไก่)</i>
+- 🍲 Tom Kha Gai <i>(ต้มข่าไก่)</i>
 - 🥘 Phanaeng <i>(พะแนง)</i>
 - 🥘 Thai Suki <i>(สุกี้)</i>
 - 🥘 Thai Fried Rice <i>(ข้าวผัด)</i>

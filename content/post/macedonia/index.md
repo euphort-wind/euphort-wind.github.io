@@ -82,10 +82,9 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 
 
 <b>🍽️ Local food & drinks: </b>
-- 🥗 Macedonian Relishes <i>(Македонско Мезе)</i>
-  - 🥗 Ajvar <i>(Ајвар)</i>
-  - 🥗 Malidzano <i>(Малиџано)</i>
-  - 🥗 Pindjur <i>(Пинџур)</i>
+- 🥗 Ajvar <i>(Ајвар)</i>
+- 🥗 Malidzano <i>(Малиџано)</i>
+- 🥗 Pindjur <i>(Пинџур)</i>
 - 🥙 Pastrmajlija <i>(Пастрмајлија)</i>
 - 🥘 Tavče Gravče <i>(Тавче-гравче)</i>
 - 🥘 Selsko Meso <i>(Селско Месо)</i>

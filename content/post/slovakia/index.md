@@ -94,10 +94,9 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 - 🥘 Chicken Breast Steak with Peach <i>(Kuracie Prsia s Broskyňou)</i>
 - 🍰 Šúľance <i>(Šúľance)</i>
 - 🍰 Karamelový Veterník <i>(Karamelový Veterník)</i>
-- 🧀 Slovak Cheese <i>(Slovenské Syry)</i>
-  - 🧀 Bryndza <i>(Bryndza)</i>
-  - 🧀 Oštiepok <i>(Oštiepok)</i>
-  - 🧀 Parenica <i>(Parenica)</i>
+- 🧀 Bryndza <i>(Bryndza)</i>
+- 🧀 Oštiepok <i>(Oštiepok)</i>
+- 🧀 Parenica <i>(Parenica)</i>
 - 🍶 Borovička <i>(Brand: "Spišská")</i>
 </br>
 <u>Bratislava - Regional Special:</u> 

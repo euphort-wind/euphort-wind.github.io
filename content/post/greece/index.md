@@ -146,10 +146,9 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🍰 Galaktoboureko <i>(Γαλακτομπούρεκο)</i>
 - 🍰 Portokalopita <i>(Πορτοκαλόπιτα)</i>
 - 🍰 Spoon Sweets <i>(Γλυκό του Κουταλιού)</i>
-- 🧀 Greek Cheese <i>(Ελληνικά Τυριά)</i>
-  - 🧀 Feta <i>(Φέτα)</i>
-  - 🧀 Manouri <i>(Μανούρι)</i>
-  - 🧀 Kasseri <i>(Κασέρι)</i>
+- 🧀 Feta <i>(Φέτα)</i>
+- 🧀 Manouri <i>(Μανούρι)</i>
+- 🧀 Kasseri <i>(Κασέρι)</i>
 - 🥫 Tzatziki <i>(Τζατζίκι)</i>
 - 🫓 Daktyla <i>(Δάχτυλα)</i>
 - 🫓 Karydopita <i>(Καρυδόπιτα)</i>

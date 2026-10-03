@@ -200,12 +200,11 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 
 <b>🍽️ Local food & drinks: </b>
-- 🥓 Italian Lunch Meats <i>(Salumi Italiani)</i>
-  - 🥓 Carpaccio <i>(Carpaccio)</i>
-  - 🥓 Bresaola <i>(Bresaola)</i> 
-  - 🥓 Mortadella <i>(Mortadella)</i> 
-  - 🥓 Prosciutto <i>(Prosciutto Crudo)</i> 
-  - 🥓 Salami <i>(Salame)</i> 
+- 🥓 Carpaccio <i>(Carpaccio)</i>
+- 🥓 Bresaola <i>(Bresaola)</i> 
+- 🥓 Mortadella <i>(Mortadella)</i> 
+- 🥓 Prosciutto <i>(Prosciutto Crudo)</i> 
+- 🥓 Salami <i>(Salame)</i> 
 - 🥙 Italian Pizza <i>(Pizza)</i>
   - 🥙 Quattro Formaggi <i>(Quattro Formaggi)</i>
   - 🥙 Quattro Stagioni <i>(Quattro Stagioni)</i>
@@ -225,16 +224,15 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🍰 Maritozzo <i>(Maritozzo)</i>
 - 🍰 Panna Cotta <i>(Panna Cotta)</i>
 - 🍰 Tiramisu <i>(Tiramisu)</i>
-- 🧀 Italian Cheese <i>(Formaggio Italiano)</i>
-  - 🧀 Parmesan <i>(Parmigiano Reggiano)</i>
-  - 🧀 Mozzarella <i>(Mozzarella)</i>
-  - 🧀 Gorgonzola <i>(Gorgonzola)</i>
-  - 🧀 Pecorino <i>(Pecorino)</i>
-  - 🧀 Taleggio <i>(Taleggio)</i>
-  - 🧀 Caciocavallo <i>(Caciocavallo)</i>
-  - 🧀 Ricotta <i>(Ricotta)</i>
-  - 🧀 Burrata <i>(Burrata)</i>
-  - 🧀 Mascarpone <i>(Mascarpone)</i>
+- 🧀 Parmesan <i>(Parmigiano Reggiano)</i>
+- 🧀 Mozzarella <i>(Mozzarella)</i>
+- 🧀 Gorgonzola <i>(Gorgonzola)</i>
+- 🧀 Pecorino <i>(Pecorino)</i>
+- 🧀 Taleggio <i>(Taleggio)</i>
+- 🧀 Caciocavallo <i>(Caciocavallo)</i>
+- 🧀 Ricotta <i>(Ricotta)</i>
+- 🧀 Burrata <i>(Burrata)</i>
+- 🧀 Mascarpone <i>(Mascarpone)</i>
 - 🥫 Pesto Sauce <i>(Pesto)</i>
 - 🍶 Italian Coffee Drinks <i>(Caffè Italiano)</i> 
   - 🍶 Cappuccino <i>(Cappuccino)</i>

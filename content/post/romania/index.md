@@ -119,10 +119,9 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
   - 🥙 Plăcintă with Cheese <i>(Plăcintă cu Brânză)</i>
   - 🥙 Plăcintă with Potato <i>(Plăcintă cu Cartofi)</i>
   - 🍰 Plăcintă with Apple <i>(Plăcintă cu Mere)</i>
-- 🍲 Romanian Soups <i>(Ciorba Românească)</i>
-  - 🍲 Ciorbă de Burtă <i>(Ciorbă de Burtă)</i>
-  - 🍲 Ciorbă de Perișoare <i>(Ciorbă de Perișoare)</i>
-  - 🍲 Ciorbă de Fasole în Pâine <i>(Ciorbă de Fasole în Pâine)</i>
+- 🍲 Ciorbă de Burtă <i>(Ciorbă de Burtă)</i>
+- 🍲 Ciorbă de Perișoare <i>(Ciorbă de Perișoare)</i>
+- 🍲 Ciorbă de Fasole în Pâine <i>(Ciorbă de Fasole în Pâine)</i>
 - 🥘 Sarmale <i>(Sarmale)</i>
 - 🥘 Mămăligă <i>(Mămăligă)</i>
 - 🥘 Bulz Ciobănesc <i>(Bulz Ciobănesc)</i>

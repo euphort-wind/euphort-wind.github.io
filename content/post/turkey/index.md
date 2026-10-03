@@ -141,10 +141,9 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - 🍰 Sekerpare <i>(Şekerpare)</i>
 - 🍰 Turkish Ice-cream <i>(Dondurma)</i>
 - 🍰 Bici Bici <i>(Bici Bici)</i>
-- 🧀 Turkish Cheese <i>(Türk Peyniri)</i>
-  - 🧀 Beyaz Peynir <i>(Beyaz Peynir)</i>
-  - 🧀 Çökelek <i>(Çökelek)</i>
-  - 🧀 Tulum Cheese <i>(Tulum Peyniri)</i>
+- 🧀 Beyaz Peynir <i>(Beyaz Peynir)</i>
+- 🧀 Çökelek <i>(Çökelek)</i>
+- 🧀 Tulum Cheese <i>(Tulum Peyniri)</i>
 - 🥫 Salça Sauce <i>(Salça)</i>
 - 🥫 Haydari Sauce <i>(Haydari)</i>
 - 🫓 Bazlama <i>(Bazlama)</i>

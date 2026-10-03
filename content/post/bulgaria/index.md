@@ -130,10 +130,9 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🥘 Kyufte <i>(Кюфте)</i>
 - 🥘 Tsatsa Fish <i>(Цаца)</i>
 - 🍰 Garash Cake <i>(Гараш Торта)</i>
-- 🧀 Bulgarian Cheese <i>(Български Сирена)</i>
-  - 🧀 Sirene <i>(Сирене)</i>
-  - 🧀 Kashkaval <i>(Кашкавал)</i>
-  - 🧀 Katǎk <i>(Катък)</i>
+- 🧀 Sirene <i>(Сирене)</i>
+- 🧀 Kashkaval <i>(Кашкавал)</i>
+- 🧀 Katǎk <i>(Катък)</i>
 - 🫓 Mekitsa <i>(Мекица)</i>
 - 🍶 Bulgarian Rakia <i>(Brand: "Burgas 63")</i>
 </br>

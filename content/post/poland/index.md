@@ -126,12 +126,11 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 <b>🍽️ Local food & drinks: </b>
 - 🥙 Zapiekanka <i>(Zapiekanka)</i>
 - 🥙 Szczecin Pasztecik <i>(Pasztecik Szczeciński)</i>
-- 🍲 Polish Soups <i>(Polskie Zupy)</i>
-  - 🍲 Żurek <i>(Żurek)</i>
-  - 🍲 Flaki <i>(Flaczki)</i>
-  - 🍲 Krupnik <i>(Krupnik)</i>
-  - 🍲 Rosół <i>(Rosół)</i>
-  - 🍲 Cucumber Soup <i>(Zupa Ogórkowa)</i>
+- 🍲 Żurek <i>(Żurek)</i>
+- 🍲 Flaki <i>(Flaczki)</i>
+- 🍲 Krupnik <i>(Krupnik)</i>
+- 🍲 Rosół <i>(Rosół)</i>
+- 🍲 Cucumber Soup <i>(Zupa Ogórkowa)</i>
 - 🥘 Bigos <i>(Bigos)</i>
 - 🥘 Pierogi <i>(Pierogi)</i>
   - 🥘 Meat Pierogi <i>(Pierogi z Mięsem)</i>
@@ -176,10 +175,9 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🫓 Obwarzanek Krakowski <i>(Obwarzanek Krakowski)</i>
 - 🍲 Góral Kwaśnica <i>(Góralska Kwaśnica)</i>
 - 🥘 Góral Moskole <i>(Góralskie Moskole)</i>
-- 🧀 Góral Cheese <i>(Góralski Ser)</i>
-  - 🧀 Oscypek <i>(Oscypek)</i>
-  - 🧀 Gołka <i>(Gołka)</i>
-  - 🧀 Redykołka <i>(Redykołka)</i>
+- 🧀 Oscypek <i>(Oscypek)</i>
+- 🧀 Gołka <i>(Gołka)</i>
+- 🧀 Redykołka <i>(Redykołka)</i>
 
 
 <b>🎬 Local movies:</b>

@@ -234,12 +234,11 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🥙 Kurnik <i>(Курник)</i>
 - 🥙 Rasstegai <i>(Расстегай)</i>
 - 🥙 Russian Caviar Sandwiches <i>(Бутерброд с Икрой)</i> 
-- 🍲 Russian Soups <i>(Русские Супы)</i> 
-    - 🍲 Solyanka <i>(Солянка)</i> 
-    - 🍲 Rassolnik <i>(Рассольник)</i>
-    - 🍲 Ukha <i>(Уха)</i>
-    - 🍲 Shchi <i>(Щи)</i>
-    - 🍲 Okroshka <i>(Окрошка)</i>  
+- 🍲 Solyanka <i>(Солянка)</i> 
+- 🍲 Rassolnik <i>(Рассольник)</i>
+- 🍲 Ukha <i>(Уха)</i>
+- 🍲 Shchi <i>(Щи)</i>
+- 🍲 Okroshka <i>(Окрошка)</i>  
 - 🥘 Pozharsky Cutlets <i>(Пожарские Котлеты)</i> 
 - 🥘 Beef Stroganoff <i>(Бефстроганов)</i> 
 - 🥘 Pelmeni <i>(Пельмени)</i>

@@ -91,12 +91,11 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - 🥙 Porilainen <i>(Porilainen)</i>
 - 🥙 Lihapiirakka <i>(Lihapiirakka)</i>
 - 🥙 Lörtsy <i>(Lörtsy)</i>
-- 🍲 Finnish Soups <i>(Suomalaiset Keitot)</i>
-  - 🍲 Lohikeitto <i>(Lohikeitto)</i>
-  - 🍲 Kalakeitto <i>(Kalakeitto)</i>
-  - 🍲 Hernekeitto <i>(Hernekeitto)</i>
-  - 🍲 Hapanvelli <i>(Hapanvelli)</i>
-  - 🍲 Kesäkeitto <i>(Kesäkeitto)</i>
+- 🍲 Lohikeitto <i>(Lohikeitto)</i>
+- 🍲 Kalakeitto <i>(Kalakeitto)</i>
+- 🍲 Hernekeitto <i>(Hernekeitto)</i>
+- 🍲 Hapanvelli <i>(Hapanvelli)</i>
+- 🍲 Kesäkeitto <i>(Kesäkeitto)</i>
 - 🥘 Sautéed Reindeer <i>(Poronkäristys)</i>
 - 🥘 Karelian Stew <i>(Karjalanpaisti)</i>
 - 🥘 Maksalaatikko <i>(Maksalaatikko)</i>

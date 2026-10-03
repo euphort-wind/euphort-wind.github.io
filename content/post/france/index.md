@@ -196,38 +196,36 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
     - 🍰 Pain aux Raisins <i>(Pain aux Raisin)</i>
     - 🍰 Pain au Chocolat <i>(Pain au Chocolat)</i>
     - 🍰 Chausson aux Pommes <i>(Chausson aux Pommes)</i>
-- 🧀 French Cheese <i>(Fromages Français)</i>
-    - 🧀 Époisses <i>(Époisses)</i>
-    - 🧀 Camembert <i>(Camembert)</i>
-    - 🧀 Roquefort <i>(Roquefort)</i>
-    - 🧀 Brie <i>(Brie)</i>
-    - 🧀 Comté Cheese <i>(Comté)</i>
-    - 🧀 Maroilles Cheese <i>(Maroilles)</i>
-    - 🧀 Livarot Cheese <i>(Livarot)</i>
-    - 🧀 Saint-Nectaire <i>(Saint-Nectaire)</i>
-    - 🧀 Bleu d'Auvergne <i>(Bleu d'Auvergne)</i>
-    - 🧀 Fourme d'Ambert <i>(Fourme d'Ambert)</i>
-    - 🧀 Crottin de Chavignol <i>(Crottin de Chavignol)</i>
-    - 🧀 Chaumes <i>(Chaumes)</i>
-    - 🧀 Saint Albray <i>(Saint Albray)</i>
-    - 🧀 Pont-l'Évêque Cheese <i>(Pont-l'Évêque)</i>
-    - 🧀 Mimolette <i>(Mimolette)</i>
-    - 🧀 Langres Cheese <i>(Langres)</i>
-    - 🧀 Tomme <i>(Tomme)</i>
-    - 🧀 Morbier <i>(Morbier)</i>
-- 🥫 French Sauces <i>(Sauces Françaises)</i>
-    - 🥫  Mayonnaise <i>(Mayonnaise)</i>
-    - 🥫  Hollandaise <i>(Sauce Hollandaise)</i>
-    - 🥫  Béchamel <i>(Sauce Béchamel)</i>
-    - 🥫  Remoulade <i>(Rémoulade)</i>
-    - 🥫  Béarnaise <i>(Sauce Béarnaise)</i>
-    - 🥫  Aioli <i>(Aïoli)</i>
-    - 🥫  Demi-Glace <i>(Sauce Demi-Glace)</i>
-    - 🥫  Tartar Sauce <i>(Sauce Tartare)</i>
-    - 🥫  Beurre Noisette <i>(Beurre Noisette)</i>
-    - 🥫  Beurre Blanc <i>(Beurre Blanc)</i>
-    - 🥫  Dijon Mustard <i>(Moutarde de Dijon)</i>
-    - 🥫  Sauce Vierge <i>(Sauce Vierge)</i>
+- 🧀 Époisses <i>(Époisses)</i>
+- 🧀 Camembert <i>(Camembert)</i>
+- 🧀 Roquefort <i>(Roquefort)</i>
+- 🧀 Brie <i>(Brie)</i>
+- 🧀 Comté Cheese <i>(Comté)</i>
+- 🧀 Maroilles Cheese <i>(Maroilles)</i>
+- 🧀 Livarot Cheese <i>(Livarot)</i>
+- 🧀 Saint-Nectaire <i>(Saint-Nectaire)</i>
+- 🧀 Bleu d'Auvergne <i>(Bleu d'Auvergne)</i>
+- 🧀 Fourme d'Ambert <i>(Fourme d'Ambert)</i>
+- 🧀 Crottin de Chavignol <i>(Crottin de Chavignol)</i>
+- 🧀 Chaumes <i>(Chaumes)</i>
+- 🧀 Saint Albray <i>(Saint Albray)</i>
+- 🧀 Pont-l'Évêque Cheese <i>(Pont-l'Évêque)</i>
+- 🧀 Mimolette <i>(Mimolette)</i>
+- 🧀 Langres Cheese <i>(Langres)</i>
+- 🧀 Tomme <i>(Tomme)</i>
+- 🧀 Morbier <i>(Morbier)</i>
+- 🥫  Mayonnaise <i>(Mayonnaise)</i>
+- 🥫  Hollandaise <i>(Sauce Hollandaise)</i>
+- 🥫  Béchamel <i>(Sauce Béchamel)</i>
+- 🥫  Remoulade <i>(Rémoulade)</i>
+- 🥫  Béarnaise <i>(Sauce Béarnaise)</i>
+- 🥫  Aioli <i>(Aïoli)</i>
+- 🥫  Demi-Glace <i>(Sauce Demi-Glace)</i>
+- 🥫  Tartar Sauce <i>(Sauce Tartare)</i>
+- 🥫  Beurre Noisette <i>(Beurre Noisette)</i>
+- 🥫  Beurre Blanc <i>(Beurre Blanc)</i>
+- 🥫  Dijon Mustard <i>(Moutarde de Dijon)</i>
+- 🥫  Sauce Vierge <i>(Sauce Vierge)</i>
 - 🫓 Baguette <i>(Baguette)</i>
 - 🫓 Vol-au-Vent <i>(Vol-au-Vent)</i>
 - 🫓 Crouton <i>(Croûton)</i>

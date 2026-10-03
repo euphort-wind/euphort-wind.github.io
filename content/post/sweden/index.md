@@ -329,13 +329,12 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🍰 Kladdkaka <i>(Kladdkaka)</i>
 - 🍰 Vanilla Hearts <i>(Vaniljhjärtan)</i>
 - 🍰 Blueberry Soup <i>(Blåbärssoppa)</i>
-- 🧀 Swedish Cheese <i>(Svensk Ost)</i>
-    - 🧀 Västerbottensost <i>(Västerbottensost)</i> 
-    - 🧀 Prästost <i>(Prästost)</i>
-    - 🧀 Herrgårdsost <i>(Herrgårdsost)</i>
-    - 🧀 Hushållsost <i>(Hushållsost)</i>
-    - 🧀 Grevé <i>(Grevé)</i>
-    - 🧀 Gräddost <i>(Gräddost)</i>
+- 🧀 Västerbottensost <i>(Västerbottensost)</i> 
+- 🧀 Prästost <i>(Prästost)</i>
+- 🧀 Herrgårdsost <i>(Herrgårdsost)</i>
+- 🧀 Hushållsost <i>(Hushållsost)</i>
+- 🧀 Grevé <i>(Grevé)</i>
+- 🧀 Gräddost <i>(Gräddost)</i>
 - 🫓 Crispbread <i>(Knäckebröd)</i>
 - 🍶 Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
 - 🍶 Swedish Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>

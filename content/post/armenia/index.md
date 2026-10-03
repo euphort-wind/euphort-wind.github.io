@@ -110,11 +110,10 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 
 
 <b>🍽️ Local food & drinks: </b>
-- 🍲 Armenian Soups <i>(Հայկական ապուրներ)</i>
-    - 🍲 Spas <i>(Սպաս)</i>
-    - 🍲 Putuk <i>(պուտուկ)</i>
-    - 🍲 Krchik <i>(Քրչիկ)</i>
-    - 🍲 Khash <i>(խաշ)</i>
+- 🍲 Spas <i>(Սպաս)</i>
+- 🍲 Putuk <i>(պուտուկ)</i>
+- 🍲 Krchik <i>(Քրչիկ)</i>
+- 🍲 Khash <i>(խաշ)</i>
 - 🥗 Armenian Tolma <i>(Տոլմա)</i>
 - 🥗 Eetch <i>(Էտչ)</i>
 - 🥗 Ailazan <i>(այլազան)</i>
@@ -125,11 +124,10 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 - 🥘 Armenian Khashlama <i>(Խաշլամա)</i>
 - 🥘 Khurjin <i>(Խուրջին)</i>
 - 🥘 Tjvjik <i>(տժվժիկ)</i>
-- 🧀 Armenian Cheese <i>(Հայկական պանիրներ)</i>
-    - 🧀 Chanakh <i>(չանախ)</i>
-    - 🧀 Chechil <i>(Չեչիլ)</i>
-    - 🧀 Lori <i>(լոռի)</i>
-    - 🧀 Horats Panir <i>(հորած պանիր)</i>
+- 🧀 Chanakh <i>(չանախ)</i>
+- 🧀 Chechil <i>(Չեչիլ)</i>
+- 🧀 Lori <i>(լոռի)</i>
+- 🧀 Horats Panir <i>(հորած պանիր)</i>
 - 🍰 Nazook <i>(Նազուկ)</i>
 - 🍰 Matzoon <i>(մածուն)</i>
 - 🍰 Gata <i>(գաթա)</i>

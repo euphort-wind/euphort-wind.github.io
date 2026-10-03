@@ -117,15 +117,13 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - 🍰 Gozinaki <i>(გოზინაყი)</i>
 - 🍰 Tklapi <i>(ტყლაპი)</i>
 - 🍰 Georgian Wine Ice Cream <i>(ღვინის ნაყინი)</i>
-- 🧀 Georgian Cheese <i>(ქართული ყველი)</i>
-  - 🧀 Sulguni <i>(სულგუნი)</i>
-  - 🧀 Imeretian Cheese <i>(იმერული ყველი)</i>
-  - 🧀 Guda <i>(გუდა)</i> 
-- 🥫 Georgian Sauces <i>(ქართული სოუსები)</i>
-  - 🥫 Tkemali <i>(ტყემალი)</i>
-  - 🥫 Satsebeli <i>(საწებელი)</i>
-  - 🥫 Bazhe <i>(ბაჟე)</i>
-  - 🥫 Ajika <i>(აჯიკა)</i>
+- 🧀 Sulguni <i>(სულგუნი)</i>
+- 🧀 Imeretian Cheese <i>(იმერული ყველი)</i>
+- 🧀 Guda <i>(გუდა)</i> 
+- 🥫 Tkemali <i>(ტყემალი)</i>
+- 🥫 Satsebeli <i>(საწებელი)</i>
+- 🥫 Bazhe <i>(ბაჟე)</i>
+- 🥫 Ajika <i>(აჯიკა)</i>
 - 🫓 Shoti Bread <i>(შოთის პური)</i>
 - 🫓 Mchadi Bread <i>(მჭადი)</i>
 - 🍶 Georgian Lemonades <i>(Brands: "Natakhtari Cream Soda", "Kazbegi Tarkhuna", etc.)</i> 

@@ -98,10 +98,9 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 - 🥘 Cicvara <i>(Цицвара)</i>
 - 🥘 Balšića Tava <i>(Балшића Тава)</i>
 - 🍰 Priganice <i>(Приганице)</i>
-- 🧀 Montenegrin Cheese <i>(Црногорски Сир)</i>
-  - 🧀 Njeguški Cheese <i>(Његушки Сир)</i>
-  - 🧀 Pljevaljski Cheese <i>(Пљеваљски Сир)</i> 
-  - 🧀 Lisnati Cheese <i>(Лиснати Сир)</i> 
+- 🧀 Njeguški Cheese <i>(Његушки Сир)</i>
+- 🧀 Pljevaljski Cheese <i>(Пљеваљски Сир)</i> 
+- 🧀 Lisnati Cheese <i>(Лиснати Сир)</i> 
 - 🍶 Montenegrin Wine <i>(Brand: "Plantaže Vranac")</i>
 </br>
 <u>Central Montenegro - Regional Special:</u> 

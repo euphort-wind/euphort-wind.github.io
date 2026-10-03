@@ -164,11 +164,10 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - 🍰 Oliebol <i>(Oliebol)</i>
 - 🍰 Hagelslag <i>(Hagelslag)</i> 
 - 🍰 Stroopwafel <i>(Stroopwafel)</i>
-- 🧀 Dutch Cheese <i>(Nederlandse Kaas)</i>
-  - 🧀 Gouda <i>(Goudse Kaas)</i>
-  - 🧀 Edam <i>(Edammer)</i>
-  - 🧀 Maasdam <i>(Maasdamer)</i>
-  - 🧀 Boerenkaas <i>(Boerenkaas)</i> 
+- 🧀 Gouda <i>(Goudse Kaas)</i>
+- 🧀 Edam <i>(Edammer)</i>
+- 🧀 Maasdam <i>(Maasdamer)</i>
+- 🧀 Boerenkaas <i>(Boerenkaas)</i> 
 - 🍶 Jenever <i>(Brand: "Bols Zeer Oude")</i>
 </br>
 <u>North Holland - Regional Special:</u> 

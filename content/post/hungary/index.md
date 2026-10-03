@@ -100,12 +100,11 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
     - 🥙 Lángos with Sour Cream and Cheese <i>(Sajtos-Tejfölös Lángos)</i>
     - 🥙 Lángos with Sour Cream, Bacon and Onion <i>(Húsos Lángos)</i>
     - 🥙 Lángos with Braised Cabbage <i>(Káposztás Lángos)</i>
-- 🍲 Hungarian Soups <i>(Magyar Levesek)</i>
-  - 🍲 Goulash <i>(Gulyás)</i>
-  - 🍲 Jókai Bean Soup <i>(Jókai Bableves)</i>
-  - 🍲 Halászlé <i>(Halászlé)</i>
-  - 🍲 Palóc Soup <i>(Palócleves)</i>
-  - 🍲 Hungarian Sour Cherry Soup <i>(Hideg Meggyleves)</i>
+- 🍲 Goulash <i>(Gulyás)</i>
+- 🍲 Jókai Bean Soup <i>(Jókai Bableves)</i>
+- 🍲 Halászlé <i>(Halászlé)</i>
+- 🍲 Palóc Soup <i>(Palócleves)</i>
+- 🍲 Hungarian Sour Cherry Soup <i>(Hideg Meggyleves)</i>
 - 🥘 Lecsó <i>(Lecsó)</i>
 - 🥘 Pörkölt <i>(Marhapörkölt)</i>  
 - 🥘 Chicken Paprikash <i>(Paprikás Csirke)</i>
