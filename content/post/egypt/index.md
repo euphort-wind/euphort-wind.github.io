@@ -95,20 +95,33 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Egyptian Folklore <i>(تراث مصري)</i>
+- 🏺 Fanouses <i>(فوانيس)</i>
 - ⛵ Falūka Boats <i>(فلايك)</i>
 - 🎨 Henna Body Painting <i>(رسم الحنة)</i>
 - 🎨 Khayamiya Textile <i>(خيّامية)</i>
 - 🏃🏻 Desert Safari Tradition <i>(رحلات السفاري الصحراوية)</i>
-- 🪕 Authentic Musical Instrument: Goblet Drum <i>(دربوكة)</i>
+- 🏃🏻 Tahtib Tradition <i>(تحطيب)</i>
+- 🏓 Seega Game <i>(السيجة)</i>
+- 🎑 El-Sebou Ritual <i>(السبوع)</i>
+- 🎭 El-Aragoz Puppetry <i>(الأراجوز)</i>
+- 💃 Raqs Sharqi Dance <i>(رقص شرقي)</i>
+- 🎙️ Baladi Music <i>(بلدي)</i>
+- 🎙️ Shaabi Music <i>(شعبي)</i>
+- 🪕 Authentic Musical Instrument: Simsimiyya <i>(سمسمية)</i>
 - 👘 Authentic Garb: Galabiya <i>(جلابية)</i>
 - 👲 Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
   - 🦉 Authentic Concept: Coptic Monasticism <i>(الرهبنه القبطيه / Ⲡⲓⲃⲓⲟⲥ Ⲛⲙⲟⲛⲁⲭⲟⲥ)</i>
   - 🪶 Coptic Script <i>(الأبجدية القبطية / Ⲁⲃⲅⲇⲉ)</i>
   - 👑 Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
-  - 🏺 Coptic Crosses <i>(الصليب القبطى / Ⲥⲧⲁⲩⲣⲟⲥ)</i>
+  - 🏛️ Coptic Architectural Style <i>(عمارة قبطية / Ⲟⲓⲕⲟⲇⲟⲙⲏ)</i>
+  - 🎨 Coptic Icon Painting <i>(فن قبطي / Ⲧⲉⲭⲛⲏ ⲛ̀ⲧⲉ Ⲛⲓⲕⲱⲛ)</i>
+  - 🎙️ Coptic Chant <i>(الموسيقى القبطيه / Ⲯⲁⲗⲙⲟⲥ Ⲛ̀ⲭⲏⲙⲓ)</i>
+  - 🎑 Tasbeha Ritual <i>(تسبحة / Ⲑⲱⲇⲓⲁ)</i>
+  - 👘 Authentic Garb: Coptic Hand Cross <i>(الصليب القبطى / Ⲥⲧⲁⲩⲣⲟⲥ)</i>
 - 🧝 Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
   - 🦉 Authentic Concept: Maat <i>(ماعت / 𓁦)</i>
   - 🕯️ Ancient Egyptian Religion <i>(ديانة قدماء المصريين / 𓊹𓌃)</i>
+  - 🕯️ Atenism <i>(الديانه الاتونيه / 𓐍𓏏)</i>
   - 🪶 Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية / 𓊹𓌃𓏥)</i>
   - 🐦‍🔥 Ancient Egyptian Mythology <i>(أساطير مصرية / 𓌳𓇋𓀁𓊹𓊹𓊹)</i>
   - 👑 Title of Pharaoh <i>(فرعون / 𓉐𓉻)</i>
