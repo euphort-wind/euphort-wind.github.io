@@ -118,7 +118,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - 🏓 Senet Game <i>(لعبة السِّينِت / 𓊃𓈖𓏏𓏠)</i>
   - 💃 Ancient Egyptian Dance <i>(الرقص في مصر القديمة / 𓀤)</i>
   - 🪕 Authentic Musical Instrument: Sistrum <i>(السيستروم / 𓏣)</i>
-  - 👘 Authentic Garb: Khat & Shendyt <i>(الخات والشنديت / 𓐍𓄿𓏏𓋴 𓋴𓈙𓅱𓂧𓏏𓋱)</i>
+  - 👘 Authentic Garb: Khat & Shendyt <i>(الخات والشنديت / 𓎛𓂋𓏏)</i>
 - 🏰 Heritage of the Ptolemaic Kingdom <i>(المملكه البطلميه / Πτολεμαϊκὴ βασιλεία)</i>
 - 🏰 Heritage of the Fatimid Empire <i>(الخلافة الفاطمیّة)</i>
 - 🏰 Heritage of the Ayyubid Sultanate <i>(الدولة الأيوبية)</i>
