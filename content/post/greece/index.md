@@ -183,18 +183,30 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 👑 Title of Ecumenical Patriarch <i>(Οἰκουμενικός Πατριάρχης)</i>
 - 🛖 Kafenios <i>(Καφενεία)</i>
 - 🏛️ Greek Neoclassical Architectural Style <i>(Ελληνική Νεοκλασική Αρχιτεκτονική)</i>
-- 💃 Sirtaki Dance <i>(Σιρτάκι)</i>
+- 💃 Syrtos Dance <i>(Συρτός)</i>
 - 🎙️ Rebetiko Music <i>(Ρεμπέτικο Τραγούδι)</i>
 - 🪕 Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
 - 👘 Ancient Authentic Garb: Fustanella & Amalía Dress <i>(Φουστανέλα και Αμαλία)</i>
-- 🧝 Legacy of Mycenaeans <i>(Μυκηναίοι)</i>
+- 🧝 Legacy of Mycenaeans <i>(Μυκηναίοι / 𐀘𐀏𐀂𐀪)</i>
+  - 🕯️ Mycenaean Religion <i>(Μυκηναϊκή θρησκεία / 𐀏𐀂𐀃)</i>
+  - 🪶 Linear B Writing System <i>(Γραμμική Β / 𐀊𐀋𐀍𐀎)</i>
+  - 👑 Title of Basileus <i>(βασιλεύς / 𐀣𐀯𐀩𐀄)</i>
+  - 👑 Title of Wanax <i>(Άνακτας / 𐀷𐀙𐀏)</i>
+  - 🏺 Kylikes <i>(Κύλικες / 𐀡𐀞)</i>
+  - 🏛️ Cyclopean Masonry Architectural Style <i>(Κυκλώπεια Τείχη / 𐀵𐀒)</i>
+  - 🛖 Megarons <i>(Μέγαρα / 𐀷𐀙𐀏𐀄𐀫)</i>
+  - 🛠️ Mycenaean Pottery Tradition <i>(Μυκηναϊκή Κεραμική / 𐀐𐀩𐀗𐀭)</i>
+  - 🛠️ Mycenaean Glyptic Art Tradition <i>(Μυκηναϊκή Γλυπτική / 𐀓𐀫𐀰)</i>
+  - 🏃🏻 Chariot Racing Tradition <i>(Ἁρματοδρομία / 𐀂𐀟𐀊)</i>
+  - 🎑 Mycenaean Libation Ritual <i>(Μυκηναϊκή Σπονδή / 𐀀𐀩𐀞)</i>
+  - 🪕 Authentic Musical Instrument: Phorminx <i>(Φόρμιγξ / 𐀪𐀩)</i>
+  - 👘 Ancient Authentic Garb: Boar's Tusk Helmet <i>(Οδοντόφρακτη Περικεφαλαία / 𐀒𐀰)</i>
 - 🧝 Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
   - 🦉 Authentic Concept: Eudaimonia <i>(Ευδαιμονία)</i>
   - 🕯️ Ancient Greek Religion <i>(Αρχαία Ελληνική Θρησκεία)</i>
   - 🐦‍🔥 Ancient Greek Mythology <i>(Αρχαία Ελληνική Μυθολογία)</i>
   - 👑 System of Phyles <i>(Φυλαί)</i>
   - 👑 System of Phratries <i>(Φρατρίαι)</i>
-  - 👑 Title of Basileus <i>(βασιλεύς)</i>
   - 👑 Title of Archon <i>(Ἄρχων)</i>
   - 👑 Title of Tyrant <i>(Τύραννος)</i>
   - 🏺 Heroons <i>(Ἡρῷα)</i>
@@ -211,13 +223,24 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🛠️ Ancient Greek Pottery Tradition <i>(Αρχαία Ελληνική Κεραμική)</i>
   - 🏃🏻 Ancient Greek Boxing Tradition <i>(Πυγμαχία)</i>
   - 🏃🏻 Ancient Greek Wrestling Tradition <i>(Πάλη)</i>
-  - 🏃🏻 Chariot Racing Tradition <i>(Ἁρματοδρομία)</i>
   - 🏓 Ostrakinda Game <i>(Ὀστρακίνδα)</i>
+  - 🏓 Petteia Game <i>(Πόλις: Επιτραπέζιο Παιχνίδι)</i>
+  - 🎭 Mimes & Pantomimes <i>(Μίμοι και Παντομίμα)</i>
   - 🎭 Aoidoi & Aoidos Songs <i>(Αοιδoί και Ἀοιδή)</i>
   - 🎭 Rhapsodes & Rhapsodies <i>(Ραψωδοί και Ραψωδίες)</i>
   - 🪕 Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
   - 👘 Authentic Garb: Peplos & Chlamys <i>(Πέπλος και Χλαμύδα)</i>
 - 🏰 Heritage of the Byzantine Empire <i>(Βυζαντινή Αυτοκρατορία / Imperium Romanum Orientale)</i>
+  - 🦉 Authentic Concept: Taxis <i>(Τάξις)</i>
+  - ⛵ Dromon Boats <i>(Δρόμωνας)</i>
+  - 🛖 Parecclesions <i>(Παρεκκλήσια)</i>
+  - 🏛️ Byzantine Architectural Style <i>(Βυζαντινή Αρχιτεκτονική)</i>
+  - 🛠️ Byzantine Silk Weaving Tradition <i>(Βυζαντινή Υφαντική Μεταξωτού)</i>
+  - 🎨 Byzantine Enamel <i>(Βυζαντινό Σμάλτο)</i>
+  - 🎨 Byzantine Mosaics <i>(Βυζαντινά Ψηφιδωτά)</i>
+  - 🎨 Gold Ground Icon Painting <i>(Χρυσογραφία)</i>
+  - 🎙️ Byzantine Chant <i>(Βυζαντινή Ψαλμωδία)</i>
+  - 👘 Authentic Garb: Loros & Tzangion <i>(Λῶρος και Τζαγγίον)</i>
 - 🏰 Heritage of the Nicene Empire <i>(Βασιλεία Ῥωμαίων)</i>
 - 🏰 Heritage of the Kingdom of Greece <i>(Βασίλειον τῆς Ἑλλάδος)</i><br> 
 <u>South Aegean - Regional Special:</u>
@@ -230,7 +253,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 👘 Authentic Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
 - 🧝 Legacy of Minoans <i>(Μινωίτες)</i>
   - 🪶 Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
-  - 🪶 Linear A Writing System <i>(Γραμμική Α)</i>
+  - 🪶 Linear A Writing System <i>(Γραμμική Α / 𐘊𐘋𐘌𐘍)</i>
+  - 🏺 Stirrup Jars <i>(Μινωικοί Ψευδόστομοι Αμφορείς)</i>
   - 🏛️ Minoan Palatial Architectural Style <i>(Μινωικά Ανάκτορα)</i>
   - 🛠️ Minoan Pottery Tradition <i>(Μινωική Κεραμική)</i>
   - 🛠️ Minoan Jewellery Tradition  <i>(Μινωικά Κοσμήματα)</i>

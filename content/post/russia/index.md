@@ -322,14 +322,14 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🏺 Russian Stoves <i>(Русские Печи)</i>
     - 🛖 Terems <i>(Терема)</i>
     - 🏛️ Russian Wooden Architectural Style <i>(Древнерусское Деревянное Зодчество)</i>
-    - 🎨 Novgorod Icon-Painting <i>(Новгородская Иконопись)</i>
+    - 🎨 Novgorod Icon Painting <i>(Новгородская Иконопись)</i>
     - 🎭 Skomorokh Performance <i>(Выступления Скоморохов)</i>
     - 🎙️ Znamenny Chant Singing <i>(Знаменное Пение)</i>
     - 👘 Authentic Garb: Bast Shoes & Kokoshnik <i>(Лапти и Кокошник)</i>
 - 🏰 Heritage of the Tsardom of Russia <i>(Русское Царство)</i>
     - ⛵ Koch Boats <i>(Кочи)</i>
     - 🎨 Lubok Printing <i>(Лубки)</i>
-    - 🎨 Stroganov Icon-Painting <i>(Строгановская Иконопись)</i>
+    - 🎨 Stroganov Icon Painting <i>(Строгановская Иконопись)</i>
     - 👘 Authentic Garb: Feryaz & Boyar Hat <i>(Ферязь и Горлатная Шапка)</i> 
 - 🏰 Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
     - 🦉 Authentic Concept: Sobornost <i>(Соборность / Соборность)</i>      
