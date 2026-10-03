@@ -154,6 +154,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Dor <i>(Dor)</i>
+- 🕯️ Zalmoxianism <i>(Zalmoxianism)</i>
 - 🐦‍🔥 Ballad of Miorița <i>(Miorița)</i>
 - 🐦‍🔥 Romanian Folklore <i>(Folclorul Românesc)</i>
 - 🚗 Romanian Cars <i>(Brand: "Dacia")</i>
