@@ -99,14 +99,14 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
   - 🏃🏻 Camel Racing Tradition <i>(سباق الهجن)</i> 
   - 🎭 As-Samer Performance <i>(السامر)</i> 
   - 💃 Al-Daha Dance <i>(الدَّحّة)</i>
-- 🏰 Heritage of Edom <i>(𐤀𐤃𐤌 / مملكة إدوم)</i>
-- 🏰 Heritage of the Nabataean Kingdom <i>(𐢕𐢃𐢋𐢈 / المملكة النبطية)</i> 
-  - 🕯️ Nabataean Religion <i>(𐢀𐢍𐢎𐢒 / ديانة نبطية)</i> 
-  - 📝 Nabataean Script <i>(𐢀𐢁𐢂𐢃 / الخط النبطي)</i> 
-  - 🏺 Nabataean Betyls <i>(𐢍𐢕𐢊𐢁 / الأنصاب النبطية المقدسة)</i> 
-  - 🏛️ Nabataean Architectural Style <i>(𐢁𐢍𐢉𐢍𐢀 / العمارة النبطية)</i>
-  - 🛠️ Nabataean Pottery Tradition <i>(𐢊𐢐𐢃 / الفخار النبطي)</i>
-- 🏰 Heritage of the Emirate of Transjordan <i>(إمارة شرق الأردن)</i>
+- 🏰 Heritage of Edom <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐤀𐤃𐤌 / مملكة إدوم)</i></span>
+- 🏰 Heritage of the Nabataean Kingdom <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐢕𐢃𐢋𐢈 / المملكة النبطية)</i></span> 
+  - 🕯️ Nabataean Religion <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐢀𐢍𐢎𐢒 / ديانة نبطية)</i></span> 
+  - 📝 Nabataean Script <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐢀𐢁𐢂𐢃 / الخط النبطي)</i></span> 
+  - 🏺 Nabataean Betyls <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐢍𐢕𐢊𐢁 / الأنصاب النبطية المقدسة)</i></span> 
+  - 🏛️ Nabataean Architectural Style <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐢁𐢍𐢉𐢍𐢀 / العمارة النبطية)</i></span>
+  - 🛠️ Nabataean Pottery Tradition <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐢊𐢐𐢃 / الفخار النبطي)</i></span>
+- 🏰 Heritage of the Emirate of Transjordan <span dir="rtl" style="unicode-bidi: isolate;"><i>(إمارة شرق الأردن)</i></span>
 
  
 
