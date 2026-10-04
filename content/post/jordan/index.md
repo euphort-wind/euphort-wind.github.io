@@ -100,13 +100,12 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
   - 🎭 As-Samer Performance <i>(السامر)</i> 
   - 💃 Al-Daha Dance <i>(الدَّحّة)</i>
 - 🏰 Heritage of Edom <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐤀𐤃𐤌 / مملكة إدوم)</i></span>
-- 🏰 Heritage of the Nabataean Kingdom <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐢕𐢃𐢋𐢈 / المملكة النبطية)</i></span> 
-  - 🕯️ Nabataean Religion <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐢀𐢍𐢎𐢒 / ديانة نبطية)</i></span> 
-  - 📝 Nabataean Script <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐢀𐢁𐢂𐢃 / الخط النبطي)</i></span> 
-  - 🏺 Nabataean Betyls <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐢍𐢕𐢊𐢁 / الأنصاب النبطية المقدسة)</i></span> 
-  - 🏛️ Nabataean Architectural Style <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐢁𐢍𐢉𐢍𐢀 / العمارة النبطية)</i></span>
-  - 🛠️ Nabataean Pottery Tradition <span dir="rtl" style="unicode-bidi: isolate;"><i>(𐢊𐢐𐢃 / الفخار النبطي)</i></span>
-- 🏰 Heritage of the Emirate of Transjordan <span dir="rtl" style="unicode-bidi: isolate;"><i>(إمارة شرق الأردن)</i></span>
+- 🏰 Heritage of the Nabataean Kingdom (<bdi style="direction: rtl;">𐢕𐢃𐢋𐢈</bdi> / <bdi style="direction: rtl;">المملكة النبطية</bdi>)
+  - 🕯️ Nabataean Religion (<bdi style="direction: rtl;">𐢀𐢍𐢎𐢒</bdi> / <bdi style="direction: rtl;">ديانة نبطية</bdi>) 
+  - 📝 Nabataean Script (<bdi style="direction: rtl;">𐢀𐢁𐢂𐢃</bdi> / <bdi style="direction: rtl;">الخط النبطي</bdi>) 
+  - 🏺 Nabataean Betyls (<bdi style="direction: rtl;">𐢍𐢕𐢊𐢁</bdi> / <bdi style="direction: rtl;">الأنصاب النبطية المقدسة</bdi>) 
+  - 🏛️ Nabataean Architectural Style (<bdi style="direction: rtl;">𐢁𐢍𐢉𐢍𐢀</bdi> / <bdi style="direction: rtl;">العمارة النبطية</bdi>)
+  - 🛠️ Nabataean Pottery Tradition (<bdi style="direction: rtl;">𐢊𐢐𐢃</bdi> / <bdi style="direction: rtl;">الفخار النبطي</bdi>)
 
  
 
