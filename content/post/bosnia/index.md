@@ -121,7 +121,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - 🪕 Authentic Musical Instrument: Šargija <i>(Šargija)</i> 
 - 🏰 Heritage of the Bosnian Banate <i>(Banovina Bosna / Boszniai Bánság)</i>
     - 🕯️ Bosnian Church Christianity <i>(Crkva Bosanska)</i>
-    - 🪶 Bosančica Script <i>(Bosančica)</i>
+    - 📝 Bosančica Script <i>(Bosančica)</i>
     - 🏺 Stećci <i>(Stećci)</i>
 - 🏰 Heritage of the Bosnian Kingdom <i>(Kraljevina Bosna / Краљевина Босна)</i>
 - ⛰️ Karst Poljes <i>(Kraška Polja)</i><br>

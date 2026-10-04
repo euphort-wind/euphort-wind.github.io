@@ -40,7 +40,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 
 {{< spoiler text="Click to view" >}}
 1. Sharm El-Sheikh
-    - Ras Mohamed Nature Reserve <i>(راس محمد)</i>
+    - Ras Mohamed Nature Reserve <i>(رأس محمد)</i>
     - Sharm El-Sheikh Old Market <i>(السوق القديم)</i>
     - Shark's Bay Beach <i>(خليج القرش)</i>
     - Bedouin Village <i>(القرية البدوية)</i>
@@ -73,7 +73,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - 🥘 Falafel <i>(طعمية)</i>
 - 🥘 Koshary <i>(كشري)</i>
 - 🥘 Ful Medames <i>(فول مدمس)</i>
-- 🥘 Koftet el Hati <i>(كفتة الحاتى)</i>
+- 🥘 Koftet el Hati <i>(كفتة الحاتي)</i>
 - 🥘 Koftet Rozz <i>(كفتة رز)</i>
 - 🥘 Mazalika <i>(مزاليكا)</i>
 - 🥘 Mesaqaʻah <i>(مسقعة)</i>
@@ -111,8 +111,8 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - 👘 Authentic Garb: Galabiya <i>(جلابية)</i>
 - 👲 Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
   - 🦉 Authentic Concept: Coptic Monasticism <i>(الرهبنه القبطيه / Ⲡⲓⲃⲓⲟⲥ Ⲛⲙⲟⲛⲁⲭⲟⲥ)</i>
-  - 🪶 Coptic Script <i>(الأبجدية القبطية / Ⲁⲃⲅⲇⲉ)</i>
-  - 👑 Title of Coptic Pope <i>(بابا اسكندريه للمصريين الاورتودوكس / Ⲡⲁⲡⲁ)</i>
+  - 📝 Coptic Script <i>(الأبجدية القبطية / Ⲁⲃⲅⲇⲉ)</i>
+  - 👑 Title of Coptic Pope <i>(بابا الإسكندرية للمصريين الأرثوذكس / Ⲡⲁⲡⲁ)</i>
   - 🏛️ Coptic Architectural Style <i>(عمارة قبطية / Ⲟⲓⲕⲟⲇⲟⲙⲏ)</i>
   - 🎨 Coptic Icon Painting <i>(فن قبطي / Ⲧⲉⲭⲛⲏ ⲛ̀ⲧⲉ Ⲛⲓⲕⲱⲛ)</i>
   - 🎙️ Coptic Chant <i>(الموسيقى القبطيه / Ⲯⲁⲗⲙⲟⲥ Ⲛ̀ⲭⲏⲙⲓ)</i>
@@ -120,20 +120,35 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - 👘 Authentic Garb: Coptic Hand Cross <i>(الصليب القبطى / Ⲥⲧⲁⲩⲣⲟⲥ)</i>
 - 🧝 Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
   - 🦉 Authentic Concept: Maat <i>(ماعت / 𓁦)</i>
+  - 🦉 Authentic Concept: Ka <i>(كا / 𓂓)</i>
+  - 🦉 Authentic Concept: Ba <i>(با / 𓅽)</i>
+  - 🦉 Authentic Concept: Akh <i>(آخ / 𓅜)</i>
   - 🕯️ Ancient Egyptian Religion <i>(ديانة قدماء المصريين / 𓊹𓌃)</i>
   - 🕯️ Atenism <i>(الديانه الاتونيه / 𓐍𓏏)</i>
-  - 🪶 Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية / 𓊹𓌃𓏥)</i>
+  - 📝 Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية / 𓊹𓌃𓏥)</i>
   - 🐦‍🔥 Ancient Egyptian Mythology <i>(أساطير مصرية / 𓌳𓇋𓀁𓊹𓊹𓊹)</i>
   - 👑 Title of Pharaoh <i>(فرعون / 𓉐𓉻)</i>
-  - 🏺 Ancient Egyptian Sarcophaguses <i>(التوابيت المصرية القديمة / 𓍔𓏲)</i>
+  - 🏺 Sarcophaguses <i>(التوابيت المصرية القديمة / 𓍔𓏲)</i>
+  - 🏺 Canopic Jars <i>(اوانى كانوبيه / 𓁢𓂀𓆑𓁚)</i>
+  - 🏺 Ankhs <i>(مفتاح الحياه / 𓋹)</i>
+  - 🏺 Ushabti Figurines <i>(اوشابتى / 𓅱𓈙𓃀𓏏𓏭𓀾)</i>
   - ⛵ Ancient Egyptian Royal Ships <i>(مراكب الشمس / 𓊛)</i>
+  - ⛵ Solar Barques <i>(المراكب الشمسية / 𓂋𓂝 𓏏𓊖)</i>
+  - 🛖 Mastabas <i>(مصطبه / 𓉐𓊽)</i>
+  - 🛖 Pylons <i>(صرح / 𓈌)</i>
   - 🏛️ Ancient Egyptian Architectural Style <i>(العمارة المصرية القديمة / 𓉐)</i>
+  - 🛠️ Ancient Egyptian Faience Potery Tradition <i>(الفاينس المصري / 𓍿𓎛𓈖𓏏)</i>
+  - 🛠️ Papyrus Sheet Making Tradition <i>(صناعة ورق البردي / 𓇅)</i>
+  - 🎨 Ancient Egyptian Relief Art <i>(الفن المصري البارز / 𓏏𓏏𓏤)</i>
   - 🏓 Senet Game <i>(لعبة السِّينِت / 𓊃𓈖𓏏𓏠)</i>
+  - 🏓 Mehen Game <i>(مِحِن / 𓎼𓈖𓆗)</i>
+  - 🏓 Hounds and Jackals Game <i>(كلاب الصيد وابن آوى / 𓃡𓃟)</i>
+  - 🎑 Opening of the Mouth Ritual <i>(فتح الفم / 𓄋𓂋)</i>
   - 💃 Ancient Egyptian Dance <i>(الرقص في مصر القديمة / 𓀤)</i>
   - 🪕 Authentic Musical Instrument: Sistrum <i>(السيستروم / 𓏣)</i>
   - 👘 Authentic Garb: Khat & Shendyt <i>(الخات والشنديت / 𓎛𓂋𓏏)</i>
-- 🏰 Heritage of the Ptolemaic Kingdom <i>(المملكه البطلميه / Πτολεμαϊκὴ βασιλεία)</i>
-- 🏰 Heritage of the Fatimid Empire <i>(الخلافة الفاطمیّة)</i>
+- 🏰 Heritage of the Ptolemaic Kingdom <i>(المملكة البطلمية / Πτολεμαϊκὴ βασιλεία)</i>
+- 🏰 Heritage of the Fatimid Empire <i>(الخلافة الفاطمية)</i>
 - 🏰 Heritage of the Ayyubid Sultanate <i>(الدولة الأيوبية)</i>
 - 🏰 Heritage of the Mamluk Sultanate <i>(سلطنة المماليك)</i>
 - 🏰 Heritage of the Kingdom of Egypt <i>(المملكة المصرية)</i>

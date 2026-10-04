@@ -178,7 +178,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🦉 Authentic Concept: Philotimo <i>(Φιλότιμο)</i>
 - 🕯️ Eastern Orthodoxy <i>(Ανατολικός Ορθόδοξος Χριστιανισμός)</i>
 - 🕯️ Hellenic Polytheism <i>(Ελληνική Εθνική Θρησκεία)</i>
-- 🪶 Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
+- 📝 Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - 🐦‍🔥 Greek Folklore <i>(Ελληνική Λαογραφία)</i>
 - 👑 Title of Ecumenical Patriarch <i>(Οἰκουμενικός Πατριάρχης)</i>
 - 🛖 Kafenios <i>(Καφενεία)</i>
@@ -189,7 +189,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 👘 Ancient Authentic Garb: Fustanella & Amalía Dress <i>(Φουστανέλα και Αμαλία)</i>
 - 🧝 Legacy of Mycenaeans <i>(Μυκηναίοι / 𐀘𐀏𐀂𐀪)</i>
   - 🕯️ Mycenaean Religion <i>(Μυκηναϊκή θρησκεία / 𐀏𐀂𐀃)</i>
-  - 🪶 Linear B Writing System <i>(Γραμμική Β / 𐀊𐀋𐀍𐀎)</i>
+  - 📝 Linear B Writing System <i>(Γραμμική Β / 𐀊𐀋𐀍𐀎)</i>
   - 👑 Title of Basileus <i>(βασιλεύς / 𐀣𐀯𐀩𐀄)</i>
   - 👑 Title of Wanax <i>(Άνακτας / 𐀷𐀙𐀏)</i>
   - 🏺 Kylikes <i>(Κύλικες / 𐀡𐀞)</i>
@@ -235,7 +235,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - ⛵ Dromon Boats <i>(Δρόμωνας)</i>
   - 🛖 Parecclesions <i>(Παρεκκλήσια)</i>
   - 🏛️ Byzantine Architectural Style <i>(Βυζαντινή Αρχιτεκτονική)</i>
-  - 🛠️ Byzantine Silk Weaving Tradition <i>(Βυζαντινή Υφαντική Μεταξωτού)</i>
+  - 🎨 Byzantine Silk Weaving <i>(Βυζαντινή Υφαντική Μεταξωτού)</i>
   - 🎨 Byzantine Enamel <i>(Βυζαντινό Σμάλτο)</i>
   - 🎨 Byzantine Mosaics <i>(Βυζαντινά Ψηφιδωτά)</i>
   - 🎨 Gold Ground Icon Painting <i>(Χρυσογραφία)</i>
@@ -252,8 +252,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🪕 Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
 - 👘 Authentic Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
 - 🧝 Legacy of Minoans <i>(Μινωίτες)</i>
-  - 🪶 Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
-  - 🪶 Linear A Writing System <i>(Γραμμική Α / 𐘊𐘋𐘌𐘍)</i>
+  - 📝 Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
+  - 📝 Linear A Writing System <i>(Γραμμική Α / 𐘊𐘋𐘌𐘍)</i>
   - 🏺 Stirrup Jars <i>(Μινωικοί Ψευδόστομοι Αμφορείς)</i>
   - 🏛️ Minoan Palatial Architectural Style <i>(Μινωικά Ανάκτορα)</i>
   - 🛠️ Minoan Pottery Tradition <i>(Μινωική Κεραμική)</i>

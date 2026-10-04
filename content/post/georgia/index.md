@@ -148,9 +148,9 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 
 
 <b>🪔 Authentic features:</b>
-- 🪶 Mkhedruli Script <i>(მხედრული)</i>
-- 🪶 Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
-- 🪶 Nuskhuri Script <i>(ნუსხური / ⴌⴓⴑⴞⴓⴐⴈ)</i>
+- 📝 Mkhedruli Script <i>(მხედრული)</i>
+- 📝 Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
+- 📝 Nuskhuri Script <i>(ნუსხური / ⴌⴓⴑⴞⴓⴐⴈ)</i>
 - 🐦‍🔥 Georgian Mythology <i>(ქართული მითოლოგია)</i>
 - 🏺 Kantsi Drinking Horns <i>(ყანწი)</i>
 - 🏺 Khanjali Daggers <i>(ხანჯალიყანწი)</i>

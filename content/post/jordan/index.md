@@ -46,9 +46,9 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
     - Petra Theater <i>(مسرح البتراء)</i>
     - "Street of Facades" <i>(شارع الواجهات)</i>
 2. Aqaba
-    - Aqaba Flagpole <i>(سارية العلم العقبة)</i>
+    - Aqaba Flagpole <i>(سارية الثورة العربية الكبرى)</i>
     - Aqaba Harbor <i>(ميناء العقبة)</i>
-    - Al-Sharif Al-Hussein Bin Ali Mosque <i>(مسجد الشريف الحسين بن علي في العقبة)</i>
+    - Al-Sharif Al-Hussein Bin Ali Mosque <i>(مسجد الشريف الحسين بن علي)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
@@ -64,14 +64,14 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 <b>🍽️ Local food & drinks: </b>
 - 🥗 Hummus <i>(حمص بطحينة)</i>
 - 🥙 Makmoura <i>(مكمورة)</i>
-- 🥘 Maqluba <i>(مَقْلُوبَة)</i>
-- 🥘 Qalayet Bandora <i>(قلاية البندورة)</i>
+- 🥘 Maqluba <i>(مقلوبة)</i>
+- 🥘 Qalayet Bandora <i>(قلاية بندورة)</i>
 - 🥘 Mansaf <i>(منسف)</i>
 - 🥘 Zarb-Style Lamb <i>(زرب)</i>
 - 🍰 Warbat <i>(وربات)</i>
 - 🍰 Knafeh <i>(كنافة)</i>
 - 🫓 Khubz <i>(خبز)</i>
-- 🍶 Arabic Tea <i>(شَايْ عَرَبي)</i>
+- 🍶 Arabic Tea <i>(شاي عربي)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -79,28 +79,39 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 
 <b>🪔 Authentic features:</b>
-- 🎑 Al-Mansaf Banquet Ritual <i>(وليمة المنسف التقليدية)</i>
+- 👑 System of Jordanian Tribes <i>(عشائر الأردن)</i>
+- 🏺 Jordanian Dallahs <i>(دلال القهوة الأردنية)</i>
+- 🛖 Desert Castles <i>(قصور الصحراء)</i>
+- 🎨 Jordanian Sand-Bottle Art <i>(فن الرمل في الزجاجات)</i>
+- 🎑 Al-Mansaf Feast Ritual <i>(طقوس وليمة المنسف)</i>
 - 💃 Dabke Dance <i>(دبكة)</i>
 - 🪕 Authentic Musical Instrument: Mijwiz <i>(مجوز)</i>
-- 👘 Authentic Garb: Dishdashah & Thagiyah <i>(الدشداشة والطاقية)</i>
-- 👲 Culture of Bedouins <i>(بَدَوِيُّون / بَدْو)</i>
+- 👘 Authentic Garb: Dishdashah & Shemagh <i>(الدشداشة والشماغ)</i>
+- 👲 Culture of Bedouins <i>(البدو)</i>
   - 🦉 Authentic Concept: Sharaf <i>(شرف)</i> 
   - 🦉 Authentic Concept: Ird <i>(عرض)</i>
-  - 🐦‍🔥 Nabaṭī Poetry <i>(الشعر النبطي)</i> 
-  - 🛖 Bedouin Tents <i>(خيام بدوية)</i>
+  - 🐦‍🔥 Nabaṭī Poetry <i>(الشعر النبطي)</i>
+  - 👑 Title of Bedouin Sheikh <i>(شيخ بدوي)</i>
+  - 👑 System of Bedouin Tribes <i>(عشائر البدو)</i>
+  - 🏺 Bedouin Camel Saddles <i>(سروج الجِمال البدوية)</i>
+  - 🛖 Bedouin Tents <i>(بيت الشَّعَر)</i>
+  - 🎨 Al Sadu Weaving <i>(حياكة السدو)</i>
   - 🏃🏻 Camel Racing Tradition <i>(سباق الهجن)</i> 
+  - 🎭 As-Samer Performance <i>(السامر)</i> 
+  - 💃 Al-Daha Dance <i>(الدَّحّة)</i>
 - 🏰 Heritage of Edom <i>(𐤀𐤃𐤌 / مملكة إدوم)</i>
-- 🏰 Heritage of the Nabataean Kingdom <i>(𐢕𐢃𐢋𐢈 / الأنباط)</i> 
+- 🏰 Heritage of the Nabataean Kingdom <i>(𐢕𐢃𐢋𐢈 / المملكة النبطية)</i> 
   - 🕯️ Nabataean Religion <i>(𐢀𐢍𐢎𐢒 / ديانة نبطية)</i> 
-  - 🪶 Nabataean Script <i>(𐢅𐢄𐢂𐢀 / أبجدية نبطية)</i> 
-  - 🏺 Nabataean Betyls <i>(𐢍𐢕𐢊𐢁 / حجر مقدس نبطي)</i> 
-  - 🏛️ Nabataean Architectural Style <i>(𐢁𐢍𐢉𐢍𐢀 / عمارة نبطية)</i> 
+  - 📝 Nabataean Script <i>(𐢀𐢁𐢂𐢃 / الخط النبطي)</i> 
+  - 🏺 Nabataean Betyls <i>(𐢍𐢕𐢊𐢁 / الأنصاب النبطية المقدسة)</i> 
+  - 🏛️ Nabataean Architectural Style <i>(𐢁𐢍𐢉𐢍𐢀 / العمارة النبطية)</i>
+  - 🛠️ Nabataean Pottery Tradition <i>(𐢊𐢐𐢃 / الفخار النبطي)</i>
 - 🏰 Heritage of the Emirate of Transjordan <i>(إمارة شرق الأردن)</i>
 
  
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Independence Day of Jordan <i>(الاستقلال)</i>. Month: May<br>
+- Independence Day of Jordan <i>(عيد الاستقلال)</i>. Month: May<br>
 <u>Ma'an - Regional Special:</u> 
 - Petra Cultural Festival <i>(مهرجان البترا الثقافي)</i>. Month: October
 
@@ -110,7 +121,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - Black Iris <i>(السوسنة السوداء)</i>
 
 
-<b>🦉 Local wisdom:</b> "Whoever knocks on the door gets an answer." / "<i>اللي بدقّ الباب بسمع الجواب</i>" — Jordanian proverb 
+<b>🦉 Local wisdom:</b> "Whoever knocks on the door gets an answer." / "<i>اللي يدق الباب يسمع الجواب</i>" — Jordanian proverb 
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Jordan <i>(الجامعة الأردنية)</i>, Amman, est. 1962. 

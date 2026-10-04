@@ -315,7 +315,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: La Dolce Vita <i>(La Dolce Vita)</i> 
-- 🪶 Latin Alphabet <i>(Alfabeto Latino)</i>
+- 📝 Latin Alphabet <i>(Alfabeto Latino)</i>
 - 🐦‍🔥 Italian Folklore <i>(Folclore d'Italia)</i>
 - 🚗 Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>  
 - 🛖 Trattorias <i>(Trattorie)</i>  
@@ -372,7 +372,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🧝 Legacy of Etruscans <i>(Etruschi / 𐌓𐌀𐌔𐌄𐌍𐌍𐌀)</i>
   - 🕯️ Ancient Etruscan Religion <i>(Religione Etrusca / 𐌄𐌉𐌔𐌍𐌀)</i>
   - 👑 Title of Lucumo <i>(Lucumone / 𐌋𐌀𐌖𐌙𐌖𐌌𐌄)</i>  
-  - 🪶 Ancient Etruscan Alphabet <i>(Alfabeto Etrusco / 𐌀𐌁𐌂𐌃)</i>
+  - 📝 Ancient Etruscan Alphabet <i>(Alfabeto Etrusco / 𐌀𐌁𐌂𐌃)</i>
   - 🛖 Etruscan Temples <i>(Templi Etruschi / 𐌕𐌌𐌉𐌀)</i>
   - 🏛️ Etruscan Architectural Style <i>(Architettura Etrusca / 𐌂𐌄𐙙𐌀)</i> 
   - 🛠️ Bucchero Pottery Tradition <i>(Bucchero / 𐌂𐌓𐌀𐌐𐌉)</i> 
