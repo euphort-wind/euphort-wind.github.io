@@ -100,6 +100,9 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
   - 🎭 As-Samer Performance <i>(السامر)</i> 
   - 💃 Al-Daha Dance <i>(الدَّحّة)</i>
 - 🏰 Heritage of Edom <i>(𐤀𐤃𐤌 / مملكة إدوم)</i>
+  - 🕯️ Edomite Religion <i>(<bdi style="direction: rtl;">قوس</bdi> / <bdi style="direction: rtl;">𐤒𐤅𐤎</bdi>)</i>
+  - 🏺 Edomite Ceramic Figurines <i>(<bdi style="direction: rtl;">تماثيل فخارية أدومية</bdi> / <bdi style="direction: rtl;">𐤐𐤎𐤋</bdi>)</i>
+  - 🛠️ Edomite Pottery Tradition <i>(<bdi style="direction: rtl;">الفخار الأدومي</bdi> / <bdi style="direction: rtl;">𐤇𐤓𐤔</bdi>)</i>
 - 🏰 Heritage of the Nabataean Kingdom <i>(<bdi style="direction: rtl;">المملكة النبطية</bdi> / <bdi style="direction: rtl;">𐢕𐢃𐢋𐢈</bdi>)</i>
   - 🕯️ Nabataean Religion <i>(<bdi style="direction: rtl;">ديانة نبطية</bdi> / <bdi style="direction: rtl;">𐢀𐢍𐢎𐢒</bdi>)</i> 
   - 📝 Nabataean Script <i>(<bdi style="direction: rtl;">الخط النبطي</bdi> / <bdi style="direction: rtl;">𐢀𐢁𐢂𐢃</bdi>)</i> 
