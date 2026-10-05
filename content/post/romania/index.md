@@ -138,8 +138,8 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🍶 Țuică <i>(Brand: "Vlad Țepeș")</i>
 </br>
 <u>Covasna - Regional Special:</u> 
-- 🥘 Erdélyi Rakott Káposzta <i>(Varză Ardelenească / 𐳉𐳢𐳙𐳋𐳗𐳉𐳗 𐳢𐳀𐳓𐳮𐳧𐳧 𐳓𐳀𐳛𐳮𐳤𐳧𐳀)</i>
-- 🍰 Székely Kürtőskalács <i>(Cozonac Secuiesc / 𐳓𐳜𐳢𐳧𐳑𐳤𐳓𐳀𐳂𐳀𐳤)</i>
+- 🥘 Erdélyi Rakott Káposzta <i>(Varză Ardelenească / <bdi style="direction: rtl;">𐳉𐳢𐳙𐳋𐳗𐳉𐳗 𐳢𐳀𐳓𐳮𐳧𐳧 𐳓𐳀𐳛𐳮𐳤𐳧𐳀</bdi>)</i>
+- 🍰 Székely Kürtőskalács <i>(Cozonac Secuiesc / <bdi style="direction: rtl;">𐳓𐳜𐳢𐳧𐳑𐳤𐳓𐳀𐳂𐳀𐳤</bdi>)</i>
 </br>
 <u>Brașov - Regional Special:</u> 
 - 🥘 Braşovence <i>(Clătite Brașovene / Braşovence)</i>
@@ -178,12 +178,12 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🏰 Heritage of the United Principalities <i>(Principatele Unite Române)</i>
 - 🏰 Heritage of the Kingdom of Romania <i>(Regatul României)</i><br>
 <u>Covasna - Regional Special:</u> 
-- 👲 Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
-  - 📝 Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐳘𐳀𐳎𐳀𐳢 𐳢𐳛𐳮𐳁𐳤)</i>
-  - 👑 Title of Primor <i>(Primor Secuiesc / 𐳒𐳢𐳐𐳘𐳏𐳢)</i>
-  - 🏺 Székely Gates <i>(Poartă Secuiască / 𐳤𐳯𐳋𐳓𐳉𐳗𐳓𐳀𐳠𐳪)</i>
-  - 👘 Authentic Garb: Székely Hat <i>(Pălărie Secuiască / 𐳥𐳋𐳓𐳉𐳗𐳓𐳀𐳑𐳀𐳙)</i>
-- ⛰️ Covasna Mofettes <i>(Mofetele din Covasna / 𐳥𐳮𐳮𐳀𐳤𐳤𐳙𐳀 𐳘𐳮𐳐𐳋𐳧𐳧𐳉𐳤)</i><br>
+- 👲 Culture of Székelys <i>(Secui / <bdi style="direction: rtl;">𐳥𐳋𐳓𐳉𐳗</bdi>)</i>
+  - 📝 Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / <bdi style="direction: rtl;">𐲥𐳋𐳓𐳉𐳗-𐳘𐳀𐳎𐳀𐳢 𐳢𐳛𐳮𐳁𐳤</bdi>)</i>
+  - 👑 Title of Primor <i>(Primor Secuiesc / <bdi style="direction: rtl;">𐳒𐳢𐳐𐳘𐳏𐳢</bdi>)</i>
+  - 🏺 Székely Gates <i>(Poartă Secuiască / <bdi style="direction: rtl;">𐳤𐳯𐳋𐳓𐳉𐳗𐳓𐳀𐳠𐳪</bdi>)</i>
+  - 👘 Authentic Garb: Székely Hat <i>(Pălărie Secuiască / <bdi style="direction: rtl;">𐳥𐳋𐳓𐳉𐳗𐳓𐳀𐳑𐳀𐳙</bdi>)</i>
+- ⛰️ Covasna Mofettes <i>(Mofetele din Covasna / <bdi style="direction: rtl;">𐳥𐳮𐳮𐳀𐳤𐳤𐳙𐳀 𐳘𐳮𐳐𐳋𐳧𐳧𐳉𐳤</bdi>)</i><br>
 <u>Brașov - Regional Special:</u> 
 - 👲 Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
   - 🛖 Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
@@ -200,7 +200,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 <u>Brașov - Regional Special:</u> 
 - Junii Brașoveni <i>(Junii Brașoveni)</i>. Month: April<br>
 <u>Covasna - Regional Special:</u> 
-- Székely Freedom Day <i>(Ziua Libertății Secuilor/ 𐳥𐳋𐳓𐳉𐳗 𐳥𐳀𐳂𐳀𐳇𐳤𐳁𐳍 𐳓𐳀𐳙𐳎𐳀)</i>. Month: March<br>
+- Székely Freedom Day <i>(Ziua Libertății Secuilor/ <bdi style="direction: rtl;">𐳥𐳋𐳓𐳉𐳗 𐳥𐳀𐳂𐳀𐳇𐳤𐳁𐳍 𐳓𐳀𐳙𐳎𐳀</bdi>)</i>. Month: March<br>
 <u>Mureș - Regional Special:</u> 
 - Sighişoara Medieval Festival <i>(Festivalul Sighişoara Medievală)</i>. Month: July
 
