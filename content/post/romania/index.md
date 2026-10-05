@@ -179,9 +179,10 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🏰 Heritage of the Kingdom of Romania <i>(Regatul României)</i><br>
 <u>Covasna - Regional Special:</u> 
 - 👲 Culture of Székelys <i>(Secui / 𐳥𐳋𐳓𐳉𐳗)</i>
-  - 🕯️ Székely Sabbatarianism <i>(Secuii Sabatarieni / 𐳥𐳋𐳓𐳉𐳗 𐳥𐳛𐳘𐳂𐳀𐳦𐳛𐳤𐳤𐳁𐳍)</i>
   - 📝 Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / 𐲥𐳋𐳓𐳉𐳗-𐳘𐳀𐳎𐳀𐳢 𐳢𐳛𐳮𐳁𐳤)</i>
+  - 👑 Title of Primor <i>(Primor Secuiesc / 𐳒𐳢𐳐𐳘𐳏𐳢)</i>
   - 🏺 Székely Gates <i>(Poartă Secuiască / 𐳤𐳯𐳋𐳓𐳉𐳗𐳓𐳀𐳠𐳪)</i>
+  - 👘 Authentic Garb: Székely Hat <i>(Pălărie Secuiască / 𐳥𐳋𐳓𐳉𐳗𐳓𐳀𐳑𐳀𐳙)</i>
 - ⛰️ Covasna Mofettes <i>(Mofetele din Covasna / 𐳥𐳮𐳮𐳀𐳤𐳤𐳙𐳀 𐳘𐳮𐳐𐳋𐳧𐳧𐳉𐳤)</i><br>
 <u>Brașov - Regional Special:</u> 
 - 👲 Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
@@ -199,7 +200,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 <u>Brașov - Regional Special:</u> 
 - Junii Brașoveni <i>(Junii Brașoveni)</i>. Month: April<br>
 <u>Covasna - Regional Special:</u> 
-- Székely Freedom Day <i>(Ziua Libertății Secuilor/ Székely Szabadság Napja)</i>. Month: March<br>
+- Székely Freedom Day <i>(Ziua Libertății Secuilor/ 𐳥𐳋𐳓𐳉𐳗 𐳥𐳀𐳂𐳀𐳇𐳤𐳁𐳍 𐳓𐳀𐳙𐳎𐳀)</i>. Month: March<br>
 <u>Mureș - Regional Special:</u> 
 - Sighişoara Medieval Festival <i>(Festivalul Sighişoara Medievală)</i>. Month: July
 

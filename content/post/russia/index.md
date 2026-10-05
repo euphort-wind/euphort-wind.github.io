@@ -302,7 +302,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🏺 Matryoshka Dolls <i>(Матрёшки)</i>
 - 🏺 Dymkovo Toys <i>(Дымковские Игрушки)</i>
 - ⛵ Yal Boats <i>(Ялы)</i> 
-- 🚗 Russian Cars <i>(Brands: "LADA", "GAZ", "Moskvitch", etc.)</i>
+- 🚗 Russian Cars <i>(Brands: "LADA", "GAZ Volga", "Moskvitch", etc.)</i>
 - 🛖 Russian Banyas <i>(Русские Бани)</i>
 - 🛖 Russian Izbas <i>(Русские Избы)</i>
 - 🛠️ Gzhel Pottery Tradition <i>(Гжель)</i>

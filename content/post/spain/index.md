@@ -15,7 +15,7 @@ gallery_item:
     caption: Basílica de la Sagrada Familia
   - album: spain
     image: 4mons.jpg
-    caption: The Montserrat Monastery
+    caption: Montserrat Monastery
   - album: spain
     image: 3x.jpg
     caption: Park Güell Administration Building
@@ -39,23 +39,23 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 {{< spoiler text="Click to view" >}}
 1. Barcelona
-    - Basilica de la Sagrada Familia <i>(Basílica i Temple Expiatori de la Sagrada Família)</i>
-    - Park Güell <i>(Parc Güell)</i>
+    - Basílica de la Sagrada Família <i>(Basílica i Temple Expiatori de la Sagrada Família)</i>
+    - Park Güell <i>(Parque Güell)</i>
     - La Rambla Street <i>(La Rambla)</i>
-    - Plaça de Catalunya <i>(Plaça de Catalunya)</i>
-    - Magic Fountain of Montjuïc <i>(Font Màgica de Montjuïc)</i>
+    - Plaça de Catalunya <i>(Plaza de Cataluña)</i>
+    - Magic Fountain of Montjuïc <i>(Fuente Mágica de Montjuic)</i>
     - Palau Nacional <i>(Palacio Nacional)</i>
     - Santa Maria del Mar <i>(Basílica de Santa María del Mar)</i>
 2. Salou
     - PortAventura <i>(PortAventura)</i>
-    - Ponent Beach <i>(Platja de Ponent)</i>
-    - Ornamental Fountains <i>(Les Fonts Ornamentals)</i>
+    - Ponent Beach <i>(Playa de Poniente)</i>
+    - Ornamental Fountains <i>(Fuentes Ornamentales)</i>
 3. Monistrol de Montserrat
-    - Montserrat Mountain Natural Park <i>(Parc Natural de la Muntanya de Montserrat)</i>
+    - Montserrat Mountain Natural Park <i>(Parque Natural de la Montaña de Montserrat)</i>
     - Basilica of Montserrat <i>(La basílica de Montserrat)</i>
     - Museum of Montserrat <i>(Museo de Montserrat)</i>
-    - Our Lady of Montserrat <i>(Mare de Déu de Montserrat)</i>
-    - Funicular Aeri de Montserrat <i>(Funicular Aeri de Montserrat)</i>
+    - Our Lady of Montserrat <i>(Nuestra Señora de Montserrat)</i>
+    - Aeri de Montserrat <i>(Aeri de Montserrat)</i>
 {{< /spoiler >}}
 
 
@@ -85,13 +85,13 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - 🥓 Jamón Serrano <i>(Jamón Serrano)</i>
   - 🥓 Jamón Ibérico <i>(Jamón Ibérico)</i>
   - 🥓 Chorizo <i>(Chorizo)</i>
-  - 🥓 Salchichon <i>(Salchichón)</i>
+  - 🥓 Salchichón <i>(Salchichón)</i>
   - 🥓 Boquerones en Vinagre <i>(Boquerones en Vinagre)</i>
 - 🍲 Gazpacho <i>(Gazpacho)</i>
 - 🥘 Patatas Bravas <i>(Patatas Bravas)</i>
 - 🥘 Spanish Omelette <i>(Tortilla Española)</i>
 - 🥘 Huevos Rotos <i>(Huevos Estrellados)</i>
-- 🥘 Gambas al Ajillo (Gambas al Ajillo)
+- 🥘 Gambas al Ajillo <i>(Gambas al Ajillo)</i>
 - 🥘 Paella <i>(Paella)</i>
 - 🥘 Fideuà <i>(Fideuà)</i>
 - 🍰 Churro <i>(Churro)</i>
@@ -104,11 +104,12 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 </br>
 <u>Catalonia - Regional Special:</u>
 - 🥓 Fuet Sausage <i>(Fuet / Fuet)</i>
-- 🥗 Samfaina <i>(Samfaina / Pebrereta)</i>
+- 🥗 Samfaina <i>(Samfaina / Samfaina)</i>
 - 🥗 Esqueixada <i>(Esqueixada / Esqueixada)</i>
-- 🥗 Escalivada <i>(Escalibada / Escalivada)</i>
+- 🥗 Escalivada <i>(Escalivada / Escalivada)</i>
+- 🥘 Botifarra <i>(Butifarra / Botifarra)</i>
 - 🥙 Pa amb Tomàquet <i>(Pan con Tomate / Pa amb Tomàquet)</i>
-- 🍰 Catalan Creme <i>(Crema Catalana / Crema de Sant Josep)</i>
+- 🍰 Catalan Cream <i>(Crema Catalana / Crema de Sant Josep)</i>
 - 🧀 Mató Cheese <i>(Mató / Mató)</i>
 - 🥫 Aïoli Sauce <i>(Alioli / Allioli)</i>
 
@@ -124,17 +125,25 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Hispanidad <i>(Hispanidad)</i>
+- 🦉 Authentic Concept: Duende <i>(Duende)</i>
 - 🐦‍🔥 Spanish Folklore <i>(Folclore de España)</i>
+- 🏺 Botijos <i>(Botijos)</i>
+- 🏺 Bota Bags <i>(Botas de Vino)</i>
 - 🚗 Spanish Cars <i>(Brands: "SEAT", "Cupra")</i>
 - 🛖 Bullrings <i>(Plazas de Toros)</i>
 - 🛖 Chiringuito Bars <i>(Chiringuitos)</i>
 - 🏛️ Mudéjar Architectural Style <i>(Arte Mudéjar)</i>
+- 🎨 Bodegón Painting <i>(Pintura de Bodegón)</i>
+- 🛠️ Talavera de la Reina Pottery Tradition <i>(Cerámica de Talavera de la Reina)</i>
+- 🏓 Parchís Game <i>(Parchís)</i>
 - 🏃🏻 Spanish Bullfighting Tradition <i>(Corrida de Toros)</i>
+- 🎑 Siesta Ritual <i>(Siesta)</i>
+- 🎭 Zarzuela Theater <i>(Zarzuela)</i>
 - 💃 Flamenco Dance <i>(Flamenco)</i>
 - 🪕 Authentic Musical Instrument: Castanets <i>(Castañuelas)</i> 
 - 👘 Authentic Garb: Mantilla & Traje de Luces <i>(Mantilla y Traje de Luces)</i>
 - 🧝 Legacy of Iberians <i>(Íberos)</i>
-- 🏰 Heritage of the Visigothic Kingdom <i>(Reino Visigodo / Gutþiuda Þiudinassus)</i>
+- 🏰 Heritage of the Visigothic Kingdom <i>(Reino Visigodo / 𐌲𐌿𐍄𐌸𐌹𐌿𐌳𐌰 𐌸𐌹𐌿𐌳𐌹𐌽𐌰𐍃𐍃𐌿𐍃)</i>
 - 🏰 Heritage of the Caliphate of Córdoba <i>(Califato de Córdoba / خِلَافَةُ قُرطُبَة)</i>
 - 🏰 Heritage of the Kingdom of León <i>(Reino de León / Regno de Lleon)</i>
 - 🏰 Heritage of the Crown of Castile <i>(Corona de Castilla / Corona Castellae)</i>
@@ -143,10 +152,17 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 <u>Catalonia - Regional Special:</u> 
 - 👲 Culture of Catalans <i>(Catalanes / Catalans)</i>
   - 🦉 Authentic Concept: Seny <i>(Seny / Seny)</i>
+  - 🦉 Authentic Concept: Rauxa <i>(Rauxa / Rauxa)</i>
   - 🐦‍🔥 Catalan Mythology <i>(Mitología Catalana / Mitologia Catalana)</i>
+  - 🏺 Porrons <i>(Porrones / Porrons)</i>
+  - ⛵ Llagut Boats <i>(Llagutes / Llaguts)</i>
+  - 🛖 Masies <i>(Masías / Masies)</i>
   - 🏛️ Catalan Art Nouveau Architectural Style <i>(Modernismo Catalán / Modernisme Català)</i>
+  - 🎨 Trencadís Mosaics <i>(Trencadís / Trencadís)</i>
+  - 🎨 Catalan Surrealist Painting <i>(Pintura Surrealista Catalana / Pintura Surrealista Catalana)</i>
   - 🏓 Patacó Game <i>(Patacó / Patacó)</i>
   - 🎑 Catalan Human Tower Ritual <i>(Castells / Castells)</i>
+  - 🎭 Els Pastorets Performance <i>(Los Pastorcillos / Els Pastorets)</i>
   - 💃 Sardana Dance <i>(Sardana / Sardana)</i>
   - 💃 Catalan Rumba Dance <i>(Rumba Catalana / Rumba Catalana)</i>
   - 🪕 Authentic Musical Instrument: Flabiol <i>(Flabiol / Flabiol)</i>
@@ -158,7 +174,9 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - National Day of Spain <i>(Fiesta Nacional de España)</i>. Month: October
 - Constitution Day of Spain <i>(Día de la Constitución Española)</i>. Month: December
 - La Tomatina <i>(La Tomatina)</i>. Month: August<br>
-<u>Catalonia - Regional Special:</u> 
+<u>Catalonia - Regional Special:</u>
+- Day of Books and Roses <i>(Día de San Jorge / Diada de Sant Jordi)</i>. Month: April
+- La Patum <i>(Patum de Berga / Patum de Berga)</i>. Month: May or June
 - National Day of Catalonia <i>(Día de Cataluña / Diada Nacional de Catalunya)</i>. Month: September
 - La Mercè <i>(Fiestas de la Merced / La Mercè)</i>. Month: September
 
