@@ -85,20 +85,24 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - 🥓 Jamón Serrano <i>(Jamón Serrano)</i>
   - 🥓 Jamón Ibérico <i>(Jamón Ibérico)</i>
   - 🥓 Chorizo <i>(Chorizo)</i>
+  - 🥓 Longaniza <i>(Longaniza)</i>
   - 🥓 Salchichón <i>(Salchichón)</i>
   - 🥓 Boquerones en Vinagre <i>(Boquerones en Vinagre)</i>
 - 🍲 Gazpacho <i>(Gazpacho)</i>
 - 🥘 Patatas Bravas <i>(Patatas Bravas)</i>
 - 🥘 Spanish Omelette <i>(Tortilla Española)</i>
 - 🥘 Huevos Rotos <i>(Huevos Estrellados)</i>
+- 🥘 Escabeche <i>(Escabeche)</i>
 - 🥘 Gambas al Ajillo <i>(Gambas al Ajillo)</i>
 - 🥘 Paella <i>(Paella)</i>
 - 🥘 Fideuà <i>(Fideuà)</i>
 - 🍰 Churro <i>(Churro)</i>
 - 🍰 Fartón <i>(Fartón)</i>
+- 🍰 Natillas <i>(Natillas)</i>
 - 🍰 Quince Paste <i>(Dulce de Membrillo)</i>
 - 🧀 Manchego Cheese <i>(Queso Manchego)</i>
 - 🥫 Tomate Frito Sauce <i>(Tomate Frito)</i>
+- 🥫 Sofrito Sauce <i>(Sofrito)</i>
 - 🍶 Sherry Wine <i>(Brands: "La Guita Manzanilla", "Tio Pepe Fino")</i>
 - 🍶 Sangria Cocktail <i>(Sangría)</i>
 </br>
@@ -108,11 +112,16 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🥗 Esqueixada <i>(Esqueixada / Esqueixada)</i>
 - 🥗 Escalivada <i>(Escalivada / Escalivada)</i>
 - 🥘 Botifarra <i>(Butifarra / Botifarra)</i>
+- 🥘 Ollada <i>(Ollada / Ollada)</i>
+- 🥘 Arròs Negre <i>(Arroz Negro / Arròs Negre)</i>
 - 🥙 Pa amb Tomàquet <i>(Pan con Tomate / Pa amb Tomàquet)</i>
 - 🍰 Catalan Cream <i>(Crema Catalana / Crema de Sant Josep)</i>
+- 🍰 Catànies <i>(Catanias / Catània)</i>
+- 🍰 Panellets <i>(Panellets / Panellets)</i>
 - 🧀 Mató Cheese <i>(Mató / Mató)</i>
 - 🥫 Aïoli Sauce <i>(Alioli / Allioli)</i>
-
+- 🥫 Romesco Sauce <i>(Romesco / Romesco)</i>
+- 🥫 Xató Sauce <i>(Cható / Xató)</i>
 
 <b>🎬 Local movies:</b>
 - The Invisible Guest <i>(Contratiempo)</i>. Year: 2016. Genre: thriller / crime
