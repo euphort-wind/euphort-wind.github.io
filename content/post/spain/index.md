@@ -42,14 +42,24 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
     - Basílica de la Sagrada Família <i>(Basílica i Temple Expiatori de la Sagrada Família)</i>
     - Park Güell <i>(Parque Güell)</i>
     - La Rambla Street <i>(La Rambla)</i>
+    - Casa Batlló <i>(Casa Batlló)</i>
+    - Montjuïc Castle <i>(Castillo de Montjuïc)</i>
+    - Picasso Museum <i>(Museo Picasso)</i>
     - Plaça de Catalunya <i>(Plaza de Cataluña)</i>
     - Magic Fountain of Montjuïc <i>(Fuente Mágica de Montjuic)</i>
     - Palau Nacional <i>(Palacio Nacional)</i>
     - Santa Maria del Mar <i>(Basílica de Santa María del Mar)</i>
+    - Barcelona Cathedral <i>(Catedral de la Santa Cruz y Santa Eulalia)</i>
+    - Gothic Quarter <i>(Barri Gòtic)</i>
+    - Roman walls of Barcelona <i>(Muralla Romana de Barcelona)</i>
 2. Salou
     - PortAventura <i>(PortAventura)</i>
+    - Font Lluminosa <i>(Fuente Luminosa)</i>
+    - Jaume I Promenade <i>(Paseo de Jaime I)</i>
+    - Llevant Beach <i>(Playa de Llevant)</i>
     - Ponent Beach <i>(Playa de Poniente)</i>
-    - Ornamental Fountains <i>(Fuentes Ornamentales)</i>
+    - Torre Vella <i>(Torre Vella)</i>
+    - Masia Catalana <i>(Masia Catalana)</i>
 3. Monistrol de Montserrat
     - Montserrat Mountain Natural Park <i>(Parque Natural de la Montaña de Montserrat)</i>
     - Basilica of Montserrat <i>(La basílica de Montserrat)</i>
@@ -147,6 +157,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🏓 Parchís Game <i>(Parchís)</i>
 - 🏃🏻 Spanish Bullfighting Tradition <i>(Corrida de Toros)</i>
 - 🎑 Siesta Ritual <i>(Siesta)</i>
+- 🎑 Sobremesa Ritual <i>(Sobremesa)</i>
 - 🎭 Zarzuela Theater <i>(Zarzuela)</i>
 - 💃 Flamenco Dance <i>(Flamenco)</i>
 - 🪕 Authentic Musical Instrument: Castanets <i>(Castañuelas)</i> 

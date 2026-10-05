@@ -45,6 +45,8 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
     - Shark's Bay Beach <i>(خليج القرش)</i>
     - Bedouin Village <i>(القرية البدوية)</i>
     - Naama Bay Promenade <i>(خليج نعمة)</i>
+    - Al-Sahaba Mosque <i>(مسجد الصحابة)</i>
+    - SOHO Square <i>(سوهو سكوير)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>

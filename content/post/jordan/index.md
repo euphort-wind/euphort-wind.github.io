@@ -44,11 +44,18 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
     - Al-Khazneh Treasury <i>(الخزنة)</i>
     - Urn Tombs <i>(قبر الجرة)</i>
     - Petra Theater <i>(مسرح البتراء)</i>
-    - "Street of Facades" <i>(شارع الواجهات)</i>
+    - Street of Facades <i>(شارع الواجهات)</i>
+    - Colonnaded Street <i>(الشارع المعمد)</i>
+    - Great Temple <i>(المعبد الكبير)</i>
+    - Monastery <i>(الدير)</i>
+    - High Place of Sacrifice <i>(مذبح القرابين)</i>
+    - Little Petra <i>(السيق البارد)</i>
 2. Aqaba
     - Aqaba Flagpole <i>(سارية الثورة العربية الكبرى)</i>
-    - Aqaba Harbor <i>(ميناء العقبة)</i>
+    - Aqaba Marine Reserve <i>(محمية العقبة البحرية)</i>
     - Al-Sharif Al-Hussein Bin Ali Mosque <i>(مسجد الشريف الحسين بن علي)</i>
+    - Aqaba Castle <i>(قلعة العقبة)</i> 
+    - Aqaba Museum <i>(متحف العقبة)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
