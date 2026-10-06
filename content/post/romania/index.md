@@ -179,7 +179,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🏰 Heritage of the Kingdom of Romania <i>(Regatul României)</i><br>
 <u>Covasna - Regional Special:</u> 
 - 👲 Culture of Székelys <i>(Secui / <bdi style="direction: rtl;">𐳥𐳋𐳓𐳉𐳗</bdi>)</i>
-  - 📝 Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / <bdi style="direction: rtl;">𐲥𐳋𐳓𐳉𐳗-𐳘𐳀𐳎𐳀𐳢 𐳢𐳛𐳮𐳁𐳤</bdi>)</i>
+  - 📜 Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / <bdi style="direction: rtl;">𐲥𐳋𐳓𐳉𐳗-𐳘𐳀𐳎𐳀𐳢 𐳢𐳛𐳮𐳁𐳤</bdi>)</i>
   - 👑 Title of Primor <i>(Primor Secuiesc / <bdi style="direction: rtl;">𐳒𐳢𐳐𐳘𐳏𐳢</bdi>)</i>
   - 🏺 Székely Gates <i>(Poartă Secuiască / <bdi style="direction: rtl;">𐳤𐳯𐳋𐳓𐳉𐳗𐳓𐳀𐳠𐳪</bdi>)</i>
   - 👘 Authentic Garb: Székely Hat <i>(Pălărie Secuiască / <bdi style="direction: rtl;">𐳥𐳋𐳓𐳉𐳗𐳓𐳀𐳑𐳀𐳙</bdi>)</i>
