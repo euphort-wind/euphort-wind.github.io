@@ -168,6 +168,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - 🏺 Falcata Swords <i>(Falcatas)</i>
   - 🛠️ Iberian Sculptural Tradition <i>(Escultura Ibérica)</i>
 - 🏰 Heritage of the Visigothic Kingdom <i>(Reino Visigodo / 𐌲𐌿𐍄𐌸𐌹𐌿𐌳𐌰 𐌸𐌹𐌿𐌳𐌹𐌽𐌰𐍃𐍃𐌿𐍃)</i>
+  - 🕯️ Arianism <i>(Arrianismo / 𐌰𐌹𐌺𐌺𐌻𐌴𐍃𐌾𐍉)</i> 
   - 🏺 Visigothic Eagle-Shaped Fibulae <i>(Fíbulas Aquiliformes / 𐍆𐌹𐌱𐌿𐌻𐌰𐌴)</i>
   - 🏛️ Visigothic Architectural Style <i>(Arquitectura Visigoda / 𐌲𐌰𐍂𐌳𐍉𐍃)</i>
   - 🎨 Visigothic Illuminated Manuscripts <i>(Manuscritos Iluminados Visigodos / 𐌱𐍉𐌺𐍉𐍃)</i>
