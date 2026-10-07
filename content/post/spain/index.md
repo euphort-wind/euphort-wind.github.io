@@ -12,7 +12,6 @@ gallery_item:
     caption: Park Güell Gate 
   - album: spain
     image: 3wow.jpg
-    anchor: bottom
     caption: Basílica de la Sagrada Familia
   - album: spain
     image: 4mons.jpg
