@@ -40,22 +40,22 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 {{< spoiler text="Click to view" >}}
 1. Petra
-    - Siq <i>(السيق)</i>
-    - Al-Khazneh Treasury <i>(الخزنة)</i>
-    - Urn Tombs <i>(قبر الجرة)</i>
-    - Petra Theater <i>(مسرح البتراء)</i>
-    - Street of Facades <i>(شارع الواجهات)</i>
-    - Colonnaded Street <i>(الشارع المعمد)</i>
-    - Great Temple <i>(المعبد الكبير)</i>
-    - Monastery <i>(الدير)</i>
-    - High Place of Sacrifice <i>(مذبح القرابين)</i>
-    - Little Petra <i>(السيق البارد)</i>
+    - Siq <i>(<bdi style="direction: rtl;">السيق</bdi>)</i>
+    - Al-Khazneh Treasury <i>(<bdi style="direction: rtl;">الخزنة</bdi>)</i>
+    - Urn Tombs <i>(<bdi style="direction: rtl;">قبر الجرة</bdi>)</i>
+    - Petra Theater <i>(<bdi style="direction: rtl;">مسرح البتراء</bdi>)</i>
+    - Street of Facades <i>(<bdi style="direction: rtl;">شارع الواجهات</bdi>)</i>
+    - Colonnaded Street <i>(<bdi style="direction: rtl;">الشارع المعمد</bdi>)</i>
+    - Great Temple <i>(<bdi style="direction: rtl;">المعبد الكبير</bdi>)</i>
+    - Monastery <i>(<bdi style="direction: rtl;">الدير</bdi>)</i>
+    - High Place of Sacrifice <i>(<bdi style="direction: rtl;">مذبح القرابين</bdi>)</i>
+    - Little Petra <i>(<bdi style="direction: rtl;">السيق البارد</bdi>)</i>
 2. Aqaba
-    - Aqaba Flagpole <i>(سارية الثورة العربية الكبرى)</i>
-    - Aqaba Marine Reserve <i>(محمية العقبة البحرية)</i>
-    - Al-Sharif Al-Hussein Bin Ali Mosque <i>(مسجد الشريف الحسين بن علي)</i>
-    - Aqaba Castle <i>(قلعة العقبة)</i> 
-    - Aqaba Museum <i>(متحف العقبة)</i>
+    - Aqaba Flagpole <i>(<bdi style="direction: rtl;">سارية الثورة العربية الكبرى</bdi>)</i>
+    - Aqaba Marine Reserve <i>(<bdi style="direction: rtl;">محمية العقبة البحرية</bdi>)</i>
+    - Al-Sharif Al-Hussein Bin Ali Mosque <i>(<bdi style="direction: rtl;">مسجد الشريف الحسين بن علي</bdi>)</i>
+    - Aqaba Castle <i>(<bdi style="direction: rtl;">قلعة العقبة</bdi>)</i> 
+    - Aqaba Museum <i>(<bdi style="direction: rtl;">متحف العقبة</bdi>)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
@@ -69,44 +69,44 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 
 <b>🍽️ Local food & drinks: </b>
-- 🥗 Hummus <i>(حمص بطحينة)</i>
-- 🥙 Makmoura <i>(مكمورة)</i>
-- 🥘 Maqluba <i>(مقلوبة)</i>
-- 🥘 Qalayet Bandora <i>(قلاية بندورة)</i>
-- 🥘 Mansaf <i>(منسف)</i>
-- 🥘 Zarb-Style Lamb <i>(زرب)</i>
-- 🍰 Warbat <i>(وربات)</i>
-- 🍰 Knafeh <i>(كنافة)</i>
-- 🫓 Khubz <i>(خبز)</i>
-- 🍶 Arabic Tea <i>(شاي عربي)</i>
+- 🥗 Hummus <i>(<bdi style="direction: rtl;">حمص بطحينة</bdi>)</i>
+- 🥙 Makmoura <i>(<bdi style="direction: rtl;">مكمورة</bdi>)</i>
+- 🥘 Maqluba <i>(<bdi style="direction: rtl;">مقلوبة</bdi>)</i>
+- 🥘 Qalayet Bandora <i>(<bdi style="direction: rtl;">قلاية بندورة</bdi>)</i>
+- 🥘 Mansaf <i>(<bdi style="direction: rtl;">منسف</bdi>)</i>
+- 🥘 Zarb-Style Lamb <i>(<bdi style="direction: rtl;">زرب</bdi>)</i>
+- 🍰 Warbat <i>(<bdi style="direction: rtl;">وربات</bdi>)</i>
+- 🍰 Knafeh <i>(<bdi style="direction: rtl;">كنافة</bdi>)</i>
+- 🫓 Khubz <i>(<bdi style="direction: rtl;">خبز</bdi>)</i>
+- 🍶 Arabic Tea <i>(<bdi style="direction: rtl;">شاي عربي</bdi>)</i>
 
 
 <b>🎬 Local movies:</b>
-- Captain Abu Raed <i>(كابتن أبو رائد)</i>. Year: 2007. Genre: drama
+- Captain Abu Raed <i>(<bdi style="direction: rtl;">كابتن أبو رائد</bdi>)</i>. Year: 2007. Genre: drama
 
 
 <b>🪔 Authentic features:</b>
-- 👑 System of Jordanian Tribes <i>(عشائر الأردن)</i>
-- 🏺 Jordanian Dallahs <i>(دلال القهوة الأردنية)</i>
-- 🛖 Desert Castles <i>(قصور الصحراء)</i>
-- 🎨 Jordanian Sand-Bottle Art <i>(فن الرمل في الزجاجات)</i>
-- 🎑 Al-Mansaf Feast Ritual <i>(طقوس وليمة المنسف)</i>
-- 💃 Dabke Dance <i>(دبكة)</i>
-- 🪕 Authentic Musical Instrument: Mijwiz <i>(مجوز)</i>
-- 👘 Authentic Garb: Dishdashah & Shemagh <i>(الدشداشة والشماغ)</i>
-- 👲 Culture of Bedouins <i>(البدو)</i>
-  - 🦉 Authentic Concept: Sharaf <i>(شرف)</i> 
-  - 🦉 Authentic Concept: Ird <i>(عرض)</i>
-  - 🐦‍🔥 Nabaṭī Poetry <i>(الشعر النبطي)</i>
-  - 👑 Title of Bedouin Sheikh <i>(شيخ بدوي)</i>
-  - 👑 System of Bedouin Tribes <i>(عشائر البدو)</i>
-  - 🏺 Bedouin Camel Saddles <i>(سروج الجِمال البدوية)</i>
-  - 🛖 Bedouin Tents <i>(بيت الشَّعَر)</i>
-  - 🎨 Al Sadu Weaving <i>(حياكة السدو)</i>
-  - 🏃🏻 Camel Racing Tradition <i>(سباق الهجن)</i> 
-  - 🎭 As-Samer Performance <i>(السامر)</i> 
-  - 💃 Al-Daha Dance <i>(الدَّحّة)</i>
-- 🏰 Heritage of Edom <i>(𐤀𐤃𐤌 / مملكة إدوم)</i>
+- 👑 System of Jordanian Tribes <i>(<bdi style="direction: rtl;">عشائر الأردن</bdi>)</i>
+- 🏺 Jordanian Dallahs <i>(<bdi style="direction: rtl;">دلال القهوة الأردنية</bdi>)</i>
+- 🛖 Desert Castles <i>(<bdi style="direction: rtl;">قصور الصحراء</bdi>)</i>
+- 🎨 Jordanian Sand-Bottle Art <i>(<bdi style="direction: rtl;">فن الرمل في الزجاجات</bdi>)</i>
+- 🎑 Al-Mansaf Feast Ritual <i>(<bdi style="direction: rtl;">طقوس وليمة المنسف</bdi>)</i>
+- 💃 Dabke Dance <i>(<bdi style="direction: rtl;">دبكة</bdi>)</i>
+- 🪕 Authentic Musical Instrument: Mijwiz <i>(<bdi style="direction: rtl;">مجوز</bdi>)</i>
+- 👘 Authentic Garb: Dishdashah & Shemagh <i>(<bdi style="direction: rtl;">الدشداشة والشماغ</bdi>)</i>
+- 👲 Culture of Bedouins <i>(<bdi style="direction: rtl;">البدو</bdi>)</i>
+  - 🦉 Authentic Concept: Sharaf <i>(<bdi style="direction: rtl;">شرف</bdi>)</i> 
+  - 🦉 Authentic Concept: Ird <i>(<bdi style="direction: rtl;">عرض</bdi>)</i>
+  - 🐦‍🔥 Nabaṭī Poetry <i>(<bdi style="direction: rtl;">الشعر النبطي</bdi>)</i>
+  - 👑 Title of Bedouin Sheikh <i>(<bdi style="direction: rtl;">شيخ بدوي</bdi>)</i>
+  - 👑 System of Bedouin Tribes <i>(<bdi style="direction: rtl;">عشائر البدو</bdi>)</i>
+  - 🏺 Bedouin Camel Saddles <i>(<bdi style="direction: rtl;">سروج الجِمال البدوية</bdi>)</i>
+  - 🛖 Bedouin Tents <i>(<bdi style="direction: rtl;">بيت الشَّعَر</bdi>)</i>
+  - 🎨 Al Sadu Weaving <i>(<bdi style="direction: rtl;">حياكة السدو</bdi>)</i>
+  - 🏃🏻 Camel Racing Tradition <i>(<bdi style="direction: rtl;">سباق الهجن</bdi>)</i> 
+  - 🎭 As-Samer Performance <i>(<bdi style="direction: rtl;">السامر</bdi>)</i> 
+  - 💃 Al-Daha Dance <i>(<bdi style="direction: rtl;">الدَّحّة</bdi>)</i>
+- 🏰 Heritage of Edom <i>(<bdi style="direction: rtl;">مملكة إدوم</bdi> / <bdi style="direction: rtl;">𐤀𐤃𐤌</bdi>)</i> 
   - 🕯️ Edomite Religion <i>(<bdi style="direction: rtl;">قوس</bdi> / <bdi style="direction: rtl;">𐤒𐤅𐤎</bdi>)</i>
   - 🏺 Edomite Ceramic Figurines <i>(<bdi style="direction: rtl;">تماثيل فخارية أدومية</bdi> / <bdi style="direction: rtl;">𐤐𐤎𐤋</bdi>)</i>
   - 🛠️ Edomite Pottery Tradition <i>(<bdi style="direction: rtl;">الفخار الأدومي</bdi> / <bdi style="direction: rtl;">𐤇𐤓𐤔</bdi>)</i>
@@ -116,25 +116,25 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
   - 🏺 Nabataean Betyls <i>(<bdi style="direction: rtl;">الأنصاب النبطية المقدسة</bdi> / <bdi style="direction: rtl;">𐢍𐢕𐢊𐢁</bdi>)</i> 
   - 🏛️ Nabataean Architectural Style <i>(<bdi style="direction: rtl;">العمارة النبطية</bdi> / <bdi style="direction: rtl;">𐢁𐢍𐢉𐢍𐢀</bdi>)</i>
   - 🛠️ Nabataean Pottery Tradition <i>(<bdi style="direction: rtl;">الفخار النبطي</bdi> / <bdi style="direction: rtl;">𐢊𐢐𐢃</bdi>)</i>
-- 🏰 Heritage of the Emirate of Transjordan <i>(إمارة شرق الأردن)</i>
+- 🏰 Heritage of the Emirate of Transjordan <i>(<bdi style="direction: rtl;">إمارة شرق الأردن</bdi>)</i>
 
- 
+
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Independence Day of Jordan <i>(عيد الاستقلال)</i>. Month: May<br>
+- Independence Day of Jordan <i>(<bdi style="direction: rtl;">عيد الاستقلال</bdi>)</i>. Month: May<br>
 <u>Ma'an - Regional Special:</u> 
-- Petra Cultural Festival <i>(مهرجان البترا الثقافي)</i>. Month: October
+- Petra Cultural Festival <i>(<bdi style="direction: rtl;">مهرجان البترا الثقافي</bdi>)</i>. Month: October
 
 
 
 <b>💐 National flower: </b> 
-- Black Iris <i>(السوسنة السوداء)</i>
+- Black Iris <i>(<bdi style="direction: rtl;">السوسنة السوداء</bdi>)</i>
 
 
 <b>🦉 Local wisdom:</b> "Whoever knocks on the door gets an answer." / "<i>اللي يدق الباب يسمع الجواب</i>" — Jordanian proverb 
 
 
-<b>👨‍🎓 The oldest university:</b> The University of Jordan <i>(الجامعة الأردنية)</i>, Amman, est. 1962. 
+<b>👨‍🎓 The oldest university:</b> The University of Jordan <i>(<bdi style="direction: rtl;">الجامعة الأردنية</bdi>)</i>, Amman, est. 1962. 
 
 
 {{< gallery album="jordan" crop_options="150x150" >}}
