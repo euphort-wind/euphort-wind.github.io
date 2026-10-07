@@ -126,6 +126,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 🦉 Authentic Concept: Ahimsa <i>(अहिंसा)</i>
 - 🦉 Authentic Concept: Karma <i>(कर्म)</i>
 - 🦉 Authentic Concept: Dharma <i>(धर्म)</i>
+- 🦉 Authentic Concept: Moksha <i>(मोक्ष)</i>
 - 🕯️ Hinduism <i>(हिन्दू धर्म)</i>
 - 🕯️ Sikhism <i>(सिख धर्म)</i>
 - 🕯️ Jainism <i>(जैन धर्म)</i>
