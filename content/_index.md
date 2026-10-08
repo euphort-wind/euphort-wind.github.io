@@ -30,8 +30,8 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * PhD Research: Systematic Trade-off Management for MLOps
-              * Teaching: "Agile Software Project Management" course
+              * PhD Research: Trade-off Management for MLOps
+              * Teaching: Agile Software Project Management
               * Supervision: BSc & MSc Theses  
 
         - title: Lecturer
@@ -42,9 +42,9 @@ sections:
           date_end: '2023-05-23'
           description: |2-
               Responsibilities include:
-              * PhD Research: Management in Organizational Systems
-              * Teaching: "Business Intelligence Tools" course
-              * Teaching: "Internet Marketing" course
+              * PhD Research: Management in Org. Systems
+              * Teaching: Business Intelligence Tools 
+              * Teaching: Internet Marketing 
 
         - title: Project Manager
           company: SPV

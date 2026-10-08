@@ -153,7 +153,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🛖 Chiringuito Bars <i>(Chiringuitos)</i>
 - 🏛️ Mudéjar Architectural Style <i>(Arte Mudéjar)</i>
 - 🎨 Bodegón Painting <i>(Pintura de Bodegón)</i>
-- 🛠️ Talavera de la Reina Pottery Tradition <i>(Cerámica de Talavera de la Reina)</i>
+- 🛠️ Talavera de la Reina Pottery Tradition <i>(Cerámica de Talavera)</i>
 - 🏓 Parchís Game <i>(Parchís)</i>
 - 🏃🏻 Spanish Bullfighting Tradition <i>(Corrida de Toros)</i>
 - 🎑 Siesta Ritual <i>(Siesta)</i>
