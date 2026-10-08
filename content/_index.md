@@ -30,7 +30,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * PhD Research: Trade-off Management in MLOps
+              * PhD Project: Trade-off Management in MLOps
               * Teaching: Agile Software Project Management
               * Supervision: BSc & MSc Theses  
 
@@ -42,7 +42,7 @@ sections:
           date_end: '2023-05-23'
           description: |2-
               Responsibilities include:
-              * PhD Research: Management in Org. Systems
+              * PhD Project: Management in Org. Systems
               * Teaching: Business Intelligence Tools 
               * Teaching: Internet Marketing 
 
