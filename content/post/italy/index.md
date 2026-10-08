@@ -203,6 +203,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🥓 Carpaccio <i>(Carpaccio)</i>
 - 🥓 Bresaola <i>(Bresaola)</i> 
 - 🥓 Mortadella <i>(Mortadella)</i> 
+- 🥓 Capocollo <i>(Capocollo)</i> 
 - 🥓 Prosciutto <i>(Prosciutto Crudo)</i> 
 - 🥓 Salami <i>(Salame)</i> 
 - 🥙 Italian Pizza <i>(Pizza)</i>
@@ -244,19 +245,31 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 </br>
 <u>Lazio - Regional Special:</u>
 - 🥘 Pasta Carbonara <i>(Pasta alla Carbonara)</i>
+- 🥘 Pasta alla Gricia <i>(Pasta alla Gricia)</i>
 - 🥘 Fettuccine Alfredo <i>(Fettuccine Alfredo)</i>
+- 🥘 Abbacchio <i>(Abbacchio)</i>
+- 🥘 Coda alla Vaccinara <i>(Coda alla Vaccinara)</i>
 - 🥘 Saltimbocca <i>(Saltimbocca)</i>
+- 🥫 Amatriciana Sauce <i>(Amatriciana)</i>
+- 🥫 Arrabbiata Sauce <i>(Arrabbiata)</i>
 </br>
 <u>Emilia-Romagna - Regional Special:</u> 
-- 🥘 Ragù alla Bolognese <i>(Ragù alla Bolognese / Ragó)</i>
-- 🥘 Lasagna <i>(Lasagna / Lasagna)</i>
-- 🥘 Tortelli <i>(Tortelli / Tortelli)</i>
-- 🍰 Torta di Riso <i>(Torta di Riso / Torta degli Addobbi)</i>
+- 🥘 Ragù alla Bolognese <i>(Ragù alla Bolognese)</i>
+- 🥘 Cotoletta alla Bolognese <i>(Cotoletta alla Bolognese)</i>
+- 🥘 Lasagna <i>(Lasagna)</i>
+- 🥘 Tortelli <i>(Tortelli)</i>
+- 🍰 Torta di Riso <i>(Torta di Riso)</i>
 </br>
 <u>Tuscany - Regional Special:</u>
+- 🥓 Finocchiona <i>(Finocchiona)</i>
+- 🥙 Lampredotto Sandwich <i>(Panino con Lampredotto)</i>
 - 🥗 Panzanella <i>(Panzanella)</i>
 - 🍲 Ribollita <i>(Ribollita)</i>
+- 🥘 Cacciucco <i>(Cacciucco)</i>
+- 🥘 Pappa al Pomodoro <i>(Pappa al Pomodoro)</i>
 - 🥘 Florentine Steak <i>(Bistecca alla Fiorentina)</i>
+- 🍰 Torta della Nonna <i>(Torta della Nonna)</i>
+- 🫓 Panigaccio <i>(Panigaccio)</i>
 </br>
 <u>Sicily - Regional Special:</u>
 - 🥙 Pani câ Meusa <i>(Pane con Meusa / Pani câ Meusa)</i>
