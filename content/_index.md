@@ -30,7 +30,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * PhD Research: Trade-off Management for MLOps
+              * PhD Research: Trade-off Management in MLOps
               * Teaching: Agile Software Project Management
               * Supervision: BSc & MSc Theses  
 
