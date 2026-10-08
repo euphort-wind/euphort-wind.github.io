@@ -51,7 +51,7 @@ sections:
           company_url: 'https://spv.se/en/about-your-pensions/'
           company_logo: lspv
           location: Sundsvall
-          date_start: '2021-09-01'
+          date_start: '2021-08-31'
           date_end: '2021-12-01'
           description: |2-
               Responsibilities include:
