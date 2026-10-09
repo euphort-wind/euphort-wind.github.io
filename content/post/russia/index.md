@@ -34,7 +34,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 
 <b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
 
-<b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Zelyonaya Polyana, Kusimovsky Rudnik, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Kyshtym, Aleksandrovskii-Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralnye Vody, Fiagdon, Dargavs, Fasnal, Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
+<b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Zelyonaya Polyana, Kusimovsky Rudnik, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Kyshtym, Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralnye Vody, Fiagdon, Dargavs, Fasnal, Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
 
 <b>🏛 Top sights visited: </b>
 
@@ -105,7 +105,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - Palace of Culture <i>(Дворец Культуры)</i> 
 12. Revda
     - Karl Liebknecht Street <i>(Улица Карла Либнехта)</i> 
-13. Aleksandrovskii-Arkaim
+13. Arkaim
     - Arkaim Settlement <i>(Городище "Аркаим")</i> 
     - Museum of Ancient Productions <i>(Музей Древних Производств)</i> 
     - Shamanka Mount <i>(Гора Шаманка)</i>
@@ -324,7 +324,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🏛️ Russian Wooden Architectural Style <i>(Древнерусское Деревянное Зодчество)</i>
     - 🎨 Novgorod Icon Painting <i>(Новгородская Иконопись)</i>
     - 🎭 Skomorokh Performance <i>(Выступления Скоморохов)</i>
-    - 🎙️ Znamenny Chant Singing <i>(Знаменное Пение)</i>
+    - 🎙️ Znamenny Chant <i>(Знаменное Пение)</i>
     - 👘 Authentic Garb: Bast Shoes & Kokoshnik <i>(Лапти и Кокошник)</i>
 - 🏰 Heritage of the Tsardom of Russia <i>(Русское Царство)</i>
     - ⛵ Koch Boats <i>(Кочи)</i>
