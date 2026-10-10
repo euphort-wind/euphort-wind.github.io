@@ -8,7 +8,7 @@ gallery_item:
   image: 1ekb.jpeg
   caption: Ekaterinburg
 - album: russia
-  image: 3kislo.jpg
+  image: 4kislo.jpg
   caption: Main Narzan Baths (Kislovodsk)
 - album: russia
   image: 2msk.jpeg
