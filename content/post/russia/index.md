@@ -21,7 +21,7 @@ gallery_item:
   caption: Bannoye Lake
 - album: russia
   image: 5mgn.jpeg
-  caption: Magnitogorsk Technical University 
+  caption: Magnitogorsk
 - album: russia
   image: 1spb.jpg
   caption: State Hermitage Museum (St. Petersburg)
