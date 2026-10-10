@@ -9,7 +9,7 @@ gallery_item:
   caption: Ekaterinburg
 - album: russia
   image: 4kislo.jpg
-  caption: Main Narzan Baths (Kislovodsk)upd
+  caption: Main Narzan Baths (Kislovodsk)
 - album: russia
   image: 2msk.jpeg
   caption: Saint Basil's Cathedral

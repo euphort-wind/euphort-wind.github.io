@@ -11,7 +11,7 @@ gallery_item:
     image: 2port.jpg
     caption: Port of Aqaba
   - album: jordan
-    image: 3petra.jpg
+    image: 2petra.jpg
     caption: Al-Khazneh Treasury (Petra)
   - album: jordan
     image: 4petra.jpg
