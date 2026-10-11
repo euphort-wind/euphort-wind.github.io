@@ -152,6 +152,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🛖 Bullrings <i>(Plazas de Toros)</i>
 - 🛖 Chiringuito Bars <i>(Chiringuitos)</i>
 - 🏛️ Mudéjar Architectural Style <i>(Arte Mudéjar)</i>
+- 🏛️ Spanish Plateresque Architectural Style <i>(Plateresco)</i>
 - 🎨 Bodegón Painting <i>(Pintura de Bodegón)</i>
 - 🛠️ Talavera de la Reina Pottery Tradition <i>(Cerámica de Talavera)</i>
 - 🏓 Parchís Game <i>(Parchís)</i>
@@ -174,8 +175,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - 🎨 Visigothic Illuminated Manuscripts <i>(Manuscritos Iluminados Visigodos / 𐌱𐍉𐌺𐍉𐍃)</i>
   - 🎙️ Visigothic Chant <i>(Canto Visigótico / 𐍃𐌰𐌲𐌲𐍅𐍃)</i>
 - 🏰 Heritage of the Caliphate of Córdoba <i>(Califato de Córdoba / خِلَافَةُ قُرطُبَة)</i>
-- 🏰 Heritage of the Kingdom of León <i>(Reino de León / Regno de Lleon)</i>
 - 🏰 Heritage of the Crown of Castile <i>(Corona de Castilla / Corona Castellae)</i>
+- 🏰 Heritage of the Crown of Aragon <i>(Corona de Aragón / Corona d'Aragón)</i>
 - 🏰 Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - 🏰 Heritage of the Spanish Republic <i>(República Española)</i><br>
 <u>Catalonia - Regional Special:</u> 

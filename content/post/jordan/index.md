@@ -106,6 +106,8 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
   - 🏃🏻 Camel Racing Tradition <i>(<bdi style="direction: rtl;">سباق الهجن</bdi>)</i> 
   - 🎭 As-Samer Performance <i>(<bdi style="direction: rtl;">السامر</bdi>)</i> 
   - 💃 Al-Daha Dance <i>(<bdi style="direction: rtl;">الدَّحّة</bdi>)</i>
+- 🏰 Heritage of Ammon <i>(<bdi style="direction: rtl;">مملكة عمون</bdi> / <bdi style="direction: rtl;">𐤏𐤌𐤍</bdi>)</i>
+- 🏰 Heritage of Moab <i>(<bdi style="direction: rtl;">مملكة موآب</bdi> / <bdi style="direction: rtl;">𐤌𐤀𐤁</bdi>)</i>
 - 🏰 Heritage of Edom <i>(<bdi style="direction: rtl;">مملكة إدوم</bdi> / <bdi style="direction: rtl;">𐤀𐤃𐤌</bdi>)</i> 
   - 🕯️ Edomite Religion <i>(<bdi style="direction: rtl;">قوس</bdi> / <bdi style="direction: rtl;">𐤒𐤅𐤎</bdi>)</i>
   - 🏺 Edomite Ceramic Figurines <i>(<bdi style="direction: rtl;">تماثيل فخارية أدومية</bdi> / <bdi style="direction: rtl;">𐤐𐤎𐤋</bdi>)</i>
