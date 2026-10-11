@@ -150,6 +150,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 💃 Bharatanatyam Dance <i>(भरतनाट्यम)</i>
 - 🪕 Authentic Musical Instrument: Saraswati Veena <i>(सरस्वती वीणा)</i>
 - 👘 Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
+- 🏰 Heritage of the Nanda Empire <i>(नंद साम्राज्य)</i>
 - 🏰 Heritage of the Maurya Empire <i>(मौर्यसाम्राज्य / मौर्यसाम्राज्यम्)</i>
 - 🏰 Heritage of the Gupta Empire <i>(गुप्त राजवंश / गुप्त)</i>
 - 🏰 Heritage of the Chola Empire <i>(चोल साम्राज्य / இடைக்காலச் சோழர்கள்)</i>
