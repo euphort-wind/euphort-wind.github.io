@@ -130,6 +130,7 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - 🎭 Khon Dance Drama <i>(โขน)</i>
 - 🪕 Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
 - 👘 Authentic Garb: Pha Nung <i>(ผ้านุ่ง)</i>
+- 🏰 Heritage of the Sukhothai Kingdom <i>(อาณาจักรสุโขทัย)</i>
 - 🏰 Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>
 - 🏰 Heritage of the Thonburi Kingdom <i>(อาณาจักรธนบุรี)</i>
 - 🏰 Heritage of the Rattanakosin Kingdom <i>(อาณาจักรรัตนโกสินทร์)</i><br>
