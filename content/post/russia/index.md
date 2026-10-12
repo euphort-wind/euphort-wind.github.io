@@ -316,6 +316,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 💃 Khorovod Dance <i>(Хоровод)</i>
 - 🪕 Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - 👘 Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
+- 🏰 Heritage of the Novgorod Republic <i>(Новгородская Республика / Господинъ Великiй Новгородъ)</i>
 - 🏰 Heritage of the Grand Principality of Moscow <i>(Великое Княжество Московское)</i>
     - 🐦‍🔥 Bylina Epic Poetry <i>(Былины)</i>
     - 🏺 Painted Kovshes <i>(Расписные Ковши)</i>
@@ -364,7 +365,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🪕 Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
     - 👘 Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
 - 👲 Culture of Abazins <i>(Абазины / Абаза)</i>
-- 🏰 Heritage of Zichia <i>(Черкесия / Адыгэ Хэку)</i><br>
+- 🏰 Heritage of the Kingdom of Zichia <i>(Зихия / Адзыгъуей)</i>
+- 🏰 Heritage of the Kingdom of Circassia <i>(Черкесия / Адыгэ Хэку)</i><br>
 <u>North Ossetia - Regional Special:</u> 
 - 👲 Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
     - 🦉 Authentic Concept: Ægdau <i>(Агдау / Æгъдау)</i>
