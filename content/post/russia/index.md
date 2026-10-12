@@ -333,15 +333,15 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🎨 Stroganov Icon Painting <i>(Строгановская Иконопись)</i>
     - 👘 Authentic Garb: Feryaz & Boyar Hat <i>(Ферязь и Горлатная Шапка)</i> 
 - 🏰 Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
-    - 🦉 Authentic Concept: Sobornost <i>(Соборность / Соборность)</i>      
-    - 🕯️ Spiritual Christianity <i>(Духовное Христианство / Духовное Христіанство)</i>
-    - 🏺 Painted Samovars <i>(Расписные Самовары / Расписныя Самовары)</i>
-    - 🛖 People's Houses <i>(Народные Дома / Народныя Дома)</i>
-    - 🏛️ Elizabethan Baroque Architectural Style <i>(Елизаветинское Барокко / Елизаветинское Барокко)</i>
-    - 🏛️ Russian Revival Architectural Style <i>(Русский Архитектурный Стиль / Русскій Архитектурный Стиль)</i>
-    - 💃 Barynya Dance <i>(Пляска Барыня / Пляска Барыня)</i>
-    - 💃 Kamarinskaya Dance <i>(Камаринская Пляска / Пляска Камаринская)</i>
-    - 👘 Authentic Garb: Kosovorotka & Russian Court Dress <i>(Косоворотка и Русское Придворное Платье / Косоворотка и Русское Придворное Платье)</i>
+    - 🦉 Authentic Concept: Sobornost <i>(Соборность)</i>      
+    - 🕯️ Spiritual Christianity <i>(Духовное Христианство)</i>
+    - 🏺 Painted Samovars <i>(Расписные Самовары)</i>
+    - 🛖 People's Houses <i>(Народные Дома)</i>
+    - 🏛️ Elizabethan Baroque Architectural Style <i>(Елизаветинское Барокко)</i>
+    - 🏛️ Russian Revival Architectural Style <i>(Русский Архитектурный Стиль)</i>
+    - 💃 Barynya Dance <i>(Пляска Барыня)</i>
+    - 💃 Kamarinskaya Dance <i>(Камаринская Пляска)</i>
+    - 👘 Authentic Garb: Kosovorotka & Russian Court Dress <i>(Косоворотка и Русское Придворное Платье)</i>
 - 🏰 Heritage of the Russian Republic <i>(Российская Республика / Россійская Республика)</i>
 <br>
 <u>Bashkortostan - Regional Special:</u> 
