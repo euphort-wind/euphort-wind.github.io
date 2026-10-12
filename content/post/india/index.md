@@ -167,6 +167,10 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - 🏃🏻 Kambala Buffalo Race Tradition <i>(कंबाला / ಕಂಬಳ)</i>
   - 🏓 Alaguli Mane Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>
   - 🪕 Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i><br>
+- 🏰 Heritage of the Kadamba Kingdom <i>(कदंब राजवंश / ಕದಂಬ ರಾಜವಂಶ)</i>
+- 🏰 Heritage of the Western Ganga Kingdom <i>(पश्चिम गंग वंश / ಗಂಗರು)</i>
+- 🏰 Heritage of the Chalukya Empire <i>(चालुक्य राजवंश / ಚಾಲುಕ್ಯ)</i>
+- 🏰 Heritage of the Hoysala Kingdom <i>(होयसल राजवंश / ಹೊಯ್ಸಳ)</i>
 - 🏰 Heritage of the Rashtrakuta Empire <i>(राष्ट्रकूट राजवंश / ರಾಷ್ಟ್ರಕೂಟ)</i>
 - 🏰 Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i><br>
 <u>Goa - Regional Special:</u> 
@@ -175,7 +179,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - 💃 Fugdi Dance <i>(फुगडी / फुगडी)</i>
   - 🪕 Authentic Musical Instrument: Ghumot <i>(घुमोट / घुमट)</i>
   - 👘 Authentic Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
-
+- 🏰 Heritage of the Kadamba Kingdom <i>(कदंब राज्य / कदंब राज्य)</i><br>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
