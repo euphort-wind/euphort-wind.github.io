@@ -317,7 +317,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🪕 Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
 - 👘 Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
 - 🏰 Heritage of the Novgorod Republic <i>(Новгородская Республика / Господинъ Великiй Новгородъ)</i>
-- 🏰 Heritage of the Grand Principality of Moscow <i>(Великое Княжество Московское)</i>
+- 🏰 Heritage of the Grand Principality of Moscow <i>(Великое Княжество Московское / Вели́кое Кнꙗ́женїе Моско́вьское)</i>
     - 🐦‍🔥 Bylina Epic Poetry <i>(Былины)</i>
     - 🏺 Painted Kovshes <i>(Расписные Ковши)</i>
     - 🏺 Russian Stoves <i>(Русские Печи)</i>
@@ -327,7 +327,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🎭 Skomorokh Performance <i>(Выступления Скоморохов)</i>
     - 🎙️ Znamenny Chant <i>(Знаменное Пение)</i>
     - 👘 Authentic Garb: Bast Shoes & Kokoshnik <i>(Лапти и Кокошник)</i>
-- 🏰 Heritage of the Tsardom of Russia <i>(Русское Царство)</i>
+- 🏰 Heritage of the Tsardom of Russia <i>(Русское Царство / Рꙋ́ськое Ца́рьство)</i>
     - ⛵ Koch Boats <i>(Кочи)</i>
     - 🎨 Lubok Printing <i>(Лубки)</i>
     - 🎨 Stroganov Icon Painting <i>(Строгановская Иконопись)</i>
@@ -386,11 +386,10 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 <u>Chelyabinsk - Regional Special:</u> 
 - 🛠️ Kasli Iron Sculptural Tradition <i>(Каслинское Литьё)</i>
 - 👲 Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i></br>
-<u>Moscow-City - Regional Special:</u>
-- 🏛️ Naryshkin Baroque Architectural Style <i>(Нарышкинское Барокко)</i>
-</br>
 <u>Orenburzhie - Regional Special:</u> 
 - 👘 Authentic Garb: Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i><br>
+<u>Moscow-City - Regional Special:</u>
+- 🏛️ Naryshkin Baroque Architectural Style <i>(Нарышкинское Барокко)</i>
 
 
 
