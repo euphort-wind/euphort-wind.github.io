@@ -164,8 +164,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🪕 Authentic Musical Instrument: Castanets <i>(Castañuelas)</i> 
 - 👘 Authentic Garb: Mantilla & Traje de Luces <i>(Mantilla y Traje de Luces)</i>
 - 🧝 Legacy of Iberians <i>(Íberos)</i>
-  - 📜 Northeastern Iberian Script (Escritura Ibérica Nororiental)
-  - 📜 Southeastern Iberian Script (Escritura Ibérica Suroriental)
+  - 📜 Northeastern Iberian Script <i>(Escritura Ibérica Nororiental)</i>
+  - 📜 Southeastern Iberian Script <i>(Escritura Ibérica Suroriental)</i>
   - 🏺 Falcata Swords <i>(Falcatas)</i>
   - 🛠️ Iberian Sculptural Tradition <i>(Escultura Ibérica)</i>
 - 🏰 Heritage of the Visigothic Kingdom <i>(Reino Visigodo / 𐌲𐌿𐍄𐌸𐌹𐌿𐌳𐌰 𐌸𐌹𐌿𐌳𐌹𐌽𐌰𐍃𐍃𐌿𐍃)</i>
