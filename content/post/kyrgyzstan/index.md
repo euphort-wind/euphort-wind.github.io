@@ -116,10 +116,14 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - 🧝 Legacy of Yenisei Kyrgyz <i>(Энесай Кыргыздары / 𐰶𐰃𐰺𐰶𐰃𐰕)</i>
 - 🏰 Heritage of the Kyrgyz Khaganate <i>(Кыргыз Кагандыгы / 𐰴𐰃𐰻𐰴𐰕:𐰅𐰠)</i>
 - 🏰 Heritage of the Kara-Khanid Khanate <i>(Караханийлер Мамлекети / قراخانیان)</i>
+- 🏰 Heritage of Moghulistan <i>(Моголстан / مغولستان)</i>
 - 🏰 Heritage of the Khanate of Kokand <i>(Кокон Хандыгы / خوقند خانليغى)</i><br> 
-<u>Issyk-Kul - Regional Special:</u> 
-- 🐦‍🔥 Legends of Issyk-Kul & Cholpon <i>(Ысык-Көл жана Чолпон-Ата Легендалары)</i>
-- 🏺 Issyk-Kul Petroglyph Stones <i>(Ысык-Көлдүн Петроглифтери)</i>
+<u>Issyk-Kul - Regional Special:</u>
+- 🐦‍🔥 Legend of Issyk-Kul & Cholpon <i>(Ысык-Көл жана Чолпон-Ата Уламышы)</i>
+- 🧝 Legacy of Wusun <i>(Усундар / 烏孫)</i>
+  - 👑 Title of Gunmo <i>(Гунмо)</i>
+  - 🏺 Issyk-Kul Petroglyph Stones <i>(Ысык-Көлдүн Петроглифтери)</i>
+  - 🛠️ Wusun Goldsmithing Tradition <i>(Усун Зергерчилиги)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
