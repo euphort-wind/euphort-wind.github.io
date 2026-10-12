@@ -98,7 +98,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
   - 📜 Linear C Writing System <i>(Κυπριακό Συλλαβάριο / 𐠀𐠁𐠂𐠃)</i>
   - 🏺 Cypro-Archaic Terracotta Figurines <i>(Κυπρο-Αρχαϊκά Ειδώλια από Τερακότα)</i>
   - 🛠️ Cypro-Archaic Pottery Tradition <i>(Κυπρο-Αρχαϊκή Κεραμική)</i>
-- 🏰 Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Regnum Cypri)</i>
+- 🏰 Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Royaume de Chypre)</i>
 - ⛰️ Troodos Ophiolites <i>(Οφιόλιθος του Τροόδους)</i><br>
 <u>Larnaca - Regional Special:</u> 
 - 🎨 Lefkara Lace <i>(Λευκαρίτικα)</i>
