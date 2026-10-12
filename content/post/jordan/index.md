@@ -69,8 +69,11 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 
 
 <b>🍽️ Local food & drinks: </b>
+- 🥗 Fattoush <i>(<bdi style="direction: rtl;">فتّوش</bdi>)</i>
 - 🥗 Hummus <i>(<bdi style="direction: rtl;">حمص بطحينة</bdi>)</i>
+- 🥗 Baba Ghanoush <i>(<bdi style="direction: rtl;">بابا غنّوج</bdi>)</i>
 - 🥙 Makmoura <i>(<bdi style="direction: rtl;">مكمورة</bdi>)</i>
+- 🥙 Manakish <i>(<bdi style="direction: rtl;">مناقيش</bdi>)</i>
 - 🥘 Maqluba <i>(<bdi style="direction: rtl;">مقلوبة</bdi>)</i>
 - 🥘 Qalayet Bandora <i>(<bdi style="direction: rtl;">قلاية بندورة</bdi>)</i>
 - 🥘 Mansaf <i>(<bdi style="direction: rtl;">منسف</bdi>)</i>
@@ -78,6 +81,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - 🍰 Warbat <i>(<bdi style="direction: rtl;">وربات</bdi>)</i>
 - 🍰 Knafeh <i>(<bdi style="direction: rtl;">كنافة</bdi>)</i>
 - 🫓 Khubz <i>(<bdi style="direction: rtl;">خبز</bdi>)</i>
+- 🫓 Ka'ak <i>(<bdi style="direction: rtl;">كَعك</bdi>)</i>
 - 🍶 Arabic Tea <i>(<bdi style="direction: rtl;">شاي عربي</bdi>)</i>
 
 
