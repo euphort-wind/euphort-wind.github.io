@@ -398,7 +398,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🧝 Legacy of Geates <i>(Götar / ᚷᚨᚢᛏᚨᛉ)</i>
     - 📜 Elder Futhark Runic Alphabet <i>(Äldre Futhark / ᚠᚢᚦᚨᚱᚲ)</i>
     - 🛖 Domarrings <i>(Domarringar / ᛏᛟᛗᚨᚺᚱᛁᛜᚷᚨᛉ)</i>
-    - 🛖 Stone Ships <i>(Skeppssättning / ᛋᚲᛁᛈᚨᛋᛏᚨᛁᚾᛟᛉ)</i>
+    - 🛖 Stone Ships <i>(Skeppssättningar / ᛋᚲᛁᛈᚨᛋᛏᚨᛁᚾᛟᛉ)</i>
     
 
 <b>🎊 Authentic holidays & celebrations:</b>
