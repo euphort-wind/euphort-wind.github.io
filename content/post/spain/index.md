@@ -151,15 +151,10 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🚗 Spanish Cars <i>(Brands: "SEAT", "Cupra")</i>
 - 🛖 Bullrings <i>(Plazas de Toros)</i>
 - 🛖 Chiringuito Bars <i>(Chiringuitos)</i>
-- 🏛️ Spanish Romanesque Architectural Style <i>(Arquitectura Románica Española)</i>
-- 🏛️ Spanish Gothic Architectural Style <i>(Arquitectura Gótica Española)</i>
 - 🏛️ Plateresque Architectural Style <i>(Arquitectura Plateresca)</i>
-- 🏛️ Spanish Renaissance Architectural Style <i>(Arquitectura Renacentista Española)</i>
-- 🏛️ Spanish Baroque Architectural Style <i>(Arquitectura Barroca Española)</i>
-- 🎨 Spanish Romanesque Painting <i>(Pintura Románica Española)</i>
-- 🎨 Spanish Romantic Painting <i>(Pintura Romántica Española)</i>
-- 🎨 Spanish Renaissance Painting <i>(Pintura Renacentista Española)</i>
-- 🎨 Spanish Baroque Painting <i>(Pintura Barroca Española)</i>
+- 🏛️ Herrerian Architectural Style <i>(Arquitectura Herreriana)</i>
+- 🏛️ Churrigueresque Architectural Style <i>(Arquitectura Churrigueresca)</i>
+- 🎨 Bodegón Painting <i>(Pintura de Bodegones)</i>
 - 🛠️ Talavera de la Reina Pottery Tradition <i>(Cerámica de Talavera)</i>
 - 🏓 Parchís Game <i>(Parchís)</i>
 - 🏃🏻 Spanish Bullfighting Tradition <i>(Corrida de Toros)</i>
@@ -193,9 +188,9 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - 🏺 Porrons <i>(Porrones / Porrons)</i>
   - ⛵ Llagut Boats <i>(Llagutes / Llaguts)</i>
   - 🛖 Masies <i>(Masías / Masies)</i>
-  - 🏛️ Catalan Art Nouveau Architectural Style <i>(Modernismo Catalán / Modernisme Català)</i>
-  - 🎨 Trencadís Mosaics <i>(Trencadís / Trencadís)</i>
+  - 🏛️ Catalan Modernisme Architectural Style <i>(Modernismo Catalán / Modernisme Català)</i>
   - 🎨 Catalan Surrealist Painting <i>(Pintura Surrealista Catalana / Pintura Surrealista Catalana)</i>
+  - 🎨 Trencadís Mosaics <i>(Trencadís / Trencadís)</i>
   - 🏓 Patacó Game <i>(Patacó / Patacó)</i>
   - 🎑 Catalan Human Tower Ritual <i>(Castells / Castells)</i>
   - 🎭 Els Pastorets Performance <i>(Los Pastorcillos / Els Pastorets)</i>
