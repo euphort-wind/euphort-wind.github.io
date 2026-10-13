@@ -151,9 +151,15 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🚗 Spanish Cars <i>(Brands: "SEAT", "Cupra")</i>
 - 🛖 Bullrings <i>(Plazas de Toros)</i>
 - 🛖 Chiringuito Bars <i>(Chiringuitos)</i>
-- 🏛️ Mudéjar Architectural Style <i>(Arte Mudéjar)</i>
-- 🏛️ Spanish Plateresque Architectural Style <i>(Plateresco)</i>
-- 🎨 Bodegón Painting <i>(Pintura de Bodegón)</i>
+- 🏛️ Spanish Romanesque Architectural Style <i>(Arquitectura Románica Española)</i>
+- 🏛️ Spanish Gothic Architectural Style <i>(Arquitectura Gótica Española)</i>
+- 🏛️ Plateresque Architectural Style <i>(Arquitectura Plateresca)</i>
+- 🏛️ Spanish Renaissance Architectural Style <i>(Arquitectura Renacentista Española)</i>
+- 🏛️ Spanish Baroque Architectural Style <i>(Arquitectura Barroca Española)</i>
+- 🎨 Spanish Romanesque Painting <i>(Pintura Románica Española)</i>
+- 🎨 Spanish Romantic Painting <i>(Pintura Romántica Española)</i>
+- 🎨 Spanish Renaissance Painting <i>(Pintura Renacentista Española)</i>
+- 🎨 Spanish Baroque Painting <i>(Pintura Barroca Española)</i>
 - 🛠️ Talavera de la Reina Pottery Tradition <i>(Cerámica de Talavera)</i>
 - 🏓 Parchís Game <i>(Parchís)</i>
 - 🏃🏻 Spanish Bullfighting Tradition <i>(Corrida de Toros)</i>
