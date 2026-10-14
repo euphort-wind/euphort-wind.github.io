@@ -137,7 +137,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - Black Iris <i>(<bdi style="direction: rtl;">السوسنة السوداء</bdi>)</i>
 
 
-<b>🦉 Local wisdom:</b> "Whoever knocks on the door gets an answer." / "<i>اللي يدق الباب يسمع الجواب</i>" — Jordanian proverb 
+<b>🦉 Local wisdom:</b> "He who cannot recognize a falcon’s worth will roast it." / "<i>اللي ما يعرف الصقر يشويه</i>" — Jordanian proverb 
 
 
 <b>👨‍🎓 The oldest university:</b> The University of Jordan <i>(<bdi style="direction: rtl;">الجامعة الأردنية</bdi>)</i>, Amman, est. 1962. 
