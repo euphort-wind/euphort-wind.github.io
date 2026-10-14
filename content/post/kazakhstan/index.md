@@ -122,7 +122,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - 🪕 Authentic Musical Instrument: Dombra <i>(Домбыра)</i>
 - 👘 Authentic Garb: Shapan & Borik <i>(Шапан мен Бөрік)</i> 
 - 🏰 Heritage of the Western Turkic Khaganate <i>(Батыш Түрк Кагандыгы / 𐰆𐰣:𐰸:𐰉𐰆𐰑𐰣)</i>
-- 🏰 Heritage of the Cuman–Kipchak Confederation <i>(Қыпшақ Даласы / دشت قپچاق)</i>
+- 🏰 Heritage of the Cuman-Kipchak Confederation <i>(Қыпшақ Даласы / دشت قپچاق)</i>
 - 🏰 Heritage of the Golden Horde <i>(Алтын Орда / اولوغ اولوس)</i> 
 - 🏰 Heritage of the Kazakh Khanate <i>(Қазақ Хандығы / قزاق جورتی)</i> 
 
