@@ -381,16 +381,22 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🎑 Fika Ritual <i>(Fika)</i>
 - 💃 Hambo Dance <i>(Hambo)</i>
 - 🪕 Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
-- 👘 Authentic Garb: Folkdräkt <i>(Svensk Folkdräkt)</i><br>
+- 👘 Authentic Garb: Folkdräkt <i>(Svensk Folkdräkt)</i>
+- 🏰 Heritage of the Sweden-Norway Union <i>(Sverige-Norge / Norig-Sverike)</i>
+<br>
 <u>Gotland - Regional Special:</u> 
 - 🧝 Legacy of Gutes <i>(Gutar / ᚷᚢᛏᛟᛉ)</i>
     - 🐦‍🔥 Guta Saga <i>(Gutasagan / ᚷᚢᛏᚨ ᛋᚨᚷᚨ)</i>
     - 🏺 Gotland Picture Stones <i>(Bildstenar / ᛒᛁᛚᛞᚨᛋᛏᚨᛁᚾᚨᛉ)</i>
     - 🏓 Pärk Game <i>(Pärk / ᛈᚨᚱᚲ)</i>
     - 🏓 Varpa Game <i>(Varpa / ᚹᚨᚱᛈᚨ)</i>
-- ⛰️ Rauk Landforms <i>(Raukar)</i><br>
+🏰 Heritage of the  <i>(Sverige-Norge / Norig-Sverike)</i>
+- ⛰️ Rauk Landforms <i>(Raukar)</i>
+<br>
 <u>Jämtland - Regional Special:</u> 
-- 🎨 Överhogdal Tapestry <i>(Överhogdalstapeten)</i><br>
+- 🎨 Överhogdal Tapestry <i>(Överhogdalstapeten)</i>
+- 🏰 Heritage of the Republic of Jamtamót <i>(Jamtamotrepubliken)</i>
+<br>
 <u>Halland - Regional Special:</u> 
 - 🎨 Bonad Painting <i>(Bonadsmålning)</i><br>
 <u>Västra Götaland - Regional Special:</u> 

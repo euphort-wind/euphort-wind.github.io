@@ -230,6 +230,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🎭 Rhapsodes & Rhapsodies <i>(Ραψωδοί και Ραψωδίες)</i>
   - 🪕 Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
   - 👘 Authentic Garb: Peplos & Chlamys <i>(Πέπλος και Χλαμύδα)</i>
+- 🏰 Heritage of the Kingdom of Macedonia <i>(Μακεδονία)</i>
 - 🏰 Heritage of the Byzantine Empire <i>(Βυζαντινή Αυτοκρατορία / Imperium Romanum Orientale)</i>
   - 🦉 Authentic Concept: Taxis <i>(Τάξις)</i>
   - ⛵ Dromon Boats <i>(Δρόμωνας)</i>
@@ -247,7 +248,9 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🐦‍🔥 Legend of the Colossus of Rhodes <i>(Κολοσσός της Ρόδου)</i>
 - ⛵ Caïque Boats <i>(Καΐκια)</i>
 - 🛖 Mykonos Windmills <i>(Ανεμόμυλοι Μυκόνου)</i>
-- 🏛️ Cycladic Architectural Style <i>(Κυκλαδική Αρχιτεκτονική)</i><br>
+- 🏛️ Cycladic Architectural Style <i>(Κυκλαδική Αρχιτεκτονική)</i>
+- 🏰 Heritage of the Duchy of Naxos <i>(Δουκάτο του Αρχιπελάγους / Ducato de l'Arcipelago)</i>
+- 🏰 Heritage of the Hospitaller Rhodes <i>(Μοναστικό Κράτος των Ιπποτών της Ρόδου / Ordo Hospitalis in Rhodo)</i><br>
 <u>Crete - Regional Special:</u> 
 - 🪕 Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
 - 👘 Authentic Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
@@ -260,9 +263,11 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🛠️ Minoan Jewellery Tradition  <i>(Μινωικά Κοσμήματα)</i>
   - 🎨 Minoan Painting <i>(Μινωική Ζωγραφική)</i>
   - 🏓 Knossos Board Game <i>(Ζατρίκιον)</i>
+- 🏰 Heritage of the Emirate of Crete <i>(Εμιράτο της Κρήτης / إقريطش)</i>
 - 🏰 Heritage of the Cretan State <i>(Κρητική Πολιτεία)</i><br> 
 <u>Attica - Regional Special:</u> 
 - 🏰 Heritage of the Delian League <i>(Συμμαχία της Δήλου)</i>
+- 🏰 Heritage of the Duchy of Athens <i>(Δουκᾶτον Ἀθηνῶν / Ducat d'Atenes)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

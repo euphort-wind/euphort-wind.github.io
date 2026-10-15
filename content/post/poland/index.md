@@ -214,6 +214,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - 🎑 Kashubian Gwiôzdka Ritual <i>(Kaszubska Gwiazdka / Gwiôzdka)</i>
   - 💃 Koseder Dance <i>(Koseder / Kòséder)</i>
   - 🪕 Authentic Musical Instrument: Burczybas  <i>(Burczybas / Mrëczk)</i>
+- 🏰 Heritage of the Duchy of Pomerania <i>(Księstwo Pomorskie / Herzogtum Pommern)</i>
 - 🏰 Heritage of the Free City of Danzig <i>(Wolne Miasto Gdańsk / Freie Stadt Danzig)</i>
 <br> 
 <u>Silesian - Regional Special:</u>
@@ -239,6 +240,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - 🎨 Parzenica Embroidery <i>(Parzenica)</i>
   - 💃 Góralski Dance <i>(Taniec Góralski)</i>
   - 👘 Authentic Garb: Goral Hat <i>(Kapelusz Góralski)</i>
+- 🏰 Heritage of the Duchy of Kraków <i>(Księstwo Krakowskie)</i>
 - 🏰 Heritage of the Republic of Cracow <i>(Rzeczpospolita Krakowska)</i>
 
 
