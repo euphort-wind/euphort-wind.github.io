@@ -128,7 +128,8 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 <u>Sarajevo - Regional Special:</u> 
 - 🏺 Sarajevo Roses <i>(Sarajevske Ruže)</i><br>
 <u>Herzegovina-Neretva - Regional Special:</u>
-- 🏃🏻 Stari Most Diving Tradition <i>(Skokovi sa Starog Mosta)</i><br>
+- 🏃🏻 Stari Most Diving Tradition <i>(Skokovi sa Starog Mosta)</i>
+- 🏰 Heritage of the Duchy of Saint Sava <i>(Vojvodstvo Svetog Save)</i><br>
 <u>West Herzegovina - Regional Special:</u> 
 - 🎙️ Ganga Singing <i>(Ganga)</i>
 

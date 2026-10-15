@@ -117,7 +117,7 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 - 🪕 Authentic Musical Instrument: Šupelka <i>(Шупелка)</i> 
 - 👲 Culture of Aromanians <i>(Македонски Власи / Armãnji)</i>
 - 🧝 Legacy of Paeonians <i>(Пајонци)</i>
-- 🏰 Heritage of the Kingdom of Macedonia <i>(Античка Македонија / Μακεδονία)</i><br>
+- 🏰 Heritage of the Empire of Samuel <i>(Самоилово Царство)</i><br>
 <u>Skopje - Regional Special:</u>
 - 🏛️ Macedonian Neoclassical Architectural Style <i>(Македонска Неокласична Архитектура)</i>
 

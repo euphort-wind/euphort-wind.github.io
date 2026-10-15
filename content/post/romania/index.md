@@ -175,6 +175,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🧝 Legacy of Dacians <i>(Dacii)</i>
 - 🏰 Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
 - 🏰 Heritage of the Principality of Transylvania <i>(Principatul Transilvaniei / Erdélyi Fejedelemség)</i>
+- 🏰 Heritage of the Principality of Moldavia <i>(Țara Moldovei / Цара Мѡлдѡвєй)</i>
 - 🏰 Heritage of the United Principalities <i>(Principatele Unite Române)</i>
 - 🏰 Heritage of the Kingdom of Romania <i>(Regatul României)</i><br>
 <u>Covasna - Regional Special:</u> 

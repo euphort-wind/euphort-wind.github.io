@@ -140,8 +140,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - 🎙️ Cante Alentejano Music <i>(Cante Alentejano)</i> 
 - 🪕 Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>
 - 👘 Authentic Garb: Portuguese Traje <i>(Traje Típico Português)</i>
-- 🏰 Heritage of the Kingdom of Portugal <i>(Reino de Portugal)</i>
-- 🏰 Heritage of the Portuguese Empire <i>(Império Português)</i><br>
+- 🏰 Heritage of the Kingdom of Portugal <i>(Reino de Portugal)</i><br>
 <u>Lisbon - Regional Special:</u> 
 - 🚗 Lisbon Historic Trams <i>(Brands: "Remodelados", "Ligeiros")</i>
 - 🚗 Lisbon Historic Funiculars <i>(Elevadores de Lisboa)</i>

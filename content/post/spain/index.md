@@ -178,7 +178,6 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🏰 Heritage of the Caliphate of Córdoba <i>(Califato de Córdoba / خِلَافَةُ قُرطُبَة)</i>
 - 🏰 Heritage of the Crown of Castile <i>(Corona de Castilla / Corona Castellae)</i>
 - 🏰 Heritage of the Crown of Aragon <i>(Corona de Aragón / Corona d'Aragón)</i>
-- 🏰 Heritage of the Spanish Empire <i>(Imperio Español / Imperium Hispanicum)</i>
 - 🏰 Heritage of the Spanish Republic <i>(República Española)</i><br>
 <u>Catalonia - Regional Special:</u> 
 - 👲 Culture of Catalans <i>(Catalanes / Catalans)</i>

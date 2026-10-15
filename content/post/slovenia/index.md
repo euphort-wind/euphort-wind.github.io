@@ -109,7 +109,6 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 - 💃 Štajeriš Dance <i>(Štajeriš)</i>
 - 👘 Authentic Garb: Gorenjska Avba <i>(Gorenjska Avba)</i> 
 - 🏰 Heritage of the Carantanian Principality <i>(Karantanija / *Korǫtanъ)</i>
-- 🏰 Heritage of the Duchy of Carniola <i>(Vojvodina Kranjska / Herzogtum Krain)</i>
 <br>
 <u>Upper Carniola - Regional Special:</u> 
 - ⛵ Bled Pletna Boats <i>(Pletne)</i>

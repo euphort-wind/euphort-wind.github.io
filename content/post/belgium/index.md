@@ -131,16 +131,18 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 🏓 Crossage Game <i>(Crossage / Chole)</i>
 - 🪕 Authentic Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
 - 🧝 Legacy of Belgae <i>(Belges / Belgae)</i>
-- 🏰 Heritage of the Duchy of Brabant <i>(Duché de Brabant / Hertogdom Brabant)</i>
 - 🏰 Heritage of the United Belgian States <i>(États-Belgiques-Unis / Verenigde Belgische Staten)</i>
 <br>
 <u>Brussels-Capital - Regional Special:</u> 
-- ⛰️ Flower Carpets <i>(Tapis de Fleurs / Bloementapijt)</i><br>
+- ⛰️ Flower Carpets <i>(Tapis de Fleurs / Bloementapijt)</i>
+- 🏰 Heritage of the Duchy of Brabant <i>(Duché de Brabant / Hertogdom Brabant)</i>
+<br>
 <u>Flanders - Regional Special:</u> 
 - 👲 Culture of Flemings <i>(Vlamingen)</i>
   - 🎨 Flemish Baroque Painting <i>(Vlaamse Barokschilderkunst)</i>  
   - 🎨 Bruges Lace <i>(Brugs Bloemwerk)</i>
   - 🪕 Authentic Musical Instrument: Doedelzak <i>(Doedelzak)</i>
+- 🏰 Heritage of the County of Flanders <i>(Graafschap Vlaanderen / Groafschap Vloandern)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - National Day of Belgium <i>(Fête Nationale Belge / Nationale Feestdag van België)</i>. Month: July<br>

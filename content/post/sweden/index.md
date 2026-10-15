@@ -381,8 +381,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🎑 Fika Ritual <i>(Fika)</i>
 - 💃 Hambo Dance <i>(Hambo)</i>
 - 🪕 Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
-- 👘 Authentic Garb: Folkdräkt <i>(Svensk Folkdräkt)</i>
-- 🏰 Heritage of the Swedish Empire <i>(Stormaktstiden Sverige)</i><br>
+- 👘 Authentic Garb: Folkdräkt <i>(Svensk Folkdräkt)</i><br>
 <u>Gotland - Regional Special:</u> 
 - 🧝 Legacy of Gutes <i>(Gutar / ᚷᚢᛏᛟᛉ)</i>
     - 🐦‍🔥 Guta Saga <i>(Gutasagan / ᚷᚢᛏᚨ ᛋᚨᚷᚨ)</i>
