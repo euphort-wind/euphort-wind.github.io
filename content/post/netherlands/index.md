@@ -210,16 +210,19 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
   - ⛵ Dutch Barge Boats <i>(Schuit)</i>
   - 🏛️ Dutch Baroque Architectural Style <i>(Nederlandse Barokarchitectuur)</i>
   - 🎨 Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
-- 🏰 Heritage of the Dutch Empire <i>(Nederlandse Rijk)</i>
 - ⛰️ Dutch Canals <i>(Kanalen)</i>
 - ⛰️ Dutch Polders <i>(Polders)</i>
 <br>
 <u>Utrecht - Regional Special:</u> 
-- 🏛️ De Stijl Architectural Style <i>(De Stijl Architectuur)</i><br>
+- 🏛️ De Stijl Architectural Style <i>(De Stijl Architectuur)</i>
+- 🏰 Heritage of the Prince-Bishopric of Utrecht <i>(Sticht Utrecht / Episcopatus Ultraiectensis)</i>
+<br>
 <u>South Holland - Regional Special:</u>
 - 🏺 Gouda Pipes <i>(Pijpaarde)</i>
 - 🎨 Leiden Wall Poems <i>(Muurgedichten in Leiden)</i>
-- 🎨 Delftware <i>(Delfts Blauw)</i><br>
+- 🎨 Delftware <i>(Delfts Blauw)</i>
+- 🏰 Heritage of the County of Holland <i>(Graafschap Holland / Comitatus Hollandiae)</i>
+<br>
 <u>Friesland - Regional Special:</u> 
 - 👲 Culture of Frisians <i>(Friezen / Frysken)</i>
   - 🦉 Authentic Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
@@ -228,7 +231,9 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
   - 🏃🏻 Fierljeppen Tradition <i>(Polsstokverspringen / Fierljeppen)</i> 
   - 🏃🏻 Frisian Handball Tradition <i>(Kaatsen / Keatsen)</i> 
   - 👘 Authentic Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
- 
+- 🏰 Heritage of the Frisian Peasant Republics <i>(Friese Vrijheid / Fryske Frijheid)</i>
+
+
 <b>🎊 Authentic holidays & celebrations:</b>
 - King's Day <i>(Koningsdag)</i>. Month: April
 - Sinterklaas Feast <i>(Sinterklaas)</i>. Month: December<br>

@@ -143,13 +143,14 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - 🎑 Slava Celebration Ritual <i>(Српска Слава)</i>
 - 💃 Serbian Kolo Dance <i>(Коло)</i>
 - 🪕 Authentic Musical Instrument: Gusle <i>(Гусле)</i>
-- 👘 Authentic Garb: Šajkača & Opanci <i>(Шајкача и Опанци)</i> 
+- 👘 Authentic Garb: Šajkača & Opanci <i>(Шајкача и Опанци)</i>
 - 🏰 Heritage of the Grand Principality of Serbia <i>(Великожупанска Србија)</i>
 - 🏰 Heritage of the Kingdom of Serbia <i>(Средњовековна Краљевина Србија)</i>
   - 🐦‍🔥 Serbian Epic Poetry <i>(Српске Епске Народне Песме)</i>
   - 👑 System of Zadrugas <i>(Задруге)</i>
   - 🏛️ Raška Architectural Style <i>(Рашки Стил)</i>
 - 🏰 Heritage of the Serbian Empire <i>(Српско Царство)</i>
+- 🏰 Heritage of the Serbian Despotate <i>(Српска Деспотовина)</i>
 - 🏰 Heritage of the Principality of Serbia <i>(Књажество Србија)</i>
 - 🏰 Heritage of Yugoslavia <i>(Југославија / Jugoslavija)</i><br>
 <u>Vojvodina - Regional Special:</u> 

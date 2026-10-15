@@ -251,17 +251,23 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🧝 Legacy of Thuringians <i>(Thüringer)</i>
 - 🧝 Legacy of Suebi <i>(Sueben)</i>
 - 🏰 Heritage of the Holy Roman Empire <i>(Heiliges Römisches Reich / Sacrum Imperium Romanum)</i>
-- 🏰 Heritage of Prussia <i>(Preußen / Prūsija)</i>
+- 🏰 Heritage of the Kingdom of Prussia <i>(Königreich Preußen)</i>
+- 🏰 Heritage of the German Confederation <i>(Deutscher Bund)</i>
+- 🏰 Heritage of the North German Confederation <i>(Norddeutscher Bund)</i>
 - 🏰 Heritage of the German Empire <i>(Deutsches Kaiserreich)</i>
 - 🏰 Heritage of the Weimar Republic <i>(Weimarer Republik)</i>
 <br>
 <u>Hessen - Regional Special:</u>
 - 👑 Title of German Wine Queen <i>(Deutsche Weinkönigin)</i> 
 - 💃 Schwälmer Dance <i>(Schwälmer Tanz)</i>
-- 👘 Authentic Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i><br>
+- 👘 Authentic Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i>
+- 🏰 Heritage of the Grand Duchy of Hesse <i>(Großherzogtum Hessen und bei Rhein)</i>
+<br>
 <u>Rhineland-Palatinate - Regional Special:</u>
 - 🛠️ Westerwald Pottery Tradition <i>(Westerwälder Steinzeug)</i>
-- 👘 Authentic Garb: Tugendpfeil <i>(Tugendpfeil)</i><br>
+- 👘 Authentic Garb: Tugendpfeil <i>(Tugendpfeil)</i>
+- 🏰 Heritage of the Electorate of the Palatinate <i>(Kurfürstentum Pfalz)</i>
+<br>
 <u>Bavaria - Regional Special:</u>
 - 👲 Culture of Bavarians <i>(Bayern / Boarn)</i>
   - 🐦‍🔥 Bavarian Folklore <i>(Bayerische Folklore / Bairische Volkskultur)</i>
@@ -274,7 +280,8 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
   - 👘 Authentic Garb: Lederhosen & Dirndl <i>(Lederhose und Dirndl / Lederhosn un Diandl)</i>
 - 🧝 Legacy of Baiuvarii <i>(Bajuwaren / Bajuwarn)</i>
 - 🏰 Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Ducatus Bavariae)</i>
-- 🏰 Heritage of the Kingdom of Bavaria <i>(Königreich Baiern / Kinereich Baiern)</i>
+- 🏰 Heritage of the Electorate of Bavaria <i>(Kurfürstentum Bayern / Kuafiaschtndum Bayern)</i>
+- 🏰 Heritage of the Kingdom of Bavaria <i>(Königreich Bayern / Kinereich Bayern)</i>
 
 
 

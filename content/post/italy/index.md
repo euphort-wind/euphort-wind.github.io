@@ -376,7 +376,10 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🛠️ Ancient Roman Sculptural Tradition <i>(Scultura Romana Antica)</i>
   - 🎑 Taurobolium Ritual <i>(Taurobolium)</i>
   - 👘 Authentic Garb: Dalmatic & Paenula <i>(Dalmatica e Paenula)</i>
-- 🏰 Heritage of the Kingdom of Italy <i>(Regno d'Italia)</i><br>
+- 🏰 Heritage of the Ostrogothic Kingdom <i>(Regno Ostrogoto / 𐌿𐍃𐍄𐍂𐍉𐌲𐍉𐍄𐌹𐍃𐌺 𐌺𐌹𐌽𐌲𐌳𐍉𐌼)</i>
+- 🏰 Heritage of the Lombard Kingdom <i>(Regno Longobardo / Regnum Langobardorum)</i>
+- 🏰 Heritage of the Kingdom of Italy <i>(Regno d'Italia)</i>
+<br>
 <u>Lazio - Regional Special:</u> 
 - 🏺 Nasoni <i>(Nasoni)</i><br> 
 <u>Tuscany - Regional Special:</u>
@@ -390,6 +393,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🏛️ Etruscan Architectural Style <i>(Architettura Etrusca / 𐌂𐌄𐙙𐌀)</i> 
   - 🛠️ Bucchero Pottery Tradition <i>(Bucchero / 𐌂𐌓𐌀𐌐𐌉)</i> 
 - 🏰 Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
+- 🏰 Heritage of the Republic of Pisa <i>(Repubblica di Pisa / Res Publica Pisana)</i>
 - 🏰 Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i><br> 
 <u>Emilia-Romagna - Regional Special:</u>  
 - 🛖 Porticoes of Bologna <i>(Portici di Bologna)</i>
@@ -416,8 +420,10 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🏓 Tombola Game <i>(Tombola / Tombola)</i> 
 - 🎑 Caffè Sospeso Ritual <i>(Caffè Sospeso / Cafè Suspiso)</i> 
 - 🎭 Neapolitan Puppetry <i>(Guarattelle Napoletane / Guarattelle Napulitane)</i>
-- 🎙️ Canzone Napoletana Music <i>(Canzone Napoletana / Canzona Napulitana)</i> 
-- 🏰 Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i><br> 
+- 🎙️ Canzone Napoletana Music <i>(Canzone Napoletana / Canzona Napulitana)</i>
+- 🏰 Heritage of the Principality of Salerno <i>(Principato di Salerno / Principato 'e Salierno)</i> 
+- 🏰 Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i>
+- 🏰 Heritage of the Kingdom of the Two Sicilies <i>(Regno delle Due Sicilie / Regno d''e Ddoje Sicilie)</i><br> 
 <u>Lombardy - Regional Special:</u>
 - 🏺 Camunian Roses <i>(Rosa Camuna / Roeusa Camuna)</i> 
 - 💃 Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
