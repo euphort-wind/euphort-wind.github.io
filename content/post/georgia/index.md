@@ -168,8 +168,11 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
   - 🐦‍🔥 Legend of Amirani <i>(ამირანის ლეგენდა)</i>
   - 👑 Title of Eristavi <i>(ერისთავი)</i>
   - 🎭 Berikaoba Theater <i>(ბერიკაობა)</i>
+- 🏰 Heritage of the Kingdom of Abkhazia <i>(აფხაზთა სამეფო / Аԥсуа Аҳра)</i>
+- 🏰 Heritage of the Kingdom of the Iberians <i>(ქართველთა სამეფო)</i>
 - 🏰 Heritage of the Kingdom of Georgia <i>(საქართველოს სამეფო)</i>
-- 🏰 Heritage of the Kingdom of Imereti <i>(იმერეთის სამეფო)</i><br>
+- 🏰 Heritage of the Kingdom of Kartli-Kakheti <i>(ქართლ-კახეთის სამეფო)</i>
+<br>
 <u>Mtskheta-Mtianeti - Regional Special:</u> 
 - 🏰 Heritage of the Kingdom of Kartli <i>(ქართლის სამეფო)</i><br>
 <u>Kakheti - Regional Special:</u> 

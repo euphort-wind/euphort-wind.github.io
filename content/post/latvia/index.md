@@ -108,7 +108,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 - 🧝 Legacy of Ancient Latgalians <i>(Latgaļi)</i> 
 - 🏰 Heritage of the Livonian Confederation <i>(Livonijas Konfederācija / Terra Mariana)</i><br>
 <u>Riga - Regional Special:</u> 
-- 🏛️ Riga Art Nouveau Architectural Style <i>(Jūgendstila Arhitektūra Rīgā)</i><br>
+- 🏰 Heritage of the Free City of Riga <i>(Rīgas Brīvpilsēta / Freie Stadt Riga)</i><br>
 <u>Kurzeme - Regional Special:</u> 
 - 👲 Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
 
