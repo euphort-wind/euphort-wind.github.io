@@ -138,7 +138,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - 🍰 Güllaç <i>(Güllaç)</i>
 - 🍰 Kazandibi <i>(Kazandibi)</i>
 - 🍰 Sekerpare <i>(Şekerpare)</i>
-- 🍰 Turkish Ice-cream <i>(Dondurma)</i>
+- 🍰 Turkish Ice-Cream <i>(Dondurma)</i>
 - 🍰 Bici Bici <i>(Bici Bici)</i>
 - 🧀 Beyaz Peynir <i>(Beyaz Peynir)</i>
 - 🧀 Çökelek <i>(Çökelek)</i>
