@@ -79,7 +79,6 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 5. Selçuk
     - Ephesus Ancient City <i>(Efes)</i>    
 6. Pamukkale
-    - Travertines of Pamukkale <i>(Pamukkale Travertenleri)</i>
     - Hierapolis Ancient City <i>(Hierapolis)</i>
 7. Demre
     - Myra Ancient City <i>(Myra)</i>
@@ -152,15 +151,18 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - 🍶 Ayran Drink <i>(Ayran)</i>
 - 🍶 Turkish Raki <i>(Brand: "Yeni Rakı")</i>
 </br>
-<u>İstanbul - Regional Special:</u>
-- 🥙 Balık Ekmek <i>(Balık Ekmek)</i>
-- 🥘 Arnavut Ciğeri <i>(Arnavut Ciğeri)</i>
-</br>
 <u>Antalya - Regional Special:</u> 
 - 🥘 Shish Kofta <i>(Şiş Köfte)</i>
 </br>
 <u>Muğla - Regional Special:</u> 
-- 🥘 Çökertme Kebabı <i>(Çökertme Kebabı)</i>
+- 🥘 Çökertme Kebab <i>(Çökertme Kebabı)</i>
+</br>
+<u>Denizli - Regional Special:</u> 
+- 🥘 Denizli Kebab <i>(Denizli Kebabı)</i>
+</br>
+<u>İstanbul - Regional Special:</u>
+- 🥙 Balık Ekmek <i>(Balık Ekmek)</i>
+- 🥘 Arnavut Ciğeri <i>(Arnavut Ciğeri)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -186,7 +188,6 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - 🧝 Legacy of Phrygians <i>(Frigler)</i>
 - 🏰 Heritage of the Hittite Empire <i>(Hititler / 𒄩𒀜𒌅𒊭)</i>
 - 🏰 Heritage of the Kingdom of Lydia <i>(Lidya / 𐤮𐤱𐤠𐤭𐤣𐤠)</i>
-- 🏰 Heritage of the Kingdom of Pontus <i>(Pontus Krallığı / Πόντος)</i>
 - 🏰 Heritage of the Seljuk Sultanate of Rum <i>(Anadolu Selçukluları / سلجوقیان روم)</i>
 - 🏰 Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i>
   - 🦉 Authentic Concept: Circle of Justice <i>(Adalet Çemberi / دائرۀ عدالت)</i>
@@ -202,11 +203,19 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
   - 👘 Authentic Garb: Fez & Kaftan <i>(Fes ve Kaftan / قفتان و فَس)</i>
 - ⛰️ Turkish Hoodoos <i>(Peribacası)</i><br>
 <u>Antalya - Regional Special:</u> 
-- 🛖 Düğmeli Houses <i>(Düğmeli Evler)</i><br>
+- 🛖 Düğmeli Houses <i>(Düğmeli Evler)</i>
+- 🏰 Heritage of the Beylik of Teke <i>(Tekeoğulları Beyliği / تكه‌اوغللری بگی‌لکی)</i><br>
 <u>Muğla - Regional Special:</u> 
-- 🧝 Legacy of Lycians <i>(Likyalılar / 𐊗𐊕𐊐𐊎𐊆𐊍𐊆)</i><br>
+- 🧝 Legacy of Carians <i>(Karlar / 𐊼𐊥𐊼𐊠)</i>
+- 🧝 Legacy of Lycians <i>(Likyalılar / 𐊗𐊕𐊐𐊎𐊆𐊍𐊆)</i>
+- 🏰 Heritage of the Beylik of Menteşe <i>(Menteşe Beyliği / منتثه بگی‌لکی)</i><br>
+<u>Denizli - Regional Special:</u> 
+- 🏰 Heritage of the Beylik of Lâdik <i>(Inançoğulları Beyliği / لادق بگی‌لکی)</i>
+- ⛰️ Pamukkale Travertines <i>(Pamukkale Travertenleri)</i><br>
 <u>İstanbul - Regional Special:</u> 
 - 🛖 Yalı Houses <i>(Yalılar)</i>
+- 🏰 Heritage of the Latin Empire <i>(Latin İmparatorluğu / Imperium Constantinopolitanum)</i><br>
+
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
