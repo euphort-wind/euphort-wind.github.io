@@ -139,6 +139,9 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 - 🍶 Armenian Brandy <i>(Brands: "Noy", "Ararat")</i>
 - 🍶 Mulberry Vodka <i>(Brands: "Stone Land")</i>
 </br>
+<u>Shirak - Regional Special:</u> 
+- 🥘 Qyalla <i>(Քյալլա)</i>
+</br>
 <u>Syunik - Regional Special:</u> 
 - 🥙 Zhingyalov Hats <i>(Ժենգյալով հաց)</i>
 </br>
@@ -149,9 +152,8 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 <u>Tavush - Regional Special:</u>
 - 🍲 Konchol <i>(Կոնչոլ)</i> 
 - 🥘 Kchuch <i>(կճուճ)</i>
-</br>
-<u>Shirak - Regional Special:</u> 
-- 🥘 Qyalla <i>(Քյալլա)</i>
+
+
 
 
 <b>🎬 Local movies:</b>
@@ -190,11 +192,18 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
   - 🏛️ Urartian Architectural Style <i>(Ուրարտուի ճարտարապետությունը / 𒂍)</i>
   - 🛠️ Urartian Pottery Tradition <i>(Ուրարտական ​​խեցեղեն / 𒀀𒈠𒉌)</i>
 - 🏰 Heritage of the Kingdom of Greater Armenia <i>(Մեծ Հայք / Βασίλειον τῆς Ἀρμενίας)</i>
-- 🏰 Heritage of Bagratid Armenia <i>(Բագրատունիների թագավորություն)</i>
+- 🏰 Heritage of the Bagratid Armenian Kingdom <i>(Բագրատունիների թագավորություն)</i>
 <br>
 <u>Shirak - Regional Special:</u> 
 - 🏺 Gyumri Klklans <i>(Գյումրվա կլկլան)</i>
 - 🛠️ Gyumri Blacksmithing Tradition <i>(Գյումրիի դարբնության ավանդույթ)</i>
+<br>
+<u>Syunik - Regional Special:</u> 
+- 🏰 Heritage of the Kingdom of Syunik <i>(Սյունիքի թագաորություն)</i>
+- 🏰 Heritage of the Republic of Mountainous Armenia <i>(Լեռնահայաստանի Հանրապետութիւն)</i>
+<br>
+<u>Tavush - Regional Special:</u> 
+- 🏰 Heritage of the Kingdom of Tashir-Dzoraget <i>(Տաշիր-Ձորագետի Թագավորություն)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

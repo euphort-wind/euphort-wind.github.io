@@ -165,6 +165,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🏰 Heritage of the Principality of Bulgaria <i>(Княжество България)</i>
 - 🏰 Heritage of the Kingdom of Bulgaria <i>(Царство България)</i><br>
 <u>Varna - Regional Special:</u> 
+- 🏰 Heritage of the Despotate of Dobruja <i>(Добруджанско Деспотство)</i>
 - ⛰️ Pobiti Kamani <i>(Побити Камъни)</i> 
 
 
