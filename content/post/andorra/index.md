@@ -102,7 +102,7 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
 - 💃 Marratxa Dance <i>(Marratxa)</i>
 - 💃 Contrapàs Dance <i>(Contrapàs)</i>
 - 🪕 Authentic Musical Instrument: Sac de Gemecs <i>(Buna)</i>
-- 🏰 Heritage of the Marca Hispanica <i>(Marca Hispànica / Marca Hispanica)</i>
+- 🏰 Heritage of the Hispanic March <i>(Marca Hispànica)</i>
 
 
 

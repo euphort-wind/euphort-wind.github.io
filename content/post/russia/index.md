@@ -355,7 +355,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🐦‍🔥 Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
     - 🏺 Balkar Bychak Knives <i>(Бичаки / Бычакы)</i>
     - 🎨 Balkar Ala-Kiyiz Carpets <i>(Балкарский Войлок / Кийизы)</i>
-- 🏰 Heritage of Princedom of Kabardia <i>(Кабарда / Къэбэрдей Пщыгъуэ)</i><br>
+- 🏰 Heritage of the Princedom of Kabardia <i>(Кабарда / Къэбэрдей Пщыгъуэ)</i><br>
 <u>Karachay-Cherkessia - Regional Special:</u> 
 - 👲 Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
     - 🦉 Authentic Concept: Circassian Xabze <i>(Хабза / Адыгэ Хабзэ)</i>

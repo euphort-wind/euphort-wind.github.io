@@ -51,7 +51,7 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
     - High Place of Sacrifice <i>(<bdi style="direction: rtl;">مذبح القرابين</bdi>)</i>
     - Little Petra <i>(<bdi style="direction: rtl;">السيق البارد</bdi>)</i>
 2. Aqaba
-    - Aqaba Flagpole <i>(<bdi style="direction: rtl;">سارية الثورة العربية الكبرى</bdi>)</i>
+    - Aqaba Flagpole <i>(<bdi style="direction: rtl;">سارية عقبة</bdi>)</i>
     - Aqaba Marine Reserve <i>(<bdi style="direction: rtl;">محمية العقبة البحرية</bdi>)</i>
     - Al-Sharif Al-Hussein Bin Ali Mosque <i>(<bdi style="direction: rtl;">مسجد الشريف الحسين بن علي</bdi>)</i>
     - Aqaba Castle <i>(<bdi style="direction: rtl;">قلعة العقبة</bdi>)</i> 
