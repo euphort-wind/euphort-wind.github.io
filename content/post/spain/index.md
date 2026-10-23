@@ -21,7 +21,7 @@ gallery_item:
     caption: Málaga Cathedral
   - album: spain
     image: 6a.jpg
-    caption: Front Facade of the Montserrat Monastery
+    caption: Montserrat Monastery
   - album: spain
     image: 5mons.jpg
     caption: Santa Maria de Montserrat Abbey
