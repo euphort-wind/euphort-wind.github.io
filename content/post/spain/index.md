@@ -11,19 +11,19 @@ gallery_item:
     image: 6blinea.jpeg
     caption: Museo Cruz Herrera in La Línea
   - album: spain
-    image: 3wow.jpg
+    image: 2wow.jpg
     caption: Basílica de la Sagrada Familia
   - album: spain
-    image: 4amal.jpeg
+    image: 4aamal.jpeg
     caption: Málaga
   - album: spain
     image: 4acath.jpeg
     caption: Málaga Cathedral
   - album: spain
-    image: 6a.jpg
+    image: 3xa.jpg
     caption: Montserrat Monastery
   - album: spain
-    image: 5mons.jpg
+    image: 3xmons.jpg
     caption: Santa Maria de Montserrat Abbey
   - album: spain
     image: 6paella.jpg
