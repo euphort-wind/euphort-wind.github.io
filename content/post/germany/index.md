@@ -119,6 +119,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇩🇪 Orange Sector (band). Genre: electronic body music
 - 🇺🇳 Scorpions (band). Genre: hard rock
 - 🇺🇳 Modern Talking (duo). Genre: europop
+- 🇺🇳 Roger Shah (DJ). Genre: balearic trance
 - 🇺🇳 Scooter (band). Genre: happy hardcore
 - 🇺🇳 ATB (DJ). Genre: progressive house
 - 🇺🇳 Paul van Dyk (DJ). Genre: progressive trance
