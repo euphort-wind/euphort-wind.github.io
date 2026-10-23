@@ -8,7 +8,7 @@ gallery_item:
     image: 1barcelona.jpg
     caption: Barcelona
   - album: spain
-    image: 6blinea.jpg
+    image: 6blinea.jpeg
     caption: Museo Cruz Herrera in La Línea
   - album: spain
     image: 3wow.jpg
@@ -17,7 +17,7 @@ gallery_item:
     image: 4amal.jpeg
     caption: Málaga
   - album: spain
-    image: 3acath.jpeg
+    image: 4acath.jpeg
     caption: Málaga Cathedral
   - album: spain
     image: 6a.jpg
