@@ -51,7 +51,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
     - Santa Maria del Mar <i>(Basílica de Santa María del Mar)</i>
     - Barcelona Cathedral <i>(Catedral de la Santa Cruz y Santa Eulalia)</i>
     - Gothic Quarter <i>(Barri Gòtic)</i>
-    - Roman walls of Barcelona <i>(Muralla Romana de Barcelona)</i>
+    - Roman Walls of Barcelona <i>(Muralla Romana de Barcelona)</i>
 2. Salou
     - PortAventura <i>(PortAventura)</i>
     - Font Lluminosa <i>(Fuente Luminosa)</i>
@@ -62,7 +62,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
     - Masia Catalana <i>(Masia Catalana)</i>
 3. Monistrol de Montserrat
     - Montserrat Mountain Natural Park <i>(Parque Natural de la Montaña de Montserrat)</i>
-    - Basilica of Montserrat <i>(La basílica de Montserrat)</i>
+    - Basilica of Montserrat <i>(La Basílica de Montserrat)</i>
     - Museum of Montserrat <i>(Museo de Montserrat)</i>
     - Our Lady of Montserrat <i>(Nuestra Señora de Montserrat)</i>
     - Aeri de Montserrat <i>(Aeri de Montserrat)</i>
@@ -83,7 +83,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
     - Museo Picasso Málaga <i>(Museo Picasso Málaga)</i>
     - Málaga Roman Theatre <i>(Teatro Romano de Málaga)</i>
     - Málaga City Hall <i>(Casa Consistorial de Málaga)</i>
-    - La Malagueta <i>(Plaza de toros de La Malagueta)</i>
+    - La Malagueta <i>(Plaza de Toros de La Malagueta)</i>
     - Plaza de la Constitución <i>(Plaza de la Constitución)</i>
 {{< /spoiler >}}
 
