@@ -390,7 +390,6 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - 🏺 Gotland Picture Stones <i>(Bildstenar / ᛒᛁᛚᛞᚨᛋᛏᚨᛁᚾᚨᛉ)</i>
     - 🏓 Pärk Game <i>(Pärk / ᛈᚨᚱᚲ)</i>
     - 🏓 Varpa Game <i>(Varpa / ᚹᚨᚱᛈᚨ)</i>
-🏰 Heritage of the  <i>(Sverige-Norge / Norig-Sverike)</i>
 - ⛰️ Rauk Landforms <i>(Raukar)</i>
 <br>
 <u>Jämtland - Regional Special:</u> 
