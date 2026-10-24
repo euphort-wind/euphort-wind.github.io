@@ -84,7 +84,7 @@ Hej! I'm sharing a glimpse of my experience visiting bustling Gibraltar. I was t
 - 👑 Title of Governor
 - 🏺 Batteries of Gibraltar
 - 🎑 Ceremony of the Keys Ritual
-- 🏰 Heritage of the Marquisate of Gibraltar (Marquesado de Gibraltar)
+- 🏰 Heritage of the Marquisate of Gibraltar <i>(Marquesado de Gibraltar)</i>
 - ⛰️ Tunnels of Gibraltar
 
 
