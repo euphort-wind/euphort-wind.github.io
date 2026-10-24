@@ -1,6 +1,6 @@
 ---
 title: 🇬🇮 Gibraltar
-date: '2026-10-04'
+date: '2026-10-02'
 summary: Trip to Gibraltar
 
 gallery_item:
