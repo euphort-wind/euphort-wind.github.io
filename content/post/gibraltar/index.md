@@ -26,7 +26,7 @@ gallery_item:
     image: 7palace.jpeg
     caption: The Convent of Gibraltar
   - album: gibraltar
-    image: 6food.jpeg
+    image: 8food.jpeg
     caption: Gibraltarian Japonesa, Torta de Acelga and Calentita
 ---
 Hej! I'm sharing a glimpse of my experience visiting bustling Gibraltar. I was there in 2026. Below are some notes on what I tasted, saw and listened to.
