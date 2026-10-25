@@ -144,7 +144,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - 👘 Authentic Garb: Czech Kroj <i>(Kroje)</i>
 - 🏰 Heritage of the Samo's Realm <i>(Sámova Říše)</i>
 - 🏰 Heritage of Great Moravia <i>(Velkomoravská Říše / Ⰿⱁⱃⰰⰲⰰ)</i>
-  - 🏺 Great Moravian Axe-shaped Bars <i>(Moravské Sekerovité Hřivny / ⰳⱃⰻⰲⱐⰐⱏⰹ)</i>
+  - 🏺 Great Moravian Axe-Shaped Bars <i>(Moravské Sekerovité Hřivny / ⰳⱃⰻⰲⱐⰐⱏⰹ)</i>
   - 🏛️ Great Moravian Sacral Architectural Style <i>(Velkomoravská Sakrální Architektura / ⱈⱃⰰⰿⱏ)</i>
   - 👘 Authentic Garb: Gombíky <i>(Gombíky / ⰳⱁⰿⰱⰹⰽⱏ)</i>
 - 🏰 Heritage of the Duchy of Bohemia <i>(České Knížectví / Ducatus Bohemiæ)</i>
