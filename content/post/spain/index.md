@@ -197,7 +197,6 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 
 <b>🪔 Authentic features:</b>
 - 🦉 Authentic Concept: Hispanidad <i>(Hispanidad)</i>
-- 🦉 Authentic Concept: Duende <i>(Duende)</i>
 - 🐦‍🔥 Spanish Folklore <i>(Folclore de España)</i>
 - 🏺 Botijos <i>(Botijos)</i>
 - 🏺 Bota Bags <i>(Botas de Vino)</i>
@@ -206,9 +205,9 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🛖 Chiringuito Bars <i>(Chiringuitos)</i>
 - 🏛️ Plateresque Architectural Style <i>(Arquitectura Plateresca)</i>
 - 🏛️ Herrerian Architectural Style <i>(Arquitectura Herreriana)</i>
-- 🏛️ Mudéjar Architectural Style <i>(Arte Mudéjar)</i>
+- 🏛️ Mudéjar Architectural Style <i>(Arquitectura Mudéjar)</i>
 - 🏛️ Churrigueresque Architectural Style <i>(Arquitectura Churrigueresca)</i>
-- 🛠️ Talavera de la Reina Pottery Tradition <i>(Cerámica de Talavera)</i>
+- 🛠️ Talavera Pottery Tradition <i>(Cerámica de Talavera)</i>
 - 🏓 Parchís Game <i>(Parchís)</i>
 - 🏃🏻 Spanish Bullfighting Tradition <i>(Corrida de Toros)</i>
 - 🎑 Siesta Ritual <i>(Siesta)</i>
