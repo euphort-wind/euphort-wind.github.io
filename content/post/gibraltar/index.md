@@ -82,7 +82,7 @@ Hej! I'm sharing a glimpse of my experience visiting bustling Gibraltar. I was t
 - 🐦‍🔥 Gibraltarian Folklore
 - 🐦‍🔥 Legend of the Barbary Macaques
 - 👑 Title of Governor
-- 🏺 Batteries of Gibraltar
+- 🛖 Historic Batteries of Gibraltar
 - 🎑 Ceremony of the Keys Ritual
 - 🏰 Heritage of the Marquisate of Gibraltar <i>(Marquesado de Gibraltar)</i>
 - ⛰️ Tunnels of Gibraltar
