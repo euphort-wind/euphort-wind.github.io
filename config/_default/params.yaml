@@ -5,15 +5,12 @@
 
 # Appearance
 
-layout:
-    spacing: "compact"
-
 appearance:
   mode: dark
   #theme_day: minimal
   #theme_night: minimal
-  font: minimal
-  font_size: S
+  #font: minimal
+  #font_size: L
 
 # SEO
 
