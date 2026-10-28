@@ -32,31 +32,25 @@ gallery_item:
 ---
 
 <style>
-  /* 1. Prevent gallery images from stretching or cropping */
-.gallery img,
-.gallery-item img,
-.album img {
-  max-width: 100% !important;
-  height: auto !important;
-  object-fit: contain !important; /* Preserves natural image aspect ratio */
-  display: inline-block !important;
-}
+  /* 1. Reduce left and right whitespace / widen container */
+  .article-container,
+  .container {
+    padding-left: 1rem !important;  /* Reduces inner side padding */
+    padding-right: 1rem !important;
+  }
 
-/* 2. Control how large each gallery item card can be */
-.gallery-item,
-.album-item {
-  max-width: 220px !important; /* Adjust this to change thumbnail size */
-  margin: 0 auto !important;
-}
+  /* 2. Smaller font size and line height */
+  .article-style,
+  .article-style p,
+  .article-style li {
+    font-size: 0.9rem !important;
+    line-height: 1.5 !important;
+  }
 
-/* 3. Keep standard (non-gallery) inline blog photos centered & small */
-.article-style > img,
-.article-style > figure img {
-  max-width: 400px !important;
-  height: auto !important;
-  margin: 1.5rem auto !important;
-  display: block !important;
-}
+  /* 3. Scale down headings slightly to match */
+  .article-style h1 { font-size: 1.6rem !important; }
+  .article-style h2 { font-size: 1.35rem !important; }
+  .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
 

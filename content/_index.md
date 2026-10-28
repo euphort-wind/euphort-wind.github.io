@@ -235,30 +235,28 @@ sections:
       view: list
       columns: '2'
 
-  - block: markdown
-    id: posts
-    content:
-      title: Wanderlust
-      subtitle: ''
-      text: |2-
-        <div class="row">
-          <div class="col-md-6">
-            <h3>Europe</h3>
-            <ul>
-              <li><a href="/post/sweden/">🇸🇪 Sweden</a></li>
-              <li><a href="/post/norway/">🇳🇴 Norway</a></li>
-            </ul>
-          </div>
-          <div class="col-md-6">
-            <h3>Middle East & Africa</h3>
-            <ul>
-              <li><a href="/post/jordan/">🇯🇴 Jordan</a></li>
-              <li><a href="/post/egypt/">🇪🇬 Egypt</a></li>
-            </ul>
-          </div>
-        </div>
-    design:
-      columns: '1'
+#  - block: markdown
+#    id: posts
+#    content:
+#      title: Wanderlust
+#      text: |2-
+#        {{< row >}}
+#
+#        {{< col class="col-md-6" >}}
+#        ### Column 1
+#        * [🇸🇪 Sweden](/post/sweden/)
+#        * [🇳🇴 Norway](/post/norway/)
+#        {{< /col >}}
+#
+#        {{< col class="col-md-6" >}}
+#        ### Column 2
+#        * [🇯🇴 Jordan](/post/jordan/)
+#        * [🇪🇬 Egypt](/post/egypt/)
+#        {{< /col >}}
+#
+#        {{< /row >}}
+#    design:
+#      columns: '1'
   
   - block: contact
     id: contact

@@ -34,7 +34,6 @@ gallery_item:
   /* 1. Reduce left and right whitespace / widen container */
   .article-container,
   .container {
-    max-width: 1000px !important;  /* Increases content width (default is ~800px) */
     padding-left: 1rem !important;  /* Reduces inner side padding */
     padding-right: 1rem !important;
   }
@@ -52,7 +51,6 @@ gallery_item:
   .article-style h2 { font-size: 1.35rem !important; }
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
-
 Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was there in 2025. Below are some notes on what I tasted, saw and listened to.
 
 <b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
