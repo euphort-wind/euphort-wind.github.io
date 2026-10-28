@@ -207,33 +207,33 @@ sections:
     design:
       columns: '2'
       
-  - block: collection
-    id: posts
-    content:
-      title: Wanderlust
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: list
-      columns: '2'
+#  - block: collection
+#    id: posts
+#    content:
+#      title: Wanderlust
+#      subtitle: ''
+#      text: ''
+#      # Choose how many pages you would like to display (0 = all pages)
+#      count: 0
+#      # Filter on criteria
+#      filters:
+#        folders:
+#          - post
+#        author: ""
+#        category: ""
+#        tag: ""
+#        exclude_featured: false
+#        exclude_future: false
+#        exclude_past: false
+#        publication_type: ""
+#      # Choose how many pages you would like to offset by
+#      offset: 0
+#      # Page order: descending (desc) or ascending (asc) date.
+#      order: desc
+#    design:
+#      # Choose a layout view
+#      view: list
+#      columns: '2'
 
   - block: markdown
     id: posts
@@ -264,10 +264,28 @@ sections:
               <li><a href="/post/monaco/">🇲🇨 Monaco</a></li>
               <li><a href="/post/netherlands/">🇳🇱 Netherlands</a></li>
             </ul>
+            <h3>Eastern Europe</h3>
+            <ul>
+              <li><a href="/post/bulgaria/">🇧🇬 Bulgaria</a></li>
+              <li><a href="/post/czechia/">🇨🇿 Czechia</a></li>
+              <li><a href="/post/hungary/">🇭🇺 Hungary</a></li>
+              <li><a href="/post/poland/">🇵🇱 Poland</a></li>
+              <li><a href="/post/romania/">🇷🇴 Romania</a></li>
+              <li><a href="/post/russia/">🇷🇺 Russia</a></li>
+              <li><a href="/post/slovakia/">🇸🇰 Slovakia</a></li>
+            </ul>
+            <h3>Western Asia</h3>
+            <ul>
+              <li><a href="/post/armenia/">🇦🇲 Armenia</a></li>
+              <li><a href="/post/georgia/">🇬🇪 Georgia</a></li>
+              <li><a href="/post/cyprus/">🇨🇾 Cyprus</a></li>
+              <li><a href="/post/turkey/">🇹🇷 Türkiye</a></li>
+              <li><a href="/post/jordan/">🇯🇴 Jordan</a></li>
+            </ul>
           </div>
 
           <div class="col-md-6">
-            <h3>Western Europe</h3>
+            <h3>Southern Europe</h3>
             <ul>
             <li><a href="/post/albania/">🇦🇱 Albania</a></li>
             <li><a href="/post/andorra/">🇦🇩 Andorra</a></li>
@@ -285,6 +303,23 @@ sections:
             <li><a href="/post/serbia/">🇷🇸 Serbia</a></li>
             <li><a href="/post/slovenia/">🇸🇮 Slovenia</a></li>
             <li><a href="/post/spain/">🇪🇸 Spain</a></li>
+            </ul>
+            <h3>Central Asia</h3>
+            <ul>
+              <li><a href="/post/kazakhstan/">🇰🇿 Kazakhstan</a></li>
+              <li><a href="/post/kyrgyzstan/">🇰🇬 Kyrgyzstan</a></li>
+            </ul>
+            <h3>Northern Africa</h3>
+            <ul>
+              <li><a href="/post/egypt/">🇪🇬 Egypt</a></li>
+            </ul>
+            <h3>Southern Asia</h3>
+            <ul>
+              <li><a href="/post/india/">🇮🇳 India</a></li>
+            </ul>
+            <h3>South-Eastern Asia</h3>
+            <ul>
+              <li><a href="/post/thailand/">🇹🇭 Thailand</a></li>
             </ul>
           </div>
         </div>
