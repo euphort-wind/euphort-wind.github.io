@@ -126,8 +126,8 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Latvia. I was t
 - 👑 Title of Dižvadonis <i>(Dižvadonis)</i> 
 - 🏓 Novuss Game <i>(Novuss)</i>
 - 🎙️ Daina Music <i>(Dainas)</i> 
-- 🪕 Authentic Musical Instrument: Kokle <i>(Kokle)</i> 
-- 👘 Garb: Latvian Belt <i>(Lielvārdes Josta)</i> 
+- 🪕 Kokle <i>(Kokle)</i> 
+- 👘 Latvian Belt <i>(Lielvārdes Josta)</i> 
 - 🧝 Legacy of Ancient Latgalians <i>(Latgaļi)</i> 
 - 🏰 Heritage of the Livonian Confederation <i>(Livonijas Konfederācija / Terra Mariana)</i><br>
 <u>Kurzeme - Regional Special:</u> 

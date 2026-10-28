@@ -118,8 +118,8 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - 🎨 Jordanian Sand-Bottle Art <i>(<bdi style="direction: rtl;">فن الرمل في الزجاجات</bdi>)</i>
 - 🎑 Al-Mansaf Feast Ritual <i>(<bdi style="direction: rtl;">طقوس وليمة المنسف</bdi>)</i>
 - 💃 Dabke Dance <i>(<bdi style="direction: rtl;">دبكة</bdi>)</i>
-- 🪕 Authentic Musical Instrument: Mijwiz <i>(<bdi style="direction: rtl;">مجوز</bdi>)</i>
-- 👘 Garb: Dishdashah & Shemagh <i>(<bdi style="direction: rtl;">الدشداشة والشماغ</bdi>)</i>
+- 🪕 Mijwiz <i>(<bdi style="direction: rtl;">مجوز</bdi>)</i>
+- 👘 Dishdashah & Shemagh <i>(<bdi style="direction: rtl;">الدشداشة والشماغ</bdi>)</i>
 - 👲 Culture of Bedouins <i>(<bdi style="direction: rtl;">البدو</bdi>)</i>
   - 🦉 Concept: Sharaf <i>(<bdi style="direction: rtl;">شرف</bdi>)</i> 
   - 🦉 Concept: Ird <i>(<bdi style="direction: rtl;">عرض</bdi>)</i>

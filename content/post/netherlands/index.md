@@ -225,8 +225,8 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 - 🛖 Dutch Windmills <i>(Windmolens)</i>
 - 🏃🏻 Cycling Tradition <i>(Het Fietsen)</i>
 - 🏓 Sjoelen Game <i>(Sjoelen)</i>
-- 🪕 Authentic Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
-- 👘 Garb: Dutch Cap & Klomps <i>(Nederlandse Hul en Klompen)</i>
+- 🪕 Dutch Barrel Organ <i>(Draaiorgel)</i> 
+- 👘 Dutch Cap & Klomps <i>(Nederlandse Hul en Klompen)</i>
 - 🏰 Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
   - 🐦‍🔥 Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
   - 👑 Title of Stadtholder <i>(Stadhouder)</i>
@@ -253,7 +253,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
   - 🏃🏻 Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
   - 🏃🏻 Fierljeppen Tradition <i>(Polsstokverspringen / Fierljeppen)</i> 
   - 🏃🏻 Frisian Handball Tradition <i>(Kaatsen / Keatsen)</i> 
-  - 👘 Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
+  - 👘 Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
 - 🏰 Heritage of the Frisian Peasant Republics <i>(Friese Vrijheid / Fryske Frijheid)</i>
 
 

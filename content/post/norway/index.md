@@ -178,8 +178,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - 🎨 Norwegian Rose-Painting <i>(Rosemaling)</i>
 - 🏃🏻 Nordic Skiing Tradition <i>(Langrenn)</i>
 - 🏓 Basse Game <i>(Basse)</i>
-- 🪕 Authentic Musical Instrument: Hardanger Fiddle <i>(Hardingfele)</i>
-- 👘 Garb: Bunad <i>(Bunad)</i>
+- 🪕 Hardanger Fiddle <i>(Hardingfele)</i>
+- 👘 Bunad <i>(Bunad)</i>
 - 🧝 Legacy of Norsemen <i>(Nordboere / ᚾᚢᚱᚦᛒᚢᛅᚱ)</i>
   - 🕯️ Norse Paganism <i>(Norrøn Religion / ᚾᚢᚱᚢᛅᚾ ᛋᛁᚦᛦ)</i>
   - 📜 Younger Futhark Runic Alphabet <i>(Den Yngre Futharken / ᚠᚢᚦᚬᚱᚴ)</i>

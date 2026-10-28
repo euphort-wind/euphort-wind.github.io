@@ -149,8 +149,8 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - 🎨 Ryijy Tapestry <i>(Ryijy)</i>
 - 🏓 Kyykkä Game <i>(Kyykkä)</i>
 - 🎙️ Finnish Runic Singing <i>(Runolaulu)</i>
-- 🪕 Authentic Musical Instrument: Kantele <i>(Kantele)</i>
-- 👘 Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
+- 🪕 Kantele <i>(Kantele)</i>
+- 👘 Kansallispuku <i>(Suomalainen Kansallispuku)</i>
 - 👲 Culture of Sámi <i>(Saamelaiset / Sámit)</i>
   - 🕯️ Sámi Shamanism <i>(Saamelainen Muinaisusko / Sámi Osku)</i>
   - 👑 System of Siida <i>(Lapinkylä / Siida)</i>
@@ -159,8 +159,8 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
   - 🏓 Sáhkku Game <i>(Sáhkku / Sáhkku)</i>
   - 🏓 Dablo Game <i>(Dablo / Daablodh Prejjesne)</i>
   - 🎙️ Joik Singing <i>(Joiku / Luohti)</i>
-  - 🪕 Authentic Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
-  - 👘 Garb: Beaska & Four Winds Hat <i>(Beaska ja Neljäntuulenlakki / Muoddá ja Čiehgahpir)</i>
+  - 🪕 Fadno <i>(Fadno / Fadno)</i>
+  - 👘 Beaska & Four Winds Hat <i>(Beaska ja Neljäntuulenlakki / Muoddá ja Čiehgahpir)</i>
 - ⛰️ Salpausselkä <i>(Salpausselkä)</i>
 
 

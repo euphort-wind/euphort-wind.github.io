@@ -365,7 +365,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🏓 Pallone Game <i>(Pallone)</i>
 - 🏓 Ruzzola Game <i>(Ruzzola)</i>
 - 💃 Tarantella Dance <i>(Tarantella)</i> 
-- 🪕 Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
+- 🪕 Mandolin <i>(Mandolino)</i>
 - 🏰 Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
   - 🦉 Concept: Mos Maiorum <i>(Mos Maiorum)</i>
   - 🕯️ Ancient Roman Religion <i>(Religione Romana Antica)</i>
@@ -384,8 +384,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🏓 Harpastum Game <i>(Harpastum)</i> 
   - 🏓 Trigon Game <i>(Trigon)</i>
   - 🎑 Argei Ritual <i>(Argei)</i>
-  - 🪕 Authentic Musical Instrument: Cornu <i>(Cornu)</i>
-  - 👘 Garb: Toga & Palla <i>(Toga e Palla)</i> 
+  - 🪕 Cornu <i>(Cornu)</i>
+  - 👘 Toga & Palla <i>(Toga e Palla)</i> 
 - 🏰 Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
   - 🦉 Concept: Roman Imperial Cult <i>(Cultus Imperatorius)</i>
   - 🕯️ Mithraism <i>(Cultus Mithrae)</i>
@@ -397,7 +397,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🏛️ Ancient Roman Architectural Style <i>(Architettura Romana Antica)</i>
   - 🛠️ Ancient Roman Sculptural Tradition <i>(Scultura Romana Antica)</i>
   - 🎑 Taurobolium Ritual <i>(Taurobolium)</i>
-  - 👘 Garb: Dalmatic & Paenula <i>(Dalmatica e Paenula)</i>
+  - 👘 Dalmatic & Paenula <i>(Dalmatica e Paenula)</i>
 - 🏰 Heritage of the Ostrogothic Kingdom <i>(Regno Ostrogoto / 𐌿𐍃𐍄𐍂𐍉𐌲𐍉𐍄𐌹𐍃𐌺 𐌺𐌹𐌽𐌲𐌳𐍉𐌼)</i>
 - 🏰 Heritage of the Lombard Kingdom <i>(Regno Longobardo / Regnum Langobardorum)</i>
 - 🏰 Heritage of the Kingdom of Italy <i>(Regno d'Italia)</i>
@@ -431,7 +431,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🏛️ Sicilian Baroque Architectural Style <i>(Barocco Siciliano / Baroccu Sicilianu)</i>
   - 🎨 Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
   - 🎭 Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
-  - 🪕 Authentic Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
+  - 🪕 Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
 - 🏰 Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i><br> 
 <u>Campania - Regional Special:</u> 
 - 🏺 Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 

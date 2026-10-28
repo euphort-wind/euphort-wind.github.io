@@ -138,8 +138,8 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Slovakia. I was 
 - 🛠️ Slovak Wire Crafting Tradition <i>(Drotárstvo)</i>
 - 🎨 Modrotlač Indigo Dyeing <i>(Modrotlač)</i>
 - 💃 Odzemek Dance <i>(Odzemek)</i>
-- 🪕 Authentic Musical Instrument: Fujara <i>(Fujara)</i>
-- 👘 Garb: Slovak Kroj <i>(Slovenský Kroj)</i>
+- 🪕 Fujara <i>(Fujara)</i>
+- 👘 Slovak Kroj <i>(Slovenský Kroj)</i>
 - 👲 Culture of Rusyns <i>(Rusíni / Русины)</i>
 - 🏰 Heritage of the Principality of Nitra <i>(Nitrianske Kniežatstvo)</i><br>
 <u>Banská Bystrica - Regional Special:</u> 

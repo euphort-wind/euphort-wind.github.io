@@ -145,7 +145,7 @@ Hej! I'm sharing a glimpse of my experience visiting unique Montenegro. I was th
 - 👑 System of Katuns <i>(Катуни)</i>
 - 🎨 Bihor Carpets <i>(Бихорски Ћилими)</i> 
 - 💃 Montenegrin Oro Dance <i>(Црногорско Оро)</i>
-- 👘 Garb: Montenegrin Cap <i>(Црногорска Капа)</i>
+- 👘 Montenegrin Cap <i>(Црногорска Капа)</i>
 - 🏰 Heritage of the Kingdom of Duklja <i>(Дукља / Διόκλεια)</i>
 - 🏰 Heritage of the Kingdom of Zeta <i>(Зета)</i>
 - 🏰 Heritage of the Prince-Bishopric of Montenegro <i>(Митрополство Црногорско)</i>

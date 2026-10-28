@@ -159,8 +159,8 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - 🎨 Sicanje Tattooing <i>(Sicanje)</i>
 - 🎨 Croatian Lace <i>(Čipkarstvo u Hrvatskoj)</i>
 - 🎑 Zvončari Ritual <i>(Zvončari)</i>
-- 🪕 Authentic Musical Instrument: Tamburica <i>(Tamburica)</i>
-- 👘 Garb: Cravat & Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
+- 🪕 Tamburica <i>(Tamburica)</i>
+- 👘 Cravat & Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
 - 🧝 Legacy of Illyrians <i>(Iliri)</i>
 - 🏰 Heritage of the Duchy of Croatia <i>(Kneževina Hrvatska / ⰽⰐⰵⰶⰵⰲⰻⰐⰰ ⱈⱃⰲⰰⱅⱄⰽⰰ)</i>
   - 📜 Glagolitic Script <i>(Hrvatska Glagoljica / ⰳⰾⰰⰳⱁⰾⰻⱌⰰ)</i>
@@ -175,7 +175,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - ⛵ Neretva Ladja Boats <i>(Neretvanske Lađe)</i>
 - 🎨 Konavle Embroidery <i>(Konavoski Vez)</i>
 - 💃 Linđo Dance <i>(Linđo)</i>
-- 🪕 Authentic Musical Instrument: Lijerica <i>(Lijerica)</i>
+- 🪕 Lijerica <i>(Lijerica)</i>
 - 🏰 Heritage of the Republic of Ragusa <i>(Dubrovačka Republika / Republica de Ragusa)</i>
 
 

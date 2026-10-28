@@ -335,8 +335,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🏃🏻 Savate Boxing Tradition <i>(Savate)</i>
 - 💃 Can-Can Dance <i>(Cancan)</i>
 - 💃 Bourrée Dance <i>(Bourrée)</i> 
-- 🪕 Authentic Musical Instrument: Flageolet <i>(Flageolet)</i>
-- 👘 Garb: Faluche & Marinière <i>(Faluche et Tricot Rayé)</i> 
+- 🪕 Flageolet <i>(Flageolet)</i>
+- 👘 Faluche & Marinière <i>(Faluche et Tricot Rayé)</i> 
 - 🧝 Legacy of Gauls <i>(Gaulois)</i>  
 - 🏰 Heritage of the Frankish Kingdom <i>(Royaume des Francs / Regnum Francorum)</i>
 - 🏰 Heritage of the Carolingian Empire <i>(Empire Carolingien / Universum Regnum)</i>
@@ -366,7 +366,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🏓 Pétanque Game <i>(Pétanque / Petanca)</i>
 - 🎑 Nice Midday Cannon Ritual <i>(Canon de Midi / Canoun de Miejour)</i>
 - 💃 Farandole Dance <i>(Farandole / Farandola)</i>
-- 👘 Garb: Taillole <i>(Taillole Provençal / Taiolo)</i>
+- 👘 Taillole <i>(Taillole Provençal / Taiolo)</i>
 - 🏰 Heritage of the County of Provence <i>(Comté de Provence / Comtat de Provença)</i>
 
 

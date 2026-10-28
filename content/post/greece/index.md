@@ -208,8 +208,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🏛️ Greek Neoclassical Architectural Style <i>(Ελληνική Νεοκλασική Αρχιτεκτονική)</i>
 - 💃 Syrtos Dance <i>(Συρτός)</i>
 - 🎙️ Rebetiko Music <i>(Ρεμπέτικο Τραγούδι)</i>
-- 🪕 Authentic Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
-- 👘 Ancient Garb: Fustanella & Amalía Dress <i>(Φουστανέλα και Αμαλία)</i>
+- 🪕 Bouzouki <i>(Μπουζούκι)</i>
+- 👘 Ancient Fustanella & Amalía Dress <i>(Φουστανέλα και Αμαλία)</i>
 - 🧝 Legacy of Mycenaeans <i>(Μυκηναίοι / 𐀘𐀏𐀂𐀪)</i>
   - 🕯️ Mycenaean Religion <i>(Μυκηναϊκή θρησκεία / 𐀏𐀂𐀃)</i>
   - 📜 Linear B Writing System <i>(Γραμμική Β / 𐀊𐀋𐀍𐀎)</i>
@@ -222,8 +222,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🛠️ Mycenaean Glyptic Art Tradition <i>(Μυκηναϊκή Γλυπτική / 𐀓𐀫𐀰)</i>
   - 🏃🏻 Chariot Racing Tradition <i>(Ἁρματοδρομία / 𐀂𐀟𐀊)</i>
   - 🎑 Mycenaean Libation Ritual <i>(Μυκηναϊκή Σπονδή / 𐀀𐀩𐀞)</i>
-  - 🪕 Authentic Musical Instrument: Phorminx <i>(Φόρμιγξ / 𐀪𐀩)</i>
-  - 👘 Ancient Garb: Boar's Tusk Helmet <i>(Οδοντόφρακτη Περικεφαλαία / 𐀒𐀰)</i>
+  - 🪕 Phorminx <i>(Φόρμιγξ / 𐀪𐀩)</i>
+  - 👘 Ancient Boar's Tusk Helmet <i>(Οδοντόφρακτη Περικεφαλαία / 𐀒𐀰)</i>
 - 🧝 Legacy of Ancient Greeks <i>(Αρχαίοι Έλληνες / Ἕλληνες)</i>
   - 🦉 Concept: Eudaimonia <i>(Ευδαιμονία)</i>
   - 🕯️ Ancient Greek Religion <i>(Αρχαία Ελληνική Θρησκεία)</i>
@@ -251,8 +251,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🎭 Mimes & Pantomimes <i>(Μίμοι και Παντομίμα)</i>
   - 🎭 Aoidoi & Aoidos Songs <i>(Αοιδoί και Ἀοιδή)</i>
   - 🎭 Rhapsodes & Rhapsodies <i>(Ραψωδοί και Ραψωδίες)</i>
-  - 🪕 Authentic Musical Instrument: Aulos <i>(Αὐλός)</i>
-  - 👘 Garb: Peplos & Chlamys <i>(Πέπλος και Χλαμύδα)</i>
+  - 🪕 Aulos <i>(Αὐλός)</i>
+  - 👘 Peplos & Chlamys <i>(Πέπλος και Χλαμύδα)</i>
 - 🏰 Heritage of the Kingdom of Macedonia <i>(Μακεδονία)</i>
 - 🏰 Heritage of the Byzantine Empire <i>(Βυζαντινή Αυτοκρατορία / Imperium Romanum Orientale)</i>
   - 🦉 Concept: Taxis <i>(Τάξις)</i>
@@ -264,7 +264,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🎨 Byzantine Mosaics <i>(Βυζαντινά Ψηφιδωτά)</i>
   - 🎨 Gold Ground Icon Painting <i>(Χρυσογραφία)</i>
   - 🎙️ Byzantine Chant <i>(Βυζαντινή Ψαλμωδία)</i>
-  - 👘 Garb: Loros & Tzangion <i>(Λῶρος και Τζαγγίον)</i>
+  - 👘 Loros & Tzangion <i>(Λῶρος και Τζαγγίον)</i>
 - 🏰 Heritage of the Nicene Empire <i>(Βασιλεία Ῥωμαίων)</i>
 - 🏰 Heritage of the Kingdom of Greece <i>(Βασίλειον τῆς Ἑλλάδος)</i><br> 
 <u>South Aegean - Regional Special:</u>
@@ -275,8 +275,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🏰 Heritage of the Duchy of Naxos <i>(Δουκάτο του Αρχιπελάγους / Ducato de l'Arcipelago)</i>
 - 🏰 Heritage of the Hospitaller Rhodes <i>(Μοναστικό Κράτος των Ιπποτών της Ρόδου / Ordo Hospitalis in Rhodo)</i><br>
 <u>Crete - Regional Special:</u> 
-- 🪕 Authentic Musical Instrument: Cretan Lyra <i>(Κρητική λύρα)</i>
-- 👘 Garb: Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
+- 🪕 Cretan Lyra <i>(Κρητική λύρα)</i>
+- 👘 Stivania & Sariki <i>(Στιβάνια και Σαρίκι)</i>
 - 🧝 Legacy of Minoans <i>(Μινωίτες)</i>
   - 📜 Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
   - 📜 Linear A Writing System <i>(Γραμμική Α / 𐘊𐘋𐘌𐘍)</i>

@@ -142,8 +142,8 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - 🏓 Togyzkumalak Game <i>(Тоғызқұмалақ)</i>  
 - 🏓 Assyk Game <i>(Асық)</i> 
 - 🎭 Akyns & Aytysh <i>(Ақындар мен Айтыс)</i> 
-- 🪕 Authentic Musical Instrument: Dombra <i>(Домбыра)</i>
-- 👘 Garb: Shapan & Borik <i>(Шапан мен Бөрік)</i> 
+- 🪕 Dombra <i>(Домбыра)</i>
+- 👘 Shapan & Borik <i>(Шапан мен Бөрік)</i> 
 - 🏰 Heritage of the Western Turkic Khaganate <i>(Батыш Түрк Кагандыгы / 𐰆𐰣:𐰸:𐰉𐰆𐰑𐰣)</i>
 - 🏰 Heritage of the Cuman-Kipchak Confederation <i>(Қыпшақ Даласы / دشت قپچاق)</i>
 - 🏰 Heritage of the Golden Horde <i>(Алтын Орда / اولوغ اولوس)</i> 

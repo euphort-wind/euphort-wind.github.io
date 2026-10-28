@@ -170,8 +170,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 🏓 Carrom Game <i>(कैरम)</i>
 - 🏓 Chaturanga Game <i>(चतुरंग)</i>
 - 💃 Bharatanatyam Dance <i>(भरतनाट्यम)</i>
-- 🪕 Authentic Musical Instrument: Saraswati Veena <i>(सरस्वती वीणा)</i>
-- 👘 Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
+- 🪕 Saraswati Veena <i>(सरस्वती वीणा)</i>
+- 👘 Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
 - 🏰 Heritage of the Nanda Empire <i>(नंद साम्राज्य)</i>
 - 🏰 Heritage of the Maurya Empire <i>(मौर्यसाम्राज्य / मौर्यसाम्राज्यम्)</i>
 - 🏰 Heritage of the Gupta Empire <i>(गुप्त राजवंश / गुप्त)</i>
@@ -188,7 +188,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - 💃 Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
   - 🏃🏻 Kambala Buffalo Race Tradition <i>(कंबाला / ಕಂಬಳ)</i>
   - 🏓 Alaguli Mane Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>
-  - 🪕 Authentic Musical Instrument: Tamate <i>(ढोल / ತಮಟೆ)</i><br>
+  - 🪕 Tamate <i>(ढोल / ತಮಟೆ)</i><br>
 - 🏰 Heritage of the Kadamba Kingdom <i>(कदंब राजवंश / ಕದಂಬ ರಾಜವಂಶ)</i>
 - 🏰 Heritage of the Western Ganga Kingdom <i>(पश्चिम गंग वंश / ಗಂಗರು)</i>
 - 🏰 Heritage of the Chalukya Empire <i>(चालुक्य राजवंश / ಚಾಲುಕ್ಯ)</i>
@@ -199,8 +199,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 👲 Culture of Konkanites <i>(कोंकणी लोग / कोंकणी लोक)</i>
   - 🦉 Concept: Susegad <i>(सुसेगाद / सुसेगाद)</i>
   - 💃 Fugdi Dance <i>(फुगडी / फुगडी)</i>
-  - 🪕 Authentic Musical Instrument: Ghumot <i>(घुमोट / घुमट)</i>
-  - 👘 Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
+  - 🪕 Ghumot <i>(घुमोट / घुमट)</i>
+  - 👘 Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
 - 🏰 Heritage of the Kadamba Kingdom <i>(कदंब राज्य / कदंब राज्य)</i><br>
 
 

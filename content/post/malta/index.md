@@ -135,7 +135,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 - 🎨 Maltese Lace <i>(Bizzilla)</i>
 - 🏓 Il-Passju Game <i>(Il-Passju)</i>
 - 🎙️ Għana Folk Singing <i>(Għana)</i>
-- 🪕 Authentic Musical Instrument: Ċuqlajta <i>(Ċuqlajta)</i> 
+- 🪕 Ċuqlajta <i>(Ċuqlajta)</i> 
 - 🏰 Heritage of the Hospitaller Malta <i>(Żmien il-Kavallieri / Status Monasticus Ordinis Sancti Ioannis)</i>
 - 🏰 Heritage of the State of Malta <i>(Stat ta’ Malta)</i>
 

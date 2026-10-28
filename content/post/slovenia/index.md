@@ -128,7 +128,7 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 - 🏓 Slovene Quintain Game <i>(Štehvanje)</i>
 - 🎑 Kurentija Ritual <i>(Kurentija)</i>
 - 💃 Štajeriš Dance <i>(Štajeriš)</i>
-- 👘 Garb: Gorenjska Avba <i>(Gorenjska Avba)</i> 
+- 👘 Gorenjska Avba <i>(Gorenjska Avba)</i> 
 - 🏰 Heritage of the Carantanian Principality <i>(Karantanija / *Korǫtanъ)</i>
 <br>
 <u>Upper Carniola - Regional Special:</u> 

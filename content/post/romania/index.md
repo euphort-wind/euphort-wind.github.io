@@ -186,15 +186,15 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🎑 Paparuda Ritual <i>(Paparudă)</i> 
 - 💃 Romanian Horă Dance <i>(Horă)</i>
 - 🎙️ Doina Singing <i>(Doina)</i>
-- 🪕 Authentic Musical Instrument: Romanian Nai <i>(Nai)</i>
-- 👘 Garb: Pieptar & Romanian Ie <i>(Pieptar și Ie)</i> 
+- 🪕 Romanian Nai <i>(Nai)</i>
+- 👘 Pieptar & Romanian Ie <i>(Pieptar și Ie)</i> 
 - 👲 Culture of Romani <i>(Romi / Romane Manusha)</i>
   - 🦉 Concept: Romanipen <i>(Romanipenul / Romanipen)</i>
   - 🐦‍🔥 Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
   - 👑 Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
   - 🛠️ Kalderash Coppersmithing Tradition <i>(Căldărărie Kalderash / Kalderash Sastripe)</i>
   - 🎙️ Lăutari & Lăutărească Music <i>(Lăutari și Muzica Lăutărească / Lăutari thaj Lăutărească Muzika)</i> 
-  - 👘 Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
+  - 👘 Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
 - 🧝 Legacy of Dacians <i>(Dacii)</i>
 - 🏰 Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
 - 🏰 Heritage of the Principality of Transylvania <i>(Principatul Transilvaniei / Erdélyi Fejedelemség)</i>
@@ -206,13 +206,13 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
   - 📜 Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / <bdi style="direction: rtl;">𐲥𐳋𐳓𐳉𐳗-𐳘𐳀𐳎𐳀𐳢 𐳢𐳛𐳮𐳁𐳤</bdi>)</i>
   - 👑 Title of Primor <i>(Primor Secuiesc / <bdi style="direction: rtl;">𐳒𐳢𐳐𐳘𐳏𐳢</bdi>)</i>
   - 🏺 Székely Gates <i>(Poartă Secuiască / <bdi style="direction: rtl;">𐳤𐳯𐳋𐳓𐳉𐳗𐳓𐳀𐳠𐳪</bdi>)</i>
-  - 👘 Garb: Székely Hat <i>(Pălărie Secuiască / <bdi style="direction: rtl;">𐳥𐳋𐳓𐳉𐳗𐳓𐳀𐳑𐳀𐳙</bdi>)</i>
+  - 👘 Székely Hat <i>(Pălărie Secuiască / <bdi style="direction: rtl;">𐳥𐳋𐳓𐳉𐳗𐳓𐳀𐳑𐳀𐳙</bdi>)</i>
 - ⛰️ Covasna Mofettes <i>(Mofetele din Covasna / <bdi style="direction: rtl;">𐳥𐳮𐳮𐳀𐳤𐳤𐳙𐳀 𐳘𐳮𐳐𐳋𐳧𐳧𐳉𐳤</bdi>)</i><br>
 <u>Brașov - Regional Special:</u> 
 - 👲 Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
   - 🛖 Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
   - 💃 Königinnentanz Dance <i>(Dansul Reginelor / Königinnentanz)</i>
-  - 👘 Garb: Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>
+  - 👘 Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>
  
 
 <b>🎊 Authentic holidays & celebrations:</b>

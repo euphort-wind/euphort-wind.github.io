@@ -161,8 +161,8 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - 🏓 Jogo da Laranjinha Game <i>(Jogo da Laranjinha)</i>
 - 🎙️ Fado Music <i>(Fado)</i>
 - 🎙️ Cante Alentejano Music <i>(Cante Alentejano)</i> 
-- 🪕 Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>
-- 👘 Garb: Portuguese Traje <i>(Traje Típico Português)</i>
+- 🪕 Portuguese Guitar <i>(Guitarra Portuguesa)</i>
+- 👘 Portuguese Traje <i>(Traje Típico Português)</i>
 - 🏰 Heritage of the Kingdom of Portugal <i>(Reino de Portugal)</i><br>
 <u>Lisbon - Regional Special:</u> 
 - 🚗 Lisbon Historic Trams <i>(Brands: "Remodelados", "Ligeiros")</i>

@@ -112,7 +112,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
 - 🐦‍🔥 Liechtenstein Folklore <i>(Liechtensteiner Folklore)</i>
 - 🛠️ Postage Stamp Production Tradition <i>(Briefmarken von Liechtenstein)</i>
 - 🏃🏻 Alpine Skiing Tradition <i>(Alpiner Skilauf)</i>
-- 👘 Garb: Liechtensteiner Tracht <i>(Liechtensteiner Tracht)</i>
+- 👘 Liechtensteiner Tracht <i>(Liechtensteiner Tracht)</i>
 - 🏰 Heritage of the County of Vaduz <i>(Grafschaft Vaduz)</i>
 - 🏰 Heritage of the Lordship of Schellenberg <i>(Herrschaft Schellenberg)</i>
 <br>
@@ -120,7 +120,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
 - 👲 Culture of Walser People <i>(Walser)</i>
   - 🐦‍🔥 Walser Folklore <i>(Walser-Brauchtum)</i>
   - 🛖 Walser Houses <i>(Walserhäuser)</i>
-  - 👘 Garb: Walser Tracht <i>(Walser Tracht)</i>
+  - 👘 Walser Tracht <i>(Walser Tracht)</i>
 
 
 

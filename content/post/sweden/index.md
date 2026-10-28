@@ -403,8 +403,8 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🏓 Kubb Game <i>(Kubb)</i>
 - 🎑 Fika Ritual <i>(Fika)</i>
 - 💃 Hambo Dance <i>(Hambo)</i>
-- 🪕 Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
-- 👘 Garb: Folkdräkt <i>(Svensk Folkdräkt)</i>
+- 🪕 Nyckelharpa <i>(Nyckelharpa)</i> 
+- 👘 Folkdräkt <i>(Svensk Folkdräkt)</i>
 - 🏰 Heritage of the Sweden-Norway Union <i>(Sverige-Norge / Norig-Sverike)</i>
 <br>
 <u>Gotland - Regional Special:</u> 
