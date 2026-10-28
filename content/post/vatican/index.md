@@ -32,53 +32,33 @@ gallery_item:
 ---
 
 <style>
-  /* 1. Widen page container */
-  .article-container,
-  .container {
-    max-width: 1100px !important;
-    padding-left: 1rem !important;
-    padding-right: 1rem !important;
-  }
+  /* 1. Prevent gallery images from stretching or cropping */
+.gallery img,
+.gallery-item img,
+.album img {
+  max-width: 100% !important;
+  height: auto !important;
+  object-fit: contain !important; /* Preserves natural image aspect ratio */
+  display: inline-block !important;
+}
 
-  /* 2. Smaller font size */
-  .article-style,
-  .article-style p,
-  .article-style li {
-    font-size: 0.9rem !important;
-    line-height: 1.5 !important;
-  }
+/* 2. Control how large each gallery item card can be */
+.gallery-item,
+.album-item {
+  max-width: 220px !important; /* Adjust this to change thumbnail size */
+  margin: 0 auto !important;
+}
 
-  /* 3. Scale down headings */
-  .article-style h1 { font-size: 1.6rem !important; }
-  .article-style h2 { font-size: 1.35rem !important; }
-  .article-style h3 { font-size: 1.15rem !important; }
-
-  /* 4. Keep photos & gallery images compact */
-  .article-style img,
-  .article-style figure,
-  .gallery img,
-  .gallery-item img {
-    max-width: 450px !important; /* Adjust max width of single images */
-    width: auto !important;
-    height: auto !important;
-    margin: 1rem auto !important; /* Centers the images */
-    display: block !important;
-  }
-
-  /* Ensure gallery grids keep items small in a flex/grid layout */
-  .gallery,
-  .gallery-item {
-    max-width: 100% !important;
-    display: flex !important;
-    flex-wrap: wrap !important;
-    gap: 10px !important;
-  }
-  
-  .gallery-item {
-    width: auto !important;
-    max-width: 200px !important; /* Max size per gallery thumbnail */
-  }
+/* 3. Keep standard (non-gallery) inline blog photos centered & small */
+.article-style > img,
+.article-style > figure img {
+  max-width: 400px !important;
+  height: auto !important;
+  margin: 1.5rem auto !important;
+  display: block !important;
+}
 </style>
+
 
 Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was there in 2024. Below are some notes on what I tasted, saw and listened to.
 

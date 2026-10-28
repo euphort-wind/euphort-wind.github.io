@@ -234,6 +234,29 @@ sections:
       # Choose a layout view
       view: list
       columns: '2'
+
+  - block: markdown
+    id: posts
+    content:
+      title: Wanderlust
+      text: |2-
+        {{< row >}}
+
+        {{< col class="col-md-6" >}}
+        ### Column 1
+        * [🇸🇪 Sweden](/post/sweden/)
+        * [🇳🇴 Norway](/post/norway/)
+        {{< /col >}}
+
+        {{< col class="col-md-6" >}}
+        ### Column 2
+        * [🇯🇴 Jordan](/post/jordan/)
+        * [🇪🇬 Egypt](/post/egypt/)
+        {{< /col >}}
+
+        {{< /row >}}
+    design:
+      columns: '1'
   
   - block: contact
     id: contact
