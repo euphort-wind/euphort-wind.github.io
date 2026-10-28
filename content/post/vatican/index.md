@@ -32,15 +32,15 @@ gallery_item:
 ---
 
 <style>
-  /* 1. Reduce left and right whitespace / widen container */
+  /* 1. Widen page container */
   .article-container,
   .container {
-    max-width: 1000px !important;  /* Increases content width (default is ~800px) */
-    padding-left: 1rem !important;  /* Reduces inner side padding */
+    max-width: 1100px !important;
+    padding-left: 1rem !important;
     padding-right: 1rem !important;
   }
 
-  /* 2. Smaller font size and line height */
+  /* 2. Smaller font size */
   .article-style,
   .article-style p,
   .article-style li {
@@ -48,10 +48,36 @@ gallery_item:
     line-height: 1.5 !important;
   }
 
-  /* 3. Scale down headings slightly to match */
+  /* 3. Scale down headings */
   .article-style h1 { font-size: 1.6rem !important; }
   .article-style h2 { font-size: 1.35rem !important; }
   .article-style h3 { font-size: 1.15rem !important; }
+
+  /* 4. Keep photos & gallery images compact */
+  .article-style img,
+  .article-style figure,
+  .gallery img,
+  .gallery-item img {
+    max-width: 450px !important; /* Adjust max width of single images */
+    width: auto !important;
+    height: auto !important;
+    margin: 1rem auto !important; /* Centers the images */
+    display: block !important;
+  }
+
+  /* Ensure gallery grids keep items small in a flex/grid layout */
+  .gallery,
+  .gallery-item {
+    max-width: 100% !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 10px !important;
+  }
+  
+  .gallery-item {
+    width: auto !important;
+    max-width: 200px !important; /* Max size per gallery thumbnail */
+  }
 </style>
 
 Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was there in 2024. Below are some notes on what I tasted, saw and listened to.
