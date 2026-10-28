@@ -35,7 +35,6 @@ gallery_item:
   /* 1. Reduce left and right whitespace / widen container */
   .article-container,
   .container {
-    max-width: 1000px !important;  /* Increases content width (default is ~800px) */
     padding-left: 1rem !important;  /* Reduces inner side padding */
     padding-right: 1rem !important;
   }
