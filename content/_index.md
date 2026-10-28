@@ -246,13 +246,13 @@ sections:
             <h3>Nothern Europe</h3>
             <ul>
               <li><a href="/post/sweden/">🇸🇪 Sweden</a></li>
-              <li><a href="/post/norway/">🇳🇴 Norway</a></li>
-              <li><a href="/post/denmark/">🇩🇰 Denmark</a></li>
-              <li><a href="/post/finland/">🇫🇮 Finland</a></li>
               <li><a href="/post/aland/">🇦🇽 Åland Islands</a></li>
+              <li><a href="/post/denmark/">🇩🇰 Denmark</a></li>
               <li><a href="/post/estonia/">🇪🇪 Estonia</a></li>
+              <li><a href="/post/finland/">🇫🇮 Finland</a></li>
               <li><a href="/post/latvia/">🇱🇻 Latvia</a></li>
               <li><a href="/post/lithuania/">🇱🇹 Lithuania</a></li>
+              <li><a href="/post/norway/">🇳🇴 Norway</a></li>
             </ul>
           <h3>Western Europe</h3>
             <ul>
@@ -277,10 +277,10 @@ sections:
             <h3>Western Asia</h3>
             <ul>
               <li><a href="/post/armenia/">🇦🇲 Armenia</a></li>
-              <li><a href="/post/georgia/">🇬🇪 Georgia</a></li>
               <li><a href="/post/cyprus/">🇨🇾 Cyprus</a></li>
-              <li><a href="/post/turkey/">🇹🇷 Türkiye</a></li>
+              <li><a href="/post/georgia/">🇬🇪 Georgia</a></li>
               <li><a href="/post/jordan/">🇯🇴 Jordan</a></li>
+              <li><a href="/post/turkey/">🇹🇷 Türkiye</a></li>
             </ul>
           </div>
 
@@ -293,7 +293,6 @@ sections:
             <li><a href="/post/croatia/">🇭🇷 Croatia</a></li>
             <li><a href="/post/gibraltar/">🇬🇮 Gibraltar</a></li>
             <li><a href="/post/greece/">🇬🇷 Greece</a></li>
-            <li><a href="/post/vatican/">🇻🇦 Vatican</a></li>
             <li><a href="/post/italy/">🇮🇹 Italy</a></li>
             <li><a href="/post/malta/">🇲🇹 Malta</a></li>
             <li><a href="/post/montenegro/">🇲🇪 Montenegro</a></li>
@@ -303,6 +302,7 @@ sections:
             <li><a href="/post/serbia/">🇷🇸 Serbia</a></li>
             <li><a href="/post/slovenia/">🇸🇮 Slovenia</a></li>
             <li><a href="/post/spain/">🇪🇸 Spain</a></li>
+            <li><a href="/post/vatican/">🇻🇦 Vatican</a></li>
             </ul>
             <h3>Central Asia</h3>
             <ul>
