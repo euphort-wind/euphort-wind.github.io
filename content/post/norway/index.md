@@ -168,8 +168,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Kos <i>(Kos)</i>
-- 🦉 Authentic Concept: Friluftsliv <i>(Friluftsliv)</i> 
+- 🦉 Concept: Kos <i>(Kos)</i>
+- 🦉 Concept: Friluftsliv <i>(Friluftsliv)</i> 
 - ⛵ Nordland Boats <i>(Nordlandsbåter)</i> 
 - 🛖 Stave Churches <i>(Stavkirker)</i>
 - 🛖 Rorbu Fishermen Houses <i>(Rorbuer)</i>
@@ -179,7 +179,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - 🏃🏻 Nordic Skiing Tradition <i>(Langrenn)</i>
 - 🏓 Basse Game <i>(Basse)</i>
 - 🪕 Authentic Musical Instrument: Hardanger Fiddle <i>(Hardingfele)</i>
-- 👘 Authentic Garb: Bunad <i>(Bunad)</i>
+- 👘 Garb: Bunad <i>(Bunad)</i>
 - 🧝 Legacy of Norsemen <i>(Nordboere / ᚾᚢᚱᚦᛒᚢᛅᚱ)</i>
   - 🕯️ Norse Paganism <i>(Norrøn Religion / ᚾᚢᚱᚢᛅᚾ ᛋᛁᚦᛦ)</i>
   - 📜 Younger Futhark Runic Alphabet <i>(Den Yngre Futharken / ᚠᚢᚦᚬᚱᚴ)</i>

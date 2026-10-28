@@ -164,7 +164,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 - 💃 Csárdás Dance <i>(Csárdás)</i>
 - 💃 Verbunkos Dance <i>(Verbunkos)</i>
 - 🪕 Authentic Musical Instrument: Cimbalom <i>(Cimbalom)</i>
-- 👘 Authentic Garb: Bocskai Coat & Attila <i>(Bocskai Öltöny és Atilla)</i>
+- 👘 Garb: Bocskai Coat & Attila <i>(Bocskai Öltöny és Atilla)</i>
 - 🏰 Heritage of the Grand Principality of Hungary <i>(Magyar Nagyfejedelemség)</i>
 - 🏰 Heritage of the Kingdom of Hungary <i>(Magyar Királyság / Regnum Hungariae)</i>
   - 🕯️ Old Hungarian Shamanism <i>(Táltoshit)</i>

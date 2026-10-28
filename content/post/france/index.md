@@ -316,7 +316,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: L'Art de Vivre <i>(L'Art de Vivre)</i>
+- 🦉 Concept: L'Art de Vivre <i>(L'Art de Vivre)</i>
 - 🐦‍🔥 French Folklore <i>(Folklore Français)</i>
 - 🚗 French Cars <i>(Brands: "Peugeot", "Renault", "Citroën", "Bugatti")</i>
 - 🛖 Lavoir Wash Houses <i>(Lavoirs)</i> 
@@ -336,7 +336,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 💃 Can-Can Dance <i>(Cancan)</i>
 - 💃 Bourrée Dance <i>(Bourrée)</i> 
 - 🪕 Authentic Musical Instrument: Flageolet <i>(Flageolet)</i>
-- 👘 Authentic Garb: Faluche & Marinière <i>(Faluche et Tricot Rayé)</i> 
+- 👘 Garb: Faluche & Marinière <i>(Faluche et Tricot Rayé)</i> 
 - 🧝 Legacy of Gauls <i>(Gaulois)</i>  
 - 🏰 Heritage of the Frankish Kingdom <i>(Royaume des Francs / Regnum Francorum)</i>
 - 🏰 Heritage of the Carolingian Empire <i>(Empire Carolingien / Universum Regnum)</i>
@@ -352,7 +352,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 <u>Occitania - Regional Special:</u> 
 - 🎑 Chabrot Ritual <i>(Chabrot / Chabròt)</i>
 - 🏰 Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
-  - 🦉 Authentic Concept: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
+  - 🦉 Concept: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
   - 🕯️ Catharism <i>(Catharisme / Catarisme)</i>
   - 🐦‍🔥 Occitan Lyric Poetry <i>(Poésie Lyrique Occitane / Poesia Lirica Occitana)</i>
   - 🏛️ Meridional Gothic Architectural Style <i>(Architecture Gothique Méridional / Arquitectura Gòtica Meridionala)</i>
@@ -366,7 +366,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🏓 Pétanque Game <i>(Pétanque / Petanca)</i>
 - 🎑 Nice Midday Cannon Ritual <i>(Canon de Midi / Canoun de Miejour)</i>
 - 💃 Farandole Dance <i>(Farandole / Farandola)</i>
-- 👘 Authentic Garb: Taillole <i>(Taillole Provençal / Taiolo)</i>
+- 👘 Garb: Taillole <i>(Taillole Provençal / Taiolo)</i>
 - 🏰 Heritage of the County of Provence <i>(Comté de Provence / Comtat de Provença)</i>
 
 

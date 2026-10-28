@@ -133,21 +133,21 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - 🎙️ Baladi Music <i>(بلدي)</i>
 - 🎙️ Shaabi Music <i>(شعبي)</i>
 - 🪕 Authentic Musical Instrument: Simsimiyya <i>(سمسمية)</i>
-- 👘 Authentic Garb: Galabiya <i>(جلابية)</i>
+- 👘 Garb: Galabiya <i>(جلابية)</i>
 - 👲 Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
-  - 🦉 Authentic Concept: Coptic Monasticism <i>(الرهبنة القبطية / Ⲡⲓⲃⲓⲟⲥ Ⲛⲙⲟⲛⲁⲭⲟⲥ)</i>
+  - 🦉 Concept: Coptic Monasticism <i>(الرهبنة القبطية / Ⲡⲓⲃⲓⲟⲥ Ⲛⲙⲟⲛⲁⲭⲟⲥ)</i>
   - 📜 Coptic Script <i>(الأبجدية القبطية / Ⲁⲃⲅⲇⲉ)</i>
   - 👑 Title of Coptic Pope <i>(بابا الإسكندرية للمصريين الأرثوذكس / Ⲡⲁⲡⲁ)</i>
   - 🏛️ Coptic Architectural Style <i>(عمارة قبطية / Ⲟⲓⲕⲟⲇⲟⲙⲏ)</i>
   - 🎨 Coptic Icon Painting <i>(فن قبطي / Ⲧⲉⲭⲛⲏ ⲛ̀ⲧⲉ Ⲛⲓⲕⲱⲛ)</i>
   - 🎙️ Coptic Chant <i>(الموسيقى القبطية / Ⲯⲁⲗⲙⲟⲥ Ⲛ̀ⲭⲏⲙⲓ)</i>
   - 🎑 Tasbeha Ritual <i>(تسبحة / Ⲑⲱⲇⲓⲁ)</i>
-  - 👘 Authentic Garb: Coptic Hand Cross <i>(الصليب القبطى / Ⲥⲧⲁⲩⲣⲟⲥ)</i>
+  - 👘 Garb: Coptic Hand Cross <i>(الصليب القبطى / Ⲥⲧⲁⲩⲣⲟⲥ)</i>
 - 🧝 Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
-  - 🦉 Authentic Concept: Maat <i>(ماعت / 𓁦)</i>
-  - 🦉 Authentic Concept: Ka <i>(كا / 𓂓)</i>
-  - 🦉 Authentic Concept: Ba <i>(با / 𓅽)</i>
-  - 🦉 Authentic Concept: Akh <i>(آخ / 𓅜)</i>
+  - 🦉 Concept: Maat <i>(ماعت / 𓁦)</i>
+  - 🦉 Concept: Ka <i>(كا / 𓂓)</i>
+  - 🦉 Concept: Ba <i>(با / 𓅽)</i>
+  - 🦉 Concept: Akh <i>(آخ / 𓅜)</i>
   - 🕯️ Ancient Egyptian Religion <i>(ديانة قدماء المصريين / 𓊹𓌃)</i>
   - 🕯️ Atenism <i>(الديانة الآتونية / 𓐍𓏏)</i>
   - 📜 Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية / 𓊹𓌃𓏥)</i>
@@ -171,7 +171,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - 🎑 Opening of the Mouth Ritual <i>(فتح الفم / 𓄋𓂋)</i>
   - 💃 Ancient Egyptian Dance <i>(الرقص في مصر القديمة / 𓀤)</i>
   - 🪕 Authentic Musical Instrument: Sistrum <i>(السيستروم / 𓏣)</i>
-  - 👘 Authentic Garb: Khat & Shendyt <i>(الخات والشنديت / 𓎛𓂋𓏏)</i>
+  - 👘 Garb: Khat & Shendyt <i>(الخات والشنديت / 𓎛𓂋𓏏)</i>
 - 🏰 Heritage of the Ptolemaic Kingdom <i>(المملكة البطلمية / Πτολεμαϊκὴ βασιλεία)</i>
 - 🏰 Heritage of the Fatimid Empire <i>(الخلافة الفاطمية)</i>
 - 🏰 Heritage of the Ayyubid Sultanate <i>(الدولة الأيوبية)</i>

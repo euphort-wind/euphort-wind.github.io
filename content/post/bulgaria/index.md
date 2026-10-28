@@ -180,7 +180,7 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🎑 Kukeri Ritual <i>(Кукери)</i>
 - 💃 Horo Dance <i>(Хоро)</i>
 - 🪕 Authentic Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
-- 👘 Authentic Garb: Bulgarian Nosiya <i>(Носия)</i>
+- 👘 Garb: Bulgarian Nosiya <i>(Носия)</i>
 - 🧝 Legacy of Thracians <i>(Траки)</i>
 - 🧝 Legacy of Bulghars <i>(Прабългари)</i>
 - 🏰 Heritage of the First Bulgarian Empire <i>(Първо Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>

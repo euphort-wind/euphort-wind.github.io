@@ -119,10 +119,10 @@ Hej! I'm sharing a glimpse of my experience visiting ancient Jordan. I was there
 - 🎑 Al-Mansaf Feast Ritual <i>(<bdi style="direction: rtl;">طقوس وليمة المنسف</bdi>)</i>
 - 💃 Dabke Dance <i>(<bdi style="direction: rtl;">دبكة</bdi>)</i>
 - 🪕 Authentic Musical Instrument: Mijwiz <i>(<bdi style="direction: rtl;">مجوز</bdi>)</i>
-- 👘 Authentic Garb: Dishdashah & Shemagh <i>(<bdi style="direction: rtl;">الدشداشة والشماغ</bdi>)</i>
+- 👘 Garb: Dishdashah & Shemagh <i>(<bdi style="direction: rtl;">الدشداشة والشماغ</bdi>)</i>
 - 👲 Culture of Bedouins <i>(<bdi style="direction: rtl;">البدو</bdi>)</i>
-  - 🦉 Authentic Concept: Sharaf <i>(<bdi style="direction: rtl;">شرف</bdi>)</i> 
-  - 🦉 Authentic Concept: Ird <i>(<bdi style="direction: rtl;">عرض</bdi>)</i>
+  - 🦉 Concept: Sharaf <i>(<bdi style="direction: rtl;">شرف</bdi>)</i> 
+  - 🦉 Concept: Ird <i>(<bdi style="direction: rtl;">عرض</bdi>)</i>
   - 🐦‍🔥 Nabaṭī Poetry <i>(<bdi style="direction: rtl;">الشعر النبطي</bdi>)</i>
   - 👑 Title of Bedouin Sheikh <i>(<bdi style="direction: rtl;">شيخ بدوي</bdi>)</i>
   - 👑 System of Bedouin Tribes <i>(<bdi style="direction: rtl;">عشائر البدو</bdi>)</i>

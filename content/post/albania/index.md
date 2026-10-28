@@ -118,7 +118,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
  
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Besa <i>(Besa)</i>
+- 🦉 Concept: Besa <i>(Besa)</i>
 - 🕯️ Bektashism <i>(Bektashizmi)</i>
 - 🐦‍🔥 Legend of Skanderbeg <i>(Legjenda e Skënderbeut)</i>
 - 🐦‍🔥 Albanian Folklore <i>(Folklori Shqiptar)</i>
@@ -129,7 +129,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - 💃 Shota Dance <i>(Shotë)</i>
 - 🎙️ Albanian Iso-Polyphonic Music <i>(Iso-Polifonia Shqiptare)</i>
 - 🪕 Authentic Musical Instrument: Çifteli <i>(Çiftelia)</i>
-- 👘 Authentic Garb: Xhubleta & Xhamadan <i>(Xhubleta dhe Xhamadan)</i>
+- 👘 Garb: Xhubleta & Xhamadan <i>(Xhubleta dhe Xhamadan)</i>
 - 🏰 Heritage of the Principality of Arbanon <i>(Principata e Arbrit / Arbanum)</i>
 - 🏰 Heritage of the League of Lezhë <i>(Lidhja e Lezhës)</i>
 - 🏰 Heritage of the Kingdom of Albania <i>(Mbretëria e Arbërisë)</i>

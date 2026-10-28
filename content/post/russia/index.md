@@ -319,7 +319,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Russian Avos <i>(Русское Авось)</i>
+- 🦉 Concept: Russian Avos <i>(Русское Авось)</i>
 - 🐦‍🔥 Russian Folklore <i>(Русский Фольклор)</i> 
 - 🏺 Matryoshka Dolls <i>(Матрёшки)</i>
 - 🏺 Dymkovo Toys <i>(Дымковские Игрушки)</i>
@@ -337,7 +337,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🏓 Lapta Game <i>(Лапта)</i>
 - 💃 Khorovod Dance <i>(Хоровод)</i>
 - 🪕 Authentic Musical Instrument: Balalaika <i>(Балалайка)</i>  
-- 👘 Authentic Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
+- 👘 Garb: Valenki & Ushanka <i>(Валенки и Шапка-Ушанка)</i>
 - 🏰 Heritage of the Novgorod Republic <i>(Новгородская Республика / Господинъ Великiй Новгородъ)</i>
 - 🏰 Heritage of the Grand Principality of Moscow <i>(Великое Княжество Московское / Вели́кое Кнꙗ́женїе Моско́вьское)</i>
     - 🐦‍🔥 Bylina Epic Poetry <i>(Былины)</i>
@@ -348,14 +348,14 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🎨 Novgorod Icon Painting <i>(Новгородская Иконопись)</i>
     - 🎭 Skomorokh Performance <i>(Выступления Скоморохов)</i>
     - 🎙️ Znamenny Chant <i>(Знаменное Пение)</i>
-    - 👘 Authentic Garb: Bast Shoes & Kokoshnik <i>(Лапти и Кокошник)</i>
+    - 👘 Garb: Bast Shoes & Kokoshnik <i>(Лапти и Кокошник)</i>
 - 🏰 Heritage of the Tsardom of Russia <i>(Русское Царство / Рꙋ́ськое Ца́рьство)</i>
     - ⛵ Koch Boats <i>(Кочи)</i>
     - 🎨 Lubok Printing <i>(Лубки)</i>
     - 🎨 Stroganov Icon Painting <i>(Строгановская Иконопись)</i>
-    - 👘 Authentic Garb: Feryaz & Boyar Hat <i>(Ферязь и Горлатная Шапка)</i> 
+    - 👘 Garb: Feryaz & Boyar Hat <i>(Ферязь и Горлатная Шапка)</i> 
 - 🏰 Heritage of the Russian Empire <i>(Российская Империя / Россійская Имперія)</i>
-    - 🦉 Authentic Concept: Sobornost <i>(Соборность)</i>      
+    - 🦉 Concept: Sobornost <i>(Соборность)</i>      
     - 🕯️ Spiritual Christianity <i>(Духовное Христианство)</i>
     - 🏺 Painted Samovars <i>(Расписные Самовары)</i>
     - 🛖 People's Houses <i>(Народные Дома)</i>
@@ -363,7 +363,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🏛️ Russian Revival Architectural Style <i>(Русский Архитектурный Стиль)</i>
     - 💃 Barynya Dance <i>(Пляска Барыня)</i>
     - 💃 Kamarinskaya Dance <i>(Камаринская Пляска)</i>
-    - 👘 Authentic Garb: Kosovorotka & Russian Court Dress <i>(Косоворотка и Русское Придворное Платье)</i>
+    - 👘 Garb: Kosovorotka & Russian Court Dress <i>(Косоворотка и Русское Придворное Платье)</i>
 - 🏰 Heritage of the Russian Republic <i>(Российская Республика / Россійская Республика)</i>
 <br>
 <u>Bashkortostan - Regional Special:</u> 
@@ -380,18 +380,18 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🏰 Heritage of the Princedom of Kabardia <i>(Кабарда / Къэбэрдей Пщыгъуэ)</i><br>
 <u>Karachay-Cherkessia - Regional Special:</u> 
 - 👲 Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
-    - 🦉 Authentic Concept: Circassian Xabze <i>(Хабза / Адыгэ Хабзэ)</i>
+    - 🦉 Concept: Circassian Xabze <i>(Хабза / Адыгэ Хабзэ)</i>
     - 🕯️ Circassian Paganism <i>(Черкесская Религия / ТхьэлъэӀу)</i>
     - 🐦‍🔥 Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
     - 👑 Title of Thamaté <i>(Тхьэматэ / Тхьэматэ)</i>
     - 🪕 Authentic Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
-    - 👘 Authentic Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
+    - 👘 Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
 - 👲 Culture of Abazins <i>(Абазины / Абаза)</i>
 - 🏰 Heritage of the Kingdom of Zichia <i>(Зихия / Адзыгъуей)</i>
 - 🏰 Heritage of the Kingdom of Circassia <i>(Черкесия / Адыгэ Хэку)</i><br>
 <u>North Ossetia - Regional Special:</u> 
 - 👲 Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
-    - 🦉 Authentic Concept: Ægdau <i>(Агдау / Æгъдау)</i>
+    - 🦉 Concept: Ægdau <i>(Агдау / Æгъдау)</i>
     - 🕯️ Assianism <i>(Уасдин / Уацдин)</i>
     - 🐦‍🔥 Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
     - 🐦‍🔥 Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
@@ -409,7 +409,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 - 🛠️ Kasli Iron Sculptural Tradition <i>(Каслинское Литьё)</i>
 - 👲 Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i></br>
 <u>Orenburzhie - Regional Special:</u> 
-- 👘 Authentic Garb: Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i><br>
+- 👘 Garb: Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i><br>
 <u>Moscow-City - Regional Special:</u>
 - 🏛️ Naryshkin Baroque Architectural Style <i>(Нарышкинское Барокко)</i>
 

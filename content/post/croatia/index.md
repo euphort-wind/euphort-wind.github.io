@@ -151,7 +151,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Fjaka <i>(Fjaka)</i>
+- 🦉 Concept: Fjaka <i>(Fjaka)</i>
 - 🎙️ Ojkanje Singing <i>(Ojkanje)</i>
 - 🐦‍🔥 Story of Klepetan & Malena <i>(Klepetan i Malena)</i>
 - 🐦‍🔥 Croatian Folklore <i>(Hrvatski Folklor)</i>
@@ -160,7 +160,7 @@ Hej! I'm sharing a glimpse of my experience visiting enchanting Croatia. I was t
 - 🎨 Croatian Lace <i>(Čipkarstvo u Hrvatskoj)</i>
 - 🎑 Zvončari Ritual <i>(Zvončari)</i>
 - 🪕 Authentic Musical Instrument: Tamburica <i>(Tamburica)</i>
-- 👘 Authentic Garb: Cravat & Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
+- 👘 Garb: Cravat & Šibenik Cap <i>(Kravata i Šibenska Kapa)</i>  
 - 🧝 Legacy of Illyrians <i>(Iliri)</i>
 - 🏰 Heritage of the Duchy of Croatia <i>(Kneževina Hrvatska / ⰽⰐⰵⰶⰵⰲⰻⰐⰰ ⱈⱃⰲⰰⱅⱄⰽⰰ)</i>
   - 📜 Glagolitic Script <i>(Hrvatska Glagoljica / ⰳⰾⰰⰳⱁⰾⰻⱌⰰ)</i>

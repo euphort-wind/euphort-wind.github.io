@@ -150,7 +150,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Saudade <i>(Saudade)</i>
+- 🦉 Concept: Saudade <i>(Saudade)</i>
 - 🐦‍🔥 Portuguese Folklore <i>(Folclore de Portugal)</i>
 - 🏺 Roosters of Barcelos <i>(Galos de Barcelos)</i>
 - ⛵ Rabelo Boats <i>(Barco Rabelo)</i>
@@ -162,7 +162,7 @@ Hej! I'm sharing a glimpse of my experience visiting colorful Portugal. I was th
 - 🎙️ Fado Music <i>(Fado)</i>
 - 🎙️ Cante Alentejano Music <i>(Cante Alentejano)</i> 
 - 🪕 Authentic Musical Instrument: Portuguese Guitar <i>(Guitarra Portuguesa)</i>
-- 👘 Authentic Garb: Portuguese Traje <i>(Traje Típico Português)</i>
+- 👘 Garb: Portuguese Traje <i>(Traje Típico Português)</i>
 - 🏰 Heritage of the Kingdom of Portugal <i>(Reino de Portugal)</i><br>
 <u>Lisbon - Regional Special:</u> 
 - 🚗 Lisbon Historic Trams <i>(Brands: "Remodelados", "Ligeiros")</i>

@@ -349,7 +349,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: La Dolce Vita <i>(La Dolce Vita)</i> 
+- 🦉 Concept: La Dolce Vita <i>(La Dolce Vita)</i> 
 - 📜 Latin Alphabet <i>(Alfabeto Latino)</i>
 - 🐦‍🔥 Italian Folklore <i>(Folclore d'Italia)</i>
 - 🚗 Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>  
@@ -367,7 +367,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 💃 Tarantella Dance <i>(Tarantella)</i> 
 - 🪕 Authentic Musical Instrument: Mandolin <i>(Mandolino)</i>
 - 🏰 Heritage of the Roman Republic <i>(Repubblica Romana / Res Publica Romana)</i>
-  - 🦉 Authentic Concept: Mos Maiorum <i>(Mos Maiorum)</i>
+  - 🦉 Concept: Mos Maiorum <i>(Mos Maiorum)</i>
   - 🕯️ Ancient Roman Religion <i>(Religione Romana Antica)</i>
   - 🐦‍🔥 Ancient Roman Mythology <i>(Mitologia Romana Antica)</i>
   - 👑 System of Gens <i>(Gentes)</i>
@@ -385,9 +385,9 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🏓 Trigon Game <i>(Trigon)</i>
   - 🎑 Argei Ritual <i>(Argei)</i>
   - 🪕 Authentic Musical Instrument: Cornu <i>(Cornu)</i>
-  - 👘 Authentic Garb: Toga & Palla <i>(Toga e Palla)</i> 
+  - 👘 Garb: Toga & Palla <i>(Toga e Palla)</i> 
 - 🏰 Heritage of the Roman Empire <i>(Impero Romano / Imperium Romanum)</i>
-  - 🦉 Authentic Concept: Roman Imperial Cult <i>(Cultus Imperatorius)</i>
+  - 🦉 Concept: Roman Imperial Cult <i>(Cultus Imperatorius)</i>
   - 🕯️ Mithraism <i>(Cultus Mithrae)</i>
   - 👑 System of Civitas <i>(Civitates)</i>
   - 👑 Title of Emperor <i>(Imperator)</i>
@@ -397,7 +397,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🏛️ Ancient Roman Architectural Style <i>(Architettura Romana Antica)</i>
   - 🛠️ Ancient Roman Sculptural Tradition <i>(Scultura Romana Antica)</i>
   - 🎑 Taurobolium Ritual <i>(Taurobolium)</i>
-  - 👘 Authentic Garb: Dalmatic & Paenula <i>(Dalmatica e Paenula)</i>
+  - 👘 Garb: Dalmatic & Paenula <i>(Dalmatica e Paenula)</i>
 - 🏰 Heritage of the Ostrogothic Kingdom <i>(Regno Ostrogoto / 𐌿𐍃𐍄𐍂𐍉𐌲𐍉𐍄𐌹𐍃𐌺 𐌺𐌹𐌽𐌲𐌳𐍉𐌼)</i>
 - 🏰 Heritage of the Lombard Kingdom <i>(Regno Longobardo / Regnum Langobardorum)</i>
 - 🏰 Heritage of the Kingdom of Italy <i>(Regno d'Italia)</i>
@@ -424,7 +424,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 💃 Liscio Dance <i>(Ballo Liscio)</i><br>
 <u>Sicily - Regional Special:</u> 
 - 👲 Culture of Sicilians <i>(Siciliani / Siciliani)</i> 
-  - 🦉 Authentic Concept: Omerta <i>(Omertà / Ômertà)</i>
+  - 🦉 Concept: Omerta <i>(Omertà / Ômertà)</i>
   - 🐦‍🔥 Sicilian Folklore <i>(Folclore Siciliano / Folklori Sicilianu)</i>
   - 🏺 Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
   - 🛖 Baglio Farmhouses <i>(Bagli / Bagghi)</i>

@@ -131,7 +131,7 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Thainess <i>(ความเป็นไทย)</i>
+- 🦉 Concept: Thainess <i>(ความเป็นไทย)</i>
 - 🕯️ Buddhism <i>(ศาสนาพุทธ)</i>
 - 🕯️ Tai Folk Religion <i>(ศาสนาผี)</i>
 - 📜 Thai Script <i>(อักษรไทย)</i>
@@ -152,7 +152,7 @@ Hej! I'm sharing a glimpse of my experience visiting radiant Thailand. I was the
 - 🏓 Mak-Yek Game <i>(หมากแยก)</i>
 - 🎭 Khon Dance Drama <i>(โขน)</i>
 - 🪕 Authentic Musical Instrument: Krachappi <i>(กระจับปี่)</i> 
-- 👘 Authentic Garb: Pha Nung <i>(ผ้านุ่ง)</i>
+- 👘 Garb: Pha Nung <i>(ผ้านุ่ง)</i>
 - 🏰 Heritage of the Sukhothai Kingdom <i>(อาณาจักรสุโขทัย)</i>
 - 🏰 Heritage of the Ayutthaya Kingdom <i>(อาณาจักรอยุธยา)</i>
 - 🏰 Heritage of the Thonburi Kingdom <i>(อาณาจักรธนบุรี)</i>

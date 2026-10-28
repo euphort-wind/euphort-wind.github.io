@@ -146,7 +146,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - Ben X <i>(Ben X)</i>. Year: 2007. Genre: thriller 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Belgitude <i>(Belgitude / Belgitude)</i>
+- 🦉 Concept: Belgitude <i>(Belgitude / Belgitude)</i>
 - 🐦‍🔥 Belgian Folklore <i>(Folklore Belge / Belgische Folklore)</i>
 - 🛖 Belgian Friteries <i>(Friteries / Frietkoten)</i>
 - 🏛️ Brabantine Gothic Architectural Style <i>(Gothique Brabançon / Brabantse Gotiek)</i>

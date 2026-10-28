@@ -134,7 +134,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Kyrgyzstan. I was 
 - 🎨 Tush Kyiz Wall Hangings <i>(Туш Кийиз)</i>
 - 🏓 Kok Boru Game <i>(Көк-Бөрү)</i> 
 - 🪕 Authentic Musical Instrument: Komuz <i>(Комуз)</i> 
-- 👘 Authentic Garb: Ak-Kalpak & Beldemchi <i>(Ак Калпак менен Белдемчи)</i> 
+- 👘 Garb: Ak-Kalpak & Beldemchi <i>(Ак Калпак менен Белдемчи)</i> 
 - 👲 Culture of Dungan <i>(Дунгандар / Хуэйзў)</i>
 - 🧝 Legacy of Yenisei Kyrgyz <i>(Энесай Кыргыздары / 𐰶𐰃𐰺𐰶𐰃𐰕)</i>
 - 🏰 Heritage of the Kyrgyz Khaganate <i>(Кыргыз Кагандыгы / 𐰴𐰃𐰻𐰴𐰕:𐰅𐰠)</i>

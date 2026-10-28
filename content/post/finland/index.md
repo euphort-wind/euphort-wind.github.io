@@ -142,7 +142,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Sisu <i>(Sisu)</i>
+- 🦉 Concept: Sisu <i>(Sisu)</i>
 - 🐦‍🔥 Finnish Mythology <i>(Suomalainen Mytologia)</i>
 - 🏺 Puukko Knives <i>(Puukko)</i>
 - 🛖 Finnish Saunas <i>(Saunakulttuuri)</i>
@@ -150,7 +150,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - 🏓 Kyykkä Game <i>(Kyykkä)</i>
 - 🎙️ Finnish Runic Singing <i>(Runolaulu)</i>
 - 🪕 Authentic Musical Instrument: Kantele <i>(Kantele)</i>
-- 👘 Authentic Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
+- 👘 Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
 - 👲 Culture of Sámi <i>(Saamelaiset / Sámit)</i>
   - 🕯️ Sámi Shamanism <i>(Saamelainen Muinaisusko / Sámi Osku)</i>
   - 👑 System of Siida <i>(Lapinkylä / Siida)</i>
@@ -160,7 +160,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
   - 🏓 Dablo Game <i>(Dablo / Daablodh Prejjesne)</i>
   - 🎙️ Joik Singing <i>(Joiku / Luohti)</i>
   - 🪕 Authentic Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
-  - 👘 Authentic Garb: Beaska & Four Winds Hat <i>(Beaska ja Neljäntuulenlakki / Muoddá ja Čiehgahpir)</i>
+  - 👘 Garb: Beaska & Four Winds Hat <i>(Beaska ja Neljäntuulenlakki / Muoddá ja Čiehgahpir)</i>
 - ⛰️ Salpausselkä <i>(Salpausselkä)</i>
 
 

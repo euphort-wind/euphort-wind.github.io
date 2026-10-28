@@ -393,7 +393,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Lagom <i>(Lagom)</i>
+- 🦉 Concept: Lagom <i>(Lagom)</i>
 - 🐦‍🔥 Nordic Folklore <i>(Nordiska Folktro)</i>
 - 🏺 Dala Horses <i>(Dalahästar)</i>
 - 🏺 Gävle Goats <i>(Gävlebockar)</i>
@@ -404,7 +404,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🎑 Fika Ritual <i>(Fika)</i>
 - 💃 Hambo Dance <i>(Hambo)</i>
 - 🪕 Authentic Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
-- 👘 Authentic Garb: Folkdräkt <i>(Svensk Folkdräkt)</i>
+- 👘 Garb: Folkdräkt <i>(Svensk Folkdräkt)</i>
 - 🏰 Heritage of the Sweden-Norway Union <i>(Sverige-Norge / Norig-Sverike)</i>
 <br>
 <u>Gotland - Regional Special:</u> 

@@ -133,7 +133,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - Qaitadan <i>(Қайтадан)</i>. Year: 2025. Genre: thriller
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Jeti Ata <i>(Жеті Ата)</i>
+- 🦉 Concept: Jeti Ata <i>(Жеті Ата)</i>
 - 🐦‍🔥 Kazakh Folklore <i>(Қазақ Фольклоры)</i>
 - 👑 System of Jüz <i>(Жүздер)</i>
 - 🎨 Kazakh Ornaments <i>(Қазақтың Ұлттық Ою-өрнегі)</i> 
@@ -143,7 +143,7 @@ Hej! I'm sharing a glimpse of my experience visiting astonishing Kazakhstan. I w
 - 🏓 Assyk Game <i>(Асық)</i> 
 - 🎭 Akyns & Aytysh <i>(Ақындар мен Айтыс)</i> 
 - 🪕 Authentic Musical Instrument: Dombra <i>(Домбыра)</i>
-- 👘 Authentic Garb: Shapan & Borik <i>(Шапан мен Бөрік)</i> 
+- 👘 Garb: Shapan & Borik <i>(Шапан мен Бөрік)</i> 
 - 🏰 Heritage of the Western Turkic Khaganate <i>(Батыш Түрк Кагандыгы / 𐰆𐰣:𐰸:𐰉𐰆𐰑𐰣)</i>
 - 🏰 Heritage of the Cuman-Kipchak Confederation <i>(Қыпшақ Даласы / دشت قپچاق)</i>
 - 🏰 Heritage of the Golden Horde <i>(Алтын Орда / اولوغ اولوس)</i> 

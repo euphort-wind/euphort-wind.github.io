@@ -253,9 +253,9 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Gemütlichkeit <i>(Gemütlichkeit)</i>
-- 🦉 Authentic Concept: Wanderlust <i>(Wanderlust)</i>
-- 🦉 Authentic Concept: Sehnsucht <i>(Sehnsucht)</i>
+- 🦉 Concept: Gemütlichkeit <i>(Gemütlichkeit)</i>
+- 🦉 Concept: Wanderlust <i>(Wanderlust)</i>
+- 🦉 Concept: Sehnsucht <i>(Sehnsucht)</i>
 - 🕯️ Lutheranism <i>(Luthertum)</i>
 - 🐦‍🔥 German Folklore <i>(Deutsche Folklore)</i>
 - 👑 Title of Federal Chancellor <i>(Kanzler)</i>
@@ -270,7 +270,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🏓 Mensch-Ärgere-Dich-Nicht Game <i>(Mensch Ärgere Dich Nicht)</i>
 - 💃 Allemande Dance <i>(Allemande)</i>
 - 🪕 Authentic Musical Instrument: Zither <i>(Zither)</i>
-- 👘 Authentic Garb: German Tracht <i>(Tracht)</i>
+- 👘 Garb: German Tracht <i>(Tracht)</i>
 - 🧝 Legacy of Alemanni <i>(Alamannen)</i>
 - 🧝 Legacy of Thuringians <i>(Thüringer)</i>
 - 🧝 Legacy of Suebi <i>(Sueben)</i>
@@ -284,12 +284,12 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 <u>Hessen - Regional Special:</u>
 - 👑 Title of German Wine Queen <i>(Deutsche Weinkönigin)</i> 
 - 💃 Schwälmer Dance <i>(Schwälmer Tanz)</i>
-- 👘 Authentic Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i>
+- 👘 Garb: Hinterländer Trachten and Schwälmer Tracht <i>(Hinterländer Trachten und Schwälmer Tracht)</i>
 - 🏰 Heritage of the Grand Duchy of Hesse <i>(Großherzogtum Hessen und bei Rhein)</i>
 <br>
 <u>Rhineland-Palatinate - Regional Special:</u>
 - 🛠️ Westerwald Pottery Tradition <i>(Westerwälder Steinzeug)</i>
-- 👘 Authentic Garb: Tugendpfeil <i>(Tugendpfeil)</i>
+- 👘 Garb: Tugendpfeil <i>(Tugendpfeil)</i>
 - 🏰 Heritage of the Electorate of the Palatinate <i>(Kurfürstentum Pfalz)</i>
 <br>
 <u>Bavaria - Regional Special:</u>
@@ -301,7 +301,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
   - 🎑 Bavarian Brotzeit Ritual <i>(Brotzeit / Brotzeit)</i>
   - 💃 Schuhplattler Dance <i>(Schuhplattler / Schuhplattler)</i>
   - 🎙️ Gstanzl Singing <i>(Gstanzl / Gestanzel)</i>
-  - 👘 Authentic Garb: Lederhosen & Dirndl <i>(Lederhose und Dirndl / Lederhosn un Diandl)</i>
+  - 👘 Garb: Lederhosen & Dirndl <i>(Lederhose und Dirndl / Lederhosn un Diandl)</i>
 - 🧝 Legacy of Baiuvarii <i>(Bajuwaren / Bajuwarn)</i>
 - 🏰 Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Herzogtum Boarn)</i>
 - 🏰 Heritage of the Electorate of Bavaria <i>(Kurfürstentum Bayern / Kurfürstentum Boarn)</i>

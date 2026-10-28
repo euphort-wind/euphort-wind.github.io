@@ -153,8 +153,8 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Serbian Inat <i>(Српски Инат)</i>
-- 🦉 Authentic Concept: Polako <i>(Полако)</i> 
+- 🦉 Concept: Serbian Inat <i>(Српски Инат)</i>
+- 🦉 Concept: Polako <i>(Полако)</i> 
 - 🐦‍🔥 Serbian Folklore <i>(Српски Фолклор)</i>
 - 🏺 Čokanja Bottles <i>(Чокањи)</i>
 - 🚗 Serbian Cars <i>(Brand: "Zastava")</i>
@@ -165,7 +165,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - 🎑 Slava Celebration Ritual <i>(Српска Слава)</i>
 - 💃 Serbian Kolo Dance <i>(Коло)</i>
 - 🪕 Authentic Musical Instrument: Gusle <i>(Гусле)</i>
-- 👘 Authentic Garb: Šajkača & Opanci <i>(Шајкача и Опанци)</i>
+- 👘 Garb: Šajkača & Opanci <i>(Шајкача и Опанци)</i>
 - 🏰 Heritage of the Grand Principality of Serbia <i>(Великожупанска Србија)</i>
 - 🏰 Heritage of the Kingdom of Serbia <i>(Краљевина Србија)</i>
   - 🐦‍🔥 Serbian Epic Poetry <i>(Српске Епске Народне Песме)</i>

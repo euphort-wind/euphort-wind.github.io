@@ -134,8 +134,8 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Ćejf <i>(Ćejf)</i>
-- 🦉 Authentic Concept: Merak <i>(Merak)</i>
+- 🦉 Concept: Ćejf <i>(Ćejf)</i>
+- 🦉 Concept: Merak <i>(Merak)</i>
 - 🐦‍🔥 Bosniak Epic Poetry <i>(Bošnjačke Epske Narodne Pjesme)</i>
 - 👑 Title of Tripartite President <i>(Tročlano Predsjedništvo)</i>
 - 🏛️ Bosnian Architectural Style <i>(Bosanski Stil u Arhitekturi)</i>

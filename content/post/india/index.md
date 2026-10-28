@@ -145,10 +145,10 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Ahimsa <i>(अहिंसा)</i>
-- 🦉 Authentic Concept: Karma <i>(कर्म)</i>
-- 🦉 Authentic Concept: Dharma <i>(धर्म)</i>
-- 🦉 Authentic Concept: Moksha <i>(मोक्ष)</i>
+- 🦉 Concept: Ahimsa <i>(अहिंसा)</i>
+- 🦉 Concept: Karma <i>(कर्म)</i>
+- 🦉 Concept: Dharma <i>(धर्म)</i>
+- 🦉 Concept: Moksha <i>(मोक्ष)</i>
 - 🕯️ Hinduism <i>(हिन्दू धर्म)</i>
 - 🕯️ Sikhism <i>(सिख धर्म)</i>
 - 🕯️ Jainism <i>(जैन धर्म)</i>
@@ -171,7 +171,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 🏓 Chaturanga Game <i>(चतुरंग)</i>
 - 💃 Bharatanatyam Dance <i>(भरतनाट्यम)</i>
 - 🪕 Authentic Musical Instrument: Saraswati Veena <i>(सरस्वती वीणा)</i>
-- 👘 Authentic Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
+- 👘 Garb: Sari & Sherwani <i>(साड़ी और शेरवानी)</i>
 - 🏰 Heritage of the Nanda Empire <i>(नंद साम्राज्य)</i>
 - 🏰 Heritage of the Maurya Empire <i>(मौर्यसाम्राज्य / मौर्यसाम्राज्यम्)</i>
 - 🏰 Heritage of the Gupta Empire <i>(गुप्त राजवंश / गुप्त)</i>
@@ -197,10 +197,10 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 🏰 Heritage of the Vijayanagara Empire <i>(विजयनगर साम्राज्य / ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ)</i><br>
 <u>Goa - Regional Special:</u> 
 - 👲 Culture of Konkanites <i>(कोंकणी लोग / कोंकणी लोक)</i>
-  - 🦉 Authentic Concept: Susegad <i>(सुसेगाद / सुसेगाद)</i>
+  - 🦉 Concept: Susegad <i>(सुसेगाद / सुसेगाद)</i>
   - 💃 Fugdi Dance <i>(फुगडी / फुगडी)</i>
   - 🪕 Authentic Musical Instrument: Ghumot <i>(घुमोट / घुमट)</i>
-  - 👘 Authentic Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
+  - 👘 Garb: Pano Bhaju <i>(पानो भजु / पानो भजु)</i>
 - 🏰 Heritage of the Kadamba Kingdom <i>(कदंब राज्य / कदंब राज्य)</i><br>
 
 

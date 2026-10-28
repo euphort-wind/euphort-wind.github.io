@@ -141,7 +141,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Hygge <i>(Hygge)</i>
+- 🦉 Concept: Hygge <i>(Hygge)</i>
 - 🐦‍🔥 Legend of the Danish Flag <i>(Dannebrog)</i>
 - 🐦‍🔥 Danish Folklore <i>(Dansk Folketro)</i>
 - 🛖 Danish Beach Huts <i>(Badehuse)</i>

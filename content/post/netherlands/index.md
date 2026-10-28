@@ -220,13 +220,13 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 
 
 <b>🪔 Authentic features:</b>
-- 🦉 Authentic Concept: Gezelligheid <i>(Gezelligheid)</i>
+- 🦉 Concept: Gezelligheid <i>(Gezelligheid)</i>
 - 🛖 Canal Houses <i>(Grachtenpanden)</i>
 - 🛖 Dutch Windmills <i>(Windmolens)</i>
 - 🏃🏻 Cycling Tradition <i>(Het Fietsen)</i>
 - 🏓 Sjoelen Game <i>(Sjoelen)</i>
 - 🪕 Authentic Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
-- 👘 Authentic Garb: Dutch Cap & Klomps <i>(Nederlandse Hul en Klompen)</i>
+- 👘 Garb: Dutch Cap & Klomps <i>(Nederlandse Hul en Klompen)</i>
 - 🏰 Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
   - 🐦‍🔥 Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
   - 👑 Title of Stadtholder <i>(Stadhouder)</i>
@@ -248,12 +248,12 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
 <br>
 <u>Friesland - Regional Special:</u> 
 - 👲 Culture of Frisians <i>(Friezen / Frysken)</i>
-  - 🦉 Authentic Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
+  - 🦉 Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
   - ⛵ Skûtsje Boats <i>(Skûtsje / Skûtsjes)</i>
   - 🏃🏻 Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
   - 🏃🏻 Fierljeppen Tradition <i>(Polsstokverspringen / Fierljeppen)</i> 
   - 🏃🏻 Frisian Handball Tradition <i>(Kaatsen / Keatsen)</i> 
-  - 👘 Authentic Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
+  - 👘 Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
 - 🏰 Heritage of the Frisian Peasant Republics <i>(Friese Vrijheid / Fryske Frijheid)</i>
 
 

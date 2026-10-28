@@ -221,14 +221,14 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 💃 Mazurka Dance <i>(Mazurek)</i>
 - 💃 Oberek Dance <i>(Oberek)</i>
 - 🪕 Authentic Musical Instrument: Koza <i>(Koza)</i>
-- 👘 Authentic Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i>
+- 👘 Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i>
 - 🏰 Heritage of the Duchy of Poland <i>(Państwo Gnieźnieńskie / Civitas Schinesghe)</i>
 - 🏰 Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i> 
 - 🏰 Heritage of the Polish–Lithuanian Commonwealth <i>(Rzeczpospolita / Regnum Poloniae Magnusque Ducatus Lithuaniae)</i>
-  - 🦉 Authentic Concept: Sarmatism <i>(Sarmatyzm)</i>
+  - 🦉 Concept: Sarmatism <i>(Sarmatyzm)</i>
   - 👑 Title of Szlachcic <i>(Szlachcic)</i>
   - 🏛️ Polish Baroque Architectural Style <i>(Sztuka Barokowa w Polsce)</i>
-  - 👘 Authentic Garb: Delia & Żupan <i>(Delia i Żupan)</i>
+  - 👘 Garb: Delia & Żupan <i>(Delia i Żupan)</i>
 - 🏰 Heritage of the Duchy of Warsaw <i>(Księstwo Warszawskie / Duché de Varsovie)</i><br>
 <u>Pomeranian - Regional Special:</u> 
 - 👲 Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
@@ -246,7 +246,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
   - 🛖 Familok Houses <i>(Familoki / Familoki)</i>
   - 🎑 Leading the Bear Ritual <i>(Wodzenie Niedźwiedzia / Wodzynie Bera)</i>
   - 💃 Trojak Dance <i>(Trojak / Trojok)</i>
-  - 👘 Authentic Garb: Strój Rozbarski <i>(Strój Rozbarski / Rozbarske Ôblyczynie)</i>
+  - 👘 Garb: Strój Rozbarski <i>(Strój Rozbarski / Rozbarske Ôblyczynie)</i>
 - 🏰 Heritage of the Duchy of Silesia <i>(Księstwo Śląskie / Ślōnski Firsztyntōm)</i>
 <br> 
 <u>Lesser Poland - Regional Special:</u>
@@ -256,13 +256,13 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🎑 St. Mary's Trumpet Call Ritual <i>(Hejnał Mariacki)</i>
 - 🎑 Siuda Baba Ritual <i>(Siuda Baba)</i>
 - 💃 Krakowiak Dance <i>(Krakowiak)</i>
-- 👘 Authentic Garb: Krakuska Hat <i>(Czapka Krakowska)</i>
+- 👘 Garb: Krakuska Hat <i>(Czapka Krakowska)</i>
 - 👲 Culture of Gorals <i>(Górale / Górole)</i>
   - 🏺 Wałaszka Axes <i>(Ciupagi)</i>
   - 🏛️ Zakopane Architectural Style <i>(Styl Zakopiański)</i>
   - 🎨 Parzenica Embroidery <i>(Parzenica)</i>
   - 💃 Góralski Dance <i>(Taniec Góralski)</i>
-  - 👘 Authentic Garb: Goral Hat <i>(Kapelusz Góralski)</i>
+  - 👘 Garb: Goral Hat <i>(Kapelusz Góralski)</i>
 - 🏰 Heritage of the Duchy of Kraków <i>(Księstwo Krakowskie)</i>
 - 🏰 Heritage of the Republic of Cracow <i>(Rzeczpospolita Krakowska)</i>
 
