@@ -34,7 +34,6 @@ gallery_item:
   /* 1. Reduce left and right whitespace / widen container */
   .article-container,
   .container {
-    max-width: 1000px !important;
     padding-left: 1rem !important;  /* Reduces inner side padding */
     padding-right: 1rem !important;
   }
@@ -51,23 +50,6 @@ gallery_item:
   .article-style h1 { font-size: 1.6rem !important; }
   .article-style h2 { font-size: 1.35rem !important; }
   .article-style h3 { font-size: 1.15rem !important; }
-
-/* 1. Force gallery image containers/thumbnails to be square */
-.gallery img,
-.gallery-item img,
-.album img,
-.gallery-item {
-  aspect-ratio: 1 / 1 !important; /* Forces 1:1 square ratio */
-  object-fit: cover !important;   /* Crops excess image gracefully without stretching */
-  width: 100% !important;
-  height: 100% !important;
-  border-radius: 4px;            /* Optional: slight rounded corners */
-}
-
-/* 2. Control gallery column tile size */
-.gallery-item {
-  max-width: 220px !important;  /* Adjust size per square thumbnail */
-}
 </style>
 
 Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I was there in 2023. Below are some notes on what I tasted, saw and listened to.
