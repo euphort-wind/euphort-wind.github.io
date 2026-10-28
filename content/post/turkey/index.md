@@ -206,8 +206,8 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
 - 🎭 Meddahs & Meddahlık <i>(Meddahlar ve Meddahlık)</i>
 - 💃 Halay Dance <i>(Halay)</i>
 - 💃 Oryantal Dance <i>(Oryantal Dans)</i>
-- 🪕 Bağlama <i>(Bağlama)</i> 
-- 👘 Shalvar & Yelek <i>(Şalvar ve Yelek)</i>
+- 🪕 Musical Instrument: Bağlama <i>(Bağlama)</i> 
+- 👘 Garb: Shalvar & Yelek <i>(Şalvar ve Yelek)</i>
 - 🧝 Legacy of Phrygians <i>(Frigler)</i>
 - 🏰 Heritage of the Hittite Empire <i>(Hititler / 𒄩𒀜𒌅𒊭)</i>
 - 🏰 Heritage of the Kingdom of Lydia <i>(Lidya / 𐤮𐤱𐤠𐤭𐤣𐤠)</i>
@@ -222,8 +222,8 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
   - 🏃🏻 Matrak Tradition <i>(Matrak / ماتراق)</i>
   - 🎭 Karagöz Shadow Play <i>(Karagöz / قراقوز)</i>
   - 🎙️ Köçekçe & Köçeks <i>(Köçekçe ve Köçekler / کوچکچه و کوچک‌لر)</i>
-  - 🪕 Çeng <i>(Çeng / چنگ)</i> 
-  - 👘 Fez & Kaftan <i>(Fes ve Kaftan / قفتان و فَس)</i>
+  - 🪕 Musical Instrument: Çeng <i>(Çeng / چنگ)</i> 
+  - 👘 Garb: Fez & Kaftan <i>(Fes ve Kaftan / قفتان و فَس)</i>
 - ⛰️ Turkish Hoodoos <i>(Peribacası)</i><br>
 <u>Antalya - Regional Special:</u> 
 - 🛖 Düğmeli Houses <i>(Düğmeli Evler)</i>

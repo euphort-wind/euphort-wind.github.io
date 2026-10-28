@@ -236,8 +236,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🎑 Siesta Ritual <i>(Siesta)</i>
 - 🎑 Sobremesa Ritual <i>(Sobremesa)</i>
 - 🎭 Zarzuela Theater <i>(Zarzuela)</i>
-- 🪕 Castanets <i>(Castañuelas)</i> 
-- 👘 Mantilla & Traje de Luces <i>(Mantilla y Traje de Luces)</i>
+- 🪕 Musical Instrument: Castanets <i>(Castañuelas)</i> 
+- 👘 Garb: Mantilla & Traje de Luces <i>(Mantilla y Traje de Luces)</i>
 - 🧝 Legacy of Iberians <i>(Íberos)</i>
   - 📜 Northeastern Iberian Script <i>(Escritura Ibérica Nororiental)</i>
   - 📜 Southeastern Iberian Script <i>(Escritura Ibérica Suroriental)</i>
@@ -269,8 +269,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - 🎭 Els Pastorets Performance <i>(Los Pastorcillos / Els Pastorets)</i>
   - 💃 Sardana Dance <i>(Sardana / Sardana)</i>
   - 💃 Catalan Rumba Dance <i>(Rumba Catalana / Rumba Catalana)</i>
-  - 🪕 Flabiol <i>(Flabiol / Flabiol)</i>
-  - 👘 Espadrilles & Barretina <i>(Alpargatas y Barretina / Espardenyes i Barretina)</i>
+  - 🪕 Musical Instrument: Flabiol <i>(Flabiol / Flabiol)</i>
+  - 👘 Garb: Espadrilles & Barretina <i>(Alpargatas y Barretina / Espardenyes i Barretina)</i>
 - 🏰 Heritage of the Principality of Catalonia <i>(Principado de Cataluña / Principat de Catalunya)</i><br>
 <u>Andalusia - Regional Special:</u> 
 - 🦉 Concept: Duende <i>(Duende)</i>
@@ -284,8 +284,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 💃 Flamenco Dance <i>(Flamenco)</i>
 - 🎙️ Cante Jondo Flamenco Singing <i>(Cante Jondo)</i>
 - 🎙️ Cante Chico Flamenco Singing <i>(Cante Chico)</i>
-- 🪕 Gaita Gastoreña <i>(Gaita Gastoreña)</i>
-- 👘 Traje de Flamenca & Cordovan Hat <i>(Traje de Gitana y Sombrero Cordobés)</i>
+- 🪕 Musical Instrument: Gaita Gastoreña <i>(Gaita Gastoreña)</i>
+- 👘 Garb: Traje de Flamenca & Cordovan Hat <i>(Traje de Gitana y Sombrero Cordobés)</i>
 - 🧝 Legacy of Tartessians <i>(Tartesios)</i>
 - 🏰 Heritage of the Emirate of Granada <i>(Emirato de Granada / إمارة غرﻧﺎﻃﺔ)</i>
 

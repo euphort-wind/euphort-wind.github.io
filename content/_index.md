@@ -235,28 +235,61 @@ sections:
       view: list
       columns: '2'
 
-#  - block: markdown
-#    id: posts
-#    content:
-#      title: Wanderlust
-#      text: |2-
-#        {{< row >}}
-#
-#        {{< col class="col-md-6" >}}
-#        ### Column 1
-#        * [🇸🇪 Sweden](/post/sweden/)
-#        * [🇳🇴 Norway](/post/norway/)
-#        {{< /col >}}
-#
-#        {{< col class="col-md-6" >}}
-#        ### Column 2
-#        * [🇯🇴 Jordan](/post/jordan/)
-#        * [🇪🇬 Egypt](/post/egypt/)
-#        {{< /col >}}
-#
-#        {{< /row >}}
-#    design:
-#      columns: '1'
+  - block: markdown
+    id: posts
+    content:
+      title: Wanderlust
+      subtitle: ''
+      text: |2-
+        <div class="row">
+          <div class="col-md-6">
+            <h3>Nothern Europe</h3>
+            <ul>
+              <li><a href="/post/sweden/">🇸🇪 Sweden</a></li>
+              <li><a href="/post/norway/">🇳🇴 Norway</a></li>
+              <li><a href="/post/denmark/">🇩🇰 Denmark</a></li>
+              <li><a href="/post/finland/">🇫🇮 Finland</a></li>
+              <li><a href="/post/aland/">🇦🇽 Åland Islands</a></li>
+              <li><a href="/post/estonia/">🇪🇪 Estonia</a></li>
+              <li><a href="/post/latvia/">🇱🇻 Latvia</a></li>
+              <li><a href="/post/lithuania/">🇱🇹 Lithuania</a></li>
+            </ul>
+          <h3>Western Europe</h3>
+            <ul>
+              <li><a href="/post/belgium/">🇧🇪 Belgium</a></li>
+              <li><a href="/post/france/">🇫🇷 France</a></li>
+              <li><a href="/post/germany/">🇩🇪 Germany</a></li>
+              <li><a href="/post/liechtenstein/">🇱🇮 Liechtenstein</a></li>
+              <li><a href="/post/luxembourg/">🇱🇺 Luxembourg</a></li>
+              <li><a href="/post/monaco/">🇲🇨 Monaco</a></li>
+              <li><a href="/post/netherlands/">🇳🇱 Netherlands</a></li>
+            </ul>
+          </div>
+
+          <div class="col-md-6">
+            <h3>Western Europe</h3>
+            <ul>
+            <li><a href="/post/albania/">🇦🇱 Albania</a></li>
+            <li><a href="/post/andorra/">🇦🇩 Andorra</a></li>
+            <li><a href="/post/bosnia/">🇧🇦 Bosnia and Herzegovina</a></li>
+            <li><a href="/post/croatia/">🇭🇷 Croatia</a></li>
+            <li><a href="/post/gibraltar/">🇬🇮 Gibraltar</a></li>
+            <li><a href="/post/greece/">🇬🇷 Greece</a></li>
+            <li><a href="/post/vatican/">🇻🇦 Vatican</a></li>
+            <li><a href="/post/italy/">🇮🇹 Italy</a></li>
+            <li><a href="/post/malta/">🇲🇹 Malta</a></li>
+            <li><a href="/post/montenegro/">🇲🇪 Montenegro</a></li>
+            <li><a href="/post/macedonia/">🇲🇰 North Macedonia</a></li>
+            <li><a href="/post/portugal/">🇵🇹 Portugal</a></li>
+            <li><a href="/post/sanmarino/">🇸🇲 San Marino</a></li>
+            <li><a href="/post/serbia/">🇷🇸 Serbia</a></li>
+            <li><a href="/post/slovenia/">🇸🇮 Slovenia</a></li>
+            <li><a href="/post/spain/">🇪🇸 Spain</a></li>
+            </ul>
+          </div>
+        </div>
+    design:
+      columns: '1'
   
   - block: contact
     id: contact

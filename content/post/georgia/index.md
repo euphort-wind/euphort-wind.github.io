@@ -183,8 +183,8 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - 🎑 Tamadas & Supra Ritual <i>(თამადა და სუფრა)</i>
 - 💃 Kartuli Dance <i>(ქართული ცეკვა)</i>
 - 🎙️ Georgian Polyphonic Singing <i>(ქართული მრავალხმიანობა)</i>
-- 🪕 Panduri <i>(ფანდური)</i>
-- 👘 Chokha & Kabalakhi <i>(ჩოხა და ყაბალახი)</i>
+- 🪕 Musical Instrument: Panduri <i>(ფანდური)</i>
+- 👘 Garb: Chokha & Kabalakhi <i>(ჩოხა და ყაბალახი)</i>
 - 🏰 Heritage of the Kingdom of Colchis <i>(ეგრისი)</i>
 - 🏰 Heritage of the Kingdom of Iberia <i>(იბერია)</i>
   - 🕯️ Armazic Religion <i>(არმაზის რელიგია)</i>
@@ -200,7 +200,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - 🏰 Heritage of the Kingdom of Kartli <i>(ქართლის სამეფო)</i><br>
 <u>Kakheti - Regional Special:</u> 
 - 💃 Kakhuri Dance <i>(კახურის ცეკვა)</i>
-- 👘 Kakhuri Hat <i>(კახური ქუდი)</i>
+- 👘 Garb: Kakhuri Hat <i>(კახური ქუდი)</i>
 - 🏰 Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i><br>
 <u>Tbilisi-Capital - Regional Special:</u>
 - 🏺 Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i> 

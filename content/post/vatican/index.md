@@ -95,9 +95,9 @@ Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was ther
 - 👑 Title of Bishop of Rome <i>(Pontifex Maximus)</i>
 - 🎑 Papal Audience Ritual <i>(Audientia)</i>
 - 🎑 Papal Conclave Ritual <i>(Conclave)</i>
-- 🪕 Pipe Organ <i>(Organum)</i> 
-- 👘 Cope & Zucchetto <i>(Pluviale et Pileolus)</i>
-- 👘 Authentic Papal Papal Regalia & Insignia <i>(Insignia et Regalia Papalia)</i>
+- 🪕 Musical Instrument: Pipe Organ <i>(Organum)</i> 
+- 👘 Garb: Cope & Zucchetto <i>(Pluviale et Pileolus)</i>
+- 👘 Garb: Authentic Papal Papal Regalia & Insignia <i>(Insignia et Regalia Papalia)</i>
 - 🏰 Heritage of the Papal States <i>(Status Pontificius)</i>
 
 

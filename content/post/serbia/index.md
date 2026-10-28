@@ -164,8 +164,8 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - 🏃🏻 Narodno Rvanje Tradition <i>(Народно Рвање)</i>
 - 🎑 Slava Celebration Ritual <i>(Српска Слава)</i>
 - 💃 Serbian Kolo Dance <i>(Коло)</i>
-- 🪕 Gusle <i>(Гусле)</i>
-- 👘 Šajkača & Opanci <i>(Шајкача и Опанци)</i>
+- 🪕 Musical Instrument: Gusle <i>(Гусле)</i>
+- 👘 Garb: Šajkača & Opanci <i>(Шајкача и Опанци)</i>
 - 🏰 Heritage of the Grand Principality of Serbia <i>(Великожупанска Србија)</i>
 - 🏰 Heritage of the Kingdom of Serbia <i>(Краљевина Србија)</i>
   - 🐦‍🔥 Serbian Epic Poetry <i>(Српске Епске Народне Песме)</i>

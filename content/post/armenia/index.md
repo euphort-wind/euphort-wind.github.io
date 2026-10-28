@@ -205,8 +205,8 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
 - 💃 Kochari Dance <i>(Քոչարի)</i>
 - 💃 Berd Dance <i>(Բերդ)</i>
 - 🎙️ Gusans & Gusan Songs <i>(Գուսաններ և Գուսան երգեր)</i>
-- 🪕 Armenian Duduk <i>(դուդուկ)</i>
-- 👘 Armenian Taraz <i>(տարազ)</i>
+- 🪕 Musical Instrument: Armenian Duduk <i>(դուդուկ)</i>
+- 👘 Garb: Armenian Taraz <i>(տարազ)</i>
 - 🏰 Heritage of Urartu <i>(Վանի թագավորություն / 𒁉𒀀𒉌𒇷)</i>
   - 🕯️ Urartian Religion <i>(Վանի թագավորության կրոն / 𒀭 𒀀𒄷𒆷𒁲)</i>
   - 🐦‍🔥 Urartian Mythology <i>(Ուրարտական ​​դիցաբանություն / 𒀭)</i>

@@ -124,7 +124,7 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
 - 🎑 Ball de l'Última Ossa d'Ordino Ritual <i>(Ball de l'Última Ossa d'Ordino)</i>
 - 💃 Marratxa Dance <i>(Marratxa)</i>
 - 💃 Contrapàs Dance <i>(Contrapàs)</i>
-- 🪕 Sac de Gemecs <i>(Buna)</i>
+- 🪕 Musical Instrument: Sac de Gemecs <i>(Buna)</i>
 - 🏰 Heritage of the Hispanic March <i>(Marca Hispànica)</i>
 
 

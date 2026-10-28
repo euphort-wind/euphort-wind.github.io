@@ -138,7 +138,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - 🎨 Sodai Straw Gardens <i>(Šiaudinių Sodų Tradicija)</i>
 - 🏓 Ritinis Game <i>(Ritinis)</i>
 - 🎙️ Sutartines Songs <i>(Sutartinės)</i>
-- 🪕 Birbynė <i>(Birbynė)</i> 
+- 🪕 Musical Instrument: Birbynė <i>(Birbynė)</i> 
 - 🧝 Legacy of Ancient Lithuanians <i>(Senlietuviai)</i> 
 - 🏰 Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžioji Kunigaikštystė)</i><br>
 <u>Vilnius - Regional Special:</u>

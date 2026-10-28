@@ -163,13 +163,13 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - 🎭 Czech Puppetry <i>(České Loutkářství)</i>
 - 💃 Beseda Dance <i>(Česká Beseda)</i>
 - 💃 Polka Dance <i>(Polka)</i>
-- 🪕 Bohemian Harp <i>(Harfa)</i>
-- 👘 Czech Kroj <i>(Kroje)</i>
+- 🪕 Musical Instrument: Bohemian Harp <i>(Harfa)</i>
+- 👘 Garb: Czech Kroj <i>(Kroje)</i>
 - 🏰 Heritage of the Samo's Realm <i>(Sámova Říše)</i>
 - 🏰 Heritage of Great Moravia <i>(Velkomoravská Říše / Ⰿⱁⱃⰰⰲⰰ)</i>
   - 🏺 Great Moravian Axe-Shaped Bars <i>(Moravské Sekerovité Hřivny / ⰳⱃⰻⰲⱐⰐⱏⰹ)</i>
   - 🏛️ Great Moravian Sacral Architectural Style <i>(Velkomoravská Sakrální Architektura / ⱈⱃⰰⰿⱏ)</i>
-  - 👘 Gombíky <i>(Gombíky / ⰳⱁⰿⰱⰹⰽⱏ)</i>
+  - 👘 Garb: Gombíky <i>(Gombíky / ⰳⱁⰿⰱⰹⰽⱏ)</i>
 - 🏰 Heritage of the Duchy of Bohemia <i>(České Knížectví / Ducatus Bohemiæ)</i>
 - 🏰 Heritage of the Kingdom of Bohemia <i>(České Království / Königreich Böhmen)</i>
 - 🏰 Heritage of Czechoslovakia <i>(Československo)</i></br>
@@ -179,7 +179,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - 👲 Culture of Moravians <i>(Moravané / Moraváci)</i>
   - 🎑 Ride of the Kings Ritual <i>(Jízda Králů)</i>
   - 💃 Moravian Verbuňk Dance <i>(Slovácký Verbuňk)</i>
-  - 👘 Kordulka Vest & Ceremonial Pentleni <i>(Kordulka Vest & Pentleni)</i>
+  - 👘 Garb: Kordulka Vest & Ceremonial Pentleni <i>(Kordulka Vest & Pentleni)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

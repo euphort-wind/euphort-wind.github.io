@@ -179,8 +179,8 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🎑 Anastenaria Ritual <i>(Нестинарство)</i>
 - 🎑 Kukeri Ritual <i>(Кукери)</i>
 - 💃 Horo Dance <i>(Хоро)</i>
-- 🪕 Kaba Gaida <i>(Каба Гайда)</i>
-- 👘 Bulgarian Nosiya <i>(Носия)</i>
+- 🪕 Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
+- 👘 Garb: Bulgarian Nosiya <i>(Носия)</i>
 - 🧝 Legacy of Thracians <i>(Траки)</i>
 - 🧝 Legacy of Bulghars <i>(Прабългари)</i>
 - 🏰 Heritage of the First Bulgarian Empire <i>(Първо Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>

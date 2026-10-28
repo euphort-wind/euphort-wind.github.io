@@ -132,8 +132,8 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
 - 💃 Raqs Sharqi Dance <i>(رقص شرقي)</i>
 - 🎙️ Baladi Music <i>(بلدي)</i>
 - 🎙️ Shaabi Music <i>(شعبي)</i>
-- 🪕 Simsimiyya <i>(سمسمية)</i>
-- 👘 Galabiya <i>(جلابية)</i>
+- 🪕 Musical Instrument: Simsimiyya <i>(سمسمية)</i>
+- 👘 Garb: Galabiya <i>(جلابية)</i>
 - 👲 Culture of Copts <i>(أقباط / Ⲛⲓⲣⲉⲙ̀ⲛⲭⲏⲙⲓ Ⲛ̀ⲭⲣⲏⲥⲧⲓ̀ⲁⲛⲟⲥ)</i>
   - 🦉 Concept: Coptic Monasticism <i>(الرهبنة القبطية / Ⲡⲓⲃⲓⲟⲥ Ⲛⲙⲟⲛⲁⲭⲟⲥ)</i>
   - 📜 Coptic Script <i>(الأبجدية القبطية / Ⲁⲃⲅⲇⲉ)</i>
@@ -142,7 +142,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - 🎨 Coptic Icon Painting <i>(فن قبطي / Ⲧⲉⲭⲛⲏ ⲛ̀ⲧⲉ Ⲛⲓⲕⲱⲛ)</i>
   - 🎙️ Coptic Chant <i>(الموسيقى القبطية / Ⲯⲁⲗⲙⲟⲥ Ⲛ̀ⲭⲏⲙⲓ)</i>
   - 🎑 Tasbeha Ritual <i>(تسبحة / Ⲑⲱⲇⲓⲁ)</i>
-  - 👘 Coptic Hand Cross <i>(الصليب القبطى / Ⲥⲧⲁⲩⲣⲟⲥ)</i>
+  - 👘 Garb: Coptic Hand Cross <i>(الصليب القبطى / Ⲥⲧⲁⲩⲣⲟⲥ)</i>
 - 🧝 Legacy of Ancient Egyptians <i>(المصريون القدماء / 𓆎𓅓𓏏𓊖)</i>
   - 🦉 Concept: Maat <i>(ماعت / 𓁦)</i>
   - 🦉 Concept: Ka <i>(كا / 𓂓)</i>
@@ -170,8 +170,8 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - 🏓 Hounds and Jackals Game <i>(كلاب الصيد وابن آوى / 𓃡𓃟)</i>
   - 🎑 Opening of the Mouth Ritual <i>(فتح الفم / 𓄋𓂋)</i>
   - 💃 Ancient Egyptian Dance <i>(الرقص في مصر القديمة / 𓀤)</i>
-  - 🪕 Sistrum <i>(السيستروم / 𓏣)</i>
-  - 👘 Khat & Shendyt <i>(الخات والشنديت / 𓎛𓂋𓏏)</i>
+  - 🪕 Musical Instrument: Sistrum <i>(السيستروم / 𓏣)</i>
+  - 👘 Garb: Khat & Shendyt <i>(الخات والشنديت / 𓎛𓂋𓏏)</i>
 - 🏰 Heritage of the Ptolemaic Kingdom <i>(المملكة البطلمية / Πτολεμαϊκὴ βασιλεία)</i>
 - 🏰 Heritage of the Fatimid Empire <i>(الخلافة الفاطمية)</i>
 - 🏰 Heritage of the Ayyubid Sultanate <i>(الدولة الأيوبية)</i>

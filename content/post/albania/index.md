@@ -128,8 +128,8 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Albania. I was 
 - 🛖 Albanian Kullas <i>(Kullat Shqiptare)</i>
 - 💃 Shota Dance <i>(Shotë)</i>
 - 🎙️ Albanian Iso-Polyphonic Music <i>(Iso-Polifonia Shqiptare)</i>
-- 🪕 Çifteli <i>(Çiftelia)</i>
-- 👘 Xhubleta & Xhamadan <i>(Xhubleta dhe Xhamadan)</i>
+- 🪕 Musical Instrument: Çifteli <i>(Çiftelia)</i>
+- 👘 Garb: Xhubleta & Xhamadan <i>(Xhubleta dhe Xhamadan)</i>
 - 🏰 Heritage of the Principality of Arbanon <i>(Principata e Arbrit / Arbanum)</i>
 - 🏰 Heritage of the League of Lezhë <i>(Lidhja e Lezhës)</i>
 - 🏰 Heritage of the Kingdom of Albania <i>(Mbretëria e Arbërisë)</i>

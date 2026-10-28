@@ -131,7 +131,7 @@ Hej! I'm sharing a glimpse of my experience visiting cozy Estonia. I was there i
 - 🐦‍🔥 Estonian Mythology <i>(Eesti Mütoloogia)</i>
 - 🏃🏻 Kiiking Tradition <i>(Kiiking)</i>
 - 🎙️ Estonian Runic Singing <i>(Regilaul)</i>
-- 🪕 Kannel <i>(Kannel)</i>
+- 🪕 Musical Instrument: Kannel <i>(Kannel)</i>
 - ⛰️ Baltic Klint <i>(Balti Klint)</i><br>
 <u>Võru - Regional Special:</u> 
 - 🛖 Võro Smoke Saunas <i>(Suitsusaun / Savvusann)</i>

@@ -152,7 +152,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 🏛️ Brabantine Gothic Architectural Style <i>(Gothique Brabançon / Brabantse Gotiek)</i>
 - 🎨 Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
 - 🏓 Crossage Game <i>(Crossage / Chole)</i>
-- 🪕 Saxophone <i>(Saxophone / Saxofoon)</i>
+- 🪕 Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
 - 🧝 Legacy of Belgae <i>(Belges / Belgae)</i>
 - 🏰 Heritage of the United Belgian States <i>(États-Belgiques-Unis / Verenigde Belgische Staten)</i>
 <br>
@@ -164,7 +164,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 👲 Culture of Flemings <i>(Vlamingen)</i>
   - 🎨 Flemish Baroque Painting <i>(Vlaamse Barokschilderkunst)</i>  
   - 🎨 Bruges Lace <i>(Brugs Bloemwerk)</i>
-  - 🪕 Doedelzak <i>(Doedelzak)</i>
+  - 🪕 Musical Instrument: Doedelzak <i>(Doedelzak)</i>
 - 🏰 Heritage of the County of Flanders <i>(Graafschap Vlaanderen / Groafschap Vloandern)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>

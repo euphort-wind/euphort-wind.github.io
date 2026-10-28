@@ -151,7 +151,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - 🎨 Danish Easter Letters <i>(Gækkebreve)</i>
 - 🏓 Daldøs Game <i>(Daldøs)</i>
 - 🎙️ Danish Fiddle Music <i>(Spillemandsmusik)</i>
-- 🪕 Lur <i>(Lur)</i>
+- 🪕 Musical Instrument: Lur <i>(Lur)</i>
 - 🏰 Heritage of the Kalmar Union <i>(Kalmarunionen)</i>
 - 🏰 Heritage of the Denmark-Norway Union <i>(Danmark–Norge / Danmark–Noreg)</i>
 - ⛰️ Fur Formations <i>(Fur Formationen)</i>

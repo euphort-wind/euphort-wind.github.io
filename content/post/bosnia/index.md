@@ -141,7 +141,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - 🏛️ Bosnian Architectural Style <i>(Bosanski Stil u Arhitekturi)</i>
 - 🛠️ Konjic Woodcarving Tradition <i>(Konjičko Drvorezbarstvo)</i>
 - 🎙️ Sevdah Music <i>(Sevdah)</i>
-- 🪕 Šargija <i>(Šargija)</i> 
+- 🪕 Musical Instrument: Šargija <i>(Šargija)</i> 
 - 🏰 Heritage of the Bosnian Banate <i>(Banovina Bosna / Boszniai Bánság)</i>
     - 🕯️ Bosnian Church Christianity <i>(Crkva Bosanska)</i>
     - 📜 Bosančica Script <i>(Bosančica)</i>
