@@ -120,7 +120,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 
 <b>🍽️ Local food & drinks: </b>
 - 🥗 Filet Americain <i>(Americain Préparé / Filet Americain)</i>
-- 🥙 Martino Sandwich <i>(Martino Sandwich / Martino Sandwich)</i>
+- 🥙 Martino Sandwich <i>(Martino / Martino)</i>
 - 🥘 Mussels'n'Fries <i>(Moules-Frites / Mosselen-Friet)</i>
 - 🥘 Steak Frites <i>(Steak-Frites / Steak-Friet)</i>
 - 🍰 Belgian Waffles <i>(Gaufres Belges / Belgische Wafels)</i>
@@ -129,6 +129,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 🍶 Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Leffe", "Delirium")</i>
 </br>
 <u>Brussels-Capital - Regional Special:</u> 
+- 🥙 Mitraillette <i>(Mitrayète / Mitraillette)</i>
 - 🥘 Stewed Brussels Sprouts <i>(Choux de Bruxelles / Spruitjes)</i>
 </br>
 <u>Flanders - Regional Special:</u> 
