@@ -254,7 +254,7 @@ sections:
           <div class="col-md-6">
             <h3>Nothern Europe</h3>
             <ul>
-              <li><a href="/post/sweden/"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag"> Sweden</a></li>
+              <li><a href="/post/sweden/"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag">" class="flag"> Sweden</a></li>
               <li><a href="/post/aland/">🇦🇽 Åland Islands</a></li>
               <li><a href="/post/denmark/">🇩🇰 Denmark</a></li>
               <li><a href="/post/estonia/">🇪🇪 Estonia</a></li>

@@ -1,5 +1,5 @@
 ---
-title: 🇸🇪 Sweden
+title: <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag"> Sweden
 date: '2026-10-03'
 summary: Life in Sweden
 
@@ -50,6 +50,14 @@ gallery_item:
   .article-style h1 { font-size: 1.6rem !important; }
   .article-style h2 { font-size: 1.35rem !important; }
   .article-style h3 { font-size: 1.15rem !important; }
+  
+  img.flag {
+          width: 1.25em;
+          height: 1.25em;
+          display: inline-block;
+          vertical-align: -0.2em;
+          margin-right: 0.2em;
+        }
 </style>
 
 Hej! I share an extract of my life in charming Sweden. I live there since 2021. Below are some notes on what I tasted, saw and listened to.
@@ -292,15 +300,15 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 
 <b>🎧 Local musicians: </b>
-- 🇸🇪 Tomas Ledin (singer). Genre: pop
-- 🇸🇪 Myra Granberg (singer). Genre: pop
-- 🇸🇪 Danny Saucedo (singer). Genre: pop
-- 🇸🇪 Molly Sandén (singer). Genre: pop
-- 🇸🇪 Kent (band). Genre: alternative rock
-- 🇸🇪 Stiftelsen (band). Genre: pop rock
-- 🇸🇪 Darin (singer). Genre: pop
-- 🇸🇪 Albin Lee Meldau (singer). Genre: pop
-- 🇸🇪 Basshunter (DJ). Genre: eurodance
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag"> Tomas Ledin (singer). Genre: pop
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag"> Myra Granberg (singer). Genre: pop
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag"> Danny Saucedo (singer). Genre: pop
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag"> Molly Sandén (singer). Genre: pop
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag"> Kent (band). Genre: alternative rock
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag"> Stiftelsen (band). Genre: pop rock
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag"> Darin (singer). Genre: pop
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag"> Albin Lee Meldau (singer). Genre: pop
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag"> Basshunter (DJ). Genre: eurodance
 - 🇺🇳 Da Buzz (band). Genre: eurodance
 - 🇺🇳 ABBA (band). Genre: europop
 - 🇺🇳 Roxette (band). Genre: europop
