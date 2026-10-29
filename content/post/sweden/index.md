@@ -50,14 +50,6 @@ gallery_item:
   .article-style h1 { font-size: 1.6rem !important; }
   .article-style h2 { font-size: 1.35rem !important; }
   .article-style h3 { font-size: 1.15rem !important; }
-  
-  img.flag {
-          width: 1.25em;
-          height: 1.25em;
-          display: inline-block;
-          vertical-align: -0.2em;
-          margin-right: 0.2em;
-        }
 </style>
 
 Hej! I share an extract of my life in charming Sweden. I live there since 2021. Below are some notes on what I tasted, saw and listened to.
