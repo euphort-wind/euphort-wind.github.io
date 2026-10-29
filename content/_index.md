@@ -241,20 +241,11 @@ sections:
       title: Wanderlust
       subtitle: ''
       text: |2-
-        <style>
-          img.flag {
-          width: 1.25em;
-          height: 1.25em;
-          display: inline-block;
-          vertical-align: -0.2em;
-          margin-right: 0.2em;
-        }
-        </style>
         <div class="row">
           <div class="col-md-6">
             <h3>Nothern Europe</h3>
             <ul>
-              <li><a href="/post/sweden/"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ea.svg" alt="🇸🇪" class="flag">" class="flag"> Sweden</a></li>
+              <li><a href="/post/sweden/">🇸🇪 Sweden</a></li>
               <li><a href="/post/aland/">🇦🇽 Åland Islands</a></li>
               <li><a href="/post/denmark/">🇩🇰 Denmark</a></li>
               <li><a href="/post/estonia/">🇪🇪 Estonia</a></li>
