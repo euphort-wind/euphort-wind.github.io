@@ -94,7 +94,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - 🇫🇮 Neljä Ruusua (band). Genre: rock
 - 🇫🇮 Pete Parkkonen (singer). Genre: pop
 - 🇺🇳 H.I.M. (band). Genre: gothic metal
-- 🇺🇳 The Rasmus (band). Genre: alternative rock
+- 🇺🇳 The Rasmus (band). Genre: alt-rock
 - 🇺🇳 Sunrise Avenue (band). Genre: rock
 - 🇺🇳 Darude (DJ). Genre: speed house
 - 🇺🇳 Alma (singer). Genre: pop

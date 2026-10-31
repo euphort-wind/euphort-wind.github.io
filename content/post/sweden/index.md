@@ -296,7 +296,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇸🇪 Myra Granberg (singer). Genre: pop
 - 🇸🇪 Danny Saucedo (singer). Genre: pop
 - 🇸🇪 Molly Sandén (singer). Genre: pop
-- 🇸🇪 Kent (band). Genre: alternative rock
+- 🇸🇪 Kent (band). Genre: alt-rock
 - 🇸🇪 Stiftelsen (band). Genre: pop rock
 - 🇸🇪 Darin (singer). Genre: pop
 - 🇸🇪 Albin Lee Meldau (singer). Genre: pop
@@ -307,7 +307,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇺🇳 Ace of Base (band). Genre: europop
 - 🇺🇳 Army of Lovers (band). Genre: europop
 - 🇺🇳 Avicii (DJ). Genre: house
-- 🇺🇳 Eric Prydz / Pryda (DJ). Genre: progressive house
+- 🇺🇳 Eric Prydz (DJ). Genre: progressive house
 - 🇺🇳 Otto Knows (DJ). Genre: house
 - 🇺🇳 Europa (band). Genre: hard rock
 - 🇺🇳 The Cardigans (band). Genre: pop rock
@@ -319,7 +319,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇺🇳 E-type (DJ & singer). Genre: eurodance
 - 🇺🇳 Alesso (DJ). Genre: house
 - 🇺🇳 Crazy Frog (project). Genre: eurodance
-- 🇺🇳 Smash into Pieces (band). Genre: alternative rock
+- 🇺🇳 Smash into Pieces (band). Genre: pop rock
 - 🇺🇳 Fröken Snusk (project). Genre: epadunk
 
 <b>🎚️ Contribution to Electronic Music: </b>

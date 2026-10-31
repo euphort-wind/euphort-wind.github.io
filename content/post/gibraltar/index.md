@@ -81,7 +81,7 @@ Hej! I'm sharing a glimpse of my experience visiting bustling Gibraltar. I was t
 
 <b>🎧 Local musicians: </b>
 - 🇬🇮 Melon Diesel (band). Genre: pop rock
-- 🇬🇮 Breed 77 (band). Genre: alternative metal 
+- 🇬🇮 Breed 77 (band). Genre: alt-rock 
 - 🇬🇮 Surianne (singer). Genre: blues
 - 🇺🇳 Deflo (DJ). Genre: dubstep
 

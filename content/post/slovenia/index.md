@@ -92,7 +92,7 @@ Hej! I'm sharing a glimpse of my experience visiting tranquil Slovenia. I was th
 
 <b>🎧 Local musicians: </b>
 - 🇸🇮 Nina Pušlar (singer). Genre: pop
-- 🇸🇮 Siddharta (band). Genre: alternative rock
+- 🇸🇮 Siddharta (band). Genre: alt-rock
 - 🇸🇮 Jan Plestenjak (singer). Genre: pop
 - 🇺🇳 Zalagasper (duo). Genre: indie pop
 - 🇺🇳 Samuel Blues (singer). Genre: indie pop

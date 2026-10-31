@@ -73,7 +73,7 @@ Hej! I'm sharing a glimpse of my experience visiting dreamlike San Marino. I was
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇸🇲 Miodio (band). Genre: alternative rock
+- 🇸🇲 Miodio (band). Genre:  alt-rock
 - 🇸🇲 Little Tony (singer). Genre: pop
 - 🇺🇳 Valentina Monetta (singer). Genre: pop
 

@@ -135,7 +135,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🇩🇪 Kyau & Albert (DJ duo). Genre: trance
 - 🇩🇪 Alex C / Jasper Forks (DJ). Genre: house
 - 🇩🇪 Ich + Ich (duo). Genre: pop
-- 🇩🇪 Juli (band). Genre: alternative pop
+- 🇩🇪 Juli (band). Genre: alt-rock
 - 🇩🇪 LaFee (singer). Genre: pop
 - 🇩🇪 Revolverheld (band). Genre: pop rock
 - 🇩🇪 Oimara (singer). Genre: pop rock
