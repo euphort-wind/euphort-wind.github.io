@@ -319,7 +319,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇺🇳 E-type (DJ & singer). Genre: eurodance
 - 🇺🇳 Alesso (DJ). Genre: house
 - 🇺🇳 Crazy Frog (project). Genre: eurodance
-- 🇺🇳 Smash into Pieces (band). Genre: pop rock
+- 🇺🇳 Smash into Pieces (band). Genre: alt-rock
 - 🇺🇳 Fröken Snusk (project). Genre: epadunk
 
 <b>🎚️ Contribution to Electronic Music: </b>
