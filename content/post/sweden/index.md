@@ -654,35 +654,36 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 
 
 
-<b>💐 National flower:</b> <b>Harebell <i>(Liten Blåklocka)</i></b><br>
-- <u>Västra Götaland - Regional Special:</u> 
-    - Common Heather <i>(Ljung)</i>
-    - Common Honeysuckle <i>(Vildkaprifol)</i>
-    - Spreading Bellflower <i>(Förgätmigej)</i><br>
-- <u>Västernorrland - Regional Special:</u> 
-    - Globeflower <i>(Smörboll)</i>
-    - Wild Pansy <i>(Styvmorsviol)</i><br>
-- <u>Gotland - Regional Special:</u>
-    - European Ivy <i>(Murgröna)</i><br>
-- <u>Halland - Regional Special:</u> 
-    - Hairy Greenweed <i>(Hårginst)</i><br>
-- <u>Scania - Regional Special:</u> 
-    - Daisy <i>(Prästkrage)</i><br>
-- <u>Uppsala - Regional Special:</u>
-    - Lily of the Valley <i>(Kungsängslilja)</i><br>
-- <u>Jämtland - Regional Special:</u> 
-    - Black Vanilla Orchid <i>(Brunkulla)</i>
-    - Arctic Violet <i>(Mosippa)</i><br>
-- <u>Värmland - Regional Special:</u> 
-    - Arctic Starflower <i>(Skogsstjärna)</i><br>
-- <u>Örebro - Regional Special:</u> 
-    - Common Cowslip <i>(Gullviva)</i><br>
-- <u>Västerbotten - Regional Special:</u> 
-    - Moor-King Lousewort <i>(Kung Karls Spira)</i><br>
-- <u>Västmanland - Regional Special:</u> 
-    - Common Mistletoe <i>(Mistel)</i><br>
-- <u>Östergötland - Regional Special:</u> 
-    - Bachelor's Button <i>(Blåklint)</i>
+<b>💐 National flower:</b> 
+- <b>Harebell <i>(Liten Blåklocka)</i></b><br>
+<u>Västra Götaland - Regional Special:</u> 
+- Common Heather <i>(Ljung)</i>
+- Common Honeysuckle <i>(Vildkaprifol)</i>
+- Spreading Bellflower <i>(Förgätmigej)</i><br>
+<u>Västernorrland - Regional Special:</u> 
+- Globeflower <i>(Smörboll)</i>
+- Wild Pansy <i>(Styvmorsviol)</i><br>
+<u>Gotland - Regional Special:</u>
+- European Ivy <i>(Murgröna)</i><br>
+<u>Halland - Regional Special:</u> 
+- Hairy Greenweed <i>(Hårginst)</i><br>
+<u>Scania - Regional Special:</u> 
+- Daisy <i>(Prästkrage)</i><br>
+<u>Uppsala - Regional Special:</u>
+- Lily of the Valley <i>(Kungsängslilja)</i><br>
+<u>Jämtland - Regional Special:</u> 
+- Black Vanilla Orchid <i>(Brunkulla)</i>
+- Arctic Violet <i>(Mosippa)</i><br>
+<u>Värmland - Regional Special:</u> 
+- Arctic Starflower <i>(Skogsstjärna)</i><br>
+<u>Örebro - Regional Special:</u> 
+- Common Cowslip <i>(Gullviva)</i><br>
+<u>Västerbotten - Regional Special:</u> 
+- Moor-King Lousewort <i>(Kung Karls Spira)</i><br>
+<u>Västmanland - Regional Special:</u> 
+- Common Mistletoe <i>(Mistel)</i><br>
+<u>Östergötland - Regional Special:</u> 
+- Bachelor's Button <i>(Blåklint)</i>
 
 
 <b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece." / <i>"Den som gapar över mycket mister ofta hela stycket."</i> — Swedish proverb
