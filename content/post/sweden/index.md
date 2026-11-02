@@ -492,11 +492,13 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have lived there
 - 🇺🇳 Alesso (DJ). Genre: house
 - 🇺🇳 Crazy Frog (project). Genre: eurodance
 - 🇺🇳 Smash into Pieces (band). Genre: alt-rock
+- 🇺🇳 Daniel Savio (DJ). Genre: skweee
 - 🇺🇳 Fröken Snusk (project). Genre: epadunk
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Europop. Originated: late 1960s
+- Skweee. Originated: late 2000s
 - Epadunk. Originated: early 2020s
+
 
 <b>🍽️ Local food & drinks: </b>
 - 🥓 S.O.S. Appetizer <i>(Smör-Ost-Sill)</i>
