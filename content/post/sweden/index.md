@@ -649,8 +649,6 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - Hindersmässan <i>(Hindersmässan)</i>. Month: January<br>
 <u>Västmanland - Regional Special:</u> 
 - Västerås Cityfestival <i>(Västerås Cityfestival)</i>. Month: June to July<br>
-<u>Västmanland - Regional Special:</u> 
-- Västerås Cityfestival <i>(Västerås Cityfestival)</i>. Month: June to July<br>
 
 
 
