@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular India. I was there in 2014. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Candolim, Vijayapura, Badami.<br>
 
@@ -184,7 +184,7 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
   - 📜 Kannada Script <i>(कन्नड लिपि / ಕನ್ನಡ ಲಿಪಿ)</i>
   - 🐦‍🔥 Legend of Naale Ba <i>(कल आना / ನಾಳೆ ಬಾ)</i>
   - 🐦‍🔥 Dasa Sahitya Poetry <i>(दसा साहित्य / ದಾಸ ಸಾಹಿತ್ಯ)</i>
-  - 🛠️ Bidriware Handicraft Tradition <i>(बिदरी कला / ಬಿದ್ರಿ ಕಲೆ)</i>
+  - 🛠️ Bidriware Handicraft <i>(बिदरी कला / ಬಿದ್ರಿ ಕಲೆ)</i>
   - 💃 Dollu Kunitha Dance <i>(डोल्लू कुनिथा / ಡೊಳ್ಳು ಕುಣಿತ)</i>
   - 🏃🏻 Kambala Buffalo Race Tradition <i>(कंबाला / ಕಂಬಳ)</i>
   - 🏓 Alaguli Mane Game <i>(पल्लांगुझी / ಅಳಗುಳಿ ಮನೆ)</i>

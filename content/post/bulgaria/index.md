@@ -55,7 +55,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was there in 2023 and 2025. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Sofia, Nessebar, Burgas, Varna, Pomorie, Sveti Vlas, Byala, Obzor, Sozopol.<br>
 
@@ -173,8 +173,8 @@ Hej! I'm sharing a glimpse of my experience visiting spectacular Bulgaria. I was
 - 🐦‍🔥 Bulgarian Mythology <i>(Българската Митология)</i>
 - 🛖 Chitalishte Buildings <i>(Читалища)</i>
 - 🏛️ Bulgarian Revival Architecture <i>(Възрожденска Архитектура)</i>
-- 🛠️ Rose Oil Production Tradition <i>(Производство на Розово Масло)</i>
-- 🛠️ Troyan Pottery Tradition <i>(Троянска Керамика)</i>
+- 🛠️ Rose Oil Production <i>(Производство на Розово Масло)</i>
+- 🛠️ Troyan Pottery <i>(Троянска Керамика)</i>
 - 🎨 Shevitsa Embroidery <i>(Шевица)</i>
 - 🎑 Anastenaria Ritual <i>(Нестинарство)</i>
 - 🎑 Kukeri Ritual <i>(Кукери)</i>

@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was there in 2013 and 2026. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Barcelona, Salou, Monistrol de Montserrat, La Línea de la Concepción, Málaga.<br>
 
@@ -230,7 +230,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🏛️ Herrerian Architecture <i>(Arquitectura Herreriana)</i>
 - 🏛️ Mudéjar Architecture <i>(Arquitectura Mudéjar)</i>
 - 🏛️ Churrigueresque Architecture <i>(Arquitectura Churrigueresca)</i>
-- 🛠️ Talavera Pottery Tradition <i>(Cerámica de Talavera)</i>
+- 🛠️ Talavera Pottery <i>(Cerámica de Talavera)</i>
 - 🏓 Parchís Game <i>(Parchís)</i>
 - 🏃🏻 Spanish Bullfighting Tradition <i>(Corrida de Toros)</i>
 - 🎑 Siesta Ritual <i>(Siesta)</i>
@@ -242,7 +242,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - 📜 Northeastern Iberian Script <i>(Escritura Ibérica Nororiental)</i>
   - 📜 Southeastern Iberian Script <i>(Escritura Ibérica Suroriental)</i>
   - 🏺 Falcata Swords <i>(Falcatas)</i>
-  - 🛠️ Iberian Sculptural Tradition <i>(Escultura Ibérica)</i>
+  - 🛠️ Iberian Sculpture <i>(Escultura Ibérica)</i>
 - 🏰 Heritage of the Visigothic Kingdom <i>(Reino Visigodo / 𐌲𐌿𐍄𐌸𐌹𐌿𐌳𐌰 𐌸𐌹𐌿𐌳𐌹𐌽𐌰𐍃𐍃𐌿𐍃)</i>
   - 🕯️ Arianism <i>(Arrianismo / 𐌰𐌹𐌺𐌺𐌻𐌴𐍃𐌾𐍉)</i> 
   - 🏺 Visigothic Eagle-Shaped Fibulae <i>(Fíbulas Aquiliformes / 𐍆𐌹𐌱𐌿𐌻𐌰𐌴)</i>
@@ -279,7 +279,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🛖 Cortijos <i>(Cortijos)</i>
 - 🛖 Andalusian Patios <i>(Patios Andaluces)</i>
 - 🏛️ Moorish Architecture <i>(Arquitectura Morisca)</i>
-- 🛠️ Taracea de Granada Tradition <i>(Taracea de Granada)</i>
+- 🛠️ Taracea de Granada <i>(Taracea de Granada)</i>
 - 💃 Fandango Dance <i>(Fandango)</i>
 - 💃 Flamenco Dance <i>(Flamenco)</i>
 - 🎙️ Cante Jondo Flamenco Singing <i>(Cante Jondo)</i>

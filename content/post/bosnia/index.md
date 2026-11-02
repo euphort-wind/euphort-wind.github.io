@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibrant Herzegovina. I was there in 2025. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Sarajevo, Mostar, Blagaj, Kravice, Počitelj.<br>
 
@@ -139,7 +139,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - 🐦‍🔥 Bosniak Epic Poetry <i>(Bošnjačke Epske Narodne Pjesme)</i>
 - 👑 Title of Tripartite President <i>(Tročlano Predsjedništvo)</i>
 - 🏛️ Bosnian-Style Architecture <i>(Bosanski Stil u Arhitekturi)</i>
-- 🛠️ Konjic Woodcarving Tradition <i>(Konjičko Drvorezbarstvo)</i>
+- 🛠️ Konjic Woodcarving <i>(Konjičko Drvorezbarstvo)</i>
 - 🎙️ Sevdah Music <i>(Sevdah)</i>
 - 🪕 Musical Instrument: Šargija <i>(Šargija)</i> 
 - 🏰 Heritage of the Bosnian Banate <i>(Banovina Bosna / Boszniai Bánság)</i>

@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I was there in 2026. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Vaduz, Triesen, Triesenberg, Schaan.<br>
 
@@ -110,7 +110,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Liechtenstein. I
 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Liechtenstein Folklore <i>(Liechtensteiner Folklore)</i>
-- 🛠️ Postage Stamp Production Tradition <i>(Briefmarken von Liechtenstein)</i>
+- 🛠️ Postage Stamp Production <i>(Briefmarken von Liechtenstein)</i>
 - 🏃🏻 Alpine Skiing Tradition <i>(Alpiner Skilauf)</i>
 - 👘 Garb: Liechtensteiner Tracht <i>(Liechtensteiner Tracht)</i>
 - 🏰 Heritage of the County of Vaduz <i>(Grafschaft Vaduz)</i>

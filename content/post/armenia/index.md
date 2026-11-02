@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was there in 2026. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Yerevan, Garni, Lusarat, Areni, Goris, Khndzoresk, Tatev, Sevan, Dilijan, Gyumri. 
 
@@ -213,13 +213,13 @@ Hej! I'm sharing a glimpse of my experience visiting welcoming Armenia. I was th
   - 🏺 Urartian Rhytons <i>(Ուրարտական ​​ռիտոն / 𒃻𒉌)</i>
   - 🏺 Vishapakars <i>(Վիշապաքար / 𒂍𒁀𒊏)</i>
   - 🏛️ Urartian Architecture <i>(Ուրարտուի ճարտարապետությունը / 𒂍)</i>
-  - 🛠️ Urartian Pottery Tradition <i>(Ուրարտական ​​խեցեղեն / 𒀀𒈠𒉌)</i>
+  - 🛠️ Urartian Pottery <i>(Ուրարտական ​​խեցեղեն / 𒀀𒈠𒉌)</i>
 - 🏰 Heritage of the Kingdom of Greater Armenia <i>(Մեծ Հայք / Βασίλειον τῆς Ἀρμενίας)</i>
 - 🏰 Heritage of the Bagratid Armenian Kingdom <i>(Բագրատունիների թագավորություն)</i>
 <br>
 <u>Shirak - Regional Special:</u> 
 - 🏺 Gyumri Klklans <i>(Գյումրվա կլկլան)</i>
-- 🛠️ Gyumri Blacksmithing Tradition <i>(Գյումրիի դարբնության ավանդույթ)</i>
+- 🛠️ Gyumri Blacksmithing <i>(Գյումրիի դարբնության ավանդույթ)</i>
 <br>
 <u>Syunik - Regional Special:</u> 
 - 🏰 Heritage of the Kingdom of Syunik <i>(Սյունիքի թագաորություն)</i>

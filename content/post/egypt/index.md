@@ -55,7 +55,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there in 2011. Below are some notes on what I tasted, saw and listened to. 
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️. 
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️. 
 
 <b>🗺 Places:</b> Sharm El-Sheikh.<br>
 
@@ -162,8 +162,8 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - 🛖 Mastabas <i>(مصطبه / 𓉐𓊽)</i>
   - 🛖 Pylons <i>(صرح / 𓈌)</i>
   - 🏛️ Ancient Egyptian Architecture <i>(العمارة المصرية القديمة / 𓉐)</i>
-  - 🛠️ Ancient Egyptian Faience Potery Tradition <i>(الفاينس المصري / 𓍿𓎛𓈖𓏏)</i>
-  - 🛠️ Papyrus Sheet Making Tradition <i>(صناعة ورق البردي / 𓇅)</i>
+  - 🛠️ Ancient Egyptian Faience <i>(الفاينس المصري / 𓍿𓎛𓈖𓏏)</i>
+  - 🛠️ Papyrus Sheet Making <i>(صناعة ورق البردي / 𓇅)</i>
   - 🎨 Ancient Egyptian Relief Art <i>(الفن المصري البارز / 𓏏𓏏𓏤)</i>
   - 🏓 Senet Game <i>(لعبة السِّينِت / 𓊃𓈖𓏏𓏠)</i>
   - 🏓 Mehen Game <i>(مِحِن / 𓎼𓈖𓆗)</i>

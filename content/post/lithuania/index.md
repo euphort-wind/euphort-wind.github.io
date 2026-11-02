@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was there in 2024. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Vilnius, Kaunas, Trakai.<br>
 
@@ -133,8 +133,8 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - 🐦‍🔥 Lithuanian Mythology <i>(Lietuvių Mitologija)</i>
 - 👑 Title of Kriwe <i>(Krivis)</i>
 - 🏛️ Lithuanian Gothic Architecture <i>(Lietuviškoji Gotika)</i>
-- 🛠️ Lithuanian Cross Crafting Tradition <i>(Lietuvos Kryždirbystė)</i>
-- 🛠️ Lithuanian Black Pottery Tradition <i>(Lietuviška Juodoji Keramika)</i>
+- 🛠️ Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
+- 🛠️ Lithuanian Black Pottery <i>(Lietuviška Juodoji Keramika)</i>
 - 🎨 Sodai Straw Gardens <i>(Šiaudinių Sodų Tradicija)</i>
 - 🏓 Ritinis Game <i>(Ritinis)</i>
 - 🎙️ Sutartines Songs <i>(Sutartinės)</i>

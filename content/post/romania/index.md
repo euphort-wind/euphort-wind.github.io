@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was there in 2023 and 2025. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Bucharest, Sinaia, Bran, Brașov, Prejmer, Sfântu Gheorghe, Sighișoara. <br>
 
@@ -181,7 +181,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🐦‍🔥 Romanian Folklore <i>(Folclorul Românesc)</i>
 - 🚗 Romanian Cars <i>(Brand: "Dacia")</i>
 - 🏛️ Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
-- 🛠️ Horezu Pottery Tradition <i>(Ceramică de Horezu)</i>
+- 🛠️ Horezu Pottery <i>(Ceramică de Horezu)</i>
 - 🏓 Oină Game <i>(Oină)</i>
 - 🎑 Paparuda Ritual <i>(Paparudă)</i> 
 - 💃 Romanian Horă Dance <i>(Horă)</i>
@@ -192,7 +192,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
   - 🦉 Concept: Romanipen <i>(Romanipenul / Romanipen)</i>
   - 🐦‍🔥 Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
   - 👑 Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
-  - 🛠️ Kalderash Coppersmithing Tradition <i>(Căldărărie Kalderash / Kalderash Sastripe)</i>
+  - 🛠️ Kalderash Coppersmithing <i>(Căldărărie Kalderash / Kalderash Sastripe)</i>
   - 🎙️ Lăutari & Lăutărească Music <i>(Lăutari și Muzica Lăutărească / Lăutari thaj Lăutărească Muzika)</i> 
   - 👘 Garb: Romani Dress <i>(Rochii Țigănești / Romane Gada)</i> 
 - 🧝 Legacy of Dacians <i>(Dacii)</i>

@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was there in 2012, 2015 and 2026. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Athens, Chalkida, Rhodes, Lindos, Agios Nikolaos, Heraklion, Gournes, Oia.<br>
 
@@ -218,8 +218,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🏺 Kylikes <i>(Κύλικες / 𐀡𐀞)</i>
   - 🏛️ Cyclopean Masonry Architecture <i>(Κυκλώπεια Τείχη / 𐀵𐀒)</i>
   - 🛖 Megarons <i>(Μέγαρα / 𐀷𐀙𐀏𐀄𐀫)</i>
-  - 🛠️ Mycenaean Pottery Tradition <i>(Μυκηναϊκή Κεραμική / 𐀐𐀩𐀗𐀭)</i>
-  - 🛠️ Mycenaean Glyptic Art Tradition <i>(Μυκηναϊκή Γλυπτική / 𐀓𐀫𐀰)</i>
+  - 🛠️ Mycenaean Pottery <i>(Μυκηναϊκή Κεραμική / 𐀐𐀩𐀗𐀭)</i>
+  - 🛠️ Mycenaean Glyptic Art <i>(Μυκηναϊκή Γλυπτική / 𐀓𐀫𐀰)</i>
   - 🏃🏻 Chariot Racing Tradition <i>(Ἁρματοδρομία / 𐀂𐀟𐀊)</i>
   - 🎑 Mycenaean Libation Ritual <i>(Μυκηναϊκή Σπονδή / 𐀀𐀩𐀞)</i>
   - 🪕 Musical Instrument: Phorminx <i>(Φόρμιγξ / 𐀪𐀩)</i>
@@ -242,8 +242,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🛖 Asclepieions <i>(Ἁσκληπιεῖα)</i>
   - 🛖 Tholoi <i>(θόλοι)</i>
   - 🏛️ Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
-  - 🛠️ Ancient Greek Sculptural Tradition <i>(Αρχαία Ελληνική Γλυπτική)</i>
-  - 🛠️ Ancient Greek Pottery Tradition <i>(Αρχαία Ελληνική Κεραμική)</i>
+  - 🛠️ Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
+  - 🛠️ Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>
   - 🏃🏻 Ancient Greek Boxing Tradition <i>(Πυγμαχία)</i>
   - 🏃🏻 Ancient Greek Wrestling Tradition <i>(Πάλη)</i>
   - 🏓 Ostrakinda Game <i>(Ὀστρακίνδα)</i>
@@ -282,8 +282,8 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 📜 Linear A Writing System <i>(Γραμμική Α / 𐘊𐘋𐘌𐘍)</i>
   - 🏺 Stirrup Jars <i>(Μινωικοί Ψευδόστομοι Αμφορείς)</i>
   - 🏛️ Minoan Palatial Architecture <i>(Μινωικά Ανάκτορα)</i>
-  - 🛠️ Minoan Pottery Tradition <i>(Μινωική Κεραμική)</i>
-  - 🛠️ Minoan Jewellery Tradition  <i>(Μινωικά Κοσμήματα)</i>
+  - 🛠️ Minoan Pottery <i>(Μινωική Κεραμική)</i>
+  - 🛠️ Minoan Jewellery <i>(Μινωικά Κοσμήματα)</i>
   - 🎨 Minoan Painting <i>(Μινωική Ζωγραφική)</i>
   - 🏓 Knossos Board Game <i>(Ζατρίκιον)</i>
 - 🏰 Heritage of the Emirate of Crete <i>(Εμιράτο της Κρήτης / إقريطش)</i>

@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there in 2024, 2025 and 2026. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Rome, Pisa, Florence, Bologna, Rimini, Catania, Syracuse, Taormina, Castelmola, Salerno, Pompeii, Naples, Milan.<br>
 
@@ -357,7 +357,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🛖 Osterias <i>(Osterie)</i>
 - 🏛️ Italian Renaissance Architecture <i>(Architettura Rinascimentale Italiana)</i>
 - 🏛️ Italian Neoclassical Architecture <i>(Architettura Neoclassica Italiana)</i>
-- 🛠️ Maiolica Pottery Tradition <i>(Maiolica)</i>
+- 🛠️ Maiolica Pottery <i>(Maiolica)</i>
 - 🎨 Italian Renaissance Painting <i>(Pittura Rinascimentale Italiana)</i>
 - 🎨 Italian Baroque Painting <i>(Pittura Barocca Italiana)</i> 
 - 🏓 Bocce Game <i>(Bocce)</i> 
@@ -395,7 +395,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🛖 Mithraeums <i>(Mithraea)</i>
   - 🎭 Naumachia Performance <i>(Naumachia)</i>
   - 🏛️ Ancient Roman Architecture <i>(Architettura Romana Antica)</i>
-  - 🛠️ Ancient Roman Sculptural Tradition <i>(Scultura Romana Antica)</i>
+  - 🛠️ Ancient Roman Sculpture <i>(Scultura Romana Antica)</i>
   - 🎑 Taurobolium Ritual <i>(Taurobolium)</i>
   - 👘 Garb: Dalmatic & Paenula <i>(Dalmatica e Paenula)</i>
 - 🏰 Heritage of the Ostrogothic Kingdom <i>(Regno Ostrogoto / 𐌿𐍃𐍄𐍂𐍉𐌲𐍉𐍄𐌹𐍃𐌺 𐌺𐌹𐌽𐌲𐌳𐍉𐌼)</i>
@@ -413,14 +413,14 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 📜 Ancient Etruscan Alphabet <i>(Alfabeto Etrusco / 𐌀𐌁𐌂𐌃)</i>
   - 🛖 Etruscan Temples <i>(Templi Etruschi / 𐌕𐌌𐌉𐌀)</i>
   - 🏛️ Etruscan Architecture <i>(Architettura Etrusca / 𐌂𐌄𐙙𐌀)</i> 
-  - 🛠️ Bucchero Pottery Tradition <i>(Bucchero / 𐌂𐌓𐌀𐌐𐌉)</i> 
+  - 🛠️ Bucchero Pottery <i>(Bucchero / 𐌂𐌓𐌀𐌐𐌉)</i> 
 - 🏰 Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
 - 🏰 Heritage of the Republic of Pisa <i>(Repubblica di Pisa / Res Publica Pisana)</i>
 - 🏰 Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i><br> 
 <u>Emilia-Romagna - Regional Special:</u>  
 - 🛖 Porticoes of Bologna <i>(Portici di Bologna)</i>
 - 🛖 Towers of Bologna <i>(Torri di Bologna)</i>
-- 🛠️ Faenza Potery Tradition <i>(Ceramica di Faenza)</i>
+- 🛠️ Faenza Potery <i>(Ceramica di Faenza)</i>
 - 💃 Liscio Dance <i>(Ballo Liscio)</i><br>
 <u>Sicily - Regional Special:</u> 
 - 👲 Culture of Sicilians <i>(Siciliani / Siciliani)</i> 

@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there in 2021 and 2023. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Oslo, Bergen, Flåm, Fredrikstad, Moss, Horten.<br>
 
@@ -191,7 +191,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
   - 🛖 Hearg Altars <i>(Horgar / ᚼᚢᚱᚴᛅᛦ)</i>
   - 🛖 Hof Temples <i>(Hovar / ᚼᚢᚠ)</i>
   - 🛖 Mead Halls <i>(Mjødhaller / ᛘᛁᛅᚦᛅᚱᚼᛅᛚᛁᛦ)</i> 
-  - 🛠️ Viking Ship Building Tradition <i>(Vikingskip / ᛋᚴᛁᛒ)</i>
+  - 🛠️ Viking Ship Building <i>(Vikingskip / ᛋᚴᛁᛒ)</i>
   - 🏓 Hnefatafl Game <i>(Hnefatafl / ᚼᚾᛁᚠᛅᛏᛅᚠᛚ)</i> 
 - ⛰️ Strandflat Landforms <i>(Strandflate)</i>
 - ⛰️ Norwegian Fjords <i>(Fjorder)</i> 

@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was there in 2025 and 2026. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Frankfurt am Main, Koblenz, Lahnstein, Cologne, Düsseldorf, Bochum, Duisburg, Munich.<br>
 
@@ -288,7 +288,7 @@ Hej! I'm sharing a glimpse of my experience visiting prosperous Germany. I was t
 - 🏰 Heritage of the Grand Duchy of Hesse <i>(Großherzogtum Hessen und bei Rhein)</i>
 <br>
 <u>Rhineland-Palatinate - Regional Special:</u>
-- 🛠️ Westerwald Pottery Tradition <i>(Westerwälder Steinzeug)</i>
+- 🛠️ Westerwald Pottery <i>(Westerwälder Steinzeug)</i>
 - 👘 Garb: Tugendpfeil <i>(Tugendpfeil)</i>
 - 🏰 Heritage of the Electorate of the Palatinate <i>(Kurfürstentum Pfalz)</i>
 <br>

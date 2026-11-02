@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was there in 2025. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Tbilisi, Mtskheta, Sighnaghi, Telavi, Kvareli, Udabno, Kachreti.<br>
 
@@ -177,7 +177,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Georgia. I was 
 - 🐦‍🔥 Georgian Mythology <i>(ქართული მითოლოგია)</i>
 - 🏺 Kantsi Drinking Horns <i>(ყანწი)</i>
 - 🏺 Khanjali Daggers <i>(ხანჯალიყანწი)</i>
-- 🛠️ Kvevri-Based Wine Production Tradition <i>(ქვევრის ღვინო)</i>
+- 🛠️ Kvevri-Based Wine Production <i>(ქვევრის ღვინო)</i>
 - 🏃🏻 Chidaoba Wrestling Tradition <i>(ჩიდაობა)</i>
 - 🏓 Lelo Burti Game <i>(ლელო ბურთი)</i>
 - 🎑 Tamadas & Supra Ritual <i>(თამადა და სუფრა)</i>

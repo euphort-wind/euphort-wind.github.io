@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there in 2016. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Ayia Napa, Lefkara, Kakopetria, Limassol.<br>
 
@@ -120,7 +120,7 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Cyprus. I was there
 - 🏰 Heritage of the Ten City-Kingdoms of Cyprus <i>(Δέκα Πόλεις-βασίλεια της Κύπρου)</i>
   - 📜 Linear C Writing System <i>(Κυπριακό Συλλαβάριο / 𐠀𐠁𐠂𐠃)</i>
   - 🏺 Cypro-Archaic Terracotta Figurines <i>(Κυπρο-Αρχαϊκά Ειδώλια από Τερακότα)</i>
-  - 🛠️ Cypro-Archaic Pottery Tradition <i>(Κυπρο-Αρχαϊκή Κεραμική)</i>
+  - 🛠️ Cypro-Archaic Pottery <i>(Κυπρο-Αρχαϊκή Κεραμική)</i>
 - 🏰 Heritage of the Kingdom of Cyprus <i>(Βασίλειο της Κύπρου / Royaume de Chypre)</i>
 - ⛰️ Troodos Ophiolites <i>(Οφιόλιθος του Τροόδους)</i><br>
 <u>Larnaca - Regional Special:</u> 

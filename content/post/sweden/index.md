@@ -52,9 +52,9 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I share an extract of my life in charming Sweden. I live there since 2021. Below are some notes on what I tasted, saw and listened to.
+Hej! I’m sharing a glimpse into my life in charming Sweden. I have lived there since 2021. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective, and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Öckerö, Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna, Lödöse, Halmstad, Nödinge-Nol, Karlstad, Skövde, Mariestad, Herrljunga, Arvika, Kristinehamn, Karlsborg. <br>
 
@@ -62,7 +62,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 {{< spoiler text="Click to view" >}}
 1. Stockholm
-    - Old Town Stockholm <i>(Gamla Stan)</i>
+    - Stockholm Old Town <i>(Gamla Stan)</i>
     - Riddarholmen Church <i>(Riddarholmskyrkan)</i>
     - Stortorget <i>(Stortorget)</i>
     - Kungsträdgården <i>(Kungsträdgården)</i>
@@ -97,9 +97,9 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Donsö Harbour <i>(Donsö Hamn)</i>
     - Vrångö Beach <i>(Vrångö Sandstrand)</i>
 3. Alingsås
-    - Old Town Alingsås <i>(Gamla Alingsås)</i>
+    - Alingsås Old Town <i>(Gamla Alingsås)</i>
     - Nolhaga Park <i>(Nolhaga Park)</i>
-    - Alingsås Museum <i>(Alingsås museum)</i>
+    - Alingsås Museum <i>(Alingsås Museum)</i>
     - Nolhaga Palace <i>(Nolhaga Slott)</i>
     - Alingsås City Hall <i>(Alingsås Rådhus)</i>
     - Christinae Church <i>(Christinae Kyrka)</i>
@@ -164,7 +164,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Malmö Castle <i>(Malmöhus Slott)</i>
     - Castle Park <i>(Slottsparken)</i>
     - Gustav Adolfs Square <i>(Gustav Adolfs Torg)</i>
-    - Old Town Malmö <i>(Gamla Staden)</i>
+    - Malmö Old Town <i>(Gamla Staden)</i>
     - Malmö City Library <i>(Malmö Stadsbibliotek)</i>
     - Stortorget <i>(Stortorget)</i>
     - Turning Torso <i>(Turning Torso)</i>
@@ -179,11 +179,11 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Fars Hatt Hotel <i>(Fars Hatt)</i>
     - Bohus Fortress <i>(Bohus Fästning)</i>
 13. Kungsbacka
-    - Old Town Kungsbacka <i>(Gamla Kungsbacka)</i>
+    - Kungsbacka Old Town <i>(Gamla Kungsbacka)</i>
     - Kungsbacka Church <i>(Kungsbacka Kyrka)</i>
     - Särö Västerskog <i>(Särö Västerskog)</i>
     - Tree of Life Statue <i>(Statyn "Livets Träd")</i>
-    - Tölöberg Watertower <i>(Tölöbergs Vattentorn)</i>
+    - Tölöberg Water Tower <i>(Tölöbergs Vattentorn)</i>
     - Kungsbackaskogen <i>(Kungsbacka Forest)</i>
     - Tjolöholm Castle <i>(Tjolöholm Slott)</i>
 14. Varberg 
@@ -215,7 +215,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Partille Station <i>(Partille Station)</i>
     - Jonsered Factories <i>(Jonsered Fabriker)</i>
     - Jonsered Gardens <i>(Jonsereds Trädgårdar)</i>
-18. Ockerö
+18. Öckerö
     - Öckerö Harbour <i>(Öckerö Hamn)</i>
     - Hönö Klåva <i>(Hönö Klåva)</i>
     - Hönö Fishing Museum <i>(Hönö Fiskemuseum)</i>
@@ -235,7 +235,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 20. Linköping
     - Main Square <i>(Stora Torget)</i>
     - The Garden Society <i>(Trädgårdsföreningen)</i> 
-    - Linköping Cathedral <i>(Linköping Domkyrka)</i>
+    - Linköping Cathedral <i>(Linköpings Domkyrka)</i>
     - Gamla Linköping Museum <i>(Gamla Linköping)</i>
     - Linköping Castle <i>(Linköpings Slott)</i>
     - Östergötland Museum <i>(Östergötlands Museum)</i>
@@ -247,13 +247,13 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 22. Trollhättan
     - Trollhättan Waterfall <i>(Trollhättefallen)</i>
     - Kings' Cave <i>(Kungsgrottan)</i>
-    - Spikön City <i>(Spikön City)</i>
+    - Spikön <i>(Spikön)</i>
     - SAAB Car Museum <i>(SAAB Bilmuseum)</i>
     - Olidan Power Station <i>(Olidans Kraftverk)</i>
     - Innovatum Science Center <i>(Innovatum)</i>
     - Trollhättan Church <i>(Trollhättans Kyrka)</i>
     - Trollhättan Filmstudio <i>(Trollhättans Filmstudio)</i>
-23. Marstrand 
+23. Marstrand (Kungälv)
     - Carlstens Fortress <i>(Carlstens Fästning)</i>
     - Marstrand Church <i>(Marstrands Kyrka)</i>
     - Marstrand Promenade <i>(Strandpromenad)</i>
@@ -274,7 +274,6 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Tureberg Square <i>(Turebergs Torg)</i>
 26. Uppsala
     - Uppsala Cathedral <i>(Uppsala Domkyrka)</i>
-    - Uppsala Treasury Museum <i>(Uppsala Skattkammaren)</i>
     - Uppsala Castle <i>(Uppsala Slott)</i>
     - Uppsala University <i>(Uppsala Universitet)</i>
     - Gustavianum <i>(Gustavianum)</i>
@@ -301,14 +300,14 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 29. Borås
     - Main Square <i>(Stora Torget)</i>
     - Borås City Hall <i>(Borås Rådhus)</i>
-    - Caroli Church <i>(Caroli Kyrkan)</i>
+    - Caroli Church <i>(Caroli Kyrka)</i>
     - Borås Zoo <i>(Borås Djurpark)</i>
     - Textile Fashion Center <i>(Textile Fashion Center)</i>
     - Borås Art Museum <i>(Borås Konstmuseum)</i>
     - The Pinocchio Sculpture <i>("Walking to Borås")</i>
     - Stadsparken <i>(Stadsparken)</i>
 30. Falköping
-    - Mösseberg Park <i>(Mössebergs Kurorten och Parken)</i> 
+    - Mösseberg Park <i>(Mössebergs Kurort)</i> 
     - Observation Tower <i>(Mösseberg Torn)</i> 
     - Mösseberg Zoo <i>(Mössebergs Djurpark)</i> 
     - Falbygdens Museum <i>(Falbygdens Museum)</i> 
@@ -318,8 +317,8 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Kullings-Skövde Church <i>(Kullings-Skövde Kyrka)</i> 
     - Tånga Hed Recreation Area <i>(Tånga Hed)</i>
 32. Vänersborg
-    - Vänersborg Museum <i>(Vänersborg Museum)</i> 
-    - Vänersborg Church <i>(Vänersborg Kyrka)</i> 
+    - Vänersborg Museum <i>(Vänersborgs Museum)</i> 
+    - Vänersborg Church <i>(Vänersborgs Kyrka)</i> 
     - Frida's Statue <i>(Fridastatyn)</i>
     - Skräckleparken <i>(Skräckleparken)</i>
 33. Lidköping
@@ -330,7 +329,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Vänern Museum <i>(Vänermuseet)</i>
 34. Stenungsund
     - Stenungsund Chapel <i>(Stenungsunds Kapell)</i> 
-    - Stenungsund Port <i>(Stenungsund Hamn)</i>
+    - Stenungsund Port <i>(Stenungsunds Hamn)</i>
     - Tjörn Bridge <i>(Tjörnbron)</i>
     - Norum Church <i>(Norums Kyrka)</i>
     - Stenungsund Promenade <i>(Strandpromenaden)</i>
@@ -338,7 +337,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 35. Falkenberg
     - Vallarna Park <i>(Vallarna Park)</i> 
     - Tullbron <i>(Tullbron)</i> 
-    - Old Town Falkenberg <i>(Gamla Stan Falkenberg)</i> 
+    - Falkenberg Old Town <i>(Gamla Stan Falkenberg)</i> 
     - Falkenberg Strandbad <i>(Strandbad)</i> 
     - Skrea Beach <i>(Skrea Strand)</i> 
     - RIAN Design Museum <i>(RIAN Designmuseum)</i>
@@ -399,7 +398,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Solna Church <i>(Solna Kyrka)</i>
     - Gustav III's Pavilion <i>(Gustav III:s Paviljong)</i>
     - Filmstaden Råsunda <i>(Gamla Filmstaden)</i>
-44. Lödöse
+44. Lödöse (Lilla Edet)
     - Lödöse Museum <i>(Lödöse Museum)</i>
 45. Halmstad
     - Halmstad Castle <i>(Halmstads Slott)</i>
@@ -430,9 +429,9 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
     - Skövde Cultural Centre <i>(Skövde Kulturhus)</i>
     - Skövde University <i>(Skövde Högskola)</i>
 49. Mariestad
-    - Old Town Mariestad <i>(Gamla Stan)</i>
+    - Mariestad Old Town <i>(Gamla Stan)</i>
     - Mariestad Cathedral <i>(Mariestads Domkyrka)</i>
-    - Marieholm Residence <i>(Marieholm Länsresidens)</i>
+    - Marieholm Residence <i>(Marieholms Länsresidens)</i>
     - Karlsholme Park <i>(Karlsholme Folkets Park)</i>
     - Vadsbo Museum <i>(Vadsbo Museum)</i>
     - Mariestad Theater <i>(Mariestads Teater)</i>
@@ -489,7 +488,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🇺🇳 Loreen (singer). Genre: pop
 - 🇺🇳 Tove Lo (singer). Genre: pop
 - 🇺🇳 Dr. Alban (singer). Genre: europop
-- 🇺🇳 E-type (DJ & singer). Genre: eurodance
+- 🇺🇳 E-type (singer). Genre: eurodance
 - 🇺🇳 Alesso (DJ). Genre: house
 - 🇺🇳 Crazy Frog (project). Genre: eurodance
 - 🇺🇳 Smash into Pieces (band). Genre: alt-rock
@@ -552,11 +551,11 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - 🥘 Musselbullar <i>(Musselbullar)</i>
 - 🍰 Äggost <i>(Äggost)</i>
 </br>
-<u>Skåne - Regional Special:</u>
+<u>Scania - Regional Special:</u>
 - 🥘 Skånsk Äggakaka <i>(Skånsk Äggakaka)</i>
 - 🍰 Spettekaka <i>(Spiddekauga)</i>
 </br>
-<u>Jönköping- Regional Special:</u> 
+<u>Jönköping - Regional Special:</u> 
 - 🍰 Ostkaka <i>(Småländsk Ostkaka)</i>
 - 🍰 Budapest Roll <i>(Budapestbakelse)</i>
 </br>
@@ -578,7 +577,7 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 <b>🎬 Local movies:</b>
 - A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
-- The 100 Year-Old Man Who Climbed out the Window and Disappeared <i>(Hundraåringen som Klev ut genom Fönstret och Försvann)</i>. Year: 2013. Genre: comedy
+- The 100 Year-Old Man who Climbed out the Window and Disappeared <i>(Hundraåringen som Klev ut genom Fönstret och Försvann)</i>. Year: 2013. Genre: comedy
 - Border <i>(Gräns)</i>. Year: 2018. Genre: fantasy
 - End of Summer <i>(Slutet på Sommaren)</i>. Year: 2023. Genre: thriller (series)
 - Anxious People <i>(Folk med Ångest)</i>. Year: 2021. Genre: drama (series)
@@ -589,20 +588,22 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: Lagom <i>(Lagom)</i>
-- 🐦‍🔥 Nordic Folklore <i>(Nordiska Folktro)</i>
+- 🐦‍🔥 Nordic Folklore <i>(Nordisk Folktro)</i>
 - 🏺 Dala Horses <i>(Dalahästar)</i>
 - 🏺 Gävle Goats <i>(Gävlebockar)</i>
 - 🚗 Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - 🛖 Torp Cottages <i>(Torpstugor)</i>
-- 🏛️ Swedish Functionalist Architecture <i>(Funkis)</i>
 - 🏓 Kubb Game <i>(Kubb)</i>
 - 🎑 Fika Ritual <i>(Fika)</i>
 - 💃 Hambo Dance <i>(Hambo)</i>
+- 🎙️ Kulning Singing <i>(Lockrop)</i>
 - 🪕 Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - 👘 Garb: Folkdräkt <i>(Svensk Folkdräkt)</i>
 - 🏰 Heritage of the Sweden-Norway Union <i>(Sverige-Norge / Norig-Sverike)</i>
 <br>
 <u>Gotland - Regional Special:</u> 
+- ⛵ Gotlandssnipa Boats <i>(Gotlandssnipor)</i>
+- 🛠️ Gotland Sheepskin Rug Production <i>(Gotländskt Fårskinnsmatta)</i>
 - 🧝 Legacy of Gutes <i>(Gutar / ᚷᚢᛏᛟᛉ)</i>
     - 🐦‍🔥 Guta Saga <i>(Gutasagan / ᚷᚢᛏᚨ ᛋᚨᚷᚨ)</i>
     - 🏺 Gotland Picture Stones <i>(Bildstenar / ᛒᛁᛚᛞᚨᛋᛏᚨᛁᚾᚨᛉ)</i>
@@ -611,12 +612,14 @@ Hej! I share an extract of my life in charming Sweden. I live there since 2021. 
 - ⛰️ Rauk Landforms <i>(Raukar)</i>
 <br>
 <u>Jämtland - Regional Special:</u> 
+- 🐦‍🔥 Legend of Storsjöodjuret <i>(Storsjöodjuret)</i> 
 - 🎨 Överhogdal Tapestry <i>(Överhogdalstapeten)</i>
 - 🏰 Heritage of the Republic of Jamtamót <i>(Jamtamotrepubliken)</i>
 <br>
 <u>Halland - Regional Special:</u> 
 - 🎨 Bonad Painting <i>(Bonadsmålning)</i><br>
 <u>Västra Götaland - Regional Special:</u> 
+- 🛖 Landshövding Houses <i>(Landshövdingehus)</i>
 - 🧝 Legacy of Geates <i>(Götar / ᚷᚨᚢᛏᚨᛉ)</i>
     - 📜 Elder Futhark Runic Alphabet <i>(Äldre Futhark / ᚠᚢᚦᚨᚱᚲ)</i>
     - 🛖 Domarrings <i>(Domarringar / ᛏᛟᛗᚨᚺᚱᛁᛜᚷᚨᛉ)</i>
