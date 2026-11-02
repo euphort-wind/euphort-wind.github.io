@@ -27,7 +27,7 @@ gallery_item:
     caption: Helsingborg City Hall
   - album: sweden
     image: 6kott.jpg
-    caption: Swedish köttbullar
+    caption: Swedish Köttbullar
 ---
 
 <style>
@@ -335,7 +335,6 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 35. Falkenberg
     - Vallarna Park <i>(Vallarna Park)</i> 
     - Tullbron <i>(Tullbron)</i> 
-    - Falkenberg Old Town <i>(Gamla Stan Falkenberg)</i> 
     - Falkenberg Strandbad <i>(Strandbad)</i> 
     - Skrea Beach <i>(Skrea Strand)</i> 
     - St. Laurentius Church <i>(S:t Laurentii Kyrka)</i>
@@ -529,9 +528,9 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🧀 Grevé <i>(Grevé)</i>
 - 🧀 Gräddost <i>(Gräddost)</i>
 - 🫓 Crispbread <i>(Knäckebröd)</i>
+- 🍶 Blueberry Wine <i>(Brand: "Rålund")</i>
 - 🍶 Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
 - 🍶 Swedish Brännvin <i>(Brands: "O.P. Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
-- 🍶 Blueberry Wine <i>(Brand: "Rålund")</i>
 </br>
 <u>Västernorrland - Regional Special:</u>
 - 🥓 Surströmming <i>(Surströmming)</i> 
@@ -575,8 +574,8 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 
 
 <b>🎬 Local movies:</b>
-- A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
 - Border <i>(Gräns)</i>. Year: 2018. Genre: fantasy
+- A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
 - End of Summer <i>(Slutet på Sommaren)</i>. Year: 2023. Genre: thriller (series)
 - Anxious People <i>(Folk med Ångest)</i>. Year: 2021. Genre: drama (series)
 - Triangle of Sadness <i>(Triangle of Sadness)</i>. Year: 2022. Genre: black comedy
@@ -598,7 +597,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🎙️ Kulning Singing <i>(Lockrop)</i>
 - 🪕 Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - 👘 Garb: Folkdräkt <i>(Svensk Folkdräkt)</i>
-- 🏰 Heritage of the Swedish–Norwegian Union <i>(Sverige-Norge / Norig-Sverike)</i>
+- 🏰 Heritage of the Swedish-Norwegian Union <i>(Sverige-Norge / Norig-Sverike)</i>
 <br>
 <u>Gotland - Regional Special:</u> 
 - ⛵ Gotlandssnipa Boats <i>(Gotlandssnipor)</i>
@@ -613,7 +612,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 <u>Jämtland - Regional Special:</u> 
 - 🐦‍🔥 Legend of Storsjöodjuret <i>(Storsjöodjuret)</i> 
 - 🎨 Överhogdal Tapestry <i>(Överhogdalstapeten)</i>
-- 🏰 Heritage of the Republic of Jamtamót <i>(Jamtamotrepubliken)</i>
+- 🏰 Heritage of the Jamtamót Peasant Republic <i>(Jamtamotrepubliken)</i>
 <br>
 <u>Halland - Regional Special:</u> 
 - 🎨 Bonad Painting <i>(Bonadsmålning)</i><br>
@@ -626,33 +625,64 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June
 - Midsummer <i>(Midsommar)</i>. Month: June
-- Crayfish Party <i>(Kräftskiva)</i>. Month: August<br>
-<u>Gotland - Regional Special:</u> 
+- Crayfish Party <i>(Kräftskiva)</i>. Month: August
+- National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June<br>
+<u>Gotland - Regional Special:</u>
+- Almedalen Week <i>(Almedalsveckan)</i>. Month: June
+- Stånga Games <i>(Stångaspelen)</i>. Month: July
 - Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August<br>
 <u>Västra Götaland - Regional Special:</u> 
+- Gothenburg Culture Festival <i>(Göteborgs Kulturkalas)</i>. Month: August.
 - Alingsås Potatisfestivalen <i>(Potatisfestivalen)</i>. Month: June
-
-
-<b>💐 National flower: </b> 
-- Harebell <i>(Liten Blåklocka)</i><br>
-<u>Västra Götaland - Regional Special:</u> 
-- Common Heather <i>(Ljung)</i><br>
-<u>Västernorrland - Regional Special:</u> 
-- Globeflower <i>(Smörboll)</i><br>
-<u>Gotland - Regional Special:</u>
-- European Ivy <i>(Murgröna)</i><br>
-<u>Halland - Regional Special:</u> 
-- Hairy Greenweed <i>(Hårginst)</i><br>
-<u>Skåne - Regional Special:</u> 
-- Daisy <i>(Prästkrage)</i><br>
-<u>Uppsala - Regional Special:</u>
-- Lily of the Valley <i>(Kungsängslilja)</i><br>
+- Lights in Alingsås <i>(Ljuseffekt i Alingsås)</i>. Month: October to November<br>
+<u>Stockholm - Regional Special:</u>
+- Stockholm Culture Festival <i>(Stockholms Kulturfestival)</i>. Month: August<br> 
+<u>Västernorrland - Regional Special:</u>
+- Surströmming Day <i>(Surströmmingspremiär)</i>. Month: August<br> 
 <u>Jämtland - Regional Special:</u> 
-- Black Vanilla Orchid <i>(Brunkulla)</i><br>
-<u>Värmland - Regional Special:</u> 
-- Arctic Starflower <i>(Skogsstjärna)</i><br>
+- Storsjöyran <i>(Storsjöyran)</i>. Month: July to August<br>
+<u>Uppsala - Regional Special:</u> 
+- Uppsala Culture Night <i>(Uppsala Kulturnatten)</i>. Month: September
+- Uppsala River Rafting Event <i>(Forsränningen i Uppsala)</i>. Month: April<br>
+<u>Örebro - Regional Special:</u> 
+- Hindersmässan <i>(Hindersmässan)</i>. Month: January<br>
+<u>Västmanland - Regional Special:</u> 
+- Västerås Cityfestival <i>(Västerås Cityfestival)</i>. Month: June to July<br>
+<u>Västmanland - Regional Special:</u> 
+- Västerås Cityfestival <i>(Västerås Cityfestival)</i>. Month: June to July<br>
+
+
+
+<b>💐 National flower:</b> <b>Harebell <i>(Liten Blåklocka)</i></b><br>
+- <u>Västra Götaland - Regional Special:</u> 
+    - Common Heather <i>(Ljung)</i>
+    - Common Honeysuckle <i>(Vildkaprifol)</i>
+    - Spreading Bellflower <i>(Förgätmigej)</i><br>
+- <u>Västernorrland - Regional Special:</u> 
+    - Globeflower <i>(Smörboll)</i>
+    - Wild Pansy <i>(Styvmorsviol)</i><br>
+- <u>Gotland - Regional Special:</u>
+    - European Ivy <i>(Murgröna)</i><br>
+- <u>Halland - Regional Special:</u> 
+    - Hairy Greenweed <i>(Hårginst)</i><br>
+- <u>Scania - Regional Special:</u> 
+    - Daisy <i>(Prästkrage)</i><br>
+- <u>Uppsala - Regional Special:</u>
+    - Lily of the Valley <i>(Kungsängslilja)</i><br>
+- <u>Jämtland - Regional Special:</u> 
+    - Black Vanilla Orchid <i>(Brunkulla)</i>
+    - Arctic Violet <i>(Mosippa)</i><br>
+- <u>Värmland - Regional Special:</u> 
+    - Arctic Starflower <i>(Skogsstjärna)</i><br>
+- <u>Örebro - Regional Special:</u> 
+    - Common Cowslip <i>(Gullviva)</i><br>
+- <u>Västerbotten - Regional Special:</u> 
+    - Moor-King Lousewort <i>(Kung Karls Spira)</i><br>
+- <u>Västmanland - Regional Special:</u> 
+    - Common Mistletoe <i>(Mistel)</i><br>
+- <u>Östergötland - Regional Special:</u> 
+    - Bachelor's Button <i>(Blåklint)</i>
 
 
 <b>🦉 Local wisdom:</b> "He who yawns too much often misses the whole piece." / <i>"Den som gapar över mycket mister ofta hela stycket."</i> — Swedish proverb
