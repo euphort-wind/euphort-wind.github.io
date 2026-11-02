@@ -103,9 +103,9 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Nolhaga Palace <i>(Nolhaga Slott)</i>
     - Alingsås City Hall <i>(Alingsås Rådhus)</i>
     - Christinae Church <i>(Christinae Kyrka)</i>
-    - Woman with the Handbag Statue <i>(Statyn "Med Handväskan som Vapen")</i>
     - Plantaget Park <i>(Plantaget)</i>
     - Gräfsnäs Castle Ruins <i>(Gräfsnäs Slottsruin)</i>
+    - Woman with the Handbag Statue <i>(Statyn "Med Handväskan som Vapen")</i>
 4. Mölndal
     - Gunnebo Palace <i>(Gunnebo Slott)</i>
     - Gunnebo Gardens <i>(Gunnebo Trädgårdar)</i>
@@ -135,9 +135,9 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Örn Park <i>(Örnparken)</i>
     - Paradiskullen <i>(Paradiskullen)</i>
     - Ödbergska Farmstead <i>(Ödbergska Gården)</i>
+    - Main Street <i>(Storgatan)</i>
     - Hans Hedberg Museum <i>(Hans Hedbergmuseet)</i>
     - Örnsköldsvik Museum <i>(Örnsköldsviks Museum)</i>
-    - Main Street <i>(Storgatan)</i>
 8. Härnösand
     - Car Museum <i>(Härnösand Bilmuseum)</i>
     - Härnösand Cathedral <i>(Härnösands Domkyrka)</i>
@@ -145,13 +145,13 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Murberget County Museum <i>(Västernorrlands Museum)</i>
 9. Umeå
     - City Hall Square <i>(Umeå Rådhustorget)</i>
-    - Västerbottens Museum <i>(Västerbottens Museum)</i>
     - Bildmuseet <i>(Bildmuseet)</i>
     - Umeå City Church <i>(Umeå Stads Kyrka)</i>
     - Varvsparken <i>(Varvsparken)</i>
     - Guitars - The Museum <i>(Guitars)</i>
     - Kulturväven <i>(Kulturväven)</i>
     - Riverside Promenade <i>(Strandpromenaden)</i>
+    - Västerbottens Museum <i>(Västerbottens Museum)</i>
 10. Östersund
     - Jamtli <i>(Jamtli)</i>
     - Badhusparken <i>(Badhusparken)</i> 
@@ -183,9 +183,9 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Kungsbacka Church <i>(Kungsbacka Kyrka)</i>
     - Särö Västerskog <i>(Särö Västerskog)</i>
     - Tree of Life Statue <i>(Statyn "Livets Träd")</i>
-    - Tölöberg Water Tower <i>(Tölöbergs Vattentorn)</i>
     - Kungsbackaskogen <i>(Kungsbacka Forest)</i>
     - Tjolöholm Castle <i>(Tjolöholm Slott)</i>
+    - Tölöberg Water Tower <i>(Tölöbergs Vattentorn)</i>
 14. Varberg 
     - Varberg Fortress <i>(Varberg Fästning)</i>
     - Cold Baths <i>(Kallbadhuset)</i>
@@ -193,10 +193,10 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Societetsparken <i>(Societetsparken)</i>
     - Halland Museum <i>(Hallands Kulturhistoriska Museum)</i>
 15. Mölnlycke (Härryda)
-    - Wendelsbergs High School <i>(Wendelsbergs Folkhögskola)</i>
     - Mölnlycke Fabriker <i>(Mölnlycke Fabriker)</i>
     - Råda Church <i>(Råda Kyrka)</i>
     - Mölnlycke Library <i>(Mölnlycke Bibliotek)</i>
+    - Wendelsbergs High School <i>(Wendelsbergs Folkhögskola)</i>
 16. Helsingborg
     - Helsingborg City Hall <i>(Rådhus)</i>
     - Sofiero Palace <i>(Sofiero Slott)</i>
@@ -226,18 +226,17 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 19. Jönköping
     - Match Museum <i>(Tändsticksmuseet)</i>
     - Hovrättstorget <i>(Hovrättstorget)</i>
-    - Jönköping County Museum <i>(Jönköpings Läns Museum)</i>
     - Rosenlund Rose Garden <i>(Rosariet)</i>
-    - Munksjön Lake Promenade <i>(Munksjöpromenaden)</i>
     - City Hall Park <i>(Rådhusparken)</i>
     - City Park <i>(Stadsparken)</i>  
     - Sofia Church <i>(Sofiakyrkan)</i> 
+    - Jönköping County Museum <i>(Jönköpings Läns Museum)</i>
 20. Linköping
     - Main Square <i>(Stora Torget)</i>
+    - Linköping Castle <i>(Linköpings Slott)</i>
     - The Garden Society <i>(Trädgårdsföreningen)</i> 
     - Linköping Cathedral <i>(Linköpings Domkyrka)</i>
     - Gamla Linköping Museum <i>(Gamla Linköping)</i>
-    - Linköping Castle <i>(Linköpings Slott)</i>
     - Östergötland Museum <i>(Östergötlands Museum)</i>
 21. Lerum
     - Lerum Church <i>(Lerums Kyrka)</i>
@@ -260,10 +259,10 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Society House <i>(Societetshuset)</i>
     - Marstrand Harbour <i>(Marstrands Hamn)</i>
 24. Skärhamn (Tjörn)
-    - Skärhamn Sjöfartsmuseum <i>(Skärhamns Sjöfartsmuseum)</i>
     - Skärhamn Harbour <i>(Skärhamns Gästhamn)</i>
-    - Nordic Watercolor Museum <i>(Nordiska Akvarellmuseet)</i>
     - Skärhamn Church <i>(Skärhamns Kyrka)</i>
+    - Skärhamn Sjöfartsmuseum <i>(Skärhamns Sjöfartsmuseum)</i>
+    - Nordic Watercolor Museum <i>(Nordiska Akvarellmuseet)</i>
     - Skärhamn Coastal Walk <i>(Skärhamns Strandpromenad)</i>
 25. Sollentuna
     - Edsberg Castle <i>(Edsberg Slott)</i>
@@ -278,8 +277,8 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Uppsala University <i>(Uppsala Universitet)</i>
     - Gustavianum <i>(Gustavianum)</i>
     - Linnaeus Garden <i>(Linnéträdgården)</i>
-    - Old Uppsala Burial Mounds <i>(Gamla Uppsala Högar)</i>
     - Linnaeus Museum <i>(Linnémuseet)</i>
+    - Old Uppsala Burial Mounds <i>(Gamla Uppsala Högar)</i>
     - Uppsala Concert & Congress <i>(Uppsala Konsert & Kongress)</i>
 27. Sigtuna
     - Main Street <i>(Stora Gatan)</i>    
@@ -302,10 +301,10 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Borås City Hall <i>(Borås Rådhus)</i>
     - Caroli Church <i>(Caroli Kyrka)</i>
     - Borås Zoo <i>(Borås Djurpark)</i>
-    - Textile Fashion Center <i>(Textile Fashion Center)</i>
-    - Borås Art Museum <i>(Borås Konstmuseum)</i>
-    - The Pinocchio Sculpture <i>("Walking to Borås")</i>
     - Stadsparken <i>(Stadsparken)</i>
+    - Borås Art Museum <i>(Borås Konstmuseum)</i>
+    - Textile Fashion Center <i>(Textile Fashion Center)</i>
+    - The Pinocchio Sculpture <i>("Walking to Borås")</i>
 30. Falköping
     - Mösseberg Park <i>(Mössebergs Kurort)</i> 
     - Observation Tower <i>(Mösseberg Torn)</i> 
@@ -313,14 +312,14 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Falbygdens Museum <i>(Falbygdens Museum)</i> 
 31. Vårgårda
     - Mopar Café <i>(Mopar Café)</i> 
+    - Tånga Hed Recreation Area <i>(Tånga Hed)</i>
     - Vårgårda Museum <i>(Vårgårda Hembygdsförening)</i> 
     - Kullings-Skövde Church <i>(Kullings-Skövde Kyrka)</i> 
-    - Tånga Hed Recreation Area <i>(Tånga Hed)</i>
-32. Vänersborg
-    - Vänersborg Museum <i>(Vänersborgs Museum)</i> 
+32. Vänersborg 
     - Vänersborg Church <i>(Vänersborgs Kyrka)</i> 
     - Frida's Statue <i>(Fridastatyn)</i>
     - Skräckleparken <i>(Skräckleparken)</i>
+    - Vänersborg Museum <i>(Vänersborgs Museum)</i>
 33. Lidköping
     - Lidköping Town Hall <i>(Lidköpings Rådhus)</i> 
     - St. Nicolai Church <i>(S:t Nicolai Kyrka)</i> 
@@ -332,7 +331,6 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Stenungsund Port <i>(Stenungsunds Hamn)</i>
     - Tjörn Bridge <i>(Tjörnbron)</i>
     - Norum Church <i>(Norums Kyrka)</i>
-    - Stenungsund Promenade <i>(Strandpromenaden)</i>
     - Stenungsund Domarring <i>(Domarring)</i>
 35. Falkenberg
     - Vallarna Park <i>(Vallarna Park)</i> 
@@ -340,22 +338,22 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Falkenberg Old Town <i>(Gamla Stan Falkenberg)</i> 
     - Falkenberg Strandbad <i>(Strandbad)</i> 
     - Skrea Beach <i>(Skrea Strand)</i> 
-    - RIAN Design Museum <i>(RIAN Designmuseum)</i>
     - St. Laurentius Church <i>(S:t Laurentii Kyrka)</i>
     - Doctors' Promenade <i>(Doktorspromenaden)</i>
+    - RIAN Design Museum <i>(RIAN Designmuseum)</i>
 36. Örebro
     - Örebro Castle <i>(Örebro Slott)</i> 
     - Wadköping <i>(Wadköping)</i> 
     - St. Nicholas Church <i>(S:t Nicolai Kyrka)</i>
-    - Örebro County Museum <i>(Örebro Läns Museum)</i>
     - Svampen Water Tower <i>(Svampen)</i> 
     - Örebro Stadsparken <i>(Stadsparken)</i>
     - Kulturkvarteret <i>(Kulturkvarteret)</i>
+    - Örebro County Museum <i>(Örebro Läns Museum)</i>
 37. Ekerö
     - Drottningholm Palace <i>(Drottningholm Slott)</i>
-    - Drottningholm Theater <i>(Drottningholms Slottsteater)</i> 
     - Chinese Pavilion <i>(Kina Slott)</i> 
-    - Ekebyhov Castle <i>(Ekebyhov Slott)</i> 
+    - Ekebyhov Castle <i>(Ekebyhov Slott)</i>
+    - Drottningholm Theater <i>(Drottningholms Slottsteater)</i>  
 38. Västerås
     - Vasa Park <i>(Vasaparken)</i>
     - Västerås Castle <i>(Västerås Slott)</i>
@@ -374,8 +372,6 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Visby City Wall <i>(Visby Ringmur)</i>
     - Stora Torget <i>(Stora Torget)</i>
     - Gotlands Museum <i>(Gotlands Fornsal)</i>
-    - St. Nicolai Church Ruin <i>(S:t Nicolai Kyrkoruin)</i>
-    - St. Karin's Church Ruin <i>(S:ta Karins Kyrkoruin)</i>
     - St. Lars Church Ruin <i>(S:t Lars Kyrkoruin)</i>
     - Botanic Gardens <i>(Botaniska Trädgården)</i>
     - Galgberget Nature Reserve <i>(Galgberget)</i>
@@ -383,10 +379,12 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Lummelunda Cave <i>(Lummelundagrottan)</i>
     - Powder Tower <i>(Kruttornet)</i>
     - Högklint Nature Reserve <i>(Högklint)</i>
+    - St. Nicolai Church Ruin <i>(S:t Nicolai Kyrkoruin)</i>
+    - St. Karin's Church Ruin <i>(S:ta Karins Kyrkoruin)</i>
 41. Ljugarn (Gotland)
+    - Ljugarn Beach <i>(Ljugarns Strand)</i>
     - Vitvärs Fisher Village <i>(Vitvärs Fiskeläge)</i>
     - Folhammar Sea Stacks <i>(Folhammars Raukområde)</i>
-    - Ljugarn Beach <i>(Ljugarns Strand)</i>
 42. Henån (Orust)
     - Småholmarna Beach <i>(Småholmarna)</i>
     - Henån Harbour <i>(Henåns Gästhamn)</i>
@@ -406,9 +404,9 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Hallandsgården <i>(Hallandsgården)</i>
     - Norre Port <i>(Norre Port)</i>
     - Norre Katts Park <i>(Norre Katts)</i> 
-    - Halland Museum of Art <i>(Hallands Konstmuseum)</i>
     - Woman's Head Sculpture <i>(Kvinnohuvud)</i>
     - St. Nicholas Church <i>(S:t Nikolai Kyrka)</i>
+    - Halland Museum of Art <i>(Hallands Konstmuseum)</i>
 46. Nödinge-Nol (Ale)
     - Nol Church <i>(Nols Kyrka)</i>
     - Nödinge Church <i>(Nödinge Kyrka)</i>
@@ -418,9 +416,9 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Main Square <i>(Stora Torg)</i>
     - East Bridge <i>(Gamla Stenbron)</i>
     - Karlstad Cathedral <i>(Karlstads Domkyrka)</i>
-    - Sandgrund Art Gallery <i>(Sandgrund Lars Lerin)</i>
     - Värmland Museum <i>(Värmlands Museum)</i>
     - Brigade Museum <i>(Brigadmuseum)</i>
+    - Sandgrund Art Gallery <i>(Sandgrund Lars Lerin)</i>
 48. Skövde
     - Hertig Johans Square <i>(Hertig Johans Torg)</i>
     - Helensparken <i>(Helensparken)</i>
@@ -431,15 +429,15 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 49. Mariestad
     - Mariestad Old Town <i>(Gamla Stan)</i>
     - Mariestad Cathedral <i>(Mariestads Domkyrka)</i>
-    - Marieholm Residence <i>(Marieholms Länsresidens)</i>
     - Karlsholme Park <i>(Karlsholme Folkets Park)</i>
     - Vadsbo Museum <i>(Vadsbo Museum)</i>
     - Mariestad Theater <i>(Mariestads Teater)</i>
+    - Marieholm Residence <i>(Marieholms Länsresidens)</i>
 50. Herrljunga
-    - Herrljunga Drycker Shop <i>(Herrljunga Drycker AB)</i>
     - Hembygdsparken <i>(Hembygdsparken)</i>
     - Herrljunga Church <i>(Herrljunga Kyrka)</i>
     - Herrljunga Cultural Centre <i>(Herrljunga Kulturhus)</i>
+    - Herrljunga Drycker Shop <i>(Herrljunga Drycker AB)</i>
 51. Arvika
     - Trefaldighetskyrkan <i>(Trefaldighetskyrkan)</i>
     - Stadsparken <i>(Stadsparken)</i>
@@ -454,7 +452,6 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Art Museum <i>(Kristinehamns Konstmuseum)</i>
 53. Karlsborg
     - Karlsborg Fortress <i>(Karlsborgs Fästning)</i>
-    - Karlsborg Fortress Museum <i>(Karlsborgs Fästningsmuseum)</i>
     - Garrison Church <i>(Garnisonskyrkan)</i>
     - Göta Canal Harbour <i>(Göta Kanals Hamn)</i>
     - Vanäs Lighthouse <i>(Vanäs Fyr)</i>
@@ -579,13 +576,13 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 
 <b>🎬 Local movies:</b>
 - A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
-- The 100-Year-Old Man who Climbed out the Window and Disappeared <i>(Hundraåringen som Klev ut genom Fönstret och Försvann)</i>. Year: 2013. Genre: comedy
 - Border <i>(Gräns)</i>. Year: 2018. Genre: fantasy
 - End of Summer <i>(Slutet på Sommaren)</i>. Year: 2023. Genre: thriller (series)
 - Anxious People <i>(Folk med Ångest)</i>. Year: 2021. Genre: drama (series)
 - Triangle of Sadness <i>(Triangle of Sadness)</i>. Year: 2022. Genre: black comedy
 - The Perfect Patient <i>(Quick)</i>. Year: 2019. Genre: drama
 - The Playlist <i>(The Playlist)</i>. Year: 2022. Genre: biography (series)
+- The 100-Year-Old Man who Climbed out the Window and Disappeared <i>(Hundraåringen som Klev ut genom Fönstret och Försvann)</i>. Year: 2013. Genre: comedy
 
 
 <b>🪔 Authentic features:</b>
