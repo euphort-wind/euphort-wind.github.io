@@ -574,14 +574,14 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 
 
 <b>🎬 Local movies:</b>
-- Border <i>(Gräns)</i>. Year: 2018. Genre: fantasy / thriller
-- A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
-- End of Summer <i>(Slutet på Sommaren)</i>. Year: 2023. Genre: thriller (series)
-- Anxious People <i>(Folk med Ångest)</i>. Year: 2021. Genre: drama (series)
-- Triangle of Sadness <i>(Triangle of Sadness)</i>. Year: 2022. Genre: black comedy
-- The Perfect Patient <i>(Quick)</i>. Year: 2019. Genre: drama
-- The Playlist <i>(The Playlist)</i>. Year: 2022. Genre: biography (series)
-- The 100-Year-Old Man who Climbed out the Window and Disappeared <i>(Hundraåringen som Klev ut genom Fönstret och Försvann)</i>. Year: 2013. Genre: comedy
+- 🪄 Border <i>(Gräns)</i>. Year: 2018. Genre: fantasy / thriller
+- 🥹 A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
+- 🥹 Anxious People <i>(Folk med Ångest)</i>. Year: 2021. Genre: drama (series)
+- 🕵️ End of Summer <i>(Slutet på Sommaren)</i>. Year: 2023. Genre: thriller (series)
+- 🕵️ The Perfect Patient <i>(Quick)</i>. Year: 2019. Genre: thriller
+- 🌚 Triangle of Sadness <i>(Triangle of Sadness)</i>. Year: 2022. Genre: black comedy
+- 👤 The Playlist <i>(The Playlist)</i>. Year: 2022. Genre: biography (series)
+- 😀 The 100-Year-Old Man who Climbed out the Window and Disappeared <i>(Hundraåringen som Klev ut genom Fönstret och Försvann)</i>. Year: 2013. Genre: comedy
 
 
 <b>🪔 Authentic features:</b>
@@ -625,30 +625,30 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Midsummer <i>(Midsommar)</i>. Month: June
-- Crayfish Party <i>(Kräftskiva)</i>. Month: August
-- National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June<br>
+- 🎪 Midsummer <i>(Midsommar)</i>. Month: June
+- 🎪 Crayfish Party <i>(Kräftskiva)</i>. Month: August
+- 🗽 National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June<br>
 <u>Gotland - Regional Special:</u>
-- Almedalen Week <i>(Almedalsveckan)</i>. Month: June
-- Stånga Games <i>(Stångaspelen)</i>. Month: July
-- Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August<br>
+- 🤸 Stånga Games <i>(Stångaspelen)</i>. Month: July
+- 🎪 Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August
+- 🗽 Almedalen Week <i>(Almedalsveckan)</i>. Month: June<br>
 <u>Västra Götaland - Regional Special:</u> 
-- Gothenburg Culture Festival <i>(Göteborgs Kulturkalas)</i>. Month: August.
-- Alingsås Potatisfestivalen <i>(Potatisfestivalen)</i>. Month: June
-- Lights in Alingsås <i>(Ljuseffekt i Alingsås)</i>. Month: October to November<br>
+- 🎪 Gothenburg Culture Festival <i>(Göteborgs Kulturkalas)</i>. Month: August.
+- 🎪 Alingsås Potatisfestivalen <i>(Potatisfestivalen)</i>. Month: June
+- 🎪 Lights in Alingsås <i>(Ljuseffekt i Alingsås)</i>. Month: October to November<br>
 <u>Stockholm - Regional Special:</u>
-- Stockholm Culture Festival <i>(Stockholms Kulturfestival)</i>. Month: August<br> 
+- 🎪 Stockholm Culture Festival <i>(Stockholms Kulturfestival)</i>. Month: August<br> 
 <u>Västernorrland - Regional Special:</u>
-- Surströmming Day <i>(Surströmmingspremiär)</i>. Month: August<br> 
+- 🎪 Surströmming Day <i>(Surströmmingspremiär)</i>. Month: August<br> 
 <u>Jämtland - Regional Special:</u> 
-- Storsjöyran <i>(Storsjöyran)</i>. Month: July to August<br>
+- 🎪 Storsjöyran <i>(Storsjöyran)</i>. Month: July to August<br>
 <u>Uppsala - Regional Special:</u> 
-- Uppsala Culture Night <i>(Uppsala Kulturnatten)</i>. Month: September
-- Uppsala River Rafting Event <i>(Forsränningen i Uppsala)</i>. Month: April<br>
+- 🎪 Uppsala Culture Night <i>(Uppsala Kulturnatten)</i>. Month: September
+- 🤸 Uppsala River Rafting Event <i>(Forsränningen i Uppsala)</i>. Month: April<br>
 <u>Örebro - Regional Special:</u> 
-- Hindersmässan <i>(Hindersmässan)</i>. Month: January<br>
+- 🎪 Hindersmässan <i>(Hindersmässan)</i>. Month: January<br>
 <u>Västmanland - Regional Special:</u> 
-- Västerås Cityfestival <i>(Västerås Cityfestival)</i>. Month: June to July<br>
+- 🎪 Västerås Cityfestival <i>(Västerås Cityfestival)</i>. Month: June to July<br>
 
 
 
@@ -656,8 +656,8 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - <b>Harebell <i>(Liten Blåklocka)</i></b><br>
 <u>Västra Götaland - Regional Special:</u> 
 - Common Heather <i>(Ljung)</i>
-- Common Honeysuckle <i>(Vildkaprifol)</i>
-- Spreading Bellflower <i>(Förgätmigej)</i><br>
+- Spreading Bellflower <i>(Förgätmigej)</i>
+- Common Honeysuckle <i>(Vildkaprifol)</i><br>
 <u>Västernorrland - Regional Special:</u> 
 - Globeflower <i>(Smörboll)</i>
 - Wild Pansy <i>(Styvmorsviol)</i><br>
