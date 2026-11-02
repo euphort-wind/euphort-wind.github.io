@@ -574,7 +574,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 
 
 <b>🎬 Local movies:</b>
-- Border <i>(Gräns)</i>. Year: 2018. Genre: fantasy
+- Border <i>(Gräns)</i>. Year: 2018. Genre: fantasy / thriller
 - A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
 - End of Summer <i>(Slutet på Sommaren)</i>. Year: 2023. Genre: thriller (series)
 - Anxious People <i>(Folk med Ångest)</i>. Year: 2021. Genre: drama (series)
