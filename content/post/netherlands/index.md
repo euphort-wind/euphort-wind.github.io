@@ -231,13 +231,13 @@ Hej! I'm sharing a glimpse of my experience visiting vibrant Netherlands. I was 
   - 🐦‍🔥 Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
   - 👑 Title of Stadtholder <i>(Stadhouder)</i>
   - ⛵ Dutch Barge Boats <i>(Schuit)</i>
-  - 🏛️ Dutch Baroque Architectural Style <i>(Nederlandse Barokarchitectuur)</i>
+  - 🏛️ Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i>
   - 🎨 Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
 - ⛰️ Dutch Canals <i>(Kanalen)</i>
 - ⛰️ Dutch Polders <i>(Polders)</i>
 <br>
 <u>Utrecht - Regional Special:</u> 
-- 🏛️ De Stijl Architectural Style <i>(De Stijl Architectuur)</i>
+- 🏛️ De Stijl Architecture <i>(De Stijl Architectuur)</i>
 - 🏰 Heritage of the Prince-Bishopric of Utrecht <i>(Sticht Utrecht / Episcopatus Ultraiectensis)</i>
 <br>
 <u>South Holland - Regional Special:</u>

@@ -180,7 +180,7 @@ Hej! I'm sharing a glimpse of my experience visiting fabulous Romania. I was the
 - 🐦‍🔥 Ballad of Miorița <i>(Miorița)</i>
 - 🐦‍🔥 Romanian Folklore <i>(Folclorul Românesc)</i>
 - 🚗 Romanian Cars <i>(Brand: "Dacia")</i>
-- 🏛️ Brâncovenesc Architectural Style <i>(Artă Brâncovenească)</i> 
+- 🏛️ Brâncovenesc Architecture <i>(Artă Brâncovenească)</i> 
 - 🛠️ Horezu Pottery Tradition <i>(Ceramică de Horezu)</i>
 - 🏓 Oină Game <i>(Oină)</i>
 - 🎑 Paparuda Ritual <i>(Paparudă)</i> 

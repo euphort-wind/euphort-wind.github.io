@@ -214,7 +214,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🐦‍🔥 Polish Folklore <i>(Folklor Polski)</i>
 - 🏺 Kapliczka Shrines <i>(Kapliczki)</i>
 - 🛖 Polish Milk Bars <i>(Bary Mleczne)</i>
-- 🏛️ Polish Brick Gothic Architectural Style <i>(Gotyk Ceglany)</i>
+- 🏛️ Polish Brick Gothic Architecture <i>(Gotyk Ceglany)</i>
 - 🛠️ Bolesławiec Pottery Tradition <i>(Ceramika Bolesławiecka)</i>
 - 🏓 Palant Game <i>(Palant)</i>
 - 💃 Polonaise Dance <i>(Polonez)</i>
@@ -227,7 +227,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 🏰 Heritage of the Polish–Lithuanian Commonwealth <i>(Rzeczpospolita / Regnum Poloniae Magnusque Ducatus Lithuaniae)</i>
   - 🦉 Concept: Sarmatism <i>(Sarmatyzm)</i>
   - 👑 Title of Szlachcic <i>(Szlachcic)</i>
-  - 🏛️ Polish Baroque Architectural Style <i>(Sztuka Barokowa w Polsce)</i>
+  - 🏛️ Polish Baroque Architecture <i>(Sztuka Barokowa w Polsce)</i>
   - 👘 Garb: Delia & Żupan <i>(Delia i Żupan)</i>
 - 🏰 Heritage of the Duchy of Warsaw <i>(Księstwo Warszawskie / Duché de Varsovie)</i><br>
 <u>Pomeranian - Regional Special:</u> 
@@ -259,7 +259,7 @@ Hej! I'm sharing a glimpse of my experience visiting invincible Poland. I was th
 - 👘 Garb: Krakuska Hat <i>(Czapka Krakowska)</i>
 - 👲 Culture of Gorals <i>(Górale / Górole)</i>
   - 🏺 Wałaszka Axes <i>(Ciupagi)</i>
-  - 🏛️ Zakopane Architectural Style <i>(Styl Zakopiański)</i>
+  - 🏛️ Zakopane Architecture <i>(Styl Zakopiański)</i>
   - 🎨 Parzenica Embroidery <i>(Parzenica)</i>
   - 💃 Góralski Dance <i>(Taniec Góralski)</i>
   - 👘 Garb: Goral Hat <i>(Kapelusz Góralski)</i>

@@ -205,7 +205,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🐦‍🔥 Greek Folklore <i>(Ελληνική Λαογραφία)</i>
 - 👑 Title of Ecumenical Patriarch <i>(Οἰκουμενικός Πατριάρχης)</i>
 - 🛖 Kafenios <i>(Καφενεία)</i>
-- 🏛️ Greek Neoclassical Architectural Style <i>(Ελληνική Νεοκλασική Αρχιτεκτονική)</i>
+- 🏛️ Greek Neoclassical Architecture <i>(Ελληνική Νεοκλασική Αρχιτεκτονική)</i>
 - 💃 Syrtos Dance <i>(Συρτός)</i>
 - 🎙️ Rebetiko Music <i>(Ρεμπέτικο Τραγούδι)</i>
 - 🪕 Musical Instrument: Bouzouki <i>(Μπουζούκι)</i>
@@ -216,7 +216,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 👑 Title of Basileus <i>(βασιλεύς / 𐀣𐀯𐀩𐀄)</i>
   - 👑 Title of Wanax <i>(Άνακτας / 𐀷𐀙𐀏)</i>
   - 🏺 Kylikes <i>(Κύλικες / 𐀡𐀞)</i>
-  - 🏛️ Cyclopean Masonry Architectural Style <i>(Κυκλώπεια Τείχη / 𐀵𐀒)</i>
+  - 🏛️ Cyclopean Masonry Architecture <i>(Κυκλώπεια Τείχη / 𐀵𐀒)</i>
   - 🛖 Megarons <i>(Μέγαρα / 𐀷𐀙𐀏𐀄𐀫)</i>
   - 🛠️ Mycenaean Pottery Tradition <i>(Μυκηναϊκή Κεραμική / 𐀐𐀩𐀗𐀭)</i>
   - 🛠️ Mycenaean Glyptic Art Tradition <i>(Μυκηναϊκή Γλυπτική / 𐀓𐀫𐀰)</i>
@@ -241,7 +241,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🛖 Stoas <i>(Στοαί)</i>
   - 🛖 Asclepieions <i>(Ἁσκληπιεῖα)</i>
   - 🛖 Tholoi <i>(θόλοι)</i>
-  - 🏛️ Ancient Greek Architectural Style <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
+  - 🏛️ Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
   - 🛠️ Ancient Greek Sculptural Tradition <i>(Αρχαία Ελληνική Γλυπτική)</i>
   - 🛠️ Ancient Greek Pottery Tradition <i>(Αρχαία Ελληνική Κεραμική)</i>
   - 🏃🏻 Ancient Greek Boxing Tradition <i>(Πυγμαχία)</i>
@@ -258,7 +258,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 🦉 Concept: Taxis <i>(Τάξις)</i>
   - ⛵ Dromon Boats <i>(Δρόμωνας)</i>
   - 🛖 Parecclesions <i>(Παρεκκλήσια)</i>
-  - 🏛️ Byzantine Architectural Style <i>(Βυζαντινή Αρχιτεκτονική)</i>
+  - 🏛️ Byzantine Architecture <i>(Βυζαντινή Αρχιτεκτονική)</i>
   - 🎨 Byzantine Silk Weaving <i>(Βυζαντινή Υφαντική Μεταξωτού)</i>
   - 🎨 Byzantine Enamel <i>(Βυζαντινό Σμάλτο)</i>
   - 🎨 Byzantine Mosaics <i>(Βυζαντινά Ψηφιδωτά)</i>
@@ -271,7 +271,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
 - 🐦‍🔥 Legend of the Colossus of Rhodes <i>(Κολοσσός της Ρόδου)</i>
 - ⛵ Caïque Boats <i>(Καΐκια)</i>
 - 🛖 Mykonos Windmills <i>(Ανεμόμυλοι Μυκόνου)</i>
-- 🏛️ Cycladic Architectural Style <i>(Κυκλαδική Αρχιτεκτονική)</i>
+- 🏛️ Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
 - 🏰 Heritage of the Duchy of Naxos <i>(Δουκάτο του Αρχιπελάγους / Ducato de l'Arcipelago)</i>
 - 🏰 Heritage of the Hospitaller Rhodes <i>(Μοναστικό Κράτος των Ιπποτών της Ρόδου / Ordo Hospitalis in Rhodo)</i><br>
 <u>Crete - Regional Special:</u> 
@@ -281,7 +281,7 @@ Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was ther
   - 📜 Cretan Hieroglyphs <i>(Κρητικά Ιερογλυφικά)</i>
   - 📜 Linear A Writing System <i>(Γραμμική Α / 𐘊𐘋𐘌𐘍)</i>
   - 🏺 Stirrup Jars <i>(Μινωικοί Ψευδόστομοι Αμφορείς)</i>
-  - 🏛️ Minoan Palatial Architectural Style <i>(Μινωικά Ανάκτορα)</i>
+  - 🏛️ Minoan Palatial Architecture <i>(Μινωικά Ανάκτορα)</i>
   - 🛠️ Minoan Pottery Tradition <i>(Μινωική Κεραμική)</i>
   - 🛠️ Minoan Jewellery Tradition  <i>(Μινωικά Κοσμήματα)</i>
   - 🎨 Minoan Painting <i>(Μινωική Ζωγραφική)</i>

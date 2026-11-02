@@ -226,10 +226,10 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🚗 Spanish Cars <i>(Brands: "SEAT", "Cupra")</i>
 - 🛖 Bullrings <i>(Plazas de Toros)</i>
 - 🛖 Chiringuito Bars <i>(Chiringuitos)</i>
-- 🏛️ Plateresque Architectural Style <i>(Arquitectura Plateresca)</i>
-- 🏛️ Herrerian Architectural Style <i>(Arquitectura Herreriana)</i>
-- 🏛️ Mudéjar Architectural Style <i>(Arquitectura Mudéjar)</i>
-- 🏛️ Churrigueresque Architectural Style <i>(Arquitectura Churrigueresca)</i>
+- 🏛️ Plateresque Architecture <i>(Arquitectura Plateresca)</i>
+- 🏛️ Herrerian Architecture <i>(Arquitectura Herreriana)</i>
+- 🏛️ Mudéjar Architecture <i>(Arquitectura Mudéjar)</i>
+- 🏛️ Churrigueresque Architecture <i>(Arquitectura Churrigueresca)</i>
 - 🛠️ Talavera Pottery Tradition <i>(Cerámica de Talavera)</i>
 - 🏓 Parchís Game <i>(Parchís)</i>
 - 🏃🏻 Spanish Bullfighting Tradition <i>(Corrida de Toros)</i>
@@ -246,7 +246,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - 🏰 Heritage of the Visigothic Kingdom <i>(Reino Visigodo / 𐌲𐌿𐍄𐌸𐌹𐌿𐌳𐌰 𐌸𐌹𐌿𐌳𐌹𐌽𐌰𐍃𐍃𐌿𐍃)</i>
   - 🕯️ Arianism <i>(Arrianismo / 𐌰𐌹𐌺𐌺𐌻𐌴𐍃𐌾𐍉)</i> 
   - 🏺 Visigothic Eagle-Shaped Fibulae <i>(Fíbulas Aquiliformes / 𐍆𐌹𐌱𐌿𐌻𐌰𐌴)</i>
-  - 🏛️ Visigothic Architectural Style <i>(Arquitectura Visigoda / 𐌲𐌰𐍂𐌳𐍉𐍃)</i>
+  - 🏛️ Visigothic Architecture <i>(Arquitectura Visigoda / 𐌲𐌰𐍂𐌳𐍉𐍃)</i>
   - 🎨 Visigothic Illuminated Manuscripts <i>(Manuscritos Iluminados Visigodos / 𐌱𐍉𐌺𐍉𐍃)</i>
   - 🎙️ Visigothic Chant <i>(Canto Visigótico / 𐍃𐌰𐌲𐌲𐍅𐍃)</i>
 - 🏰 Heritage of the Caliphate of Córdoba <i>(Califato de Córdoba / خِلَافَةُ قُرطُبَة)</i>
@@ -261,7 +261,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
   - 🏺 Porrons <i>(Porrones / Porrons)</i>
   - ⛵ Llagut Boats <i>(Llagutes / Llaguts)</i>
   - 🛖 Masies <i>(Masías / Masies)</i>
-  - 🏛️ Catalan Modernisme Architectural Style <i>(Modernismo Catalán / Modernisme Català)</i>
+  - 🏛️ Catalan Modernisme Architecture <i>(Modernismo Catalán / Modernisme Català)</i>
   - 🎨 Catalan Surrealist Painting <i>(Pintura Surrealista Catalana / Pintura Surrealista Catalana)</i>
   - 🎨 Trencadís Mosaics <i>(Trencadís / Trencadís)</i>
   - 🏓 Patacó Game <i>(Patacó / Patacó)</i>
@@ -278,7 +278,7 @@ Hej! I'm sharing a glimpse of my experience visiting resplendent Spain. I was th
 - ⛵ Jábega Boats <i>(Jábegas)</i>
 - 🛖 Cortijos <i>(Cortijos)</i>
 - 🛖 Andalusian Patios <i>(Patios Andaluces)</i>
-- 🏛️ Moorish Architectural Style <i>(Arquitectura Morisca)</i>
+- 🏛️ Moorish Architecture <i>(Arquitectura Morisca)</i>
 - 🛠️ Taracea de Granada Tradition <i>(Taracea de Granada)</i>
 - 💃 Fandango Dance <i>(Fandango)</i>
 - 💃 Flamenco Dance <i>(Flamenco)</i>

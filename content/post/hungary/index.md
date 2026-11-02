@@ -158,7 +158,7 @@ Hej! I'm sharing a glimpse of my experience visiting picturesque Hungary. I was 
 - 🚗 Hungarian Buses <i>(Brand: "Ikarus")</i>
 - 🛖 Hungarian Thermal Baths <i>(Magyar Gyógyfürdők)</i>
 - 🛖 Csárda Road Taverns <i>(Csárdák)</i>
-- 🏛️ Hungarian Secession Architectural Style <i>(Magyar Szecesszió)</i>
+- 🏛️ Hungarian Secession Architecture <i>(Magyar Szecesszió)</i>
 - 🎨 Kalocsa Embroidery <i>(Kalocsai Hímzés)</i>
 - 🎑 Táncház Dance Ritual <i>(Táncház)</i>
 - 💃 Csárdás Dance <i>(Csárdás)</i>

@@ -132,7 +132,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Lithuania. I was t
 - 🕯️ Romuva Religion <i>(Romuva)</i>
 - 🐦‍🔥 Lithuanian Mythology <i>(Lietuvių Mitologija)</i>
 - 👑 Title of Kriwe <i>(Krivis)</i>
-- 🏛️ Lithuanian Gothic Architectural Style <i>(Lietuviškoji Gotika)</i>
+- 🏛️ Lithuanian Gothic Architecture <i>(Lietuviškoji Gotika)</i>
 - 🛠️ Lithuanian Cross Crafting Tradition <i>(Lietuvos Kryždirbystė)</i>
 - 🛠️ Lithuanian Black Pottery Tradition <i>(Lietuviška Juodoji Keramika)</i>
 - 🎨 Sodai Straw Gardens <i>(Šiaudinių Sodų Tradicija)</i>

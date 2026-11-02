@@ -138,7 +138,7 @@ Hej! I'm sharing a glimpse of my experience visiting resilient Bosnia and vibran
 - 🦉 Concept: Merak <i>(Merak)</i>
 - 🐦‍🔥 Bosniak Epic Poetry <i>(Bošnjačke Epske Narodne Pjesme)</i>
 - 👑 Title of Tripartite President <i>(Tročlano Predsjedništvo)</i>
-- 🏛️ Bosnian Architectural Style <i>(Bosanski Stil u Arhitekturi)</i>
+- 🏛️ Bosnian-Style Architecture <i>(Bosanski Stil u Arhitekturi)</i>
 - 🛠️ Konjic Woodcarving Tradition <i>(Konjičko Drvorezbarstvo)</i>
 - 🎙️ Sevdah Music <i>(Sevdah)</i>
 - 🪕 Musical Instrument: Šargija <i>(Šargija)</i> 

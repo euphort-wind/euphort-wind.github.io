@@ -324,9 +324,9 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🛖 Pâtisseries <i>(Pâtisseries)</i>
 - 🛖 Brasseries <i>(Brasseries)</i>
 - 🛖 French Carousels <i>(Carrousel)</i>
-- 🏛️ French Baroque Architectural Style <i>(Architecture Baroque Française)</i>
-- 🏛️ French Neoclassical Architectural Style <i>(Architecture Néoclassique Française)</i>
-- 🏛️ French Rococo Architectural Style <i>(Architecture Rococo Française)</i>
+- 🏛️ French Baroque Architecture <i>(Architecture Baroque Française)</i>
+- 🏛️ French Neoclassical Architecture <i>(Architecture Néoclassique Française)</i>
+- 🏛️ French Rococo Architecture <i>(Architecture Rococo Française)</i>
 - 🎨 Point de France Lace <i>(Point de France)</i>
 - 🎨 Aubusson Tapestry <i>(Tapisserie d'Aubusson)</i>
 - 🎨 French Impressionist Painting <i>(Peinture Impressionniste)</i>
@@ -344,8 +344,8 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
 - 🏰 Heritage of the French Empire <i>(Empire Français)</i><br>
 <u>Île-de-France - Regional Special:</u>
 - 🛖 Bouillons <i>(Bouillons)</i>
-- 🏛️ Beaux-Arts Architectural Style <i>(Architecture des Beaux-Arts)</i>
-- 🏛️ Art Déco Architectural Style <i>(Architecture Art Déco)</i> 
+- 🏛️ Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
+- 🏛️ Art Déco Architecture <i>(Architecture Art Déco)</i> 
 - 💃 Apache Dance <i>(Valse Chaloupée)</i>
 - 🎙️ Bal-Musette Music <i>(Bal Musette)</i>
 <br>
@@ -355,7 +355,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful France. I was the
   - 🦉 Concept: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
   - 🕯️ Catharism <i>(Catharisme / Catarisme)</i>
   - 🐦‍🔥 Occitan Lyric Poetry <i>(Poésie Lyrique Occitane / Poesia Lirica Occitana)</i>
-  - 🏛️ Meridional Gothic Architectural Style <i>(Architecture Gothique Méridional / Arquitectura Gòtica Meridionala)</i>
+  - 🏛️ Meridional Gothic Architecture <i>(Architecture Gothique Méridional / Arquitectura Gòtica Meridionala)</i>
   - 🎭 Troubadours & Floral Games <i>(Troubadours et Jeux Floraux / Trobadors e Jòcs Florals)</i>
 - ⛰️ Causse Plateaux <i>(Causses / Causses)</i>
 </br>

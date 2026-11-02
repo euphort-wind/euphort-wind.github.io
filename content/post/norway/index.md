@@ -174,7 +174,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Norway. I was there
 - 🛖 Stave Churches <i>(Stavkirker)</i>
 - 🛖 Rorbu Fishermen Houses <i>(Rorbuer)</i>
 - 🛖 Stabbur Storehouses <i>(Stabbur)</i>
-- 🏛️ Dragestil Architectural Style <i>(Dragestil)</i>
+- 🏛️ Dragestil Architecture <i>(Dragestil)</i>
 - 🎨 Norwegian Rose-Painting <i>(Rosemaling)</i>
 - 🏃🏻 Nordic Skiing Tradition <i>(Langrenn)</i>
 - 🏓 Basse Game <i>(Basse)</i>

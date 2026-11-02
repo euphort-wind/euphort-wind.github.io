@@ -118,7 +118,7 @@ Hej! I'm sharing a glimpse of my experience visiting charming Andorra. I was the
 - 🐦‍🔥 Andorran Folklore <i>(Folklore d'Andorra)</i>
 - 👑 Title of Co-Prince <i>(Copríncep)</i>
 - 🛖 Andorran Bordes <i>(Bordes)</i>
-- 🏛️ Andorran Romanesque Architectural Style <i>(Arquitectura Romànica Andorrana)</i>
+- 🏛️ Andorran Romanesque Architecture <i>(Arquitectura Romànica Andorrana)</i>
 - 🏃🏻 Hiking Tradition <i>(Senderisme)</i>
 - 🎑 Ball de l’Ossa d’Encamp Ritual <i>(Ball de l’Ossa d’Encamp)</i>
 - 🎑 Ball de l'Última Ossa d'Ordino Ritual <i>(Ball de l'Última Ossa d'Ordino)</i>

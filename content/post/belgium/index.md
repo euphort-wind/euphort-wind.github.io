@@ -150,7 +150,7 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful multifaceted Belg
 - 🦉 Concept: Belgitude <i>(Belgitude / Belgitude)</i>
 - 🐦‍🔥 Belgian Folklore <i>(Folklore Belge / Belgische Folklore)</i>
 - 🛖 Belgian Friteries <i>(Friteries / Frietkoten)</i>
-- 🏛️ Brabantine Gothic Architectural Style <i>(Gothique Brabançon / Brabantse Gotiek)</i>
+- 🏛️ Brabantine Gothic Architecture <i>(Gothique Brabançon / Brabantse Gotiek)</i>
 - 🎨 Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
 - 🏓 Crossage Game <i>(Crossage / Chole)</i>
 - 🪕 Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>

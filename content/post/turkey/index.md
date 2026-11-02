@@ -218,7 +218,7 @@ Hej! I'm sharing a glimpse of my experience visiting magnificent Türkiye. I was
   - 🛖 Imarets <i>(İmaretler / عمارتلر)</i>
   - 🛖 Bedestens <i>(Bedestenler / بدستانلر)</i> 
   - 🛖 Ottoman Sabils <i>(Sebiller / سبیللر)</i>
-  - 🏛️ Ottoman Architectural Style <i>(Osmanlı Mimarisi / عثمانی معماری)</i>
+  - 🏛️ Ottoman Architecture <i>(Osmanlı Mimarisi / عثمانی معماری)</i>
   - 🏃🏻 Matrak Tradition <i>(Matrak / ماتراق)</i>
   - 🎭 Karagöz Shadow Play <i>(Karagöz / قراقوز)</i>
   - 🎙️ Köçekçe & Köçeks <i>(Köçekçe ve Köçekler / کوچکچه و کوچک‌لر)</i>

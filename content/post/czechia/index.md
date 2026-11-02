@@ -159,7 +159,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - 🐦‍🔥 Czech Folklore <i>(Český Folklór)</i>
 - 🚗 Czech Cars <i>(Brand: "Škoda")</i>
 - 🛖 Sokolovna Buildings <i>(Sokolovny)</i>
-- 🏛️ Czech Gothic Architectural Style <i>(Česká Gotická Architektura)</i>
+- 🏛️ Czech Gothic Architecture <i>(Česká Gotická Architektura)</i>
 - 🎭 Czech Puppetry <i>(České Loutkářství)</i>
 - 💃 Beseda Dance <i>(Česká Beseda)</i>
 - 💃 Polka Dance <i>(Polka)</i>
@@ -168,7 +168,7 @@ Hej! I'm sharing a glimpse of my experience visiting legendary Czech Republic. I
 - 🏰 Heritage of the Samo's Realm <i>(Sámova Říše)</i>
 - 🏰 Heritage of Great Moravia <i>(Velkomoravská Říše / Ⰿⱁⱃⰰⰲⰰ)</i>
   - 🏺 Great Moravian Axe-Shaped Bars <i>(Moravské Sekerovité Hřivny / ⰳⱃⰻⰲⱐⰐⱏⰹ)</i>
-  - 🏛️ Great Moravian Sacral Architectural Style <i>(Velkomoravská Sakrální Architektura / ⱈⱃⰰⰿⱏ)</i>
+  - 🏛️ Great Moravian Sacral Architecture <i>(Velkomoravská Sakrální Architektura / ⱈⱃⰰⰿⱏ)</i>
   - 👘 Garb: Gombíky <i>(Gombíky / ⰳⱁⰿⰱⰹⰽⱏ)</i>
 - 🏰 Heritage of the Duchy of Bohemia <i>(České Knížectví / Ducatus Bohemiæ)</i>
 - 🏰 Heritage of the Kingdom of Bohemia <i>(České Království / Königreich Böhmen)</i>

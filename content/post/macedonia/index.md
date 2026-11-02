@@ -141,7 +141,7 @@ Hej! I'm sharing a glimpse of my experience visiting lush North Macedonia. I was
 - 🧝 Legacy of Paeonians <i>(Пајонци)</i>
 - 🏰 Heritage of the Empire of Samuel <i>(Самоилово Царство)</i><br>
 <u>Skopje - Regional Special:</u>
-- 🏛️ Macedonian Neoclassical Architectural Style <i>(Македонска Неокласична Архитектура)</i>
+- 🏛️ Macedonian Neoclassical Architecture <i>(Македонска Неокласична Архитектура)</i>
 
 
 

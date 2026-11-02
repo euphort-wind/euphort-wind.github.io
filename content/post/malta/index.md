@@ -131,7 +131,7 @@ Hej! I'm sharing a glimpse of my experience visiting hospitable Malta. I was the
 - 🏺 Maltese Wooden Balconies <i>(Gallariji Tradizzjonali Maltin)</i>
 - ⛵ Luzzu Boats <i>(Luzzu)</i>
 - 🛖 Maltese Megalithic Temples <i>(Tempji Megalitiċi)</i>
-- 🏛️ Maltese Baroque Architectural Style <i>(Arkitettura Barokka f'Malta)</i>
+- 🏛️ Maltese Baroque Architecture <i>(Arkitettura Barokka f'Malta)</i>
 - 🎨 Maltese Lace <i>(Bizzilla)</i>
 - 🏓 Il-Passju Game <i>(Il-Passju)</i>
 - 🎙️ Għana Folk Singing <i>(Għana)</i>

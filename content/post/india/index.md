@@ -160,8 +160,8 @@ Hej! I'm sharing a glimpse of my experience visiting contrasting and spectacular
 - 🛖 Chhatri Pavilions <i>(छतरी)</i>
 - 🛖 Haveli Houses <i>(हवेली)</i>
 - 🛖 Stepwells <i>(बावड़ी)</i>
-- 🏛️ Nagara Architectural Style <i>(नागर शैली)</i>
-- 🏛️ Indo-Saracenic Architectural Style <i>(इंडो-सारासेनिक वास्तुकला)</i>
+- 🏛️ Nagara Architecture <i>(नागर शैली)</i>
+- 🏛️ Indo-Saracenic Architecture <i>(इंडो-सारासेनिक वास्तुकला)</i>
 - 🎨 Madhubani Painting <i>(मधुबनी चित्रकला)</i>
 - 🎨 Kalamkari Textile <i>(कलमकारी)</i>
 - 🏃🏻 Yoga Tradition <i>(योग)</i>

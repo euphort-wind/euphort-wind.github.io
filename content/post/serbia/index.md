@@ -159,7 +159,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - 🏺 Čokanja Bottles <i>(Чокањи)</i>
 - 🚗 Serbian Cars <i>(Brand: "Zastava")</i>
 - 🛖 Vajat Houses <i>(Вајати)</i>
-- 🏛️ Morava Architectural Style <i>(Моравски Стил)</i>
+- 🏛️ Morava-Style Architecture <i>(Моравски Стил)</i>
 - 🎨 Pirot Carpets <i>(Пиротски Ћилим)</i>
 - 🏃🏻 Narodno Rvanje Tradition <i>(Народно Рвање)</i>
 - 🎑 Slava Celebration Ritual <i>(Српска Слава)</i>
@@ -170,7 +170,7 @@ Hej! I'm sharing a glimpse of my experience visiting fascinating Serbia. I was t
 - 🏰 Heritage of the Kingdom of Serbia <i>(Краљевина Србија)</i>
   - 🐦‍🔥 Serbian Epic Poetry <i>(Српске Епске Народне Песме)</i>
   - 👑 System of Zadrugas <i>(Задруге)</i>
-  - 🏛️ Raška Architectural Style <i>(Рашки Стил)</i>
+  - 🏛️ Raška-Style Architecture <i>(Рашки Стил)</i>
 - 🏰 Heritage of the Serbian Empire <i>(Српско Царство)</i>
 - 🏰 Heritage of the Serbian Despotate <i>(Српска Деспотовина)</i>
 - 🏰 Heritage of the Principality of Serbia <i>(Књажество Србија)</i>

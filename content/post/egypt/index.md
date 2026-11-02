@@ -138,7 +138,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - 🦉 Concept: Coptic Monasticism <i>(الرهبنة القبطية / Ⲡⲓⲃⲓⲟⲥ Ⲛⲙⲟⲛⲁⲭⲟⲥ)</i>
   - 📜 Coptic Script <i>(الأبجدية القبطية / Ⲁⲃⲅⲇⲉ)</i>
   - 👑 Title of Coptic Pope <i>(بابا الإسكندرية للمصريين الأرثوذكس / Ⲡⲁⲡⲁ)</i>
-  - 🏛️ Coptic Architectural Style <i>(عمارة قبطية / Ⲟⲓⲕⲟⲇⲟⲙⲏ)</i>
+  - 🏛️ Coptic Architecture <i>(عمارة قبطية / Ⲟⲓⲕⲟⲇⲟⲙⲏ)</i>
   - 🎨 Coptic Icon Painting <i>(فن قبطي / Ⲧⲉⲭⲛⲏ ⲛ̀ⲧⲉ Ⲛⲓⲕⲱⲛ)</i>
   - 🎙️ Coptic Chant <i>(الموسيقى القبطية / Ⲯⲁⲗⲙⲟⲥ Ⲛ̀ⲭⲏⲙⲓ)</i>
   - 🎑 Tasbeha Ritual <i>(تسبحة / Ⲑⲱⲇⲓⲁ)</i>
@@ -161,7 +161,7 @@ Hej! I'm sharing a glimpse of my experience visiting timeless Egypt. I was there
   - ⛵ Solar Barques <i>(المراكب الشمسية / 𓂋𓂝 𓏏𓊖)</i>
   - 🛖 Mastabas <i>(مصطبه / 𓉐𓊽)</i>
   - 🛖 Pylons <i>(صرح / 𓈌)</i>
-  - 🏛️ Ancient Egyptian Architectural Style <i>(العمارة المصرية القديمة / 𓉐)</i>
+  - 🏛️ Ancient Egyptian Architecture <i>(العمارة المصرية القديمة / 𓉐)</i>
   - 🛠️ Ancient Egyptian Faience Potery Tradition <i>(الفاينس المصري / 𓍿𓎛𓈖𓏏)</i>
   - 🛠️ Papyrus Sheet Making Tradition <i>(صناعة ورق البردي / 𓇅)</i>
   - 🎨 Ancient Egyptian Relief Art <i>(الفن المصري البارز / 𓏏𓏏𓏤)</i>

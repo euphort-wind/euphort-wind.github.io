@@ -355,8 +355,8 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
 - 🚗 Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>  
 - 🛖 Trattorias <i>(Trattorie)</i>  
 - 🛖 Osterias <i>(Osterie)</i>
-- 🏛️ Italian Renaissance Architectural Style <i>(Architettura Rinascimentale Italiana)</i>
-- 🏛️ Italian Neoclassical Architectural Style <i>(Architettura Neoclassica Italiana)</i>
+- 🏛️ Italian Renaissance Architecture <i>(Architettura Rinascimentale Italiana)</i>
+- 🏛️ Italian Neoclassical Architecture <i>(Architettura Neoclassica Italiana)</i>
 - 🛠️ Maiolica Pottery Tradition <i>(Maiolica)</i>
 - 🎨 Italian Renaissance Painting <i>(Pittura Rinascimentale Italiana)</i>
 - 🎨 Italian Baroque Painting <i>(Pittura Barocca Italiana)</i> 
@@ -394,7 +394,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🛖 Amphitheatres <i>(Amphitheatra)</i>
   - 🛖 Mithraeums <i>(Mithraea)</i>
   - 🎭 Naumachia Performance <i>(Naumachia)</i>
-  - 🏛️ Ancient Roman Architectural Style <i>(Architettura Romana Antica)</i>
+  - 🏛️ Ancient Roman Architecture <i>(Architettura Romana Antica)</i>
   - 🛠️ Ancient Roman Sculptural Tradition <i>(Scultura Romana Antica)</i>
   - 🎑 Taurobolium Ritual <i>(Taurobolium)</i>
   - 👘 Garb: Dalmatic & Paenula <i>(Dalmatica e Paenula)</i>
@@ -412,7 +412,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 👑 Title of Lucumo <i>(Lucumone / 𐌋𐌀𐌖𐌙𐌖𐌌𐌄)</i>  
   - 📜 Ancient Etruscan Alphabet <i>(Alfabeto Etrusco / 𐌀𐌁𐌂𐌃)</i>
   - 🛖 Etruscan Temples <i>(Templi Etruschi / 𐌕𐌌𐌉𐌀)</i>
-  - 🏛️ Etruscan Architectural Style <i>(Architettura Etrusca / 𐌂𐌄𐙙𐌀)</i> 
+  - 🏛️ Etruscan Architecture <i>(Architettura Etrusca / 𐌂𐌄𐙙𐌀)</i> 
   - 🛠️ Bucchero Pottery Tradition <i>(Bucchero / 𐌂𐌓𐌀𐌐𐌉)</i> 
 - 🏰 Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
 - 🏰 Heritage of the Republic of Pisa <i>(Repubblica di Pisa / Res Publica Pisana)</i>
@@ -428,7 +428,7 @@ Hej! I'm sharing a glimpse of my experience visiting magical Italy. I was there 
   - 🐦‍🔥 Sicilian Folklore <i>(Folclore Siciliano / Folklori Sicilianu)</i>
   - 🏺 Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
   - 🛖 Baglio Farmhouses <i>(Bagli / Bagghi)</i>
-  - 🏛️ Sicilian Baroque Architectural Style <i>(Barocco Siciliano / Baroccu Sicilianu)</i>
+  - 🏛️ Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i>
   - 🎨 Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
   - 🎭 Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
   - 🪕 Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>

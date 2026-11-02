@@ -344,7 +344,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🏺 Painted Kovshes <i>(Расписные Ковши)</i>
     - 🏺 Russian Stoves <i>(Русские Печи)</i>
     - 🛖 Terems <i>(Терема)</i>
-    - 🏛️ Russian Wooden Architectural Style <i>(Древнерусское Деревянное Зодчество)</i>
+    - 🏛️ Russian Wooden Architecture <i>(Древнерусское Деревянное Зодчество)</i>
     - 🎨 Novgorod Icon Painting <i>(Новгородская Иконопись)</i>
     - 🎭 Skomorokh Performance <i>(Выступления Скоморохов)</i>
     - 🎙️ Znamenny Chant <i>(Знаменное Пение)</i>
@@ -359,8 +359,8 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
     - 🕯️ Spiritual Christianity <i>(Духовное Христианство)</i>
     - 🏺 Painted Samovars <i>(Расписные Самовары)</i>
     - 🛖 People's Houses <i>(Народные Дома)</i>
-    - 🏛️ Elizabethan Baroque Architectural Style <i>(Елизаветинское Барокко)</i>
-    - 🏛️ Russian Revival Architectural Style <i>(Русский Архитектурный Стиль)</i>
+    - 🏛️ Elizabethan Baroque Architecture <i>(Елизаветинское Барокко)</i>
+    - 🏛️ Russian Revival Architecture <i>(Русский Архитектурный Стиль)</i>
     - 💃 Barynya Dance <i>(Пляска Барыня)</i>
     - 💃 Kamarinskaya Dance <i>(Камаринская Пляска)</i>
     - 👘 Garb: Kosovorotka & Russian Court Dress <i>(Косоворотка и Русское Придворное Платье)</i>
@@ -403,7 +403,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 <u>Leningrad - Regional Special:</u> 
 - 👲 Culture of Izhorians <i>(Ижоры / Ižorat)</i><br>
 <u>St. Petersburg-City - Regional Special:</u> 
-- 🏛️ Petrine Baroque Architectural Style <i>(Петровское Барокко)</i>
+- 🏛️ Petrine Baroque Architecture <i>(Петровское Барокко)</i>
 - 👲 Culture of Votians <i>(Водь / Vađđalaizõd)</i><br>
 <u>Chelyabinsk - Regional Special:</u> 
 - 🛠️ Kasli Iron Sculptural Tradition <i>(Каслинское Литьё)</i>
@@ -411,7 +411,7 @@ Hej! Below are some notes on what I tasted, saw and listened to in Russia.
 <u>Orenburzhie - Regional Special:</u> 
 - 👘 Garb: Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i><br>
 <u>Moscow-City - Regional Special:</u>
-- 🏛️ Naryshkin Baroque Architectural Style <i>(Нарышкинское Барокко)</i>
+- 🏛️ Naryshkin Baroque Architecture <i>(Нарышкинское Барокко)</i>
 
 
 
