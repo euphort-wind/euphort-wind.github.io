@@ -575,7 +575,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 
 <b>🎬 Local movies:</b>
 - 🪄 Border <i>(Gräns)</i>. Year: 2018. Genre: fantasy / thriller
-- 🥹 A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
+- 🥹 A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama
 - 🥹 Anxious People <i>(Folk med Ångest)</i>. Year: 2021. Genre: drama (series)
 - 🕵️ End of Summer <i>(Slutet på Sommaren)</i>. Year: 2023. Genre: thriller (series)
 - 🕵️ The Perfect Patient <i>(Quick)</i>. Year: 2019. Genre: thriller
@@ -635,7 +635,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 <u>Västra Götaland - Regional Special:</u> 
 - 🎪 Gothenburg Culture Festival <i>(Göteborgs Kulturkalas)</i>. Month: August.
 - 🎪 Alingsås Potatisfestivalen <i>(Potatisfestivalen)</i>. Month: June
-- 🎪 Lights in Alingsås <i>(Ljuseffekt i Alingsås)</i>. Month: October to November<br>
+- 🎪 Lights in Alingsås <i>(Lights in Alingsås)</i>. Month: October to November<br>
 <u>Stockholm - Regional Special:</u>
 - 🎪 Stockholm Culture Festival <i>(Stockholms Kulturfestival)</i>. Month: August<br> 
 <u>Västernorrland - Regional Special:</u>
