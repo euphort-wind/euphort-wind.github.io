@@ -153,7 +153,7 @@ Hej! I'm sharing a glimpse of my experience visiting marvelous Denmark. I was th
 - 🎙️ Danish Fiddle Music <i>(Spillemandsmusik)</i>
 - 🪕 Musical Instrument: Lur <i>(Lur)</i>
 - 🏰 Heritage of the Kalmar Union <i>(Kalmarunionen)</i>
-- 🏰 Heritage of the Denmark-Norway Union <i>(Danmark–Norge / Danmark–Noreg)</i>
+- 🏰 Heritage of the Danish-Norwegian Union <i>(Danmark–Norge / Danmark–Noreg)</i>
 - ⛰️ Fur Formations <i>(Fur Formationen)</i>
 
 

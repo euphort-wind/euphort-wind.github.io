@@ -52,7 +52,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I’m sharing a glimpse into my life in charming Sweden. I have lived there since 2021. Below are some notes on what I tasted, saw and listened to.
+Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living there since 2021. Below are some notes on what I tasted, saw and listened to.
 
 <b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
@@ -481,7 +481,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have lived there
 - 🇺🇳 Avicii (DJ). Genre: house
 - 🇺🇳 Eric Prydz (DJ). Genre: progressive house
 - 🇺🇳 Otto Knows (DJ). Genre: house
-- 🇺🇳 Europa (band). Genre: hard rock
+- 🇺🇳 Europe (band). Genre: hard rock
 - 🇺🇳 The Cardigans (band). Genre: pop rock
 - 🇺🇳 Swedish House Mafia (DJ band). Genre: house
 - 🇺🇳 Dead by April (band). Genre: metal
@@ -533,7 +533,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have lived there
 - 🧀 Gräddost <i>(Gräddost)</i>
 - 🫓 Crispbread <i>(Knäckebröd)</i>
 - 🍶 Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
-- 🍶 Swedish Brännvin <i>(Brands: "O.P.Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
+- 🍶 Swedish Brännvin <i>(Brands: "O.P. Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
 - 🍶 Blueberry Wine <i>(Brand: "Rålund")</i>
 </br>
 <u>Västernorrland - Regional Special:</u>
@@ -545,7 +545,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have lived there
 - 🥙 Ugnstrull <i>(Ugnstrull)</i>
 - 🍲 Gotland Spring Onion Soup <i>(Gotländsk Kajpsoppa)</i>
 - 🥘 Gotland Glödhoppa <i>(Gotländsk Glödhoppa)</i>
-- 🍰 Gotland Saffran Pancake <i>(Gotlandspannkaka)</i>
+- 🍰 Gotland Saffron Pancake <i>(Gotlandspannkaka)</i>
 </br>
 <u>Västra Götaland - Regional Special:</u> 
 - 🥙 Sausage with Mashed Potatoes <i>(Halv Special)</i>
@@ -579,7 +579,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have lived there
 
 <b>🎬 Local movies:</b>
 - A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama / comedy
-- The 100 Year-Old Man who Climbed out the Window and Disappeared <i>(Hundraåringen som Klev ut genom Fönstret och Försvann)</i>. Year: 2013. Genre: comedy
+- The 100-Year-Old Man who Climbed out the Window and Disappeared <i>(Hundraåringen som Klev ut genom Fönstret och Försvann)</i>. Year: 2013. Genre: comedy
 - Border <i>(Gräns)</i>. Year: 2018. Genre: fantasy
 - End of Summer <i>(Slutet på Sommaren)</i>. Year: 2023. Genre: thriller (series)
 - Anxious People <i>(Folk med Ångest)</i>. Year: 2021. Genre: drama (series)
@@ -601,11 +601,11 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have lived there
 - 🎙️ Kulning Singing <i>(Lockrop)</i>
 - 🪕 Musical Instrument: Nyckelharpa <i>(Nyckelharpa)</i> 
 - 👘 Garb: Folkdräkt <i>(Svensk Folkdräkt)</i>
-- 🏰 Heritage of the Sweden-Norway Union <i>(Sverige-Norge / Norig-Sverike)</i>
+- 🏰 Heritage of the Swedish–Norwegian Union <i>(Sverige-Norge / Norig-Sverike)</i>
 <br>
 <u>Gotland - Regional Special:</u> 
 - ⛵ Gotlandssnipa Boats <i>(Gotlandssnipor)</i>
-- 🛠️ Gotland Sheepskin Rug Production <i>(Gotländskt Fårskinnsmatta)</i>
+- 🛠️ Gotland Sheepskin Rug Production <i>(Gotländska Fårskinnsmattor)</i>
 - 🧝 Legacy of Gutes <i>(Gutar / ᚷᚢᛏᛟᛉ)</i>
     - 🐦‍🔥 Guta Saga <i>(Gutasagan / ᚷᚢᛏᚨ ᛋᚨᚷᚨ)</i>
     - 🏺 Gotland Picture Stones <i>(Bildstenar / ᛒᛁᛚᛞᚨᛋᛏᚨᛁᚾᚨᛉ)</i>
