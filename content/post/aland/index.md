@@ -64,8 +64,8 @@ Hej! Here's a glimpse into my experiences in the beautiful Åland Islands, which
 1. Eckerö
     - Post Office <i>(Post- och Tullhus)</i>
     - Eckerö Church <i>(Eckerö Kyrka)</i>
-    - Käringsund Fishing Village <i>(Käringsunds Fiskeläge)</i>
     - Käringsund Lighthouse <i>(Käringsunds Fyr)</i>
+    - Käringsund Fishing Village <i>(Käringsunds Fiskeläge)</i>
     - Museum of Fisheries and Navigation <i>(Ålands Jakt- och Fiskemuseum)</i>
 2. Mariehamn
     - Maritime Museum <i>(Ålands Sjöfartsmuseum)</i>
