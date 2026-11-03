@@ -52,7 +52,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I'm sharing a glimpse into my experiences visiting bustling Gibraltar. I was there in 2026. Below are some notes on what I tasted, saw, and listened to.
+Hej! Here's a glimpse into my experiences in bustling Gibraltar, which I visited in 2026. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
@@ -102,8 +102,8 @@ Hej! I'm sharing a glimpse into my experiences visiting bustling Gibraltar. I wa
 
 
 <b>🪔 Authentic features:</b>
-- 🐦‍🔥 Gibraltarian Folklore
 - 🐦‍🔥 Legend of the Barbary Macaques
+- 🐦‍🔥 Gibraltarian Folklore
 - 👑 Title of Governor
 - 🛖 Historic Batteries of Gibraltar
 - 🎑 Ceremony of the Keys Ritual

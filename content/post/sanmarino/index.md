@@ -52,7 +52,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I'm sharing a glimpse into my experiences visiting dreamlike San Marino. I was there in 2024. Below are some notes on what I tasted, saw, and listened to.
+Hej! Here's a glimpse into my experiences in dreamlike San Marino, which I visited in 2024. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 

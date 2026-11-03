@@ -9,7 +9,7 @@ gallery_item:
     caption: Tallinn
   - album: estonia
     image: 2hall.jpeg
-    caption: Tallinn city hall
+    caption: Tallinn City hall
   - album: estonia
     image: 3var.jpeg
     caption: Värska
@@ -53,7 +53,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I'm sharing a glimpse into my experiences visiting cozy Estonia. I was there in 2024. Below are some notes on what I tasted, saw, and listened to.
+Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 2024. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
@@ -63,6 +63,7 @@ Hej! I'm sharing a glimpse into my experiences visiting cozy Estonia. I was ther
 
 {{< spoiler text="Click to view" >}}
 1. Tallinn
+    - Tallinn Old Town <i>(Vanalinn)</i>
     - Town Hall Square <i>(Raekoja Plats)</i>
     - Town Hall Pharmacy <i>(Raeapteek)</i>
     - Fat Margaret <i>(Paks Margareeta)</i>
@@ -71,20 +72,24 @@ Hej! I'm sharing a glimpse into my experiences visiting cozy Estonia. I was ther
     - Cafe Maiasmokk <i>(Maiasmokk)</i>
     - Toompea Hill <i>(Toompea)</i>
     - St. Olaf’s Church <i>(Oleviste Kirik)</i>
-    - Alexander Nevsky Cathedral <i>(Aleksander Nevski Katedraal)</i>
     - St. Nicholas Church <i>(Niguliste Kirik)</i>
+    - St. Mary's Cathedral <i>(Toomkirik)</i>
+    - Alexander Nevsky Cathedral <i>(Aleksander Nevski Katedraal)</i>
 2. Tartu
     - Town Hall Square <i>(Raekoja Plats)</i>
     - Tartu Observatory <i>(Tartu Observatoorium)</i>
     - Ruins of Tartu Cathedral <i>(Tartu Toomkirik)</i>
-    - Main Building of Tartu University <i>(Tartu Ülikooli Peahoone)</i>
     - Leaning House <i>(Tartu Kunstimuuseum)</i>
     - Tartu Toy Museum <i>(Tartu Mänguasjamuuseum)</i>
+    - St. John's Church <i>(Tartu Jaani Kirik)</i>
+    - Toome Hill Park <i>(Toomemägi)</i>
+    - Tartu University <i>(Tartu Ülikooli)</i>
 3. Värska
-    - Värska Orthodox Church <i>(Värska Georgiose Kirik)</i>
     - General Reek's House <i>(Reegi Maja)</i>
     - Värska Spring <i>(Värska Allikas)</i>
     - Café Seto Tsäimaja <i>(Seto Tsäimaja)</i>
+    - Värska Harbour <i>(Värska Sadam)</i>
+    - Värska Orthodox Church <i>(Värska Püha Georgiuse Kirik)</i>
 {{< /spoiler >}}  
 
 <b>🎧 Local musicians: </b>
@@ -104,7 +109,7 @@ Hej! I'm sharing a glimpse into my experiences visiting cozy Estonia. I was ther
 - 🥙 Kiluvõileib <i>(Kiluvõileib)</i>
 - 🥙 Pirukas <i>(Pirukas)</i>
 - 🥘 Mulgipuder <i>(Mulgi Puder)</i>
-- 🥘 Mulgikaspad <i>(Mulgi Kapsad)</i>
+- 🥘 Mulgikapsad <i>(Mulgi Kapsad)</i>
 - 🥘 Estonian Blood Sausage <i>(Verivorst)</i>
 - 🍰 Mannavaht <i>(Mannavaht)</i>
 - 🍰 Kohuke <i>(Kohuke)</i>
@@ -116,41 +121,59 @@ Hej! I'm sharing a glimpse into my experiences visiting cozy Estonia. I was ther
 </br>
 <u>Võru - Regional Special:</u> 
 - 🍲 Seto Cold Soup <i>(Seto Külmsupp / Suulliim)</i>
-- 🧀 Seto Sõir Cheese <i>(Seto Sõir / Seto Sõir)</i>
+- 🧀 Seto Sõir <i>(Seto Sõir / Seto Sõir)</i>
 
 
 <b>🎬 Local movies:</b>
-- Truth and Justice <i>(Tõde ja Õigus)</i>. Year: 2019. Genre: drama
-- The Class <i>(Klass)</i>. Year: 2007. Genre: drama
-- Autumn Ball <i>(Sügisball)</i>. Year: 2007. Genre: drama
-- Life without Gabriella Ferri <i>(Elu ilma Gabriella Ferrita)</i>. Year: 2008. Genre: animation
+- 🕰️ Truth and Justice <i>(Tõde ja Õigus)</i>. Year: 2019. Genre: drama / history
+- 🥹 The Class <i>(Klass)</i>. Year: 2007. Genre: drama
+- 🌚 Autumn Ball <i>(Sügisball)</i>. Year: 2007. Genre: black comedy
+- 👾 Life without Gabriella Ferri <i>(Elu ilma Gabriella Ferrita)</i>. Year: 2008. Genre: animation
 
 
 <b>🪔 Authentic features:</b>
-- 🐦‍🔥 Epic of Kalevipoeg <i>(Kalevipoeg: Eesti Rahva Eepos)</i>
+- 🕯️ Maausk Religion <i>(Maausk)</i>
+- 🕯️ Taaraism <i>(Taarausk)</i>
+- 🐦‍🔥 Epic of Kalevipoeg <i>(Rahvuseepos Kalevipoeg)</i>
 - 🐦‍🔥 Estonian Mythology <i>(Eesti Mütoloogia)</i>
+- ⛵ Haabjas Boats <i>(Haabjad)</i>
+- 🛖 Rehielamu Houses <i>(Rehielamud)</i>
 - 🏃🏻 Kiiking Tradition <i>(Kiiking)</i>
+- 💃 Tuljak Dance <i>(Tuljaku Tants)</i>
 - 🎙️ Estonian Runic Singing <i>(Regilaul)</i>
 - 🪕 Musical Instrument: Kannel <i>(Kannel)</i>
+- 👘 Garb: Kirivöö & Kihnu Kört <i>(Eesti Kirivöö ja Kihnu Kört)</i>
 - ⛰️ Baltic Klint <i>(Balti Klint)</i><br>
 <u>Võru - Regional Special:</u> 
 - 🛖 Võro Smoke Saunas <i>(Suitsusaun / Savvusann)</i>
 - 👲 Culture of Setos <i>(Setukesed / Setokõsõq)</i>
   - 🐦‍🔥 Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
   - 👑 Title of Ülemsootska <i>(Ülemsootska / Ülembsootśka)</i>
+  - 💃 Seto Kargus Dance <i>(Setu Kargus / Seto Kargus)</i>
   - 🎙️ Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
-  
+  - 🎙️ Seto Lullaby Singing <i>(Seto Hällilaulud / Seto Hällülaulud)</i>
+  - 👘 Garb: Suur Sõlg <i>(Suur Sõlg / Suur Sõlg)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Independence Day of Estonia <i>(Eesti Iseseisvuspäev)</i>. Month: February
-- Estonian National Song Festival <i>(Eesti Üldlaulupidu)</i>. Month: July
-- Jaanipäev <i>(Leedopäev)</i>. Month: June<br>
+- 🗽 Independence Day of Estonia <i>(Eesti Iseseisvuspäev)</i>. Month: February
+- 🎪 Estonian National Song Festival <i>(Eesti Üldlaulupidu)</i>. Month: July
+- ☀️ Jaanipäev <i>(Leedopäev)</i>. Month: June
+- ☀️ Kadripäev <i>(Kadripäev)</i>. Month: November<br>
+<u>Harju - Regional Special:</u> 
+- 🎪 Tallinn Old Town Days <i>(Tallinna Vanalinna Päevad)</i>. Month: May to June
+- 🎪 Tallinn Medieval Days <i>(Tallinna Keskaja Päevad)</i>. Month: July
+<br>
+<u>Tartu - Regional Special:</u> 
+- 🎪 Tartu Hanseatic Days <i>(Tartu Hansapäevad)</i>. Month: July
+- 🎪 Tartu Student Days <i>(Tartu Tudengipäevad)</i>. Month: April and September
+<br>
 <u>Võru - Regional Special:</u> 
-- Seto Kingdom Day <i>(Seto Kuningriigi Päev / Seto Kuningriik)</i>. Month: August
+- 👲 Seto Kingdom Day <i>(Seto Kuningriigi Päev / Seto Kuningriik)</i>. Month: August
+- 🎪 Võru Folk Festival <i>(Võru Folkloorifestival  / Võro Folkloorifestival)</i>. Month: July
 
 
 <b>💐 National flower: </b>
-- Blue Cornflower <i>(Rukkilill)</i>
+- <b>Blue Cornflower <i>(Rukkilill)</i></b>
 
 
 <b>🦉 Local wisdom:</b> "Who else will lift a dog’s tail if not the dog itself?"  / <i>"Kes koera saba kergitab, kui koer ise."</i> — Estonian proverb

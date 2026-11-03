@@ -53,7 +53,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I'm sharing a glimpse into my experiences visiting beautiful France. I was there in 2026. Below are some notes on what I tasted, saw, and listened to. 
+Hej! Here's a glimpse into my experiences in beautiful France, which I visited in 2026. Below are some notes on what I tasted, saw, and listened to. 
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️. 
 
@@ -317,6 +317,7 @@ Hej! I'm sharing a glimpse into my experiences visiting beautiful France. I was 
 
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: L'Art de Vivre <i>(L'Art de Vivre)</i>
+- 🐦‍🔥 Legend of Joan of Arc <i>(Légende de Jeanne d'Arc)</i>
 - 🐦‍🔥 French Folklore <i>(Folklore Français)</i>
 - 🚗 French Cars <i>(Brands: "Peugeot", "Renault", "Citroën", "Bugatti")</i>
 - 🛖 Lavoir Wash Houses <i>(Lavoirs)</i> 

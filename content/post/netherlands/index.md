@@ -52,7 +52,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I'm sharing a glimpse into my experiences visiting vibrant Netherlands. I was there in 2025. Below are some notes on what I tasted, saw, and listened to.
+Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visited in 2025. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
@@ -224,6 +224,7 @@ Hej! I'm sharing a glimpse into my experiences visiting vibrant Netherlands. I w
 - 🛖 Canal Houses <i>(Grachtenpanden)</i>
 - 🛖 Dutch Windmills <i>(Windmolens)</i>
 - 🏃🏻 Cycling Tradition <i>(Het Fietsen)</i>
+- 🏃🏻 Iceboating Tradition <i>(IJszeilen)</i>
 - 🏓 Sjoelen Game <i>(Sjoelen)</i>
 - 🪕 Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
 - 👘 Garb: Dutch Cap & Klomps <i>(Nederlandse Hul en Klompen)</i>

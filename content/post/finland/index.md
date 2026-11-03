@@ -54,7 +54,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I'm sharing a glimpse into my experiences visiting majestic Finland. I was there in 2021. Below are some notes on what I tasted, saw, and listened to.
+Hej! Here's a glimpse into my experiences in majestic Finland, which I visited in 2021. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️. 
 
@@ -147,6 +147,7 @@ Hej! I'm sharing a glimpse into my experiences visiting majestic Finland. I was 
 
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: Sisu <i>(Sisu)</i>
+- 🐦‍🔥 Epic of Kalevala <i>(Kansalliseepos Kalevala)</i>
 - 🐦‍🔥 Finnish Mythology <i>(Suomalainen Mytologia)</i>
 - 👑 System of Sukuseuras <i>(Sukuseurat)</i>
 - 🏺 Puukko Knives <i>(Puukko)</i>
@@ -178,8 +179,9 @@ Hej! I'm sharing a glimpse into my experiences visiting majestic Finland. I was 
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - 🗽 Independence Day of Finland <i>(Itsenäisyyspäivä)</i>. Month: December
-- 🤸 Laskiainen <i>(Laskiainen)</i>. Month: January to February
 - 🎪 Kalevala Day <i>(Kalevalan Päivä)</i>. Month: February
+- 🤸 Laskiainen <i>(Laskiainen)</i>. Month: January to February
+- 🤸 Wife-Carrying Contest <i>(Eukonkanto)</i>. Month: July 
 - 👲 Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Month: February<br>
 <u>Uusimaa - Regional Special:</u>
 - 🗽 Helsinki Day <i>(Helsinki-Päivä)</i>. Month: June  

@@ -630,7 +630,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- 🎪 Midsummer <i>(Midsommar)</i>. Month: June
+- ☀️ Midsummer <i>(Midsommar)</i>. Month: June
 - 🎪 Crayfish Party <i>(Kräftskiva)</i>. Month: August
 - 🗽 National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June<br>
 <u>Gotland - Regional Special:</u>
