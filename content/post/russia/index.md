@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! Below are some notes on what I tasted, saw and listened to in Russia. 
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Zelyonaya Polyana, Kusimovsky Rudnik, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Kyshtym, Arkaim, Roza Khutor, Sochi, Adler, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralnye Vody, Fiagdon, Dargavs, Fasnal, Zadalesk, Vladikavkaz, Sterlitamak, Orenburg.<br>
 

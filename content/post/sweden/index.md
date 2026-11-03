@@ -54,7 +54,7 @@ gallery_item:
 
 Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living there since 2021. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Stockholm, Gothenburg, Mölndal, Sundsvall, Timrå, Örnsköldsvik, Härnösand, Umeå, Östersund, Malmö, Kungälv, Kungsbacka, Varberg, Mölnlycke, Helsingborg, Partille, Öckerö, Jönköping, Linköping, Lerum, Alingsås, Trollhättan, Marstrand, Skärhamn, Sollentuna, Uppsala, Sigtuna, Norrtälje, Borås, Falköping, Vårgårda, Vänersborg, Lidköping, Stenungsund, Falkenberg, Örebro, Ekerö, Västerås, Uddevalla, Visby, Ljugarn, Henån, Solna, Lödöse, Halmstad, Nödinge-Nol, Karlstad, Skövde, Mariestad, Herrljunga, Arvika, Kristinehamn, Karlsborg. <br>
 
@@ -617,6 +617,8 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 <br>
 <u>Halland - Regional Special:</u> 
 - 🎨 Bonad Painting <i>(Bonadsmålning)</i><br>
+<u>Uppsala - Regional Special:</u> 
+- 🧝 Legacy of Ancient Swedes <i>(Svear / ᛊᚠᛖᚨᚱ)</i><br>
 <u>Västra Götaland - Regional Special:</u> 
 - 🛖 Landshövding Houses <i>(Landshövdingehus)</i>
 - 🧝 Legacy of Geates <i>(Götar / ᚷᚨᚢᛏᚨᛉ)</i>

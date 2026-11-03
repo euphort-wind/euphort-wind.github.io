@@ -1,7 +1,7 @@
 ---
 title: 🇦🇽 Åland Islands 
 date: '2023-12-30'
-summary: Trip to Ålands
+summary: Trip to Åland
 
 gallery_item:
   - album: aland
@@ -21,7 +21,7 @@ gallery_item:
     caption: Eckerö
   - album: aland
     image: 4museum.jpg
-    caption: Maritime museum and Pommern Ship
+    caption: Maritime Museum and Pommern Ship
   - album: aland
     image: 5sjo.jpg
     caption: The Sea Quarter
@@ -52,9 +52,9 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I was there in 2023. Below are some notes on what I tasted, saw and listened to.
+Hej! I'm sharing a glimpse of my experience visiting the beautiful Åland Islands. I was there in 2023. Below are some notes on what I tasted, saw and listened to.
 
-<b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
+<b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
 <b>🗺 Places:</b> Mariehamn, Eckerö.
 
@@ -103,9 +103,9 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 <b>🪔 Authentic features:</b>
 - 👑 Title of Lantråd <i>(Lantråd)</i>
 - 🏺 Votive Ships <i>(Votivskepp)</i>
-- 🛖 Åland Boathouses <i>(Åländsk Båthus)</i>
-- 🛠️ Åland Ship Building <i>(Åländsk Skeppsbyggnad)</i>
-- 💃 Ålandsschottis Dance <i>(Ålandsschottis)</i>
+- 🛖 Åland Boathouses <i>(Åländska Båthus)</i>
+- 🛠️ Åland Shipbuilding <i>(Åländsk Skeppsbyggnad)</i>
+- 💃 Åland Schottis Dance <i>(Ålandsschottis)</i>
 - ⛰️ Åland Red Granite Roads <i>(Vägar av Röd Åländsk Granit)</i>
 
 
