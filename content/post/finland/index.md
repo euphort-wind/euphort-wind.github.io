@@ -64,9 +64,8 @@ Hej! I'm sharing a glimpse into my experiences visiting majestic Finland. I was 
 
 {{< spoiler text="Click to view" >}}
 1. Helsinki
-    - Temppeliaukio Church <i>(Temppeliaukion Kirkko)</i>
-    - Sea Fortress Suomenlinna <i>(Suomenlinna)</i>
     - Helsinki Cathedral <i>(Helsingin Tuomiokirkko)</i>
+    - Sea Fortress Suomenlinna <i>(Suomenlinna)</i>
     - Senate Square <i>(Senaatintori)</i>
     - Kallio Church <i>(Kallion Kirkko)</i>
     - Parliament House <i>(Eduskuntatalo)</i>
@@ -75,15 +74,16 @@ Hej! I'm sharing a glimpse into my experiences visiting majestic Finland. I was 
     - Esplanadi Street <i>(Esplanadi)</i>
     - Kamppi Chapel of Silence <i>(Kampin Kappeli)</i>
     - Sibelius Monument <i>(Sibelius-Monumentti)</i>
+    - Temppeliaukio Church <i>(Temppeliaukion Kirkko)</i>
     - Helsinki Winter Garden <i>(Helsingin Talvipuutarha)</i>
 2. Vaasa
     - Vaasa City Hall <i>(Kaupungintalo)</i>
     - Vaasa Holy Trinity Church <i>(Vaasan Kirkko)</i>
     - Vaasa Market Square <i>(Vaasan Tori)</i>
-    - Brage Open-Air Museum <i>(Bragen Ulkoilmamuseo)</i>
     - Vaasa City Art Gallery <i>(Vaasan Taidehalli)</i>
     - Vaasa Water Tower <i>(Vaasan Vesitorni)</i>
     - Ostrobothnian Museum <i>(Pohjanmaan Museo)</i>
+    - Brage Open-Air Museum <i>(Bragen Ulkoilmamuseo)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
@@ -181,9 +181,10 @@ Hej! I'm sharing a glimpse into my experiences visiting majestic Finland. I was 
 - 🤸 Laskiainen <i>(Laskiainen)</i>. Month: January to February
 - 🎪 Kalevala Day <i>(Kalevalan Päivä)</i>. Month: February
 - 👲 Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Month: February<br>
-<u>Uusimaa - Regional Special:</u> 
-- 🎪 Lux Helsinki <i>(Lux Helsinki)</i>. Month: December to January  
+<u>Uusimaa - Regional Special:</u>
 - 🗽 Helsinki Day <i>(Helsinki-Päivä)</i>. Month: June  
+- 🎪 Lux Helsinki <i>(Lux Helsinki)</i>. Month: December to January  
+
 
 
 <b>💐 National flower: </b> 
