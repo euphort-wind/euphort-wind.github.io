@@ -52,7 +52,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I'm sharing a glimpse of my experience visiting graceful Greece. I was there in 2012, 2015 and 2026. Below are some notes on what I tasted, saw and listened to.
+Hej! I'm sharing a glimpse into my experiences visiting graceful Greece. I was there in 2012, 2015 and 2026. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experience and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 

@@ -52,7 +52,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I'm sharing a glimpse of my experience visiting the beautiful Åland Islands. I was there in 2023. Below are some notes on what I tasted, saw and listened to.
+Hej! I'm sharing a glimpse into my experiences visiting the beautiful Åland Islands. I was there in 2023. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
@@ -112,15 +112,15 @@ Hej! I'm sharing a glimpse of my experience visiting the beautiful Åland Island
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- 🗽 Autonomy Day of Åland <i>(Ålands Självstyrelsedag)</i>. Month: June
 - 🤸 Postrodden <i>(Postrodden)</i>. Month: June
+- 🗽 Autonomy Day of Åland <i>(Ålands Självstyrelsedag)</i>. Month: June
 - 🎪 Lilla Jul Celebration <i>(Lillajul)</i>. Month: November or December
 - 🎪 Åland Harvest Festival <i>(Skördefesten)</i>. Month: September
 
 
 
 <b>💐 National flower: </b> 
-- Cowslip Primrose <i>(Gullviva)</i>
+- <b>Cowslip Primrose <i>(Gullviva)</i></b>
 
 
 <b>🦉 Local wisdom:</b> "Even when the storm rages, the spinning wheel sings its song in the peace of the cottages." / <i>"Ryter än stormen, i stugornas ro spinnrocken sjunger sin visa."</i> — Ålandic proverb

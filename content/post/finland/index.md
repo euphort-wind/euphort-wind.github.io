@@ -54,7 +54,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was there in 2021. Below are some notes on what I tasted, saw and listened to.
+Hej! I'm sharing a glimpse into my experiences visiting majestic Finland. I was there in 2021. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️. 
 
@@ -83,6 +83,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
     - Brage Open-Air Museum <i>(Bragen Ulkoilmamuseo)</i>
     - Vaasa City Art Gallery <i>(Vaasan Taidehalli)</i>
     - Vaasa Water Tower <i>(Vaasan Vesitorni)</i>
+    - Ostrobothnian Museum <i>(Pohjanmaan Museo)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
@@ -90,13 +91,13 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - 🇫🇮 Jenni & Juho (duo). Genre: pop
 - 🇫🇮 Haloo Helsinki! (band). Genre: pop rock
 - 🇫🇮 Jenni Vartiainen (singer). Genre: pop
-- 🇫🇮 Eppu Normaali (singer). Genre: rock
+- 🇫🇮 Eppu Normaali (band). Genre: rock
 - 🇫🇮 Neljä Ruusua (band). Genre: rock
 - 🇫🇮 Pete Parkkonen (singer). Genre: pop
-- 🇺🇳 H.I.M. (band). Genre: gothic metal
+- 🇺🇳 HIM (band). Genre: gothic metal
 - 🇺🇳 The Rasmus (band). Genre: alt-rock
 - 🇺🇳 Sunrise Avenue (band). Genre: rock
-- 🇺🇳 Darude (DJ). Genre: speed house
+- 🇺🇳 Darude (DJ). Genre: progressive trance
 - 🇺🇳 Alma (singer). Genre: pop
 - 🇺🇳 Bomfunk MC's (band). Genre: hip-hop
 - 🇺🇳 Aavepyörä (DJ). Genre: suomisaundi
@@ -108,7 +109,7 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 
 
 <b>🍽️ Local food & drinks: </b>
-- 🥓 Kuivaliha <i>(Kapaliha)</i>
+- 🥓 Kuivaliha <i>(Kuivaliha)</i>
 - 🥙 Karelian Pastry <i>(Karjalanpiirakka)</i>
 - 🥙 Porilainen <i>(Porilainen)</i>
 - 🥙 Lihapiirakka <i>(Lihapiirakka)</i>
@@ -130,51 +131,63 @@ Hej! I'm sharing a glimpse of my experience visiting majestic Finland. I was the
 - 🍰 Mustikkapöperö <i>(Mustikkapöperö)</i>
 - 🍰 Pulla Bread <i>(Nisu)</i>
 - 🍶 Finnish Lonkero <i>(Brand: "Hartwall Original")</i>
-- 🍶 Finnish Liqueur <i>(Brand: "Minttu")</i>
+- 🍶 Finnish Liqueur <i>(Brand: "Minttu")</i><br>
+<u>Uusimaa - Regional Special:</u>
+- 🍰 Runeberg Torte <i>(Runebergintorttu)</i><br>
+<u>Ostrobothnia - Regional Special:</u>
+- 🫓 Malaxlimpa Bread <i>(Malaxinleipä)</i>
 
 
 
 <b>🎬 Local movies:</b>
-- Heavy Trip <i>(Hevi Reissu)</i>. Year: 2018. Genre: comedy
-- Happier Times, Grump <i>(Ilosia Aikoja, Mielensäpahoittaja)</i>. Year: 2018. Genre: drama
-- The Man Without a Past <i>(Mies Vailla Mnneisyyttä)</i>. Year: 2002. Genre: drama
+- 😀 Heavy Trip <i>(Hevi Reissu)</i>. Year: 2018. Genre: comedy
+- 🥹 Happier Times, Grump <i>(Ilosia Aikoja, Mielensäpahoittaja)</i>. Year: 2018. Genre: drama
+- 🥹 The Man Without a Past <i>(Mies vailla Menneisyyttä)</i>. Year: 2002. Genre: drama
 
 
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: Sisu <i>(Sisu)</i>
 - 🐦‍🔥 Finnish Mythology <i>(Suomalainen Mytologia)</i>
+- 👑 System of Sukuseuras <i>(Sukuseurat)</i>
 - 🏺 Puukko Knives <i>(Puukko)</i>
-- 🛖 Finnish Saunas <i>(Saunakulttuuri)</i>
+- 🛖 Finnish Saunas <i>(Suomalaiset Saunat)</i>
+- 🏛️ National Romantic Architecture <i>(Kansallisromanttinen Arkkitehtuuri)</i>
 - 🎨 Ryijy Tapestry <i>(Ryijy)</i>
-- 🏓 Kyykkä Game <i>(Kyykkä)</i>
+- 🏓 Pesäpallo Game <i>(Pesäpallo)</i>
+- 🏓 Mölkky Game <i>(Mölkky)</i>
+- 🎑 Virvonta Ritual <i>(Virvonta)</i>
+- 🎑 Finnish Sauna Ritual <i>(Saunakulttuuri)</i>
+- 💃 Jenka Dance <i>(Jenka)</i>
+- 💃 Humppa Dance <i>(Humppa)</i>
 - 🎙️ Finnish Runic Singing <i>(Runolaulu)</i>
 - 🪕 Musical Instrument: Kantele <i>(Kantele)</i>
 - 👘 Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
 - 👲 Culture of Sámi <i>(Saamelaiset / Sámit)</i>
   - 🕯️ Sámi Shamanism <i>(Saamelainen Muinaisusko / Sámi Osku)</i>
   - 👑 System of Siida <i>(Lapinkylä / Siida)</i>
+  - 🏺 Guksi Cups <i>(Kuksat / Guvssat)</i>
   - 🛖 Lavvu Dwellings <i>(Umpilaavu / Lávvu)</i>
   - 🎨 Duodji Handicraft <i>(Saamenkäsityö / Duodji)</i>
   - 🏓 Sáhkku Game <i>(Sáhkku / Sáhkku)</i>
   - 🏓 Dablo Game <i>(Dablo / Daablodh Prejjesne)</i>
-  - 🎙️ Joik Singing <i>(Joiku / Luohti)</i>
+  - 🎙️ Joik Singing <i>(Joiku / Luohte)</i>
   - 🪕 Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
   - 👘 Garb: Beaska & Four Winds Hat <i>(Beaska ja Neljäntuulenlakki / Muoddá ja Čiehgahpir)</i>
 - ⛰️ Salpausselkä <i>(Salpausselkä)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Independence Day of Finland <i>(Itsenäisyyspäivä)</i>. Month: December
-- Laskiainen <i>(Laskiainen)</i>. Month: January to February
-- Kalevala Day <i>(Kalevalan Päivä)</i>. Month: February
-- Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Month: February<br>
+- 🗽 Independence Day of Finland <i>(Itsenäisyyspäivä)</i>. Month: December
+- 🤸 Laskiainen <i>(Laskiainen)</i>. Month: January to February
+- 🎪 Kalevala Day <i>(Kalevalan Päivä)</i>. Month: February
+- 👲 Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Month: February<br>
 <u>Uusimaa - Regional Special:</u> 
-- Helsinki Day <i>(Helsinki-Päivä)</i>. Month: June 
-
+- 🎪 Lux Helsinki <i>(Lux Helsinki)</i>. Month: December to January  
+- 🗽 Helsinki Day <i>(Helsinki-Päivä)</i>. Month: June  
 
 
 <b>💐 National flower: </b> 
-- Lily-of-the-Valley <i>(Kielo)</i>
+- <b>Lily-of-the-Valley <i>(Kielo)</i></b>
 
 
 <b>🦉 Local wisdom:</b> "Help a man climb a hill, not slide down it." / <i>"Auta miestä mäessä, älä mäen alla."</i> — Finnish proverb

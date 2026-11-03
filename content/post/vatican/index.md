@@ -54,7 +54,7 @@ gallery_item:
 </style>
 
 
-Hej! I'm sharing a glimpse of my experience visiting blessed Vatican. I was there in 2024. Below are some notes on what I tasted, saw and listened to.
+Hej! I'm sharing a glimpse into my experiences visiting blessed Vatican. I was there in 2024. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 

@@ -52,7 +52,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! Below are some notes on what I tasted, saw and listened to in Russia. 
+Hej! Below are some notes on what I tasted, saw, and listened to in Russia. 
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 

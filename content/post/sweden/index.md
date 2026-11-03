@@ -52,7 +52,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living there since 2021. Below are some notes on what I tasted, saw and listened to.
+Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living there since 2021. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
@@ -591,7 +591,9 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🏺 Gävle Goats <i>(Gävlebockar)</i>
 - 🚗 Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - 🛖 Torp Cottages <i>(Torpstugor)</i>
+- 🏛️ Nordic Classical Architecture <i>(Nordisk Klassisk Arkitektur)</i>
 - 🎨 Dala Painting <i>(Dalmålning)</i>
+- 🏓 Brännboll Game <i>(Brännboll)</i>
 - 🏓 Kubb Game <i>(Kubb)</i>
 - 🎑 Fika Ritual <i>(Fika)</i>
 - 💃 Hambo Dance <i>(Hambo)</i>
