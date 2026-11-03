@@ -97,7 +97,7 @@ Hej! Here's a glimpse into my experiences in the beautiful Åland Islands, which
 
 
 <b>🎬 Local movies:</b>
-- 😱 Devil's Bride <i>(Tulen Morsian)</i>. Year: 2016. Genre: horror / drama
+- 🕰️ Devil's Bride <i>(Tulen Morsian)</i>. Year: 2016. Genre: history / horror
 
 
 <b>🪔 Authentic features:</b>

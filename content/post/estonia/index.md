@@ -80,10 +80,10 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
     - Tartu Observatory <i>(Tartu Observatoorium)</i>
     - Ruins of Tartu Cathedral <i>(Tartu Toomkirik)</i>
     - Leaning House <i>(Tartu Kunstimuuseum)</i>
-    - Tartu Toy Museum <i>(Tartu Mänguasjamuuseum)</i>
     - St. John's Church <i>(Tartu Jaani Kirik)</i>
     - Toome Hill Park <i>(Toomemägi)</i>
     - Tartu University <i>(Tartu Ülikooli)</i>
+    - Tartu Toy Museum <i>(Tartu Mänguasjamuuseum)</i>
 3. Värska
     - General Reek's House <i>(Reegi Maja)</i>
     - Värska Spring <i>(Värska Allikas)</i>
@@ -125,8 +125,8 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 
 
 <b>🎬 Local movies:</b>
-- 🕰️ Truth and Justice <i>(Tõde ja Õigus)</i>. Year: 2019. Genre: drama / history
 - 🥹 The Class <i>(Klass)</i>. Year: 2007. Genre: drama
+- 🕰️ Truth and Justice <i>(Tõde ja Õigus)</i>. Year: 2019. Genre: drama / history
 - 🌚 Autumn Ball <i>(Sügisball)</i>. Year: 2007. Genre: black comedy
 - 👾 Life without Gabriella Ferri <i>(Elu ilma Gabriella Ferrita)</i>. Year: 2008. Genre: animation
 
@@ -142,8 +142,7 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 - 💃 Tuljak Dance <i>(Tuljaku Tants)</i>
 - 🎙️ Estonian Runic Singing <i>(Regilaul)</i>
 - 🪕 Musical Instrument: Kannel <i>(Kannel)</i>
-- 👘 Garb: Kirivöö & Kihnu Kört <i>(Eesti Kirivöö ja Kihnu Kört)</i>
-- ⛰️ Baltic Klint <i>(Balti Klint)</i><br>
+- 👘 Garb: Kirivöö & Kihnu Kört <i>(Eesti Kirivöö ja Kihnu Kört)</i><br>
 <u>Võru - Regional Special:</u> 
 - 🛖 Võro Smoke Saunas <i>(Suitsusaun / Savvusann)</i>
 - 👲 Culture of Setos <i>(Setukesed / Setokõsõq)</i>
