@@ -591,6 +591,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🏺 Gävle Goats <i>(Gävlebockar)</i>
 - 🚗 Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - 🛖 Torp Cottages <i>(Torpstugor)</i>
+- 🎨 Dala Painting <i>(Dalmålning)</i>
 - 🏓 Kubb Game <i>(Kubb)</i>
 - 🎑 Fika Ritual <i>(Fika)</i>
 - 💃 Hambo Dance <i>(Hambo)</i>

@@ -63,50 +63,59 @@ Hej! I'm sharing a glimpse of my experience visiting beautiful Åland Islands. I
 {{< spoiler text="Click to view" >}}
 1. Eckerö
     - Post Office <i>(Post- och Tullhus)</i>
-    - Käringsunds Lighthouse <i>(Käringsunds Fyr)</i>
+    - Eckerö Church <i>(Eckerö Kyrka)</i>
+    - Käringsund Fishing Village <i>(Käringsunds Fiskeläge)</i>
+    - Käringsund Lighthouse <i>(Käringsunds Fyr)</i>
     - Museum of Fisheries and Navigation <i>(Ålands Jakt- och Fiskemuseum)</i>
 2. Mariehamn
     - Maritime Museum <i>(Ålands Sjöfartsmuseum)</i>
+    - Åland Museum <i>(Ålands Museum)</i>
+    - Åland Art Museum <i>(Ålands Konstmuseum)</i>
     - Pommern Ship <i>(Pommern)</i>
     - Central Park <i>(Esplanaden)</i>
     - Sea Quarter <i>(Sjökvarteret)</i>
     - Town Hall <i>(Mariehamns Stadshus)</i>
     - Saint George Church <i>(S:t Görans Kyrka)</i>
+    - Kobba Klintar <i>(Kobba Klintar)</i>
 {{< /spoiler >}}
 
 
 <b>🎧 Local musicians: </b>
-- 🇦🇽 Johanna Grüssner (singer). Genre: folk 
+- 🇦🇽 Havsmörker (DJ duo). Genre: dub techno
+- 🇦🇽 Johanna Grüssner (singer). Genre: folk
 - 🇺🇳 Julia Clara (singer). Genre: pop
 - 🇺🇳 Henrik Klingenberg (keytarist). Genre: metal
 - 🇺🇳 Cim Dahlle (singer). Genre: rock
 
 <b>🍽️ Local food & drinks: </b>
-- 🥓 Gravad Sik <i>(Gravad Sik)</i>
+- 🥓 Åland Gravad Sik <i>(Gravad Sik)</i>
 - 🍰 Åland Pancake <i>(Ålandspannkaka)</i>
+- 🧀 Kastelholms Cheese <i>(Kastelholmsost)</i>
 - 🫓 Mustaleipä Bread <i>(Åländskt Svartbröd)</i>
-- 🍶 Åland Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
 - 🍶 Åland Beer <i>(Brand: "Stallhagen")</i>
+- 🍶 Åland Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
 
 
 <b>🎬 Local movies:</b>
-- Devil's Bride <i>(Tulen Morsian)</i>. Year: 2016. Genre: horror / drama
+- 😱 Devil's Bride <i>(Tulen Morsian)</i>. Year: 2016. Genre: horror / drama
 
 
 <b>🪔 Authentic features:</b>
 - 👑 Title of Lantråd <i>(Lantråd)</i>
 - 🏺 Votive Ships <i>(Votivskepp)</i>
-- 🛖 Åland Boathouses <i>(Båthus)</i>
+- 🛖 Åland Boathouses <i>(Åländsk Båthus)</i>
 - 🛠️ Åland Ship Building <i>(Åländsk Skeppsbyggnad)</i>
+- 💃 Ålandsschottis Dance <i>(Ålandsschottis)</i>
 - ⛰️ Åland Red Granite Roads <i>(Vägar av Röd Åländsk Granit)</i>
 
 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Autonomy Day of Åland <i>(Ålands Självstyrelsedag)</i>. Month: June
-- Lilla Jul Celebration <i>(Lillajul)</i>. Month: November or December
-- Åland Harvest Festival <i>(Skördefesten)</i>. Month: September
+- 🗽 Autonomy Day of Åland <i>(Ålands Självstyrelsedag)</i>. Month: June
+- 🤸 Postrodden <i>(Postrodden)</i>. Month: June
+- 🎪 Lilla Jul Celebration <i>(Lillajul)</i>. Month: November or December
+- 🎪 Åland Harvest Festival <i>(Skördefesten)</i>. Month: September
 
 
 
