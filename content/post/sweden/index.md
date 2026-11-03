@@ -530,7 +530,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🫓 Crispbread <i>(Knäckebröd)</i>
 - 🍶 Blueberry Wine <i>(Brand: "Rålund")</i>
 - 🍶 Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
-- 🍶 Swedish Brännvin <i>(Brands: "O.P. Anderson", "Hallands Fläder", "Östgöta Sädesbrännvin")</i>
+- 🍶 Swedish Brännvin <i>(Brands: "O.P. Anderson", "Hallands Fläder")</i>
 </br>
 <u>Västernorrland - Regional Special:</u>
 - 🥓 Surströmming <i>(Surströmming)</i> 
