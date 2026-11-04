@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Twemoji Country Flags";
+    src: url("/fonts/TwemojiCountryFlags.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    unicode-range: U+1F1E6-1F1FF;
+}
+
+/* Use the flag font as the first choice */
+body {
+    font-family:
+        "Twemoji Country Flags",
+        inherit;
+}
