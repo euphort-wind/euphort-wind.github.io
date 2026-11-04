@@ -137,7 +137,7 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 - 🛠️ Latgalian Pottery <i>(Latgales Podniecība)</i>
 - 🏓 Novuss Game <i>(Novuss)</i>
 - 💃 Gatves Deja <i>(Gatves Deja)</i> 
-- 🎙️ Daina Music <i>(Dainas)</i> 
+- 🎙️ Daina Folk Songs <i>(Dainas)</i> 
 - 🪕 Musical Instrument: Kokle <i>(Kokle)</i> 
 - 👘 Garb: Latvian Belt & Namejs Ring <i>(Lielvārdes Josta un Nameja Gredzens)</i>
 - 🧝 Legacy of Curonians <i>(Kurši)</i>

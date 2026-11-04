@@ -87,13 +87,13 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
     - House of Perkūnas <i>(Perkūno Namas)</i>
     - Pažaislis Monastery <i>(Pažaislio Vienuolynas)</i>
     - Garrison Church <i>(Šv. Arkangelo Mykolo Bažnyčia)</i>
-    - Žaliakalnis Funikulierius <i>(Žaliakalnio Funikulierius)</i>
+    - Žaliakalnis Funicular <i>(Žaliakalnio Funikulierius)</i>
     - Christ's Resurrection Basilica <i>(Kristaus Prisikėlimo Bazilika)</i>
     - Vytautas the Great War Museum <i>(Vytauto Didžiojo Karo Muziejus)</i>
 3. Trakai
     - Trakai Island Castle <i>(Trakų Salos Pilis)</i>
     - Karaites' Street <i>(Karaimų Gatvė)</i>
-    - Galve Lake <i>(Galvės Ežeras)</i>
+    - Galvė Lake <i>(Galvės Ežeras)</i>
     - Trakai Kenesa <i>(Trakų Kenesa)</i>
     - Trakai Basilica <i>(Trakų Bazilika)</i>
     - Užutrakis Manor Estate <i>(Užutrakio Dvaro Sodyba)</i>
@@ -120,7 +120,6 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - 🥓 Skilandis Sausage <i>(Kindziukas)</i>
 - 🥗 Samogitian Kastinys <i>(Žemaitiškas Kastinys)</i>
 - 🍲 Lithuanian Cold Borscht <i>(Šaltibarščiai)</i>
-- 🥘 Kugelis <i>(Bulvių Plokštainis)</i>
 - 🥘 Kepta Duona <i>(Kepta Duona)</i>
 - 🥘 Samogitian Pancake <i>(Žemaičių Blynai)</i>
 - 🥘 Lithuanian Potato Sausage <i>(Vėdarai)</i>
@@ -166,8 +165,8 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- 🎪 Kaziuko Mugė Festival <i>(Kaziuko Mugė)</i>. Month: March
-- 🎪 Saint Jonas's Festival <i>(Rãsos)</i>. Month: June
+- 🎪 Kaziukas Fair <i>(Kaziuko Mugė)</i>. Month: March
+- 🎪 Joninės <i>(Rãsos)</i>. Month: June
 - 🎪 Užgavėnės Festival <i>(Užgavėnės)</i>. Month: February or March
 - 🗽Statehood Day of Lithuania <i>(Valstybės Diena)</i>. Month: July
 - 🎸Lithuanian Song and Dance Festival <i>(Lietuvių Dainų ir Šokių Šventė)</i>. Month: June or July<br>
