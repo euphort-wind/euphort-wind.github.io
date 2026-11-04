@@ -1,7 +1,8 @@
-<script type="module" defer>
-  import {
-    polyfillCountryFlagEmojis
-  } from "https://cdn.skypack.dev/country-flag-emoji-polyfill";
+<script type="module">
+  import { polyfillCountryFlagEmojis } from "https://cdn.skypack.dev/country-flag-emoji-polyfill";
 
   polyfillCountryFlagEmojis();
+
+  document.body.style.fontFamily =
+    '"Twemoji Country Flags", roboto, sans-serif';
 </script>
