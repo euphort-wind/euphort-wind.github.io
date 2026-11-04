@@ -151,7 +151,7 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
   - 💃 Seto Kargus Dance <i>(Setu Kargus / Seto Kargus)</i>
   - 🎙️ Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
   - 🎙️ Seto Lullaby Singing <i>(Seto Hällilaulud / Seto Hällülaulud)</i>
-  - 👘 Garb: Suur Sõlg <i>(Suur Sõlg / Suur Sõlg)</i>
+  - 👘 Garb: Suur Sõlg and Kaalakõrd <i>(Suur Sõlg ja Kaalakõrd / Suur Sõlg jaq Kaalakõrd)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - 🗽 Independence Day of Estonia <i>(Eesti Iseseisvuspäev)</i>. Month: February
