@@ -142,7 +142,9 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 - 💃 Tuljak Dance <i>(Tuljaku Tants)</i>
 - 🎙️ Estonian Runic Singing <i>(Regilaul)</i>
 - 🪕 Musical Instrument: Kannel <i>(Kannel)</i>
-- 👘 Garb: Kirivöö & Kihnu Kört <i>(Eesti Kirivöö ja Kihnu Kört)</i><br>
+- 👘 Garb: Kirivöö & Kihnu Kört <i>(Eesti Kirivöö ja Kihnu Kört)</i>
+- 🧝 Legacy of Aests <i>(Aestid)</i>
+- <br>
 <u>Võru - Regional Special:</u> 
 - 🛖 Võro Smoke Saunas <i>(Suitsusaun / Savvusann)</i>
 - 👲 Culture of Setos <i>(Setukesed / Setokõsõq)</i>
@@ -155,11 +157,11 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - 🗽 Independence Day of Estonia <i>(Eesti Iseseisvuspäev)</i>. Month: February
-- 🎪 Estonian National Song Festival <i>(Eesti Üldlaulupidu)</i>. Month: July
-- ☀️ Jaanipäev <i>(Leedopäev)</i>. Month: June
-- ☀️ Kadripäev <i>(Kadripäev)</i>. Month: November<br>
+- 🎸 Estonian National Song Festival <i>(Eesti Üldlaulupidu)</i>. Month: July
+- 🎪 Jaanipäev <i>(Leedopäev)</i>. Month: June
+- 🎪 Kadripäev <i>(Kadripäev)</i>. Month: November<br>
 <u>Harju - Regional Special:</u> 
-- 🎪 Tallinn Old Town Days <i>(Tallinna Vanalinna Päevad)</i>. Month: May to June
+- 🎸 Tallinn Old Town Days <i>(Tallinna Vanalinna Päevad)</i>. Month: May to June
 - 🎪 Tallinn Medieval Days <i>(Tallinna Keskaja Päevad)</i>. Month: July
 <br>
 <u>Tartu - Regional Special:</u> 

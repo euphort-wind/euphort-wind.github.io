@@ -9,7 +9,7 @@ gallery_item:
     caption: Vilnius
   - album: lithuania
     image: 3xc.jpg
-    caption:  St. Anne's Church (Vilnius)
+    caption: St. Anne's Church (Vilnius)
   - album: lithuania
     image: 3xs.jpg
     caption: Kaunas 
@@ -62,32 +62,42 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 
 {{< spoiler text="Click to view" >}}
 1. Vilnius
-    - Gate of Dawn and Gate Street <i>(Aušros Vartai ir Aušros Vartų gatvė)</i>
-    - Vilnius Town Hall Square <i>(Vilniaus Rotušės Aikštė)</i>
-    - Church of St. Johns and Vilnius University <i>(Šv. Jonų Bažnyčia ir Vilniaus Universitetas)</i>
-    - St. Parasceve Orthodox Church <i>(Šv. Kankinės Paraskevės Cerkvė)</i>
     - Presidential Palace <i>(Prezidentūra)</i>
     - St. Anne's Church <i>(Šv. Onos Bažnyčia)</i>
     - Bernardine Garden <i>(Bernardinų Sodas)</i>
-    - Vilnius Castle Complex <i>(Vilniaus Pilių Kompleksas)</i>
-    - Vilnius Cathedral <i>(Vilniaus Šv. Stanislovo ir Šv. Vladislovo Arkikatedra Bazilika)</i>
     - Vilnius Street <i>(Vilniaus Gatvė)</i>
+    - Republic of Užupis<i>(Užupio Respublika)</i>
+    - Aušros Vartų Street <i>(Aušros Vartų Gatvė)</i>
+    - Vilnius University <i>(Vilniaus Universitetas)</i>
+    - Vilnius Cathedral <i>(Vilniaus Arkikatedra Bazilika)</i>
+    - Vilnius Town Hall Square <i>(Vilniaus Rotušės Aikštė)</i>
+    - Vilnius Castle Complex <i>(Vilniaus Pilių Kompleksas)</i>
+    - St. Parasceve Orthodox Church <i>(Šv. Kankinės Paraskevės Cerkvė)</i>
+    - Palace of the Grand Dukes of Lithuania <i>(Valdovų Rūmai)</i>
+    - Gediminas Castle Tower <i>(Gedimino Pilies Bokštas)</i>
+    - Church of Ss. Peter and Paul <i>(Šv. Apaštalų Petro ir Povilo Bažnyčia)</i>
+    - Museum of Freedom Fights <i>(Laisvės Kovų Muziejus)</i>
+    - Three Crosses Monument <i>(Trijų Kryžių Paminklas)</i>
 2. Kaunas
-    - Garrison Church <i>(Šv. Arkangelo Mykolo Bažnyčia)</i>
-    - Žaliakalnis Funikulierius <i>(Žaliakalnio Funikulierius)</i>
-    - Christ's Resurrection Basilica <i>(Kristaus Prisikėlimo Bazilika)</i>
-    - Vytautas the Great War Museum <i>(Vytauto Didžiojo Karo Muziejus)</i>
     - Liberty Boulevard <i>(Laisvės Alėja)</i>
     - Ramybė Park <i>(Ramybės Parkas)</i>
     - Yard Gallery <i>(Kiemo Galerija)</i> 
     - Kaunas Town Hall <i>(Kauno Rotušė)</i>
     - Kaunas Castle <i>(Kauno Pilis)</i>
     - House of Perkūnas <i>(Perkūno Namas)</i>
+    - Pažaislis Monastery <i>(Pažaislio Vienuolynas)</i>
+    - Garrison Church <i>(Šv. Arkangelo Mykolo Bažnyčia)</i>
+    - Žaliakalnis Funikulierius <i>(Žaliakalnio Funikulierius)</i>
+    - Christ's Resurrection Basilica <i>(Kristaus Prisikėlimo Bazilika)</i>
+    - Vytautas the Great War Museum <i>(Vytauto Didžiojo Karo Muziejus)</i>
 3. Trakai
     - Trakai Island Castle <i>(Trakų Salos Pilis)</i>
-    - Trakai Peninsula Castle <i>(Trakų Pusiasalio Pilis)</i>
     - Karaites' Street <i>(Karaimų Gatvė)</i>
     - Galve Lake <i>(Galvės Ežeras)</i>
+    - Trakai Kenesa <i>(Trakų Kenesa)</i>
+    - Trakai Basilica <i>(Trakų Bazilika)</i>
+    - Užutrakis Manor Estate <i>(Užutrakio Dvaro Sodyba)</i>
+    - Trakai Peninsula Castle <i>(Trakų Pusiasalio Pilis)</i>
 {{< /spoiler >}}  
 
 <b>🎧 Local musicians: </b>
@@ -107,15 +117,18 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - Slap House. Originated: late 2010s
 
 <b>🍽️ Local food & drinks: </b>
+- 🥓 Skilandis Sausage <i>(Kindziukas)</i>
 - 🥗 Samogitian Kastinys <i>(Žemaitiškas Kastinys)</i>
 - 🍲 Lithuanian Cold Borscht <i>(Šaltibarščiai)</i>
-- 🥘 Samogitian Pancakes <i>(Žemaičių Blynai)</i>
-- 🥘 Lithuanian Potato Sausages <i>(Vėdarai)</i>
+- 🥘 Kugelis <i>(Bulvių Plokštainis)</i>
+- 🥘 Kepta Duona <i>(Kepta Duona)</i>
+- 🥘 Samogitian Pancake <i>(Žemaičių Blynai)</i>
+- 🥘 Lithuanian Potato Sausage <i>(Vėdarai)</i>
 - 🥘 Kugelis <i>(Kugelis)</i>
 - 🥘 Cepelinai <i>(Cepelinai)</i>
 - 🍰 Šakotis <i>(Šakotis)</i>
+- 🍰 Apple Cheese <i>(Obuolių Sūris)</i>
 - 🍰 Tinginys <i>(Tinginys)</i>
-- 🫓 Kepta Duona <i>(Kepta Duona)</i>
 - 🍶 Lithuanian Beer <i>(Brand: "Kalnapilis")</i>
 </br> 
 <u>Vilnius - Regional Special:</u> 
@@ -123,23 +136,26 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 
 
 <b>🎬 Local movies:</b>
-- Nova Lituania <i>(Nova Lituania)</i>. Year: 2019. Genre: drama
-- The Generation of Evil <i>(Piktųjų Karta)</i>. Year: 2021. Genre: thriller
-- Zero 2 <i>(Zero 2)</i>. Year: 2010. Genre: thriller / black comedy
+- 🕰️ Nova Lituania <i>(Nova Lituania)</i>. Year: 2019. Genre: history / drama
+- 🕵️ The Generation of Evil <i>(Piktųjų Karta)</i>. Year: 2021. Genre: crime / thriller
+- 🌚 Zero 2 <i>(Zero 2)</i>. Year: 2010. Genre: thriller / black comedy
 
 
 <b>🪔 Authentic features:</b>
 - 🕯️ Romuva Religion <i>(Romuva)</i>
 - 🐦‍🔥 Lithuanian Mythology <i>(Lietuvių Mitologija)</i>
 - 👑 Title of Kriwe <i>(Krivis)</i>
-- 🏛️ Lithuanian Gothic Architecture <i>(Lietuviškoji Gotika)</i>
+- 🏺 Roofed Poles <i>(Stogastulpiai)</i>
 - 🛠️ Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - 🛠️ Lithuanian Black Pottery <i>(Lietuviška Juodoji Keramika)</i>
 - 🎨 Sodai Straw Gardens <i>(Šiaudinių Sodų Tradicija)</i>
 - 🏓 Ritinis Game <i>(Ritinis)</i>
+- 🏃🏻 Ristynės Tradition <i>(Ristynės)</i>
+- 💃 Kepurinė Dance <i>(Kepurinė)</i>
 - 🎙️ Sutartines Songs <i>(Sutartinės)</i>
 - 🪕 Musical Instrument: Birbynė <i>(Birbynė)</i> 
-- 🧝 Legacy of Ancient Lithuanians <i>(Senlietuviai)</i> 
+- 🧝 Legacy of Ancient Lithuanians <i>(Senlietuviai / Литъва)</i>
+- 🧝 Legacy of Ancient Samogitians <i>(Žemaičiai / Жемойти)</i>
 - 🏰 Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžioji Kunigaikštystė)</i><br>
 <u>Vilnius - Regional Special:</u>
 - 👲 Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
@@ -150,15 +166,20 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Statehood Day of Lithuania <i>(Valstybės Diena)</i>. Month: July
-- Užgavėnės Festival <i>(Užgavėnės)</i>. Month: February or March
-- Kaziuko Mugė Festival <i>(Kaziuko Mugė)</i>. Month: March
-- Lithuanian Song and Dance Festival <i>(Lietuvių Dainų ir Šokių Šventė)</i>. Month: June or July
-- Saint Jonas's Festival <i>(Rãsos)</i>. Month: June 
+- 🎪 Kaziuko Mugė Festival <i>(Kaziuko Mugė)</i>. Month: March
+- 🎪 Saint Jonas's Festival <i>(Rãsos)</i>. Month: June
+- 🎪 Užgavėnės Festival <i>(Užgavėnės)</i>. Month: February or March
+- 🗽Statehood Day of Lithuania <i>(Valstybės Diena)</i>. Month: July
+- 🎸Lithuanian Song and Dance Festival <i>(Lietuvių Dainų ir Šokių Šventė)</i>. Month: June or July<br>
+<u>Vilnius - Regional Special:</u>
+- 🫕 Vilnius Pink Soup Fest <i>(Vilniaus Šaltibarščių Festivalis)</i>. Month: May
+- 🎪 Vilnius Culture Night <i>(Kultūros Naktis)</i>. Month: June or July<br>
+<u>Kaunas - Regional Special:</u>
+- 🎸 Kaunas Jazz <i>(Kaunas Jazz)</i>. Month: April<br>
 
 
 <b>💐 National flower: </b>
-- Common Rue <i>(Žalioji Rūta)</i>
+- <b>Common Rue <i>(Žalioji Rūta)</i></b>
 
 
 <b>🦉 Local wisdom:</b> "The flax isn’t even sown, and they’re already weaving linen." / <i>"Linai nesėti, o jau drobes audžia."</i> — Lithuanian Proverb

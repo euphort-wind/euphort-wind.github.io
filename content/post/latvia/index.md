@@ -62,30 +62,37 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 
 {{< spoiler text="Click to view" >}}
 1. Riga
-    - Old Riga <i>(Vecrīga)</i>
-    - House of the Blackheads <i>(Melngalvju Nams)</i>
-    - House of the Livonian Noble Corporation <i>(Saeimas Nams)</i>
+    - Riga Old Town <i>(Vecrīga)</i>
+    - Riga Castle <i>(Rīgas Pils)</i>
     - Powder Tower <i>(Pulvertornis)</i>
-    - Latvian Museum of National History <i>(Latvijas Nacionālais Vēstures Muzejs)</i>
     - Riga Cathedral <i>(Rīgas Doms)</i>
+    - Three Brothers <i>(Trīs Brāļi)</i> 
+    - House of the Blackheads <i>(Melngalvju Nams)</i>
     - St. Peter's Church <i>(Svētā Pētera Baznīca)</i>
     - Riga Central Market <i>(Rīgas Centrāltirgus)</i>
-    - Three Brothers <i>(Trīs Brāļi)</i> 
     - Freedom Monument <i>(Brīvības Piemineklis)</i>
-    - Riga Castle <i>(Rīgas Pils)</i>
+    - Riga Art Nouveau Museum <i>(Rīgas Jūgendstila Centrs)</i>
+    - House of the Livonian Noble Corporation <i>(Saeimas Nams)</i>
+    - Latvian Museum of National History <i>(Latvijas Nacionālais Vēstures Muzejs)</i>
+    - Latvian National Museum of Art <i>(Latvijas Nacionālais Mākslas Muzejs)</i>
 2. Jūrmala
-    - Dzintari Forest Park <i>(Dzintaru Mežaparks)</i>
-    - Jūrmala Open-air Museum <i>(Jūrmalas Brīvdabas Muzejs)</i>
-    - Jomas Street <i>(Jomas Iela)</i>
-    - Dubulti Lutheran Church <i>(Dubultu Luterāņu Baznīca)</i>
     - Aspazija's House <i>(Aspazijas Māja)</i>
+    - Jomas Street <i>(Jomas Iela)</i>
+    - Jūrmala Beach <i>(Jūrmalas Pludmale)</i>
+    - Jūrmala City Museum <i>(Jūrmalas Muzejs)</i>
+    - Dzintari Forest Park <i>(Dzintaru Mežaparks)</i>
+    - Dzintari Concert Hall <i>(Dzintaru Koncertzāle)</i>
+    - Jūrmala Open-air Museum <i>(Jūrmalas Brīvdabas Muzejs)</i>
+    - Dubulti Lutheran Church <i>(Dubultu Luterāņu Baznīca)</i>
 3. Tukums
-    - Tukuma Evangelical Lutheran Church <i>(Tukuma Evaņģēliski Luteriskā Baznīca)</i>
     - Freedom Square <i>(Brīvības Laukums)</i>
     - Tukku Magi <i>(Tukku Magi)</i>
     - Tukums Museum <i>(Tukuma Muzejs)</i>
-    - Castle Tower of Tukums <i>(Tukuma Pils Tornis)</i>
+    - Durbe Manor <i>(Durbes Pils)</i>
+    - Straw Museum <i>(Salmu Muzejs)</i>
     - Harmony Street <i>(Harmonijas Iela)</i>
+    - Castle Tower of Tukums <i>(Tukuma Pils Tornis)</i>
+    - Tukuma Evangelical Lutheran Church <i>(Tukuma Evaņģēliski Luteriskā Baznīca)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
@@ -105,6 +112,7 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 - 🥘 Latvian Gray Peas with Bacon <i>(Pelēkie Zirņi)</i>
 - 🥘 Latvian Porridge <i>(Putra)</i>
 - 🍰 Layered Rye Bread <i>(Rupjmaizes Kārtojums)</i>
+- 🍰 Maizes Zupa <i>(Maizes Zupa)</i>
 - 🧀 Jāņi Cheese <i>(Jāņu Siers)</i>
 - 🫓 Latvian Black Bread <i>(Rupjmaize)</i>
 - 🍶 Latvian Balsam <i>(Brand: "Rīgas Melnais Balzams")</i>
@@ -114,9 +122,10 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 
 
 <b>🎬 Local movies:</b>
-- Flow <i>(Straume)</i>. Year: 2024. Genre: animation
-- The Shot <i>(Nošāva)</i>. Year: 2019. Genre: short / comedy
-- The Cat's Mill <i>(Kaķīša Dzirnavas)</i>. Year: 1993. Genre: animation
+- 👾 Flow <i>(Straume)</i>. Year: 2024. Genre: animation
+- 👾 The Cat's Mill <i>(Kaķīša Dzirnavas)</i>. Year: 1993. Genre: animation
+- 😀 The Shot <i>(Nošāva)</i>. Year: 2019. Genre: short / comedy
+
 
 
 <b>🪔 Authentic features:</b>
@@ -124,28 +133,35 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 - 🐦‍🔥 Legend of Lāčplēsis <i>(Lāčplēsis: Eposs)</i>
 - 🐦‍🔥 Latvian Mythology <i>(Latviešu Mitoloģija)</i> 
 - 👑 Title of Dižvadonis <i>(Dižvadonis)</i> 
+- 🛖 Pirtis <i>(Pirtis)</i>
+- 🛠️ Latgalian Pottery <i>(Latgales Podniecība)</i>
 - 🏓 Novuss Game <i>(Novuss)</i>
+- 💃 Gatves Deja <i>(Gatves Deja)</i> 
 - 🎙️ Daina Music <i>(Dainas)</i> 
 - 🪕 Musical Instrument: Kokle <i>(Kokle)</i> 
-- 👘 Garb: Latvian Belt <i>(Lielvārdes Josta)</i> 
-- 🧝 Legacy of Ancient Latgalians <i>(Latgaļi)</i> 
+- 👘 Garb: Latvian Belt & Namejs Ring <i>(Lielvārdes Josta un Nameja Gredzens)</i>
+- 🧝 Legacy of Curonians <i>(Kurši)</i>
+- 🧝 Legacy of Semigallians <i>(Zemgaļi)</i> 
+- 🧝 Legacy of Selonians <i>(Sēļi)</i>
+- 🧝 Legacy of Ancient Latgalians <i>(Latgaļi)</i>
 - 🏰 Heritage of the Livonian Confederation <i>(Livonijas Konfederācija / Terra Mariana)</i><br>
 <u>Kurzeme - Regional Special:</u> 
 - 👲 Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Independence Day of Latvia <i>(Latvijas Republikas Proklamēšanas Diena)</i>. Month: November
-- Latvian Song and Dance Festival <i>(Vispārējie Latviešu Dziesmu un Deju Svētki)</i>. Month: June to July
-- Līgo <i>(Līgo)</i>. Month: June
-- Jāņi <i>(Jāņi)</i>. Month: June
-- Miķeļi <i>(Miķeļdiena)</i>. Month: September
-- Mārtiņi <i>(Mārtiņdiena)</i>. Month: November
-- Meteņi <i>(Meteņdiena)</i>. Month: February or March
+- 🎪 Jāņi <i>(Jāņi)</i>. Month: June
+- 🎪 Miķeļi <i>(Miķeļdiena)</i>. Month: September
+- 🎪 Mārtiņi <i>(Mārtiņdiena)</i>. Month: November
+- 🎪 Meteņi <i>(Meteņdiena)</i>. Month: February or March
+- 🗽 Independence Day of Latvia <i>(Latvijas Republikas Proklamēšanas Diena)</i>. Month: November
+- 🎸 Latvian Song and Dance Festival <i>(Vispārējie Latviešu Dziesmu un Deju Svētki)</i>. Month: June to July<br>
+<u>Kurzeme - Regional Special:</u> 
+- 👲 Livonian Heritage Day <i>(Lībiešu Mantojuma Diena / Līvõd Pierāndõks Pǟva)</i>. Month: March 
 
 
 <b>💐 National flower: </b> 
-- Ox-eye Daisy <i>(Parastā Pīpene)</i>
+- <b>Ox-eye Daisy <i>(Parastā Pīpene)</i></b> 
 
 
 <b>🦉 Local wisdom:</b> "A tree does not fall after the first cut." / <i>"Koks nekrīt uz pirmā cirtiena."</i> — Latvian proverb

@@ -101,6 +101,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     - Nolhaga Park <i>(Nolhaga Park)</i>
     - Alingsås Museum <i>(Alingsås Museum)</i>
     - Nolhaga Palace <i>(Nolhaga Slott)</i>
+    - Mjörn Lake <i>(Mjörn)</i>
     - Alingsås City Hall <i>(Alingsås Rådhus)</i>
     - Christinae Church <i>(Christinae Kyrka)</i>
     - Plantaget Park <i>(Plantaget)</i>
@@ -630,30 +631,30 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
     
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- ☀️ Midsummer <i>(Midsommar)</i>. Month: June
-- 🎪 Crayfish Party <i>(Kräftskiva)</i>. Month: August
+- 🎪 Midsummer <i>(Midsommar)</i>. Month: June
+- 🫕 Crayfish Party <i>(Kräftskiva)</i>. Month: August
 - 🗽 National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June<br>
 <u>Gotland - Regional Special:</u>
 - 🤸 Stånga Games <i>(Stångaspelen)</i>. Month: July
 - 🎪 Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August
 - 🗽 Almedalen Week <i>(Almedalsveckan)</i>. Month: June<br>
 <u>Västra Götaland - Regional Special:</u> 
-- 🎪 Gothenburg Culture Festival <i>(Göteborgs Kulturkalas)</i>. Month: August.
-- 🎪 Alingsås Potatisfestivalen <i>(Potatisfestivalen)</i>. Month: June
+- 🎸 Gothenburg Culture Festival <i>(Göteborgs Kulturkalas)</i>. Month: August.
+- 🫕 Alingsås Potatisfestivalen <i>(Potatisfestivalen)</i>. Month: June
 - 🎪 Lights in Alingsås <i>(Lights in Alingsås)</i>. Month: October to November<br>
 <u>Stockholm - Regional Special:</u>
-- 🎪 Stockholm Culture Festival <i>(Stockholms Kulturfestival)</i>. Month: August<br> 
+- 🎸 Stockholm Culture Festival <i>(Stockholms Kulturfestival)</i>. Month: August<br> 
 <u>Västernorrland - Regional Special:</u>
-- 🎪 Surströmming Day <i>(Surströmmingspremiär)</i>. Month: August<br> 
+- 🫕 Surströmming Day <i>(Surströmmingspremiär)</i>. Month: August<br> 
 <u>Jämtland - Regional Special:</u> 
-- 🎪 Storsjöyran <i>(Storsjöyran)</i>. Month: July to August<br>
+- 🎸 Storsjöyran <i>(Storsjöyran)</i>. Month: July to August<br>
 <u>Uppsala - Regional Special:</u> 
-- 🎪 Uppsala Culture Night <i>(Uppsala Kulturnatten)</i>. Month: September
+- 🎸 Uppsala Culture Night <i>(Uppsala Kulturnatten)</i>. Month: September
 - 🤸 Uppsala River Rafting Event <i>(Forsränningen i Uppsala)</i>. Month: April<br>
 <u>Örebro - Regional Special:</u> 
 - 🎪 Hindersmässan <i>(Hindersmässan)</i>. Month: January<br>
 <u>Västmanland - Regional Special:</u> 
-- 🎪 Västerås Cityfestival <i>(Västerås Cityfestival)</i>. Month: June to July<br>
+- 🎸 Västerås Cityfestival <i>(Västerås Cityfestival)</i>. Month: June to July<br>
 
 
 
