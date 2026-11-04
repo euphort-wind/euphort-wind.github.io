@@ -143,8 +143,7 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 - 🎙️ Estonian Runic Singing <i>(Regilaul)</i>
 - 🪕 Musical Instrument: Kannel <i>(Kannel)</i>
 - 👘 Garb: Kirivöö & Kihnu Kört <i>(Eesti Kirivöö ja Kihnu Kört)</i>
-- 🧝 Legacy of Aests <i>(Aestid)</i>
-- <br>
+- 🧝 Legacy of Aests <i>(Aestid)</i><br>
 <u>Võru - Regional Special:</u> 
 - 🛖 Võro Smoke Saunas <i>(Suitsusaun / Savvusann)</i>
 - 👲 Culture of Setos <i>(Setukesed / Setokõsõq)</i>
@@ -152,7 +151,7 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
   - 👑 Title of Ülemsootska <i>(Ülemsootska / Ülembsootśka)</i>
   - 💃 Seto Kargus Dance <i>(Setu Kargus / Seto Kargus)</i>
   - 🎙️ Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
-  - 🎙️ Seto Lullaby Singing <i>(Seto Hällilaulud / Seto Hällülaulud)</i>
+  - 🎙️ Seto Lullaby Singing <i>(Setu Hällilaulud / Seto Hällülaulud)</i>
   - 👘 Garb: Suur Sõlg and Kaalakõrd <i>(Suur Sõlg ja Kaalakõrd / Suur Sõlg jaq Kaalakõrd)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>

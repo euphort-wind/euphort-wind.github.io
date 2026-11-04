@@ -589,7 +589,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🦉 Concept: Lagom <i>(Lagom)</i>
 - 🐦‍🔥 Nordic Folklore <i>(Nordisk Folktro)</i>
 - 🏺 Dala Horses <i>(Dalahästar)</i>
-- 🏺 Gävle Goats <i>(Gävlebockar)</i>
+- 🏺 Yule Goats <i>(Julbockar)</i>
 - 🚗 Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
 - 🛖 Torp Cottages <i>(Torpstugor)</i>
 - 🏛️ Nordic Classical Architecture <i>(Nordisk Klassisk Arkitektur)</i>
