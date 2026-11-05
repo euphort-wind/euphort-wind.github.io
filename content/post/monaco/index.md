@@ -64,36 +64,40 @@ Hej! Here's a glimpse into my experiences in luxurious Monaco, which I visited i
 1. Monaco City
     - Monte Carlo Casino <i>(Casino de Monte-Carlo)</i>
     - Prince's Palace of Monaco <i>(Palais Princier de Monaco)</i>
-    - Old Town Monaco <i>(Monaco-Ville)</i>
+    - Monaco Old Town <i>(Monaco-Ville)</i>
     - Cathedral of Monaco <i>(Cathédrale de Monaco)</i>
-    - Port Hercules <i>(Port Hercule)</i>
+    - Port Hercule <i>(Port Hercule)</i>
     - Oceanographic Museum <i>(Musée Océanographique)</i>
     - Opéra de Monte-Carlo <i>(Opéra de Monte-Carlo)</i>
     - Marché de la Condamine <i>(Marché de la Condamine)</i>
     - Fairmont Hairpin <i>(Fairmont Hairpin)</i>
     - Japanese Garden <i>(Jardin Japonais de Monaco)</i>
     - Chapel of Sainte-Dévote <i>(Chapelle Sainte Dévote)</i>
+    - Saint-Martin Gardens <i>(Jardins Saint-Martin)</i>
+    - Fort Antoine Theatre <i>(Théâtre du Fort Antoine)</i>
+    - Princess Grace Rose Garden <i>(Roseraie Princesse Grace)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇲🇨 Stephanie de Monaco (singer). Genre: synth-pop
+- 🇲🇨 Stephanie de Monaco (singer). Genre: pop
 - 🇲🇨 Olivia Dorato (singer). Genre: pop
 - 🇲🇨 U Cantin d'a Roca (choir). Genre: religious
 - 🇺🇳 Mona Lou (singer). Genre: indie pop
 - 🇺🇳 Olla (singer). Genre: pop
 
+
 <b>🍽️ Local food & drinks: </b>
 - 🥗 Tomates à la Monegasque <i>(Tomates à la Monegasque)</i>
 - 🥙 Barbajuan <i>(Barbajuan)</i>
 - 🥘 Stocafi <i>(Stocafi)</i>
-- 🍰 Monaco Fraise Millefeuille <i>(Millefeuille Prince Albert)</i>
+- 🍰 Prince Albert Millefeuille <i>(Millefeuille Prince Albert)</i>
 - 🍶 Monaco Liqueur <i>(Brand: "Distillerie de Monaco Carruba")</i>
 
 
 
 <b>🎬 Local movies:</b>
-- The Girl from Monaco <i>(La Fille de Monaco)</i>. Year: 2008. Genre: drama
-- The Tuche Family <i>(Les Tuche)</i>. Year: 2011. Genre: comedy
+- 🥹 The Girl from Monaco <i>(La Fille de Monaco)</i>. Year: 2008. Genre: drama
+- 😀 The Tuche Family <i>(Les Tuche)</i>. Year: 2011. Genre: comedy
 
 
 <b>🪔 Authentic features:</b>
@@ -103,18 +107,19 @@ Hej! Here's a glimpse into my experiences in luxurious Monaco, which I visited i
 - 🏃🏻 Rally Racing Tradition <i>(Rallye)</i>
 - 🏓 Casino Gambling Tradition <i>(Jeux de Casino)</i>
 - 🎑 Ciaraviyù Ritual <i>(Ciaraviyù)</i>
+- 💃 La Palladienne's Folk Dance <i>(Danse de la Palladienne)</i>
 - 🏰 Heritage of the Lordship of Monaco <i>(Seigneurie de Monaco)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- National Day <i>(Fête du Prince)</i>. Month: November
-- Sainte Dévote Day <i>(Jour de la Sainte-Dévote)</i>. Month: January
-- U Cavagnetu <i>(U Cavagnëtu)</i>. Month: September
-- U Sciaratu <i>(U Sciaratu)</i>. Month: July
+- 🗽 National Day <i>(Fête du Prince)</i>. Month: November
+- 🎪 Sainte Dévote Day <i>(Jour de la Sainte-Dévote)</i>. Month: January
+- 🎪 U Cavagnetu <i>(U Cavagnëtu)</i>. Month: September
+- 🎪 U Sciaratu <i>(U Sciaratu)</i>. Month: July
+- 🤸 Monaco Grand Prix <i>(Grand Prix de Monaco)</i>. Month: May or June
 
-
-<b>💐 National flower: </b> 
-- Red Carnation <i>(Œillet Commun)</i>
+<b>💐 National flower:</b> 
+- <b>Red Carnation <i>(Œillet Commun)</i></b> 
 
 
 <b>🦉 Local wisdom:</b> "A man of good sense speaks only through proverbs." / <i>"Ün omu de bon sensu nun parla ch’ün pruverbi."</i> — Monegasque proverb

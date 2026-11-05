@@ -169,7 +169,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🥘 Shrimp Croquettes <i>(Garnaalkroketten)</i>
 - 🥘 Flemish Stew <i>(Stoofvlees)</i>
 - 🥘 Stoemp <i>(Stoemp)</i>
-- 🥘 Asperges à la Flamande <i>(Asperges op Vlaamse Wijze)</i>
+- 🥘 Asperges à la Flamande <i>(Vlaamse Asperges)</i>
 - 🥘 Eel in the Green <i>(Paling in 't Groen)</i>
 - 🍰 Mattentaart <i>(Mattentaart)</i>
 - 🍰 Cuberdon <i>(Cuberdon)</i>
@@ -178,10 +178,11 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🪄 Mr. Nobody <i>(Mr. Nobody)</i>. Year: 2009. Genre: fantasy
 - 🕵️ In Bruges <i>(In Bruges)</i>. Year: 2008. Genre: thriller
 - 🕵️ Zillion <i>(Zillion)</i>. Year: 2022. Genre: thriller
-- 🕵️ The Translators <i>(Les Traducteurs)</i>. Year: 2019. Genre: thriller
 - 🕵️ Loft <i>(Loft)</i>. Year: 2008. Genre: thriller 
 - 🕵️ Maldoror <i>(Maldoror)</i>. Year: 2024. Genre: thriller 
 - 🕵️ Ben X <i>(Ben X)</i>. Year: 2007. Genre: thriller 
+- 🕵️ The Translators <i>(Les Traducteurs)</i>. Year: 2019. Genre: thriller
+
 
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: Belgitude <i>(Belgitude / Belgitude)</i>

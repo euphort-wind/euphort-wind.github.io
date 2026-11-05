@@ -63,19 +63,21 @@ Hej! Here's a glimpse into my experiences in elegant Luxembourg, which I visited
 {{< spoiler text="Click to view" >}}
 1. Luxembourg City
     - Adolphe Bridge <i>(Adolphe-Bréck)</i>
-    - Constitution Square <i>(Place de la Constitution)</i>
-    - Notre Dame Cathedral <i>(Kathedral Notre Dame)</i>
-    - Place Guillaume II <i>(Knuedler)</i>
-    - Grand Ducal Palace <i>(Groussherzogleche Palais)</i>
-    - Ministry of Foreign Affairs <i>(Ministère des Affaires Étrangères et Europeennes)</i>
-    - Luxembourg Railway Station <i>(Gare Lëtzebuerg)</i>
-    - Bock <i>(Bockfiels)</i>
-    - Place de Clairefontaine <i>(D'Clairefontaine-Plaz)</i>
     - Pétrusse Park <i>(De Péitruss-Park)</i>
     - Fort Thüngen <i>(Dräi Eechelen)</i>
+    - Place Guillaume II <i>(Knuedler)</i>
+    - Bock <i>(Bockfiels)</i>
+    - Constitution Square <i>(Place de la Constitution)</i>
+    - Notre Dame Cathedral <i>(Kathedral Notre-Dame)</i>
+    - Grand Ducal Palace <i>(Groussherzogleche Palais)</i>
+    - Ministry of Foreign Affairs <i>(Ministère des Affaires Étrangères)</i>
+    - Luxembourg Railway Station <i>(Gare Lëtzebuerg)</i>
+    - Place de Clairefontaine <i>(D'Clairefontaine-Plaz)</i>
     - Chamber of Deputies <i>(Chamber vun den Deputéierten)</i>
+    - Chemin de la Corniche <i>(Chemin de la Corniche)</i>
 2. Mersch
     - Mersch Castle <i>(Schlass Miersch)</i>
+    - Mierscher Theater <i>(Mierscher Theater)</i>
     - Church of Saint Michael in Mersch <i>(Église de Mersch)</i>
     - Roman Villa in Mersch <i>(Réimesch Villa zu Miersch)</i>
     - Mersch Municipal Park <i>(Gemengepark zu Miersch)</i>
@@ -98,6 +100,7 @@ Hej! Here's a glimpse into my experiences in elegant Luxembourg, which I visited
 - 🥙 Rieslingspaschtéit <i>(Rieslingspaschtéit)</i>
 - 🍲 Bouneschlupp <i>(Bouneschlupp)</i>
 - 🥘 Judd mat Gaardebounen <i>(Judd mat Gaardebounen)</i>
+- 🥘 Luxembourgish Grill Sausage <i>(Lëtzebuerger Grillwurscht)</i>
 - 🥘 Luxembourgish Dumplings <i>(Kniddelen)</i>
 - 🍰 Quetschentaart <i>(Quetschentaart)</i>
 - 🍶 Luxembourgish Lager Beer <i>(Brand: "Diekirch")</i>
@@ -105,30 +108,37 @@ Hej! Here's a glimpse into my experiences in elegant Luxembourg, which I visited
 
 
 <b>🎬 Local movies:</b>
-- Mr. Hublot <i>(Mr. Hublot)</i>. Year: 2013. Genre: short / animation
-- X on a Map <i>(X on a Map)</i>. Year: 2009. Genre: short / drama
-- Gutland <i>(Gutland)</i>. Year: 2017. Genre: drama
+- 👾 Mr. Hublot <i>(Mr. Hublot)</i>. Year: 2013. Genre: short / animation
+- 🥹 X on a Map <i>(X on a Map)</i>. Year: 2009. Genre: short / drama
+- 🥹 Gutland <i>(Gutland)</i>. Year: 2017. Genre: drama
 
 
 <b>🪔 Authentic features:</b>
+- 🐦‍🔥 Luxembourgish Folklore <i>(Lëtzebuerger Folklore)</i>
 - 👑 Title of Grand Duke <i>(Groussherzog)</i>
 - 🏺 Péckvillercher Whistles <i>(Péckvillercher)</i>
+- 🛠️ Villeroy & Boch Porcelain Manufacturing <i>(Faïencerie de Septfontaines)</i>
 - 🏓 Konter a Matt Game <i>(Konter a Matt)</i>
-- 🎑 Echternach Hopping Procession Ritual <i>(D'Iechternacher Sprangpressessioun)</i>
-- 🎙️ St. Hubert Hunting Horn Playing <i>(Haupeschbléiser)</i>
+- 🎑 Hämmelsmarsch Ritual <i>(Hämmelsmarsch)</i>
+- 🎑 Echternach Procession Ritual <i>(D'Iechternacher Sprangpressessioun)</i>
+- 🎙️ Haupeschbléiser Horn Playing <i>(Haupeschbléiser)</i>
 - 🏰 Heritage of the County of Luxembourg <i>(Grofschaft Lëtzebuerg / Grafschaft Luxemburg)</i>
 - 🏰 Heritage of the Duchy of Luxembourg <i>(Herzogtum Lëtzebuerg / Herzogtum Luxemburg)</i>
 
+
 <b>🎊 Authentic holidays & celebrations:</b>
-- Grand Duke's Official Birthday <i>(Groussherzogsgebuertsdag)</i>. Month: June
-- Buergbrennen <i>(Buergbrennen)</i>. Month: February or March
-- Émaischen <i>(Éimaischen)</i>. Month: March or April<br>
+- 🎪 Buergbrennen <i>(Buergbrennen)</i>. Month: February or March
+- 🎪 Émaischen <i>(Éimaischen)</i>. Month: March or April
+- 🫕 Bretzelsonndeg <i>(Bretzelsonndeg)</i>. Month: March
+- 🎪 Liichtmëssdag <i>(Liichtmëssdag)</i>. Month: February
+- 🗽 National Day <i>(Groussherzogsgebuertsdag)</i>. Month: June
+<br>
 <u>Luxembourg-City - Regional Special:</u> 
-- Schueberfouer <i>(Schueberfouer)</i>. Month: August to September
+- 🎪 Schueberfouer <i>(Schueberfouer)</i>. Month: August to September
 
 
 <b>💐 National flower: </b> 
-- Floribunda Rose <i>(Anne Beffort Rose)</i>
+- <b>Floribunda Rose <i>(Anne Beffort Rose)</i></b>
 
 
 <b>🦉 Local wisdom:</b> "You should not give up as long as you still have some dumplings in the pot." / <i>"Et muss ee sech net ginn, soulaang nach Kniddelen am Dëppe sinn."</i> — Luxembourgish proverb
