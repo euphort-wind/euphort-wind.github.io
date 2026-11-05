@@ -62,7 +62,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 
 {{< spoiler text="Click to view" >}}
 1. Brussels
-    - Grand Square <i>(Grand-Place / Grote Markt)</i>
+    - Grand-Place <i>(Grand-Place / Grote Markt)</i>
     - Manneken Pis <i>(Petit Julien / Manneken Pis)</i>
     - Egmont Park <i>(Parc Egmont / Egmontpark)</i>
     - Mont des Arts <i>(Mont des Arts / Kunstberg)</i>
@@ -72,7 +72,6 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
     - Palace of Justice <i>(Palais de Justice de Bruxelles / Justitiepaleis van Brussel)</i>
     - Royal Palace of Brussels <i>(Palais Royal de Bruxelles / Koninklijk Paleis van Brussel)</i>
     - Brussels Park <i>(Parc de Bruxelles / Warandepark)</i>
-    - Magritte Museum
     - Cathedral of Ss. Michael and Gudula <i>(Cathédrale Saints-Michel-et-Gudule / Kathedraal van Sint-Michiel en Sint-Goedele)</i>
     - Church of Our Lady of the Chapel <i>(Église Notre-Dame-de-la-Chapelle / Onze-Lieve-Vrouw-ter-Kapellekerk)</i>
 2.  Saint-Josse-ten-Noode
@@ -85,7 +84,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
     - Saint-Josse-ten-Noode City Hall <i>(Maison Communale / Gemeentehuis)</i>
 3.  Schaerbeek 
     - Train World <i>(Train World / Train World)</i>
-    - Lehon Plein <i>(Place Lehon / Lehonplein)</i> 
+    - Lehon Square <i>(Place Lehon / Lehonplein)</i> 
     - Josaphat Park <i>(Parc Josaphat / Josaphatpark)</i>
     - Autrique House <i>(Maison Autrique / Autriquehuis)</i>
     - Schaerbeek City Hall <i>(Hôtel Communal / Gemeentehuis)</i> 
@@ -101,8 +100,8 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
     - Vlaeykensgang <i>(Vlaaikensgang)</i>
     - De Zwarte Panter <i>(De Zwarte Panter)</i>
     - Schipperskwartier <i>(Schipperskwartier)</i>
-    - Royal Museum of Fine Arts Antwerp <i>(KMSKA)</i>
     - Antwerp Diamond District <i>(Diamantkwartier)</i>
+    - Royal Museum of Fine Arts Antwerp <i>(KMSKA)</i>
     - Plantin-Moretus Museum <i>(Museum Plantin-Moretus)</i>
     - Cathedral of Our Lady <i>(Onze-Lieve-Vrouwekathedraal)</i>
 {{< /spoiler >}}
@@ -113,6 +112,11 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🇧🇪 Lara Fabian (singer). Genre: pop
 - 🇧🇪 Kate Ryan (singer). Genre: pop
 - 🇧🇪 Lissa Lewis (singer). Genre: pop
+- 🇧🇪 Pommelien Thijs (singer). Genre: pop
+- 🇧🇪 Camille Dhont (singer). Genre: pop
+- 🇧🇪 Will Tura (singer). Genre: pop
+- 🇧🇪 Het Zesde Metaal (band). Genre: indie rock
+- 🇧🇪 Amaryllis Temmerman (singer). Genre: pop
 - 🇺🇳 Dimitri Vegas (DJ). Genre: big room
 - 🇺🇳 Like Mike (DJ). Genre: big room
 - 🇺🇳 XiJaro & Pitch (DJ duo). Genre: uplifting trance
@@ -141,31 +145,31 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🥗 Filet Americain <i>(Americain Préparé / Filet Americain)</i>
 - 🥗 Tomate Crevette <i>(Tomate Crevette / Tomaat Garnaal)</i>
 - 🥙 Martino Sandwich <i>(Martino / Martino)</i>
-- 🥘 Lapin á la Kriek <i>(Lapin á la Kriek / Konijn met Kriek)</i>
-- 🥘 Mussels'n'Fries <i>(Moules-Frites / Mosselen-Friet)</i>
+- 🥘 Lapin à la Kriek <i>(Lapin à la Kriek / Konijn met Kriek)</i>
+- 🥘 Mussels and Fries <i>(Moules-Frites / Mosselen-Friet)</i>
 - 🥘 Steak Frites <i>(Steak-Frites / Steak-Friet)</i>
-- 🥘 Chicon au Gratin <i>(Chicon au Gratin / Witloof)</i>
+- 🥘 Chicon au Gratin <i>(Chicon au Gratin / Witloof in de Oven)</i>
 - 🍰 Dame Blanche <i>(Dame Blanche / Dame Blanche)</i>
 - 🍰 Belgian Waffles <i>(Gaufres Belges / Belgische Wafels)</i>
 - 🍰 Belgian Chocolate <i>(Chocolats Belges / Belgische Chocolade)</i>
-- 🍶 Belgian Ale i>(Brands: "Leffe", "Delirium")</i>
-- 🍶 Belgian Kriek Lambic i>(Brands: "Timmermans", "BOON")</i>
+- 🍶 Belgian Ale <i>(Brands: "Leffe", "Delirium")</i>
+- 🍶 Belgian Kriek Lambic <i>(Brands: "Timmermans", "BOON")</i>
 - 🍶 Belgian Lager Beer <i>(Brands: "Stella Artois", "Jupiler")</i>
-- 🍶 Belgian Witbier i>(Brands: "Hoegaarden", "Blanche de Brabant", "St. Bernardus Wit")</i>
+- 🍶 Belgian Witbier <i>(Brands: "Hoegaarden", "Blanche de Brabant", "St. Bernardus Wit")</i>
 </br>
 <u>Brussels-Capital - Regional Special:</u>
 - 🥗 Moules Parquées <i>(Moules Parquées / Geparkeerde  Mosselen)</i>
 - 🥙 Mitraillette <i>(Mitrayète / Mitraillette)</i>
-- 🥘 Stewed Brussels Sprouts <i>(Choux de Bruxelles / Spruitjes)</i>
+- 🥘 Stewed Brussels Sprouts <i>(Choux de Bruxelles Mijotés / Gestoofde Spruitjes)</i>
 - 🍰 Pain à la Grecque <i>(Pain à la Grecque / Brood van de Gracht)</i>
 - 🍰 Belgian Pralines <i>(Pralines Belges / Belgische Pralines)</i>
 </br>
 <u>Flanders - Regional Special:</u> 
 - 🍲 Waterzooi <i>(Waterzooi)</i>
-- 🥘 Shrimp Croquettes <i>(Garnaalkroket)</i>
+- 🥘 Shrimp Croquettes <i>(Garnaalkroketten)</i>
 - 🥘 Flemish Stew <i>(Stoofvlees)</i>
 - 🥘 Stoemp <i>(Stoemp)</i>
-- 🥘 Asperges à la Flamande <i>(Vlaamse Asperges)</i>
+- 🥘 Asperges à la Flamande <i>(Asperges op Vlaamse Wijze)</i>
 - 🥘 Eel in the Green <i>(Paling in 't Groen)</i>
 - 🍰 Mattentaart <i>(Mattentaart)</i>
 - 🍰 Cuberdon <i>(Cuberdon)</i>
@@ -182,7 +186,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: Belgitude <i>(Belgitude / Belgitude)</i>
 - 🐦‍🔥 Legend of Ambiorix <i>(Légende d'Ambiorix / Legende van Ambiorix)</i>
-- ⛵ Péniche Barges <i>(Péniches / Péniches)</i>
+- ⛵ Péniches <i>(Péniches / Péniches)</i>
 - 🛖 Belgian Friteries <i>(Friteries / Frietkoten)</i>
 - 🛖 Belfries of Belgium <i>(Beffrois de Belgique / Belforten in België)</i>
 - 🏛️ Art Nouveau Architecture <i>(Architecture Art Nouveau / Art Nouveau-Architectuur)</i>
@@ -190,7 +194,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🛠️ Val Saint Lambert Glassware <i>(Cristalleries du Val-Saint-Lambert / Val-Saint-Lambert)</i>
 - 🎨 Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
 - 🎨 Belgian Surrealist Painting <i>(Surréalisme Belge / Belgisch Surrealisme)</i>
-- 🏃🏻 Classic Cycle Racing Tradition <i>(Classique / Wielerklassieker)</i>
+- 🏃🏻 Classic Cycle Racing Tradition <i>(Classique Cycliste / Wielerklassieker)</i>
 - 🏓 Crossage Game <i>(Crossage / Chole)</i>
 - 💃 Cramignon Dance <i>(Cråmignon / Cramignon)</i>
 - 🪕 Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
@@ -208,7 +212,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 👲 Culture of Flemings <i>(Vlamingen)</i>
   - 🐦‍🔥 Flemish Folklore <i>(Vlaamse Folklore)</i>
   - 🛠️ Flemish Diamond-Cutting <i>(Vlaamse Diamantbewerking)</i>
-  - 🛠️ Flemish Pottery <i>(Vlaamse Aardewerk)</i> 
+  - 🛠️ Flemish Pottery <i>(Vlaams Aardewerk)</i> 
   - 🎨 Early Netherlandish Painting <i>(Vlaamse Primitieven)</i>  
   - 🎨 Flemish Baroque Painting <i>(Vlaamse Barokschilderkunst)</i>  
   - 🎨 Bruges Lace <i>(Brugs Bloemwerk)</i>
@@ -231,13 +235,11 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🎪 Zinneke Parade <i>(Zinneke Parade / Zinneke Parade)</i>. Month: May or June
 - 🎪 Iris Festival <i>(Fête de l'Iris / Irisfeest)</i>. Month: May
 - 🎪 Flower Carpet  <i>(Tapis de Fleurs / Bloementapijt)</i>. Month: August 
-- 🎪 Ommegang of Brussels <i>(Ommegang de Bruxelles / Ommegang van Brussel)</i>. Month: July 
+- 🎪 Ommegang of Brussels <i>(Ommegang de Bruxelles / Ommegang van Brussel)</i>. Month: July<br> 
 <u>Flanders - Regional Special:</u> 
 - 👲 Flemish Community Day <i>(Feestdag van de Vlaamse Gemeenschap)</i>. Month: July 
-- 🎪 Carnival of Aalst <i>(Aalst Carnaval)</i>. Month: February or March<br>
+- 🎪 Carnival of Aalst <i>(Aalst Carnaval)</i>. Month: February or March
 - 🎪 Kattenstoet <i>(Kattenstoet)</i>. Month: May
-
-
 
 
 

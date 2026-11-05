@@ -65,25 +65,32 @@ Hej! Here's a glimpse into my experiences in prosperous Liechtenstein, which I v
     - Vaduz Castle <i>(Schloss Vaduz)</i>
     - Vaduz Cathedral <i>(St. Florinskirche)</i>
     - Government Building <i>(Regierungsgebäude)</i>
-    - Liechtenstein National Museum <i>(Liechtensteinisches Landesmuseum)</i>
     - Alte Rheinbrücke <i>(Alte Rheinbrücke)</i>
     - Postal Museum <i>(Postmuseum)</i>
     - Vaduz Town Hall <i>(Rathaus von Vaduz)</i>
     - Red House of Vaduz <i>(Rotes Haus)</i>
-    - Liechtenstein Museum of Fine Arts <i>(Kunstmuseum Liechtenstein)</i> 
+    - Liechtenstein National Museum <i>(Liechtensteinisches Landesmuseum)</i>
+    - Liechtenstein Museum of Fine Arts <i>(Kunstmuseum Liechtenstein)</i>
+    - Liechtenstein Treasure Chamber <i>(Schatzkammer Liechtenstein)</i> 
 2. Triesen
+    - Lawena Museum <i>(Lawena Museum)</i>
+    - Marienkapelle <i>(Marienkapelle)</i>
     - Triesen Parish Church <i>(Pfarrkirche St. Gallus)</i>
     - Chapel of St. Mamerten <i>(Kapelle St. Mamerten)</i>
     - Private University in the Principality of Liechtenstein <i>(UFL)</i>
 3. Triesenberg  
-    - Triesenberg Parish Church <i>(Pfarrkirche St. Joseph)</i>
     - Walser Museum <i>(Walsermuseum)</i>
-    - Triesenberg Town Hall <i>(Rathaus Triesenberg)</i>
     - Malbun Ski Resort <i>(Malbun)</i>
+    - Peace Chapel of Malbun <i>(Friedenskapelle Malbun)</i>
+    - Triesenberg Parish Church <i>(Pfarrkirche St. Joseph)</i>
+    - Triesenberg Town Hall <i>(Rathaus Triesenberg)</i>
+    - Walser Saga Trail <i>(Walser Sagenweg)</i>
 4. Schaan
-    - Schaan Parish Church <i>(Pfarrkirche St. Laurentius)</i>
     - TAK Theater Liechtenstein <i>(TAK Theater)</i> 
-    - DoMus: Museum & Gallery <i>(DoMus: Galerie & Museum)</i> 
+    - Fort Schaan <i>(Kleinkastell Schaan)</i>
+    - Schaan Cultural Trail <i>(Kulturweg Schaan)</i>
+    - Schaan Parish Church <i>(Pfarrkirche St. Laurentius)</i>
+    - DoMus: Museum & Gallery <i>(DoMus: Galerie & Museum)</i>
 {{< /spoiler >}}
 
 
@@ -96,44 +103,47 @@ Hej! Here's a glimpse into my experiences in prosperous Liechtenstein, which I v
 
 
 <b>🍽️ Local food & drinks: </b>
-- 🍲 Hafalaab <i>(Hafalaab)</i>
+- 🍲 Hafalääb <i>(Hafalääb)</i>
 - 🥘 Käsknöpfle <i>(Käsknöpfle)</i>
 - 🍰 Ribel <i>(Ribel)</i>
-- 🧀 Liechtensteiner Winzer Cheese <i>(Liechtensteiner Winzer Käse)</i>
+- 🧀 Liechtensteiner Winzer Cheese <i>(Liechtensteiner Winzerkäse)</i>
 - 🍶 Liechtensteiner Lager Beer <i>(Brands: "Liechtensteiner Brauhaus")</i>
 
 
 <b>🎬 Local movies:</b>
-- Deutsche Welle: Where Princes Reign Supreme <i>(Deutsche Welle: Where Princes Reign Supreme)</i>. Year: 2019. Genre: short / documentary
-- True <i>(True)</i>. Year: 2004. Genre: short / drama
+- 🥹 True <i>(True)</i>. Year: 2004. Genre: short / drama
+- 📝 Deutsche Welle: Where Princes Reign Supreme <i>(Deutsche Welle: Where Princes Reign Supreme)</i>. Year: 2019. Genre: short / documentary
 
 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Liechtenstein Folklore <i>(Liechtensteiner Folklore)</i>
-- 🛠️ Postage Stamp Production <i>(Briefmarken von Liechtenstein)</i>
+- ⛵ Weidling Boats <i>(Weidlinge)</i>
+- 🛠️ Postage Stamp Production <i>(Liechtensteiner Briefmarke Mache)</i>
 - 🏃🏻 Alpine Skiing Tradition <i>(Alpiner Skilauf)</i>
+- 🏓 Jass Game <i>(Jassen)</i>
+- 🎙️ Yodeling Singing <i>(Jodeln)</i> 
 - 👘 Garb: Liechtensteiner Tracht <i>(Liechtensteiner Tracht)</i>
+- 🧝 Legacy of Alemanni <i>(Alamannen)</i>
 - 🏰 Heritage of the County of Vaduz <i>(Grafschaft Vaduz)</i>
-- 🏰 Heritage of the Lordship of Schellenberg <i>(Herrschaft Schellenberg)</i>
-<br>
+- 🏰 Heritage of the Lordship of Schellenberg <i>(Herrschaft Schellenberg)</i><br>
 <u>Triesenberg - Regional Special:</u> 
 - 👲 Culture of Walser People <i>(Walser)</i>
   - 🐦‍🔥 Walser Folklore <i>(Walser-Brauchtum)</i>
   - 🛖 Walser Houses <i>(Walserhäuser)</i>
+  - 🛠️ Walser Woodcarving <i>(Walser-Holzschnitzerei)</i>
   - 👘 Garb: Walser Tracht <i>(Walser Tracht)</i>
 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Berchtold's Day <i>(Berchtoldstag)</i>. Month: January
-- National Day of Liechtenstein <i>(Staatsfeiertag)</i>. Month: August
-- Funkensonntag <i>(Funkensonntag)</i>. Month: February or March
-<br>
+- 🎪 Berchtold's Day <i>(Bechtelstag)</i>. Month: January
+- 🎪 Funkensonntag <i>(Funkensonntag)</i>. Month: February or March
+- 🗽 National Day of Liechtenstein <i>(Staatsfeiertag)</i>. Month: August<br>
 <u>Triesenberg - Regional Special:</u> 
-- Walsertreffen <i>(Walsertreffen)</i>. Month: September
+- 👲 Walsertreffen <i>(Walsertreffen)</i>. Month: September
 
 <b>💐 National flower: </b> 
-- Yellow Lily <i>(Gelbe Lilie)</i>
+- <b>Yellow Lily <i>(Gelbe Lilie)</i></b> 
 
 
 <b>🦉 Local wisdom:</b> "Those who can party can also work." / <i>"Wer fiira ka, ka o schaffa."</i> — Liechtenstein proverb

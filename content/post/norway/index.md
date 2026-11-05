@@ -220,6 +220,7 @@ Hej! Here's a glimpse into my experiences in magical Norway, which I visited in 
   - 🏓 Knattleikr Game <i>(Knattleikr / ᚴᚾᛅᛏᛚᛁᛁᚴᛦ)</i> 
   - 🎑 Seiðr Ritual <i>(Seid / ᛋᛅᛁᚦᛦ)</i> 
   - 🎑 Blót Ritual <i>(Blot / ᛒᛚᚢᛏ)</i> 
+  - 👘 Garb: Kyrtill & Hangaroc <i>(Kyrtill og Hangaroc / ᚴᚢᚱᛏᛁᛚ ᛅᚢᚴ ᚼᛅᚾᚴᛅᚱᚢᚴ)</i> 
 - ⛰️ Strandflat Landforms <i>(Strandflate)</i>
 - ⛰️ Norwegian Fjords <i>(Fjorder)</i> 
 </br>
