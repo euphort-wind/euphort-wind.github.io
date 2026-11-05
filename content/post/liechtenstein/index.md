@@ -100,7 +100,7 @@ Hej! Here's a glimpse into my experiences in prosperous Liechtenstein, which I v
 - 🥘 Käsknöpfle <i>(Käsknöpfle)</i>
 - 🍰 Ribel <i>(Ribel)</i>
 - 🧀 Liechtensteiner Winzer Cheese <i>(Liechtensteiner Winzer Käse)</i>
-- 🍶 Liechtensteiner Beer <i>(Brands: "Liechtensteiner Brauhaus")</i>
+- 🍶 Liechtensteiner Lager Beer <i>(Brands: "Liechtensteiner Brauhaus")</i>
 
 
 <b>🎬 Local movies:</b>

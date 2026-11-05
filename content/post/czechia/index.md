@@ -131,8 +131,8 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 - 🍰 Czech Kolache <i>(Český Koláč)</i>
 - 🍰 Žloutkové Řezy <i>(Žloutkové Řezy)</i>
 - 🧀 Hermelín Cheese <i>(Hermelín)</i>
-- 🍶 Czech Beer <i>(Brands: "Pilsner Urquell", "Staropramen", "Gambrinus")</i>
 - 🍶 Czech Herbal Bitter <i>(Brand: "Becherovka")</i>
+- 🍶 Czech Lager Beer <i>(Brands: "Pilsner Urquell", "Staropramen", "Gambrinus")</i>
 </br>
 <u>Prague-Capital - Regional Special:</u> 
 - 🥓 Prague Ham <i>(Pražská Šunka)</i>
@@ -174,7 +174,7 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 - 🏰 Heritage of the Kingdom of Bohemia <i>(České Království / Königreich Böhmen)</i>
 - 🏰 Heritage of Czechoslovakia <i>(Československo)</i></br>
 <u>Central Bohemia - Regional Special:</u> 
-- 🎨 Bohemian Glassware <i>(České Sklo)</i></br>
+- 🛠️ Bohemian Glassware <i>(České Sklo)</i></br>
 <u>South Moravia - Regional Special:</u> 
 - 👲 Culture of Moravians <i>(Moravané / Moraváci)</i>
   - 🎑 Ride of the Kings Ritual <i>(Jízda Králů)</i>

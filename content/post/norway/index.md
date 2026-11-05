@@ -156,7 +156,7 @@ Hej! Here's a glimpse into my experiences in magical Norway, which I visited in 
 - 🍰 School Bun <i>(Skolebolle)</i>
 - 🍰 Smultring <i>(Smultring)</i>
 - 🍰 Marsipankake <i>(Marsipankake)</i> 
-- 🍰 Queen Maud Fromage <i>(Dronning Mauds Pudding)</i>
+- 🍰 Queen Maud Fromage <i>(Mauds-Pudding)</i>
 - 🧀 Brunost <i>(Brunost)</i>
 - 🫓 Flatbrød <i>(Flatbrød)</i>
 - 🫓 Lefse <i>(Lefse)</i>
@@ -217,7 +217,7 @@ Hej! Here's a glimpse into my experiences in magical Norway, which I visited in 
   - 🛠️ Viking Ship Building <i>(Vikingskipsbygging / ᛋᚴᛁᛒ)</i>
   - 🛠️ Viking Bead Making <i>(Skjeggperleproduksjon / ᛒᛁᛚᚢᚴᛁᚱᚦ)</i>
   - 🏓 Hnefatafl Game <i>(Hnefatafl / ᚼᚾᛁᚠᛅᛏᛅᚠᛚ)</i> 
-  - 🏃🏻 Knattleikr Tradition <i>(Knattleikr / ᚴᚾᛅᛏᛚᛁᛁᚴᛦ)</i> 
+  - 🏓 Knattleikr Game <i>(Knattleikr / ᚴᚾᛅᛏᛚᛁᛁᚴᛦ)</i> 
   - 🎑 Seiðr Ritual <i>(Seid / ᛋᛅᛁᚦᛦ)</i> 
   - 🎑 Blót Ritual <i>(Blot / ᛒᛚᚢᛏ)</i> 
 - ⛰️ Strandflat Landforms <i>(Strandflate)</i>

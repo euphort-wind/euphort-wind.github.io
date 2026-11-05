@@ -138,7 +138,7 @@ Hej! Here's a glimpse into my experiences in marvelous Denmark, which I visited 
 - 🍰 Flødeboller <i>(Flødeboller)</i>
 - 🧀 Danbo Cheese <i>(Danbo)</i>
 - 🧀 Danablu Cheese <i>(Danablu)</i>
-- 🍶 Danish Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
+- 🍶 Danish Lager Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
 
 
 <b>🎬 Local movies:</b>
@@ -172,7 +172,6 @@ Hej! Here's a glimpse into my experiences in marvelous Denmark, which I visited 
 - 🏰 Heritage of the Danish-Norwegian Union <i>(Danmark–Norge / Danmark–Noreg)</i>
 - ⛰️ Fur Formations <i>(Fur Formationen)</i><br>
 <u>North Jutland - Regional Special:</u>
-- 🏺 Jutland Black Pots <i>(Jydepotter)</i> 
 - 🛖 Tanghuse <i>(Tanghuse)</i><br>
 
 

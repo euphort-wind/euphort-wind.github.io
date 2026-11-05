@@ -64,31 +64,47 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 1. Brussels
     - Grand Square <i>(Grand-Place / Grote Markt)</i>
     - Manneken Pis <i>(Petit Julien / Manneken Pis)</i>
-    - Palace of Justice <i>(Palais de Justice de Bruxelles / Justitiepaleis van Brussel)</i>
     - Egmont Park <i>(Parc Egmont / Egmontpark)</i>
+    - Mont des Arts <i>(Mont des Arts / Kunstberg)</i>
+    - Atomium <i>(Atomium / Atomium)</i>
+    - Magritte Museum <i>(Musée Magritte / Magritte Museum)</i>
+    - Comic Art Museum <i>(Centre Belge de la Bande Dessinée / Belgisch Stripmuseum)</i>
+    - Palace of Justice <i>(Palais de Justice de Bruxelles / Justitiepaleis van Brussel)</i>
     - Royal Palace of Brussels <i>(Palais Royal de Bruxelles / Koninklijk Paleis van Brussel)</i>
     - Brussels Park <i>(Parc de Bruxelles / Warandepark)</i>
-    - Cathedral of St. Michael and St. Gudula <i>(Cathédrale Saints-Michel-et-Gudule / Kathedraal van Sint-Michiel en Sint-Goedele)</i>
-    - Mont des Arts <i>(Mont des Arts / Kunstberg)</i>
+    - Magritte Museum
+    - Cathedral of Ss. Michael and Gudula <i>(Cathédrale Saints-Michel-et-Gudule / Kathedraal van Sint-Michiel en Sint-Goedele)</i>
     - Church of Our Lady of the Chapel <i>(Église Notre-Dame-de-la-Chapelle / Onze-Lieve-Vrouw-ter-Kapellekerk)</i>
 2.  Saint-Josse-ten-Noode
-    - Saint-Josse-ten-Noode City Hall <i>(Maison Communale de Saint-Josse-ten-Noode / Gemeentehuis van Sint-Joost-ten-Node)</i>
     - Botanical Garden <i>(Jardin Botanique / Kruidtuin)</i>
+    - Charlier Museum <i>(Musée Charlier / Charliermuseum)</i>
     - World Trade Center <i>(World Trade Center / World Trade Center)</i>
+    - Le Botanique Cultural Centre <i>(Le Botanique / Le Botanique)</i>
+    - Saint-Josse Church <i>(Église Saint-Josse / Sint-Joostkerk)</i>
+    - Place Charles Rogier <i>(Place Rogier / Karel Rogierplein)</i>
+    - Saint-Josse-ten-Noode City Hall <i>(Maison Communale / Gemeentehuis)</i>
 3.  Schaerbeek 
-    - Schaerbeek City Hall <i>(Hôtel Communal / Gemeentehuis)</i>
-    - Saint Mary's Royal Church <i>(Église Royale Sainte-Marie / Koninklijke Sint-Mariakerk)</i> 
+    - Train World <i>(Train World / Train World)</i>
     - Lehon Plein <i>(Place Lehon / Lehonplein)</i> 
+    - Josaphat Park <i>(Parc Josaphat / Josaphatpark)</i>
+    - Autrique House <i>(Maison Autrique / Autriquehuis)</i>
+    - Schaerbeek City Hall <i>(Hôtel Communal / Gemeentehuis)</i> 
+    - Louis Bertrand Avenue <i>(Avenue Louis Bertrand / Louis Bertrandlaan)</i>
+    - Schaerbeek Beer Museum <i>(Musée Schaerbeekois de la Bière / Schaarbeeks Biermuseum)</i>
+    - Saint Mary's Royal Church <i>(Église Royale Sainte-Marie / Koninklijke Sint-Mariakerk)</i> 
 4. Antwerp
     - MAS <i>(The Museum aan de Stroom)</i> 
     - Het Steen <i>(Het Steen)</i> 
     - Rubenshuis <i>(Rubenshuis)</i> 
     - Vleeshuis <i>(Vleeshuis)</i>
     - Grote Markt <i>(Grote Markt)</i>
-    - Cathedral of Our Lady <i>(Onze-Lieve-Vrouwekathedraal)</i>
     - Vlaeykensgang <i>(Vlaaikensgang)</i>
     - De Zwarte Panter <i>(De Zwarte Panter)</i>
+    - Schipperskwartier <i>(Schipperskwartier)</i>
+    - Royal Museum of Fine Arts Antwerp <i>(KMSKA)</i>
     - Antwerp Diamond District <i>(Diamantkwartier)</i>
+    - Plantin-Moretus Museum <i>(Museum Plantin-Moretus)</i>
+    - Cathedral of Our Lady <i>(Onze-Lieve-Vrouwekathedraal)</i>
 {{< /spoiler >}}
 
 
@@ -97,7 +113,8 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🇧🇪 Lara Fabian (singer). Genre: pop
 - 🇧🇪 Kate Ryan (singer). Genre: pop
 - 🇧🇪 Lissa Lewis (singer). Genre: pop
-- 🇺🇳 Dimitri Vegas & Like Mike (DJ duo). Genre: big room
+- 🇺🇳 Dimitri Vegas (DJ). Genre: big room
+- 🇺🇳 Like Mike (DJ). Genre: big room
 - 🇺🇳 XiJaro & Pitch (DJ duo). Genre: uplifting trance
 - 🇺🇳 Sylver (band). Genre: eurodance
 - 🇺🇳 Netsky (DJ). Genre: drum'n'bass
@@ -110,73 +127,123 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🇺🇳 Technotronic (DJ project). Genre: new beat
 - 🇺🇳 Frank de Wulf (DJ). Genre: belgian techno
 - 🇺🇳 Da Rick (DJ). Genre: jumpstyle
+- 🇺🇳 Lethal MG (DJ). Genre: tekstyle
 
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - New Beat. Originated: mid-1980s
 - Belgian Techno. Originated: early 1990s
 - Jumpstyle. Originated: late 1990s
+- Tekstyle. Originated: mid-2000s
 
 
 <b>🍽️ Local food & drinks: </b>
 - 🥗 Filet Americain <i>(Americain Préparé / Filet Americain)</i>
+- 🥗 Tomate Crevette <i>(Tomate Crevette / Tomaat Garnaal)</i>
 - 🥙 Martino Sandwich <i>(Martino / Martino)</i>
+- 🥘 Lapin á la Kriek <i>(Lapin á la Kriek / Konijn met Kriek)</i>
 - 🥘 Mussels'n'Fries <i>(Moules-Frites / Mosselen-Friet)</i>
 - 🥘 Steak Frites <i>(Steak-Frites / Steak-Friet)</i>
+- 🥘 Chicon au Gratin <i>(Chicon au Gratin / Witloof)</i>
+- 🍰 Dame Blanche <i>(Dame Blanche / Dame Blanche)</i>
 - 🍰 Belgian Waffles <i>(Gaufres Belges / Belgische Wafels)</i>
 - 🍰 Belgian Chocolate <i>(Chocolats Belges / Belgische Chocolade)</i>
-- 🍰 Belgian Pralines <i>(Pralines Belges / Belgische Pralines)</i>
-- 🍶 Belgian Beer <i>(Brands: "Stella Artois", "Jupiler", "Leffe", "Delirium")</i>
+- 🍶 Belgian Ale i>(Brands: "Leffe", "Delirium")</i>
+- 🍶 Belgian Kriek Lambic i>(Brands: "Timmermans", "BOON")</i>
+- 🍶 Belgian Lager Beer <i>(Brands: "Stella Artois", "Jupiler")</i>
+- 🍶 Belgian Witbier i>(Brands: "Hoegaarden", "Blanche de Brabant", "St. Bernardus Wit")</i>
 </br>
-<u>Brussels-Capital - Regional Special:</u> 
+<u>Brussels-Capital - Regional Special:</u>
+- 🥗 Moules Parquées <i>(Moules Parquées / Geparkeerde  Mosselen)</i>
 - 🥙 Mitraillette <i>(Mitrayète / Mitraillette)</i>
 - 🥘 Stewed Brussels Sprouts <i>(Choux de Bruxelles / Spruitjes)</i>
+- 🍰 Pain à la Grecque <i>(Pain à la Grecque / Brood van de Gracht)</i>
+- 🍰 Belgian Pralines <i>(Pralines Belges / Belgische Pralines)</i>
 </br>
 <u>Flanders - Regional Special:</u> 
+- 🍲 Waterzooi <i>(Waterzooi)</i>
 - 🥘 Shrimp Croquettes <i>(Garnaalkroket)</i>
 - 🥘 Flemish Stew <i>(Stoofvlees)</i>
+- 🥘 Stoemp <i>(Stoemp)</i>
+- 🥘 Asperges à la Flamande <i>(Vlaamse Asperges)</i>
 - 🥘 Eel in the Green <i>(Paling in 't Groen)</i>
+- 🍰 Mattentaart <i>(Mattentaart)</i>
+- 🍰 Cuberdon <i>(Cuberdon)</i>
 
 <b>🎬 Local movies:</b>
-- Mr. Nobody <i>(Mr. Nobody)</i>. Year: 2009. Genre: fantasy
-- In Bruges <i>(In Bruges)</i>. Year: 2008. Genre: thriller
-- Zillion <i>(Zillion)</i>. Year: 2022. Genre: thriller
-- The Translators <i>(Les Traducteurs)</i>. Year: 2019. Genre: thriller
-- Loft <i>(Loft)</i>. Year: 2008. Genre: thriller 
-- Maldoror <i>(Maldoror)</i>. Year: 2024. Genre: thriller 
-- Ben X <i>(Ben X)</i>. Year: 2007. Genre: thriller 
+- 🪄 Mr. Nobody <i>(Mr. Nobody)</i>. Year: 2009. Genre: fantasy
+- 🕵️ In Bruges <i>(In Bruges)</i>. Year: 2008. Genre: thriller
+- 🕵️ Zillion <i>(Zillion)</i>. Year: 2022. Genre: thriller
+- 🕵️ The Translators <i>(Les Traducteurs)</i>. Year: 2019. Genre: thriller
+- 🕵️ Loft <i>(Loft)</i>. Year: 2008. Genre: thriller 
+- 🕵️ Maldoror <i>(Maldoror)</i>. Year: 2024. Genre: thriller 
+- 🕵️ Ben X <i>(Ben X)</i>. Year: 2007. Genre: thriller 
 
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: Belgitude <i>(Belgitude / Belgitude)</i>
-- 🐦‍🔥 Belgian Folklore <i>(Folklore Belge / Belgische Folklore)</i>
+- 🐦‍🔥 Legend of Ambiorix <i>(Légende d'Ambiorix / Legende van Ambiorix)</i>
+- ⛵ Péniche Barges <i>(Péniches / Péniches)</i>
 - 🛖 Belgian Friteries <i>(Friteries / Frietkoten)</i>
+- 🛖 Belfries of Belgium <i>(Beffrois de Belgique / Belforten in België)</i>
+- 🏛️ Art Nouveau Architecture <i>(Architecture Art Nouveau / Art Nouveau-Architectuur)</i>
 - 🏛️ Brabantine Gothic Architecture <i>(Gothique Brabançon / Brabantse Gotiek)</i>
+- 🛠️ Val Saint Lambert Glassware <i>(Cristalleries du Val-Saint-Lambert / Val-Saint-Lambert)</i>
 - 🎨 Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
+- 🎨 Belgian Surrealist Painting <i>(Surréalisme Belge / Belgisch Surrealisme)</i>
+- 🏃🏻 Classic Cycle Racing Tradition <i>(Classique / Wielerklassieker)</i>
 - 🏓 Crossage Game <i>(Crossage / Chole)</i>
+- 💃 Cramignon Dance <i>(Cråmignon / Cramignon)</i>
 - 🪕 Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
 - 🧝 Legacy of Belgae <i>(Belges / Belgae)</i>
-- 🏰 Heritage of the United Belgian States <i>(États-Belgiques-Unis / Verenigde Belgische Staten)</i>
-<br>
-<u>Brussels-Capital - Regional Special:</u> 
-- ⛰️ Flower Carpets <i>(Tapis de Fleurs / Bloementapijt)</i>
 - 🏰 Heritage of the Duchy of Brabant <i>(Duché de Brabant / Hertogdom Brabant)</i>
-<br>
-<u>Flanders - Regional Special:</u> 
+- 🏰 Heritage of the United Belgian States <i>(États-Belgiques-Unis / Verenigde Belgische Staten)</i><br>
+<u>Brussels-Capital - Regional Special:</u>
+- 🦉 Concept: Zwanze <i>(Zwanze / Zwans)</i>
+- 👑 System of Seven Lineages of Brussels <i>(Sept Lignages / Zeven Geslachten)</i>
+- 🛖 Estaminets <i>(Estaminets / Estaminets)</i>
+- 🎨 Brussels Lace <i>(Dentelle de Bruxelles / Brussels Kant)</i>
+- 🎑 Meyboom Ritual <i>(Meyboom / Meiboom)</i>
+- 🎭 Royal Theatre Toone <i>(Théâtre Royal de Toone / Koninklijk Poppentheater Toone)</i><br>
+<u>Flanders - Regional Special:</u>
 - 👲 Culture of Flemings <i>(Vlamingen)</i>
+  - 🐦‍🔥 Flemish Folklore <i>(Vlaamse Folklore)</i>
+  - 🛠️ Flemish Diamond-Cutting <i>(Vlaamse Diamantbewerking)</i>
+  - 🛠️ Flemish Pottery <i>(Vlaamse Aardewerk)</i> 
+  - 🎨 Early Netherlandish Painting <i>(Vlaamse Primitieven)</i>  
   - 🎨 Flemish Baroque Painting <i>(Vlaamse Barokschilderkunst)</i>  
   - 🎨 Bruges Lace <i>(Brugs Bloemwerk)</i>
+  - 🎨 Flemish Tapestry <i>(Vlaams Tapijt)</i>
+  - 🏃🏻 Vinkensport Tradition <i>(Vinkensport)</i>
+  - 🏃🏻 Horse-Back Shrimp Fishing <i>(Paardenvisserij)</i>
+  - 🏓 Bolletra Game <i>(Trabol)</i>
+  - 💃 Zevenpas Dance <i>(Zevenpas)</i>
+  - 🎙️ Flemish Polyphonic Singing <i>(Vlaamse Polyfonie)</i>
   - 🪕 Musical Instrument: Doedelzak <i>(Doedelzak)</i>
 - 🏰 Heritage of the County of Flanders <i>(Graafschap Vlaanderen / Groafschap Vloandern)</i>
 
+
+
+
 <b>🎊 Authentic holidays & celebrations:</b>
-- National Day of Belgium <i>(Fête Nationale Belge / Nationale Feestdag van België)</i>. Month: July<br>
+- 🗽 King's Feast <i>(Fête du Roi / Koningsdag)</i>. Month: November
+- 🗽 National Day of Belgium <i>(Fête Nationale Belge / Nationale Feestdag van België)</i>. Month: July<br>
+<u>Brussels-Capital - Regional Special:</u> 
+- 🎪 Zinneke Parade <i>(Zinneke Parade / Zinneke Parade)</i>. Month: May or June
+- 🎪 Iris Festival <i>(Fête de l'Iris / Irisfeest)</i>. Month: May
+- 🎪 Flower Carpet  <i>(Tapis de Fleurs / Bloementapijt)</i>. Month: August 
+- 🎪 Ommegang of Brussels <i>(Ommegang de Bruxelles / Ommegang van Brussel)</i>. Month: July 
 <u>Flanders - Regional Special:</u> 
-- Flemish Community Day <i>(Feestdag van de Vlaamse Gemeenschap)</i>. Month: July 
-- Carnival of Aalst <i>(Aalst Carnaval / Oilsjt Carnaval)</i>. Month: February or March
+- 👲 Flemish Community Day <i>(Feestdag van de Vlaamse Gemeenschap)</i>. Month: July 
+- 🎪 Carnival of Aalst <i>(Aalst Carnaval)</i>. Month: February or March<br>
+- 🎪 Kattenstoet <i>(Kattenstoet)</i>. Month: May
+
+
+
+
 
 
 <b>💐 National flower: </b> 
-- Red Poppy <i>(Coquelicot Rouge / Rode Klaproos)</i><br>
+- <b>Red Poppy <i>(Coquelicot Rouge / Rode Klaproos)</i></b><br>
 <u>Brussels-Capital - Regional Special:</u> 
 - Yellow Iris <i>(Iris Jaune / Gele Lis)</i>
 

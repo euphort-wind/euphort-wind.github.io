@@ -269,7 +269,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🍰 Pryanik <i>(Пряник)</i> 
 - 🍰 Medovik <i>(Медовик)</i>
 - 🍶 Baked Milk <i>(Топлёное Молоко)</i> 
-- 🍶 Russian Draft Beer <i>(Brand: "Sladovar")</i> 
+- 🍶 Russian Draft Wheat Beer <i>(Brand: "Sladovar")</i> 
 - 🍶 Russian Vodka <i>(Brands: "Derevenka", "Tsarskaya")</i> 
 </br>
 <u>Bashkortostan - Regional Special:</u> 
@@ -427,7 +427,8 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - Balkar Day <i>(День Возрождения Балкарского Народа / Малкъар Халкъны Жангырыууну Кюню)</i>. Month: March<br>
 <u>Karachay-Cherkessia - Regional Special:</u>
 - Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May<br>
-<u>North Ossetia - Regional Special:</u> 
+<u>North Ossetia - Regional Special:</u>
+<!--- Ирон бæгæны-->
 - Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November<br>
 <u>St. Petersburg-City - Regional Special:</u>
 - White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July

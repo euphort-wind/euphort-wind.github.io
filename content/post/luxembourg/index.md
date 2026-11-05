@@ -100,7 +100,8 @@ Hej! Here's a glimpse into my experiences in elegant Luxembourg, which I visited
 - 🥘 Judd mat Gaardebounen <i>(Judd mat Gaardebounen)</i>
 - 🥘 Luxembourgish Dumplings <i>(Kniddelen)</i>
 - 🍰 Quetschentaart <i>(Quetschentaart)</i>
-- 🍶 Luxembourgish Beer <i>(Brands: "Diekirch", "Battin Blanche")</i>
+- 🍶 Luxembourgish Lager Beer <i>(Brand: "Diekirch")</i>
+- 🍶 Luxembourgish Witbier <i>(Brand: "Battin Blanche")</i>
 
 
 <b>🎬 Local movies:</b>

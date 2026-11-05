@@ -223,7 +223,8 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
 - 🦉 Concept: Gezelligheid <i>(Gezelligheid)</i>
 - 🛖 Canal Houses <i>(Grachtenpanden)</i>
 - 🛖 Dutch Windmills <i>(Windmolens)</i>
-- 🏃🏻 Cycling Tradition <i>(Het Fietsen)</i>
+<!-- hofje -->
+- 🏃🏻 Utility Cycling Tradition <i>(Het Fietsen)</i>
 - 🏃🏻 Iceboating Tradition <i>(IJszeilen)</i>
 - 🏓 Sjoelen Game <i>(Sjoelen)</i>
 - 🪕 Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
@@ -253,7 +254,7 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
   - ⛵ Skûtsje Boats <i>(Skûtsje / Skûtsjes)</i>
   - 🏃🏻 Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
   - 🏃🏻 Fierljeppen Tradition <i>(Polsstokverspringen / Fierljeppen)</i> 
-  - 🏃🏻 Frisian Handball Tradition <i>(Kaatsen / Keatsen)</i> 
+  - 🏓 Frisian Handball Tradition <i>(Kaatsen / Keatsen)</i> 
   - 👘 Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
 - 🏰 Heritage of the Frisian Peasant Republics <i>(Friese Vrijheid / Fryske Frijheid)</i>
 

@@ -224,7 +224,7 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🥙 Potthucke <i>(Puffert)</i>
 - 🥘 Himmel und Erde <i>(Himmel un Ääd)</i>
 - 🫓 Pumpernickel <i>(Pumpernickel)</i>
-- 🍶 Kölsch Beer <i>(Brands: "Gaffel Kölsch", "Früh Kölsch")</i>
+- 🍶 Kölsch Ale <i>(Brands: "Gaffel Kölsch", "Früh Kölsch")</i>
 </br>
 <u>Bavaria - Regional Special:</u>
 - 🥓 Gelbwurst <i>(Gelbwurst / Gelbwuascht)</i> 

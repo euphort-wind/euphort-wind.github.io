@@ -92,7 +92,7 @@ Hej! Here's a glimpse into my experiences in the beautiful Åland Islands, which
 - 🍰 Åland Pancake <i>(Ålandspannkaka)</i>
 - 🧀 Kastelholms Cheese <i>(Kastelholmsost)</i>
 - 🫓 Mustaleipä Bread <i>(Åländskt Svartbröd)</i>
-- 🍶 Åland Beer <i>(Brand: "Stallhagen")</i>
+- 🍶 Åland Lager Beer <i>(Brand: "Stallhagen")</i>
 - 🍶 Åland Apple Juice <i>(Brand: "Grannas Äppel Åland")</i>
 
 

@@ -128,7 +128,7 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - 🍰 Šakotis <i>(Šakotis)</i>
 - 🍰 Apple Cheese <i>(Obuolių Sūris)</i>
 - 🍰 Tinginys <i>(Tinginys)</i>
-- 🍶 Lithuanian Beer <i>(Brand: "Kalnapilis")</i>
+- 🍶 Lithuanian Lager Beer <i>(Brand: "Kalnapilis")</i>
 </br> 
 <u>Vilnius - Regional Special:</u> 
 - 🥙 Karaite Kibinai <i>(Kibinai / Kybynlar)</i>
@@ -146,7 +146,6 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - 👑 Title of Kriwe <i>(Krivis)</i>
 - 🏺 Roofed Poles <i>(Stogastulpiai)</i>
 - 🛠️ Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
-- 🛠️ Lithuanian Black Pottery <i>(Lietuviška Juodoji Keramika)</i>
 - 🎨 Sodai Straw Gardens <i>(Šiaudinių Sodų Tradicija)</i>
 - 🏓 Ritinis Game <i>(Ritinis)</i>
 - 🏃🏻 Ristynės Tradition <i>(Ristynės)</i>
@@ -156,12 +155,17 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - 🧝 Legacy of Ancient Lithuanians <i>(Senlietuviai / Литъва)</i>
 - 🧝 Legacy of Ancient Samogitians <i>(Žemaičiai / Жемойти)</i>
 - 🏰 Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžioji Kunigaikštystė)</i><br>
+<u>Kaunas - Regional Special:</u>
+- 🏛️ Kaunas Modernist Architecture <i>(Tarpukario Kauno Architektūra)</i>
+<br>
 <u>Vilnius - Regional Special:</u>
+- 🏛️ Vilnian Baroque Architecture <i>(Vilnietiškas Barokas)</i>
 - 👲 Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
   - 🕯️ Karaism <i>(Karaizmas / Karaj Din)</i>
   - 👑 Title of Karaite Hakham <i>(Karaimų Hachanas / Karaj Ḥakham)</i>
-  - 🛖 Kenesas <i>(Kinesė / Kieniesalar)</i>
+  - 🛖 Wooden Kenesas <i>(Kinesė / Kieniesalar)</i>
   - 🛖 Karaite Three-Window Houses <i>(Karaimų Namai / Karaj Üvleri)</i>
+
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
