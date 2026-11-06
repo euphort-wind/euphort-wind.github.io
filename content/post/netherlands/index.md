@@ -240,7 +240,7 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🕰️ Brimstone <i>(Brimstone)</i>. Year: 2016. Genre: history / thriller
 - 🕵️ The Judgement <i>(De Veroordeling)</i>. Year: 2020. Genre: thriller
 - 👾 Father and Daughter <i>(Vader en Dochter)</i>. Year: 2000. Genre: animation / short
-- 🕰️ A Beautiful Imperfection <i>(Een Schitterend Gebrek)</i>. Year: 2024. Genre: history / drama
+- 🕰️ A Beautiful Imperfection <i>(Een Schitterend Gebrek)</i>. Year: 2024. Genre: drama
 
 
 <b>🪔 Authentic features:</b>
@@ -271,7 +271,7 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
   - ⛵ Fluyts <i>(Fluitschepen)</i>
   - 🏘️ Weigh Houses <i>(Waaggebouwen)</i>
   - 🛠️ Leiden Cloth Production <i>(Leidse Lakenproductie)</i>
-  - 🎨 Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
+  - 🎨 Dutch Golden Age Painting <i>(Gouden Eeuw Nederlandse Schilderkunst)</i>
   - 🎭 Rederijkers & Rederijker Plays <i>(Rederijkers en Rederijkerstoneel)</i> 
   - 💃 Matelotte Dance <i>(Matelotte-Dans)</i>
 - ⛰️ Dutch Canals <i>(Kanalen)</i>
@@ -319,9 +319,9 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🎪 Rotterdam Summer Carnival <i>(Zomercarnaval)</i>. Month: July<br>
 <u>Friesland - Regional Special:</u> 
 - 🎪 Oerol Festival <i>(Oerol / Oerol)</i>. Month: June
+- 🤸 Skûtsjesilen <i>(Skûtsjesilen / Skûtsjesilen)</i>. Month: July or August
 - 🤸 Elfstedentocht <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February
 - 🤸 Frisian Balloon Festival <i>(Friese Ballonfeesten / Frysk Ballonfestival)</i>. Month: July
-- 🤸 Skûtsjesilen <i>(Skûtsjesilen / Skûtsjesilen)</i>. Month: July or August
 
 <b>💐 National flower: </b> 
 - <b><i>[historically]</i> Tulip <i>(Tulp)</i></b>  
