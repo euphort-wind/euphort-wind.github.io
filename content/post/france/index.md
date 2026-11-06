@@ -63,7 +63,6 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 
 {{< spoiler text="Click to view" >}}
 1. Paris
-   
     - Louvre Museum <i>(Musée du Louvre)</i>
     - Eiffel Tower <i>(Tour Eiffel)</i>
     - Hôtel des Invalides <i>(Hôtel des Invalides)</i>
@@ -110,7 +109,7 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
     - Toulouse-Matabiau Station <i>(Toulouse-Matabiau)</i>
     - Basilica of Saint-Sernin <i>(Basilique Saint-Sernin de Toulouse)</i>
 4. Albi
-    - Old Town Albi <i>(Vieille d'Albi)</i>
+    - Albi Old Town <i>(Vieille d'Albi)</i>
     - Pont-Vieux d'Albi <i>(Pont-Vieux d'Albi)</i>
     - Berbie Palace <i>(Palais de la Berbie)</i> 
     - Albi City Hall <i>(Hôtel de Ville d'Albi)</i>
@@ -160,7 +159,7 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🇫🇷 Disiz (rapper). Genre: hip-hop
 - 🇫🇷 Ysa Ferrer (singer). Genre: pop rock
 - 🇺🇳 David Guetta (DJ). Genre: house
-- 🇺🇳 Duft Punk (DJ). Genre: french house
+- 🇺🇳 Daft Punk (DJ). Genre: french house
 - 🇺🇳 Bob Sinclar (DJ). Genre: house
 - 🇺🇳 DJ Snake (DJ). Genre: trap
 - 🇺🇳 Remzcore (DJ). Genre: frenchcore
@@ -189,7 +188,7 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🥗 Terrine <i>(Terrine)</i>
 - 🥗 Foie Gras <i>(Foie Gras)</i>
 - 🥗 Steak Tartare <i>(Steak Tartare)</i>
-- 🥗 French Egg Dishes <i>(Plats Français à Base d'Œufs)</i>
+- 🥗 French Egg-Based Dishes <i>(Plats Français à Base d'Œufs)</i>
     - 🥗 Oeuf Mayonnaise <i>(Œuf Mayonnaise)</i>
     - 🥘 Poached Egg <i>(Œuf Poché)</i>
     - 🥘 Omelette <i>(Omelette)</i>
@@ -198,12 +197,11 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🥙 Croque Madame <i>(Croque Madame)</i>
 - 🥙 French Toast <i>(Pain Perdu)</i>
 - 🍲 French Onion Soup <i>(Soupe à l’Oignon)</i>
-- 🍲 Vichyssoise <i>(Vichyssoise)</i>
 - 🍲 Consommé <i>(Consommé)</i>
 - 🥘 Gratin Dauphinois <i>(Gratin Dauphinois)</i>
 - 🥘 Anna Potatoes <i>(Pommes Anna)</i>
 - 🥘 Tartiflette <i>(Tartiflette)</i>
-- 🥘 French Frog Legs <i>(Cuisses de Grenouille)</i>
+- 🥘 Frog Legs <i>(Cuisses de Grenouille)</i>
 - 🥘 Steak au Poivre <i>(Steak au Poivre)</i>
 - 🥘 Coq au Vin <i>(Coq au Vin)</i>
 - 🥘 Magret de Canard <i>(Magret de Canard)</i>
@@ -311,7 +309,6 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🥊 Taken <i>(L'Enlèvement)</i>. Year: 2008. Genre: action / thriller 
 - 🕵️ Counter Investigation <i>(Contre-Enquête)</i>. Year: 2008. Genre: thriller / crime
 - 🪄 Asterix and Obelix vs. Caesar <i>(Astérix & Obélix contre César)</i>. Year: 1999. Genre: comedy / fantasy 
-- 😀 Taxi <i>(Taxi)</i>. Year: 1998. Genre: comedy
 - 🥊 Léon: The Professional <i>(Léon)</i>. Year: 1994. Genre: action / drama
 - 🥹 Dr. Knock <i>(Knock)</i>. Year: 2017. Genre: drama / comedy 
 - 🥹 Umami <i>(Umami)</i>. Year: 2017. Genre: drama / comedy
@@ -409,18 +406,22 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Bastille Day <i>(Fête Nationale Française)</i>. Month: July
-- Fête de la Musique <i>(Fête de la Musique)</i>. Month: June
-- Beaujolais Nouveau Day <i>(Journée du Beaujolais Nouveau)</i>. Month: November<br>
+- 🗽 Bastille Day <i>(Fête Nationale Française)</i>. Month: July
+- 🎸 Fête de la Musique <i>(Fête de la Musique)</i>. Month: June<br>
 <u>Île-de-France - Regional Special:</u> 
-- Nuit Blanche Festival <i>(Nuit Blanche)</i>. Month: November<br>
+- 🎪 Paris Carnival <i>(Carnaval de Paris)</i>. Month: February or March
+- 🎪 Nuit Blanche Festival <i>(Nuit Blanche)</i>. Month: November
+- 🫕 Montmartre Grape Harvest Festival <i>(Fête des Vendanges de Montmartre)</i>. Month: October<br>
 <u>Occitania - Regional Special:</u> 
-- Estivada <i>(L'Estivada / L'Estivada)</i>. Month: July<br>
+- 🎪 Estivada <i>(L'Estivada / L'Estivada)</i>. Month: July<br>
 <u>Provence-Alpes-Côte d'Azur - Regional Special:</u> 
-- Fête des Cougourdons <i>(Fête des Cougourdons / Festin dei Cougourdouns)</i>. Month: March<br>
+- 🎪 Nice Carnival <i>(Carnaval de Nice / Carnaval de Nissa)</i>. Month: February
+- 🫕 Fête du Citron <i>(Fête du Citron / Festival de Limòn)</i>. Month: February
+- 🎪 Fête des Cougourdons <i>(Fête des Cougourdons / Festin dei Cougourdouns)</i>. Month: March
+
 
 <b>💐 National flower: </b> 
-- Yellow Iris <i>(Iris des Marais)</i><br>
+- <b>Yellow Iris <i>(Iris des Marais)</i></b><br>
 <u>Occitania - Regional Special:</u> 
 - Toulouse Violet <i>(Violette de Toulouse / Violeta de Tolosa)</i><br>
 <u>Provence-Alpes-Côte d'Azur - Regional Special:</u> 
