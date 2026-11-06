@@ -138,7 +138,7 @@ Hej! Here's a glimpse into my experiences in elegant Luxembourg, which I visited
 
 
 <b>💐 National flower: </b> 
-- <b>Floribunda Rose <i>(Anne Beffort Rose)</i></b>
+- <b><i>[unofficially]</i> Floribunda Rose <i>(Anne Beffort Rose)</i></b>
 
 
 <b>🦉 Local wisdom:</b> "You should not give up as long as you still have some dumplings in the pot." / <i>"Et muss ee sech net ginn, soulaang nach Kniddelen am Dëppe sinn."</i> — Luxembourgish proverb

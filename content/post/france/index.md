@@ -201,6 +201,7 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🥘 Gratin Dauphinois <i>(Gratin Dauphinois)</i>
 - 🥘 Anna Potatoes <i>(Pommes Anna)</i>
 - 🥘 Tartiflette <i>(Tartiflette)</i>
+- 🥘 Matelote <i>(Matelote)</i>
 - 🥘 Frog Legs <i>(Cuisses de Grenouille)</i>
 - 🥘 Steak au Poivre <i>(Steak au Poivre)</i>
 - 🥘 Coq au Vin <i>(Coq au Vin)</i>
@@ -249,18 +250,18 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🧀 Langres Cheese <i>(Langres)</i>
 - 🧀 Tomme <i>(Tomme)</i>
 - 🧀 Morbier <i>(Morbier)</i>
-- 🥫  Mayonnaise <i>(Mayonnaise)</i>
-- 🥫  Hollandaise <i>(Sauce Hollandaise)</i>
-- 🥫  Béchamel <i>(Sauce Béchamel)</i>
-- 🥫  Remoulade <i>(Rémoulade)</i>
-- 🥫  Béarnaise <i>(Sauce Béarnaise)</i>
-- 🥫  Aioli <i>(Aïoli)</i>
-- 🥫  Demi-Glace <i>(Sauce Demi-Glace)</i>
-- 🥫  Tartar Sauce <i>(Sauce Tartare)</i>
-- 🥫  Beurre Noisette <i>(Beurre Noisette)</i>
-- 🥫  Beurre Blanc <i>(Beurre Blanc)</i>
-- 🥫  Dijon Mustard <i>(Moutarde de Dijon)</i>
-- 🥫  Sauce Vierge <i>(Sauce Vierge)</i>
+- 🥫 Mayonnaise <i>(Mayonnaise)</i>
+- 🥫 Hollandaise <i>(Sauce Hollandaise)</i>
+- 🥫 Béchamel <i>(Sauce Béchamel)</i>
+- 🥫 Remoulade <i>(Rémoulade)</i>
+- 🥫 Béarnaise <i>(Sauce Béarnaise)</i>
+- 🥫 Aioli <i>(Aïoli)</i>
+- 🥫 Demi-Glace <i>(Sauce Demi-Glace)</i>
+- 🥫 Tartar Sauce <i>(Sauce Tartare)</i>
+- 🥫 Beurre Noisette <i>(Beurre Noisette)</i>
+- 🥫 Beurre Blanc <i>(Beurre Blanc)</i>
+- 🥫 Dijon Mustard <i>(Moutarde de Dijon)</i>
+- 🥫 Sauce Vierge <i>(Sauce Vierge)</i>
 - 🫓 Baguette <i>(Baguette)</i>
 - 🫓 Vol-au-Vent <i>(Vol-au-Vent)</i>
 - 🫓 Crouton <i>(Croûton)</i>
@@ -298,17 +299,15 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 
 <b>🎬 Local movies:</b>
 - 🥹 The Intouchables <i>(Intouchables)</i>. Year: 2011. Genre: drama / comedy
-- 🕰️ The Count of Monte Cristo <i>(Le Comte de Monte-Cristo)</i>. Year: 2011. Genre: thriller / history
 - 🥹 La Belle Époque <i>(La Belle Époque)</i>. Year: 2019. Genre: drama / comedy
 - 🕵️ Black Box <i>(Boîte Noire)</i>. Year: 2021. Genre: thriller / drama
 - 🥹 Delicious <i>(Délicieux)</i>. Year: 2021. Genre: drama / comedy 
 - 🥊 Dogman <i>(DogMan)</i>. Year: 2023. Genre: action / thriller
 - 🕰️ Jeanne du Barry <i>(Jeanne du Barry)</i>. Year: 2023. Genre: drama / history
 - 🥹 CODA: Child of Deaf Adults <i>(CODA)</i>. Year: 2021. Genre: drama / comedy
-- 🥹 Two Is a Family <i>(Demain tout Commence)</i>. Year: 2016. Genre: drama / comedy
+- 🥹 Two Is a Family <i>(Demain tout Commence)</i>. Year: 2016. Genre: drama
 - 🥊 Taken <i>(L'Enlèvement)</i>. Year: 2008. Genre: action / thriller 
 - 🕵️ Counter Investigation <i>(Contre-Enquête)</i>. Year: 2008. Genre: thriller / crime
-- 🪄 Asterix and Obelix vs. Caesar <i>(Astérix & Obélix contre César)</i>. Year: 1999. Genre: comedy / fantasy 
 - 🥊 Léon: The Professional <i>(Léon)</i>. Year: 1994. Genre: action / drama
 - 🥹 Dr. Knock <i>(Knock)</i>. Year: 2017. Genre: drama / comedy 
 - 🥹 Umami <i>(Umami)</i>. Year: 2017. Genre: drama / comedy
@@ -316,11 +315,13 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🕵️ Lupin <i>(Lupin)</i>. Year: 2002. Genre: thriller / action (series)
 - 🕰️ The School of Life <i>(L'école Buissonnière)</i>. Year: 2017. Genre: history / drama 
 - 😀 Lost in Paris <i>(Paris pieds Nus)</i>. Year: 2016. Genre: comedy
-- 🕰️ The Messenger: The Story of Joan of Arc <i>(Jeanne d'Arc)</i>. Year: 1999. Genre: history / action
-- 👾 Arthur and the Minimoys <i>(Arthur et les Minimoys)</i>. Year: 2006. Genre: animation
 - 🥹 The Specials <i>(Hors Normes)</i>. Year: 2019. Genre: drama
 - 🥹 Colours of Time <i>(La Venue de l'Avenir)</i>. Year: 2025. Genre: drama
 - 🥹 The Taste of Things <i>(La passion de Dodin Bouffant)</i>. Year: 2023. Genre: drama
+- 🕰️ The Count of Monte Cristo <i>(Le Comte de Monte-Cristo)</i>. Year: 2024. Genre: thriller / history
+- 🕰️ The Story of Joan of Arc <i>(Jeanne d'Arc)</i>. Year: 1999. Genre: history / action
+- 👾 Arthur and the Minimoys <i>(Arthur et les Minimoys)</i>. Year: 2006. Genre: animation
+- 🪄 Asterix and Obelix vs. Caesar <i>(Astérix & Obélix contre César)</i>. Year: 1999. Genre: comedy / fantasy 
 - 🥊 Lucy <i>(Lucy)</i>. Year: 2014. Genre: action / thriller
 
 

@@ -65,42 +65,55 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
     - Damrak Street <i>(Damrak)</i>
     - Dam Square <i>(De Dam)</i>
     - Spui Square <i>(Spui)</i>
+    - Oude Kerk <i>(Oude Kerk)</i>
     - Begijnhof <i>(Begijnhof)</i>
     - Singel Canal <i>(Singel)</i>
     - Flower Market <i>(Bloemenmarkt)</i>
     - Muntplein Square <i>(Muntplein)</i>
-    - Kloveniersburgwal Canal <i>(Kloveniersburgwal)</i>
     - Dutch National Museum <i>(Rijksmuseum)</i>
+    - Anne Frank House <i>(Anne Frank Huis)</i>
+    - Van Gogh Museum <i>(Van Gogh Museum)</i>
     - Red Light District <i>(De Wallen)</i>
+    - Kloveniersburgwal Canal <i>(Kloveniersburgwal)</i>
+    - Royal Palace Amsterdam <i>(Koninklijk Paleis Amsterdam)</i>
 2. Haarlem
     - Grote Markt <i>(De Grote Markt)</i>
     - Windmill de Adriaan <i>(De Adriaan)</i>
     - Gravestenenbrug <i>(Gravestenenbrug)</i>
-    - Teylers Hofje <i>(Teylershofje)</i>  
+    - Teylers Hofje <i>(Teylershofje)</i> 
+    - Teylers Museum <i>(Teylers Museum)</i>
+    - Grote St. Bavokerk <i>(Grote Kerk)</i>
     - Amsterdamse Port <i>(Amsterdamse Poort)</i> 
     - Koepelgevangenis <i>(Koepelgevangenis)</i> 
+    - Frans Hals Museum <i>(Frans Hals Museum)</i>
 3. Utrecht
     - Zeven Steegjes <i>(De Zeven Steegjes)</i> 
-    - St. Marie’s Cloister Garden <i>(Kloostergang van Mariakerk)</i> 
     - Grand Hotel Karel V <i>(Grand Hotel Karel V)</i> 
     - De Inktpot <i>(De Inktpot)</i> 
     - Central Museum <i>(Centraal Museum)</i> 
     - St. Martin's Cathedral <i>(Dom van Utrecht)</i> 
     - Dom Tower <i>(Domtoren)</i>
+    - Railway Museum <i>(Spoorwegmuseum)</i>
+    - DOMunder Archaeological Experience <i>(DOMunder)</i>
+    - St. Marie’s Cloister Garden <i>(Kloostergang van Mariakerk)</i> 
 4. Leiden
-    - Academy Building of Leiden University <i>(Academiegebouw)</i>
     - Museum De Valk <i>(Museum De Valk)</i>
     - Burcht van Leiden <i>(Burcht van Leiden)</i>
     - Pieterskerk <i>(Pieterskerk)</i>
     - Leiden City Hall <i>(Stadhuis)</i>
     - Leiden Weigh House <i>(De Waag)</i>
     - Hooglandse Church <i>(Hooglandse Kerk)</i>
-    - Korenbeurs Bridge <i>(Koornbrug)</i>
+    - Korenbeurs Bridge <i>(Koornbrug)</i>    
+    - Leiden University <i>(Universiteit Leiden)</i>
+    - Hortus Botanicus <i>(Hortus Botanicus)</i>
+    - Rapenburg Canal <i>(Rapenburg)</i>
+    - Homunculus Loxodontus Statue <i>(Homunculus Loxodontus)</i> 
 5. Leeuwarden
     - Oldehove <i>(Oldehove)</i>
     - Fries Museum <i>(Fries Museum)</i>
     - Blokhuis <i>(De Blokhuispoort)</i>
     - Kanselarij <i>(De Kanselarij)</i>
+    - Prince's Garden <i>(De Prinsentuin)</i>
     - Hoofdpostkantoor <i>(Hoofdpostkantoor)</i>
     - Kleine Kerkstraat Street <i>(De Kleine Kerkstraat)</i>
     - Frisian Museum of Natural History <i>(Natuurmuseum Fryslân)</i>
@@ -109,12 +122,16 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
     - Binnenhof <i>(Binnenhof)</i>
     - Mauritshuis <i>(Mauritshuis)</i>
     - Scheveningen Pier <i>(Scheveningse Pier)</i>
-    - Kurhaus of Scheveningen <i>(Grand Hotel Amrâth Kurhaus Den Haag)</i>
     - Lange Voorhout <i>(Lange Voorhout)</i>
     - Peace Palace <i>(Vredespaleis)</i>
-    - Kunstmuseum Den Haag <i>(Kunstmuseum Den Haag)</i>
     - Passage <i>(De Passage)</i>
     - Grote Markt <i>(De Grote Markt)</i>
+    - Panorama Mesdag <i>(Panorama Mesdag)</i>
+    - Noordeinde Palace <i>(Paleis Noordeinde)</i>
+    - Kunstmuseum Den Haag <i>(Kunstmuseum Den Haag)</i>
+    - Kurhaus of Scheveningen <i>(Grand Hotel Amrâth Kurhaus Den Haag)</i>
+    - Escher in the Palace <i>(Escher in Het Paleis)</i>
+    - Prison Gate Museum <i>(Museum de Gevangenpoort)</i>
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
@@ -134,13 +151,14 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
 - 🇺🇳 Ferry Corsten (DJ). Genre: uplifting trance
 - 🇺🇳 Ruben de Ronde (DJ). Genre: trance
 - 🇺🇳 Martin Garrix (DJ). Genre: big room
-- 🇺🇳 Oliver Heldens / HI-LO (DJ). Genre: future house
+- 🇺🇳 Oliver Heldens (DJ). Genre: future house
+- 🇺🇳 HI-LO (DJ). Genre: bass house
 - 🇺🇳 Don Diablo (DJ). Genre: future house
 - 🇺🇳 Hardwell (DJ). Genre: dutch house
 - 🇺🇳 R3hab (DJ). Genre: dutch house
 - 🇺🇳 Fedde le Grand (DJ). Genre: dutch house
 - 🇺🇳 Nicky Romero (DJ). Genre: progressive house 
-- 🇺🇳 Sander van Doorn (DJ). Genre: progressive house 
+- 🇺🇳 Sander van Doorn (DJ). Genre: electro house 
 - 🇺🇳 Eelke Klejn (DJ). Genre: progressive house
 - 🇺🇳 W&W (DJ duo). Genre: big room
 - 🇺🇳 Vicetone (DJ duo). Genre: dutch house
@@ -155,6 +173,8 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
 - 🇺🇳 Sharon den Adel (singer). Genre: trance 
 - 🇺🇳 Kensington (band). Genre: rock
 - 🇺🇳 Rondé (band). Genre: indie pop
+- 🇺🇳 Radical Redemption (DJ). Genre: rawstyle
+
 
 
 <b>🎚️ Contribution to Electronic Music: </b>
@@ -163,6 +183,7 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
 - Uplifting Trance. Originated: mid-1990s
 - Dutch House. Originated: late 2000s
 - Big Room. Originated: late 2000s
+- Rawstyle. Originated: early 2010s
 - Jungle Terror. Originated: early 2010s
 - Future Bounce. Originated: mid-2010s
 
@@ -184,93 +205,132 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
 - 🍰 Gevulde Koek <i>(Gevulde Koek)</i>
 - 🍰 Tompouce <i>(Tompoes)</i>
 - 🍰 Speculoos <i>(Speculaas)</i>
+- 🍰 Kletskop <i>(Kletskop)</i>
 - 🍰 Oliebol <i>(Oliebol)</i>
 - 🍰 Hagelslag <i>(Hagelslag)</i> 
 - 🍰 Stroopwafel <i>(Stroopwafel)</i>
-- 🧀 Gouda <i>(Goudse Kaas)</i>
-- 🧀 Edam <i>(Edammer)</i>
 - 🧀 Maasdam <i>(Maasdamer)</i>
 - 🧀 Boerenkaas <i>(Boerenkaas)</i> 
 - 🍶 Jenever <i>(Brand: "Bols Zeer Oude")</i>
 </br>
 <u>North Holland - Regional Special:</u> 
 - 🥓 Ossenworst <i>(Ossenworst)</i>
+- 🧀 Gouda <i>(Goudse Kaas)</i>
+- 🧀 Edam <i>(Edammer)</i>
 </br>
 <u>Utrecht - Regional Special:</u> 
 - 🍰 Utrechtse Spritsen <i>(Utrechtse Spritsen)</i>
+- 🧀 Leerdammer <i>(Leerdammer)</i>  
 </br>
 <u>South Holland - Regional Special:</u> 
 - 🥘 Hutspot <i>(Hutspot)</i>
+- 🥘 Kapsalon <i>(Kapsalon)</i>
+- 🍰 Haagse Bluf <i>(Haagse Bluf)</i>
 </br>
-<u>Friesland - Regional Special:</u> 
+<u>Friesland - Regional Special:</u>
 - 🍰 Oranjekoek <i>(Oranjekoek / Oranjekoeke)</i>
-- 🍰 Fryske Dúmkes <i>(Fryske Dúmkes / Fryske Dúmkes)</i>
+- 🍰 Fryske Dúmkes <i>(Fryske Dúmkes / Dúmkes)</i>
 - 🍰 Suikerbrood <i>(Suikerbrood / Sûkerbôle)</i>
+- 🧀 Kanterkaas <i>(Kanterkaas / Kanterkaas)</i>
+
+
 
 <b>🎬 Local movies:</b>
-- The Wild City <i>(De Wilde Stad)</i>. Year: 2018. Genre: documentary
-- Borgman <i>(Borgman)</i>. Year: 2013. Genre: psy thriller
-- The Judgement <i>(De Veroordeling)</i>. Year: 2020. Genre: thriller
-- A Beautiful Imperfection <i>(Een Schitterend Gebrek)</i>. Year: 2024. Genre: drama
-- The Columnist <i>(De Kuthoer)</i>. Year: 2019. Genre: black comedy
-- Neem me Mee <i>(Neem me Mee)</i>. Year: 2023. Genre: comedy
-- Brimstone <i>(Brimstone)</i>. Year: 2016. Genre: thriller
-- Father and Daughter <i>(Vader en Dochter)</i>. Year: 2000. Genre: animation / short
-- Daylight <i>(Daglicht)</i>. Year: 2013. Genre: thriller
+- 🕵️ Borgman <i>(Borgman)</i>. Year: 2013. Genre: thriller 
+- 🕵️ Daylight <i>(Daglicht)</i>. Year: 2013. Genre: thriller
+- 😀 Neem me Mee <i>(Neem me Mee)</i>. Year: 2023. Genre: comedy
+- 🌚 The Columnist <i>(De Kuthoer)</i>. Year: 2019. Genre: black comedy
+- 📝 The Wild City <i>(De Wilde Stad)</i>. Year: 2018. Genre: documentary
+- 🕰️ Brimstone <i>(Brimstone)</i>. Year: 2016. Genre: history / thriller
+- 🕵️ The Judgement <i>(De Veroordeling)</i>. Year: 2020. Genre: thriller
+- 👾 Father and Daughter <i>(Vader en Dochter)</i>. Year: 2000. Genre: animation / short
+- 🕰️ A Beautiful Imperfection <i>(Een Schitterend Gebrek)</i>. Year: 2024. Genre: history / drama
 
 
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: Gezelligheid <i>(Gezelligheid)</i>
-- 🏘️ Canal Houses <i>(Grachtenpanden)</i>
+- 🦉 Concept: Poldermodel <i>(Poldermodel)</i>
+- ⛵ Tjalk Boats <i>(Tjalken)</i>
 - 🏘️ Dutch Windmills <i>(Windmolens)</i>
-<!-- hofje -->
+- 🏘️ Canal Houses <i>(Grachtenpanden)</i>
+- 🏘️ Hofjes <i>(Hofjes)</i>
+- 🏛️ De Stijl Architecture <i>(De Stijl Architectuur)</i>
+- 🛠️ Milling Craft <i>(Molenaarsambacht)</i>
+- 🎨 De Stijl Painting <i>(De Stijl Schilderkunst)</i>
 - 🏃🏻 Utility Cycling Tradition <i>(Het Fietsen)</i>
 - 🏃🏻 Iceboating Tradition <i>(IJszeilen)</i>
 - 🏓 Sjoelen Game <i>(Sjoelen)</i>
+- 🎑 Haringhappen Ritual <i>(Haringhappen)</i>
+- 🎑 Carbidschieten Ritual <i>(Carbidschieten)</i>
+- 💃 Klompen Dance <i>(Klompendansen)</i>
 - 🪕 Musical Instrument: Dutch Barrel Organ <i>(Draaiorgel)</i> 
 - 👘 Garb: Dutch Cap & Klomps <i>(Nederlandse Hul en Klompen)</i>
+- 🧝 Legacy of Batavians <i>(Bataven)</i>
 - 🏰 Heritage of the Dutch Republic <i>(Republiek der Zeven Verenigde Nederlanden)</i>
+  - 🕯️ Arminianism <i>(Arminianisme)</i>
   - 🐦‍🔥 Folklore of the Low Countries <i>(Volksverhalen van Nederland)</i>
   - 👑 Title of Stadtholder <i>(Stadhouder)</i>
-  - ⛵ Dutch Barge Boats <i>(Schuit)</i>
-  - 🏛️ Dutch Baroque Architecture <i>(Nederlandse Barokarchitectuur)</i>
+  - 👑 Title of Grand Pensionary <i>(Raadpensionaris)</i>
+  - 🏺 Kraantjeskans <i>(Kraantjeskannen)</i>
+  - ⛵ Fluyts <i>(Fluitschepen)</i>
+  - 🏘️ Weigh Houses <i>(Wagen)</i>
+  - 🛠️ Leiden Cloth Production <i>(Leidse Doekproductie)</i>
   - 🎨 Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
+  - 🎭 Rederijkers & Rederijker Plays <i>(Rederijkers en Rederijkerstoneel) 
+  - 💃 Matelotte Dance <i>(Matelotte-Dans) 
 - ⛰️ Dutch Canals <i>(Kanalen)</i>
-- ⛰️ Dutch Polders <i>(Polders)</i>
-<br>
-<u>Utrecht - Regional Special:</u> 
-- 🏛️ De Stijl Architecture <i>(De Stijl Architectuur)</i>
-- 🏰 Heritage of the Prince-Bishopric of Utrecht <i>(Sticht Utrecht / Episcopatus Ultraiectensis)</i>
-<br>
+- ⛰️ Dutch Polders <i>(Polders)</i><br>
+<u>North Holland - Regional Special:</u>
+- 🏛️ Amsterdam School Architecture <i>(Amsterdamse School Architectuur)</i><br>
 <u>South Holland - Regional Special:</u>
 - 🏺 Gouda Pipes <i>(Pijpaarde)</i>
+- 🏛️ New Hague School Architecture <i>(Nieuwe Haagse School Architectuur)</i>
 - 🎨 Leiden Wall Poems <i>(Muurgedichten in Leiden)</i>
 - 🎨 Delftware <i>(Delfts Blauw)</i>
+- 👘 Garb: Scheveningse Klederdracht <i>(Scheveningse Klederdracht)</i>
 - 🏰 Heritage of the County of Holland <i>(Graafschap Holland / Comitatus Hollandiae)</i>
 <br>
+<u>Utrecht - Regional Special:</u> 
+- 🏰 Heritage of the Prince-Bishopric of Utrecht <i>(Sticht Utrecht / Episcopatus Ultraiectensis)</i><br>
 <u>Friesland - Regional Special:</u> 
 - 👲 Culture of Frisians <i>(Friezen / Frysken)</i>
   - 🦉 Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
+  - 🏺 Frisian Chair Clocks <i>(Friese Stoelklokken  / Fryske Stoelklokken)</i>
   - ⛵ Skûtsje Boats <i>(Skûtsje / Skûtsjes)</i>
+  - 🏘️ Klokkenstoels <i>(Klokkenstoelen / Klokkestuollen)</i>
+  - 🎨 Hindelooper Painting <i>(Hindelooper Schilderkunst / Hylper Skilderkeunst)</i>
   - 🏃🏻 Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
   - 🏃🏻 Fierljeppen Tradition <i>(Polsstokverspringen / Fierljeppen)</i> 
-  - 🏓 Frisian Handball Tradition <i>(Kaatsen / Keatsen)</i> 
+  - 🏓 Frisian Handball <i>(Kaatsen / Keatsen)</i> 
+  - 🏓 Klootschieten <i>(Klootschieten / Klootsjitten)</i> 
+  - 🏓 Frisian Draughts <i>(Fries Dammen / Frysk Damjen)</i> 
   - 👘 Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
 - 🏰 Heritage of the Frisian Peasant Republics <i>(Friese Vrijheid / Fryske Frijheid)</i>
+- ⛰️ Frisian Terps <i>(Friese Terpen / Fryske Terpen)</i>
+
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- King's Day <i>(Koningsdag)</i>. Month: April
-- Sinterklaas Feast <i>(Sinterklaas)</i>. Month: December<br>
+- 🗽 King's Day <i>(Koningsdag)</i>. Month: April
+- 🎪 Sinterklaas Feast <i>(Sinterklaas)</i>. Month: December
+- 🤸 Unox New Year's Dive <i>(Nieuwjaarsduik)</i>. Month: January
+<br>
+<u>North Holland - Regional Special:</u> 
+- 🎪 National Tulip Day <i>(Nationale Tulpendag)</i>. Month: January
+- 🎪 Holland Festival <i>(Holland Festival)</i>. Month: June<br>
 <u>South Holland - Regional Special:</u> 
-- 3 October Festival <i>(Leidens Ontzet)</i>. Month: October<br>
+- 🎪 3 October Festival <i>(Leidens Ontzet)</i>. Month: October
+- 🫕 Flag Day Scheveningen <i>(Vlaggetjesdag)</i>. Month: June
+- 🎪 Rotterdam Summer Carnival <i>(Zomercarnaval)</i>. Month: July<br>
 <u>Friesland - Regional Special:</u> 
-- Elfstedentocht Event <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February 
-
+- 🎪 Oerol Festival <i>(Oerol / Oerol)</i>. Month: June
+- 🤸 Elfstedentocht <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February
+- 🤸 Frisian Balloon Festival <i>(Friese Ballonfeesten / Frysk Ballonfestival)</i>. Month: July
+- 🤸 Skûtsjesilen <i>(Skûtsjesilen / Skûtsjesilen)</i>. Month: July or August
 
 <b>💐 National flower: </b> 
-- [historically] Tulip <i>(Tulp)</i> 
-- [officially] Daisy <i>(Madeliefje)</i><br>
+<b>- <i>[historically]</i> Tulip <i>(Tulp)</i></b>  
+<b>- <i>[officially]</i> Daisy <i>(Madeliefje)</i></b> <br>
 <u>Friesland - Regional Special:</u> 
 - Fringed Water-Lily <i>(Pompeblêd)</i>
 

@@ -67,11 +67,11 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
     - Egmont Park <i>(Parc Egmont / Egmontpark)</i>
     - Mont des Arts <i>(Mont des Arts / Kunstberg)</i>
     - Atomium <i>(Atomium / Atomium)</i>
+    - Brussels Park <i>(Parc de Bruxelles / Warandepark)</i>
     - Magritte Museum <i>(Musée Magritte / Magritte Museum)</i>
     - Comic Art Museum <i>(Centre Belge de la Bande Dessinée / Belgisch Stripmuseum)</i>
     - Palace of Justice <i>(Palais de Justice de Bruxelles / Justitiepaleis van Brussel)</i>
     - Royal Palace of Brussels <i>(Palais Royal de Bruxelles / Koninklijk Paleis van Brussel)</i>
-    - Brussels Park <i>(Parc de Bruxelles / Warandepark)</i>
     - Cathedral of Ss. Michael and Gudula <i>(Cathédrale Saints-Michel-et-Gudule / Kathedraal van Sint-Michiel en Sint-Goedele)</i>
     - Church of Our Lady of the Chapel <i>(Église Notre-Dame-de-la-Chapelle / Onze-Lieve-Vrouw-ter-Kapellekerk)</i>
 2.  Saint-Josse-ten-Noode
@@ -155,7 +155,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🍶 Belgian Ale <i>(Brands: "Leffe", "Delirium")</i>
 - 🍶 Belgian Kriek Lambic <i>(Brands: "Timmermans", "BOON")</i>
 - 🍶 Belgian Lager Beer <i>(Brands: "Stella Artois", "Jupiler")</i>
-- 🍶 Belgian Witbier <i>(Brands: "Hoegaarden", "Blanche de Brabant", "St. Bernardus Wit")</i>
+- 🍶 Belgian Witbier <i>(Brands: "Hoegaarden", "Blanche de Brabant")</i>
 </br>
 <u>Brussels-Capital - Regional Special:</u>
 - 🥗 Moules Parquées <i>(Moules Parquées / Geparkeerde  Mosselen)</i>
