@@ -265,8 +265,8 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🫓 Baguette <i>(Baguette)</i>
 - 🫓 Vol-au-Vent <i>(Vol-au-Vent)</i>
 - 🫓 Crouton <i>(Croûton)</i>
+- 🍶 Calvados <i>(Brand: "Anée Cuvée des Capucins")</i>
 - 🍶 Cognac <i>(Brands: "Courvoisier VS", "Hennessy XO", "Rémy Martin VSOP")</i> 
-- 🍶 Calvados <i>(Brand: "Anée Cuvée des Capucins")</i> 
 - 🍶 Champagne Wine <i>(Brand: "Dom Pérignon Blanc", "Moët & Chandon Brut Impérial")</i> 
 </br>
 <u>Île-de-France - Regional Special:</u> 

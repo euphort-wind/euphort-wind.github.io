@@ -52,7 +52,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visited in 2025. Below are some notes on what I tasted, saw, and listened to.
+Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I visited in 2025. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
@@ -83,7 +83,7 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
     - Teylers Hofje <i>(Teylershofje)</i> 
     - Teylers Museum <i>(Teylers Museum)</i>
     - Grote St. Bavokerk <i>(Grote Kerk)</i>
-    - Amsterdamse Port <i>(Amsterdamse Poort)</i> 
+    - Amsterdamse Poort <i>(Amsterdamse Poort)</i> 
     - Koepelgevangenis <i>(Koepelgevangenis)</i> 
     - Frans Hals Museum <i>(Frans Hals Museum)</i>
 3. Utrecht
@@ -115,7 +115,7 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
     - Kanselarij <i>(De Kanselarij)</i>
     - Prince's Garden <i>(De Prinsentuin)</i>
     - Hoofdpostkantoor <i>(Hoofdpostkantoor)</i>
-    - Kleine Kerkstraat Street <i>(De Kleine Kerkstraat)</i>
+    - Kleine Kerks Street <i>(De Kleine Kerkstraat)</i>
     - Frisian Museum of Natural History <i>(Natuurmuseum Fryslân)</i>
     - Saint Boniface Church <i>(Sint-Bonifatiuskerk)</i>
 6. The Hague
@@ -128,9 +128,9 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
     - Grote Markt <i>(De Grote Markt)</i>
     - Panorama Mesdag <i>(Panorama Mesdag)</i>
     - Noordeinde Palace <i>(Paleis Noordeinde)</i>
+    - Escher in the Palace <i>(Escher in Het Paleis)</i>
     - Kunstmuseum Den Haag <i>(Kunstmuseum Den Haag)</i>
     - Kurhaus of Scheveningen <i>(Grand Hotel Amrâth Kurhaus Den Haag)</i>
-    - Escher in the Palace <i>(Escher in Het Paleis)</i>
     - Prison Gate Museum <i>(Museum de Gevangenpoort)</i>
 {{< /spoiler >}}
 
@@ -159,7 +159,7 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
 - 🇺🇳 Fedde le Grand (DJ). Genre: dutch house
 - 🇺🇳 Nicky Romero (DJ). Genre: progressive house 
 - 🇺🇳 Sander van Doorn (DJ). Genre: electro house 
-- 🇺🇳 Eelke Klejn (DJ). Genre: progressive house
+- 🇺🇳 Eelke Kleijn (DJ). Genre: progressive house
 - 🇺🇳 W&W (DJ duo). Genre: big room
 - 🇺🇳 Vicetone (DJ duo). Genre: dutch house
 - 🇺🇳 Richard Durand (DJ). Genre: trance 
@@ -211,22 +211,18 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
 - 🍰 Stroopwafel <i>(Stroopwafel)</i>
 - 🧀 Maasdam <i>(Maasdamer)</i>
 - 🧀 Boerenkaas <i>(Boerenkaas)</i> 
-- 🍶 Jenever <i>(Brand: "Bols Zeer Oude")</i>
-</br>
+- 🍶 Jenever <i>(Brand: "Bols Zeer Oude")</i></br>
 <u>North Holland - Regional Special:</u> 
 - 🥓 Ossenworst <i>(Ossenworst)</i>
 - 🧀 Gouda <i>(Goudse Kaas)</i>
-- 🧀 Edam <i>(Edammer)</i>
-</br>
+- 🧀 Edam <i>(Edammer)</i></br>
 <u>Utrecht - Regional Special:</u> 
 - 🍰 Utrechtse Spritsen <i>(Utrechtse Spritsen)</i>
-- 🧀 Leerdammer <i>(Leerdammer)</i>  
-</br>
+- 🧀 Leerdammer <i>(Leerdammer)</i>  </br>
 <u>South Holland - Regional Special:</u> 
 - 🥘 Hutspot <i>(Hutspot)</i>
 - 🥘 Kapsalon <i>(Kapsalon)</i>
-- 🍰 Haagse Bluf <i>(Haagse Bluf)</i>
-</br>
+- 🍰 Haagse Bluf <i>(Haagse Bluf)</i></br>
 <u>Friesland - Regional Special:</u>
 - 🍰 Oranjekoek <i>(Oranjekoek / Oranjekoeke)</i>
 - 🍰 Fryske Dúmkes <i>(Fryske Dúmkes / Dúmkes)</i>
@@ -250,7 +246,7 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: Gezelligheid <i>(Gezelligheid)</i>
 - 🦉 Concept: Poldermodel <i>(Poldermodel)</i>
-- ⛵ Tjalk Boats <i>(Tjalken)</i>
+- ⛵ Tjalks <i>(Tjalken)</i>
 - 🏘️ Dutch Windmills <i>(Windmolens)</i>
 - 🏘️ Canal Houses <i>(Grachtenpanden)</i>
 - 🏘️ Hofjes <i>(Hofjes)</i>
@@ -273,23 +269,22 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
   - 👑 Title of Grand Pensionary <i>(Raadpensionaris)</i>
   - 🏺 Kraantjeskans <i>(Kraantjeskannen)</i>
   - ⛵ Fluyts <i>(Fluitschepen)</i>
-  - 🏘️ Weigh Houses <i>(Wagen)</i>
-  - 🛠️ Leiden Cloth Production <i>(Leidse Doekproductie)</i>
+  - 🏘️ Weigh Houses <i>(Waaggebouwen)</i>
+  - 🛠️ Leiden Cloth Production <i>(Leidse Lakenproductie)</i>
   - 🎨 Dutch Golden Age Painting <i>(Nederlandse Schilderkunst in de Gouden Eeuw)</i>
-  - 🎭 Rederijkers & Rederijker Plays <i>(Rederijkers en Rederijkerstoneel) 
-  - 💃 Matelotte Dance <i>(Matelotte-Dans) 
+  - 🎭 Rederijkers & Rederijker Plays <i>(Rederijkers en Rederijkerstoneel)</i> 
+  - 💃 Matelotte Dance <i>(Matelotte-Dans)</i>
 - ⛰️ Dutch Canals <i>(Kanalen)</i>
 - ⛰️ Dutch Polders <i>(Polders)</i><br>
 <u>North Holland - Regional Special:</u>
 - 🏛️ Amsterdam School Architecture <i>(Amsterdamse School Architectuur)</i><br>
 <u>South Holland - Regional Special:</u>
-- 🏺 Gouda Pipes <i>(Pijpaarde)</i>
+- 🏺 Gouda Clay Pipes <i>(Goudse Pijpen)</i>
 - 🏛️ New Hague School Architecture <i>(Nieuwe Haagse School Architectuur)</i>
 - 🎨 Leiden Wall Poems <i>(Muurgedichten in Leiden)</i>
 - 🎨 Delftware <i>(Delfts Blauw)</i>
 - 👘 Garb: Scheveningse Klederdracht <i>(Scheveningse Klederdracht)</i>
-- 🏰 Heritage of the County of Holland <i>(Graafschap Holland / Comitatus Hollandiae)</i>
-<br>
+- 🏰 Heritage of the County of Holland <i>(Graafschap Holland / Comitatus Hollandiae)</i><br>
 <u>Utrecht - Regional Special:</u> 
 - 🏰 Heritage of the Prince-Bishopric of Utrecht <i>(Sticht Utrecht / Episcopatus Ultraiectensis)</i><br>
 <u>Friesland - Regional Special:</u> 
@@ -305,6 +300,7 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
   - 🏓 Klootschieten <i>(Klootschieten / Klootsjitten)</i> 
   - 🏓 Frisian Draughts <i>(Fries Dammen / Frysk Damjen)</i> 
   - 👘 Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
+- 🧝 Legacy of Frisii <i>(Frisii / Frisii)</i>
 - 🏰 Heritage of the Frisian Peasant Republics <i>(Friese Vrijheid / Fryske Frijheid)</i>
 - ⛰️ Frisian Terps <i>(Friese Terpen / Fryske Terpen)</i>
 
@@ -313,8 +309,7 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
 <b>🎊 Authentic holidays & celebrations:</b>
 - 🗽 King's Day <i>(Koningsdag)</i>. Month: April
 - 🎪 Sinterklaas Feast <i>(Sinterklaas)</i>. Month: December
-- 🤸 Unox New Year's Dive <i>(Nieuwjaarsduik)</i>. Month: January
-<br>
+- 🤸 Unox New Year's Dive <i>(Nieuwjaarsduik)</i>. Month: January<br>
 <u>North Holland - Regional Special:</u> 
 - 🎪 National Tulip Day <i>(Nationale Tulpendag)</i>. Month: January
 - 🎪 Holland Festival <i>(Holland Festival)</i>. Month: June<br>
@@ -329,8 +324,8 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
 - 🤸 Skûtsjesilen <i>(Skûtsjesilen / Skûtsjesilen)</i>. Month: July or August
 
 <b>💐 National flower: </b> 
-<b>- <i>[historically]</i> Tulip <i>(Tulp)</i></b>  
-<b>- <i>[officially]</i> Daisy <i>(Madeliefje)</i></b> <br>
+- <b><i>[historically]</i> Tulip <i>(Tulp)</i></b>  
+- <b><i>[officially]</i> Daisy <i>(Madeliefje)</i></b> <br>
 <u>Friesland - Regional Special:</u> 
 - Fringed Water-Lily <i>(Pompeblêd)</i>
 
