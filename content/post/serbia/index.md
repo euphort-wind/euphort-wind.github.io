@@ -158,7 +158,7 @@ Hej! Here's a glimpse into my experiences in fascinating Serbia, which I visited
 - 🐦‍🔥 Serbian Folklore <i>(Српски Фолклор)</i>
 - 🏺 Čokanja Bottles <i>(Чокањи)</i>
 - 🚗 Serbian Cars <i>(Brand: "Zastava")</i>
-- 🛖 Vajat Houses <i>(Вајати)</i>
+- 🏘️ Vajat Houses <i>(Вајати)</i>
 - 🏛️ Morava-Style Architecture <i>(Моравски Стил)</i>
 - 🎨 Pirot Carpets <i>(Пиротски Ћилим)</i>
 - 🏃🏻 Narodno Rvanje Tradition <i>(Народно Рвање)</i>

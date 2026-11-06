@@ -213,7 +213,7 @@ Hej! Here's a glimpse into my experiences in invincible Poland, which I visited 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Polish Folklore <i>(Folklor Polski)</i>
 - 🏺 Kapliczka Shrines <i>(Kapliczki)</i>
-- 🛖 Polish Milk Bars <i>(Bary Mleczne)</i>
+- 🏘️ Polish Milk Bars <i>(Bary Mleczne)</i>
 - 🏛️ Polish Brick Gothic Architecture <i>(Gotyk Ceglany)</i>
 - 🛠️ Bolesławiec Pottery <i>(Ceramika Bolesławiecka)</i>
 - 🏓 Palant Game <i>(Palant)</i>
@@ -243,7 +243,7 @@ Hej! Here's a glimpse into my experiences in invincible Poland, which I visited 
 <u>Silesian - Regional Special:</u>
 - 🏺 Katowice Beboks <i>(Katowickie Beboki / Katowicke Beboki)</i>
 - 👲 Culture of Silesians <i>(Ślązacy / Ślůnzoki)</i>
-  - 🛖 Familok Houses <i>(Familoki / Familoki)</i>
+  - 🏘️ Familok Houses <i>(Familoki / Familoki)</i>
   - 🎑 Leading the Bear Ritual <i>(Wodzenie Niedźwiedzia / Wodzynie Bera)</i>
   - 💃 Trojak Dance <i>(Trojak / Trojok)</i>
   - 👘 Garb: Strój Rozbarski <i>(Strój Rozbarski / Rozbarske Ôblyczynie)</i>

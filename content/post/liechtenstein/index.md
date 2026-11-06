@@ -129,7 +129,7 @@ Hej! Here's a glimpse into my experiences in prosperous Liechtenstein, which I v
 <u>Triesenberg - Regional Special:</u> 
 - 👲 Culture of Walser People <i>(Walser)</i>
   - 🐦‍🔥 Walser Folklore <i>(Walser-Brauchtum)</i>
-  - 🛖 Walser Houses <i>(Walserhäuser)</i>
+  - 🏘️ Walser Houses <i>(Walserhäuser)</i>
   - 🛠️ Walser Woodcarving <i>(Walser-Holzschnitzerei)</i>
   - 👘 Garb: Walser Tracht <i>(Walser Tracht)</i>
 

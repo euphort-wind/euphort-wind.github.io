@@ -151,7 +151,7 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
 - 🐦‍🔥 Finnish Mythology <i>(Suomalainen Mytologia)</i>
 - 👑 System of Sukuseuras <i>(Sukuseurat)</i>
 - 🏺 Puukko Knives <i>(Puukko)</i>
-- 🛖 Finnish Saunas <i>(Suomalaiset Saunat)</i>
+- 🏘️ Finnish Saunas <i>(Suomalaiset Saunat)</i>
 - 🏛️ National Romantic Architecture <i>(Kansallisromanttinen Arkkitehtuuri)</i>
 - 🎨 Ryijy Tapestry <i>(Ryijy)</i>
 - 🏓 Pesäpallo Game <i>(Pesäpallo)</i>
@@ -167,7 +167,7 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
   - 🕯️ Sámi Shamanism <i>(Saamelainen Muinaisusko / Sámi Osku)</i>
   - 👑 System of Siida <i>(Lapinkylä / Siida)</i>
   - 🏺 Guksi Cups <i>(Kuksat / Guvssat)</i>
-  - 🛖 Lavvu Dwellings <i>(Umpilaavu / Lávvu)</i>
+  - 🏘️ Lavvu Dwellings <i>(Umpilaavu / Lávvu)</i>
   - 🎨 Duodji Handicraft <i>(Saamenkäsityö / Duodji)</i>
   - 🏓 Sáhkku Game <i>(Sáhkku / Sáhkku)</i>
   - 🏓 Dablo Game <i>(Dablo / Daablodh Prejjesne)</i>

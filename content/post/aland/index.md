@@ -103,7 +103,7 @@ Hej! Here's a glimpse into my experiences in the beautiful Åland Islands, which
 <b>🪔 Authentic features:</b>
 - 👑 Title of Lantråd <i>(Lantråd)</i>
 - 🏺 Votive Ships <i>(Votivskepp)</i>
-- 🛖 Åland Boathouses <i>(Åländska Båthus)</i>
+- 🏘️ Åland Boathouses <i>(Åländska Båthus)</i>
 - 🛠️ Åland Shipbuilding <i>(Åländsk Skeppsbyggnad)</i>
 - 💃 Åland Schottis Dance <i>(Ålandsschottis)</i>
 - ⛰️ Åland Red Granite Roads <i>(Vägar av Röd Åländsk Granit)</i>

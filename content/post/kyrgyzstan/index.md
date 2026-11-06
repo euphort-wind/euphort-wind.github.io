@@ -128,7 +128,7 @@ Hej! Here's a glimpse into my experiences in majestic Kyrgyzstan, which I visite
 <b>🪔 Authentic features:</b>
 - 🕯️ Tengrism <i>(Теңирчилик)</i> 
 - 🐦‍🔥 Epic of Manas <i>(Манас Дастаны)</i>
-- 🛖 Kyrgyz Yurts <i>(Кыргыз боз Үйлөрү)</i> 
+- 🏘️ Kyrgyz Yurts <i>(Кыргыз боз Үйлөрү)</i> 
 - 🎨 Ala-Kiiz Carpets <i>(Ала-Кийиз)</i> 
 - 🎨 Shyrdak Carpets <i>(Шырдак)</i>
 - 🎨 Tush Kyiz Wall Hangings <i>(Туш Кийиз)</i>

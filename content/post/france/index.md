@@ -63,13 +63,11 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 
 {{< spoiler text="Click to view" >}}
 1. Paris
-    - Notre-Dame de Paris <i>(Cathédrale Notre-Dame de Paris)</i>
+   
     - Louvre Museum <i>(Musée du Louvre)</i>
     - Eiffel Tower <i>(Tour Eiffel)</i>
     - Hôtel des Invalides <i>(Hôtel des Invalides)</i>
-    - Arc de Triomphe <i>(Arc de Triomphe de l'Étoile)</i>
     - Galeries Lafayette <i>(Galeries Lafayette)</i>
-    - Champs-Élysées Avenue <i>(Avenue des Champs-Élysées)</i>
     - Palais Garnier <i>(Palais Garnier)</i>
     - Panthéon <i>(Panthéon)</i>
     - Hôtel de Ville <i>(Hôtel de Ville)</i>
@@ -80,46 +78,60 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
     - Sainte-Chapelle <i>(Sainte-Chapelle)</i>
     - Conciergerie <i>(Conciergerie)</i>
     - Trocadéro Square <i>(Trocadéro)</i>
+    - Musée d'Orsay <i>(Musée d'Orsay)</i>
+    - Grand Palais <i>(Grand Palais)</i>
+    - Tuileries Garden <i>(Jardin des Tuileries)</i>
+    - Place des Vosges <i>(Place des Vosges)</i>
     - Moulin Rouge Cabaret <i>(Moulin Rouge)</i>
+    - Arc de Triomphe <i>(Arc de Triomphe de l'Étoile)</i>
+    - Champs-Élysées Avenue <i>(Avenue des Champs-Élysées)</i>
+    - Notre-Dame de Paris <i>(Cathédrale Notre-Dame de Paris)</i>
     - Sacré-Cœur Basilica <i>(Basilique du Sacré-Cœur de Montmartre)</i>
 2. Versailles
     - Palace of Versailles <i>(Château de Versailles)</i>
-    - Gardens of Versailles <i>(Jardins du Château de Versailles)</i>
-    - Chapel of Versailles <i>(Chapelle Royale de Versailles)</i>
     - Hôtel de Ville <i>(Hôtel de Ville)</i>
     - Palace of Justice <i>(Palais de Justice)</i>
+    - Grand Trianon <i>(Grand Trianon)</i>
+    - Petit Trianon <i>(Petit Trianon)</i>
+    - Queen's Hamlet <i>(Hameau de la Reine)</i>
+    - Gardens of Versailles <i>(Jardins du Château de Versailles)</i>
+    - Chapel of Versailles <i>(Chapelle Royale de Versailles)</i>
     - Versailles Cathedral <i>(Cathédrale Saint-Louis de Versailles)</i>
 3. Toulouse
-    - Basilica of Saint-Sernin <i>(Basilique Saint-Sernin de Toulouse)</i>
     - Capitole de Toulouse <i>(Capitole de Toulouse)</i>
     - Hôpital de La Grave <i>(Hôpital de La Grave)</i>
     - Pont Neuf <i>(Pont Neuf)</i>
     - Hôtel d'Assézat <i>(Hôtel d'Assézat)</i>
+    - Jacobins Convent <i>(Couvent des Jacobins)</i>
+    - Canal du Midi <i>(Canal du Midi)</i>
+    - Jardin des Plantes <i>(Jardin des Plantes)</i>
     - Musée des Augustins <i>(Musée des Augustins)</i>
     - Toulouse Cathedral <i>(Cathédrale Saint-Étienne)</i>
-    - Jardin des Plantes <i>(Jardin des Plantes)</i>
     - Toulouse-Matabiau Station <i>(Toulouse-Matabiau)</i>
+    - Basilica of Saint-Sernin <i>(Basilique Saint-Sernin de Toulouse)</i>
 4. Albi
     - Old Town Albi <i>(Vieille d'Albi)</i>
-    - Cathedral of Saint Cecilia <i>(Cathédrale Sainte-Cécile d'Albi)</i> 
-    - Musée Toulouse-Lautrec <i>(Musée Toulouse-Lautrec)</i> 
     - Pont-Vieux d'Albi <i>(Pont-Vieux d'Albi)</i>
     - Berbie Palace <i>(Palais de la Berbie)</i> 
     - Albi City Hall <i>(Hôtel de Ville d'Albi)</i>
-    - Church of St. Salvy <i>(Collégiale Saint-Salvi d'Albi)</i>
     - Albi Market Hall <i>(Halle du Marché)</i>
     - Hôtel du Bosc <i>(Hôtel du Bosc)</i>
+    - Musée Toulouse-Lautrec <i>(Musée Toulouse-Lautrec)</i> 
+    - Church of St. Salvy <i>(Collégiale Saint-Salvi d'Albi)</i>
+    - Cathedral of Saint Cecilia <i>(Cathédrale Sainte-Cécile d'Albi)</i> 
 5. Nice
-    - Promenade des Anglais <i>(Promenade des Anglais)</i>
-    - Palais de la Préfecture <i>(Palais de la Préfecture)</i>
     - Cours Saleya Market <i>(Cours Saleya Market)</i>
     - Colline du Château <i>(Colline du Château)</i>
     - Hotel Negresco <i>(Hotel Negresco)</i>
     - Nice Cathedral <i>(Cathédrale Sainte-Réparate)</i>
-    - Basilica of Notre-Dame de Nice <i>(Basilique Notre-Dame de Nice)</i>
     - Place Masséna <i>(Place Masséna)</i>
     - Nice Harbour <i>(Port de Nice)</i>
     - Opéra de Nice <i>(Opéra de Nice)</i>
+    - Palais Lascaris <i>(Palais Lascaris)</i>
+    - Matisse Museum <i>(Musée Matisse)</i>
+    - Promenade des Anglais <i>(Promenade des Anglais)</i>
+    - Palais de la Préfecture <i>(Palais de la Préfecture)</i>
+    - Basilica of Notre-Dame de Nice <i>(Basilique Notre-Dame de Nice)</i>
     - Palais de Justice de Nice <i>(Palais de Justice de Nice)</i>
 {{< /spoiler >}}
     
@@ -186,8 +198,8 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🥙 Croque Madame <i>(Croque Madame)</i>
 - 🥙 French Toast <i>(Pain Perdu)</i>
 - 🍲 French Onion Soup <i>(Soupe à l’Oignon)</i>
-- 🥘 Escargots in Tomato Sauce <i>(Escargot à la Tomate)</i>
-- 🥘 Escargots de Bourgogne <i>(Escargot de Bourgogne)</i> 
+- 🍲 Vichyssoise <i>(Vichyssoise)</i>
+- 🍲 Consommé <i>(Consommé)</i>
 - 🥘 Gratin Dauphinois <i>(Gratin Dauphinois)</i>
 - 🥘 Anna Potatoes <i>(Pommes Anna)</i>
 - 🥘 Tartiflette <i>(Tartiflette)</i>
@@ -200,6 +212,8 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🥘 Beef Bourguignon <i>(Bœuf Bourguignon)</i>
 - 🥘 Ragout <i>(Ragout)</i>
 - 🥘 Navarin <i>(Navarin)</i>
+- 🥘 Escargots in Tomato Sauce <i>(Escargot à la Tomate)</i>
+- 🥘 Escargots de Bourgogne <i>(Escargot de Bourgogne)</i> 
 - 🍰 Crème Brûlée <i>(Crème Brûlée)</i>
 - 🍰 Crème Caramel <i>(Crème Caramel)</i>
 - 🍰 Éclair <i>(Éclair)</i>
@@ -284,58 +298,73 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🍰 Tourte de Blettes <i>(Tourte de Blettes / Torta de Blea)</i>
 
 
-
 <b>🎬 Local movies:</b>
-- The Intouchables <i>(Intouchables)</i>. Year: 2011. Genre: dramedy
-- The Count of Monte Cristo <i>(Le Comte de Monte-Cristo)</i>. Year: 2011. Genre: thriller
-- La Belle Époque <i>(La Belle Époque)</i>. Year: 2019. Genre: dramedy
-- Black Box <i>(Boîte Noire)</i>. Year: 2021. Genre: thriller
-- Delicious <i>(Délicieux)</i>. Year: 2021. Genre: dramedy
-- Dogman <i>(DogMan)</i>. Year: 2023. Genre: thriller
-- Jeanne du Barry <i>(Jeanne du Barry)</i>. Year: 2023. Genre: drama
-- CODA <i>(CODA)</i>. Year: 2021. Genre: dramedy
-- Two Is a Family <i>(Demain tout Commence)</i>. Year: 2016. Genre: dramedy
-- Lucy <i>(Lucy)</i>. Year: 2014. Genre: action
-- Taken <i>(L'Enlèvement)</i>. Year: 2008. Genre: action
-- Counter Investigation <i>(Contre-Enquête)</i>. Year: 2008. Genre: thriller / crime
-- Asterix and Obelix vs. Caesar <i>(Astérix & Obélix contre César)</i>. Year: 1999. Genre: comedy
-- Taxi <i>(Taxi)</i>. Year: 1998. Genre: comedy
-- Léon: The Professional <i>(Léon)</i>. Year: 1994. Genre: action
-- Dr. Knock <i>(Knock)</i>. Year: 2017. Genre: dramedy
-- Umami <i>(Umami)</i>. Year: 2017. Genre: dramedy
-- The Transporter <i>(Le Transporteur)</i>. Year: 2002. Genre: action
-- Lupin <i>(Lupin)</i>. Year: 2002. Genre: thriller (series)
-- The School of Life <i>(L'école Buissonnière)</i>. Year: 2017. Genre: dramedy
-- Lost in Paris <i>(Paris pieds Nus)</i>. Year: 2016. Genre: comedy
-- The Messenger: The Story of Joan of Arc <i>(Jeanne d'Arc)</i>. Year: 1999. Genre: action
-- Arthur and the Minimoys <i>(Arthur et les Minimoys)</i>. Year: 2006. Genre: animation
-- The Specials <i>(Hors Normes)</i>. Year: 2019. Genre: drama
-- Colours of Time <i>(La Venue de l'Avenir)</i>. Year: 2025. Genre: drama
-- The Taste of Things <i>(La passion de Dodin Bouffant)</i>. Year: 2023. Genre: drama
+- 🥹 The Intouchables <i>(Intouchables)</i>. Year: 2011. Genre: drama / comedy
+- 🕰️ The Count of Monte Cristo <i>(Le Comte de Monte-Cristo)</i>. Year: 2011. Genre: thriller / history
+- 🥹 La Belle Époque <i>(La Belle Époque)</i>. Year: 2019. Genre: drama / comedy
+- 🕵️ Black Box <i>(Boîte Noire)</i>. Year: 2021. Genre: thriller / drama
+- 🥹 Delicious <i>(Délicieux)</i>. Year: 2021. Genre: drama / comedy 
+- 🥊 Dogman <i>(DogMan)</i>. Year: 2023. Genre: action / thriller
+- 🕰️ Jeanne du Barry <i>(Jeanne du Barry)</i>. Year: 2023. Genre: drama / history
+- 🥹 CODA: Child of Deaf Adults <i>(CODA)</i>. Year: 2021. Genre: drama / comedy
+- 🥹 Two Is a Family <i>(Demain tout Commence)</i>. Year: 2016. Genre: drama / comedy
+- 🥊 Taken <i>(L'Enlèvement)</i>. Year: 2008. Genre: action / thriller 
+- 🕵️ Counter Investigation <i>(Contre-Enquête)</i>. Year: 2008. Genre: thriller / crime
+- 🪄 Asterix and Obelix vs. Caesar <i>(Astérix & Obélix contre César)</i>. Year: 1999. Genre: comedy / fantasy 
+- 😀 Taxi <i>(Taxi)</i>. Year: 1998. Genre: comedy
+- 🥊 Léon: The Professional <i>(Léon)</i>. Year: 1994. Genre: action / drama
+- 🥹 Dr. Knock <i>(Knock)</i>. Year: 2017. Genre: drama / comedy 
+- 🥹 Umami <i>(Umami)</i>. Year: 2017. Genre: drama / comedy
+- 🥊 The Transporter <i>(Le Transporteur)</i>. Year: 2002. Genre: action
+- 🕵️ Lupin <i>(Lupin)</i>. Year: 2002. Genre: thriller / action (series)
+- 🕰️ The School of Life <i>(L'école Buissonnière)</i>. Year: 2017. Genre: history / drama 
+- 😀 Lost in Paris <i>(Paris pieds Nus)</i>. Year: 2016. Genre: comedy
+- 🕰️ The Messenger: The Story of Joan of Arc <i>(Jeanne d'Arc)</i>. Year: 1999. Genre: history / action
+- 👾 Arthur and the Minimoys <i>(Arthur et les Minimoys)</i>. Year: 2006. Genre: animation
+- 🥹 The Specials <i>(Hors Normes)</i>. Year: 2019. Genre: drama
+- 🥹 Colours of Time <i>(La Venue de l'Avenir)</i>. Year: 2025. Genre: drama
+- 🥹 The Taste of Things <i>(La passion de Dodin Bouffant)</i>. Year: 2023. Genre: drama
+- 🥊 Lucy <i>(Lucy)</i>. Year: 2014. Genre: action / thriller
 
 
 
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: L'Art de Vivre <i>(L'Art de Vivre)</i>
+- 🦉 Concept: Compagnonnage <i>(Compagnonnage)</i>
 - 🐦‍🔥 Legend of Joan of Arc <i>(Légende de Jeanne d'Arc)</i>
 - 🐦‍🔥 French Folklore <i>(Folklore Français)</i>
+- 🏺 Fleur-de-Lis Emblems <i>(Emblèmas de Fleur-de-Lis)</i>
+- ⛵ Gabare Boats <i>(Gabarres)</i>
 - 🚗 French Cars <i>(Brands: "Peugeot", "Renault", "Citroën", "Bugatti")</i>
-- 🛖 Lavoir Wash Houses <i>(Lavoirs)</i> 
-- 🛖 Château Manor Houses <i>(Châteaux)</i>
-- 🛖 Pâtisseries <i>(Pâtisseries)</i>
-- 🛖 Brasseries <i>(Brasseries)</i>
-- 🛖 French Carousels <i>(Carrousel)</i>
-- 🏛️ French Baroque Architecture <i>(Architecture Baroque Française)</i>
-- 🏛️ French Neoclassical Architecture <i>(Architecture Néoclassique Française)</i>
-- 🏛️ French Rococo Architecture <i>(Architecture Rococo Française)</i>
+- 🏘️ Lavoir Wash Houses <i>(Lavoirs)</i> 
+- 🏘️ Château Manor Houses <i>(Châteaux)</i>
+- 🏘️ Pâtisseries <i>(Pâtisseries)</i>
+- 🏘️ Brasseries <i>(Brasseries)</i>
+- 🏘️ French Carousels <i>(Carrousel)</i>
+- 🏛️ Gothic Architecture <i>(Architecture Gothique)</i>
+- 🏛️ Rococo Architecture <i>(Architecture Rococo)</i>
+- 🏛️ Empire Architecture <i>(Architecture du Empire)</i>
+- 🏛️ Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
+- 🏛️ Art Déco Architecture <i>(Architecture Art Déco)</i>
+- 🛠️ French High Parfumery <i>(Haute Parfumerie Française)</i>
 - 🎨 Point de France Lace <i>(Point de France)</i>
 - 🎨 Aubusson Tapestry <i>(Tapisserie d'Aubusson)</i>
-- 🎨 French Impressionist Painting <i>(Peinture Impressionniste)</i>
+- 🎨 Rococo Painting <i>(Peinture Rococo)</i>
+- 🎨 Realist Painting <i>(Peinture Réaliste)</i>
+- 🎨 Academic Painting <i>(Peinture Académique)</i>
+- 🎨 Impressionist Painting <i>(Peinture Impressionniste)</i>
+- 🎨 Symbolist Painting <i>(Peinture Symboliste)</i>
+- 🎨 Neo-Impressionist Painting <i>(Peinture Néo-Impressionniste)</i>
+- 🎨 Fauvist Painting <i>(Peinture Fauve)</i>
+- 🎨 Cubist Painting <i>(Peinture Cubiste)</i>
+- 🎨 Surrealist Painting <i>(Peinture Surréaliste)</i>
 - 🏃🏻 Equitation Tradition <i>(Équitation)</i>
 - 🏃🏻 Parkour Tradition <i>(Parkour)</i>
 - 🏃🏻 Savate Boxing Tradition <i>(Savate)</i>
+- 🏓 French Tarot Game <i>(Tarot Français)</i>
 - 💃 Can-Can Dance <i>(Cancan)</i>
 - 💃 Bourrée Dance <i>(Bourrée)</i> 
+- 🎙️ Chanson Music <i>(Chanson Française)</i> 
 - 🪕 Musical Instrument: Flageolet <i>(Flageolet)</i>
 - 👘 Garb: Faluche & Marinière <i>(Faluche et Tricot Rayé)</i> 
 - 🧝 Legacy of Gauls <i>(Gaulois)</i>  
@@ -344,25 +373,33 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🏰 Heritage of the Kingdom of France <i>(Royaume de France / Reaume de France)</i>
 - 🏰 Heritage of the French Empire <i>(Empire Français)</i><br>
 <u>Île-de-France - Regional Special:</u>
-- 🛖 Bouillons <i>(Bouillons)</i>
-- 🏛️ Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
-- 🏛️ Art Déco Architecture <i>(Architecture Art Déco)</i> 
+- 🦉 Concept: Flânerie <i>(Flânerie)</i>
+- ⛵ Bateaux Mouches <i>(Bateaux Mouches)</i>
+- 🏘️ Bouillons <i>(Bouillons)</i>
+- 🏘️ Haussmann Kiosks <i>(Kiosques Haussmann)</i>
+- 🎨 Gobelin Tapestry <i>(Tapisserie des Gobelins)</i>
+- 🏛️ Haussmannian Architecture <i>(Architecture Haussmannienne)</i>
 - 💃 Apache Dance <i>(Valse Chaloupée)</i>
-- 🎙️ Bal-Musette Music <i>(Bal Musette)</i>
+- 🎙️ Bal-Musette Music <i>(Bal-Musette)</i> 
 <br>
 <u>Occitania - Regional Special:</u> 
+- 🐦‍🔥 Occitan Folklore <i>(Folklore Occitan / Folclòre Occitan)</i>
+- 🏺 Occitan Crosses <i>(Croix Occitanes / Croses Occitanas)</i>
 - 🎑 Chabrot Ritual <i>(Chabrot / Chabròt)</i>
 - 🏰 Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
   - 🦉 Concept: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>
   - 🕯️ Catharism <i>(Catharisme / Catarisme)</i>
   - 🐦‍🔥 Occitan Lyric Poetry <i>(Poésie Lyrique Occitane / Poesia Lirica Occitana)</i>
-  - 🏛️ Meridional Gothic Architecture <i>(Architecture Gothique Méridional / Arquitectura Gòtica Meridionala)</i>
   - 🎭 Troubadours & Floral Games <i>(Troubadours et Jeux Floraux / Trobadors e Jòcs Florals)</i>
-- ⛰️ Causse Plateaux <i>(Causses / Causses)</i>
+- ⛰️ Causse Plateaus <i>(Causses / Causses)</i>
 </br>
 <u>Provence-Alpes-Côte d'Azur - Regional Special:</u>
 - 🏺 Santons of Provence <i>(Santons / Santons)</i>
 - 🏺 Blue Chairs of Nice <i>(Chaise Bleue / Cadiera Bleua)</i>
+- ⛵ Pointu Boats <i>(Pointus / Barquetas)</i>
+- 🏘️ Borie Huts <i>(Bories / Bories)</i>
+- 🛠️ Marseille Soap Production <i>(Savon de Marseille / Sabon de Marselha)</i>
+- 🛠️ Clérissy Faïence Production <i>(Faïence de Moustiers / Terralha de Moustiers)</i>
 - 🏓 Pilou Game <i>(Pilou / Lo Pilo)</i>
 - 🏓 Pétanque Game <i>(Pétanque / Petanca)</i>
 - 🎑 Nice Midday Cannon Ritual <i>(Canon de Midi / Canoun de Miejour)</i>

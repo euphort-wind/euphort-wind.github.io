@@ -117,7 +117,7 @@ Hej! Here's a glimpse into my experiences in charming Andorra, which I visited i
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Andorran Folklore <i>(Folklore d'Andorra)</i>
 - 👑 Title of Co-Prince <i>(Copríncep)</i>
-- 🛖 Andorran Bordes <i>(Bordes)</i>
+- 🏘️ Andorran Bordes <i>(Bordes)</i>
 - 🏛️ Andorran Romanesque Architecture <i>(Arquitectura Romànica Andorrana)</i>
 - 🏃🏻 Hiking Tradition <i>(Senderisme)</i>
 - 🎑 Ball de l’Ossa d’Encamp Ritual <i>(Ball de l’Ossa d’Encamp)</i>

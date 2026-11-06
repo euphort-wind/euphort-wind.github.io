@@ -156,15 +156,13 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - 🧝 Legacy of Ancient Samogitians <i>(Žemaičiai / Жемойти)</i>
 - 🏰 Heritage of the Grand Duchy of Lithuania <i>(Lietuvos Didžioji Kunigaikštystė)</i><br>
 <u>Kaunas - Regional Special:</u>
-- 🏛️ Kaunas Modernist Architecture <i>(Tarpukario Kauno Architektūra)</i>
-<br>
+- 🏛️ Kaunas Modernist Architecture <i>(Tarpukario Kauno Architektūra)</i><br>
 <u>Vilnius - Regional Special:</u>
-- 🏛️ Vilnian Baroque Architecture <i>(Vilnietiškas Barokas)</i>
 - 👲 Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
   - 🕯️ Karaism <i>(Karaizmas / Karaj Din)</i>
   - 👑 Title of Karaite Hakham <i>(Karaimų Hachanas / Karaj Ḥakham)</i>
-  - 🛖 Wooden Kenesas <i>(Kinesė / Kieniesalar)</i>
-  - 🛖 Karaite Three-Window Houses <i>(Karaimų Namai / Karaj Üvleri)</i>
+  - 🏘️ Wooden Kenesas <i>(Kinesė / Kieniesalar)</i>
+  - 🏘️ Karaite Three-Window Houses <i>(Karaimų Namai / Karaj Üvleri)</i>
 
 
 

@@ -157,9 +157,9 @@ Hej! Here's a glimpse into my experiences in contrasting and spectacular India, 
 - 👑 System of Adivasi <i>(आदिवासी)</i>
 - 👑 Title of Guru <i>(गुरु)</i>
 - 🚗 Indian Cars <i>(Brands: "Tata", "Mahindra")</i>
-- 🛖 Chhatri Pavilions <i>(छतरी)</i>
-- 🛖 Haveli Houses <i>(हवेली)</i>
-- 🛖 Stepwells <i>(बावड़ी)</i>
+- 🏘️ Chhatri Pavilions <i>(छतरी)</i>
+- 🏘️ Haveli Houses <i>(हवेली)</i>
+- 🏘️ Stepwells <i>(बावड़ी)</i>
 - 🏛️ Nagara Architecture <i>(नागर शैली)</i>
 - 🏛️ Indo-Saracenic Architecture <i>(इंडो-सारासेनिक वास्तुकला)</i>
 - 🎨 Madhubani Painting <i>(मधुबनी चित्रकला)</i>

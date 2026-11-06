@@ -262,7 +262,7 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🏺 Cuckoo Clocks <i>(Kuckucksuhr)</i>
 - 🏺 German Beer Steins <i>(Humpen)</i>
 - 🚗 German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
-- 🛖 Half-Timbered Houses <i>(Fachwerkhäuser)</i>
+- 🏘️ Half-Timbered Houses <i>(Fachwerkhäuser)</i>
 - 🏛️ Ottonian Architecture <i>(Ottonische Architektur)</i>
 - 🏛️ Heimatschutz Architecture <i>(Heimatschutzstil)</i>
 - 🎨 Ore Mountain Wood Art <i>(Erzgebirgische Holzkunst)</i> 
@@ -289,13 +289,14 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 <br>
 <u>Rhineland-Palatinate - Regional Special:</u>
 - 🛠️ Westerwald Pottery <i>(Westerwälder Steinzeug)</i>
-- 👘 Garb: Tugendpfeil <i>(Tugendpfeil)</i>
+<!-- 🛠️ Cologne Parfumery <i>(Parfumerie Française)</i>-->
+ - 👘 Garb: Tugendpfeil <i>(Tugendpfeil)</i>
 - 🏰 Heritage of the Electorate of the Palatinate <i>(Kurfürstentum Pfalz)</i>
 <br>
 <u>Bavaria - Regional Special:</u>
 - 👲 Culture of Bavarians <i>(Bayern / Boarn)</i>
   - 🐦‍🔥 Bavarian Folklore <i>(Bayerische Folklore / Bairische Volkskultur)</i>
-  - 🛖 Bavarian Beer Gardens <i>(Biergarten / Bierkeller)</i>
+  - 🏘️ Bavarian Beer Gardens <i>(Biergarten / Bierkeller)</i>
   - 🎨 Lüftlmalerei Mural Art <i>(Lüftlmalerei / Lüftelmalerei)</i>
   - 🎑 Aperschnalzen Ritual <i>(Aperschnalzen / Apaschnoizn)</i>
   - 🎑 Bavarian Brotzeit Ritual <i>(Brotzeit / Brotzeit)</i>

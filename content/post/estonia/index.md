@@ -84,7 +84,7 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
     - Toome Hill Park <i>(Toomemägi)</i>
     - Tartu University <i>(Tartu Ülikooli)</i>
     - Tartu Toy Museum <i>(Tartu Mänguasjamuuseum)</i>
-3. Värska
+3. Värska (Setomaa)
     - General Reek's House <i>(Reegi Maja)</i>
     - Värska Spring <i>(Värska Allikas)</i>
     - Café Seto Tsäimaja <i>(Seto Tsäimaja)</i>
@@ -137,7 +137,7 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 - 🐦‍🔥 Epic of Kalevipoeg <i>(Rahvuseepos Kalevipoeg)</i>
 - 🐦‍🔥 Estonian Mythology <i>(Eesti Mütoloogia)</i>
 - ⛵ Haabjas Boats <i>(Haabjad)</i>
-- 🛖 Rehielamu Houses <i>(Rehielamud)</i>
+- 🏘️ Rehielamu Houses <i>(Rehielamud)</i>
 - 🏃🏻 Kiiking Tradition <i>(Kiiking)</i>
 - 💃 Tuljak Dance <i>(Tuljaku Tants)</i>
 - 🎙️ Estonian Runic Singing <i>(Regilaul)</i>
@@ -145,7 +145,7 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 - 👘 Garb: Kirivöö & Kihnu Kört <i>(Eesti Kirivöö ja Kihnu Kört)</i>
 - 🧝 Legacy of Aests <i>(Aestid)</i><br>
 <u>Võru - Regional Special:</u> 
-- 🛖 Võro Smoke Saunas <i>(Suitsusaun / Savvusann)</i>
+- 🏘️ Võro Smoke Saunas <i>(Suitsusaun / Savvusann)</i>
 - 👲 Culture of Setos <i>(Setukesed / Setokõsõq)</i>
   - 🐦‍🔥 Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
   - 👑 Title of Ülemsootska <i>(Ülemsootska / Ülembsootśka)</i>

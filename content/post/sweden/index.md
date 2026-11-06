@@ -591,7 +591,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🏺 Dala Horses <i>(Dalahästar)</i>
 - 🏺 Yule Goats <i>(Julbockar)</i>
 - 🚗 Swedish Cars <i>(Brands: "Volvo", "SAAB")</i>
-- 🛖 Torp Cottages <i>(Torpstugor)</i>
+- 🏘️ Torp Cottages <i>(Torpstugor)</i>
 - 🏛️ Nordic Classical Architecture <i>(Nordisk Klassisk Arkitektur)</i>
 - 🎨 Dala Painting <i>(Dalmålning)</i>
 - 🏓 Brännboll Game <i>(Brännboll)</i>
@@ -623,11 +623,11 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 <u>Uppsala - Regional Special:</u> 
 - 🧝 Legacy of Ancient Swedes <i>(Svear / ᛊᚠᛖᚨᚱ)</i><br>
 <u>Västra Götaland - Regional Special:</u> 
-- 🛖 Landshövding Houses <i>(Landshövdingehus)</i>
+- 🏘️ Landshövding Houses <i>(Landshövdingehus)</i>
 - 🧝 Legacy of Geates <i>(Götar / ᚷᚨᚢᛏᚨᛉ)</i>
     - 📜 Elder Futhark Runic Alphabet <i>(Äldre Futhark / ᚠᚢᚦᚨᚱᚲ)</i>
-    - 🛖 Domarrings <i>(Domarringar / ᛏᛟᛗᚨᚺᚱᛁᛜᚷᚨᛉ)</i>
-    - 🛖 Stone Ships <i>(Skeppssättningar / ᛋᚲᛁᛈᚨᛋᛏᚨᛁᚾᛟᛉ)</i>
+    - 🏘️ Domarrings <i>(Domarringar / ᛏᛟᛗᚨᚺᚱᛁᛜᚷᚨᛉ)</i>
+    - 🏘️ Stone Ships <i>(Skeppssättningar / ᛋᚲᛁᛈᚨᛋᛏᚨᛁᚾᛟᛉ)</i>
     
 
 <b>🎊 Authentic holidays & celebrations:</b>

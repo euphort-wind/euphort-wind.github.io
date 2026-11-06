@@ -131,7 +131,7 @@ Hej! Here's a glimpse into my experiences in lush North Macedonia, which I visit
 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Macedonian Slavic Mythology <i>(Македонската Словенска Митологија)</i> 
-- 🛖 Chardak Houses <i>(Чардаци)</i>
+- 🏘️ Chardak Houses <i>(Чардаци)</i>
 - 🎨 Macedonian Embroidery <i>(Македонски Вез)</i> 
 - 💃 Teškoto Dance <i>(Тешкото)</i>
 - 💃 Kopačka Dance <i>(Копачка)</i>

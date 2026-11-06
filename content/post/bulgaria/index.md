@@ -171,7 +171,7 @@ Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visit
 <b>🪔 Authentic features:</b>
 - 📜 Cyrillic Alphabet <i>(Кирилица)</i>
 - 🐦‍🔥 Bulgarian Mythology <i>(Българската Митология)</i>
-- 🛖 Chitalishte Buildings <i>(Читалища)</i>
+- 🏘️ Chitalishte Buildings <i>(Читалища)</i>
 - 🏛️ Bulgarian Revival Architecture <i>(Възрожденска Архитектура)</i>
 - 🛠️ Rose Oil Production <i>(Производство на Розово Масло)</i>
 - 🛠️ Troyan Pottery <i>(Троянска Керамика)</i>

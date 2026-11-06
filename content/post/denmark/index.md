@@ -154,8 +154,8 @@ Hej! Here's a glimpse into my experiences in marvelous Denmark, which I visited 
 - 🦉 Concept: Hygge <i>(Hygge)</i>
 - 🐦‍🔥 Legend of the Danish Flag <i>(Dannebrog)</i>
 - 🐦‍🔥 Danish Folklore <i>(Dansk Folketro)</i>
-- 🛖 Danish Beach Huts <i>(Badehuse)</i>
-- 🛖 Sprøjtehuse <i>(Sprøjtehuse)</i>
+- 🏘️ Danish Beach Huts <i>(Badehuse)</i>
+- 🏘️ Sprøjtehuse <i>(Sprøjtehuse)</i>
 - 🏛️ Bedre Byggeskik Architecture <i>(Bedre Byggeskik Arkitektur)</i>
 - 🎨 Tønder Lace <i>(Tønderknipling)</i>
 - 🎨 Hedebo Embroidery <i>(Hedebosyning)</i>
@@ -172,7 +172,7 @@ Hej! Here's a glimpse into my experiences in marvelous Denmark, which I visited 
 - 🏰 Heritage of the Danish-Norwegian Union <i>(Danmark–Norge / Danmark–Noreg)</i>
 - ⛰️ Fur Formations <i>(Fur Formationen)</i><br>
 <u>North Jutland - Regional Special:</u>
-- 🛖 Tanghuse <i>(Tanghuse)</i><br>
+- 🏘️ Tanghuse <i>(Tanghuse)</i><br>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

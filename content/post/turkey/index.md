@@ -198,7 +198,7 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🕯️ Alevism <i>(Alevilik)</i>
 - 🐦‍🔥 Turkic Mythology <i>(Türk Mitolojisi)</i>
 - 🏺 Cezves <i>(Cezveler)</i>
-- 🛖 Turkish Hammams <i>(Hamam)</i>
+- 🏘️ Turkish Hammams <i>(Hamam)</i>
 - 🛠️ Iznik Pottery <i>(İznik Çinisi)</i>
 - 🏃🏻 Oil Wrestling Tradition <i>(Yağlı Güreş)</i>
 - 🏓 Okey Game <i>(Okey)</i>
@@ -215,9 +215,9 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🏰 Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / دولت علیهٔ عثمانیه)</i>
   - 🦉 Concept: Circle of Justice <i>(Adalet Çemberi / دائرۀ عدالت)</i>
   - 🏺 Kilij Scimitars <i>(Kılıçlar / قلیچلر)</i>
-  - 🛖 Imarets <i>(İmaretler / عمارتلر)</i>
-  - 🛖 Bedestens <i>(Bedestenler / بدستانلر)</i> 
-  - 🛖 Ottoman Sabils <i>(Sebiller / سبیللر)</i>
+  - 🏘️ Imarets <i>(İmaretler / عمارتلر)</i>
+  - 🏘️ Bedestens <i>(Bedestenler / بدستانلر)</i> 
+  - 🏘️ Ottoman Sabils <i>(Sebiller / سبیللر)</i>
   - 🏛️ Ottoman Architecture <i>(Osmanlı Mimarisi / عثمانی معماری)</i>
   - 🏃🏻 Matrak Tradition <i>(Matrak / ماتراق)</i>
   - 🎭 Karagöz Shadow Play <i>(Karagöz / قراقوز)</i>
@@ -226,7 +226,7 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
   - 👘 Garb: Fez & Kaftan <i>(Fes ve Kaftan / قفتان و فَس)</i>
 - ⛰️ Turkish Hoodoos <i>(Peribacası)</i><br>
 <u>Antalya - Regional Special:</u> 
-- 🛖 Düğmeli Houses <i>(Düğmeli Evler)</i>
+- 🏘️ Düğmeli Houses <i>(Düğmeli Evler)</i>
 - 🏰 Heritage of the Beylik of Teke <i>(Tekeoğulları Beyliği / تكه‌اوغللری بگی‌لکی)</i><br>
 <u>Muğla - Regional Special:</u> 
 - 🧝 Legacy of Carians <i>(Karlar / 𐊼𐊥𐊼𐊠)</i>
@@ -236,7 +236,7 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🏰 Heritage of the Beylik of Lâdik <i>(Inançoğulları Beyliği / لادق بگی‌لکی)</i>
 - ⛰️ Pamukkale Travertines <i>(Pamukkale Travertenleri)</i><br>
 <u>İstanbul - Regional Special:</u> 
-- 🛖 Yalı Houses <i>(Yalılar)</i>
+- 🏘️ Yalı Houses <i>(Yalılar)</i>
 - 🏰 Heritage of the Latin Empire <i>(Latin İmparatorluğu / Imperium Constantinopolitanum)</i><br>
 
 

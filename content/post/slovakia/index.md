@@ -143,7 +143,7 @@ Hej! Here's a glimpse into my experiences in enchanting Slovakia, which I visite
 - 👲 Culture of Rusyns <i>(Rusíni / Русины)</i>
 - 🏰 Heritage of the Principality of Nitra <i>(Nitrianske Kniežatstvo)</i><br>
 <u>Banská Bystrica - Regional Special:</u> 
-- 🛖 Klopačka Towers <i>(Klopačky)</i>
+- 🏘️ Klopačka Towers <i>(Klopačky)</i>
 - ⛰️ Tajchy Artificial Lakes <i>(Tajchy)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>

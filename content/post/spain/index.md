@@ -224,8 +224,8 @@ Hej! Here's a glimpse into my experiences in resplendent Spain, which I visited 
 - 🏺 Botijos <i>(Botijos)</i>
 - 🏺 Bota Bags <i>(Botas de Vino)</i>
 - 🚗 Spanish Cars <i>(Brands: "SEAT", "Cupra")</i>
-- 🛖 Bullrings <i>(Plazas de Toros)</i>
-- 🛖 Chiringuito Bars <i>(Chiringuitos)</i>
+- 🏘️ Bullrings <i>(Plazas de Toros)</i>
+- 🏘️ Chiringuito Bars <i>(Chiringuitos)</i>
 - 🏛️ Plateresque Architecture <i>(Arquitectura Plateresca)</i>
 - 🏛️ Herrerian Architecture <i>(Arquitectura Herreriana)</i>
 - 🏛️ Mudéjar Architecture <i>(Arquitectura Mudéjar)</i>
@@ -260,9 +260,8 @@ Hej! Here's a glimpse into my experiences in resplendent Spain, which I visited 
   - 🐦‍🔥 Catalan Mythology <i>(Mitología Catalana / Mitologia Catalana)</i>
   - 🏺 Porrons <i>(Porrones / Porrons)</i>
   - ⛵ Llagut Boats <i>(Llagutes / Llaguts)</i>
-  - 🛖 Masies <i>(Masías / Masies)</i>
+  - 🏘️ Masies <i>(Masías / Masies)</i>
   - 🏛️ Catalan Modernisme Architecture <i>(Modernismo Catalán / Modernisme Català)</i>
-  - 🎨 Catalan Surrealist Painting <i>(Pintura Surrealista Catalana / Pintura Surrealista Catalana)</i>
   - 🎨 Trencadís Mosaics <i>(Trencadís / Trencadís)</i>
   - 🏓 Patacó Game <i>(Patacó / Patacó)</i>
   - 🎑 Catalan Human Tower Ritual <i>(Castells / Castells)</i>
@@ -276,8 +275,8 @@ Hej! Here's a glimpse into my experiences in resplendent Spain, which I visited 
 - 🦉 Concept: Duende <i>(Duende)</i>
 - 🏺 Biznaga Bouquets <i>(Biznagas Malagueñas)</i>
 - ⛵ Jábega Boats <i>(Jábegas)</i>
-- 🛖 Cortijos <i>(Cortijos)</i>
-- 🛖 Andalusian Patios <i>(Patios Andaluces)</i>
+- 🏘️ Cortijos <i>(Cortijos)</i>
+- 🏘️ Andalusian Patios <i>(Patios Andaluces)</i>
 - 🏛️ Moorish Architecture <i>(Arquitectura Morisca)</i>
 - 🛠️ Taracea de Granada <i>(Taracea de Granada)</i>
 - 💃 Fandango Dance <i>(Fandango)</i>

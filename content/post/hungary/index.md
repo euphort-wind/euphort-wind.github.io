@@ -156,8 +156,8 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
 - 🕯️ Hungarian Neopaganism <i>(Ősmagyar Vallás)</i>
 - 🏺 Rubik's Cubes <i>(Rubik-Kocka)</i>
 - 🚗 Hungarian Buses <i>(Brand: "Ikarus")</i>
-- 🛖 Hungarian Thermal Baths <i>(Magyar Gyógyfürdők)</i>
-- 🛖 Csárda Road Taverns <i>(Csárdák)</i>
+- 🏘️ Hungarian Thermal Baths <i>(Magyar Gyógyfürdők)</i>
+- 🏘️ Csárda Road Taverns <i>(Csárdák)</i>
 - 🏛️ Hungarian Secession Architecture <i>(Magyar Szecesszió)</i>
 - 🎨 Kalocsa Embroidery <i>(Kalocsai Hímzés)</i>
 - 🎑 Táncház Dance Ritual <i>(Táncház)</i>

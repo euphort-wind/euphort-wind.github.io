@@ -221,8 +221,8 @@ Hej! Here's a glimpse into my experiences in vibrant Netherlands, which I visite
 
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: Gezelligheid <i>(Gezelligheid)</i>
-- 🛖 Canal Houses <i>(Grachtenpanden)</i>
-- 🛖 Dutch Windmills <i>(Windmolens)</i>
+- 🏘️ Canal Houses <i>(Grachtenpanden)</i>
+- 🏘️ Dutch Windmills <i>(Windmolens)</i>
 <!-- hofje -->
 - 🏃🏻 Utility Cycling Tradition <i>(Het Fietsen)</i>
 - 🏃🏻 Iceboating Tradition <i>(IJszeilen)</i>

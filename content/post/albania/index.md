@@ -124,8 +124,8 @@ Hej! Here's a glimpse into my experiences in picturesque Albania, which I visite
 - 🐦‍🔥 Albanian Folklore <i>(Folklori Shqiptar)</i>
 - 👑 System of Albanian Tribes <i>(Fiset Shqiptare)</i>
 - 👑 Title of Dedebaba <i>(Kryegjyshi)</i>
-- 🛖 Albanian Bunkers <i>(Bunkerët Shqiptarë)</i>
-- 🛖 Albanian Kullas <i>(Kullat Shqiptare)</i>
+- 🏘️ Albanian Bunkers <i>(Bunkerët Shqiptarë)</i>
+- 🏘️ Albanian Kullas <i>(Kullat Shqiptare)</i>
 - 💃 Shota Dance <i>(Shotë)</i>
 - 🎙️ Albanian Iso-Polyphonic Music <i>(Iso-Polifonia Shqiptare)</i>
 - 🪕 Musical Instrument: Çifteli <i>(Çiftelia)</i>

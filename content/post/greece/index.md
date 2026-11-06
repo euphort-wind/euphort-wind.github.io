@@ -204,7 +204,7 @@ Hej! Here's a glimpse into my experiences in graceful Greece, which I visited in
 - 📜 Greek Alphabet <i>(Ελληνικό Αλφάβητο)</i>
 - 🐦‍🔥 Greek Folklore <i>(Ελληνική Λαογραφία)</i>
 - 👑 Title of Ecumenical Patriarch <i>(Οἰκουμενικός Πατριάρχης)</i>
-- 🛖 Kafenios <i>(Καφενεία)</i>
+- 🏘️ Kafenios <i>(Καφενεία)</i>
 - 🏛️ Greek Neoclassical Architecture <i>(Ελληνική Νεοκλασική Αρχιτεκτονική)</i>
 - 💃 Syrtos Dance <i>(Συρτός)</i>
 - 🎙️ Rebetiko Music <i>(Ρεμπέτικο Τραγούδι)</i>
@@ -217,7 +217,7 @@ Hej! Here's a glimpse into my experiences in graceful Greece, which I visited in
   - 👑 Title of Wanax <i>(Άνακτας / 𐀷𐀙𐀏)</i>
   - 🏺 Kylikes <i>(Κύλικες / 𐀡𐀞)</i>
   - 🏛️ Cyclopean Masonry Architecture <i>(Κυκλώπεια Τείχη / 𐀵𐀒)</i>
-  - 🛖 Megarons <i>(Μέγαρα / 𐀷𐀙𐀏𐀄𐀫)</i>
+  - 🏘️ Megarons <i>(Μέγαρα / 𐀷𐀙𐀏𐀄𐀫)</i>
   - 🛠️ Mycenaean Pottery <i>(Μυκηναϊκή Κεραμική / 𐀐𐀩𐀗𐀭)</i>
   - 🛠️ Mycenaean Glyptic Art <i>(Μυκηναϊκή Γλυπτική / 𐀓𐀫𐀰)</i>
   - 🏃🏻 Chariot Racing Tradition <i>(Ἁρματοδρομία / 𐀂𐀟𐀊)</i>
@@ -234,13 +234,13 @@ Hej! Here's a glimpse into my experiences in graceful Greece, which I visited in
   - 👑 Title of Tyrant <i>(Τύραννος)</i>
   - 🏺 Heroons <i>(Ἡρῷα)</i>
   - ⛵ Trireme Boats <i>(Τριήρεις)</i>
-  - 🛖 Ancient Greek Temples <i>(Ναοί)</i>
-  - 🛖 Ancient Greek Gymnasiums <i>(Γυμνάσια)</i>
-  - 🛖 Ancient Greek Theatres <i>(θέατρα)</i>
-  - 🛖 Bouleuterions <i>(βουλευτήρια)</i>
-  - 🛖 Stoas <i>(Στοαί)</i>
-  - 🛖 Asclepieions <i>(Ἁσκληπιεῖα)</i>
-  - 🛖 Tholoi <i>(θόλοι)</i>
+  - 🏘️ Ancient Greek Temples <i>(Ναοί)</i>
+  - 🏘️ Ancient Greek Gymnasiums <i>(Γυμνάσια)</i>
+  - 🏘️ Ancient Greek Theatres <i>(θέατρα)</i>
+  - 🏘️ Bouleuterions <i>(βουλευτήρια)</i>
+  - 🏘️ Stoas <i>(Στοαί)</i>
+  - 🏘️ Asclepieions <i>(Ἁσκληπιεῖα)</i>
+  - 🏘️ Tholoi <i>(θόλοι)</i>
   - 🏛️ Ancient Greek Architecture <i>(Αρχαία Ελληνική Αρχιτεκτονική)</i>
   - 🛠️ Ancient Greek Sculpture <i>(Αρχαία Ελληνική Γλυπτική)</i>
   - 🛠️ Ancient Greek Pottery <i>(Αρχαία Ελληνική Κεραμική)</i>
@@ -257,7 +257,7 @@ Hej! Here's a glimpse into my experiences in graceful Greece, which I visited in
 - 🏰 Heritage of the Byzantine Empire <i>(Βυζαντινή Αυτοκρατορία / Imperium Romanum Orientale)</i>
   - 🦉 Concept: Taxis <i>(Τάξις)</i>
   - ⛵ Dromon Boats <i>(Δρόμωνας)</i>
-  - 🛖 Parecclesions <i>(Παρεκκλήσια)</i>
+  - 🏘️ Parecclesions <i>(Παρεκκλήσια)</i>
   - 🏛️ Byzantine Architecture <i>(Βυζαντινή Αρχιτεκτονική)</i>
   - 🎨 Byzantine Silk Weaving <i>(Βυζαντινή Υφαντική Μεταξωτού)</i>
   - 🎨 Byzantine Enamel <i>(Βυζαντινό Σμάλτο)</i>
@@ -270,7 +270,7 @@ Hej! Here's a glimpse into my experiences in graceful Greece, which I visited in
 <u>South Aegean - Regional Special:</u>
 - 🐦‍🔥 Legend of the Colossus of Rhodes <i>(Κολοσσός της Ρόδου)</i>
 - ⛵ Caïque Boats <i>(Καΐκια)</i>
-- 🛖 Mykonos Windmills <i>(Ανεμόμυλοι Μυκόνου)</i>
+- 🏘️ Mykonos Windmills <i>(Ανεμόμυλοι Μυκόνου)</i>
 - 🏛️ Cycladic Architecture <i>(Κυκλαδική Αρχιτεκτονική)</i>
 - 🏰 Heritage of the Duchy of Naxos <i>(Δουκάτο του Αρχιπελάγους / Ducato de l'Arcipelago)</i>
 - 🏰 Heritage of the Hospitaller Rhodes <i>(Μοναστικό Κράτος των Ιπποτών της Ρόδου / Ordo Hospitalis in Rhodo)</i><br>

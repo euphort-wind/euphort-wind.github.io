@@ -141,9 +141,9 @@ Hej! Here's a glimpse into my experiences in radiant Thailand, which I visited i
 - 🏺 Lak Mueangs <i>(หลักเมือง)</i>
 - 🚗 Thai Cars <i>(Brand: "Thairung")</i>
 - ⛵ Thai Long-Tail Boats <i>(เรือหางยาว)</i>
-- 🛖 Sala Thai Pavilions <i>(ศาลา)</i> 
-- 🛖 Thai Stilt Houses <i>(เรือนไทย)</i> 
-- 🛖 Thai Floating Markets <i>(ตลาดน้ำ)</i> 
+- 🏘️ Sala Thai Pavilions <i>(ศาลา)</i> 
+- 🏘️ Thai Stilt Houses <i>(เรือนไทย)</i> 
+- 🏘️ Thai Floating Markets <i>(ตลาดน้ำ)</i> 
 - 🎨 Lai Rot Nam Art <i>(ลายรดน้ำ)</i>
 - 🏃🏻 Muay Thai Boxing Tradition <i>(มวยไทย)</i>
 - 🏃🏻 Thai Massage Tradition <i>(นวดแผนไทย)</i>

@@ -325,8 +325,8 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🏺 Dymkovo Toys <i>(Дымковские Игрушки)</i>
 - ⛵ Yal Boats <i>(Ялы)</i> 
 - 🚗 Russian Cars <i>(Brands: "LADA", "GAZ Volga", "Moskvitch", etc.)</i>
-- 🛖 Russian Banyas <i>(Русские Бани)</i>
-- 🛖 Russian Izbas <i>(Русские Избы)</i>
+- 🏘️ Russian Banyas <i>(Русские Бани)</i>
+- 🏘️ Russian Izbas <i>(Русские Избы)</i>
 - 🛠️ Gzhel Pottery <i>(Гжель)</i>
 - 🎨 Khokhloma Painting <i>(Хохлома)</i>
 - 🎨 Gorodets Painting <i>(Городецкая Роспись)</i>
@@ -343,7 +343,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - 🐦‍🔥 Bylina Epic Poetry <i>(Былины)</i>
     - 🏺 Painted Kovshes <i>(Расписные Ковши)</i>
     - 🏺 Russian Stoves <i>(Русские Печи)</i>
-    - 🛖 Terems <i>(Терема)</i>
+    - 🏘️ Terems <i>(Терема)</i>
     - 🏛️ Russian Wooden Architecture <i>(Древнерусское Деревянное Зодчество)</i>
     - 🎨 Novgorod Icon Painting <i>(Новгородская Иконопись)</i>
     - 🎭 Skomorokh Performance <i>(Выступления Скоморохов)</i>
@@ -358,7 +358,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - 🦉 Concept: Sobornost <i>(Соборность)</i>      
     - 🕯️ Spiritual Christianity <i>(Духовное Христианство)</i>
     - 🏺 Painted Samovars <i>(Расписные Самовары)</i>
-    - 🛖 People's Houses <i>(Народные Дома)</i>
+    - 🏘️ People's Houses <i>(Народные Дома)</i>
     - 🏛️ Elizabethan Baroque Architecture <i>(Елизаветинское Барокко)</i>
     - 🏛️ Russian Revival Architecture <i>(Русский Архитектурный Стиль)</i>
     - 💃 Barynya Dance <i>(Пляска Барыня)</i>

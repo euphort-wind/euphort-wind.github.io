@@ -210,7 +210,7 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - ⛰️ Covasna Mofettes <i>(Mofetele din Covasna / <bdi style="direction: rtl;">𐳥𐳮𐳮𐳀𐳤𐳤𐳙𐳀 𐳘𐳮𐳐𐳋𐳧𐳧𐳉𐳤</bdi>)</i><br>
 <u>Brașov - Regional Special:</u> 
 - 👲 Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
-  - 🛖 Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
+  - 🏘️ Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Sieben Kirchenburgen)</i>
   - 💃 Königinnentanz Dance <i>(Dansul Reginelor / Königinnentanz)</i>
   - 👘 Garb: Transylvanian Saxon Tracht <i>(Portul Tradițional Săsesc / Siebenbürgisch-Sächsische Tracht)</i>
  

@@ -94,7 +94,7 @@ Hej! Here's a glimpse into my experiences in dreamlike San Marino, which I visit
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Legend of Saint Marinus <i>(La Légenda de San Marèin)</i>
 - 👑 Title of Captain Regent <i>(Capitènn Reggènt)</i>
-- 🛖 Towers of San Marino <i>(I Trì Tòri de San Marèin)</i>
+- 🏘️ Towers of San Marino <i>(I Trì Tòri de San Marèin)</i>
 
 
 

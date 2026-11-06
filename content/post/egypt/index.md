@@ -159,8 +159,8 @@ Hej! Here's a glimpse into my experiences in timeless Egypt, which I visited in 
   - 🏺 Ushabti Figurines <i>(اوشابتى / 𓅱𓈙𓃀𓏏𓏭𓀾)</i>
   - ⛵ Ancient Egyptian Royal Ships <i>(مراكب الشمس / 𓊛)</i>
   - ⛵ Solar Barques <i>(المراكب الشمسية / 𓂋𓂝 𓏏𓊖)</i>
-  - 🛖 Mastabas <i>(مصطبه / 𓉐𓊽)</i>
-  - 🛖 Pylons <i>(صرح / 𓈌)</i>
+  - 🏘️ Mastabas <i>(مصطبه / 𓉐𓊽)</i>
+  - 🏘️ Pylons <i>(صرح / 𓈌)</i>
   - 🏛️ Ancient Egyptian Architecture <i>(العمارة المصرية القديمة / 𓉐)</i>
   - 🛠️ Ancient Egyptian Faience <i>(الفاينس المصري / 𓍿𓎛𓈖𓏏)</i>
   - 🛠️ Papyrus Sheet Making <i>(صناعة ورق البردي / 𓇅)</i>

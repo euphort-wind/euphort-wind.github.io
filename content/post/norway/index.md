@@ -84,7 +84,7 @@ Hej! Here's a glimpse into my experiences in magical Norway, which I visited in 
     - Sailor's Monument <i>(Sjømannsmonumentet)</i>
     - St. Mary's Church <i>(Mariakirken)</i>
     - Fløibanen Funicular <i>(Fløibanen)</i>
-3. Flåm
+3. Flåm (Aurland)
     - Nærøyfjord <i>(Nærøyfjord)</i>
     - Flåm Railway <i>(Flåmsbanen)</i>
     - Gudvangen Viking Village <i>(Gudvangen)</i>
@@ -185,9 +185,9 @@ Hej! Here's a glimpse into my experiences in magical Norway, which I visited in 
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: Friluftsliv <i>(Friluftsliv)</i> 
 - ⛵ Nordland Boats <i>(Nordlandsbåter)</i> 
-- 🛖 Stave Churches <i>(Stavkirker)</i>
-- 🛖 Rorbu Fishermens' Cabins <i>(Rorbuer)</i>
-- 🛖 Stabbur Storehouses <i>(Stabbur)</i>
+- 🏘️ Stave Churches <i>(Stavkirker)</i>
+- 🏘️ Rorbu Fishermens' Cabins <i>(Rorbuer)</i>
+- 🏘️ Stabbur Storehouses <i>(Stabbur)</i>
 - 🏛️ Dragestil Architecture <i>(Dragestil)</i>
 - 🎨 Norwegian Rose-Painting <i>(Rosemaling)</i>
 - 🏃🏻 Nordic Skiing Tradition <i>(Langrenn)</i>
@@ -211,9 +211,9 @@ Hej! Here's a glimpse into my experiences in magical Norway, which I visited in 
   - 🏺 Mjölnir Amulets <i>(Mjølner / ᛘᛁᛅᛚᚾᛁᛦ)</i>
   - 🏺 Gullgubber <i>(Gullgubbe / ᚴᚢᛚᚴᚢᛒᛅᚱ)</i>
   - ⛵ Longships <i>(Langskip / ᛚᛅᚾᚴᛋᚴᛁᛒ)</i>
-  - 🛖 Hearg Altars <i>(Horgar / ᚼᚢᚱᚴᛅᛦ)</i>
-  - 🛖 Hof Temples <i>(Hovar / ᚼᚢᚠ)</i>
-  - 🛖 Mead Halls <i>(Mjødhaller / ᛘᛁᛅᚦᛅᚱᚼᛅᛚᛁᛦ)</i>
+  - 🏘️ Hearg Altars <i>(Horgar / ᚼᚢᚱᚴᛅᛦ)</i>
+  - 🏘️ Hof Temples <i>(Hovar / ᚼᚢᚠ)</i>
+  - 🏘️ Mead Halls <i>(Mjødhaller / ᛘᛁᛅᚦᛅᚱᚼᛅᛚᛁᛦ)</i>
   - 🛠️ Viking Ship Building <i>(Vikingskipsbygging / ᛋᚴᛁᛒ)</i>
   - 🛠️ Viking Bead Making <i>(Skjeggperleproduksjon / ᛒᛁᛚᚢᚴᛁᚱᚦ)</i>
   - 🏓 Hnefatafl Game <i>(Hnefatafl / ᚼᚾᛁᚠᛅᛏᛅᚠᛚ)</i> 

@@ -155,7 +155,7 @@ Hej! Here's a glimpse into my experiences in enchanting Croatia, which I visited
 - 🎙️ Ojkanje Singing <i>(Ojkanje)</i>
 - 🐦‍🔥 Story of Klepetan & Malena <i>(Klepetan i Malena)</i>
 - 🐦‍🔥 Croatian Folklore <i>(Hrvatski Folklor)</i>
-- 🛖 Kažun Buildings <i>(Kažuni)</i>
+- 🏘️ Kažun Buildings <i>(Kažuni)</i>
 - 🎨 Sicanje Tattooing <i>(Sicanje)</i>
 - 🎨 Croatian Lace <i>(Čipkarstvo u Hrvatskoj)</i>
 - 🎑 Zvončari Ritual <i>(Zvončari)</i>

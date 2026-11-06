@@ -158,7 +158,7 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 - 🕯️ Hussitism <i>(Husitství)</i>
 - 🐦‍🔥 Czech Folklore <i>(Český Folklór)</i>
 - 🚗 Czech Cars <i>(Brand: "Škoda")</i>
-- 🛖 Sokolovna Buildings <i>(Sokolovny)</i>
+- 🏘️ Sokolovna Buildings <i>(Sokolovny)</i>
 - 🏛️ Czech Gothic Architecture <i>(Česká Gotická Architektura)</i>
 - 🎭 Czech Puppetry <i>(České Loutkářství)</i>
 - 💃 Beseda Dance <i>(Česká Beseda)</i>

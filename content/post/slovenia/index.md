@@ -123,7 +123,7 @@ Hej! Here's a glimpse into my experiences in tranquil Slovenia, which I visited 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Slovene Mythology <i>(Slovenska Mitologija)</i>
 - 🏺 Painted Beehive Panels <i>(Panjske Končnice)</i>
-- 🛖 Slovene Hayracks <i>(Kozólci)</i>
+- 🏘️ Slovene Hayracks <i>(Kozólci)</i>
 - 🎨 Idrija Lace <i>(Idrijska Čipka)</i>
 - 🏓 Slovene Quintain Game <i>(Štehvanje)</i>
 - 🎑 Kurentija Ritual <i>(Kurentija)</i>

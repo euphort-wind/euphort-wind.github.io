@@ -114,7 +114,7 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 <b>🪔 Authentic features:</b>
 - 👑 System of Jordanian Tribes <i>(<bdi style="direction: rtl;">عشائر الأردن</bdi>)</i>
 - 🏺 Jordanian Dallahs <i>(<bdi style="direction: rtl;">دلال القهوة الأردنية</bdi>)</i>
-- 🛖 Desert Castles <i>(<bdi style="direction: rtl;">قصور الصحراء</bdi>)</i>
+- 🏘️ Desert Castles <i>(<bdi style="direction: rtl;">قصور الصحراء</bdi>)</i>
 - 🎨 Jordanian Sand-Bottle Art <i>(<bdi style="direction: rtl;">فن الرمل في الزجاجات</bdi>)</i>
 - 🎑 Al-Mansaf Feast Ritual <i>(<bdi style="direction: rtl;">طقوس وليمة المنسف</bdi>)</i>
 - 💃 Dabke Dance <i>(<bdi style="direction: rtl;">دبكة</bdi>)</i>
@@ -127,7 +127,7 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
   - 👑 Title of Bedouin Sheikh <i>(<bdi style="direction: rtl;">شيخ بدوي</bdi>)</i>
   - 👑 System of Bedouin Tribes <i>(<bdi style="direction: rtl;">عشائر البدو</bdi>)</i>
   - 🏺 Bedouin Camel Saddles <i>(<bdi style="direction: rtl;">سروج الجِمال البدوية</bdi>)</i>
-  - 🛖 Bedouin Tents <i>(<bdi style="direction: rtl;">بيت الشَّعَر</bdi>)</i>
+  - 🏘️ Bedouin Tents <i>(<bdi style="direction: rtl;">بيت الشَّعَر</bdi>)</i>
   - 🎨 Al Sadu Weaving <i>(<bdi style="direction: rtl;">حياكة السدو</bdi>)</i>
   - 🏃🏻 Camel Racing Tradition <i>(<bdi style="direction: rtl;">سباق الهجن</bdi>)</i> 
   - 🎭 As-Samer Performance <i>(<bdi style="direction: rtl;">السامر</bdi>)</i> 

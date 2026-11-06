@@ -353,8 +353,12 @@ Hej! Here's a glimpse into my experiences in magical Italy, which I visited in 2
 - 📜 Latin Alphabet <i>(Alfabeto Latino)</i>
 - 🐦‍🔥 Italian Folklore <i>(Folclore d'Italia)</i>
 - 🚗 Italian Cars <i>(Brands: "Ferrari", "Lamborghini", "Alfa Romeo", "FIAT", etc.)</i>  
-- 🛖 Trattorias <i>(Trattorie)</i>  
-- 🛖 Osterias <i>(Osterie)</i>
+- 🏘️ Trattorias <i>(Trattorie)</i>  
+- 🏘️ Osterias <i>(Osterie)</i>
+<!-- Romanesque Architecture-->
+<!-- Baroque Paining -->
+<!-- Classic Architecture 7-->
+<!-- Neoclassic Painting 7-->
 - 🏛️ Italian Renaissance Architecture <i>(Architettura Rinascimentale Italiana)</i>
 - 🏛️ Italian Neoclassical Architecture <i>(Architettura Neoclassica Italiana)</i>
 - 🛠️ Maiolica Pottery <i>(Maiolica)</i>
@@ -374,12 +378,12 @@ Hej! Here's a glimpse into my experiences in magical Italy, which I visited in 2
   - 👑 Title of Consul <i>(Consul)</i>
   - 👑 Title of Dictator <i>(Dictator)</i>
   - 👑 Title of Pontifex Maximus <i>(Pontifex Maximus)</i>
-  - 🛖 Popina Bars <i>(Popinae)</i>
-  - 🛖 Insula Houses <i>(Insulae)</i>
-  - 🛖 Forums <i>(Fora)</i>
-  - 🛖 Lupanars <i>(Lupanaria)</i>
-  - 🛖 Thermae Baths <i>(Thermae)</i>
-  - 🛖 Thermopoliums <i>(Thermopolia)</i>
+  - 🏘️ Popina Bars <i>(Popinae)</i>
+  - 🏘️ Insula Houses <i>(Insulae)</i>
+  - 🏘️ Forums <i>(Fora)</i>
+  - 🏘️ Lupanars <i>(Lupanaria)</i>
+  - 🏘️ Thermae Baths <i>(Thermae)</i>
+  - 🏘️ Thermopoliums <i>(Thermopolia)</i>
   - 🏃🏻 Gladiatorial Combat Tradition <i>(Gladiatura)</i>
   - 🏓 Harpastum Game <i>(Harpastum)</i> 
   - 🏓 Trigon Game <i>(Trigon)</i>
@@ -391,8 +395,8 @@ Hej! Here's a glimpse into my experiences in magical Italy, which I visited in 2
   - 🕯️ Mithraism <i>(Cultus Mithrae)</i>
   - 👑 System of Civitas <i>(Civitates)</i>
   - 👑 Title of Emperor <i>(Imperator)</i>
-  - 🛖 Amphitheatres <i>(Amphitheatra)</i>
-  - 🛖 Mithraeums <i>(Mithraea)</i>
+  - 🏘️ Amphitheatres <i>(Amphitheatra)</i>
+  - 🏘️ Mithraeums <i>(Mithraea)</i>
   - 🎭 Naumachia Performance <i>(Naumachia)</i>
   - 🏛️ Ancient Roman Architecture <i>(Architettura Romana Antica)</i>
   - 🛠️ Ancient Roman Sculpture <i>(Scultura Romana Antica)</i>
@@ -411,15 +415,15 @@ Hej! Here's a glimpse into my experiences in magical Italy, which I visited in 2
   - 🕯️ Ancient Etruscan Religion <i>(Religione Etrusca / 𐌄𐌉𐌔𐌍𐌀)</i>
   - 👑 Title of Lucumo <i>(Lucumone / 𐌋𐌀𐌖𐌙𐌖𐌌𐌄)</i>  
   - 📜 Ancient Etruscan Alphabet <i>(Alfabeto Etrusco / 𐌀𐌁𐌂𐌃)</i>
-  - 🛖 Etruscan Temples <i>(Templi Etruschi / 𐌕𐌌𐌉𐌀)</i>
+  - 🏘️ Etruscan Temples <i>(Templi Etruschi / 𐌕𐌌𐌉𐌀)</i>
   - 🏛️ Etruscan Architecture <i>(Architettura Etrusca / 𐌂𐌄𐙙𐌀)</i> 
   - 🛠️ Bucchero Pottery <i>(Bucchero / 𐌂𐌓𐌀𐌐𐌉)</i> 
 - 🏰 Heritage of the Republic of Florence <i>(Repubblica di Firenze / Res Publica Florentina)</i>
 - 🏰 Heritage of the Republic of Pisa <i>(Repubblica di Pisa / Res Publica Pisana)</i>
 - 🏰 Heritage of the Grand Duchy of Tuscany <i>(Granducato di Toscana / Magnus Ducatus Etruriae)</i><br> 
 <u>Emilia-Romagna - Regional Special:</u>  
-- 🛖 Porticoes of Bologna <i>(Portici di Bologna)</i>
-- 🛖 Towers of Bologna <i>(Torri di Bologna)</i>
+- 🏘️ Porticoes of Bologna <i>(Portici di Bologna)</i>
+- 🏘️ Towers of Bologna <i>(Torri di Bologna)</i>
 - 🛠️ Faenza Potery <i>(Ceramica di Faenza)</i>
 - 💃 Liscio Dance <i>(Ballo Liscio)</i><br>
 <u>Sicily - Regional Special:</u> 
@@ -427,7 +431,7 @@ Hej! Here's a glimpse into my experiences in magical Italy, which I visited in 2
   - 🦉 Concept: Omerta <i>(Omertà / Ômertà)</i>
   - 🐦‍🔥 Sicilian Folklore <i>(Folclore Siciliano / Folklori Sicilianu)</i>
   - 🏺 Sicilian Moorish Head Vases <i>(Testa di Moro / Testa di Muru)</i> 
-  - 🛖 Baglio Farmhouses <i>(Bagli / Bagghi)</i>
+  - 🏘️ Baglio Farmhouses <i>(Bagli / Bagghi)</i>
   - 🏛️ Sicilian Baroque Architecture <i>(Barocco Siciliano / Baroccu Sicilianu)</i>
   - 🎨 Sicilian Cart Painting <i>(Carretto Siciliano / Carrettu Sicilianu)</i> 
   - 🎭 Opera dei Pupi <i>(Opera dei Pupi / Opira î Pupi)</i> 
@@ -436,7 +440,7 @@ Hej! Here's a glimpse into my experiences in magical Italy, which I visited in 2
 <u>Campania - Regional Special:</u> 
 - 🏺 Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
 - 🏺 Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
-- 🛖 Pizza Parlors <i>(Pizzerie)</i> 
+- 🏘️ Pizza Parlors <i>(Pizzerie)</i> 
 - 🎨 Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
 - 🏓 Strummolo Game <i>(Strummolo / Strummolo)</i> 
 - 🏓 Tombola Game <i>(Tombola / Tombola)</i> 

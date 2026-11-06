@@ -63,10 +63,9 @@ Hej! Here's a glimpse into my experiences in luxurious Monaco, which I visited i
 {{< spoiler text="Click to view" >}}
 1. Monaco City
     - Monte Carlo Casino <i>(Casino de Monte-Carlo)</i>
-    - Prince's Palace of Monaco <i>(Palais Princier de Monaco)</i>
     - Monaco Old Town <i>(Monaco-Ville)</i>
-    - Cathedral of Monaco <i>(Cathédrale de Monaco)</i>
     - Port Hercule <i>(Port Hercule)</i>
+    - Cathedral of Monaco <i>(Cathédrale de Monaco)</i>
     - Oceanographic Museum <i>(Musée Océanographique)</i>
     - Opéra de Monte-Carlo <i>(Opéra de Monte-Carlo)</i>
     - Marché de la Condamine <i>(Marché de la Condamine)</i>
@@ -75,6 +74,7 @@ Hej! Here's a glimpse into my experiences in luxurious Monaco, which I visited i
     - Chapel of Sainte-Dévote <i>(Chapelle Sainte Dévote)</i>
     - Saint-Martin Gardens <i>(Jardins Saint-Martin)</i>
     - Fort Antoine Theatre <i>(Théâtre du Fort Antoine)</i>
+    - Prince's Palace of Monaco <i>(Palais Princier de Monaco)</i>
     - Princess Grace Rose Garden <i>(Roseraie Princesse Grace)</i>
 {{< /spoiler >}}
 
@@ -102,7 +102,7 @@ Hej! Here's a glimpse into my experiences in luxurious Monaco, which I visited i
 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Legend of Francesco Grimaldi <i>(Légende de François Grimaldi)</i>
-- 🛖 Monaco Belle Epoque Villas <i>(Villas Belle Époque de Monaco)</i>
+- 🏘️ Monaco Belle Epoque Villas <i>(Villas Belle Époque de Monaco)</i>
 - 🏃🏻 Formula Racing Tradition <i>(Formule)</i>
 - 🏃🏻 Rally Racing Tradition <i>(Rallye)</i>
 - 🏓 Casino Gambling Tradition <i>(Jeux de Casino)</i>
@@ -112,10 +112,10 @@ Hej! Here's a glimpse into my experiences in luxurious Monaco, which I visited i
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- 🗽 National Day <i>(Fête du Prince)</i>. Month: November
-- 🎪 Sainte Dévote Day <i>(Jour de la Sainte-Dévote)</i>. Month: January
-- 🎪 U Cavagnetu <i>(U Cavagnëtu)</i>. Month: September
 - 🎪 U Sciaratu <i>(U Sciaratu)</i>. Month: July
+- 🎪 U Cavagnetu <i>(U Cavagnëtu)</i>. Month: September
+- 🎪 Sainte Dévote Day <i>(Jour de la Sainte-Dévote)</i>. Month: January
+- 🗽 National Day <i>(Fête du Prince)</i>. Month: November
 - 🤸 Monaco Grand Prix <i>(Grand Prix de Monaco)</i>. Month: May or June
 
 <b>💐 National flower:</b> 

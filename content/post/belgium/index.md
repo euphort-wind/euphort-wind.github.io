@@ -175,26 +175,23 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🍰 Cuberdon <i>(Cuberdon)</i>
 
 <b>🎬 Local movies:</b>
-- 🪄 Mr. Nobody <i>(Mr. Nobody)</i>. Year: 2009. Genre: fantasy
 - 🕵️ In Bruges <i>(In Bruges)</i>. Year: 2008. Genre: thriller
 - 🕵️ Zillion <i>(Zillion)</i>. Year: 2022. Genre: thriller
 - 🕵️ Loft <i>(Loft)</i>. Year: 2008. Genre: thriller 
 - 🕵️ Maldoror <i>(Maldoror)</i>. Year: 2024. Genre: thriller 
 - 🕵️ Ben X <i>(Ben X)</i>. Year: 2007. Genre: thriller 
 - 🕵️ The Translators <i>(Les Traducteurs)</i>. Year: 2019. Genre: thriller
-
+- 🪄 Mr. Nobody <i>(Mr. Nobody)</i>. Year: 2009. Genre: fantasy
 
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: Belgitude <i>(Belgitude / Belgitude)</i>
 - 🐦‍🔥 Legend of Ambiorix <i>(Légende d'Ambiorix / Legende van Ambiorix)</i>
 - ⛵ Péniches <i>(Péniches / Péniches)</i>
-- 🛖 Belgian Friteries <i>(Friteries / Frietkoten)</i>
-- 🛖 Belfries of Belgium <i>(Beffrois de Belgique / Belforten in België)</i>
+- 🏘️ Belgian Friteries <i>(Friteries / Frietkoten)</i>
+- 🏘️ Belfries of Belgium <i>(Beffrois de Belgique / Belforten in België)</i>
 - 🏛️ Art Nouveau Architecture <i>(Architecture Art Nouveau / Art Nouveau-Architectuur)</i>
-- 🏛️ Brabantine Gothic Architecture <i>(Gothique Brabançon / Brabantse Gotiek)</i>
 - 🛠️ Val Saint Lambert Glassware <i>(Cristalleries du Val-Saint-Lambert / Val-Saint-Lambert)</i>
 - 🎨 Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
-- 🎨 Belgian Surrealist Painting <i>(Surréalisme Belge / Belgisch Surrealisme)</i>
 - 🏃🏻 Classic Cycle Racing Tradition <i>(Classique Cycliste / Wielerklassieker)</i>
 - 🏓 Crossage Game <i>(Crossage / Chole)</i>
 - 💃 Cramignon Dance <i>(Cråmignon / Cramignon)</i>
@@ -205,7 +202,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 <u>Brussels-Capital - Regional Special:</u>
 - 🦉 Concept: Zwanze <i>(Zwanze / Zwans)</i>
 - 👑 System of Seven Lineages of Brussels <i>(Sept Lignages / Zeven Geslachten)</i>
-- 🛖 Estaminets <i>(Estaminets / Estaminets)</i>
+- 🏘️ Estaminets <i>(Estaminets / Estaminets)</i>
 - 🎨 Brussels Lace <i>(Dentelle de Bruxelles / Brussels Kant)</i>
 - 🎑 Meyboom Ritual <i>(Meyboom / Meiboom)</i>
 - 🎭 Royal Theatre Toone <i>(Théâtre Royal de Toone / Koninklijk Poppentheater Toone)</i><br>
@@ -214,8 +211,6 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
   - 🐦‍🔥 Flemish Folklore <i>(Vlaamse Folklore)</i>
   - 🛠️ Flemish Diamond-Cutting <i>(Vlaamse Diamantbewerking)</i>
   - 🛠️ Flemish Pottery <i>(Vlaams Aardewerk)</i> 
-  - 🎨 Early Netherlandish Painting <i>(Vlaamse Primitieven)</i>  
-  - 🎨 Flemish Baroque Painting <i>(Vlaamse Barokschilderkunst)</i>  
   - 🎨 Bruges Lace <i>(Brugs Bloemwerk)</i>
   - 🎨 Flemish Tapestry <i>(Vlaams Tapijt)</i>
   - 🏃🏻 Vinkensport Tradition <i>(Vinkensport)</i>

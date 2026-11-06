@@ -133,7 +133,7 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 - 🐦‍🔥 Legend of Lāčplēsis <i>(Lāčplēsis: Eposs)</i>
 - 🐦‍🔥 Latvian Mythology <i>(Latviešu Mitoloģija)</i> 
 - 👑 Title of Dižvadonis <i>(Dižvadonis)</i> 
-- 🛖 Pirtis <i>(Pirtis)</i>
+- 🏘️ Pirtis <i>(Pirtis)</i>
 - 🛠️ Latgalian Pottery <i>(Latgales Podniecība)</i>
 - 🏓 Novuss Game <i>(Novuss)</i>
 - 💃 Gatves Deja <i>(Gatves Deja)</i> 
