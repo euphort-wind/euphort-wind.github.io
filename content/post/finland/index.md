@@ -174,7 +174,7 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
   - 🎙️ Joik Singing <i>(Joiku / Luohte)</i>
   - 🪕 Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
   - 👘 Garb: Beaska & Four Winds Hat <i>(Beaska ja Neljäntuulenlakki / Muoddá ja Čiehgahpir)</i>
-  - 🧝 Legacy of Ancient Finns <i>(Suomalaiset Heimot)</i>
+- 🧝 Legacy of Ancient Finns <i>(Suomalaiset Heimot)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

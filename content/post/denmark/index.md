@@ -137,8 +137,11 @@ Hej! Here's a glimpse into my experiences in marvelous Denmark, which I visited 
 - 🍰 Risalamande <i>(Risalamande)</i>
 - 🍰 Flødeboller <i>(Flødeboller)</i>
 - 🧀 Danbo Cheese <i>(Danbo)</i>
+- 🧀 Esrom Cheese <i>(Esrom)</i>
 - 🧀 Danablu Cheese <i>(Danablu)</i>
-- 🍶 Danish Lager Beer <i>(Brands: "Carlsberg", "Tuborg")</i>
+- 🍶 Danish Lager Beer <i>(Brands: "Carlsberg", "Tuborg")</i><br>
+<u>Hovedstaden - Regional Special:</u>
+- 🧀 Havarti Cheese <i>(Havarti)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -147,7 +150,7 @@ Hej! Here's a glimpse into my experiences in marvelous Denmark, which I visited 
 - 🥊 Riders of Justice <i>(Retfærdighedens Ryttere)</i>. Year: 2020. Genre: action 
 - 🕵️ The Hunt <i>(Jagten)</i>. Year: 2012. Genre: drama / thriller
 - 🕵️ The Keeper of Lost Causes <i>(Kvinden i Buret)</i>. Year: 2013. Genre: thriller
-<br>
+
 
 
 <b>🪔 Authentic features:</b>

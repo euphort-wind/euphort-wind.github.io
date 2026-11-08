@@ -526,8 +526,6 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🧀 Prästost <i>(Prästost)</i>
 - 🧀 Herrgårdsost <i>(Herrgårdsost)</i>
 - 🧀 Hushållsost <i>(Hushållsost)</i>
-- 🧀 Grevé <i>(Grevé)</i>
-- 🧀 Gräddost <i>(Gräddost)</i>
 - 🫓 Crispbread <i>(Knäckebröd)</i>
 - 🍶 Blueberry Wine <i>(Brand: "Rålund")</i>
 - 🍶 Julmust <i>(Brands: "Apotekarnes", "Nygårda")</i>
@@ -535,12 +533,13 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 </br>
 <u>Västernorrland - Regional Special:</u>
 - 🥓 Surströmming <i>(Surströmming)</i> 
-- 🥙 Toast with Chanterelles <i>(Norrlandstoast med Kantareller)</i>
-- 🍰 Smolanedi <i>(Bruttu)</i> 
+- 🥙 Toast with Chanterelles <i>(Norrlandstoast)</i>
+- 🍰 Smolanedi <i>(Bruttu)</i>
+- 🧀 Grevé <i>(Grevé)</i>
 </br>
 <u>Gotland - Regional Special:</u> 
 - 🥙 Ugnstrull <i>(Ugnstrull)</i>
-- 🍲 Gotland Spring Onion Soup <i>(Gotländsk Kajpsoppa)</i>
+- 🍲 Gotland Spring Onion Soup <i>(Kajpsoppa)</i>
 - 🥘 Gotland Glödhoppa <i>(Gotländsk Glödhoppa)</i>
 - 🍰 Gotland Saffron Pancake <i>(Gotlandspannkaka)</i>
 </br>

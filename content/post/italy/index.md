@@ -441,7 +441,7 @@ Hej! Here's a glimpse into my experiences in magical Italy, which I visited in 2
 - 🏺 Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
 - 🏺 Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
 - 🏘️ Pizza Parlors <i>(Pizzerie)</i> 
-- 🎨 Capodimonte Porcelain <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
+- 🛠️ Capodimonte Porcelain Manufacturing <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
 - 🏓 Strummolo Game <i>(Strummolo / Strummolo)</i> 
 - 🏓 Tombola Game <i>(Tombola / Tombola)</i> 
 - 🎑 Caffè Sospeso Ritual <i>(Caffè Sospeso / Cafè Suspiso)</i> 

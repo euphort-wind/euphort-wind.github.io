@@ -209,7 +209,6 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🍰 Oliebol <i>(Oliebol)</i>
 - 🍰 Hagelslag <i>(Hagelslag)</i> 
 - 🍰 Stroopwafel <i>(Stroopwafel)</i>
-- 🧀 Maasdam <i>(Maasdamer)</i>
 - 🧀 Boerenkaas <i>(Boerenkaas)</i> 
 - 🍶 Jenever <i>(Brand: "Bols Zeer Oude")</i></br>
 <u>North Holland - Regional Special:</u> 
@@ -222,7 +221,8 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 <u>South Holland - Regional Special:</u> 
 - 🥘 Hutspot <i>(Hutspot)</i>
 - 🥘 Kapsalon <i>(Kapsalon)</i>
-- 🍰 Haagse Bluf <i>(Haagse Bluf)</i></br>
+- 🍰 Haagse Bluf <i>(Haagse Bluf)</i>
+- 🧀 Maasdam <i>(Maasdamer)</i></br>
 <u>Friesland - Regional Special:</u>
 - 🍰 Oranjekoek <i>(Oranjekoek / Oranjekoeke)</i>
 - 🍰 Fryske Dúmkes <i>(Fryske Dúmkes / Dúmkes)</i>
@@ -317,6 +317,8 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🎪 3 October Festival <i>(Leidens Ontzet)</i>. Month: October
 - 🫕 Flag Day Scheveningen <i>(Vlaggetjesdag)</i>. Month: June
 - 🎪 Rotterdam Summer Carnival <i>(Zomercarnaval)</i>. Month: July<br>
+<u>Utrecht - Regional Special:</u> 
+- 🎸 Utrecht Early Music Festival <i>(Festival Oude Muziek)</i>. Month: August to September<br>
 <u>Friesland - Regional Special:</u> 
 - 🎪 Oerol Festival <i>(Oerol / Oerol)</i>. Month: June
 - 🤸 Skûtsjesilen <i>(Skûtsjesilen / Skûtsjesilen)</i>. Month: July or August
@@ -324,8 +326,8 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🤸 Frisian Balloon Festival <i>(Friese Ballonfeesten / Frysk Ballonfestival)</i>. Month: July
 
 <b>💐 National flower: </b> 
-- <b><i>[historically]</i> Tulip <i>(Tulp)</i></b>  
-- <b><i>[officially]</i> Daisy <i>(Madeliefje)</i></b> <br>
+- <u>Historically:</u> <b>Tulip <i>(Tulp)</i></b>  
+- <u>Officially:</u> <b>Daisy <i>(Madeliefje)</i></b> <br>
 <u>Friesland - Regional Special:</u> 
 - Fringed Water-Lily <i>(Pompeblêd)</i>
 

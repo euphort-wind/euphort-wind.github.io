@@ -149,6 +149,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🥘 Mussels and Fries <i>(Moules-Frites / Mosselen-Friet)</i>
 - 🥘 Steak Frites <i>(Steak-Frites / Steak-Friet)</i>
 - 🥘 Chicon au Gratin <i>(Chicon au Gratin / Witloof in de Oven)</i>
+- 🍰 Apple Butter <i>(Sirop de Liège / Appelstroop)</i>
 - 🍰 Dame Blanche <i>(Dame Blanche / Dame Blanche)</i>
 - 🍰 Belgian Waffles <i>(Gaufres Belges / Belgische Wafels)</i>
 - 🍰 Belgian Chocolate <i>(Chocolats Belges / Belgische Chocolade)</i>

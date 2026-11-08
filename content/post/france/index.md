@@ -234,8 +234,6 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
     - 🍰 Chausson aux Pommes <i>(Chausson aux Pommes)</i>
 - 🧀 Époisses <i>(Époisses)</i>
 - 🧀 Camembert <i>(Camembert)</i>
-- 🧀 Roquefort <i>(Roquefort)</i>
-- 🧀 Brie <i>(Brie)</i>
 - 🧀 Comté Cheese <i>(Comté)</i>
 - 🧀 Maroilles Cheese <i>(Maroilles)</i>
 - 🧀 Livarot Cheese <i>(Livarot)</i>
@@ -274,6 +272,7 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🥘 Hachis Parmentier <i>(Hachis Parmentier)</i>
 - 🍰 Paris-Brest <i>(Paris-Brest)</i>
 - 🍰 Flan Pâtissier <i>(Flan Pâtissier)</i>
+- 🧀 Brie <i>(Brie)</i>
 </br>
 <u>Occitania - Regional Special:</u> 
 - 🥘 Farçous <i>(Farçous / Farsou)</i>
@@ -283,6 +282,7 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🥘 Alicot <i>(Alicot / Alicuit)</i>
 - 🍰 Croustade <i>(Croustade / Crostada)</i>
 - 🍰 Fénétra <i>(Fénétra / Fénétra)</i>
+- 🧀 Roquefort <i>(Roquefort / Ròcafòrt)</i>
 </br>
 <u>Provence-Alpes-Côte d'Azur - Regional Special:</u>
 - 🥗 Salade Niçoise <i>(Salade Niçoise / Salada Nissarda)</i>
@@ -295,6 +295,7 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🥘 Ratatouille <i>(Ratatouille / Ratatolha)</i>
 - 🥘 Daube Niçoise <i>(Daube Niçoise / Doba Nissarda)</i>
 - 🍰 Tourte de Blettes <i>(Tourte de Blettes / Torta de Blea)</i>
+- 🧀 Brousse <i>(Brousse / Brousso)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -332,8 +333,8 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🐦‍🔥 Legend of Joan of Arc <i>(Légende de Jeanne d'Arc)</i>
 - 🐦‍🔥 French Folklore <i>(Folklore Français)</i>
 - 🏺 Fleur-de-Lis Emblems <i>(Emblèmas de Fleur-de-Lis)</i>
-- ⛵ Gabare Boats <i>(Gabarres)</i>
 - 🚗 French Cars <i>(Brands: "Peugeot", "Renault", "Citroën", "Bugatti")</i>
+- ⛵ Gabare Boats <i>(Gabarres)</i>
 - 🏘️ Lavoir Wash Houses <i>(Lavoirs)</i> 
 - 🏘️ Château Manor Houses <i>(Châteaux)</i>
 - 🏘️ Pâtisseries <i>(Pâtisseries)</i>
