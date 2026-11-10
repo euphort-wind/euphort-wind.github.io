@@ -72,9 +72,9 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
     - City Park <i>(Városliget)</i>
     - Budapest Funicular <i>(Budavári Sikló)</i>
     - Vajdahunyad Castle <i>(Vajdahunyad Vára)</i>
-    - Széchenyi Thermal Bath <i>(Széchenyi Gyógyfürdő)</i>
     - Hungarian Parliament Building <i>(Országház)</i>
     - Széchenyi Chain Bridge <i>(Széchenyi Lánchíd)</i>
+    - Széchenyi Thermal Bath <i>(Széchenyi Gyógyfürdő)</i>
     - St. Stephen's Basilica <i>(Szent István-Bazilika)</i>
     - National Archives of Hungary <i>(Magyar Nemzeti Levéltár)</i>
 2. Balatonfüred
@@ -85,21 +85,21 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
     - Kossuth Lajos Drinking Hall <i>(Kossuth Lajos Forrás)</i>
     - Fisherman & Ferryman Statues <i>(Halász és Révész Szobra)</i>
 3. Tihany
-    - Tihany Abbey <i>(Tihanyi Bencés Apátság)</i>
-    - Paprika House <i>(Paprikaház)</i>
-    - Old Town Tihany <i>(Óváros)</i>
-    - Calvary of King Charles IV <i>(IV. Károly Kálvária)</i> 
+    - Tihany Old Town <i>(Óváros)</i>
     - Lake Belső-Tó <i>(Belső-Tó)</i>
+    - Paprika House <i>(Paprikaház)</i>
+    - Tihany Abbey <i>(Tihanyi Bencés Apátság)</i>
+    - Calvary of King Charles IV <i>(IV. Károly Kálvária)</i> 
 4. Székesfehérvár
-    - Medieval Ruin Garden <i>(Középkori Romkert)</i>
     - Fő Street <i>(Fő Utca)</i>
     - Órajáték <i>(Órajáték)</i>
     - Koronázó Square <i>(Koronázó Tér)</i>
     - Bishop's Palace <i>(Püspöki Palota)</i>
     - Árpád Bath <i>(Árpád Fürdő)</i>
-    - Városház Square <i>(Városház Tér)</i>
-    - Cathedral Basilica <i>(Szent István-Székesegyház)</i>
+    - Városház Square <i>(Városház Tér)</i>  
     - Saint Anne Chapel <i>(Szent Anna Kápolna)</i>
+    - Medieval Ruin Garden <i>(Középkori Romkert)</i>
+    - Cathedral Basilica <i>(Szent István-Székesegyház)</i>
 {{< /spoiler >}}
 
 
@@ -163,7 +163,6 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
 - 🚗 Hungarian Buses <i>(Brand: "Ikarus")</i>
 - 🏘️ Hungarian Thermal Baths <i>(Magyar Gyógyfürdők)</i>
 - 🏘️ Csárda Road Taverns <i>(Csárdák)</i>
-- 🏛️ Hungarian Secession Architecture <i>(Magyar Szecesszió)</i>
 - 🛠️ Zsolnay Porcelain Production <i>(Zsolnay Porcelánmanufaktúra)</i>
 - 🎨 Halas Lace <i>(Halasi Csipke)</i>
 - 🎨 Kalocsa Embroidery <i>(Kalocsai Hímzés)</i>
