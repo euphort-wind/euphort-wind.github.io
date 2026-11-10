@@ -68,14 +68,14 @@ Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visit
     - Vitosha Mountain <i>(Планина Витоша)</i>
     - Boyana Church <i>(Боянска Църква)</i>
     - Saint Sophia Basilica <i>(Базилика "Света София")</i>
-    - National Archaeological Museum <i>(Национален Археологически Музей)</i>
-    - St. Alexander Nevski Cathedral <i>(Храм-Паметник "Свети Александър Невски")</i>
     - Sofia Central Mineral Baths <i>(Централна Минерална Баня)</i>
     - Rotunda Church of St George <i>(Ротонда "Свети Георги")</i>
     - Amphitheatre of Serdica <i>(Амфитеатър на Сердика)</i>
     - Saint Nedelya Cathedral <i>(Катедрален Храм "Света Неделя")</i>
     - National Palace of Culture <i>(Национален Дворец на Културата)</i>
     - Ivan Vazov National Theatre <i>(Народен Театър "Иван Вазов")</i>
+    - National Archaeological Museum <i>(Национален Археологически Музей)</i>
+    - St. Alexander Nevski Cathedral <i>(Храм-Паметник "Свети Александър Невски")</i>
 2. Nessebar
     - Sunny Beach <i>(Слънчев Бряг)</i>
     - Nessebar Old Town <i>(Старият Несебър)</i>

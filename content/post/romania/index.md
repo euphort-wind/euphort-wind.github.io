@@ -205,7 +205,7 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - 👲 Culture of Székelys <i>(Secui / <bdi style="direction: rtl;">𐳥𐳋𐳓𐳉𐳗</bdi>)</i>
   - 📜 Old Hungarian Runic Alphabet <i>(Scrierea Maghiară Veche / <bdi style="direction: rtl;">𐲥𐳋𐳓𐳉𐳗-𐳘𐳀𐳎𐳀𐳢 𐳢𐳛𐳮𐳁𐳤</bdi>)</i>
   - 👑 Title of Primor <i>(Primor Secuiesc / <bdi style="direction: rtl;">𐳒𐳢𐳐𐳘𐳏𐳢</bdi>)</i>
-  - 🏺 Székely Gates <i>(Poartă Secuiască / <bdi style="direction: rtl;">𐳤𐳯𐳋𐳓𐳉𐳗𐳓𐳀𐳠𐳪</bdi>)</i>
+  - 🏺 Székely Gates <i>(Poartă Secuiască / <bdi style="direction: rtl;">𐳤𐳯𐳋𐳓𐳉𐳗𐳓𐳀𐳠𐳪</bdi>)</i><!--Legényes-->
   - 👘 Garb: Székely Hat <i>(Pălărie Secuiască / <bdi style="direction: rtl;">𐳥𐳋𐳓𐳉𐳗𐳓𐳀𐳑𐳀𐳙</bdi>)</i>
 - ⛰️ Covasna Mofettes <i>(Mofetele din Covasna / <bdi style="direction: rtl;">𐳥𐳮𐳮𐳀𐳤𐳤𐳙𐳀 𐳘𐳮𐳐𐳋𐳧𐳧𐳉𐳤</bdi>)</i><br>
 <u>Brașov - Regional Special:</u> 

@@ -140,7 +140,7 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 - 🥘 Vepřo Knedlo Zelo <i>(Vepřo Knedlo Zelo)</i>
 - 🥘 Bohemian Roast Duck <i>(Pečená Kachna)</i>
 - 🍰 Czech Trdelník <i>(Trdelník)</i>
-- 🍰 Czech Kolache <i>(Český Koláč)</i>
+- 🍰 Czech Kolach <i>(Český Koláč)</i>
 - 🍰 Ovocné Knedlíky <i>(Ovocné Knedlíky)</i>
 - 🍰 Žloutkové Řezy <i>(Žloutkové Řezy)</i>
 - 🧀 Hermelín Cheese <i>(Hermelín)</i>
@@ -153,14 +153,14 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 <u>South Moravia - Regional Special:</u> 
 - 🥘 Moravian Sparrow <i>(Moravský Vrabec)</i>
 - 🥘 Znojemská Pečeně <i>(Znojemská Pečeně)</i>
-- 🍰 Moravian Double-Filled Kolache <i>(Moravský Dvojctihodný Koláč)</i>
+- 🍰 Moravian Double-Filled Kolach <i>(Moravský Dvojctihodný Koláč)</i>
 - 🍶 Burčák Young Wine <i>(Burčák)</i>
 
 
 <b>🎬 Local movies:</b>
 - 🥹 Tiger Theory <i>(Teorie Tygra)</i>. Year: 2016. Genre: drama / comedy
 - 😀 Wrong Side Up <i>(Příběhy Obyčejného Šílenství)</i>. Year: 2005. Genre: comedy
-- 🪄 Restore Point <i>(Bod Obnovy)</i>. Year: 2023. Genre: fantasy / thriller
+- 🕵️ Restore Point <i>(Bod Obnovy)</i>. Year: 2023. Genre: thriller
 - 🕰️ Wild Flowers <i>(Kytice)</i>. Year: 2000. Genre: history / horror
 - 🕰️ Jojo Rabbit <i>(Králíček Jojo)</i>. Year: 2019. Genre: history / drama
 - 😀 Women on the Run <i>(Ženy v Běhu)</i>. Year: 2019. Genre: comedy
@@ -189,7 +189,7 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 - 🏰 Heritage of the Samo's Realm <i>(Sámova Říše)</i>
 - 🏰 Heritage of Great Moravia <i>(Velkomoravská Říše / Ⰿⱁⱃⰰⰲⰰ)</i>
   - 🐦‍🔥 Legend of Svatopluk’s Three Twigs <i>(Svatoplukovy Tři Pruty / Ⱄⰲⰰⱅⱁⱂⰾⱆⰽⱁⰲⱏⰹ Ⱅⱃⰵ Ⱂⱃⱆⱅⱏ)</i>
-  - 🏺 Great Moravian Axe-Shaped Bars <i>(Moravské Sekerovité Hřivny / Ⰳⱃⰻⰲⱐⱀⱏⰹ)</i>
+  - 🏺 Great Moravian Axe-Shaped Ingots <i>(Moravské Sekerovité Hřivny / Ⰳⱃⰻⰲⱐⱀⱏⰹ)</i>
   - 🛠️ Great Moravian Jewelry <i>(Velkomoravské Šperkařství / Ⰲⰵⰾⱐⰽⱁⰿⱁⱃⰰⰲⱐⱄⰽⱁ Ⱉⱂⰵⱃⰽⰰⱃⱐⱄⱅⰲⱁ)</i>
   - 🏛️ Great Moravian Sacral Architecture <i>(Velkomoravská Sakrální Architektura / Ⱈⱃⰰⰿⱏ)</i>
   - 👘 Garb: Gombíky <i>(Gombíky / Ⰳⱁⰿⰱⰹⰽⱏ)</i>
@@ -233,7 +233,7 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 <b>🦉 Local wisdom:</b> "What you let out of your mouth, you can't get back even with a couple of horses." / <i>"Co jsi z úst vypustil, ani párem koní nedostaneš zpět."</i> — Czech proverb
 
 
-<b>👨‍🎓 The oldest university:</b> Charles University <i>(Univerzita Karlova)</i>, Prague, est. 1347. 
+<b>👨‍🎓 The oldest university:</b> Charles University <i>(Univerzita Karlova)</i>, Prague, est. 1348. 
 
 
 {{< gallery album="czechia" crop_options="150x150" >}}
