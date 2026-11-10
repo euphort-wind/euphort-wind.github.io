@@ -53,7 +53,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visited in 2023 and 2025. Below are some notes on what I tasted, saw, and listened to.
+Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visited in 2023, 2025 and 2026. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
@@ -63,11 +63,14 @@ Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visit
 
 {{< spoiler text="Click to view" >}}
 1. Sofia
-    - St. Alexander Nevski Cathedral <i>(Храм-Паметник "Свети Александър Невски")</i>
-    - Sofia Central Mineral Baths <i>(Централна Минерална Баня)</i>
     - Statue of Sofia <i>(Статуя на София)</i>
     - Vitosha Boulevard <i>(Булевард "Витоша")</i>
     - Vitosha Mountain <i>(Планина Витоша)</i>
+    - Boyana Church <i>(Боянска Църква)</i>
+    - Saint Sophia Basilica <i>(Базилика "Света София")</i>
+    - National Archaeological Museum <i>(Национален Археологически Музей)</i>
+    - St. Alexander Nevski Cathedral <i>(Храм-Паметник "Свети Александър Невски")</i>
+    - Sofia Central Mineral Baths <i>(Централна Минерална Баня)</i>
     - Rotunda Church of St George <i>(Ротонда "Свети Георги")</i>
     - Amphitheatre of Serdica <i>(Амфитеатър на Сердика)</i>
     - Saint Nedelya Cathedral <i>(Катедрален Храм "Света Неделя")</i>
@@ -75,49 +78,71 @@ Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visit
     - Ivan Vazov National Theatre <i>(Народен Театър "Иван Вазов")</i>
 2. Nessebar
     - Sunny Beach <i>(Слънчев Бряг)</i>
-    - Old Town Nessebar <i>(Стария Несебър)</i>
+    - Nessebar Old Town <i>(Старият Несебър)</i>
     - Hagia Sophia Church <i>(Църква "Света София")</i>
-    - Church of Christ Pantocrator <i>(Църква "Христос Пантократор")</i>
     - Church of St. Stephen <i>(Църква "Свети Стефан")</i>
+    - Ethnographic Museum <i>(Етнографски Музей)</i>
     - Nessebar Windmill <i>(Вятърна Мелница в Несебър)</i>
+    - Church of Christ Pantocrator <i>(Църква "Христос Пантократор")</i>
+    - Nessebar Archaeological Museum <i>(Археологически Музей)</i>
+    - Ancient Fortress Walls of Nessebar <i>(Крепостни Стени на Несебър)</i>
 3. Burgas
     - Sea Garden <i>(Морска Градина)</i>
+    - The Pier of Burgas <i>(Мостът)</i>
+    - Sea Casino <i>(Морско Казино)</i>
+    - St. Anastasia Island <i>(Остров Света Анастасия)</i>
+    - Archaeological Museum of Burgas <i>(Археологически Музей)</i>
     - Saints Cyril and Methodius Church <i>(Църква "Св. Кирил и Методий")</i>
 4. Varna
-    - Cathedral of the Assumption of the Virgin <i>(Катедралата Успение Богородично)</i>
     - Sea Garden <i>(Морска Градина)</i>
     - Roman Thermae <i>(Римски Терми)</i>
+    - Varna Aquarium <i>(Аквариум Варна)</i>
+    - Aladzha Monastery <i>(Аладжа манастир)</i>
     - Clock Tower of Varna <i>(Часовникова Кула)</i>
     - Varna Opera Theatre <i>(Варненската Опера)</i>
     - Varna Archaeological Museum <i>(Варненски Археологически Музей)</i>
+    - Cathedral of the Assumption of the Virgin <i>(Катедралата Успение Богородично)</i>
 5. Sveti Vlas
-    - St. Vlasiy Church <i>(Църква "Свети Влас")</i>
-    - St. Atanasii Veliki Church <i>(Храм Св. Атанасий Велики)</i>
+    - Road of Faith <i>(Пътека на Вярата)</i>
     - Marina Dinevi Port <i>(Марина Диневи)</i>
+    - St. Vlasiy Church <i>(Църква "Свети Влас")</i>
+    - Central Beach of Sveti Vlas <i>(Централен Плаж)</i>
+    - St. Atanasii Veliki Church <i>(Храм Св. Атанасий Велики)</i>
 6. Pomorie
-    - Monastery of St. George <i>(Манастир Свети Георги)</i>
     - Salt Museum <i>(Музей на Солта)</i>
-    - Open-Air Mud Bath <i>(Безплатни Кални Бани)</i>
     - Pomorie Lake <i>(Поморийско Езеро)</i>
-    - Old Houses of Pomorie Architectural Reserve <i>(Архитектурен Резерват "Стари Поморийски Къщи")</i>
+    - Open-Air Mud Bath <i>(Безплатни Кални Бани)</i>
+    - Monastery of St. George <i>(Манастир Свети Георги)</i>
+    - Historical Museum of Pomorie <i>(Исторически Музей)</i>
+    - Thracian Beehive Tomb <i>(Тракийска Куполна Гробница)</i>
+    - Old Houses of Pomorie <i>(Архитектурен Резерват "Стари Поморийски Къщи")</i>
 7. Byala
+    - White Cliffs <i>(Бели Скали)</i>
+    - Byala Municipal Museum <i>(Общински Музей)</i>
     - Cape of St. Athanasius <i>(Нос Свети Атанас)</i>
     - Byala Public Beach <i>(Обществен Плаж Бяла)</i>
-    - White Cliffs <i>(Бели Скали)</i>
-8. Obzor
-    - Church of Saint John the Baptist <i>(Храм "Св. Йоан Предтеча")</i>
+    - Byala Fishing Harbour <i>(Рибарско Пристанище "Чайка")</i>
+8. Obzor (Nessebar)
     - Obzor Park <i>(Парк Град Обзор)</i>
+    - Obzor Amphitheatre <i>(Амфитеатър Обзор)</i>
+    - St. Ivan Rilski Chapel <i>(Параклис "Свети Иван Рилски")</i>
+    - Historical Museum of Obzor <i>(Исторически Музей)</i>
+    - Church of Saint John the Baptist <i>(Храм "Св. Йоан Предтеча")</i>
 9. Sozopol
-    - Old Town Sozopol <i>(Старият Созопол)</i>
+    - Sozopol Old Town <i>(Старият Созопол)</i>
+    - Cape Skamni <i>(Нос Скамни)</i>
     - Main Square <i>(Главен Площад)</i>
-    - Southern Fortress Wall and Tower <i>(Южна Крепостна Стена и Кула)</i>
-    - Sanctuary of Demeter and Persephone <i>(Светилище на Деметра и Персефона)</i> 
     - St. Ivan Island <i>(Остров св. Иван)</i> 
-    - St. Cyricus Island <i>(Остров св. Кирик)</i> 
+    - St. Cyricus Island <i>(Остров св. Кирик)</i>
+    - Southern Fortress Tower <i>(Южна Крепостна Кула)</i>
+    - Sozopol Archaeological Museum <i>(Археологически Музей)</i>
+    - Church of the Holy Mother of God <i>(Църква "Света Богородица")</i>
+    - Church of St. George the Victorious <i>(Църква "Свети Георги Победоносец")</i>
+    - Sanctuary of Demeter and Persephone <i>(Светилище на Деметра и Персефона)</i> 
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇧🇬 КаriZма (duo). Genre: pop
+- 🇧🇬 KariZma (duo). Genre: pop
 - 🇧🇬 Robi (singer). Genre: pop
 - 🇧🇬 Tino (singer). Genre: pop
 - 🇧🇬 D2 (band). Genre: rock
@@ -128,7 +153,7 @@ Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visit
 - 🇺🇳 Dara (singer). Genre: pop
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Chalga (Ethnic Electronica). Originated: early 1990s
+- Chalga (Ethnotronica). Originated: early 1990s
 
 <b>🍽️ Local food & drinks: </b>
 - 🥓 Lukanka <i>(Луканка)</i>
@@ -152,7 +177,7 @@ Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visit
 - 🥘 Kebapche <i>(Кебапче)</i>
 - 🥘 Kyufte <i>(Кюфте)</i>
 - 🥘 Tsatsa Fish <i>(Цаца)</i>
-- 🍰 Garash Cake <i>(Гараш Торта)</i>
+- 🍰 Garash Cake <i>(Торта Гараш)</i>
 - 🧀 Sirene <i>(Сирене)</i>
 - 🧀 Kashkaval <i>(Кашкавал)</i>
 - 🧀 Katǎk <i>(Катък)</i>
@@ -164,27 +189,36 @@ Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visit
 
 
 <b>🎬 Local movies:</b>
-- The World is Big and Salvation Lurks Around the Corner <i>(Светът е Голям и Спасение Дебне Отвсякъде)</i>. Year: 2008. Genre: road movie
-- Glory <i>(Слава)</i>. Year: 2016. Genre: drama
+- 🥹 The World is Big and Salvation Lurks Around the Corner <i>(Светът е Голям и Спасение Дебне Отвсякъде)</i>. Year: 2008. Genre: drama / road movie
+- 🥹 Glory <i>(Слава)</i>. Year: 2016. Genre: drama
 
 
 <b>🪔 Authentic features:</b>
 - 📜 Cyrillic Alphabet <i>(Кирилица)</i>
 - 🐦‍🔥 Bulgarian Mythology <i>(Българската Митология)</i>
+- 🏺 Rose-Oil Muskals <i>(Мускали)</i>
 - 🏘️ Chitalishte Buildings <i>(Читалища)</i>
 - 🏛️ Bulgarian Revival Architecture <i>(Възрожденска Архитектура)</i>
-- 🛠️ Rose Oil Production <i>(Производство на Розово Масло)</i>
+- 🛠️ Rose-Oil Production <i>(Производство на Розово Масло)</i>
+- 🛠️ Samokov Woodcarving <i>(Самоковска Дърворезба)</i>
 - 🛠️ Troyan Pottery <i>(Троянска Керамика)</i>
 - 🎨 Shevitsa Embroidery <i>(Шевица)</i>
 - 🎑 Anastenaria Ritual <i>(Нестинарство)</i>
+- 🎑 Lazaruvane Ritual <i>(Лазаруване)</i>
 - 🎑 Kukeri Ritual <i>(Кукери)</i>
-- 💃 Horo Dance <i>(Хоро)</i>
+- 💃 Răčenica Dance <i>(Ръченица)</i>
 - 🪕 Musical Instrument: Kaba Gaida <i>(Каба Гайда)</i>
 - 👘 Garb: Bulgarian Nosiya <i>(Носия)</i>
 - 🧝 Legacy of Thracians <i>(Траки)</i>
 - 🧝 Legacy of Bulghars <i>(Прабългари)</i>
 - 🏰 Heritage of the First Bulgarian Empire <i>(Първо Българско Царство / Блъгарьско Цѣсарьствиѥ)</i>
+  - 🕯️ Bogomilism <i>(Богомилство)</i>
+  - 👑 Title of Tsar <i>(Цар)</i>
+  - 🎨 Preslav Ceramic Iconography <i>(Преславска Керамична Иконография)</i>
 - 🏰 Heritage of the Second Bulgarian Empire <i>(Второ Българско Царство / Ц︢рьство Блъгарское)</i>
+  - 🏘️ Rock-Hewn Churches of Ivanovo <i>(Ивановски Скални Църкви)</i>
+  - 🏛️ Tarnovo School Architecture <i>(Търновска Архитектурна Школа)</i>
+  - 🎨 Tarnovo School Painting <i>(Търновска Живописна Школа)</i>
 - 🏰 Heritage of the Principality of Bulgaria <i>(Княжество България)</i>
 - 🏰 Heritage of the Kingdom of Bulgaria <i>(Царство България)</i><br>
 <u>Varna - Regional Special:</u> 
@@ -195,18 +229,31 @@ Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visit
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Unification Day of Bulgaria <i>(Ден на Съединението)</i>. Month: September
-- Baba Marta Day <i>(Баба Марта)</i>. Month: March
-- Surva Festival <i>(Сурва)</i>. Month: January
-- Bulgarian Rose Festival <i>(Празник на Розата)</i>. Month: May to June
-- Day of Bulgarian Alphabet, Bulgarian Enlightenment and Culture <i>(Ден на Българската Азбука, Просвета и Култура)</i>. Month: May<br>
+- 🎪 Baba Marta Day <i>(Баба Марта)</i>. Month: March
+- 🎪 Babinden <i>(Бабинден)</i>. Month: January
+- 🎪 Surva Festival <i>(Сурва)</i>. Month: January
+- 🎪 Bulgarian Rose Festival <i>(Празник на Розата)</i>. Month: May to June
+- 🗽 Unification Day of Bulgaria <i>(Ден на Съединението)</i>. Month: September
+- 🗽 Liberation Day <i>(Ден на Освобождението)</i>. Month: March
+- 🗽 Day of Bulgarian Alphabet <i>(Ден на Българската Азбука)</i>. Month: May
+<br>
+<u>Sofia-Capital - Regional Special:</u> 
+- 🎸 Sofia Music Weeks <i>(Софийски Музикални Седмици)</i>. Month: May to June
+- 🗽 Sofia Day <i>(Ден на София)</i>. Month: September
+<br>
+<u>Varna - Regional Special:</u> 
+- 🎸 Varna Summer International Music Festival <i>(Варненско Лято)</i>. Month: July to July
+- 🗽 Varna Day <i>(Ден на Варна)</i>. Month: August
+<br>
 <u>Burgas - Regional Special:</u> 
-- Burgas Sand Sculptures Festival <i>(Фестивал на Пясъчните Скулптури)</i>. Month: July to August
+- 🎪 Apollonia Arts Festival <i>(Празници на Изкуствата "Аполония")</i>. Month: August to September
+- 🤸 Burgas Sand Sculptures Festival <i>(Фестивал на Пясъчните Скулптури)</i>. Month: July to August
+- 🗽 Nessebar Day <i>(Ден на Несебър)</i>. Month: August 
 
 
 
 <b>💐 National flower: </b> 
-- Bulgarian Rose <i>(Роза Дамаскена)</i>
+- <b>Bulgarian Rose <i>(Роза Дамаскена)</i></b> 
 
 
 <b>🦉 Local wisdom:</b> "The new broom sweeps cleanly, but the old one knows the corners." / <i>"Новата метла чисто мете, но старата пък знае ъглите."</i> — Bulgarian proverb

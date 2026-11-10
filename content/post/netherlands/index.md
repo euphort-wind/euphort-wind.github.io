@@ -326,8 +326,8 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🤸 Frisian Balloon Festival <i>(Friese Ballonfeesten / Frysk Ballonfestival)</i>. Month: July
 
 <b>💐 National flower: </b> 
-- <u>Historically:</u> <b>Tulip <i>(Tulp)</i></b>  
-- <u>Officially:</u> <b>Daisy <i>(Madeliefje)</i></b> <br>
+- Historically: <b>Tulip <i>(Tulp)</i></b>  
+- Officially: <b>Daisy <i>(Madeliefje)</i></b> <br>
 <u>Friesland - Regional Special:</u> 
 - Fringed Water-Lily <i>(Pompeblêd)</i>
 

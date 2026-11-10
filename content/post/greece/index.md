@@ -133,7 +133,7 @@ Hej! Here's a glimpse into my experiences in graceful Greece, which I visited in
 - 🇺🇳 Steve Angello (DJ). Genre: progressive house
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Skiladiko (Ethnic Electronica). Originated: mid-1980s
+- Skiladiko (Ethnotronica). Originated: mid-1980s
 
 
 <b>🍽️ Local food & drinks: </b>

@@ -111,7 +111,7 @@ Hej! Here's a glimpse into my experiences in fascinating Serbia, which I visited
 - 🇷🇸 Lavina (band). Genre: progressive rock
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Turbo Folk (Ethnic Electronica). Originated: early 1990s
+- Turbo Folk (Ethnotronica). Originated: early 1990s
 
 
 <b>🍽️ Local food & drinks: </b>

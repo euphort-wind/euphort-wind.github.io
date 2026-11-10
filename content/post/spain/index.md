@@ -149,6 +149,7 @@ Hej! Here's a glimpse into my experiences in resplendent Spain, which I visited 
   - 🥓 Longaniza <i>(Longaniza)</i>
   - 🥓 Salchichón <i>(Salchichón)</i>
   - 🥓 Boquerones en Vinagre <i>(Boquerones en Vinagre)</i>
+- 🥓 Sobrassada <i>(Sobrasada)</i>
 - 🥘 Patatas Bravas <i>(Patatas Bravas)</i>
 - 🥘 Spanish Omelette <i>(Tortilla Española)</i>
 - 🥘 Huevos Rotos <i>(Huevos Estrellados)</i>

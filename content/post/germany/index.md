@@ -139,13 +139,13 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
     - Hofgarten <i>(Hofgarten)</i>
     - Asam Church <i>(Asamkirche)</i>
     - Odeonsplatz <i>(Odeonsplatz)</i>
+    - Frauenkirche <i>(Frauenkirche)</i>
     - Theresienwiese <i>(Theresienwiese)</i>
     - Deutsches Museum <i>(Deutsches Museum)</i>
     - Viktualienmarkt <i>(Viktualienmarkt)</i>
     - St. Peter's Church <i>(Peterskirche)</i>
     - Englischer Garten <i>(Englischer Garten)</i>
     - Nymphenburg Palace <i>(Schloss Nymphenburg)</i>
-    - Frauenkirche <i>(Dom zu Unserer Lieben Frau)</i>
     - Hofbräuhaus am Platzl <i>(Hofbräuhaus am Platzl)</i>
 {{< /spoiler >}}
 
@@ -246,7 +246,7 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🍶 German Liqueur <i>(Brands: "Jägermeister", "Underberg")</i> 
 </br>
 <u>Hessen - Regional Special:</u> 
-- 🥗 Frankfurt Green Sauce <i>(Frankfurter Grüne Soße)</i> 
+- 🥗 Frankfurt Green Sauce <i>(Frankfurter Grie Soß)</i> 
 - 🥙 Speckkuchen <i>(Speckkuchen)</i>
 - 🥘 Frankfurter Rippchen <i>(Frankfurter Rippchen)</i>
 - 🥘 Frankfurter Würstchen <i>(Frankfurter Würstchen)</i>
@@ -297,7 +297,7 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🥹 A Coffee in Berlin <i>(Oh Boy)</i>. Year: 2012. Genre: drama
 - 😀 Where Is Fred? <i>(Wo ist Fred?)</i>. Year: 2006. Genre: comedy
 - 😀 100 Things <i>(100 Dinge)</i>. Year: 2018. Genre: comedy
-- 🕰️ Ludwig II <i>(Ludwig II)</i>. Year: 2012. Genre: history / drama
+- 🕰️ Ludwig II <i>(Ludwig II)</i>. Year: 2012. Genre: history
 
 
 <b>🪔 Authentic features:</b>
@@ -416,7 +416,7 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 
 
 <b>💐 National flower: </b>
-- <u>Unofficially:</u> <b>Cornflower <i>(Kornblumen)</i></b><br>
+- Unofficially: <b>Cornflower <i>(Kornblumen)</i></b><br>
 <u>Bavaria - Regional Special:</u> 
 - Edelweiss <i>(Alpen-Edelweiß / Edlweiß)</i>
 

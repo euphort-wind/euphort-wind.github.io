@@ -142,7 +142,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 
 
 <b>🍽️ Local food & drinks: </b>
-- 🥗 Filet Americain <i>(Americain Préparé / Filet Americain)</i>
+- 🥓 Filet Americain <i>(Americain Préparé / Filet Americain)</i>
 - 🥗 Tomate Crevette <i>(Tomate Crevette / Tomaat Garnaal)</i>
 - 🥙 Martino Sandwich <i>(Martino / Martino)</i>
 - 🥘 Lapin à la Kriek <i>(Lapin à la Kriek / Konijn met Kriek)</i>

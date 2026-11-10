@@ -65,14 +65,14 @@ Hej! Here's a glimpse into my experiences in luxurious Monaco, which I visited i
     - Monte Carlo Casino <i>(Casino de Monte-Carlo)</i>
     - Monaco Old Town <i>(Monaco-Ville)</i>
     - Port Hercule <i>(Port Hercule)</i>
+    - Fairmont Hairpin <i>(Fairmont Hairpin)</i>
+    - Saint-Martin Gardens <i>(Jardins Saint-Martin)</i>
     - Cathedral of Monaco <i>(Cathédrale de Monaco)</i>
     - Oceanographic Museum <i>(Musée Océanographique)</i>
     - Opéra de Monte-Carlo <i>(Opéra de Monte-Carlo)</i>
     - Marché de la Condamine <i>(Marché de la Condamine)</i>
-    - Fairmont Hairpin <i>(Fairmont Hairpin)</i>
     - Japanese Garden <i>(Jardin Japonais de Monaco)</i>
     - Chapel of Sainte-Dévote <i>(Chapelle Sainte Dévote)</i>
-    - Saint-Martin Gardens <i>(Jardins Saint-Martin)</i>
     - Fort Antoine Theatre <i>(Théâtre du Fort Antoine)</i>
     - Prince's Palace of Monaco <i>(Palais Princier de Monaco)</i>
     - Princess Grace Rose Garden <i>(Roseraie Princesse Grace)</i>

@@ -130,7 +130,7 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Romanian Popcorn. Originated: late 2000s
-- Modern Manele (Ethnic Electronica). Originated: early 1990s
+- Modern Manele (Ethnotronica). Originated: early 1990s
 
 
 <b>🍽️ Local food & drinks: </b>

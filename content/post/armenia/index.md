@@ -129,7 +129,7 @@ Hej! Here's a glimpse into my experiences in welcoming Armenia, which I visited 
 - 🇺🇳 Serj Tankian (singer). Genre: nu metal
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Modern Rabiz (Ethnic Electronica). Originated: early 1990s
+- Modern Rabiz (Ethnotronica). Originated: early 1990s
 
 
 <b>🍽️ Local food & drinks: </b>
