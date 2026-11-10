@@ -318,9 +318,9 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 😀 Lost in Paris <i>(Paris pieds Nus)</i>. Year: 2016. Genre: comedy
 - 🥹 The Specials <i>(Hors Normes)</i>. Year: 2019. Genre: drama
 - 🥹 Colours of Time <i>(La Venue de l'Avenir)</i>. Year: 2025. Genre: drama
+- 🕰️ The Story of Joan of Arc <i>(Jeanne d'Arc)</i>. Year: 1999. Genre: history / action
 - 🥹 The Taste of Things <i>(La passion de Dodin Bouffant)</i>. Year: 2023. Genre: drama
 - 🕰️ The Count of Monte Cristo <i>(Le Comte de Monte-Cristo)</i>. Year: 2024. Genre: thriller / history
-- 🕰️ The Story of Joan of Arc <i>(Jeanne d'Arc)</i>. Year: 1999. Genre: history / action
 - 👾 Arthur and the Minimoys <i>(Arthur et les Minimoys)</i>. Year: 2006. Genre: animation
 - 🪄 Asterix and Obelix vs. Caesar <i>(Astérix & Obélix contre César)</i>. Year: 1999. Genre: comedy / fantasy 
 - 🥊 Lucy <i>(Lucy)</i>. Year: 2014. Genre: action / thriller

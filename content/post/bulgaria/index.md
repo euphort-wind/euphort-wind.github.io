@@ -163,7 +163,7 @@ Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visit
 - 🥗 Lyutenitsa <i>(Лютеница)</i>
 - 🥗 Kyopolou <i>(Кьопоолу)</i>
 - 🥙 Banitsa Pie <i>(Баница)</i>
-  - 🥙 Banitsa with Crushed White Cheese <i>(Баница със Сирене)</i>
+  - 🥙 Banitsa with Sirene <i>(Баница със Сирене)</i>
   - 🥙 Banitsa with Spinach <i>(Баница със Спанак)</i>
   - 🍰 Banitsa with Apples <i>(Баница с Ябълки)</i>
 - 🥙 Princess Sandwich <i>(Принцеса)</i>
