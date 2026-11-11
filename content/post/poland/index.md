@@ -152,6 +152,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 🇵🇱 IGO (singer). Genre: pop
 - 🇵🇱 Patrick the Pan (singer). Genre: indie pop
 - 🇵🇱 Zenek Martyniuk (singer). Genre: disco polo
+- 🇵🇱 SKOLIM (singer). Genre: disco polo
 - 🇺🇳 C-Bool (DJ). Genre: house
 - 🇺🇳 Tom Swoon (DJ). Genre: progressive house
 - 🇺🇳 Alicja (singer). Genre: pop
