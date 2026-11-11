@@ -52,7 +52,7 @@ gallery_item:
   .article-style h3 { font-size: 1.15rem !important; }
 </style>
 
-Hej! Here's a glimpse into my experiences in invincible Poland, which I visited in 2024 and 2026. Below are some notes on what I tasted, saw, and listened to.
+Hej! Here's a glimpse into my experiences in incredible Poland, which I visited in 2024 and 2026. Below are some notes on what I tasted, saw, and listened to.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the wonderful local features and places ☺️.
 
@@ -62,67 +62,81 @@ Hej! Here's a glimpse into my experiences in invincible Poland, which I visited 
 
 {{< spoiler text="Click to view" >}}
 1. Gdańsk
-    - Rybackie Street <i>(Rybackie Pobrzeże)</i>
-    - Ołowianka Island <i>(Wyspa Ołowianka)</i>
-    - Gdańsk City Hall <i>(Ratusz Głównego Miasta w Gdańsku)</i>
-    - Neptun Fountain <i>(Fontanna Neptuna)</i>
+    - Artus Court <i>(Dwór Artusa)</i>
     - Great Mill <i>(Wielki Młyn)</i>
     - Small Mill <i>(Mały Młyn)</i>
+    - Gdańsk Crane <i>(Żuraw Gdański)</i>
+    - Mariacka Street <i>(Ulica Mariacka)</i>
+    - Neptun Fountain <i>(Fontanna Neptuna)</i>
+    - Rybackie Pobrzeże <i>(Rybackie Pobrzeże)</i>
+    - Ołowianka Island <i>(Wyspa Ołowianka)</i>
     - St. Mary Church <i>(Bazylika Mariacka)</i>
     - Długa Street <i>(Ulica Długa)</i>
     - Great Armoury <i>(Wielka Zbrojownia)</i>
     - Highland Gate <i>(Brama Wyżynna)</i>
     - Golden Gate <i>(Złota Brama)</i>
+    - Gdańsk City Hall <i>(Ratusz Głównego Miasta w Gdańsku)</i>
 2. Sopot
-    - Church of St. George <i>(Kościół św. Jerzego w Sopocie)</i>
     - Crooked House <i>(Krzywy Domek)</i>
     - Kuracyjny Square <i>(Skwer Kuracyjny)</i>
-    - Sopot Pier <i>(Molo w Sopocie)</i> 
+    - Sopot Pier <i>(Molo w Sopocie)</i>
+    - Forest Opera <i>(Opera Leśna)</i>
+    - Sopot Lighthouse <i>(Latarnia Morska w Sopocie)</i>
+    - Church of St. George <i>(Kościół św. Jerzego w Sopocie)</i>
 3. Gdynia 
+    - Gdynia City Beach <i>(Plaża Miejska)</i> 
+    - Gdynia Aquarium <i>(Akwarium Gdyńskie)</i>
+    - Kościuszko Square <i>(Skwer Kościuszki)</i>
     - Starowiejska Street <i>(Ulica Starowiejska)</i> 
     - Museum Ship "Dar Pomorza" <i>(Dar Pomorza)</i> 
-    - Gdynia City Beach <i>(Plaża Miejska)</i> 
 4. Władysławowo
-    - Władysławowo Church <i>(Kościół pw. Wniebowzięcia)</i> 
     - Władysławowo Park <i>(Park Miejski)</i>
+    - Sports Stars Avenue <i>(Aleja Gwiazd Sportu)</i>
     - Władysławowo City Hall <i>(Dom Rybaka we Władysławowie)</i>
+    - Władysławowo Fishing Port <i>(Port Rybacki we Władysławowie)</i>
+    - Władysławowo Church <i>(Kościół pw. Wniebowzięcia)</i> 
 5. Hel
-    - Hel Lighthouse <i>(Latarnia Morska Hel)</i>
+    - Fokarium <i>(Fokarium)</i>
     - Hel Beach <i>(Plaża w Helu)</i>
     - Wiejska Street <i>(Ulica Wiejska)</i>
+    - Hel Peninsula Museum <i>(Muzeum Helu)</i>
+    - Hel Lighthouse <i>(Latarnia Morska Hel)</i>
     - Fisheries Museum <i>(Muzeum Rybołówstwa)</i>
-    - Fokarium <i>(Fokarium)</i>
 6. Kraków
     - Old Town Kraków <i>(Stare Miasto)</i>
+    - Kraków Barbican <i>(Barbakan)</i>
+    - Cloth Hall <i>(Sukiennice)</i>
     - Main Market Square <i>(Rynek Główny)</i>
     - St. Mary's Church <i>(Kościół Mariacki)</i>
-    - Wawel Royal Castle <i>(Zamek Królewski na Wawelu)</i>
     - Wawel Cathedral <i>(Katedra Wawelska)</i>
-    - Kraków Barbican <i>(Barbakan)</i>
+    - Kazimierz Jewish Quarter <i>(Kazimierz)</i>
     - Kościuszko's Mound <i>(Kopiec Kościuszki)</i>
     - St. Florian's Gate <i>(Brama Floriańska)</i>
-    - Church of Ss. Apostles Peter and Paul <i>(Kościół Św. Apostołów Piotra i Pawła)</i>
+    - Wawel Royal Castle <i>(Zamek Królewski na Wawelu)</i>
     - Wawel Dragon Statue <i>(Pomnik Smoka Wawelskiego)</i>
     - Czartoryski Museum <i>(Muzeum Książąt Czartoryskich)</i>
     - Jagiellonian University <i>(Uniwersytet Jagielloński)</i>
+    - Church of Ss. Peter and Paul <i>(Kościół Św. Piotra i Pawła)</i>
 7. Katowice
+    - Spodek <i>(Spodek)</i>
     - Market Square <i>(Rynek w Katowicach)</i>
     - Silesian Museum <i>(Muzeum Śląskie)</i>
     - Mariacka Street <i>(Ulica Mariacka)</i>
-    - Cathedral of Christ the King <i>(Archikatedra Chrystusa Króla)</i>
     - Silesian Parliament <i>(Sejm Śląski)</i>
     - Monopol Hotel <i>(Hotel Monopol)</i>
     - St. Mary's Church <i>(Kościół Mariacki)</i>
-    - Spodek <i>(Spodek)</i>
+    - Cathedral of Christ the King <i>(Archikatedra Chrystusa Króla)</i>
+    - Nikiszowiec Mining District <i>(Zabytkowe Osiedle Nikiszowiec)</i>
 8. Zakopane
     - Krupówki Street <i>(Ulica Krupówki)</i>
     - Gubalowka Mountain <i>(Gubałówka)</i>
-    - Gravitational Slide <i>(Zjeżdżalnia Grawitacyjna)</i>
     - Tatra Museum <i>(Muzeum Tatrzańskie)</i>
-    - Museum of Zakopane Style <i>(Muzeum Stylu Zakopiańskiego)</i>
+    - Oscypek Museum <i>(Muzeum Oscypka)</i>
+    - Wielka Krokiew Ski Jump <i>(Wielka Krokiew)</i>
     - Holy Family Church <i>(Kościół Św. Rodziny)</i>
+    - Gravitational Slide <i>(Zjeżdżalnia Grawitacyjna)</i>
+    - Museum of Zakopane Style <i>(Muzeum Stylu Zakopiańskiego)</i>
     - Church of Our Lady of Częstochowa <i>(Kościół Matki Bożej Częstochowskiej)</i> 
-    - Oscypka Museum <i>(Muzeum Oscypka)</i>
 {{< /spoiler >}}
 
 
@@ -135,18 +149,21 @@ Hej! Here's a glimpse into my experiences in invincible Poland, which I visited 
 - 🇵🇱 Oskar Cyms (singer). Genre: pop
 - 🇵🇱 Justyna Steczkowska (singer). Genre: pop
 - 🇵🇱 Krzikopa (band). Genre: folk
-- 🇵🇱 Patrick the Pan (singer). Genre: indie pop
 - 🇵🇱 IGO (singer). Genre: pop
+- 🇵🇱 Patrick the Pan (singer). Genre: indie pop
+- 🇵🇱 Zenek Martyniuk (singer). Genre: disco polo
 - 🇺🇳 C-Bool (DJ). Genre: house
 - 🇺🇳 Tom Swoon (DJ). Genre: progressive house
 - 🇺🇳 Alicja (singer). Genre: pop
 - 🇺🇳 WIXAPOL S.A. (DJ band). Genre: wixa
 
-<b>🎚️ Contribution to Electronic Music: </b>
+<b>🎚️ Contribution to Electronic Music:</b>
+- Disco Polo. Originated: late 1980s
 - Wixa Music. Originated: early 2000s
 
 
 <b>🍽️ Local food & drinks: </b>
+- 🥗 Mizeria <i>(Mizeria)</i>
 - 🥙 Zapiekanka <i>(Zapiekanka)</i>
 - 🥙 Szczecin Pasztecik <i>(Pasztecik Szczeciński)</i>
 - 🍲 Żurek <i>(Żurek)</i>
@@ -158,7 +175,7 @@ Hej! Here's a glimpse into my experiences in invincible Poland, which I visited 
 - 🥘 Pierogi <i>(Pierogi)</i>
   - 🥘 Meat Pierogi <i>(Pierogi z Mięsem)</i>
   - 🥘 Cabbage Pierogi <i>(Pierogi z Kapustą)</i>
-  - 🥘 Mashroom Pierogi <i>(Pierogi z Grzybami)</i>
+  - 🥘 Mushroom Pierogi <i>(Pierogi z Grzybami)</i>
   - 🥘 Ruskie Pierogi <i>(Pierogi Ruskie)</i>
 - 🥘 Kotlet Schabowy <i>(Kotlet Schabowy)</i>
 - 🥘 Zrazy <i>(Zrazy)</i>
@@ -175,11 +192,11 @@ Hej! Here's a glimpse into my experiences in invincible Poland, which I visited 
 - 🍶 Polish Bison Grass Vodka <i>(Brand: "Żubrówka")</i>
 - 🍶 Polish Nalewka <i>(Brands: "Lubelska Wiśniówka", "Soplica Orzech Laskowy")</i>
 </br>
-<u>Pomeranian - Regional Special:</u> 
+<u>Pomerania - Regional Special:</u> 
 - 🥓 Kashubian Pickled  Herring <i>(Śledzie po Kaszubsku / Szledz po Kaszëbskù)</i>
 - 🍰 Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
 </br>
-<u>Silesian - Regional Special:</u> 
+<u>Silesia - Regional Special:</u> 
 - 🥓 Krupniok Śląski <i>(Krupniok Śląski / Krupniok)</i>
 - 🥗 Szałot <i>(Szałot / Szałot)</i>
 - 🍲 Wodzianka <i>(Wodzianka / Wodźůnka)</i>
@@ -195,30 +212,32 @@ Hej! Here's a glimpse into my experiences in invincible Poland, which I visited 
 <u>Lesser Poland - Regional Special:</u> 
 - 🥓 Kraków Sausage <i>(Kiełbasa Krakowska)</i>
 - 🥙 Maczanka Krakowska <i>(Maczanka Krakowska)</i>
-- 🫓 Obwarzanek Krakowski <i>(Obwarzanek Krakowski)</i>
 - 🍲 Góral Kwaśnica <i>(Góralska Kwaśnica)</i>
 - 🥘 Góral Moskole <i>(Góralskie Moskole)</i>
 - 🧀 Oscypek <i>(Oscypek)</i>
 - 🧀 Gołka <i>(Gołka)</i>
 - 🧀 Redykołka <i>(Redykołka)</i>
+- 🫓 Obwarzanek Krakowski <i>(Obwarzanek)</i>
 
 
 <b>🎬 Local movies:</b>
-- Corpus Christi <i>(Boże Ciało)</i>. Year: 2019. Genre: drama 
-- The Peasants <i>(Chłopi)</i>. Year: 2023. Genre: drama 
-- Forgotten Love <i>(Znachor)</i>. Year: 2023. Genre: drama 
-- Mug <i>(Twarz)</i>. Year: 2018. Genre: drama 
+- 🥹 Corpus Christi <i>(Boże Ciało)</i>. Year: 2019. Genre: drama 
+- 🥹 Mug <i>(Twarz)</i>. Year: 2018. Genre: drama
+- 🕰️ Forgotten Love <i>(Znachor)</i>. Year: 2023. Genre: history / drama 
+- 🕰️ The Peasants <i>(Chłopi)</i>. Year: 2023. Genre: history / drama 
 
 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Polish Folklore <i>(Folklor Polski)</i>
 - 🏺 Kapliczka Shrines <i>(Kapliczki)</i>
+- 🚗 Polish Cars <i>(Brands: "FSO", "Arrinera")</i>
 - 🏘️ Polish Milk Bars <i>(Bary Mleczne)</i>
-- 🏛️ Polish Brick Gothic Architecture <i>(Gotyk Ceglany)</i>
 - 🛠️ Bolesławiec Pottery <i>(Ceramika Bolesławiecka)</i>
+- 🎨 Formist Painting <i>(Malarstwo Formistyczne)</i>
 - 🏓 Palant Game <i>(Palant)</i>
 - 💃 Polonaise Dance <i>(Polonez)</i>
-- 💃 Mazurka Dance <i>(Mazurek)</i>
+- 💃 Kujawiak Dance <i>(Kujawiak)</i>
+- 💃 Mazur Dance <i>(Mazur)</i>
 - 💃 Oberek Dance <i>(Oberek)</i>
 - 🪕 Musical Instrument: Koza <i>(Koza)</i>
 - 👘 Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i>
@@ -226,11 +245,14 @@ Hej! Here's a glimpse into my experiences in invincible Poland, which I visited 
 - 🏰 Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i> 
 - 🏰 Heritage of the Polish–Lithuanian Commonwealth <i>(Rzeczpospolita / Regnum Poloniae Magnusque Ducatus Lithuaniae)</i>
   - 🦉 Concept: Sarmatism <i>(Sarmatyzm)</i>
+  - 🦉 Concept: Golden Liberty <i>(Złota Wolność)</i>
+  - 🕯️ Frankism <i>(Frankizm)</i>
+  - 🏺 Gdańsk Cupboards <i>(Szafy Gdańskie)</i>
   - 👑 Title of Szlachcic <i>(Szlachcic)</i>
-  - 🏛️ Polish Baroque Architecture <i>(Sztuka Barokowa w Polsce)</i>
   - 👘 Garb: Delia & Żupan <i>(Delia i Żupan)</i>
 - 🏰 Heritage of the Duchy of Warsaw <i>(Księstwo Warszawskie / Duché de Varsovie)</i><br>
-<u>Pomeranian - Regional Special:</u> 
+<u>Pomerania - Regional Special:</u>
+- 🛠️ Baltic Amber Crafting <i>(Bursztyniarstwo)</i>
 - 👲 Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
   - 🐦‍🔥 Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
   - 🎨 Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
@@ -240,7 +262,7 @@ Hej! Here's a glimpse into my experiences in invincible Poland, which I visited 
 - 🏰 Heritage of the Duchy of Pomerania <i>(Księstwo Pomorskie / Herzogtum Pommern)</i>
 - 🏰 Heritage of the Free City of Danzig <i>(Wolne Miasto Gdańsk / Freie Stadt Danzig)</i>
 <br> 
-<u>Silesian - Regional Special:</u>
+<u>Silesia - Regional Special:</u>
 - 🏺 Katowice Beboks <i>(Katowickie Beboki / Katowicke Beboki)</i>
 - 👲 Culture of Silesians <i>(Ślązacy / Ślůnzoki)</i>
   - 🏘️ Familok Houses <i>(Familoki / Familoki)</i>
@@ -253,12 +275,12 @@ Hej! Here's a glimpse into my experiences in invincible Poland, which I visited 
 - 🐦‍🔥 Legend of the Wawel Dragon <i>(Legenda o Smoku Wawelskim)</i>
 - 🏺 Kraków Szopki <i>(Szopki Krakowskie)</i>
 - 🎑 Lajkonik Ritual <i>(Lajkonik)</i>
-- 🎑 St. Mary's Trumpet Call Ritual <i>(Hejnał Mariacki)</i>
+- 🎑 St. Mary's Trumpet Ritual <i>(Hejnał Mariacki)</i>
 - 🎑 Siuda Baba Ritual <i>(Siuda Baba)</i>
 - 💃 Krakowiak Dance <i>(Krakowiak)</i>
 - 👘 Garb: Krakuska Hat <i>(Czapka Krakowska)</i>
 - 👲 Culture of Gorals <i>(Górale / Górole)</i>
-  - 🏺 Wałaszka Axes <i>(Ciupagi)</i>
+  - 🏺 Goral Shepherd’s Axes <i>(Ciupagi)</i>
   - 🏛️ Zakopane Architecture <i>(Styl Zakopiański)</i>
   - 🎨 Parzenica Embroidery <i>(Parzenica)</i>
   - 💃 Góralski Dance <i>(Taniec Góralski)</i>
@@ -268,28 +290,32 @@ Hej! Here's a glimpse into my experiences in invincible Poland, which I visited 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Independence Day of Poland <i>(Narodowe Święto Niepodległości)</i>. Month: November
-- Third May Constitution Day <i>(Święto Konstytucji 3 Maja)</i>. Month: May
-- Dożynki <i>(Dożynki)</i>. Month: August
-- Wigilia <i>(Wigilia Bożego Narodzenia)</i>. Month: December<br>
-<u>Pomeranian - Regional Special:</u> 
-- Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March<br> 
-<u>Silesian - Regional Special:</u> 
-- Barbórka (Barbórka / Barbůrka). Month: December<br> 
+- 🎪 Dożynki <i>(Dożynki)</i>. Month: August
+- 🎪 Śmigus-Dyngus <i>(Śmigus-Dyngus)</i>. Month: March or April
+- 🗽 Independence Day of Poland <i>(Narodowe Święto Niepodległości)</i>. Month: November
+- 🗽 Third May Constitution Day <i>(Święto Konstytucji 3 Maja)</i>. Month: May<br>
+<u>Pomerania - Regional Special:</u>
+- 🎪 Wdzydze Fair <i>(Jarmark Wdzydzki / Wdzëcczi Jarmark)</i>. Month: July
+- 🎪 St. Dominic's Fair <i>(Gdański Jarmark św. Dominika)</i>. Month: July to August
+- 👲 Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March
+<br> 
+<u>Silesia - Regional Special:</u> 
+- 👲 Silesian Days (Święto Śląska). Month: June to July
+- 🎪 Barbórka (Barbórka / Barbůrka). Month: December<br> 
 <u>Lesser Poland - Regional Special:</u> 
-- Rękawka (Rękawka). Month: March or April
-- Wianki Festival (Wianki). Month: June
-- Festival of Goral Folklore (Festiwal Folkloru Ziem Górskich). Month: August 
+- 🎪 Rękawka (Rękawka). Month: March or April
+- 🎪 Wianki Festival (Wianki). Month: June
+- 👲 Góralski Carnival (Karnawał Góralski). Month: February
+- 👲 Festival of Goral Folklore (Festiwal Folkloru Ziem Górskich). Month: August 
 
 <b>💐 National flower: </b> 
-- Red Poppy <i>(Mak Polny)</i><br>
-<u>Pomeranian - Regional Special:</u> 
+- <b>Red Poppy <i>(Mak Polny)</i></b><br>
+<u>Pomerania - Regional Special:</u> 
 - Kashubian Vetch <i>(Wyka Kaszubska / Kaszëbskô Wika)</i><br>
 <u>Silesia - Regional Special:</u>
 - Red Rose <i>(Czerwona Róża / Czyrwōno Rōuza)</i><br>
 <u>Lesser Poland - Regional Special:</u> 
 - Carline Thistle <i>(Dziewięćsił)</i>
-
 
 
 <b>🦉 Local wisdom:</b> "The turkey had a plan for Sunday, but it was eaten on Saturday." / <i>"Indyk myślał o niedzieli, a w sobotę łeb mu ścięli."</i> — Polish proverb

@@ -139,9 +139,9 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - 🥗 Salată de Icre <i>(Salată de Icre)</i>
 - 🥗 Salată de Boeuf <i>(Salată de Boeuf)</i>
 - 🥙 Plăcintă <i>(Plăcintă)</i>
-  - 🥙 Plăcintă with Cheese <i>(Plăcintă cu Brânză)</i>
-  - 🥙 Plăcintă with Potato <i>(Plăcintă cu Cartofi)</i>
-  - 🍰 Plăcintă with Apple <i>(Plăcintă cu Mere)</i>
+  - 🥙 Cheese Plăcintă <i>(Plăcintă cu Brânză)</i>
+  - 🥙 Potato Plăcintă <i>(Plăcintă cu Cartofi)</i>
+  - 🍰 Apple Plăcintă <i>(Plăcintă cu Mere)</i>
 - 🍲 Ciorbă de Burtă <i>(Ciorbă de Burtă)</i>
 - 🍲 Ciorbă de Perișoare <i>(Ciorbă de Perișoare)</i>
 - 🍲 Ciorbă de Fasole în Pâine <i>(Ciorbă de Fasole în Pâine)</i>
