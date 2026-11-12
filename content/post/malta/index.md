@@ -107,6 +107,7 @@ Hej! Here's a glimpse into my experiences in hospitable Malta, which I visited i
 
 
 <b>🍽️ Local food & drinks: </b>
+- 🥗 Bigilla <i>(Bigilla)</i>
 - 🥙 Pastizzi <i>(Pastizzi)</i>
   - 🥙 Pastizzi with Curried Peas <i>(Pastizzi tal-Piżelli)</i> 
   - 🥙 Pastizzi with Ricotta <i>(Pastizzi tar-Rikotta)</i> 

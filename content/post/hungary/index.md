@@ -173,14 +173,15 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
 - 💃 Verbunkos Dance <i>(Verbunkos)</i>
 - 🪕 Musical Instrument: Cimbalom <i>(Cimbalom)</i>
 - 👘 Garb: Bocskai Coat & Attila <i>(Bocskai Öltöny és Atilla)</i>
-- 🧝 Legacy of Ancient Magyars <i>(Ősmagyarok)</i>
-  - 🦉 Concept: Égig Érő Fa <i>(Égig Érő Fa)</i>
-  - 🕯️ Old Hungarian Shamanism <i>(Táltoshit)</i>
-  - 🐦‍🔥 Old Hungarian Mythology <i>(Ősmagyar Mitológia)</i>
-  - 👑 System of Seven Magyar Tribes <i>(Hétmagyar)</i>
-  - 👑 Title of Táltos <i>(Táltos)</i>
-  - 🏺 Tarsoly Belt Pouches <i>(Tarsolyok)</i>
-  - 🎑 Révülés Ritual <i>(Révülés)</i>
+- 🧝 Legacy of Ancient Magyars <i>(Ősmagyarok / <bdi style="direction: rtl;">𐳘𐳀𐳍𐳀𐳢𐳛𐳐</bdi>)</i>
+  - 🦉 Concept: Égig Érő Fa <i>(Égig Érő Fa / <bdi style="direction: rtl;">𐳉𐳍𐳉𐳍 𐳉𐳢𐳛 𐳙𐳀</bdi>)</i>
+  - 🕯️ Old Hungarian Shamanism <i>(Táltoshit / <bdi style="direction: rtl;">𐳓𐳀𐳗𐳓𐳞𐳤𐳋𐳓</bdi>)</i>
+  - 📜 Old Hungarian Runic Alphabet <i>(Székely-Magyar Rovásírás / <bdi style="direction: rtl;">𐲥𐳋𐳓𐳉𐳗-𐳘𐳀𐳎𐳀𐳢 𐳢𐳛𐳮𐳁𐳤</bdi>)</i>
+  - 🐦‍🔥 Old Hungarian Mythology <i>(Ősmagyar Mitológia / <bdi style="direction: rtl;">𐳘𐳀𐳍𐳀𐳢 𐳘𐳛𐳓𐳞𐳗𐳛𐳍𐳀</bdi>)</i>
+  - 👑 System of Seven Magyar Tribes <i>(Hétmagyar / <bdi style="direction: rtl;">𐳋𐳉𐳓𐳘𐳀𐳍𐳀𐳢</bdi>)</i>
+  - 👑 Title of Táltos <i>(Táltos / <bdi style="direction: rtl;">𐳓𐳀𐳗𐳓𐳞𐳤</bdi>)</i>
+  - 🏺 Tarsoly Belt Pouches <i>(Tarsolyok / <bdi style="direction: rtl;">𐳓𐳀𐳢𐳤𐳞𐳗𐳢𐳐</bdi>)</i>
+  - 🎑 Révülés Ritual <i>(Révülés / <bdi style="direction: rtl;">𐳢𐳉𐳙𐳣𐳗𐳉𐳤</bdi>)</i>
 - 🧝 Legacy of Kabars <i>(Kavarok)</i>
 - 🏰 Heritage of the Grand Principality of Hungary <i>(Magyar Nagyfejedelemség)</i>
 - 🏰 Heritage of the Kingdom of Hungary <i>(Magyar Királyság / Regnum Hungariae)</i>

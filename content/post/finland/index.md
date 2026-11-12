@@ -130,6 +130,7 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
 - 🍰 Mämmi <i>(Mämmi)</i>
 - 🍰 Mustikkapöperö <i>(Mustikkapöperö)</i>
 - 🍰 Pulla Bread <i>(Nisu)</i>
+- 🥫 Egg Butter <i>(Munavoi)</i>
 - 🍶 Finnish Lonkero <i>(Brand: "Hartwall Original")</i>
 - 🍶 Finnish Liqueur <i>(Brand: "Minttu")</i><br>
 <u>Uusimaa - Regional Special:</u>

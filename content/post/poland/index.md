@@ -165,6 +165,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 
 <b>🍽️ Local food & drinks: </b>
 - 🥗 Mizeria <i>(Mizeria)</i>
+- 🥗 Ćwikła <i>(Ćwikła)</i>
 - 🥙 Zapiekanka <i>(Zapiekanka)</i>
 - 🥙 Szczecin Pasztecik <i>(Pasztecik Szczeciński)</i>
 - 🍲 Żurek <i>(Żurek)</i>

@@ -283,6 +283,7 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🥘 Schweinshaxe <i>(Schweinshaxe / Schweinshaxn)</i>
 - 🥘 Schweinsbraten with Beer Sauce <i>(Schweinsbraten mit Biersauce / Schweinsbratn mit Biersoß) </i>
 - 🥘 Bavarian Cabbage <i>(Bayrisch Kraut / Bayrischkraut)</i>
+- 🥫 Bavarian Sweet Mustard <i>(Bayerischer Süßer Senf / Boarischa Siaßa Semf)</i>
 - 🍶 Hefeweizen Beer <i>(Brands: "Hofbräu München", "Paulaner", "Erdinger", "Weihenstephaner")</i>
 
 

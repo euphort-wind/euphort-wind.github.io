@@ -153,6 +153,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🍰 Dame Blanche <i>(Dame Blanche / Dame Blanche)</i>
 - 🍰 Belgian Waffles <i>(Gaufres Belges / Belgische Wafels)</i>
 - 🍰 Belgian Chocolate <i>(Chocolats Belges / Belgische Chocolade)</i>
+- 🍰 Cookie Butter <i>(Pâte à Tartiner au Spéculoos / Speculoospasta)</i>
 - 🍶 Belgian Ale <i>(Brands: "Leffe", "Delirium")</i>
 - 🍶 Belgian Kriek Lambic <i>(Brands: "Timmermans", "BOON")</i>
 - 🍶 Belgian Lager Beer <i>(Brands: "Stella Artois", "Jupiler")</i>

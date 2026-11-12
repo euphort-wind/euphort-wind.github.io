@@ -209,7 +209,8 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🍰 Oliebol <i>(Oliebol)</i>
 - 🍰 Hagelslag <i>(Hagelslag)</i> 
 - 🍰 Stroopwafel <i>(Stroopwafel)</i>
-- 🧀 Boerenkaas <i>(Boerenkaas)</i> 
+- 🧀 Boerenkaas <i>(Boerenkaas)</i>
+- 🥫 Fritessaus <i>(Fritessaus)</i>
 - 🍶 Jenever <i>(Brand: "Bols Zeer Oude")</i></br>
 <u>North Holland - Regional Special:</u> 
 - 🥓 Ossenworst <i>(Ossenworst)</i>

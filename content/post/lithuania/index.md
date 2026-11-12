@@ -118,7 +118,6 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 
 <b>🍽️ Local food & drinks: </b>
 - 🥓 Skilandis Sausage <i>(Kindziukas)</i>
-- 🥗 Samogitian Kastinys <i>(Žemaitiškas Kastinys)</i>
 - 🍲 Lithuanian Cold Borscht <i>(Šaltibarščiai)</i>
 - 🥘 Kepta Duona <i>(Kepta Duona)</i>
 - 🥘 Samogitian Pancake <i>(Žemaičių Blynai)</i>
@@ -128,6 +127,7 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - 🍰 Šakotis <i>(Šakotis)</i>
 - 🍰 Apple Cheese <i>(Obuolių Sūris)</i>
 - 🍰 Tinginys <i>(Tinginys)</i>
+- 🥫 Kastinys <i>(Žemaitiškas Kastinys)</i>
 - 🍶 Lithuanian Lager Beer <i>(Brand: "Kalnapilis")</i>
 </br> 
 <u>Vilnius - Regional Special:</u> 

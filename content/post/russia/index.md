@@ -68,11 +68,11 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - Sparrow Hills <i>(Воробьёвы Горы)</i>
     - Zaryadye Park <i>(Парк "Зарядье")</i>
     - Bolshoi Theatre <i>(Большой Театр)</i>
-    - Moscow Metro <i>(Московский Метрополитен)</i>
     - Gorky Central Park <i>(ЦПКиО им. Горького)</i>
     - Sobornaya Square <i>(Соборная Площадь)</i>
     - Pushkin Museum <i>(Пушкинский Музей)</i>
     - Alexander Garden <i>(Александровский Сад)</i>
+    - Moscow Metro <i>(Московский Метрополитен)</i>
     - Tretyakov Gallery <i>(Третьяковская Галерея)</i>
     - St. Basil's Cathedral <i>(Собор Василия Блаженного)</i>
     - Moscow International Business Center <i>(Москва-Сити)</i>
@@ -179,9 +179,9 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - Olympic Park <i>(Олимпийский Парк)</i>
     - Dendrariy Park <i>(Парк "Дендрарий")</i> 
     - Agur Waterfalls <i>(Агурские Водопады)</i>
-    - Yew-Boxwood Grove <i>(Тисо-Самшитовая Роща)</i> 
     - Navaginskaya Street <i>(Улица Навагинская)</i>
     - Sochi Winter Theatre <i>(Зимний Театр Сочи)</i>
+    - Yew-Boxwood Grove <i>(Тисо-Самшитовая Роща)</i> 
     - Sochi Marine Station <i>(Морской Вокзал Сочи)</i>
     - Sochi Art Museum <i>(Сочинский Художественный Музей)</i>
     - Ordzhonikidze Sanatorium <i>(Санаторий им. Орджоникидзе)</i>
@@ -222,10 +222,10 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 18. Zheleznovodsk
     - Lechebny Park <i>(Лечебный Парк)</i>
     - Mount Zheleznaya <i>(Гора Железная)</i>
-    - Ferrum Square  <i>(Площадь "Ferrum")</i>  
+    - Ferrum Square  <i>(Площадь "Ferrum")</i>
+    - Cascade Staircase <i>(Каскадная Лестница)</i>   
     - Pushkin Gallery <i>(Пушкинская Галерея)</i> 
     - Smirnovsky Spring <i>(Смирновский Источник)</i> 
-    - Cascade Staircase <i>(Каскадная Лестница)</i> 
     - Lermontov Mineral Spring <i>(Лермонтовский Источник)</i>
     - Slavyanovskaya Mineral Spring <i>(Славяновский Источник)</i> 
     - Palace of the Emir of Bukhara <i>(Дворец Эмира Бухарского)</i> 
@@ -470,7 +470,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - 👘 Garb: Kashmau <i>(Кашмау / Ҡашмау)</i>
 - ⛰️ Shikhan Chalk Hills <i>(Шиханы / Шихандар)</i><br>
 <u>Kabardino-Balkaria - Regional Special:</u> 
-- 👲 Culture of Karachay-Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
+- 👲 Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
     - 🦉 Concept: Taulu Namys <i>(Намыс / Таулу Намыс)</i>
     - 🐦‍🔥 Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
     - 🏺 Balkar Bychak Knives <i>(Бичаки / Бычакы)</i>
@@ -523,7 +523,6 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 👲 Culture of Izhorians <i>(Ижоры / Ižorat)</i>
 - 👲 Culture of Vepsians <i>(Вепсы / Vepsläižed)</i><br>
 <u>St. Petersburg-City - Regional Special:</u> 
-- 🏛️ Petrine Baroque Architecture <i>(Петровское Барокко)</i>
 - 👲 Culture of Votians <i>(Водь / Vađđalaizõd)</i><br>
 <u>Chelyabinsk - Regional Special:</u> 
 - 🛠️ Kasli Iron Sculpture <i>(Каслинское Литьё)</i>

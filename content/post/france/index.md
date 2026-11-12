@@ -248,7 +248,6 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🧀 Langres Cheese <i>(Langres)</i>
 - 🧀 Tomme <i>(Tomme)</i>
 - 🧀 Morbier <i>(Morbier)</i>
-- 🥫 Mayonnaise <i>(Mayonnaise)</i>
 - 🥫 Hollandaise <i>(Sauce Hollandaise)</i>
 - 🥫 Béchamel <i>(Sauce Béchamel)</i>
 - 🥫 Remoulade <i>(Rémoulade)</i>

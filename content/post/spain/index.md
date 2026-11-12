@@ -162,6 +162,7 @@ Hej! Here's a glimpse into my experiences in resplendent Spain, which I visited 
 - 🍰 Natillas <i>(Natillas)</i>
 - 🍰 Quince Paste <i>(Dulce de Membrillo)</i>
 - 🧀 Manchego Cheese <i>(Queso Manchego)</i>
+- 🥫 Mayonnaise <i>(Mayonesa)</i>
 - 🥫 Tomate Frito Sauce <i>(Tomate Frito)</i>
 - 🥫 Sofrito Sauce <i>(Sofrito)</i>
 - 🍶 Tinto de Verano Cocktail <i>(Tinto de Verano)</i>
