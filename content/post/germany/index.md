@@ -287,14 +287,14 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 
 
 <b>🎬 Local movies:</b>
-- 🥹 Knockin' on Heaven's Door <i>(Knockin’ on Heaven’s Door)</i>. Year: 1997. Genre: drama
+- 🥲 Knockin' on Heaven's Door <i>(Knockin’ on Heaven’s Door)</i>. Year: 1997. Genre: drama
 - 🕰️ The Lives of Others <i>(Das Leben der Anderen)</i>. Year: 2006. Genre: history / thriller
-- 🥹 Head Full of Honey <i>(Honig im Kopf)</i>. Year: 2014. Genre: drama
+- 🥲 Head Full of Honey <i>(Honig im Kopf)</i>. Year: 2014. Genre: drama
 - 🕵️ Who Am I <i>(Who Am I - Kein System Ist Sicher)</i>. Year: 2014. Genre: thriller
 - 🕵️ The Collini Case <i>(Der Fall Collini)</i>. Year: 2019. Genre: thriller
 - 🕰️ Never Look Away <i>(Werk ohne Autor)</i>. Year: 2018. Genre: history / drama
 - 🕵️ Perfume: The Story of a Murderer <i>(Das Parfum)</i>. Year: 2006. Genre: thriller / history
-- 🥹 A Coffee in Berlin <i>(Oh Boy)</i>. Year: 2012. Genre: drama
+- 🥲 A Coffee in Berlin <i>(Oh Boy)</i>. Year: 2012. Genre: drama
 - 😀 Where Is Fred? <i>(Wo ist Fred?)</i>. Year: 2006. Genre: comedy
 - 😀 100 Things <i>(100 Dinge)</i>. Year: 2018. Genre: comedy
 - 🕰️ Ludwig II <i>(Ludwig II)</i>. Year: 2012. Genre: history

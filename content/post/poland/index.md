@@ -222,10 +222,10 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 
 
 <b>🎬 Local movies:</b>
-- 🥹 Corpus Christi <i>(Boże Ciało)</i>. Year: 2019. Genre: drama 
+- 🥲 Corpus Christi <i>(Boże Ciało)</i>. Year: 2019. Genre: drama 
 - 🕰️ Forgotten Love <i>(Znachor)</i>. Year: 2023. Genre: history / drama 
 - 🕰️ The Peasants <i>(Chłopi)</i>. Year: 2023. Genre: history / drama 
-- 🥹 Mug <i>(Twarz)</i>. Year: 2018. Genre: drama
+- 🥲 Mug <i>(Twarz)</i>. Year: 2018. Genre: drama
 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Polish Folklore <i>(Folklor Polski)</i>

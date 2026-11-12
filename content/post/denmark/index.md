@@ -146,7 +146,7 @@ Hej! Here's a glimpse into my experiences in marvelous Denmark, which I visited 
 
 <b>🎬 Local movies:</b>
 - 🌚 Dogville <i>(Dogville)</i>. Year: 2003. Genre: thriller
-- 🥹 Another Round <i>(Druk)</i>. Year: 2020. Genre: drama 
+- 🥲 Another Round <i>(Druk)</i>. Year: 2020. Genre: drama 
 - 🥊 Riders of Justice <i>(Retfærdighedens Ryttere)</i>. Year: 2020. Genre: action 
 - 🕵️ The Hunt <i>(Jagten)</i>. Year: 2012. Genre: drama / thriller
 - 🕵️ The Keeper of Lost Causes <i>(Kvinden i Buret)</i>. Year: 2013. Genre: thriller

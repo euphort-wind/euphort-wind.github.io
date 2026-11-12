@@ -56,7 +56,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 
 <b>Important:</b> I only share my own experiences and recommend the things I personally tried. Therefore, everything written below is extremely subjective and does not cover all the local features and places ☺️.
 
-<b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Yakty-Kul, Abzakovo, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Arkaim, Roza Khutor, Sochi, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arhyz, Mineralnye Vody, Fiagdon, Dargavs, Fasnal, Zadalesk, Vladikavkaz, Sterlitamak, Orenburg, Salavat.<br>
+<b>🗺 Places:</b> Moscow, Ekaterinburg, Magnitogorsk, Yakty-Kul, Abzakovo, Orenburg, Saint Petersburg, Pavlovsk, Gatchina, Degtyarsk, Revda, Arkaim, Estosadok, Sochi, Kislovodsk, Essentuki, Pyatigorsk, Zheleznovodsk, Lermontov, Nalchik, Arkhyz, Mineralnye Vody, Fiagdon, Dargavs, Fasnal, Zadalesk, Vladikavkaz, Sterlitamak, Salavat.<br>
 
 <b>🏛 Top sights visited: </b>
 
@@ -104,12 +104,22 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - Yakty-Kul Sanatorium <i>(Санаторий "Якты-Куль")</i>
     - Yubileiny Sanatorium  <i>(Санаторий "Юбилейный")</i>
     - Kuzhanovo Larches <i>(Кужановские Лиственницы)</i>
-6. Abzakovo (Beloretsky)
-    - Kurtash Mount <i>(г. Курташ)</i>
+5. Abzakovo (Beloretsky)
+    - Mount Kurtash <i>(г. Курташ)</i>
     - Abzakovo Zoo <i>(Зоопарк "Абзаково")</i>
     - Abzakovo Ski-centre <i>(ГЛЦ "Абзаково")</i>
     - Blue Rocks <i>(Синие Скалы - Кульсугаташ)</i>
     - Abzakovo Cable Car <i>(Канатная Дорога)</i>
+6. Orenburg
+    - Clock Tower <i>(Башня с Часами)</i>
+    - Water Tower <i>(Водонапорная Башня)</i>
+    - Sovetskaya Street <i>(Улица Советская)</i>
+    - Elizabethan Gate <i>(Елизаветинские Ворота)</i>
+    - Zelyonaya Roshcha Park <i>(Парк "Зелёная Роща")</i>
+    - Orenburg Caravanserai <i>(Оренбургский Караван-Сарай)</i>
+    - Orenburg Central Waterfront <i>(Оренбургская Набережная)</i>
+    - Museum of Orenburg History <i>(Музей Истории Оренбурга)</i>
+    - Europe–Asia Pedestrian Bridge <i>(Пешеходный Мост "Европа — Азия")</i>
 7. Saint Petersburg
     - State Hermitage Museum <i>(Эрмитаж)</i>
     - Nevsky Avenue <i>(Невский Проспект)</i>
@@ -125,7 +135,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - Church of the Savior on Blood <i>(Спас-на-Крови)</i> 
     - State Russian Museum <i>(Государственный Русский Музей)</i>
     - Peter and Paul Fortress <i>(Петропавловская Крепость)</i>
-    - Pushkin's Appartment <i>(Мемориальный Музей-Квартира Пушкина)</i> 
+    - Pushkin's Apartment <i>(Мемориальный Музей-Квартира Пушкина)</i> 
 8. Pavlovsk
     - Pavlovsk Park <i>(Павловский Парк)</i>
     - Pavlovsk Palace <i>(Павловский Дворец)</i>
@@ -148,7 +158,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - Demidov Centre <i>(Музейный Комплекс "Демидов-Центр")</i> 
     - Church of Archangel Michael <i>(Храм Архистратига Михаила)</i> 
 12. Arkaim (Kizilsky)
-    - Shamanka Mount <i>(Гора Шаманка)</i>
+    - Mount Shamanka <i>(Гора Шаманка)</i>
     - Arkaim Settlement <i>(Городище "Аркаим")</i>
     - Alley of Menhirs <i>(Аллея Менгиров)</i>
     - Kurgan Temir Museum <i>(Музей "Курган Темир")</i>
@@ -161,7 +171,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - Boomerang Casino <i>(Казино "Бумеранг")</i> 
     - Rosa Khutor Ski-Center <i>(ГЛЦ "Роза Хутор")</i>
     - Rosa Peak Observation Deck <i>(Смотровая Площадка "Роза Пик")</i>
-    - Rosa Khutor Archaeology Museum <i>(Музей Археологии Роза Хутор)</i>
+    - Rosa Khutor Museum of Archaeology <i>(Музей Археологии Роза Хутор)</i>
 14. Sochi
     - Skypark <i>(Скайпарк)</i>
     - Sochi Park <i>(Сочи Парк)</i> 
@@ -214,13 +224,12 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - Mount Zheleznaya <i>(Гора Железная)</i>
     - Ferrum Square  <i>(Площадь "Ferrum")</i>  
     - Pushkin Gallery <i>(Пушкинская Галерея)</i> 
-    - Smirnosky Spring <i>(Смирноский Источник)</i> 
+    - Smirnovsky Spring <i>(Смирновский Источник)</i> 
     - Cascade Staircase <i>(Каскадная Лестница)</i> 
     - Lermontov Mineral Spring <i>(Лермонтовский Источник)</i>
     - Slavyanovskaya Mineral Spring <i>(Славяновский Источник)</i> 
     - Palace of the Emir of Bukhara <i>(Дворец Эмира Бухарского)</i> 
 19. Lermontov
-    - Behtau Mount <i>(г. Бештау)</i>
     - Lermontov City Park <i>(Городской Парк Лермонтова)</i> 
     - Monument to Mikhail Lermontov <i>(Памятник М. Ю. Лермонтову)</i>  
     - Assumption Monastery Vtoroafonsky Beshtaugorsky <i>(Успенский Второафонский Монастырь)</i> 
@@ -255,14 +264,14 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 24. Dargavs (Prigorodny)
     - Dargavs Gorge <i>(Даргавское Ущелье)</i>
     - Karmadon Gorge <i>(Кармадонское Ущелье)</i>
-    - Dargavs Crypt Burial Ground <i>("Город Мёртвых")</i>
+    - Dargavs City of the Dead <i>("Город Мёртвых")</i>
     - Midagrabin Waterfalls <i>(Мидаграбинские Водопады)</i>
     - Mamsurov Family Ancestral Tower <i>(Родовая башня Мамсуровых)</i>
 25. Fasnal (Irafsky)
     - Fasnal Factory <i>(Бельгийская Фабрика)</i>
     - Pukhaev Family Tower <i>(Башня Пухаевых)</i>
     - Upper Fasnal Historic Settlement <i>(Верхний Фаснал)</i>
-26. Zadalessk (Irafsky)
+26. Zadalesk (Irafsky)
     - Digori Gorge <i>(Дигорское Ущелье)</i>
     - Nana Zadaleski Museum <i>(Музей Наны Задалески)</i>
     - Sedanov Fortress Tower <i>(Крепость Братьев Седановых)</i>
@@ -271,8 +280,8 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - Mira Avenue <i>(Проспект Мира)</i>
     - Mukhtarov Mosque <i>(Мечеть Мухтарова)</i>
     - Historic Tram Bridge <i>(Трамвайный Мост)</i>
-    - Park of Culture and Recreation <i>(Парк Культуры и Отдыха)</i>
-    - Vladikavkaz Central Waterfront <i>(Набережная Реки Терек)</i>    
+    - Vladikavkaz Embankment <i>(Набережная Реки Терек)</i> 
+    - Park of Culture and Recreation <i>(Парк Культуры и Отдыха)</i>   
     - Vakhtangov House Museum <i>(Дом-Музей Евгения Вахтангова)</i>
     - Khetagurov Memorial House Museum <i>(Дом-Музей Коста Хетагурова)</i>
     - Vladikavkaz City History Museum <i>(Музей Истории Владикавказа)</i>
@@ -285,17 +294,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - Zemstvo Government Building <i>(Здание Земской Управы)</i>
     - Sterlitamak Museum of Local History <i>(Стерлитамакский Музей)</i>
     - Sterlitamak Art Gallery <i>(Стерлитамакская Картинная Галерея)</i>
-29. Orenburg
-    - Clock Tower <i>(Башня с Часами)</i>
-    - Water Tower <i>(Водонапорная Башня)</i>
-    - Sovietskaya Street <i>(Улица Советская)</i>
-    - Elizabethan Gate <i>(Елизаветинские Ворота)</i>
-    - Zelyonaya Roscha Park <i>(Парк "Зелёная Роща")</i>
-    - Orenburg Caravanserai <i>(Оренбургский Караван-Сарай)</i>
-    - Orenburg Central Waterfront <i>(Оренбургская Набережная)</i>
-    - Museum of Orenburg History <i>(Музей Истории Оренбурга)</i>
-    - Europe–Asia Pedestrian Bridge <i>(Пешеходный Мост "Европа — Азия")</i>
-30. Salavat
+29. Salavat
     - Monument to the Janitor <i>(Памятник Дворнику)</i>
     - Salavat Local History Museum <i>(Салаватский Музей)</i>
     - Salavat Yulayev Monument <i>(Памятник Салавату Юлаеву)</i>
@@ -311,12 +310,12 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🇷🇺 Alla Pugacheva (singer). Genre: pop
 - 🇷🇺 Жин-Жин (singer). Genre: house
 - 🇷🇺 Kris Kelmi (singer). Genre: rock
-- 🇺🇳 Russian Village Boys (DJ band). Genre: hardbass
 - 🇺🇳 Dvrst (DJ). Genre: drift phonk
 - 🇺🇳 Øneheart (DJ). Genre: ambient
 - 🇺🇳 Arty (DJ). Genre: progressive house
 - 🇺🇳 Serge Devant (DJ). Genre: melodic house
 - 🇺🇳 Natalie Gioia (singer). Genre: trance
+- 🇺🇳 Russian Village Boys (band). Genre: hardbass
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Hardbass. Originated: late 1990s
@@ -325,7 +324,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 
 
 <b>🍽️ Local food & drinks: </b>
-- 🥗 Vinegret <i>(Винегрет)</i> 
+- 🥗 Vinaigrette Salad <i>(Винегрет)</i> 
 - 🥗 Kholodets <i>(Холодец)</i> 
 - 🥗 Olivier Salad <i>(Салат Оливье)</i> 
 - 🥗 Dressed Herring <i>(Селёдка под Шубой)</i>
@@ -354,13 +353,13 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🍰 Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i></br>
 <u>Kabardino-Balkaria - Regional Special:</u> 
 - 🥙 Balkar Khychin <i>(Хычин / Хычин)</i>
-    - 🥙 Khychin with Meat <i>(Хычин c Мясом / Эт Хычин)</i>
-    - 🥙 Khychin with Beet Leaves <i>(Хычин c Листьями Свёклы / Чюгюндюр Хычин)</i> 
-    - 🥙 Khychin with Liver <i>(Хычин c Ливером / Ындыр Хычин)</i> 
+    - 🥙 Khychin with Meat <i>(Хычин с Мясом / Эт Хычин)</i>
+    - 🥙 Khychin with Beet Leaves <i>(Хычин с Листьями Свёклы / Чюгюндюр Хычин)</i> 
+    - 🥙 Khychin with Liver <i>(Хычин с Ливером / Ындыр Хычин)</i> 
 - 🥘 Zhalbaur <i>(Жалбаур / Жау Бауур)</i>
 - 🥘 Byshlak Bishirgen <i>(Бышлак Биширген / Бышлакъ Биширген)</i>
-- 🧀 Balkar Cheese <i>(Балкарский Cыр / Бишлакъ)</i></br>
-<u>Karachay-Cherkessia - Regional Special:</u>\
+- 🧀 Balkar Cheese <i>(Балкарский Сыр / Бишлакъ)</i></br>
+<u>Karachay-Cherkessia - Regional Special:</u>
 - 🥙 Circassian Khalyuzh <i>(Халюж / Хьалыжъо)</i>
 - 🥘 Circassian Libzhe <i>(Либжа / Либжэ)</i>
 - 🥘 Circassian Lyagur <i>(Лягур / Лягур)</i>
@@ -381,17 +380,20 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 
 
 <b>🎬 Local movies:</b>
-- 🥹 The Fool <i>(Дурак)</i>. Year: 2014. Genre: drama
-- 🥹 To Live <i>(Жить)</i>. Year: 2010. Genre: drama / thriller
-- 🥹 The Text <i>(Текст)</i>. Year: 2019. Genre: drama
-- 😀 The Kitchen <i>(Кухня)</i>. Year: 2012-2016. Genre: sitcom (series)
-- 🕵️ The Trigger <i>(Триггер)</i>. Year: 2020-2022. Genre: thriller (series)
-- 🥹 How Vitka Chesnok Drove Lyokha Shtyr to the House for Disabled <i>(Как Витька Чеснок Вёз Лёху Штыря в Дом Инвалидов)</i>. Year: 2017. Genre: road movie / drama
-- 🥹 The Humorist <i>(Юморист)</i>. Year: 2019. Genre: drama
-- 👾 Leopold the Cat <i>(Кот Леопольд)</i>. Year: 1975. Genre: animation (series)
+- 🥲 Fool <i>(Дурак)</i>. Year: 2014. Genre: drama
+- 🥲 Text <i>(Текст)</i>. Year: 2019. Genre: drama
+- 🥲 Humorist <i>(Юморист)</i>. Year: 2019. Genre: drama
+- 🥲 Leviathan <i>(Левиафан)</i>. Year: 2014. Genre: drama 
+- 🥲 To Live <i>(Жить)</i>. Year: 2010. Genre: drama / thriller 
+- 🥲 Bury Me behind the Baseboard <i>(Похорoните Меня за Плинтусом)</i>. Year: 2009. Genre: drama
+- 🕵️ Profile <i>(Профиль)</i>. Year: 2018. Genre: thriller / action
+- 🕵️ Trigger <i>(Триггер)</i>. Year: 2020-2022. Genre: thriller (series)
+- 😀 Kitchen <i>(Кухня)</i>. Year: 2012-2016. Genre: sitcom (series)
+- 🥲 How Vitka Chesnok Drove Lyokha Shtyr to the House for Disabled <i>(Как Витька Чеснок Вёз Лёху Штыря в Дом Инвалидов)</i>. Year: 2017. Genre: road movie / drama
 - 👾 Little Longnose <i>(Карлик Нос)</i>. Year: 2002. Genre: animation
-- 👾 Alyosha Popovich and Tugarin Zmey <i>(Алеша Попович и Тугарин Змей)</i>. Year: 2004. Genre: animation
+- 👾 Alyosha Popovich and Tugarin Zmey <i>(Алёша Попович и Тугарин Змей)</i>. Year: 2004. Genre: animation
 - 🌚 Thawed Carp <i>(Карп Отмороженный)</i>. Year: 2017. Genre: black comedy
+
 
 
 
@@ -401,7 +403,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🐦‍🔥 Russian Folklore <i>(Русский Фольклор)</i> 
 - 🏺 Matryoshka Dolls <i>(Матрёшки)</i>
 - 🏺 Dymkovo Toys <i>(Дымковские Игрушки)</i>
-- ⛵ Yal Boats <i>(Ялы)</i> 
+- 🏺 Podstakanniks <i>(Подстаканники)</i>
 - 🚗 Russian Cars <i>(Brands: "LADA", "GAZ Volga", "Moskvitch", etc.)</i>
 - 🏘️ Russian Banyas <i>(Русские Бани)</i>
 - 🏘️ Russian Izbas <i>(Русские Избы)</i>
@@ -440,6 +442,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - 🎙️ Znamenny Chant <i>(Знаменное Пение)</i>
     - 👘 Garb: Bast Shoes & Kokoshnik <i>(Лапти и Кокошник)</i>
 - 🏰 Heritage of the Tsardom of Russia <i>(Русское Царство / Рꙋ́ськое Ца́рьство)</i>
+    - 👑 System of Boyar Clans <i>(Боярские Роды)</i>
     - ⛵ Koch Boats <i>(Кочи)</i>
     - 🎨 Lubok Printing <i>(Лубки)</i>
     - 🎨 Stroganov Icon Painting <i>(Строгановская Иконопись)</i>
@@ -501,51 +504,66 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 👲 Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
     - 🦉 Concept: Ægdau <i>(Агдау / Æгъдау)</i>
     - 🕯️ Assianism <i>(Уасдин / Уацдин)</i>
-    - 🐦‍🔥 Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
     - 🐦‍🔥 Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
-    - 👑 Title of Dzuary Læg <i>(Дзуары Лæг / Дзуары Лæг)</i>
-    - 💃 Ossetian Simd Dance <i>(Симд / Синд)</i>
-    - 🪕 Musical Instrument: Kisyn Fandyr <i>(Хисын Фандыр / Xъисын Фæндыр)</i>
+    - 🐦‍🔥 Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
+    - 👑 System of Ossetian Clans <i>(Осетинские Роды / Ирон Æфтаудтæ)</i>
+    - 👑 Title of Dzuary Læg <i>(Дзуары Лаг / Дзуары Лæг)</i>
+    - 🏺 Ossetian Hearth Chains <i>(Рахысы / Рахыстæ)</i>
+    - 🏘️ Ossetian Clan Towers <i>(Осетинские Родовые Башни / Мæсгуытæ)</i>
+    - 🏘️ Ossetian Stone Crypts <i>(Осетинские Склепы / Зæппæдзтæ)</i>
+    - 🎑 Kuvd Ritual <i>(Куывд / Куывд)</i>
+    - 🎑 Horse Consecration Ritual <i>(Посвящение Коня / Бæхфæлдисæн)</i>
+    - 💃 Tsoppai Dance <i>(Цоппай / Цоппай)</i>
+    - 💃 Simd Dance <i>(Симд / Синд)</i>
+    - 💃 Khonga Kaft Dance <i>(Хонга Кафт / Хъонгæ Кафт)</i>
+    - 🪕 Musical Instrument: Kisyn Fændyr <i>(Хисын Фандыр / Хъисын Фæндыр)</i>
 - 🧝 Legacy of Alans <i>(Аланы / Алантæ)</i>
 - 🏰 Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i><br>
 <u>Leningrad - Regional Special:</u> 
-- 👲 Culture of Izhorians <i>(Ижоры / Ižorat)</i><br>
+- 👲 Culture of Izhorians <i>(Ижоры / Ižorat)</i>
+- 👲 Culture of Vepsians <i>(Вепсы / Vepsläižed)</i><br>
 <u>St. Petersburg-City - Regional Special:</u> 
 - 🏛️ Petrine Baroque Architecture <i>(Петровское Барокко)</i>
 - 👲 Culture of Votians <i>(Водь / Vađđalaizõd)</i><br>
 <u>Chelyabinsk - Regional Special:</u> 
 - 🛠️ Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
+- 🛠️ Zlatoust Steel Etching <i>(Златоустовская Гравюра на Стали)</i>
 - 👲 Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i></br>
 <u>Orenburzhie - Regional Special:</u> 
 - 👘 Garb: Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i><br>
-<u>Moscow-City - Regional Special:</u>
-- 🏛️ Naryshkin Baroque Architecture <i>(Нарышкинское Барокко)</i>
-
-
-
-
 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Maslenitsa <i>(Мaсленица)</i>. Month: February or March<br>
+- 🫕 Maslenitsa <i>(Масленица)</i>. Month: February or March
+- 🎪 Tatiana’s Day <i>(Татьянин День)</i>. Month: January<br>
+<u>Sverdlovsk - Regional Special:</u> 
+- 🎸 Ural Music Night <i>(Ночь Музыки)</i>. Month: June<br>
 <u>Bashkortostan - Regional Special:</u> 
-- Sabantuy <i>(Сабантуй / Һабантуй)</i>. Month: June or July<br>
+- 👲 Sabantuy <i>(Сабантуй / Һабантуй)</i>. Month: June or July
+- 👲 Bashkir Language Day <i>(День Башкирского Языка / Башҡорт Теле Көнө)</i>. Month: December<br>
 <u>Kabardino-Balkaria - Regional Special:</u>
-- Balkar Day <i>(День Возрождения Балкарского Народа / Малкъар Халкъны Жангырыууну Кюню)</i>. Month: March<br>
+- 👲 Balkar Day <i>(День Возрождения Балкарского Народа / Малкъар Халкъны Жангырыууну Кюню)</i>. Month: March<br>
 <u>Karachay-Cherkessia - Regional Special:</u>
-- Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May<br>
+- 👲 Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May<br>
 <u>North Ossetia - Regional Special:</u>
-<!--- Ирон бæгæны-->
-- Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November<br>
+- 👲 Rekom Shrine Festival <i>(Праздник Святилища Реком / Рекомы Бæрæгбон)</i>. Month: June
+- 👲 Khetag's Day <i>(День Хетага / Хетæджы Уастырджи)</i>. Month: July
+- 👲 Uacilla Celebration <i>(Праздник Уацилла / Уациллайы Бæрæгбон)</i>. Month: June or July
+- 🫕 Ossetian Beer Festival <i>(Фестиваль Осетинского Пива / Ирон Бæгæны)</i>. Month: September
+- 👲 Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November<br>
 <u>St. Petersburg-City - Regional Special:</u>
-- White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July
-
+- 🎪 Scarlet Sails Festival <i>(Алые Паруса)</i>. Month: June
+- 🎪 White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July<br>
+<u>Leningrad - Regional Special:</u>
+- 👲 Tree of Life: Vepsian Cultural Festival <i>(Древо Жизни / Elon Pu)</i>. Month: June<br>
+<u>Krasnodar - Regional Special:</u>
+- 🫕 Kuban Kvass Festival <i>(Фестиваль Кубанского Кваса)</i>. Month: May
 
 
 
 <b>💐 National flower: </b> 
-- Chamomile <i>(Ромашка Обыкновенная)</i><br>
+- <b>Chamomile <i>(Ромашка Обыкновенная)</i></b><br>
 <u>Bashkortostan - Regional Special:</u> 
 - Pleurospermum Uralense <i>(Реброплодник Уральский / Ҡурай Сәскәһе)</i><br>
 <u>Karachay-Cherkessia - Regional Special:</u> 

@@ -575,12 +575,12 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 
 <b>🎬 Local movies:</b>
 - 🪄 Border <i>(Gräns)</i>. Year: 2018. Genre: fantasy / thriller
-- 🥹 A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama
-- 🥹 Anxious People <i>(Folk med Ångest)</i>. Year: 2021. Genre: drama (series)
+- 🥲 A Man Called Ove <i>(En Man som Heter Ove)</i>. Year: 2015. Genre: drama
+- 🥲 Anxious People <i>(Folk med Ångest)</i>. Year: 2021. Genre: drama (series)
 - 🕵️ End of Summer <i>(Slutet på Sommaren)</i>. Year: 2023. Genre: thriller (series)
 - 🕵️ The Perfect Patient <i>(Quick)</i>. Year: 2019. Genre: thriller
 - 🌚 Triangle of Sadness <i>(Triangle of Sadness)</i>. Year: 2022. Genre: black comedy
-- 👤 The Playlist <i>(The Playlist)</i>. Year: 2022. Genre: biography (series)
+- 📝 The Playlist <i>(The Playlist)</i>. Year: 2022. Genre: documentary / drama 
 - 😀 The 100-Year-Old Man who Climbed out the Window and Disappeared <i>(Hundraåringen som Klev ut genom Fönstret och Försvann)</i>. Year: 2013. Genre: comedy
 
 

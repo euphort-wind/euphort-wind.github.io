@@ -136,7 +136,7 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 
 <b>🎬 Local movies:</b>
 - 🕰️ Nova Lituania <i>(Nova Lituania)</i>. Year: 2019. Genre: history / drama
-- 🕵️ The Generation of Evil <i>(Piktųjų Karta)</i>. Year: 2021. Genre: crime / thriller
+- 🕵️ The Generation of Evil <i>(Piktųjų Karta)</i>. Year: 2021. Genre: thriller
 - 🌚 Zero 2 <i>(Zero 2)</i>. Year: 2010. Genre: thriller / black comedy
 
 

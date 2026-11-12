@@ -205,17 +205,17 @@ Hej! Here's a glimpse into my experiences in resplendent Spain, which I visited 
 
 
 <b>🎬 Local movies:</b>
-- The Invisible Guest <i>(Contratiempo)</i>. Year: 2016. Genre: thriller / crime
+- The Invisible Guest <i>(Contratiempo)</i>. Year: 2016. Genre: thriller
 - Under Therapy <i>(Bajo Terapia)</i>. Year: 2023. Genre: drama
 - Shades <i>(Matices)</i>. Year: 2025. Genre: thriller (series)
-- The Body <i>(El Cuerpo)</i>. Year: 2012. Genre: thriller / crime
+- The Body <i>(El Cuerpo)</i>. Year: 2012. Genre: thriller
 - The Machinist <i>(El Maquinista)</i>. Year: 2004. Genre: thriller
 - The Platform <i>(El Hoyo)</i>. Year: 2019. Genre: thriller / horror
 - Klaus <i>(Klaus)</i>. Year: 2019. Genre: adventure / comedy 
 - Waiting for Dali <i>(Esperando a Dalí)</i>. Year: 2023. Genre: drama
 - The Innocent <i>(El Inocente)</i>. Year: 2021. Genre: thriller (series)
 - The Hidden Face <i>(La Cara Oculta)</i>. Year: 2011. Genre: thriller
-- Víctor Ros <i>(Víctor Ros)</i>. Year: 2014. Genre: crime
+- Víctor Ros <i>(Víctor Ros)</i>. Year: 2014. Genre: thriller
 
 
 

@@ -158,7 +158,7 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 
 
 <b>🎬 Local movies:</b>
-- 🥹 Tiger Theory <i>(Teorie Tygra)</i>. Year: 2016. Genre: drama / comedy
+- 🥲 Tiger Theory <i>(Teorie Tygra)</i>. Year: 2016. Genre: drama / comedy
 - 😀 Wrong Side Up <i>(Příběhy Obyčejného Šílenství)</i>. Year: 2005. Genre: comedy
 - 🕵️ Restore Point <i>(Bod Obnovy)</i>. Year: 2023. Genre: thriller
 - 🕰️ Wild Flowers <i>(Kytice)</i>. Year: 2000. Genre: history / horror

@@ -96,7 +96,7 @@ Hej! Here's a glimpse into my experiences in luxurious Monaco, which I visited i
 
 
 <b>🎬 Local movies:</b>
-- 🥹 The Girl from Monaco <i>(La Fille de Monaco)</i>. Year: 2008. Genre: drama
+- 🥲 The Girl from Monaco <i>(La Fille de Monaco)</i>. Year: 2008. Genre: drama
 - 😀 The Tuche Family <i>(Les Tuche)</i>. Year: 2011. Genre: comedy
 
 

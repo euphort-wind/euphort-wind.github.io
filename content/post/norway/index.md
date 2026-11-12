@@ -177,7 +177,7 @@ Hej! Here's a glimpse into my experiences in magical Norway, which I visited in 
 - 🥊 Headhunters <i>(Hodejegerne)</i>. Year: 2011. Genre: action / thriller
 - 🕰️ Kon-Tiki <i>(Kon-Tiki)</i>. Year: 2012. Genre: adventure / action
 - 🪄 The Bothersome Man <i>(Den Brysomme Mannen)</i>. Year: 2006. Genre: fantasy
-- 🥹 The Worst Person in the World <i>(Verdens Verste Menneske)</i>. Year: 2021. Genre: drama / comedy
+- 🥲 The Worst Person in the World <i>(Verdens Verste Menneske)</i>. Year: 2021. Genre: drama / comedy
 - 🪄 Thelma <i>(Thelma)</i>. Year: 2017. Genre: fantasy / horror
 - 🪄 Beforeigners <i>(Fremvandrerne)</i>. Year: 2019. Genre: fantasy (series)
 

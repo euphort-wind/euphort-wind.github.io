@@ -189,8 +189,8 @@ Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visit
 
 
 <b>🎬 Local movies:</b>
-- 🥹 The World is Big and Salvation Lurks Around the Corner <i>(Светът е Голям и Спасение Дебне Отвсякъде)</i>. Year: 2008. Genre: drama / road movie
-- 🥹 Glory <i>(Слава)</i>. Year: 2016. Genre: drama
+- 🥲 The World is Big and Salvation Lurks Around the Corner <i>(Светът е Голям и Спасение Дебне Отвсякъде)</i>. Year: 2008. Genre: drama / road movie
+- 🥲 Glory <i>(Слава)</i>. Year: 2016. Genre: drama
 
 
 <b>🪔 Authentic features:</b>

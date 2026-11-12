@@ -151,7 +151,7 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
 - 🕰️ Bet on Revenge <i>(Kincsem)</i>. Year: 2017. Genre: history / drama
 - 👾 Ruben Brandt, Collector <i>(Ruben Brandt, a Gyűjtő)</i>. Year: 2018. Genre: animation
 - 🥊 Control <i>(Kontroll)</i>. Year: 2003. Genre: action 
-- 🥹 Mancs <i>(Mancs)</i>. Year: 2015. Genre: drama
+- 🥲 Mancs <i>(Mancs)</i>. Year: 2015. Genre: drama
 
 
 <b>🪔 Authentic features:</b>

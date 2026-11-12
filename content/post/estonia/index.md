@@ -125,7 +125,7 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 
 
 <b>🎬 Local movies:</b>
-- 🥹 The Class <i>(Klass)</i>. Year: 2007. Genre: drama
+- 🥲 The Class <i>(Klass)</i>. Year: 2007. Genre: drama
 - 🕰️ Truth and Justice <i>(Tõde ja Õigus)</i>. Year: 2019. Genre: drama / history
 - 🌚 Autumn Ball <i>(Sügisball)</i>. Year: 2007. Genre: black comedy
 - 👾 Life without Gabriella Ferri <i>(Elu ilma Gabriella Ferrita)</i>. Year: 2008. Genre: animation

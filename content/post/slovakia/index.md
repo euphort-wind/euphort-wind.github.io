@@ -139,9 +139,9 @@ Hej! Here's a glimpse into my experiences in enchanting Slovakia, which I visite
 
 
 <b>🎬 Local movies:</b>
-- 🥹 The Teacher <i>(Učiteľka)</i>. Year: 2016. Genre: drama
-- 🥹 The Garden <i>(Záhrada)</i>. Year: 1995. Genre: drama
-- 🥹 Orbis Pictus <i>(Orbis Pictus)</i>. Year: 1997. Genre: drama
+- 🥲 The Teacher <i>(Učiteľka)</i>. Year: 2016. Genre: drama
+- 🥲 The Garden <i>(Záhrada)</i>. Year: 1995. Genre: drama
+- 🥲 Orbis Pictus <i>(Orbis Pictus)</i>. Year: 1997. Genre: drama
 
 
 <b>🪔 Authentic features:</b>

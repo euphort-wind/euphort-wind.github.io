@@ -109,8 +109,8 @@ Hej! Here's a glimpse into my experiences in elegant Luxembourg, which I visited
 
 <b>🎬 Local movies:</b>
 - 👾 Mr. Hublot <i>(Mr. Hublot)</i>. Year: 2013. Genre: short / animation
-- 🥹 X on a Map <i>(X on a Map)</i>. Year: 2009. Genre: short / drama
-- 🥹 Gutland <i>(Gutland)</i>. Year: 2017. Genre: drama
+- 🥲 X on a Map <i>(X on a Map)</i>. Year: 2009. Genre: short / drama
+- 🥲 Gutland <i>(Gutland)</i>. Year: 2017. Genre: drama
 
 
 <b>🪔 Authentic features:</b>

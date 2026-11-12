@@ -111,7 +111,7 @@ Hej! Here's a glimpse into my experiences in prosperous Liechtenstein, which I v
 
 
 <b>🎬 Local movies:</b>
-- 🥹 True <i>(True)</i>. Year: 2004. Genre: short / drama
+- 🥲 True <i>(True)</i>. Year: 2004. Genre: short / drama
 - 📝 Deutsche Welle: Where Princes Reign Supreme <i>(Deutsche Welle: Where Princes Reign Supreme)</i>. Year: 2019. Genre: short / documentary
 
 
