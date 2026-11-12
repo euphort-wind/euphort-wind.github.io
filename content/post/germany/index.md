@@ -331,10 +331,10 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 💃 Allemande Dance <i>(Allemande)</i>
 - 🪕 Musical Instrument: Zither <i>(Zither)</i>
 - 👘 Garb: German Tracht <i>(Tracht)</i>
-- 🧝 Legacy of Franks <i>(Franken)</i>
-- 🧝 Legacy of Saxons <i>(Sachsen)</i>
-- 🧝 Legacy of Thuringians <i>(Thüringer)</i>
-- 🧝 Legacy of Suebi <i>(Sueben)</i>
+- 🧝 Legacy of Franks <i>(Franken / ᚠᚱᚨᚾᚲᛟᛉ)</i>
+- 🧝 Legacy of Saxons <i>(Sachsen / ᛊᚨᚺᛊᛟᚾᛁᛉ)</i>
+- 🧝 Legacy of Thuringians <i>(Thüringer / ᚦᚢᚱᛁᛜᛟᛉ)</i>
+- 🧝 Legacy of Suebi <i>(Sueben / ᛊᚹᛖᛒᚨᛉ)</i>
 - 🏰 Heritage of the Holy Roman Empire <i>(Heiliges Römisches Reich / Sacrum Imperium Romanum)</i>
   - 🏺 Imperial Eagle Beakers <i>(Reichsadlerhumpen)</i>
   - 🏛️ Ottonian Architecture <i>(Ottonische Architektur)</i>

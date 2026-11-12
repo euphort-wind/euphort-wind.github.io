@@ -223,10 +223,9 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 
 <b>🎬 Local movies:</b>
 - 🥹 Corpus Christi <i>(Boże Ciało)</i>. Year: 2019. Genre: drama 
-- 🥹 Mug <i>(Twarz)</i>. Year: 2018. Genre: drama
 - 🕰️ Forgotten Love <i>(Znachor)</i>. Year: 2023. Genre: history / drama 
 - 🕰️ The Peasants <i>(Chłopi)</i>. Year: 2023. Genre: history / drama 
-
+- 🥹 Mug <i>(Twarz)</i>. Year: 2018. Genre: drama
 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Polish Folklore <i>(Folklor Polski)</i>
@@ -242,6 +241,8 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 💃 Oberek Dance <i>(Oberek)</i>
 - 🪕 Musical Instrument: Koza <i>(Koza)</i>
 - 👘 Garb: Kontusz & Kontusz Belt <i>(Kontusz i Pas Kontuszowy)</i>
+- 🧝 Legacy of Polans <i>(Polanie)</i>
+- 🧝 Legacy of Ancient Masovians <i>(Mazowszanie)</i>
 - 🏰 Heritage of the Duchy of Poland <i>(Państwo Gnieźnieńskie / Civitas Schinesghe)</i>
 - 🏰 Heritage of the Kingdom of Poland <i>(Królestwo Polskie / Regnum Poloniae)</i> 
 - 🏰 Heritage of the Polish–Lithuanian Commonwealth <i>(Rzeczpospolita / Regnum Poloniae Magnusque Ducatus Lithuaniae)</i>
@@ -260,6 +261,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
   - 🎑 Kashubian Gwiôzdka Ritual <i>(Kaszubska Gwiazdka / Gwiôzdka)</i>
   - 💃 Koseder Dance <i>(Koseder / Kòséder)</i>
   - 🪕 Musical Instrument: Burczybas  <i>(Burczybas / Mrëczk)</i>
+- 🧝 Legacy of Pomeranians <i>(Pomorzanie / Pòmòrzónie)</i>
 - 🏰 Heritage of the Duchy of Pomerania <i>(Księstwo Pomorskie / Herzogtum Pommern)</i>
 - 🏰 Heritage of the Free City of Danzig <i>(Wolne Miasto Gdańsk / Freie Stadt Danzig)</i>
 <br> 
@@ -270,6 +272,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
   - 🎑 Leading the Bear Ritual <i>(Wodzenie Niedźwiedzia / Wodzynie Bera)</i>
   - 💃 Trojak Dance <i>(Trojak / Trojok)</i>
   - 👘 Garb: Strój Rozbarski <i>(Strój Rozbarski / Rozbarske Ôblyczynie)</i>
+- 🧝 Legacy of Ancient Silesians <i>(Ślężanie)</i>
 - 🏰 Heritage of the Duchy of Silesia <i>(Księstwo Śląskie / Ślōnski Firsztyntōm)</i>
 <br> 
 <u>Lesser Poland - Regional Special:</u>
@@ -286,6 +289,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
   - 🎨 Parzenica Embroidery <i>(Parzenica)</i>
   - 💃 Góralski Dance <i>(Taniec Góralski)</i>
   - 👘 Garb: Goral Hat <i>(Kapelusz Góralski)</i>
+- 🧝 Legacy of Vistulans <i>(Wiślanie)</i>  
 - 🏰 Heritage of the Duchy of Kraków <i>(Księstwo Krakowskie)</i>
 - 🏰 Heritage of the Republic of Cracow <i>(Rzeczpospolita Krakowska)</i>
 

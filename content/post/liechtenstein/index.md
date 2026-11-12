@@ -123,7 +123,7 @@ Hej! Here's a glimpse into my experiences in prosperous Liechtenstein, which I v
 - 🏓 Jass Game <i>(Jassen)</i>
 - 🎙️ Yodeling Singing <i>(Jodeln)</i> 
 - 👘 Garb: Liechtensteiner Tracht <i>(Liechtensteiner Tracht)</i>
-- 🧝 Legacy of Alemanni <i>(Alamannen)</i>
+- 🧝 Legacy of Alemanni <i>(Alamannen / ᚨᛚᚨᛗᚨᚾᚾᛁᛉ)</i>
 - 🏰 Heritage of the County of Vaduz <i>(Grafschaft Vaduz)</i>
 - 🏰 Heritage of the Lordship of Schellenberg <i>(Herrschaft Schellenberg)</i><br>
 <u>Triesenberg - Regional Special:</u> 

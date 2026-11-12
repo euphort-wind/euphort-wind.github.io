@@ -143,7 +143,7 @@ Hej! Here's a glimpse into my experiences in unique Montenegro, which I visited 
 <b>🪔 Authentic features:</b>
 - 🦉 Concept: Čojstvo <i>(Чојство)</i>
 - 👑 System of Katuns <i>(Катуни)</i>
-- 🎨 Bihor Carpets <i>(Бихорски Ћилими)</i> 
+- 🏺 Bihor Carpets <i>(Бихорски Ћилими)</i> 
 - 💃 Montenegrin Oro Dance <i>(Црногорско Оро)</i>
 - 👘 Garb: Montenegrin Cap <i>(Црногорска Капа)</i>
 - 🏰 Heritage of the Kingdom of Duklja <i>(Дукља / Διόκλεια)</i>
