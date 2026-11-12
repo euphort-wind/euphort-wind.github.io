@@ -129,9 +129,9 @@ Hej! Here's a glimpse into my experiences in majestic Kyrgyzstan, which I visite
 - 🕯️ Tengrism <i>(Теңирчилик)</i> 
 - 🐦‍🔥 Epic of Manas <i>(Манас Дастаны)</i>
 - 🏘️ Kyrgyz Yurts <i>(Кыргыз боз Үйлөрү)</i> 
-- 🎨 Ala-Kiiz Carpets <i>(Ала-Кийиз)</i> 
-- 🎨 Shyrdak Carpets <i>(Шырдак)</i>
-- 🎨 Tush Kyiz Wall Hangings <i>(Туш Кийиз)</i>
+- 🏺 Ala-Kiiz Carpets <i>(Ала-Кийиз)</i> 
+- 🏺 Shyrdak Carpets <i>(Шырдак)</i>
+- 🏺 Tush Kyiz Wall Hangings <i>(Туш Кийиз)</i>
 - 🏓 Kok Boru Game <i>(Көк-Бөрү)</i> 
 - 🪕 Musical Instrument: Komuz <i>(Комуз)</i> 
 - 👘 Garb: Ak-Kalpak & Beldemchi <i>(Ак Калпак менен Белдемчи)</i> 

@@ -198,8 +198,8 @@ Hej! Here's a glimpse into my experiences in welcoming Armenia, which I visited 
 - 👑 Title of Armenian Pontiff <i>(Ամենայն Հայոց Կաթողիկոս)</i>
 - 🏺 Khachkars <i>(խաչքար)</i>
 - 🏺 Pulpulaks <i>(պուլպուլակ)</i>
+- 🏺 Armenian Carpets <i>(Հայկական գորգ)</i>
 - 🏘️ Armenian Churches <i>(Հայկական եկեղեցիներ)</i>
-- 🎨 Armenian Carpets <i>(Հայկական գորգ)</i>
 - 🎨 Armenian Illuminated Manuscripts <i>(Հայկական մանրանկարչություն)</i>
 - 🏃🏻 Kokh Wrestling Tradition <i>(Կոխ)</i>
 - 💃 Kochari Dance <i>(Քոչարի)</i>
