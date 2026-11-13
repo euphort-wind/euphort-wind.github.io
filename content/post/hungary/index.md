@@ -74,9 +74,9 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
     - Vajdahunyad Castle <i>(Vajdahunyad Vára)</i>
     - Hungarian Parliament Building <i>(Országház)</i>
     - Széchenyi Chain Bridge <i>(Széchenyi Lánchíd)</i>
-    - Széchenyi Thermal Bath <i>(Széchenyi Gyógyfürdő)</i>
     - St. Stephen's Basilica <i>(Szent István-Bazilika)</i>
     - National Archives of Hungary <i>(Magyar Nemzeti Levéltár)</i>
+    - Széchenyi Thermal Bath <i>(Széchenyi Gyógyfürdő)</i>
 2. Balatonfüred
     - Lake Balaton <i>(Balaton)</i>
     - Esterhazy Beach <i>(Esterházy Strand)</i>
@@ -148,11 +148,10 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
 
 
 <b>🎬 Local movies:</b>
+- 🥲 Mancs <i>(Mancs)</i>. Year: 2015. Genre: drama
+- 🥊 Control <i>(Kontroll)</i>. Year: 2003. Genre: action 
 - 🕰️ Bet on Revenge <i>(Kincsem)</i>. Year: 2017. Genre: history / drama
 - 👾 Ruben Brandt, Collector <i>(Ruben Brandt, a Gyűjtő)</i>. Year: 2018. Genre: animation
-- 🥊 Control <i>(Kontroll)</i>. Year: 2003. Genre: action 
-- 🥲 Mancs <i>(Mancs)</i>. Year: 2015. Genre: drama
-
 
 <b>🪔 Authentic features:</b>
 - 🕯️ Hungarian Neopaganism <i>(Ősmagyar Vallás)</i>

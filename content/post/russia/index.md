@@ -72,8 +72,8 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - Sobornaya Square <i>(Соборная Площадь)</i>
     - Pushkin Museum <i>(Пушкинский Музей)</i>
     - Alexander Garden <i>(Александровский Сад)</i>
-    - Moscow Metro <i>(Московский Метрополитен)</i>
     - Tretyakov Gallery <i>(Третьяковская Галерея)</i>
+    - Moscow Metro <i>(Московский Метрополитен)</i>
     - St. Basil's Cathedral <i>(Собор Василия Блаженного)</i>
     - Moscow International Business Center <i>(Москва-Сити)</i>
     - Cathedral of Christ the Saviour <i>(Храм Христа Спасителя)</i>
@@ -344,6 +344,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🍰 Easter Paskha <i>(Творожная Пасха)</i> 
 - 🍰 Pryanik <i>(Пряник)</i> 
 - 🍰 Medovik <i>(Медовик)</i>
+- 🫓 Borodinsky Bread <i>(Бородинский Хлеб)</i>
 - 🍶 Baked Milk <i>(Топлёное Молоко)</i> 
 - 🍶 Russian Draft Wheat Beer <i>(Brand: "Sladovar")</i> 
 - 🍶 Russian Vodka <i>(Brands: "Derevenka", "Tsarskaya")</i></br>
@@ -421,7 +422,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🏓 Gorodki Game <i>(Городки)</i>
 - 🏓 Lapta Game <i>(Лапта)</i>
 - 🏓 Durak Game <i>(Дурак)</i>
-- 🎑 Sitting down before a Journey Ritual <i>("Присесть на Дорожку")</i>
+- 🎑 Sit-before-a-Trip Ritual <i>("Посидеть на Дорожку")</i>
 - 💃 Khorovod Dance <i>(Хоровод)</i>
 - 🎙️ Chastushka Songs <i>(Частушки)</i>
 - 🪕 Musical Instrument: Balalaika <i>(Балалайка)</i>  

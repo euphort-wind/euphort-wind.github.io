@@ -68,9 +68,9 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
     - Cișmigiu Gardens <i>(Grădina Cișmigiu)</i>
     - Palace of Justice <i>(Palatul Justiției)</i>
     - National Bank of Romania <i>(Banca Națională)</i>
-    - Curtea Veche Church <i>(Biserica Curtea Veche)</i>
     - Palace of Parliament <i>(Palatul Parlamentului)</i>
     - Patriarchal Cathedral <i>(Catedrala Patriarhală)</i>
+    - Curtea Veche Church <i>(Biserica Curtea Veche)</i>
     - National Museum of Art <i>(Muzeul Național de Artă)</i>
     - Stavropoleos Monastery <i>(Mănăstirea Stavropoleos)</i>
     - Old Town Bucharest <i>(Centrul Istoric al Bucureștiului)</i>
@@ -96,9 +96,9 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
     - Catherine's Gate <i>(Poarta Ecaterinei)</i>
     - Black Tower <i>(Turnul Negru din Brașov)</i>
     - White Tower <i>(Turnul Alb din Brașov)</i>
+    - Mount Tâmpa Cable Car <i>(Telecabina Tâmpa)</i>
     - Weavers' Bastion <i>(Bastionul Țesătorilor)</i> 
     - Saint Nicholas Church <i>(Biserica Sfântul Nicolae)</i>
-    - Mount Tâmpa Cable Car <i>(Telecabina Tâmpa)</i>
     - First Romanian School Museum <i>(Muzeul Prima Școală Românească)</i>
     - Transilvania University of Brașov <i>(Universitatea Transilvania din Brașov)</i>
 5. Prejmer
@@ -213,7 +213,7 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - 🏘️ Burdeis <i>(Bordeie)</i>
 - 🏛️ Moldavian Style Architecture <i>(Stilul Moldovenesc)</i> 
 - 🏛️ Brâncovenesc Architecture <i>(Stilul Brâncovenesc)</i> 
-- 🏛️ Neo-Romanian Architecture (Stilul Neoromânesc)
+- 🏛️ Neo-Romanian Architecture <i>(Stilul Neoromânesc)</i>
 - 🛠️ Horezu Pottery <i>(Ceramică de Horezu)</i>
 - 🛠️ Scoarțe Rug Craftsmanship <i>(Meșteșugul Țeserii Scoarțelor)</i>
 - 🛠️ Moți Cooperage Craft <i>(Meșteșugul Dogăritului la Moți)</i>
