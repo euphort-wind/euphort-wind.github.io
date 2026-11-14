@@ -341,7 +341,7 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🏘️ French Carousels <i>(Carrousel)</i>
 - 🏛️ Gothic Architecture <i>(Architecture Gothique)</i>
 - 🏛️ Rococo Architecture <i>(Architecture Rococo)</i>
-- 🏛️ Empire Architecture <i>(Architecture du Empire)</i>
+- 🏛️ Empire Style Architecture <i>(Architecture du Empire)</i>
 - 🏛️ Beaux-Arts Architecture <i>(Architecture des Beaux-Arts)</i>
 - 🏛️ Art Déco Architecture <i>(Architecture Art Déco)</i>
 - 🛠️ French High Parfumery <i>(Haute Parfumerie Française)</i>

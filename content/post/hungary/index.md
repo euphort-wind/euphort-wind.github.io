@@ -162,6 +162,7 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
 - 🚗 Hungarian Buses <i>(Brand: "Ikarus")</i>
 - 🏘️ Hungarian Thermal Baths <i>(Magyar Gyógyfürdők)</i>
 - 🏘️ Csárda Road Taverns <i>(Csárdák)</i>
+- 🏛️ Lechner-Style Architecture <i>(Lechner-Stílusú Építészet)</i>
 - 🛠️ Zsolnay Porcelain Production <i>(Zsolnay Porcelánmanufaktúra)</i>
 - 🎨 Halas Lace <i>(Halasi Csipke)</i>
 - 🎨 Kalocsa Embroidery <i>(Kalocsai Hímzés)</i>

@@ -117,8 +117,8 @@ Hej! Here's a glimpse into my experiences in welcoming Armenia, which I visited 
 8. Sevan  
     - Lake Sevan <i>(Սևանա Լիճ)</i>
     - Sevanavank <i>(Սևանավանք)</i>
-    - Sevan Writers' House <i>(Սևանի Գրողների Տուն)</i>
     - Hayravank Monastery <i>(Հայրավանք)</i>
+    - Sevan Writers' House <i>(Սևանի Գրողների Տուն)</i>
     - Sevan Botanical Garden <i>(Սևանի Բուսաբանական Այգի)</i>
 9. Dilijan 
     - Haghartsin Monastery <i>(Հաղարծին)</i>
@@ -139,8 +139,8 @@ Hej! Here's a glimpse into my experiences in welcoming Armenia, which I visited 
     - Independence Square <i>(Անկախության Հրապարակ)</i>
     - Gyumri Central Market <i>(Գյումրու Կենտրոնական Շուկան)</i>
     - Mher Mkrtchyan House-Museum <i>(Մհեր Մկրտչյանի Տուն-Թանգարան)</i>
-    - Dzitoghtsyan Museum of National Architecture <i>(Ձիթողցոնց Տուն-Թանգարան)</i>
     - Cathedral of the Holy Mother of God <i>(Սուրբ Աստվածածին Յոթ Վերք Եկեղեցի)</i>
+    - Dzitoghtsyan Museum of National Architecture <i>(Ձիթողցոնց Տուն-Թանգարան)</i>
     - Aslamazyan Sisters' Gallery <i>(Մարիամ Եվ Երանուհի Ասլամազյան Քույրերի Պատկերասրահ)</i>
 {{< /spoiler >}}
 
@@ -268,8 +268,8 @@ Hej! Here's a glimpse into my experiences in welcoming Armenia, which I visited 
 - 🗽 Republic Day of Armenia <i>(Հանրապետության Օր)</i>. Month: May
 - 🗽 Independence Day <i>(Անկախության Օր)</i>. Month: September
 - 🗽 Remembrance Day <i>(Եղեռնի Զոհերի Հիշատակի Օր)</i>. Month: April
-- 🎪 Navasard <i>(Նավասարդ)</i>. Month: August
 - 🎪 Barekendan <i>(Բարեկենդան)</i>. Month: February or March
+- 🎪 Navasard <i>(Նավասարդ)</i>. Month: August
 - 🎪 Trndez <i>(Տյառնընդառաջ)</i>. Month: February
 - 🤸 Vardavar <i>(Վարդավառ)</i>. Month: July<br>
 <u>Yerevan - Regional Special:</u>  

@@ -106,7 +106,6 @@ Hej! Here's a glimpse into my experiences in colorful Portugal, which I visited 
 
 <b>🍽️ Local food & drinks: </b>
 - 🥙 Bifana Sandwich <i>(Bifana)</i>
-- 🥙 Prego Sandwich <i>(Prego)</i>
 - 🍲 Caldo Verde Soup <i>(Caldo Verde)</i>
 - 🥘 Grilled Sardines <i>(Sardinhas Assadas)</i>
 - 🥘 Portuguese Stew <i>(Cozido à Portuguesa)</i>
@@ -118,6 +117,7 @@ Hej! Here's a glimpse into my experiences in colorful Portugal, which I visited 
   - 🥘 Bacalhau à Brás <i>(Bacalhau à Brás)</i>
   - 🥘 Pataniscas <i>(Pataniscas)</i>
 - 🥘 Caldeirada <i>(Caldeirada)</i>
+- 🥘 Francesinha <i>(Francesinha)</i>
 - 🥘 Peixinhos da Horta <i>(Peixinhos da Horta)</i>
 - 🥘 Carne de Porco à Alentejana <i>(Carne de Porco à Alentejana)</i>
 - 🥘 Amêijoas à Bulhão Pato <i>(Amêijoas à Bulhão Pato)</i>
@@ -138,7 +138,8 @@ Hej! Here's a glimpse into my experiences in colorful Portugal, which I visited 
 - 🍶 Port Wine <i>(Brand: "Ferreira")</i>
 - 🍶 Green Wine <i>(Brand: "Muralhas Vinho Verde")</i>
 </br>
-<u>Lisbon - Regional Special:</u> 
+<u>Lisbon - Regional Special:</u>
+- 🥙 Prego Sandwich <i>(Prego)</i>
 - 🍰 De Belém Pastry <i>(Pastel de Belém)</i>
 
 
