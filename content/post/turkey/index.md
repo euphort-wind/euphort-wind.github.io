@@ -330,14 +330,14 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🎸 İstanbul Music Festival <i>(İstanbul Müzik Festivali)</i>. Month: June<br>
 <u>Antalya - Regional Special:</u> 
 - 🎪 International Antalya Yörük-Türkmen Festival <i>(Uluslararası Antalya Yörük Türkmen Festivali)</i>. Month: May to June
-- 🏃🏻 Feslikan Oil Wrestling Festival <i>(Feslikan Yağlı Güreşleri)</i>. Month: July or August<br>
+- 🏃🏻 Feslikan Oil Wrestling Festival <i>(Feslikan Yağlı Güreşleri)</i>. Month: July<br>
 <u>Muğla - Regional Special:</u> 
 - 🏃🏻 Bodrum Camel Wrestling Festival <i>(Bodrum Deve Güreşleri)</i>. Month: January
 - 🏃🏻 Bodrum Cup Yacht Race <i>(The Bodrum Cup)</i>. Month: October
 - 🫕 Bodrum Bitter Herb Festival <i>(Bodrum Acı Ot Festivali)</i>. Month: March<br>
 <u>İzmir - Regional Special:</u> 
 - 🫕 Alaçatı Herb Festival <i>(Alaçatı Ot Festivali)</i>. Month: April
-- 🫕 Urla Artichoke Festival <i>(Uluslararası Urla Enginar Festivali)</i>. Month: April to May
+- 🫕 Urla Artichoke Festival <i>(Uluslararası Urla Enginar Festivali)</i>. Month: April
 - 🎸 İzmir International Festival <i>(Uluslararası İzmir Festivali)</i>. Month: June to July
 - 🎪 Selçuk–Ephesus Culture and Art Festival <i>(Selçuk Efes Kültür ve Sanat Festivali)</i>. Month: September<br>
 <u>Denizli - Regional Special:</u> 
