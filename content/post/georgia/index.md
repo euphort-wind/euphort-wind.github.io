@@ -173,8 +173,7 @@ Hej! Here's a glimpse into my experiences in resplendent Georgia, which I visite
 - 🫓 Mchadi Bread <i>(მჭადი)</i>
 - 🍶 Georgian Lemonades <i>(Brands: "Natakhtari Cream Soda", "Kazbegi Tarkhuna", etc.)</i> 
 - 🍶 Georgian Chacha <i>(Brands: "Askaneli Brothers Chacha", Georgian Home-Made Chacha, etc.)</i>
-- 🍶 Georgian Wine <i>(Brands: "Keburia Rkatsiteli", "Khareba Rkatsiteli", "GRW Saperavi", "Duruji Valley Kisi Qvevri", "Dugladze Mukuzani", "Duruji Valley Kindzmarauli", Kakhetian Home-Made Kindzmarauli, etc.)</i>  
-</br>
+- 🍶 Georgian Wine <i>(Brands: "Keburia Rkatsiteli", "Khareba Rkatsiteli", "GRW Saperavi", "Duruji Valley Kisi Qvevri", "Dugladze Mukuzani", "Duruji Valley Kindzmarauli", Kakhetian Home-Made Kindzmarauli, etc.)</i></br>
 <u>Mtskheta-Mtianeti - Regional Special:</u> 
 - 🧀 Dambalkhacho <i>(დამბალხაჭო)</i></br>
 <u>Kakheti - Regional Special:</u> 

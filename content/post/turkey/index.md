@@ -144,11 +144,11 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
     - Temple of Apollo <i>(Apollon Tapınağı)</i>
     - Temple of Athena <i>(Athena Tapınağı)</i>
     - Side Nymphaeum <i>(Side Anıtsal Çeşme)</i>
-    - Side Ancient Theatre <i>(Side Antik Tiyatrosu)</i>
-    - Side Archaeological Museum <i>(Side Arkeoloji Müzesi)</i>
     - Side Ancient Agora <i>(Side Antik Agorası)</i>
     - Vespasian Gate <i>(Vespasianus Kapısı)</i>
     - Side Ancient Harbour <i>(Side Antik Limanı)</i>
+    - Side Ancient Theatre <i>(Side Antik Tiyatrosu)</i>
+    - Side Archaeological Museum <i>(Side Arkeoloji Müzesi)</i>
     - Side Colonnaded Street <i>(Side Sütunlu Caddesi)</i>
     - Side Byzantine Basilica <i>(Side Bizans Bazilikası)</i>
     - Side Great Ancient Bath <i>(Side Büyük Hamamı)</i>
@@ -278,27 +278,27 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🏰 Heritage of the Hittite Empire <i>(Hititler / 𒄩𒀜𒌅𒊭)</i>
 - 🏰 Heritage of the Kingdom of Lydia <i>(Lidya / 𐤮𐤱𐤠𐤭𐤣𐤠)</i>
 - 🏰 Heritage of the Seljuk Sultanate of Rum <i>(Anadolu Selçukluları / <bdi style="direction: rtl;">سلجوقیان روم)</bdi></i>
-  - 🏛️ Anatolian Seljuk Architecture <i>(Anadolu Selçuklu Mimarisi /<bdi style="direction: rtl;">معماریِ سلاجقهٔ روم</bdi>)</i>
-  - 🛠️ Kündekâri Woodcarving <i>(Kündekâri  /<bdi style="direction: rtl;">هنرِ کندکاری</bdi>)</i> 
-  - 🎑 Mevlevi Sema Ritual <i>(Mevlevi Sema /<bdi style="direction: rtl;">سماعِ مولوی</bdi>)</i>
-- 🏰 Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu /<bdi style="direction: rtl;">دولت علیهٔ عثمانیه</bdi>)</i>
-  - 🦉 Concept: Circle of Justice <i>(Adalet Çemberi /<bdi style="direction: rtl;">دایرهٔ عدالت</bdi>)</i>
-  - 🏺 Kilij Scimitars <i>(Kılıçlar /<bdi style="direction: rtl;">قلیچلر</bdi>)</i>
-  - 🏘️ Imarets <i>(İmaretler /<bdi style="direction: rtl;">عمارتلر</bdi>)</i>
-  - 🏘️ Bedestens <i>(Bedestenler /<bdi style="direction: rtl;">بدستانلر</bdi>)</i> 
-  - 🏘️ Ottoman Sabils <i>(Sebiller /<bdi style="direction: rtl;">سبیللر</bdi>)</i>
-  - 🏛️ Classical Ottoman Architecture <i>(Osmanlı Mimarisi /<bdi style="direction: rtl;">عثمانلی معماریسی</bdi>)</i>
-  - 🏛️ New Ottoman Architecture <i>(Neoklasik Türk Üslûbu /<bdi style="direction: rtl;">اسلوبِ جدیدِ کلاسیکیِ ترکی</bdi>)</i>
-  - 🎨 Ottoman Miniature <i>(Osmanlı Minyatürü /<bdi style="direction: rtl;">تصویرِ عثمانی</bdi>)</i>
-  - 🏃🏻 Matrak Tradition <i>(Matrak /<bdi style="direction: rtl;">ماتراق</bdi>)</i>
-  - 🎭 Karagöz Shadow Play <i>(Karagöz /<bdi style="direction: rtl;">قراقوز</bdi>)</i>
-  - 🎙️ Köçekçe & Köçeks <i>(Köçekçe ve Köçekler /<bdi style="direction: rtl;">کوچکچه و کوچک‌لر</bdi>)</i>
-  - 🪕 Musical Instrument: Çeng <i>(Çeng /<bdi style="direction: rtl;">چنگ</bdi>)</i> 
-  - 👘 Garb: Fez & Kaftan <i>(Fes ve Kaftan /<bdi style="direction: rtl;">قفطان و فَس</bdi>)</i>
+  - 🏛️ Anatolian Seljuk Architecture <i>(Anadolu Selçuklu Mimarisi / <bdi style="direction: rtl;">معماریِ سلاجقهٔ روم</bdi>)</i>
+  - 🛠️ Kündekâri Woodcarving <i>(Kündekâri  / <bdi style="direction: rtl;">هنرِ کندکاری</bdi>)</i> 
+  - 🎑 Mevlevi Sema Ritual <i>(Mevlevi Sema / <bdi style="direction: rtl;">سماعِ مولوی</bdi>)</i>
+- 🏰 Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / <bdi style="direction: rtl;">دولت علیهٔ عثمانیه</bdi>)</i>
+  - 🦉 Concept: Circle of Justice <i>(Adalet Çemberi / <bdi style="direction: rtl;">دایرهٔ عدالت</bdi>)</i>
+  - 🏺 Kilij Scimitars <i>(Kılıçlar / <bdi style="direction: rtl;">قلیچلر</bdi>)</i>
+  - 🏘️ Imarets <i>(İmaretler / <bdi style="direction: rtl;">عمارتلر</bdi>)</i>
+  - 🏘️ Bedestens <i>(Bedestenler / <bdi style="direction: rtl;">بدستانلر</bdi>)</i> 
+  - 🏘️ Ottoman Sabils <i>(Sebiller / <bdi style="direction: rtl;">سبیللر</bdi>)</i>
+  - 🏛️ Classical Ottoman Architecture <i>(Osmanlı Mimarisi / <bdi style="direction: rtl;">عثمانلی معماریسی</bdi>)</i>
+  - 🏛️ New Ottoman Architecture <i>(Neoklasik Türk Üslûbu / <bdi style="direction: rtl;">اسلوبِ جدیدِ کلاسیکیِ ترکی</bdi>)</i>
+  - 🎨 Ottoman Miniature <i>(Osmanlı Minyatürü / <bdi style="direction: rtl;">تصویرِ عثمانی</bdi>)</i>
+  - 🏃🏻 Matrak Tradition <i>(Matrak / <bdi style="direction: rtl;">ماتراق</bdi>)</i>
+  - 🎭 Karagöz Shadow Play <i>(Karagöz / <bdi style="direction: rtl;">قراقوز</bdi>)</i>
+  - 🎙️ Köçekçe & Köçeks <i>(Köçekçe ve Köçekler / <bdi style="direction: rtl;">کوچکچه و کوچک‌لر</bdi>)</i>
+  - 🪕 Musical Instrument: Çeng <i>(Çeng / <bdi style="direction: rtl;">چنگ</bdi>)</i> 
+  - 👘 Garb: Fez & Kaftan <i>(Fes ve Kaftan / <bdi style="direction: rtl;">قفطان و فَس</bdi>)</i>
 - ⛰️ Turkish Hoodoos <i>(Peribacaları)</i><br>
 <u>Antalya - Regional Special:</u> 
 - 🏘️ Düğmeli Houses <i>(Düğmeli Evler)</i>
-- 🏰 Heritage of the Beylik of Teke <i>(Tekeoğulları Beyliği /<bdi style="direction: rtl;">تكه‌اوغللری بگی‌لکی</bdi>)</i><br>
+- 🏰 Heritage of the Beylik of Teke <i>(Tekeoğulları Beyliği / <bdi style="direction: rtl;">تكه‌اوغللری بگی‌لکی</bdi>)</i><br>
 <u>Muğla - Regional Special:</u> 
 - 🏺 Muğla Chimneys <i>(Muğla Bacaları)</i>
 - ⛵ Bodrum Gulets <i>(Bodrum Guletleri)</i>
@@ -307,9 +307,9 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🏃🏻 Blue Cruise Tradition <i>(Mavi Yolculuk)</i>
 - 🧝 Legacy of Carians <i>(Karlar / 𐊼𐊥𐊼𐊠)</i>
 - 🧝 Legacy of Lycians <i>(Likyalılar / 𐊗𐊕𐊐𐊎𐊆𐊍𐊆)</i>
-- 🏰 Heritage of the Beylik of Menteşe <i>(Menteşe Beyliği /<bdi style="direction: rtl;">منتثه بگی‌لکی</bdi>)</i><br>
+- 🏰 Heritage of the Beylik of Menteşe <i>(Menteşe Beyliği / <bdi style="direction: rtl;">منتثه بگی‌لکی</bdi>)</i><br>
 <u>Denizli - Regional Special:</u> 
-- 🏰 Heritage of the Beylik of Lâdik <i>(Inançoğulları Beyliği /<bdi style="direction: rtl;">لادق بگی‌لکی</bdi>)</i>
+- 🏰 Heritage of the Beylik of Lâdik <i>(Inançoğulları Beyliği / <bdi style="direction: rtl;">لادق بگی‌لکی</bdi>)</i>
 - ⛰️ Pamukkale Travertines <i>(Pamukkale Travertenleri)</i><br>
 <u>İstanbul - Regional Special:</u> 
 - 🏘️ Yalı Houses <i>(Yalılar)</i>
