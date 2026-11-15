@@ -153,6 +153,7 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 <u>Ma'an - Regional Special:</u> 
 - 🎪 Petra Cultural Festival <i>(<bdi style="direction: rtl;">مهرجان البترا الثقافي</bdi>)</i>. Month: October<br>
 <u>Aqaba - Regional Special:</u> 
+- 👲 Aqaba Traditional Arts Festival <i>(<bdi style="direction: rtl;">مهرجان العقبة للفنون التقليدية</bdi>)</i>. Month: February
 - 👲 Jordan Camel Racing and Nabati Poetry Festival  <i>(<bdi style="direction: rtl;">مهرجان الأردن لسباقات الهجن والشعر النبطي</bdi>)</i>. Month: October
 
 
