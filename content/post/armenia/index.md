@@ -272,7 +272,7 @@ Hej! Here's a glimpse into my experiences in welcoming Armenia, which I visited 
 - 🎪 Barekendan <i>(Բարեկենդան)</i>. Month: February or March
 - 🎪 Navasard <i>(Նավասարդ)</i>. Month: August
 - 🎪 Trndez <i>(Տյառնընդառաջ)</i>. Month: February
-- 🤸 Vardavar <i>(Վարդավառ)</i>. Month: July<br>
+- 🏃🏻 Vardavar <i>(Վարդավառ)</i>. Month: July<br>
 <u>Yerevan - Regional Special:</u>  
 - 🫕 Yerevan Wine Days <i>(Երևանի Գինու Օրեր)</i>. Month: June
 - 🎸 Yerevan Music Night <i>(Երևանի Երաժշտական Գիշեր)</i>. Month: September
@@ -282,7 +282,7 @@ Hej! Here's a glimpse into my experiences in welcoming Armenia, which I visited 
 <u>Vayots Dzor - Regional Special:</u>  
 - 🫕 Gata Festival <i>(Գաթայի Փառատոն)</i>. Month: September<br>
 <u>Syunik - Regional Special:</u>  
-- 🤸 Khot Sheep Shearing Festival <i>(Ոչխարների Խուզման Փառատոն)</i>. Month: June<br>
+- 🏃🏻 Khot Sheep Shearing Festival <i>(Ոչխարների Խուզման Փառատոն)</i>. Month: June<br>
 <u>Gegharkunik - Regional Special:</u>  
 - 🎸 Sevan International Music Festival <i>(Սևանի Միջազգային Երաժշտական Փառատոն)</i>. Month: August<br>
 <u>Tavush - Regional Special:</u>  

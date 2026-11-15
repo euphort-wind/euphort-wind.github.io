@@ -634,7 +634,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🫕 Crayfish Party <i>(Kräftskiva)</i>. Month: August
 - 🗽 National Day of Sweden <i>(Sveriges Nationaldag)</i>. Month: June<br>
 <u>Gotland - Regional Special:</u>
-- 🤸 Stånga Games <i>(Stångaspelen)</i>. Month: July
+- 🏃🏻 Stånga Games <i>(Stångaspelen)</i>. Month: July
 - 🎪 Visby Medieval Week <i>(Medeltidsveckan)</i>. Month: August
 - 🗽 Almedalen Week <i>(Almedalsveckan)</i>. Month: June<br>
 <u>Västra Götaland - Regional Special:</u> 
@@ -649,7 +649,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🎸 Storsjöyran <i>(Storsjöyran)</i>. Month: July to August<br>
 <u>Uppsala - Regional Special:</u> 
 - 🎸 Uppsala Culture Night <i>(Uppsala Kulturnatten)</i>. Month: September
-- 🤸 Uppsala River Rafting Event <i>(Forsränningen i Uppsala)</i>. Month: April<br>
+- 🏃🏻 Uppsala River Rafting Event <i>(Forsränningen i Uppsala)</i>. Month: April<br>
 <u>Örebro - Regional Special:</u> 
 - 🎪 Hindersmässan <i>(Hindersmässan)</i>. Month: January<br>
 <u>Västmanland - Regional Special:</u> 

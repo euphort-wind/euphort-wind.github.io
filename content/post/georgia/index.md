@@ -50,21 +50,6 @@ gallery_item:
   .article-style h1 { font-size: 1.6rem !important; }
   .article-style h2 { font-size: 1.35rem !important; }
   .article-style h3 { font-size: 1.15rem !important; }
-
-
-  /* 4. Nuskhuri */
-  @font-face {
-    font-family: 'Nuskhuri';
-    src: url('/fonts/nus.ttf') format('truetype');
-    font-weight: normal;
-    font-display: swap;
-  }
-
-.nuskhuri {
-    font-family: 'Nuskhuri', serif;
-    font-size: 1.4em;
-    line-height: 1.8;
-  }
 </style>
 
 Hej! Here's a glimpse into my experiences in resplendent Georgia, which I visited in 2025. Below are some notes on what I tasted, saw, and listened to.
@@ -187,9 +172,11 @@ Hej! Here's a glimpse into my experiences in resplendent Georgia, which I visite
 - 🫓 Shoti Bread <i>(შოთის პური)</i>
 - 🫓 Mchadi Bread <i>(მჭადი)</i>
 - 🍶 Georgian Lemonades <i>(Brands: "Natakhtari Cream Soda", "Kazbegi Tarkhuna", etc.)</i> 
-- 🍶 Georgian Wine <i>(Brands: "Keburia Rkatsiteli", "Khareba Rkatsiteli", "GRW Saperavi", "Duruji Valley Kisi Qvevri", "Dugladze Mukuzani", "Duruji Valley Kindzmarauli", Kakhetian Home-Made Kindzmarauli, etc.)</i> 
-- 🍶 Georgian Chacha <i>(Brands: "Askaneli Brothers Chacha", Georgian Home-Made Chacha, etc.)</i> 
+- 🍶 Georgian Chacha <i>(Brands: "Askaneli Brothers Chacha", Georgian Home-Made Chacha, etc.)</i>
+- 🍶 Georgian Wine <i>(Brands: "Keburia Rkatsiteli", "Khareba Rkatsiteli", "GRW Saperavi", "Duruji Valley Kisi Qvevri", "Dugladze Mukuzani", "Duruji Valley Kindzmarauli", Kakhetian Home-Made Kindzmarauli, etc.)</i>  
 </br>
+<u>Mtskheta-Mtianeti - Regional Special:</u> 
+- 🧀 Dambalkhacho <i>(დამბალხაჭო)</i></br>
 <u>Kakheti - Regional Special:</u> 
 - 🍲 Kakhetian Khashlama <i>(ხაშლამა)</i>
 - 🥘 Chakapuli <i>(ჩაქაფული)</i>
@@ -198,10 +185,6 @@ Hej! Here's a glimpse into my experiences in resplendent Georgia, which I visite
   - 🥘 Mtsvadi-Style Pork <i>(ღორის მწვადი)</i>
   - 🥘 Mtsvadi-Style Lamb <i>(ცხვრის მწვადი)</i>
   - 🥘 Mtsvadi-Style Chicken <i>(ქათმის მწვადი)</i></br>
-<u>Mtskheta-Mtianeti - Regional Special:</u> 
-- 🧀 Dambalkhacho <i>(დამბალხაჭო)</i>
-
-
 
 <b>🎬 Local movies:</b>
 - 🥲 Svani <i>(სვანი)</i>. Year: 2007. Genre: drama  
@@ -214,7 +197,7 @@ Hej! Here's a glimpse into my experiences in resplendent Georgia, which I visite
 <b>🪔 Authentic features:</b>
 - 📜 Mkhedruli Script <i>(მხედრული)</i>
 - 📜 Asomtavruli Script <i>(ასომთავრული / ႠႱႭႫႧႠႥႰႳႪႨ)</i>
-- 📜 Nuskhuri Script <i>(ნუსხური / <span class="nuskhuri">ⴌⴓⴑⴞⴓⴐⴈ</span>)</i>
+- 📜 Nuskhuri Script <i>(ნუსხური / ⴌⴓⴑⴞⴓⴐⴈ)</i>
 - 🐦‍🔥 Epic of the Knight in the Panther's Skin <i>(ვეფხისტყაოსანი)</i>
 - 🐦‍🔥 Georgian Mythology <i>(ქართული მითოლოგია)</i>
 - 🏺 Kantsi Drinking Horns <i>(ყანწები)</i>
@@ -272,9 +255,9 @@ Hej! Here's a glimpse into my experiences in resplendent Georgia, which I visite
 - 🗽 Tbilisoba Festival <i>(თბილისობა)</i>. Month: October
 - 🫕 Tbilisi New Wine Festival <i>(ახალი ღვინის ფესტივალი)</i>. Month: May<br>
 <u>Mtskheta-Mtianeti - Regional Special:</u>
-- 🤸 Lomisoba <i>(ლომისობა)</i>. Month: May or June
+- 🏃🏻 Lomisoba <i>(ლომისობა)</i>. Month: May or June
 - 🎪 Shatiloba Festival <i>(შატილობა)</i>. Month: August or September
-- 🤸 Svetitskhovloba Festival <i>(სვეტიცხოვლობა)</i>. Month: October<br>
+- 🏃🏻 Svetitskhovloba Festival <i>(სვეტიცხოვლობა)</i>. Month: October<br>
 <u>Kakheti - Regional Special:</u> 
 - 🗽 Erekleoba Festival <i>(ერეკლეობა)</i>. Month: November
 - 🎪 Alaverdoba Festival <i>(ალავერდობა)</i>. Month: September

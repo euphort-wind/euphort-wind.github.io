@@ -178,10 +178,10 @@ Hej! Here's a glimpse into my experiences in vibrant Cyprus, which I visited in 
 <u>Larnaca - Regional Special:</u> 
 - 🎪 Lefkara Festival <i>(Φεστιβάλ Λευκάρων)</i>. Month: August
 - 🫕 Kato Drys Traditional Food Festival <i>(Φεστιβάλ Παραδοσιακών Γεύσεων)</i>. Month: October 
-- 🤸 Kataklysmos Festival <i>(Φεστιβάλ Κατακλυσμού στη Λάρνακα)</i>. Month: June<br>
+- 🏃🏻 Kataklysmos Festival <i>(Φεστιβάλ Κατακλυσμού στη Λάρνακα)</i>. Month: June<br>
 <u>Limassol - Regional Special:</u> 
 - 🎪 Limassol Carnival <i>(Καρναβάλι Λεμεσού)</i>. Month: February or March
-- 🤸 Ancient Greek Drama Festival <i>(Φεστιβάλ Αρχαίου Ελληνικού Δράματος)</i>. Month: June to August
+- 🏃🏻 Ancient Greek Drama Festival <i>(Φεστιβάλ Αρχαίου Ελληνικού Δράματος)</i>. Month: June to August
 - 🫕 Kalo Chorio Commandaria Festival <i>(Φεστιβάλ Κουμανδαρίας)</i>. Month: 	September to October<br>
 <u>Nicosia - Regional Special:</u> 
 - 🎸 Nicosia International Festival<i>(Διεθνές Φεστιβάλ Λευκωσίας)</i>. Month: September to November <br>

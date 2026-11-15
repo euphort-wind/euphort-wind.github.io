@@ -112,7 +112,7 @@ Hej! Here's a glimpse into my experiences in the beautiful Åland Islands, which
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- 🤸 Postrodden <i>(Postrodden)</i>. Month: June
+- 🏃🏻 Postrodden <i>(Postrodden)</i>. Month: June
 - 🗽 Autonomy Day of Åland <i>(Ålands Självstyrelsedag)</i>. Month: June
 - 🎪 Lilla Jul Celebration <i>(Lillajul)</i>. Month: November or December
 - 🎪 Åland Harvest Festival <i>(Skördefesten)</i>. Month: September

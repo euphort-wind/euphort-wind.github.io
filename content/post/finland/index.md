@@ -181,8 +181,8 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
 <b>🎊 Authentic holidays & celebrations:</b>
 - 🗽 Independence Day of Finland <i>(Itsenäisyyspäivä)</i>. Month: December
 - 🎪 Kalevala Day <i>(Kalevalan Päivä)</i>. Month: February
-- 🤸 Laskiainen <i>(Laskiainen)</i>. Month: January to February
-- 🤸 Wife-Carrying Contest <i>(Eukonkanto)</i>. Month: July 
+- 🏃🏻 Laskiainen <i>(Laskiainen)</i>. Month: January to February
+- 🏃🏻 Wife-Carrying Contest <i>(Eukonkanto)</i>. Month: July 
 - 👲 Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Month: February<br>
 <u>Uusimaa - Regional Special:</u>
 - 🗽 Helsinki Day <i>(Helsinki-Päivä)</i>. Month: June  

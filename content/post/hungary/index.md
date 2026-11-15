@@ -190,7 +190,7 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
 <b>🎊 Authentic holidays & celebrations:</b>
 - 🗽 1848 Memorial Day <i>(1848-as Forradalom Ünnepe)</i>. Month: March
 - 🗽 1956 Memorial Day <i>(1956-os Forradalom Ünnepe)</i>. Month: October
-- 🤸 National Gallop <i>(Nemzeti Vágta)</i>. Month: September to October
+- 🏃🏻 National Gallop <i>(Nemzeti Vágta)</i>. Month: September to October
 <br>
 <u>Budapest-Capital - Regional Special:</u> 
 - 🎪 Budapest Spring Festival <i>(Budapesti Tavaszi Fesztivál)</i>. Month: March to April
@@ -200,7 +200,7 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
 <u>Central Transdanubia - Regional Special:</u> 
 - 🎸 VeszprémFest <i>(VeszprémFest)</i>. Month: June to July
 - 🎪 Royal Days Festival <i>(Királyi Napok)</i>. Month: August
-- 🤸 Belle of the Anna-Ball <i>(Anna-Bál)</i>. Month: July
+- 🏃🏻 Belle of the Anna-Ball <i>(Anna-Bál)</i>. Month: July
 
 
 

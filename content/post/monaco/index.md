@@ -116,7 +116,7 @@ Hej! Here's a glimpse into my experiences in luxurious Monaco, which I visited i
 - 🎪 U Cavagnetu <i>(U Cavagnëtu)</i>. Month: September
 - 🎪 Sainte Dévote Day <i>(Jour de la Sainte-Dévote)</i>. Month: January
 - 🗽 National Day <i>(Fête du Prince)</i>. Month: November
-- 🤸 Monaco Grand Prix <i>(Grand Prix de Monaco)</i>. Month: May or June
+- 🏃🏻 Monaco Grand Prix <i>(Grand Prix de Monaco)</i>. Month: May or June
 
 <b>💐 National flower:</b> 
 - <b>Red Carnation <i>(Œillet Commun)</i></b> 

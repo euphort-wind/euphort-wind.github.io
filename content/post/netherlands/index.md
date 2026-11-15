@@ -310,7 +310,7 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 <b>🎊 Authentic holidays & celebrations:</b>
 - 🗽 King's Day <i>(Koningsdag)</i>. Month: April
 - 🎪 Sinterklaas Feast <i>(Sinterklaas)</i>. Month: December
-- 🤸 Unox New Year's Dive <i>(Nieuwjaarsduik)</i>. Month: January<br>
+- 🏃🏻 Unox New Year's Dive <i>(Nieuwjaarsduik)</i>. Month: January<br>
 <u>North Holland - Regional Special:</u> 
 - 🎪 National Tulip Day <i>(Nationale Tulpendag)</i>. Month: January
 - 🎪 Holland Festival <i>(Holland Festival)</i>. Month: June<br>
@@ -322,9 +322,9 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🎸 Utrecht Early Music Festival <i>(Festival Oude Muziek)</i>. Month: August to September<br>
 <u>Friesland - Regional Special:</u> 
 - 🎪 Oerol Festival <i>(Oerol / Oerol)</i>. Month: June
-- 🤸 Skûtsjesilen <i>(Skûtsjesilen / Skûtsjesilen)</i>. Month: July or August
-- 🤸 Elfstedentocht <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February
-- 🤸 Frisian Balloon Festival <i>(Friese Ballonfeesten / Frysk Ballonfestival)</i>. Month: July
+- 🏃🏻 Skûtsjesilen <i>(Skûtsjesilen / Skûtsjesilen)</i>. Month: July or August
+- 🏃🏻 Elfstedentocht <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February
+- 🏃🏻 Frisian Balloon Festival <i>(Friese Ballonfeesten / Frysk Ballonfestival)</i>. Month: July
 
 <b>💐 National flower: </b> 
 - Historically: <b>Tulip <i>(Tulp)</i></b>  

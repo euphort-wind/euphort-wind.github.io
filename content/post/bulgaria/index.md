@@ -247,7 +247,7 @@ Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visit
 <br>
 <u>Burgas - Regional Special:</u> 
 - 🎪 Apollonia Arts Festival <i>(Празници на Изкуствата "Аполония")</i>. Month: August to September
-- 🤸 Burgas Sand Sculptures Festival <i>(Фестивал на Пясъчните Скулптури)</i>. Month: July to August
+- 🏃🏻 Burgas Sand Sculptures Festival <i>(Фестивал на Пясъчните Скулптури)</i>. Month: July to August
 - 🗽 Nessebar Day <i>(Ден на Несебър)</i>. Month: August 
 
 

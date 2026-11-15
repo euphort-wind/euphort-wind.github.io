@@ -6,7 +6,7 @@ summary: Trip to Jordan
 gallery_item:
   - album: jordan
     image: 1port.jpg
-    caption: Aqaba (town)
+    caption: Aqaba (City)
   - album: jordan
     image: 2port.jpg
     caption: Port of Aqaba
@@ -18,7 +18,7 @@ gallery_item:
     caption: The Urn Tombs (Petra)
   - album: jordan
     image: 5pano.jpg
-    caption: Wadi Musa (town)
+    caption: Wadi Musa (Town)
   - album: jordan
     image: 6camel.jpg
     caption: Camels in Petra
@@ -108,7 +108,7 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 
 
 <b>🎬 Local movies:</b>
-- Captain Abu Raed <i>(<bdi style="direction: rtl;">كابتن أبو رائد</bdi>)</i>. Year: 2007. Genre: drama
+- 🥲 Captain Abu Raed <i>(<bdi style="direction: rtl;">كابتن أبو رائد</bdi>)</i>. Year: 2007. Genre: drama
 
 
 <b>🪔 Authentic features:</b>
@@ -149,14 +149,16 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
-- Independence Day of Jordan <i>(<bdi style="direction: rtl;">عيد الاستقلال</bdi>)</i>. Month: May<br>
+- 🗽 Independence Day of Jordan <i>(<bdi style="direction: rtl;">عيد الاستقلال</bdi>)</i>. Month: May<br>
 <u>Ma'an - Regional Special:</u> 
-- Petra Cultural Festival <i>(<bdi style="direction: rtl;">مهرجان البترا الثقافي</bdi>)</i>. Month: October
+- 🎪 Petra Cultural Festival <i>(<bdi style="direction: rtl;">مهرجان البترا الثقافي</bdi>)</i>. Month: October<br>
+<u>Aqaba - Regional Special:</u> 
+- 👲 Jordan Camel Racing and Nabati Poetry Festival  <i>(<bdi style="direction: rtl;">مهرجان الأردن لسباقات الهجن والشعر النبطي</bdi>)</i>. Month: October
 
 
 
-<b>💐 National flower: </b> 
-- Black Iris <i>(<bdi style="direction: rtl;">السوسنة السوداء</bdi>)</i>
+<b>💐 National flower:</b> 
+- <b>Black Iris <i>(<bdi style="direction: rtl;">السوسنة السوداء</bdi>)</i></b> 
 
 
 <b>🦉 Local wisdom:</b> "He who cannot recognize a falcon’s worth will roast it." / "<i>اللي ما يعرف الصقر يشويه</i>" — Jordanian proverb 
