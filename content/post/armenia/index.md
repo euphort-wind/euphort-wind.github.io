@@ -242,6 +242,7 @@ Hej! Here's a glimpse into my experiences in welcoming Armenia, which I visited 
 - 🎙️ Ashughs & Ashugh Songs <i>(Աշուղներ Եվ Աշուղական Երգեր)</i>
 - 🪕 Musical Instrument: Armenian Duduk <i>(Դուդուկ)</i>
 - 👘 Garb: Armenian Taraz <i>(Տարազ)</i>
+- 🏰 Heritage of Hayasa-Azzi <i>(Հայասա / 𒆳𒌷𒄩𒄿𒀀𒊭 𒆳𒌷𒀀𒍣)</i>
 - 🏰 Heritage of Urartu <i>(Վանի թագավորություն / 𒁉𒀀𒉌𒇷)</i>
   - 🕯️ Urartian Religion <i>(Վանի Թագավորության Կրոն / 𒀭 𒀀𒄷𒆷𒁲)</i>
   - 🐦‍🔥 Urartian Mythology <i>(Ուրարտական ​​Դիցաբանություն / 𒀭)</i>

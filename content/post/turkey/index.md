@@ -179,6 +179,7 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 </br>
 <u>Muğla - Regional Special:</u> 
 - 🥘 Çökertme Kebab <i>(Çökertme Kebabı)</i>
+- Lokum Pilavi
 </br>
 <u>Denizli - Regional Special:</u> 
 - 🥘 Denizli Kebab <i>(Denizli Kebabı)</i>

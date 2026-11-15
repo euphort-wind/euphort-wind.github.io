@@ -316,6 +316,7 @@ Hej! Here's a glimpse into my experiences in magical Italy, which I visited in 2
   - 🥙 Pizza Margherita <i>(Pizza Margherita / Pizza Margherita)</i> 
 - 🥙 Neapolitan Calzone <i>(Calzone Napoletano / Cauzone Napulitano)</i>
 - 🥘 Carrozza <i>(Mozzarella in Carrozza / Muzzarella 'n Carrozza)</i>
+- 🥘 Spaghetti alla Puttanesca <i>(Spaghetti alla Puttanesca / Aulive e Chiapparielle)</i>
 - 🥘 Spaghetti alle Vongole <i>(Spaghetti alle Vongole / Spaghetti cu 'e Vongole)</i>
 - 🥘 Pasta alla Genovese <i>(Pasta alla Genovese / Pasta â Genovese)</i>
 - 🍰 Sfogliatella <i>(Sfogliatelle / Sfugliatelle)</i>
