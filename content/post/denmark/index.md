@@ -172,7 +172,7 @@ Hej! Here's a glimpse into my experiences in marvelous Denmark, which I visited 
 - 🧝 Legacy of Jutes <i>(Jyder / ᛁᚢᛏᛅᚱ)</i>
 - 🧝 Legacy of Ancient Danes <i>(Daner / ᛏᛅᚾᛁᛦ)</i>
 - 🏰 Heritage of the Kalmar Union <i>(Kalmarunionen)</i>
-- 🏰 Heritage of the Danish-Norwegian Union <i>(Danmark–Norge / Danmark–Noreg)</i>
+- 🏰 Heritage of the Danish-Norwegian Union <i>(Danmark–Norge)</i>
 - ⛰️ Fur Formations <i>(Fur Formationen)</i><br>
 <u>North Jutland - Regional Special:</u>
 - 🏘️ Tanghuse <i>(Tanghuse)</i><br>

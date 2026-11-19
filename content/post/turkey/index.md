@@ -287,7 +287,7 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
   - 🏘️ Bedestens <i>(Bedestenler / <bdi style="direction: rtl;">بدستانلر</bdi>)</i> 
   - 🏘️ Ottoman Sabils <i>(Sebiller / <bdi style="direction: rtl;">سبیللر</bdi>)</i>
   - 🏛️ Classical Ottoman Architecture <i>(Osmanlı Mimarisi / <bdi style="direction: rtl;">عثمانلی معماریسی</bdi>)</i>
-  - 🏛️ New Ottoman Architecture <i>(Neoklasik Türk Üslûbu / <bdi style="direction: rtl;">اسلوبِ جدیدِ کلاسیکیِ ترکی</bdi>)</i>
+  - 🏛️ New Ottoman Architecture <i>(Neoklasik Türk Üslûbu / <bdi style="direction: rtl;">اولین میلّی معمارلیک آکیمی</bdi>)</i>
   - 🎨 Ottoman Miniature <i>(Osmanlı Minyatürü / <bdi style="direction: rtl;">تصویرِ عثمانی</bdi>)</i>
   - 🏃🏻 Matrak Tradition <i>(Matrak / <bdi style="direction: rtl;">ماتراق</bdi>)</i>
   - 🎭 Karagöz Shadow Play <i>(Karagöz / <bdi style="direction: rtl;">قراقوز</bdi>)</i>

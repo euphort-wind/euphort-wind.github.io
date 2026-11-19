@@ -212,10 +212,10 @@ Hej! Here's a glimpse into my experiences in welcoming Armenia, which I visited 
 <b>🎬 Local movies:</b>
 - 🕰️ Amerikatsi <i>(Ամերիկացի)</i>. Year: 2022. Genre: history / drama
 - 🥲 Akhtamar <i>(Ախթամար)</i>. Year: 2009. Genre: short / drama
-- 🥲 The Tango of Our Childhood <i>(Մեր Մանկության Տանգոն)</i>. Year: 1984. Genre: drama
 - 👾 The Axe <i>(Կացին)</i>. Year: 1994. Genre: short / animation
 - 👾 Kikos <i>(Կիկոս)</i>. Year: 1979. Genre: short / animation
 - 👾 Wow! A Talking Fish! <i>(Խոսող Ձուկը)</i>. Year: 1983. Genre: short / animation
+- 🥲 The Tango of Our Childhood <i>(Մեր Մանկության Տանգոն)</i>. Year: 1984. Genre: drama
 - 👾 Who Will Tell the Tale? <i>(Ով Էնպիսի Սուտ Ասի...)</i>. Year: 1982. Genre: short / animation
 - 👾 In the Blue Sea, In the White Foam... <i>(Կապույտ Ծովում, Սպիտակ Փրփուրի Մեջ...)</i>. Year: 1984. Genre: short / animation
 
