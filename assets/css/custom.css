@@ -1,7 +1,3 @@
 body {
   font-family: "Twemoji Country Flags", roboto, sans-serif;
 }
-
-.prose ul {
-  list-style-type: none; /* Options: disc, circle, square, none */
-}

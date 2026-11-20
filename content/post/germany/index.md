@@ -170,6 +170,7 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🇩🇪 Oimara (singer). Genre: pop rock
 - 🇩🇪 Orange Sector (band). Genre: EBM
 - 🇩🇪 KlangKuenstler (DJ). Genre: schranz
+- 🇩🇪 MilleniumKid (DJ). Genre: synth-pop
 - 🇺🇳 Scorpions (band). Genre: hard rock
 - 🇺🇳 Modern Talking (duo). Genre: europop
 - 🇺🇳 Roger Shah (DJ). Genre: balearic trance

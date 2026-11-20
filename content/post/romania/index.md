@@ -145,7 +145,7 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - 🇺🇳 Minelli (singer). Genre: pop
 - 🇺🇳 Alexandra Stan (singer). Genre: popcorn
 - 🇺🇳 Alis Shuka (singer). Genre: pop
-- 🇺🇳 Petre Inspirescu (DJ). Genre: genre
+- 🇺🇳 Petre Inspirescu (DJ). Genre: rominimal
 - 🇺🇳 Alexandra Căpitănescu (singer). Genre: alt-rock
 
 <b>🎚️ Contribution to Electronic Music: </b>
