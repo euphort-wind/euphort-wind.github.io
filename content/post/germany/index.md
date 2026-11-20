@@ -311,6 +311,8 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🐦‍🔥 German Folklore <i>(Deutsche Folklore)</i>
 - 👑 Title of Federal Chancellor <i>(Bundeskanzler)</i>
 - 🏺 Cuckoo Clocks <i>(Kuckucksuhr)</i>
+- 🏺 Räuchermen <i>(Räuchermänner)</i>
+- 🏺 Nutcrackers <i>(Nussknacker)</i>
 - 🏺 German Beer Tankards <i>(Humpen)</i>
 - 🚗 German Cars <i>(Brands: "Audi", "Volkswagen", "BMW", "Mercedes-Benz", "Porsche", "Opel", etc.)</i>
 - ⛵ Zille Boats <i>(Zillen)</i>
