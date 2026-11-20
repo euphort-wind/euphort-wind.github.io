@@ -244,13 +244,16 @@ sections:
         <style>
         .wanderlust-list ul {
         list-style: none !important;
+        padding-left: 0 !important;
+        text-align: center;
         }
-
         .wanderlust-list li {
         list-style: none !important;
+        text-align: center;
         }
         </style>
         <div class="row wanderlust-list">
+        <center>
           <div class="col-md-6">
             <h3>Nothern Europe</h3>
             <ul>
@@ -331,6 +334,7 @@ sections:
               <li><a href="/post/thailand/">🇹🇭 Thailand</a></li>
             </ul>
           </div>
+        </center>
         </div>
     design:
       columns: '1'
