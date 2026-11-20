@@ -244,8 +244,6 @@ sections:
         <style>
         .wanderlust-list ul {
         list-style: none !important;
-        padding-left: 0 !important;
-        margin-left: 0 !important;
         }
 
         .wanderlust-list li {
