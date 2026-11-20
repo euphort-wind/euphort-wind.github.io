@@ -1,66 +1,140 @@
-{{/* Inline SoundCloud playback for Music portfolio cards. */}}
+{{/* Play SoundCloud tracks directly from their existing portfolio cover links. */}}
 <script>
 (function () {
   const section = document.getElementById('music');
-  if (!section || section.dataset.soundcloudPlayerReady === 'true') return;
-  section.dataset.soundcloudPlayerReady = 'true';
+  if (!section || section.dataset.soundcloudCoverReady === 'true') return;
+  section.dataset.soundcloudCoverReady = 'true';
 
-  const playerWrap = document.createElement('div');
-  playerWrap.className = 'soundcloud-inline-player';
-  playerWrap.style.cssText = 'margin: 1.5rem 0; width: 100%;';
-  playerWrap.setAttribute('aria-label', 'SoundCloud music player');
-
-  const playerTitle = document.createElement('p');
-  playerTitle.className = 'soundcloud-inline-player__title';
-  playerTitle.textContent = 'Select a track above to play';
-  playerTitle.style.cssText = 'margin: 0 0 .5rem; font-weight: 600;';
+  const style = document.createElement('style');
+  style.textContent = `
+    #music a.soundcloud-cover-link {
+      position: relative;
+      display: inline-block;
+      overflow: hidden;
+    }
+    #music a.soundcloud-cover-link::after {
+      content: "▶";
+      position: absolute;
+      inset: 0;
+      display: grid;
+      place-items: center;
+      color: #fff;
+      font-size: clamp(2rem, 5vw, 3.5rem);
+      line-height: 1;
+      text-shadow: 0 2px 12px rgba(0,0,0,.8);
+      background: rgba(0,0,0,.12);
+      opacity: .9;
+      pointer-events: none;
+      transition: background .2s ease, opacity .2s ease;
+    }
+    #music a.soundcloud-cover-link:hover::after,
+    #music a.soundcloud-cover-link:focus-visible::after {
+      background: rgba(0,0,0,.28);
+      opacity: 1;
+    }
+    #music a.soundcloud-cover-link.is-playing::after {
+      content: "Ⅱ";
+      background: rgba(0,0,0,.28);
+    }
+    #music .soundcloud-audio-engine {
+      position: fixed;
+      left: -10000px;
+      top: 0;
+      width: 1px;
+      height: 1px;
+      border: 0;
+      opacity: 0;
+      pointer-events: none;
+    }
+  `;
+  document.head.appendChild(style);
 
   const frame = document.createElement('iframe');
-  frame.title = 'SoundCloud audio player';
-  frame.width = '100%';
-  frame.height = '166';
+  frame.className = 'soundcloud-audio-engine';
+  frame.title = 'SoundCloud audio playback';
+  frame.width = '1';
+  frame.height = '1';
   frame.allow = 'autoplay';
   frame.setAttribute('scrolling', 'no');
-  frame.style.cssText = 'border: 0; display: block; width: 100%;';
-  playerWrap.append(playerTitle, frame);
-
-  // Place the player after the portfolio cards so the existing card layout stays intact.
-  section.appendChild(playerWrap);
+  frame.src = 'about:blank';
+  document.body.appendChild(frame);
 
   let widget = null;
   let widgetReady = false;
   let activeTrack = '';
+  let activeLink = null;
   let pendingTrack = '';
+  let pendingToggle = false;
 
-  function playerOptions(autoPlay) {
-    return {
-      auto_play: autoPlay,
-      hide_related: true,
-      show_comments: false,
-      show_user: true,
-      show_reposts: false,
-      visual: false
-    };
+  const options = {
+    auto_play: true,
+    hide_related: true,
+    show_comments: false,
+    show_user: false,
+    show_reposts: false,
+    visual: false
+  };
+
+  function markActive(link) {
+    section.querySelectorAll('a.soundcloud-cover-link').forEach(function (item) {
+      item.classList.toggle('is-playing', item === link);
+      if (item === link) item.setAttribute('aria-label', 'Pause this track');
+      else item.setAttribute('aria-label', 'Play this track');
+    });
+    activeLink = link;
   }
 
-  function loadTrack(url) {
+  function loadTrack(url, link) {
+    if (url === activeTrack) {
+      if (widgetReady && widget) widget.toggle();
+      else pendingToggle = !pendingToggle;
+      return;
+    }
+
+    activeTrack = url;
+    pendingTrack = url;
+    markActive(link);
+
     if (!frame.src || frame.src === 'about:blank') {
       frame.src = 'https://w.soundcloud.com/player/?url=' +
-        encodeURIComponent(url) + '&auto_play=true&hide_related=true&show_comments=false&show_user=true&show_reposts=false&visual=false';
-      activeTrack = url;
+        encodeURIComponent(url) +
+        '&auto_play=true&hide_related=true&show_comments=false&show_user=false&show_reposts=false&visual=false';
       return;
     }
-    if (!widgetReady || !widget) {
-      pendingTrack = url;
-      return;
+
+    if (widgetReady && widget) {
+      pendingTrack = '';
+      widget.load(url, options);
     }
-    if (url === activeTrack) {
-      widget.toggle();
-      return;
-    }
-    activeTrack = url;
-    playerTitle.textContent = 'Loading track…';
-    widget.load(url, playerOptions(true));
+  }
+
+  function initializeWidget() {
+    if (widget || !window.SC || !window.SC.Widget) return;
+    widget = window.SC.Widget(frame);
+    widget.bind(window.SC.Widget.Events.READY, function () {
+      widgetReady = true;
+      if (pendingTrack && pendingTrack !== activeTrack) {
+        const nextTrack = pendingTrack;
+        pendingTrack = '';
+        widget.load(nextTrack, options);
+      }
+      if (pendingToggle) {
+        pendingToggle = false;
+        widget.toggle();
+      }
+    });
+    widget.bind(window.SC.Widget.Events.PLAY, function () {
+      if (activeLink) {
+        activeLink.classList.add('is-playing');
+        activeLink.setAttribute('aria-label', 'Pause this track');
+      }
+    });
+    widget.bind(window.SC.Widget.Events.PAUSE, function () {
+      if (activeLink) {
+        activeLink.classList.remove('is-playing');
+        activeLink.setAttribute('aria-label', 'Play this track');
+      }
+    });
   }
 
   function loadWidgetApi() {
@@ -77,38 +151,31 @@
     document.head.appendChild(api);
   }
 
-  function initializeWidget() {
-    if (widget || !frame.src || !window.SC || !window.SC.Widget) return;
-    widget = window.SC.Widget(frame);
-    widget.bind(window.SC.Widget.Events.READY, function () {
-      widgetReady = true;
-      if (pendingTrack && pendingTrack !== activeTrack) {
-        const nextTrack = pendingTrack;
-        pendingTrack = '';
-        loadTrack(nextTrack);
+  // Mark the existing artwork links so the cover itself communicates playback.
+  section.querySelectorAll('a[href]').forEach(function (link) {
+    try {
+      const url = new URL(link.href, window.location.href);
+      if (/(^|\\.)soundcloud\\.com$/i.test(url.hostname)) {
+        link.classList.add('soundcloud-cover-link');
+        link.setAttribute('aria-label', 'Play this track');
       }
-    });
-    widget.bind(window.SC.Widget.Events.PLAY, function () {
-      playerTitle.textContent = 'Now playing';
-    });
-    widget.bind(window.SC.Widget.Events.PAUSE, function () {
-      playerTitle.textContent = 'Playback paused';
-    });
-  }
+    } catch (_) {}
+  });
 
   section.addEventListener('click', function (event) {
     const link = event.target.closest('a[href]');
     if (!link || !section.contains(link)) return;
+
     let parsed;
     try { parsed = new URL(link.href, window.location.href); } catch (_) { return; }
-    if (!/(^|\.)soundcloud\.com$/i.test(parsed.hostname)) return;
+    if (!/(^|\\.)soundcloud\\.com$/i.test(parsed.hostname)) return;
 
     event.preventDefault();
     event.stopPropagation();
-    const trackUrl = parsed.origin + parsed.pathname.replace(/\/$/, '');
-    loadTrack(trackUrl);
+
+    const trackUrl = parsed.origin + parsed.pathname.replace(/\\/$/, '');
+    loadTrack(trackUrl, link);
     loadWidgetApi();
-    if (playerWrap.parentNode) playerWrap.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   });
 })();
 </script>
