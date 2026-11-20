@@ -241,7 +241,18 @@ sections:
       title: Wanderlust
       subtitle: ''
       text: |2-
-        <div class="row">
+        <style>
+        .wanderlust-list ul {
+        list-style: none !important;
+        padding-left: 0 !important;
+        margin-left: 0 !important;
+        }
+
+        .wanderlust-list li {
+        list-style: none !important;
+        }
+        </style>
+        <div class="row wanderlust-list">
           <div class="col-md-6">
             <h3>Nothern Europe</h3>
             <ul>
