@@ -1,5 +1,12 @@
 {{/* Play SoundCloud tracks directly from their existing portfolio cover links. */}}
-<script>
+{{ with resources.Get "media/Respire.mp3" }}
+  {{ $respireAudioURL := .RelPermalink }}
+  <script>
+  const localRespireURL = {{ $respireAudioURL | jsonify }};
+{{ else }}
+  <script>
+  const localRespireURL = '';
+{{ end }}
 (function () {
   const section = document.getElementById('music');
   if (!section || section.dataset.soundcloudCoverReady === 'true') return;
@@ -70,6 +77,31 @@
   let activeLink = null;
   let pendingTrack = '';
   let pendingToggle = false;
+  const respireTrack = 'https://soundcloud.com/euphort_wind/euphort-wind-respire';
+  const localAudio = localRespireURL ? new Audio(localRespireURL) : null;
+  if (localAudio) {
+    localAudio.preload = 'auto';
+    localAudio.addEventListener('ended', function () {
+      if (activeLink) {
+        activeLink.classList.remove('is-playing');
+        activeLink.setAttribute('aria-label', 'Play this track');
+      }
+      activeLink = null;
+      activeTrack = '';
+    });
+    localAudio.addEventListener('pause', function () {
+      if (activeLink && activeTrack === respireTrack) {
+        activeLink.classList.remove('is-playing');
+        activeLink.setAttribute('aria-label', 'Play this track');
+      }
+    });
+    localAudio.addEventListener('play', function () {
+      if (activeLink && activeTrack === respireTrack) {
+        activeLink.classList.add('is-playing');
+        activeLink.setAttribute('aria-label', 'Pause this track');
+      }
+    });
+  }
 
   const options = {
     auto_play: true,
@@ -102,6 +134,34 @@
   }
 
   function loadTrack(url, link) {
+    if (url === respireTrack && localAudio) {
+      if (url === activeTrack) {
+        if (localAudio.paused) localAudio.play().catch(function () {});
+        else localAudio.pause();
+        return;
+      }
+      if (widgetReady && widget) widget.pause();
+      if (localAudio) {
+        localAudio.pause();
+        localAudio.currentTime = 0;
+      }
+      activeTrack = url;
+      pendingTrack = '';
+      markActive(link);
+      localAudio.play().catch(function () {
+        if (activeLink) {
+          activeLink.classList.remove('is-playing');
+          activeLink.setAttribute('aria-label', 'Play this track');
+        }
+      });
+      return;
+    }
+
+    if (localAudio && activeTrack === respireTrack) {
+      localAudio.pause();
+      localAudio.currentTime = 0;
+    }
+
     if (url === activeTrack) {
       if (widgetReady && widget) widget.toggle();
       else pendingToggle = !pendingToggle;
