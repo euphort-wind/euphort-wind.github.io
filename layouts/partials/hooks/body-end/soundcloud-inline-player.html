@@ -11,6 +11,10 @@
       position: relative;
       display: inline-block;
       overflow: hidden;
+      line-height: 0;
+    }
+    #music a.soundcloud-cover-link img {
+      display: block;
     }
     #music a.soundcloud-cover-link::after {
       content: "▶";
@@ -76,6 +80,18 @@
     visual: false
   };
 
+  const boostedTracks = new Set([
+    'https://soundcloud.com/euphort_wind/euphort-wind-respire',
+    'https://soundcloud.com/euphort_wind/euphort-wind-shh'
+  ]);
+
+  function applyTrackVolume() {
+    if (widget && widgetReady && boostedTracks.has(activeTrack)) {
+      // SoundCloud's Widget API is capped at 100; this selects its maximum.
+      widget.setVolume(100);
+    }
+  }
+
   function markActive(link) {
     section.querySelectorAll('a.soundcloud-cover-link').forEach(function (item) {
       item.classList.toggle('is-playing', item === link);
@@ -108,6 +124,7 @@
       pendingTrack = '';
       frameLoadedTrack = url;
       widget.load(url, options);
+      applyTrackVolume();
     }
   }
 
@@ -128,6 +145,7 @@
       }
     });
     widget.bind(window.SC.Widget.Events.PLAY, function () {
+      applyTrackVolume();
       if (activeLink) {
         activeLink.classList.add('is-playing');
         activeLink.setAttribute('aria-label', 'Pause this track');
@@ -157,6 +175,8 @@
 
   // Mark the existing artwork links so the cover itself communicates playback.
   section.querySelectorAll('a[href]').forEach(function (link) {
+    // Only decorate artwork links, not SoundCloud links in card text or metadata.
+    if (!link.querySelector('img')) return;
     try {
       const url = new URL(link.href, window.location.href);
       if (/(^|\.)soundcloud\.com$/i.test(url.hostname)) {
@@ -168,7 +188,7 @@
 
   section.addEventListener('click', function (event) {
     const link = event.target.closest('a[href]');
-    if (!link || !section.contains(link)) return;
+    if (!link || !section.contains(link) || !link.classList.contains('soundcloud-cover-link')) return;
 
     let parsed;
     try { parsed = new URL(link.href, window.location.href); } catch (_) { return; }
