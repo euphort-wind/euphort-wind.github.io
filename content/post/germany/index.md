@@ -161,7 +161,8 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🇩🇪 Stefanie Kloß (singer). Genre: pop
 - 🇩🇪 Nena (singer). Genre: europop
 - 🇩🇪 Kyau & Albert (DJ duo). Genre: trance
-- 🇩🇪 Alex C / Jasper Forks (DJ). Genre: house
+- 🇩🇪 Alex C (DJ). Genre: eurodance
+- 🇩🇪 Jasper Forks (DJ). Genre: house
 - 🇩🇪 Ich + Ich (duo). Genre: pop
 - 🇩🇪 Juli (band). Genre: alt-rock
 - 🇩🇪 LaFee (singer). Genre: pop
