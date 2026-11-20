@@ -159,7 +159,7 @@
   section.querySelectorAll('a[href]').forEach(function (link) {
     try {
       const url = new URL(link.href, window.location.href);
-      if (/(^|\\.)soundcloud\\.com$/i.test(url.hostname)) {
+      if (/(^|\.)soundcloud\.com$/i.test(url.hostname)) {
         link.classList.add('soundcloud-cover-link');
         link.setAttribute('aria-label', 'Play this track');
       }
@@ -172,12 +172,12 @@
 
     let parsed;
     try { parsed = new URL(link.href, window.location.href); } catch (_) { return; }
-    if (!/(^|\\.)soundcloud\\.com$/i.test(parsed.hostname)) return;
+    if (!/(^|\.)soundcloud\.com$/i.test(parsed.hostname)) return;
 
     event.preventDefault();
     event.stopPropagation();
 
-    const trackUrl = parsed.origin + parsed.pathname.replace(/\\/$/, '');
+    const trackUrl = parsed.origin + parsed.pathname.replace(/\/$/, '');
     loadTrack(trackUrl, link);
     loadWidgetApi();
   });
