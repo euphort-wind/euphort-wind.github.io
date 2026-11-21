@@ -227,6 +227,7 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🥘 Çöp Şiş <i>(Çöp Şiş)</i>
 </br>
 <u>Muğla - Regional Special:</u> 
+- 🥙 Sebzeli Döner <i>(Sebzeli Döner)</i>
 - 🥘 Çökertme Kebab <i>(Çökertme Kebabı)</i>
 - 🥘 Lokum Pilavı <i>(Lokum Pilavı)</i>
 - 🍰 Muğla Saraylısı <i>(Muğla Saraylısı)</i>
