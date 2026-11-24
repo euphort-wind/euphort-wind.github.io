@@ -98,8 +98,8 @@ Hej! Here's a glimpse into my experiences in prosperous Liechtenstein, which I v
 - 🇱🇮 Wavvyboi (singer). Genre: emo pop
 - 🇱🇮 Rääs (band). Genre: pop rock
 - 🇱🇮 Elis (band). Genre: gothic metal
-- 🇺🇳 Wolf Schranze (DJ). Genre: lo-fi 
-- 🇺🇳 Al Walser (singer). Genre: dance pop
+- 🌐 Wolf Schranze (DJ). Genre: lo-fi 
+- 🌐 Al Walser (singer). Genre: dance pop
 
 
 <b>🍽️ Local food & drinks: </b>

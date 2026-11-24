@@ -85,9 +85,9 @@ Hej! Here's a glimpse into my experiences in contrasting and spectacular India, 
 - 🇮🇳 Arijit Singh (playback singer). Genre: film score
 - 🇮🇳 Mithoon (composer). Genre: film score
 - 🇮🇳 Panjabi MC (DJ). Genre: bhangra 
-- 🇺🇳 KSHMR (DJ). Genre: electro house
-- 🇺🇳 Kerosene Club (DJ). Genre: goa trance
-- 🇺🇳 Tarun Shahani (DJ). Genre: psy trance
+- 🌐 KSHMR (DJ). Genre: electro house
+- 🌐 Kerosene Club (DJ). Genre: goa trance
+- 🌐 Tarun Shahani (DJ). Genre: psy trance
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Bhangra. Originated: mid-1960s

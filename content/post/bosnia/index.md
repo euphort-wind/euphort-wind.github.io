@@ -98,9 +98,9 @@ Hej! Here's a glimpse into my experiences in resilient Bosnia and vibrant Herzeg
 - 🇧🇦 Džejla Ramović (singer). Genre: pop
 - 🇧🇦 Dino Merlin (singer). Genre: rock
 - 🇧🇦 DJ Krmak (DJ). Genre: turbo folk
-- 🇺🇳 Robert Soko (DJ). Genre: balkan beats
-- 🇺🇳 Salvatore Ganacci (DJ). Genre: moombahton
-- 🇺🇳 Solomun (DJ). Genre: melodic house
+- 🌐 Robert Soko (DJ). Genre: balkan beats
+- 🌐 Salvatore Ganacci (DJ). Genre: moombahton
+- 🌐 Solomun (DJ). Genre: melodic house
 
 
 <b>🎚️ Contribution to Electronic Music: </b>

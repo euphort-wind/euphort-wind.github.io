@@ -126,13 +126,13 @@ Hej! Here's a glimpse into my experiences in resplendent Spain, which I visited 
 - 🇪🇸 India Martínez (singer). Genre: flamenco pop
 - 🇪🇸 Nebulossa (duo). Genre: synth-pop 
 - 🇪🇸 César de Melero (DJ). Genre: balearic house
-- 🇺🇳 David Tavaré (DJ). Genre: house
-- 🇺🇳 Dr. Kucho! (DJ). Genre: house
-- 🇺🇳 Pastis & Buenri (DJ duo). Genre: mákina
-- 🇺🇳 José Padilla (DJ). Genre: balearic house
-- 🇺🇳 Sak Noel (DJ). Genre: electro house
-- 🇺🇳 DJ Sammy (DJ). Genre: eurotrance
-- 🇺🇳 Danny Avila (DJ). Genre: techno
+- 🌐 David Tavaré (DJ). Genre: house
+- 🌐 Dr. Kucho! (DJ). Genre: house
+- 🌐 Pastis & Buenri (DJ duo). Genre: mákina
+- 🌐 José Padilla (DJ). Genre: balearic house
+- 🌐 Sak Noel (DJ). Genre: electro house
+- 🌐 DJ Sammy (DJ). Genre: eurotrance
+- 🌐 Danny Avila (DJ). Genre: techno
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Balearic House. Originated: late 1980s

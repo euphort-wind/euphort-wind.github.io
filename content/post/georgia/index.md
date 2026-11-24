@@ -126,11 +126,11 @@ Hej! Here's a glimpse into my experiences in resplendent Georgia, which I visite
 - 🇬🇪 Lela Tataraidze (singer). Genre: folk
 - 🇬🇪 Nikos Band (cover band). Genre: disco
 - 🇬🇪 Mariam Shengelia (singer). Genre: pop
-- 🇺🇳 Bedford Falls (band). Genre: indie rock
-- 🇺🇳 Giga Papaskiri (DJ). Genre: house
-- 🇺🇳 Vaxo Melkadze (DJ). Genre: house
-- 🇺🇳 Bzikebi (band). Genre: pop
-- 🇺🇳 Generali Minerali (DJ). Genre: house
+- 🌐 Bedford Falls (band). Genre: indie rock
+- 🌐 Giga Papaskiri (DJ). Genre: house
+- 🌐 Vaxo Melkadze (DJ). Genre: house
+- 🌐 Bzikebi (band). Genre: pop
+- 🌐 Generali Minerali (DJ). Genre: house
 
 
 <b>🍽️ Local food & drinks: </b>

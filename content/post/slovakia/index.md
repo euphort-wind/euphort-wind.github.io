@@ -111,8 +111,8 @@ Hej! Here's a glimpse into my experiences in enchanting Slovakia, which I visite
 - 🇸🇰 Katarína Máliková (singer). Genre: pop
 - 🇸🇰 Separ (singer). Genre: hip-hop
 - 🇸🇰 Sima (singer). Genre: pop
-- 🇺🇳 Nifra (DJ). Genre: progressive trance
-- 🇺🇳 Adéla (singer). Genre: pop
+- 🌐 Nifra (DJ). Genre: progressive trance
+- 🌐 Adéla (singer). Genre: pop
 
 <b>🍽️ Local food & drinks: </b>
 - 🥗 Liptauer <i>(Liptauer)</i> 

@@ -102,8 +102,8 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 - 🇱🇻 Tumsa (band). Genre: rock
 - 🇱🇻 Atvara (singer). Genre: pop
 - 🇱🇻 Tautumeitas (band). Genre: folk pop
-- 🇺🇳 Brainstorm (band). Genre: pop 
-- 🇺🇳 Laima Vaikule (singer). Genre: pop 
+- 🌐 Brainstorm (band). Genre: pop 
+- 🌐 Laima Vaikule (singer). Genre: pop 
 
 
 <b>🍽️ Local food & drinks: </b>

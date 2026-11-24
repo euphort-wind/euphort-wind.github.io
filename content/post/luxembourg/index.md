@@ -88,11 +88,11 @@ Hej! Here's a glimpse into my experiences in elegant Luxembourg, which I visited
 - 🇱🇺 Kinima Asbl (project). Genre: pop
 - 🇱🇺 Serge Tonnar (singer). Genre: pop rock
 - 🇱🇺 Sleepwalk (band). Genre: pop rock
-- 🇺🇳 Laura Thorn (singer). Genre: pop 
-- 🇺🇳 Monophona (band). Genre: indie pop
-- 🇺🇳 Claudine Muno (singer). Genre: pop
-- 🇺🇳 Francis of Delirium (singer). Genre: indie rock
-- 🇺🇳 Eva Marija (singer). Genre: pop
+- 🌐 Laura Thorn (singer). Genre: pop 
+- 🌐 Monophona (band). Genre: indie pop
+- 🌐 Claudine Muno (singer). Genre: pop
+- 🌐 Francis of Delirium (singer). Genre: indie rock
+- 🌐 Eva Marija (singer). Genre: pop
 
 
 <b>🍽️ Local food & drinks: </b>

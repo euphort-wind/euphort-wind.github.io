@@ -92,9 +92,9 @@ Hej! Here's a glimpse into my experiences in charming Andorra, which I visited i
 - 🇦🇩 Marta Roure (singer). Genre: pop
 - 🇦🇩 Anonymous (band). Genre: pop punk
 - 🇦🇩 Nina Rossell (singer). Genre: R&B
-- 🇺🇳 Kurt Heisz (DJ). Genre: melodic techno
-- 🇺🇳 Seba Diaz (DJ). Genre: deep house
-- 🇺🇳 Persefone (band). Genre: death metal
+- 🌐 Kurt Heisz (DJ). Genre: melodic techno
+- 🌐 Seba Diaz (DJ). Genre: deep house
+- 🌐 Persefone (band). Genre: death metal
 
 
 <b>🍽️ Local food & drinks: </b>

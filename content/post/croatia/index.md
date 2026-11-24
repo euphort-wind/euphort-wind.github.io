@@ -106,9 +106,9 @@ Hej! Here's a glimpse into my experiences in enchanting Croatia, which I visited
 - 🇭🇷 Jelena Rozga (singer). Genre: pop
 - 🇭🇷 Nika Turković (singer). Genre: pop
 - 🇭🇷 LELEK (band). Genre: folk pop
-- 🇺🇳 Baby Lasagna (singer). Genre: pop punk
-- 🇺🇳 Matroda (DJ). Genre: bass house
-- 🇺🇳 Lost Sky (singer). Genre: future bass
+- 🌐 Baby Lasagna (singer). Genre: pop punk
+- 🌐 Matroda (DJ). Genre: bass house
+- 🌐 Lost Sky (singer). Genre: future bass
 
 <b>🍽️ Local food & drinks: </b>
 - 🥓 Češnjovka Sausage <i>(Češnjovka)</i>

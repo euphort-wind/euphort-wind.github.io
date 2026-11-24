@@ -100,10 +100,10 @@ Hej! Here's a glimpse into my experiences in hospitable Malta, which I visited i
 - 🇲🇹 Mike Spiteri (singer). Genre: pop
 - 🇲🇹 Fabrizio Faniello (singer). Genre: pop
 - 🇲🇹 Ira Losco (singer). Genre: pop
-- 🇺🇳 Gianluca Bezzina (singer). Genre: pop
-- 🇺🇳 Chiara Siracusa (singer). Genre: pop
-- 🇺🇳 Emma Muscat (singer). Genre: pop
-- 🇺🇳 Olivia Lewis (singer). Genre: pop
+- 🌐 Gianluca Bezzina (singer). Genre: pop
+- 🌐 Chiara Siracusa (singer). Genre: pop
+- 🌐 Emma Muscat (singer). Genre: pop
+- 🌐 Olivia Lewis (singer). Genre: pop
 
 
 <b>🍽️ Local food & drinks: </b>

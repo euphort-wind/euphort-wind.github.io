@@ -1,5 +1,5 @@
 ---
-title: 🇷🇺 Russia
+title: 🇺🇳 Russia
 date: '2021-01-31'
 summary: Stay in Russia
 
@@ -302,20 +302,20 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 {{< /spoiler >}}
 
   
-<b>🎧 Local musicians: </b>
-- 🇷🇺 Valery Meladze (singer). Genre: pop
-- 🇷🇺 Zemfira (singer). Genre: indie rock
-- 🇷🇺 Viktor Tsoi (singer). Genre: post punk
-- 🇷🇺 Pavel Smeyan (singer). Genre: rock opera
-- 🇷🇺 Alla Pugacheva (singer). Genre: pop
-- 🇷🇺 Жин-Жин (singer). Genre: house
-- 🇷🇺 Kris Kelmi (singer). Genre: rock
-- 🇺🇳 Dvrst (DJ). Genre: drift phonk
-- 🇺🇳 Øneheart (DJ). Genre: ambient
-- 🇺🇳 Arty (DJ). Genre: progressive house
-- 🇺🇳 Serge Devant (DJ). Genre: melodic house
-- 🇺🇳 Natalie Gioia (singer). Genre: trance
-- 🇺🇳 Russian Village Boys (band). Genre: hardbass
+<b>🎧 Local musicians:</b>
+- 🇺🇳 Valery Meladze (singer). Genre: pop
+- 🇺🇳 Zemfira (singer). Genre: indie rock
+- 🇺🇳 Viktor Tsoi (singer). Genre: post punk
+- 🇺🇳 Pavel Smeyan (singer). Genre: rock opera
+- 🇺🇳 Alla Pugacheva (singer). Genre: pop
+- 🇺🇳 Жин-Жин (singer). Genre: house
+- 🇺🇳 Kris Kelmi (singer). Genre: rock
+- 🌐 Dvrst (DJ). Genre: drift phonk
+- 🌐 Øneheart (DJ). Genre: ambient
+- 🌐 Arty (DJ). Genre: progressive house
+- 🌐 Serge Devant (DJ). Genre: melodic house
+- 🌐 Natalie Gioia (singer). Genre: trance
+- 🌐 Russian Village Boys (band). Genre: hardbass
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Hardbass. Originated: late 1990s

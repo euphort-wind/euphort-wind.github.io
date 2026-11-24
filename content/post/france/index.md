@@ -158,23 +158,23 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🇫🇷 Nâdiya (singer). Genre: R&B
 - 🇫🇷 Disiz (rapper). Genre: hip-hop
 - 🇫🇷 Ysa Ferrer (singer). Genre: pop rock
-- 🇺🇳 David Guetta (DJ). Genre: house
-- 🇺🇳 Daft Punk (DJ). Genre: french house
-- 🇺🇳 Bob Sinclar (DJ). Genre: house
-- 🇺🇳 DJ Snake (DJ). Genre: trap
-- 🇺🇳 Remzcore (DJ). Genre: frenchcore
-- 🇺🇳 Martin Solveig (DJ). Genre: future house
-- 🇺🇳 Tchami (DJ). Genre: future house
-- 🇺🇳 Space Cowboy (DJ). Genre: big beat
-- 🇺🇳 Laurent Wolf (DJ). Genre: electro house
-- 🇺🇳 Feder (DJ). Genre: house
-- 🇺🇳 Kavinsky (DJ). Genre: synthwave
-- 🇺🇳 Kungs (DJ). Genre: house
-- 🇺🇳 Étienne de Crécy (DJ). Genre: french house
-- 🇺🇳 Gesaffelstein (DJ). Genre: dark techno
-- 🇺🇳 F.R. David (singer). Genre: europop
-- 🇺🇳 Imany (singer). Genre: soul
-- 🇺🇳 Jain (singer). Genre: art pop
+- 🌐 David Guetta (DJ). Genre: house
+- 🌐 Daft Punk (DJ). Genre: french house
+- 🌐 Bob Sinclar (DJ). Genre: house
+- 🌐 DJ Snake (DJ). Genre: trap
+- 🌐 Remzcore (DJ). Genre: frenchcore
+- 🌐 Martin Solveig (DJ). Genre: future house
+- 🌐 Tchami (DJ). Genre: future house
+- 🌐 Space Cowboy (DJ). Genre: big beat
+- 🌐 Laurent Wolf (DJ). Genre: electro house
+- 🌐 Feder (DJ). Genre: house
+- 🌐 Kavinsky (DJ). Genre: synthwave
+- 🌐 Kungs (DJ). Genre: house
+- 🌐 Étienne de Crécy (DJ). Genre: french house
+- 🌐 Gesaffelstein (DJ). Genre: dark techno
+- 🌐 F.R. David (singer). Genre: europop
+- 🌐 Imany (singer). Genre: soul
+- 🌐 Jain (singer). Genre: art pop
 
 
 <b>🎚️ Contribution to Electronic Music: </b>

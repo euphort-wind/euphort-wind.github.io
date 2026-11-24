@@ -152,8 +152,8 @@ Hej! Here's a glimpse into my experiences in welcoming Armenia, which I visited 
 - 🇦🇲 Sirusho (singer). Genre: pop
 - 🇦🇲 Hraach (DJ). Genre: ethnic house
 - 🇦🇲 Armen Miran (DJ). Genre: ethnic house
-- 🇺🇳 Rosa Linn (singer). Genre: indie pop
-- 🇺🇳 Serj Tankian (singer). Genre: nu metal
+- 🌐 Rosa Linn (singer). Genre: indie pop
+- 🌐 Serj Tankian (singer). Genre: nu metal
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Modern Rabiz (Ethnotronica). Originated: early 1990s

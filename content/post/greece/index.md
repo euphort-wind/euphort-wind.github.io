@@ -127,10 +127,10 @@ Hej! Here's a glimpse into my experiences in graceful Greece, which I visited in
 - 🇬🇷 Klavdia (singer). Genre: indie pop
 - 🇬🇷 Lefteris Pantazis (singer). Genre: skiladiko
 - 🇬🇷 Giorgos Kakosaios (singer). Genre: laïko-pop
-- 🇺🇳 Antique (band). Genre: pop
-- 🇺🇳 Playmen (DJ duo). Genre: house
-- 🇺🇳 Aero Chord (DJ). Genre: trap
-- 🇺🇳 Steve Angello (DJ). Genre: progressive house
+- 🌐 Antique (band). Genre: pop
+- 🌐 Playmen (DJ duo). Genre: house
+- 🌐 Aero Chord (DJ). Genre: trap
+- 🌐 Steve Angello (DJ). Genre: progressive house
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Skiladiko (Ethnotronica). Originated: mid-1980s

@@ -82,8 +82,8 @@ Hej! Here's a glimpse into my experiences in luxurious Monaco, which I visited i
 - 🇲🇨 Stephanie de Monaco (singer). Genre: pop
 - 🇲🇨 Olivia Dorato (singer). Genre: pop
 - 🇲🇨 U Cantin d'a Roca (choir). Genre: religious
-- 🇺🇳 Mona Lou (singer). Genre: indie pop
-- 🇺🇳 Olla (singer). Genre: pop
+- 🌐 Mona Lou (singer). Genre: indie pop
+- 🌐 Olla (singer). Genre: pop
 
 
 <b>🍽️ Local food & drinks: </b>

@@ -470,27 +470,27 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🇸🇪 Darin (singer). Genre: pop
 - 🇸🇪 Albin Lee Meldau (singer). Genre: pop
 - 🇸🇪 Basshunter (DJ). Genre: eurodance
-- 🇺🇳 Da Buzz (band). Genre: eurodance
-- 🇺🇳 ABBA (band). Genre: europop
-- 🇺🇳 Roxette (band). Genre: europop
-- 🇺🇳 Ace of Base (band). Genre: europop
-- 🇺🇳 Army of Lovers (band). Genre: europop
-- 🇺🇳 Avicii (DJ). Genre: house
-- 🇺🇳 Eric Prydz (DJ). Genre: progressive house
-- 🇺🇳 Otto Knows (DJ). Genre: house
-- 🇺🇳 Europe (band). Genre: hard rock
-- 🇺🇳 The Cardigans (band). Genre: pop rock
-- 🇺🇳 Swedish House Mafia (DJ band). Genre: house
-- 🇺🇳 Dead by April (band). Genre: metal
-- 🇺🇳 Loreen (singer). Genre: pop
-- 🇺🇳 Tove Lo (singer). Genre: pop
-- 🇺🇳 Dr. Alban (singer). Genre: europop
-- 🇺🇳 E-type (singer). Genre: eurodance
-- 🇺🇳 Alesso (DJ). Genre: house
-- 🇺🇳 Crazy Frog (project). Genre: eurodance
-- 🇺🇳 Smash into Pieces (band). Genre: alt-rock
-- 🇺🇳 Daniel Savio (DJ). Genre: skweee
-- 🇺🇳 Fröken Snusk (project). Genre: epadunk
+- 🌐 Da Buzz (band). Genre: eurodance
+- 🌐 ABBA (band). Genre: europop
+- 🌐 Roxette (band). Genre: europop
+- 🌐 Ace of Base (band). Genre: europop
+- 🌐 Army of Lovers (band). Genre: europop
+- 🌐 Avicii (DJ). Genre: house
+- 🌐 Eric Prydz (DJ). Genre: progressive house
+- 🌐 Otto Knows (DJ). Genre: house
+- 🌐 Europe (band). Genre: hard rock
+- 🌐 The Cardigans (band). Genre: pop rock
+- 🌐 Swedish House Mafia (DJ band). Genre: house
+- 🌐 Dead by April (band). Genre: metal
+- 🌐 Loreen (singer). Genre: pop
+- 🌐 Tove Lo (singer). Genre: pop
+- 🌐 Dr. Alban (singer). Genre: europop
+- 🌐 E-type (singer). Genre: eurodance
+- 🌐 Alesso (DJ). Genre: house
+- 🌐 Crazy Frog (project). Genre: eurodance
+- 🌐 Smash into Pieces (band). Genre: alt-rock
+- 🌐 Daniel Savio (DJ). Genre: skweee
+- 🌐 Fröken Snusk (project). Genre: epadunk
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Skweee. Originated: late 2000s

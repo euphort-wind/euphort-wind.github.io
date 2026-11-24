@@ -94,14 +94,14 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
 - 🇫🇮 Eppu Normaali (band). Genre: rock
 - 🇫🇮 Neljä Ruusua (band). Genre: rock
 - 🇫🇮 Pete Parkkonen (singer). Genre: pop
-- 🇺🇳 HIM (band). Genre: gothic metal
-- 🇺🇳 The Rasmus (band). Genre: alt-rock
-- 🇺🇳 Sunrise Avenue (band). Genre: rock
-- 🇺🇳 Darude (DJ). Genre: progressive trance
-- 🇺🇳 Alma (singer). Genre: pop
-- 🇺🇳 Bomfunk MC's (band). Genre: hip-hop
-- 🇺🇳 Aavepyörä (DJ). Genre: suomisaundi
-- 🇺🇳 Mesak (DJ). Genre: skweee
+- 🌐 HIM (band). Genre: gothic metal
+- 🌐 The Rasmus (band). Genre: alt-rock
+- 🌐 Sunrise Avenue (band). Genre: rock
+- 🌐 Darude (DJ). Genre: progressive trance
+- 🌐 Alma (singer). Genre: pop
+- 🌐 Bomfunk MC's (band). Genre: hip-hop
+- 🌐 Aavepyörä (DJ). Genre: suomisaundi
+- 🌐 Mesak (DJ). Genre: skweee
 
 
 <b>🎚️ Contribution to Electronic Music: </b>

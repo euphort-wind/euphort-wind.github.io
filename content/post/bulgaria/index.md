@@ -150,7 +150,7 @@ Hej! Here's a glimpse into my experiences in spectacular Bulgaria, which I visit
 - 🇧🇬 Avenue (duo). Genre: pop
 - 🇧🇬 Orlin Goranov (singer). Genre: pop
 - 🇧🇬 Молец (duo). Genre: pop
-- 🇺🇳 Dara (singer). Genre: pop
+- 🌐 Dara (singer). Genre: pop
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Chalga (Ethnotronica). Originated: early 1990s

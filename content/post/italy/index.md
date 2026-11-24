@@ -202,17 +202,17 @@ Hej! Here's a glimpse into my experiences in magical Italy, which I visited in 2
 - 🇮🇹 Paola & Chiara (duo). Genre: dance pop
 - 🇮🇹 Claudio Coccoluto (DJ). Genre: italo house
 - 🇮🇹 Sal da Vinci (singer). Genre: pop
-- 🇺🇳 Eiffel 65 (band). Genre: eurodance
-- 🇺🇳 Giuseppe Ottaviani (DJ). Genre: trance
-- 🇺🇳 Benny Benassi (DJ). Genre: electro house
-- 🇺🇳 Robert Miles (DJ). Genre: dream house
-- 🇺🇳 Meduza (DJ band). Genre: house
-- 🇺🇳 Anyma (DJ). Genre: progressive house
-- 🇺🇳 Merk & Kremont (DJ duo). Genre: house
-- 🇺🇳 Daddy's Groove (DJ band). Genre: house
-- 🇺🇳 Ludovico Einaudi (composer). Genre: neoclassic
-- 🇺🇳 Gigi D'Agostino (DJ). Genre: lento violento
-- 🇺🇳 Savage (singer). Genre: italo disco
+- 🌐 Eiffel 65 (band). Genre: eurodance
+- 🌐 Giuseppe Ottaviani (DJ). Genre: trance
+- 🌐 Benny Benassi (DJ). Genre: electro house
+- 🌐 Robert Miles (DJ). Genre: dream house
+- 🌐 Meduza (DJ band). Genre: house
+- 🌐 Anyma (DJ). Genre: progressive house
+- 🌐 Merk & Kremont (DJ duo). Genre: house
+- 🌐 Daddy's Groove (DJ band). Genre: house
+- 🌐 Ludovico Einaudi (composer). Genre: neoclassic
+- 🌐 Gigi D'Agostino (DJ). Genre: lento violento
+- 🌐 Savage (singer). Genre: italo disco
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Italo Disco. Originated: late 1970s

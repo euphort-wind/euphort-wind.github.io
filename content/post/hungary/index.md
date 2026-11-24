@@ -111,8 +111,8 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
 - 🇭🇺 Tamás Mester (singer). Genre: pop rock
 - 🇭🇺 Krúbi (rapper). Genre: hip-hop
 - 🇭🇺 Azahriah (singer). Genre: pop
-- 🇺🇳 Stadiumx (DJ duo). Genre: progressive house
-- 🇺🇳 Shane 54 (DJ). Genre: progressive trance
+- 🌐 Stadiumx (DJ duo). Genre: progressive house
+- 🌐 Shane 54 (DJ). Genre: progressive trance
 
 
 

@@ -108,10 +108,10 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - 🇱🇹 Marijonas Mikutavičius (singer). Genre: pop
 - 🇱🇹 Alina Orlova (singer). Genre: pop
 - 🇱🇹 Katarsis (band). Genre: alt-rock
-- 🇺🇳 The Roop (band). Genre: pop
-- 🇺🇳 Dynoro (DJ). Genre: slap house
-- 🇺🇳 Gaullin (DJ). Genre: slap house
-- 🇺🇳 Lion Ceccah (singer). Genre: art pop
+- 🌐 The Roop (band). Genre: pop
+- 🌐 Dynoro (DJ). Genre: slap house
+- 🌐 Gaullin (DJ). Genre: slap house
+- 🌐 Lion Ceccah (singer). Genre: art pop
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Slap House. Originated: late 2010s

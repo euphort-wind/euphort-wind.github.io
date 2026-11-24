@@ -117,21 +117,21 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🇧🇪 Will Tura (singer). Genre: pop
 - 🇧🇪 Het Zesde Metaal (band). Genre: indie rock
 - 🇧🇪 Amaryllis Temmerman (singer). Genre: pop
-- 🇺🇳 Dimitri Vegas (DJ). Genre: big room
-- 🇺🇳 Like Mike (DJ). Genre: big room
-- 🇺🇳 XiJaro & Pitch (DJ duo). Genre: uplifting trance
-- 🇺🇳 Sylver (band). Genre: eurodance
-- 🇺🇳 Netsky (DJ). Genre: drum'n'bass
-- 🇺🇳 Eptic (DJ). Genre: bass house
-- 🇺🇳 Danzel (DJ). Genre: electro house
-- 🇺🇳 Basto (DJ). Genre: progressive house
-- 🇺🇳 Lost Frequencies (DJ). Genre: pop
-- 🇺🇳 Charlotte de Witte (DJ). Genre: dark techno
-- 🇺🇳 Essyla (singer). Genre: dance pop
-- 🇺🇳 Technotronic (DJ project). Genre: new beat
-- 🇺🇳 Frank de Wulf (DJ). Genre: belgian techno
-- 🇺🇳 Da Rick (DJ). Genre: jumpstyle
-- 🇺🇳 Lethal MG (DJ). Genre: tekstyle
+- 🌐 Dimitri Vegas (DJ). Genre: big room
+- 🌐 Like Mike (DJ). Genre: big room
+- 🌐 XiJaro & Pitch (DJ duo). Genre: uplifting trance
+- 🌐 Sylver (band). Genre: eurodance
+- 🌐 Netsky (DJ). Genre: drum'n'bass
+- 🌐 Eptic (DJ). Genre: bass house
+- 🌐 Danzel (DJ). Genre: electro house
+- 🌐 Basto (DJ). Genre: progressive house
+- 🌐 Lost Frequencies (DJ). Genre: pop
+- 🌐 Charlotte de Witte (DJ). Genre: dark techno
+- 🌐 Essyla (singer). Genre: dance pop
+- 🌐 Technotronic (DJ project). Genre: new beat
+- 🌐 Frank de Wulf (DJ). Genre: belgian techno
+- 🌐 Da Rick (DJ). Genre: jumpstyle
+- 🌐 Lethal MG (DJ). Genre: tekstyle
 
 
 <b>🎚️ Contribution to Electronic Music: </b>

@@ -115,9 +115,9 @@ Hej! Here's a glimpse into my experiences in vibrant Cyprus, which I visited in 
 - 🇨🇾 Anna Vissi (singer). Genre: laïko 
 - 🇨🇾 Michalis Hatzigiannis (singer). Genre: pop
 - 🇨🇾 Constantinos Christoforou (singer). Genre: pop
-- 🇺🇳 Theo Evan (singer). Genre: electro industrial
-- 🇺🇳 Artemas (singer). Genre: pop
-- 🇺🇳 Eric Alamango (DJ). Genre: pop
+- 🌐 Theo Evan (singer). Genre: electro industrial
+- 🌐 Artemas (singer). Genre: pop
+- 🌐 Eric Alamango (DJ). Genre: pop
 
 
 <b>🍽️ Local food & drinks: </b>

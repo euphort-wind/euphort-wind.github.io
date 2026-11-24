@@ -78,8 +78,8 @@ Hej! Here's a glimpse into my experiences in timeless Egypt, which I visited in 
 - 🇪🇬 Mohamed Hamaki (singer). Genre: pop
 - 🇪🇬 Halim El-Dabh (composer). Genre: tape music
 - 🇪🇬 Hassan Shakosh (singer). Genre: mahraganat
-- 🇺🇳 Aly & Fila (DJ duo). Genre: trance
-- 🇺🇳 Ahmed Helmy (DJ). Genre: trance
+- 🌐 Aly & Fila (DJ duo). Genre: trance
+- 🌐 Ahmed Helmy (DJ). Genre: trance
 
 
 <b>🎚️ Contribution to Electronic Music: </b>

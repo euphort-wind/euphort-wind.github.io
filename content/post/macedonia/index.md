@@ -100,7 +100,7 @@ Hej! Here's a glimpse into my experiences in lush North Macedonia, which I visit
 - 🇲🇰 Karolina Gočeva (singer). Genre: pop
 - 🇲🇰 Tamara Todevska (singer). Genre: R&B
 - 🇲🇰 Kaliopi (singer). Genre: pop rock
-- 🇺🇳 Galoski (DJ). Genre: bass house
+- 🌐 Galoski (DJ). Genre: bass house
 
 
 <b>🍽️ Local food & drinks: </b>

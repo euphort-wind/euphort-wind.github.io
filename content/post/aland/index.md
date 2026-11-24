@@ -83,9 +83,9 @@ Hej! Here's a glimpse into my experiences in the beautiful Åland Islands, which
 <b>🎧 Local musicians: </b>
 - 🇦🇽 Havsmörker (DJ duo). Genre: dub techno
 - 🇦🇽 Johanna Grüssner (singer). Genre: folk
-- 🇺🇳 Julia Clara (singer). Genre: pop
-- 🇺🇳 Henrik Klingenberg (keytarist). Genre: metal
-- 🇺🇳 Cim Dahlle (singer). Genre: rock
+- 🌐 Julia Clara (singer). Genre: pop
+- 🌐 Henrik Klingenberg (keytarist). Genre: metal
+- 🌐 Cim Dahlle (singer). Genre: rock
 
 <b>🍽️ Local food & drinks: </b>
 - 🥓 Åland Gravad Sik <i>(Gravad Sik)</i>

@@ -153,10 +153,10 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 🇵🇱 Patrick the Pan (singer). Genre: indie pop
 - 🇵🇱 Zenek Martyniuk (singer). Genre: disco polo
 - 🇵🇱 SKOLIM (singer). Genre: disco polo
-- 🇺🇳 C-Bool (DJ). Genre: house
-- 🇺🇳 Tom Swoon (DJ). Genre: progressive house
-- 🇺🇳 Alicja (singer). Genre: pop
-- 🇺🇳 WIXAPOL S.A. (DJ band). Genre: wixa
+- 🌐 C-Bool (DJ). Genre: house
+- 🌐 Tom Swoon (DJ). Genre: progressive house
+- 🌐 Alicja (singer). Genre: pop
+- 🌐 WIXAPOL S.A. (DJ band). Genre: wixa
 
 <b>🎚️ Contribution to Electronic Music:</b>
 - Disco Polo. Originated: late 1980s

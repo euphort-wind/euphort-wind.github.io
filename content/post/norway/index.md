@@ -122,14 +122,14 @@ Hej! Here's a glimpse into my experiences in magical Norway, which I visited in 
 - 🇳🇴 Marcus & Martinus (duo). Genre: pop
 - 🇳🇴 Soppgirobygget (DJ duo). Genre: russ music
 - 🇳🇴 Cezinando (singer). Genre: pop
-- 🇺🇳 Secret Garden (duo). Genre: new-age
-- 🇺🇳 A-ha (band). Genre: pop
-- 🇺🇳 Ørjan Nilsen (DJ). Genre: trance
-- 🇺🇳 Kygo (DJ). Genre: tropical house
-- 🇺🇳 Røyksopp (duo). Genre: electronic
-- 🇺🇳 Alan Walker (DJ). Genre: pop
-- 🇺🇳 Nico & Vinz (duo). Genre: pop
-- 🇺🇳 Aurora (singer). Genre: indie pop
+- 🌐 Secret Garden (duo). Genre: new-age
+- 🌐 A-ha (band). Genre: pop
+- 🌐 Ørjan Nilsen (DJ). Genre: trance
+- 🌐 Kygo (DJ). Genre: tropical house
+- 🌐 Røyksopp (duo). Genre: electronic
+- 🌐 Alan Walker (DJ). Genre: pop
+- 🌐 Nico & Vinz (duo). Genre: pop
+- 🌐 Aurora (singer). Genre: indie pop
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Russ Music. Originated: mid-2000s

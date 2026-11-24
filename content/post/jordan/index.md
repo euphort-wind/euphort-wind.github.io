@@ -84,7 +84,7 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 - 🇯🇴 47Soul (band). Genre: shamstep
 - 🇯🇴 Aziz Maraka (singer). Genre: pop
 - 🇯🇴 Diana Karazon (singer). Genre: pop
-- 🇺🇳 Ayah Marar (singer). Genre: drum'n'bass
+- 🌐 Ayah Marar (singer). Genre: drum'n'bass
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Shamstep. Originated: mid-2010s

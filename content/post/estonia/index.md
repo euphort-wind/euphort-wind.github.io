@@ -98,8 +98,8 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 - 🇪🇪 Merlyn Uusküla (singer). Genre: pop
 - 🇪🇪 Getter Jaani (singer). Genre: pop
 - 🇪🇪 Puuluup (duo). Genre: folk
-- 🇺🇳 Luvwn (DJ). Genre: chillhop
-- 🇺🇳 Vanilla Ninja (band). Genre: pop rock
+- 🌐 Luvwn (DJ). Genre: chillhop
+- 🌐 Vanilla Ninja (band). Genre: pop rock
 
 
 <b>🍽️ Local food & drinks: </b>

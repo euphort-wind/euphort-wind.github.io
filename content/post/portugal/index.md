@@ -98,7 +98,7 @@ Hej! Here's a glimpse into my experiences in colorful Portugal, which I visited 
 - 🇵🇹 Ivandro (singer). Genre: pop
 - 🇵🇹 Napa (band). Genre: indie pop
 - 🇵🇹 Bandidos do Cante (band). Genre: cante alentejano
-- 🇺🇳 DJ Marfox (DJ). Genre: batida
+- 🌐 DJ Marfox (DJ). Genre: batida
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Batida. Originated: early 2000s

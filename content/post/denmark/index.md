@@ -106,12 +106,12 @@ Hej! Here's a glimpse into my experiences in marvelous Denmark, which I visited 
 - 🇩🇰 Nephew (band). Genre: rock
 - 🇩🇰 Hanne Boel (singer). Genre: pop
 - 🇩🇰 Rasmus Seebach (singer). Genre: pop
-- 🇺🇳 Kato (DJ). Genre: house
-- 🇺🇳 Aura Dione (singer). Genre: pop
-- 🇺🇳 Kölsch (DJ). Genre: techno
-- 🇺🇳 Morten (DJ). Genre: future rave
-- 🇺🇳 Aqua (band). Genre: pop
-- 🇺🇳 MØ (singer). Genre: pop
+- 🌐 Kato (DJ). Genre: house
+- 🌐 Aura Dione (singer). Genre: pop
+- 🌐 Kölsch (DJ). Genre: techno
+- 🌐 Morten (DJ). Genre: future rave
+- 🌐 Aqua (band). Genre: pop
+- 🌐 MØ (singer). Genre: pop
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Future Rave. Originated: late 2010s

@@ -171,34 +171,34 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🇩🇪 Orange Sector (band). Genre: EBM
 - 🇩🇪 KlangKuenstler (DJ). Genre: schranz
 - 🇩🇪 MilleniumKid (DJ). Genre: synth-pop
-- 🇺🇳 Scorpions (band). Genre: hard rock
-- 🇺🇳 Modern Talking (duo). Genre: europop
-- 🇺🇳 Roger Shah (DJ). Genre: balearic trance
-- 🇺🇳 Scooter (band). Genre: happy hardcore
-- 🇺🇳 ATB (DJ). Genre: progressive house
-- 🇺🇳 Paul van Dyk (DJ). Genre: uplifting trance
-- 🇺🇳 Cosmic Gate (DJ duo). Genre: tech trance
-- 🇺🇳 Marlon Hoffstadt (DJ). Genre: house
-- 🇺🇳 La Bouche (duo). Genre: eurodance
-- 🇺🇳 Cascada (band). Genre: eurodance
-- 🇺🇳 Robin Schulz (DJ). Genre: house
-- 🇺🇳 Schiller (DJ band). Genre: ambient
-- 🇺🇳 Cinema Bizarre (band). Genre: glam rock
-- 🇺🇳 Hans Zimmer (composer). Genre: film score
-- 🇺🇳 Bad Boys Blue (band). Genre: europop
-- 🇺🇳 Timo Maas (DJ). Genre: progressive house
-- 🇺🇳 Boney M (band). Genre: disco
-- 🇺🇳 C. C. Catch (singer). Genre: europop
-- 🇺🇳 Enigma (band). Genre: new age
-- 🇺🇳 Tangerine Dream (band). Genre: kosmische
-- 🇺🇳 Jam & Spoon (DJ duo). Genre: classic trance
-- 🇺🇳 Kai Tracid (DJ). Genre: acid trance
-- 🇺🇳 DJ Dean (DJ). Genre: hard trance
-- 🇺🇳 Fischerspooner (DJ). Genre: electroclash
-- 🇺🇳 Wolfgang Voigt (DJ). Genre: minimal techno
-- 🇺🇳 Porter Ricks (DJ duo). Genre: dub techno
-- 🇺🇳 Jan Jelinek (DJ). Genre: glitch
-- 🇺🇳 Path of Samsara (band). Genre: stoner rock  
+- 🌐 Scorpions (band). Genre: hard rock
+- 🌐 Modern Talking (duo). Genre: europop
+- 🌐 Roger Shah (DJ). Genre: balearic trance
+- 🌐 Scooter (band). Genre: happy hardcore
+- 🌐 ATB (DJ). Genre: progressive house
+- 🌐 Paul van Dyk (DJ). Genre: uplifting trance
+- 🌐 Cosmic Gate (DJ duo). Genre: tech trance
+- 🌐 Marlon Hoffstadt (DJ). Genre: house
+- 🌐 La Bouche (duo). Genre: eurodance
+- 🌐 Cascada (band). Genre: eurodance
+- 🌐 Robin Schulz (DJ). Genre: house
+- 🌐 Schiller (DJ band). Genre: ambient
+- 🌐 Cinema Bizarre (band). Genre: glam rock
+- 🌐 Hans Zimmer (composer). Genre: film score
+- 🌐 Bad Boys Blue (band). Genre: europop
+- 🌐 Timo Maas (DJ). Genre: progressive house
+- 🌐 Boney M (band). Genre: disco
+- 🌐 C. C. Catch (singer). Genre: europop
+- 🌐 Enigma (band). Genre: new age
+- 🌐 Tangerine Dream (band). Genre: kosmische
+- 🌐 Jam & Spoon (DJ duo). Genre: classic trance
+- 🌐 Kai Tracid (DJ). Genre: acid trance
+- 🌐 DJ Dean (DJ). Genre: hard trance
+- 🌐 Fischerspooner (DJ). Genre: electroclash
+- 🌐 Wolfgang Voigt (DJ). Genre: minimal techno
+- 🌐 Porter Ricks (DJ duo). Genre: dub techno
+- 🌐 Jan Jelinek (DJ). Genre: glitch
+- 🌐 Path of Samsara (band). Genre: stoner rock  
 
 
 <b>🎚️ Contribution to Electronic Music: </b>

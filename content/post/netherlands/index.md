@@ -144,36 +144,36 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🇳🇱 Volumia! (band). Genre: pop
 - 🇳🇱 Suzan & Freek (duo). Genre: pop
 - 🇳🇱 Kris Kross Amsterdam (DJ band). Genre: house
-- 🇺🇳 Armin van Buuren (DJ). Genre: uplifting trance
-- 🇺🇳 Tiësto (DJ). Genre: house
-- 🇺🇳 Tony Junior (DJ). Genre: bass house
-- 🇺🇳 San Holo (DJ). Genre: future bass
-- 🇺🇳 Ferry Corsten (DJ). Genre: uplifting trance
-- 🇺🇳 Ruben de Ronde (DJ). Genre: trance
-- 🇺🇳 Martin Garrix (DJ). Genre: big room
-- 🇺🇳 Oliver Heldens (DJ). Genre: future house
-- 🇺🇳 HI-LO (DJ). Genre: bass house
-- 🇺🇳 Don Diablo (DJ). Genre: future house
-- 🇺🇳 Hardwell (DJ). Genre: dutch house
-- 🇺🇳 R3hab (DJ). Genre: dutch house
-- 🇺🇳 Fedde le Grand (DJ). Genre: dutch house
-- 🇺🇳 Nicky Romero (DJ). Genre: progressive house 
-- 🇺🇳 Sander van Doorn (DJ). Genre: electro house 
-- 🇺🇳 Eelke Kleijn (DJ). Genre: progressive house
-- 🇺🇳 W&W (DJ duo). Genre: big room
-- 🇺🇳 Vicetone (DJ duo). Genre: dutch house
-- 🇺🇳 Richard Durand (DJ). Genre: trance 
-- 🇺🇳 Dr. Peacock (DJ). Genre: gabber
-- 🇺🇳 Headhunterz (DJ). Genre: hardstyle
-- 🇺🇳 Justin Mylo (DJ). Genre: future bounce
-- 🇺🇳 Bakermat (DJ). Genre: funky house
-- 🇺🇳 Joe Stone (DJ). Genre: deep house 
-- 🇺🇳 Wiwek (DJ). Genre: jungle terror
-- 🇺🇳 Sam Feldt (DJ). Genre: tropical house 
-- 🇺🇳 Sharon den Adel (singer). Genre: trance 
-- 🇺🇳 Kensington (band). Genre: rock
-- 🇺🇳 Rondé (band). Genre: indie pop
-- 🇺🇳 Radical Redemption (DJ). Genre: rawstyle
+- 🌐 Armin van Buuren (DJ). Genre: uplifting trance
+- 🌐 Tiësto (DJ). Genre: house
+- 🌐 Tony Junior (DJ). Genre: bass house
+- 🌐 San Holo (DJ). Genre: future bass
+- 🌐 Ferry Corsten (DJ). Genre: uplifting trance
+- 🌐 Ruben de Ronde (DJ). Genre: trance
+- 🌐 Martin Garrix (DJ). Genre: big room
+- 🌐 Oliver Heldens (DJ). Genre: future house
+- 🌐 HI-LO (DJ). Genre: bass house
+- 🌐 Don Diablo (DJ). Genre: future house
+- 🌐 Hardwell (DJ). Genre: dutch house
+- 🌐 R3hab (DJ). Genre: dutch house
+- 🌐 Fedde le Grand (DJ). Genre: dutch house
+- 🌐 Nicky Romero (DJ). Genre: progressive house 
+- 🌐 Sander van Doorn (DJ). Genre: electro house 
+- 🌐 Eelke Kleijn (DJ). Genre: progressive house
+- 🌐 W&W (DJ duo). Genre: big room
+- 🌐 Vicetone (DJ duo). Genre: dutch house
+- 🌐 Richard Durand (DJ). Genre: trance 
+- 🌐 Dr. Peacock (DJ). Genre: gabber
+- 🌐 Headhunterz (DJ). Genre: hardstyle
+- 🌐 Justin Mylo (DJ). Genre: future bounce
+- 🌐 Bakermat (DJ). Genre: funky house
+- 🌐 Joe Stone (DJ). Genre: deep house 
+- 🌐 Wiwek (DJ). Genre: jungle terror
+- 🌐 Sam Feldt (DJ). Genre: tropical house 
+- 🌐 Sharon den Adel (singer). Genre: trance 
+- 🌐 Kensington (band). Genre: rock
+- 🌐 Rondé (band). Genre: indie pop
+- 🌐 Radical Redemption (DJ). Genre: rawstyle
 
 
 

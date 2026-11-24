@@ -271,7 +271,7 @@ sections:
               <li><a href="/post/hungary/">🇭🇺 Hungary</a></li>
               <li><a href="/post/poland/">🇵🇱 Poland</a></li>
               <li><a href="/post/romania/">🇷🇴 Romania</a></li>
-              <li><a href="/post/russia/">🇷🇺 Russia</a></li>
+              <li><a href="/post/russia/">🇺🇳 Russia</a></li>
               <li><a href="/post/slovakia/">🇸🇰 Slovakia</a></li>
             </ul>
             <h3>Western Asia</h3>

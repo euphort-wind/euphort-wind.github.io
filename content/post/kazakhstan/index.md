@@ -103,9 +103,9 @@ Hej! Here's a glimpse into my experiences in astonishing Kazakhstan, which I vis
 - 🇰🇿 Diana Ismail (singer). Genre: pop
 - 🇰🇿 Sadraddin (singer). Genre: pop
 - 🇰🇿 Ninety One (band). Genre: q-pop
-- 🇺🇳 Skryptonite (rapper). Genre: hip-hop
-- 🇺🇳 Imanbek (DJ). Genre: slap house
-- 🇺🇳 The Limba (singer). Genre: pop 
+- 🌐 Skryptonite (rapper). Genre: hip-hop
+- 🌐 Imanbek (DJ). Genre: slap house
+- 🌐 The Limba (singer). Genre: pop 
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Q-Pop. Originated: mid-2010s

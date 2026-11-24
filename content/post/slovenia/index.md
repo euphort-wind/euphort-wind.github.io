@@ -94,9 +94,9 @@ Hej! Here's a glimpse into my experiences in tranquil Slovenia, which I visited 
 - 🇸🇮 Nina Pušlar (singer). Genre: pop
 - 🇸🇮 Siddharta (band). Genre: alt-rock
 - 🇸🇮 Jan Plestenjak (singer). Genre: pop
-- 🇺🇳 Zalagasper (duo). Genre: indie pop
-- 🇺🇳 Samuel Blues (singer). Genre: indie pop
-- 🇺🇳 UMEK (DJ). Genre: techno 
+- 🌐 Zalagasper (duo). Genre: indie pop
+- 🌐 Samuel Blues (singer). Genre: indie pop
+- 🌐 UMEK (DJ). Genre: techno 
 
 
 <b>🍽️ Local food & drinks: </b>

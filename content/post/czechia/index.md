@@ -118,9 +118,9 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 - 🇨🇿 Marie Puttnerová (singer). Genre: folk pop
 - 🇨🇿 Blue Cimbal (band). Genre: pop rock
 - 🇨🇿 Aneta Langerová (singer). Genre: pop 
-- 🇺🇳 Driftmoon (DJ). Genre: uplifting trance
-- 🇺🇳 Daniel Žižka (singer). Genre: pop
-- 🇺🇳 Dan Bárta (singer). Genre: jazz pop
+- 🌐 Driftmoon (DJ). Genre: uplifting trance
+- 🌐 Daniel Žižka (singer). Genre: pop
+- 🌐 Dan Bárta (singer). Genre: jazz pop
 
 
 <b>🍽️ Local food & drinks: </b>

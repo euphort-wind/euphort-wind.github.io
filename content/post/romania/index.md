@@ -138,15 +138,15 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - 🇷🇴 Ionuț Cercel (singer). Genre: manele
 - 🇷🇴 Tzancă Uraganu (singer). Genre: manele
 - 🇷🇴 Nicolae Guță (singer). Genre: manele
-- 🇺🇳 Holy Molly (singer). Genre: pop
-- 🇺🇳 Morandi (duo). Genre: eurodance
-- 🇺🇳 INNA (singer). Genre: romanian popcorn
-- 🇺🇳 Edward Maya (DJ). Genre: eurodance
-- 🇺🇳 Minelli (singer). Genre: pop
-- 🇺🇳 Alexandra Stan (singer). Genre: popcorn
-- 🇺🇳 Alis Shuka (singer). Genre: pop
-- 🇺🇳 Petre Inspirescu (DJ). Genre: rominimal
-- 🇺🇳 Alexandra Căpitănescu (singer). Genre: alt-rock
+- 🌐 Holy Molly (singer). Genre: pop
+- 🌐 Morandi (duo). Genre: eurodance
+- 🌐 INNA (singer). Genre: romanian popcorn
+- 🌐 Edward Maya (DJ). Genre: eurodance
+- 🌐 Minelli (singer). Genre: pop
+- 🌐 Alexandra Stan (singer). Genre: popcorn
+- 🌐 Alis Shuka (singer). Genre: pop
+- 🌐 Petre Inspirescu (DJ). Genre: rominimal
+- 🌐 Alexandra Căpitănescu (singer). Genre: alt-rock
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Rominimal. Originated: early 2000s

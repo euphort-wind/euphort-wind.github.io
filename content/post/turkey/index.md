@@ -162,9 +162,9 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🇹🇷 Serhat Durmuş (DJ). Genre: house
 - 🇹🇷 Zerrin Temiz (singer). Genre: pop
 - 🇹🇷 Tuana Tetik (singer). Genre: pop
-- 🇺🇳 Burak Yeter (DJ). Genre: house
-- 🇺🇳 Mahmut Orhan (DJ). Genre: house
-- 🇺🇳 Ummet Ozcan (DJ). Genre: progressive house
+- 🌐 Burak Yeter (DJ). Genre: house
+- 🌐 Mahmut Orhan (DJ). Genre: house
+- 🌐 Ummet Ozcan (DJ). Genre: progressive house
 
 
 <b>🍽️ Local food & drinks: </b>
