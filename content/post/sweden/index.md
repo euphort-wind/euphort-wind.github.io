@@ -595,6 +595,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🎨 Dala Painting <i>(Dalmålning)</i>
 - 🏓 Brännboll Game <i>(Brännboll)</i>
 - 🏓 Kubb Game <i>(Kubb)</i>
+- 🃏 Skitgubbe Card Game <i>(Skitgubbe)</i>
 - 🎑 Fika Ritual <i>(Fika)</i>
 - 💃 Hambo Dance <i>(Hambo)</i>
 - 🎙️ Kulning Singing <i>(Lockrop)</i>
@@ -604,7 +605,8 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 <br>
 <u>Gotland - Regional Special:</u> 
 - ⛵ Gotlandssnipa Boats <i>(Gotlandssnipor)</i>
-- 🛠️ Gotland Sheepskin Rug Production <i>(Gotländska Fårskinnsmattor)</i>
+- 🃏 Bräus Card Game <i>(Bräus)</i>
+- 🛠️ Gotland Sheepskin Rug Production <i>(Gotländska Fårskinnsmattor Tillverkning)</i>
 - 🧝 Legacy of Gutes <i>(Gutar / ᚷᚢᛏᛟᛉ)</i>
     - 🐦‍🔥 Guta Saga <i>(Gutasagan / ᚷᚢᛏᚨ ᛋᚨᚷᚨ)</i>
     - 🏺 Gotland Picture Stones <i>(Bildstenar / ᛒᛁᛚᛞᚨᛋᛏᚨᛁᚾᚨᛉ)</i>

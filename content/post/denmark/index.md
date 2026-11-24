@@ -166,6 +166,7 @@ Hej! Here's a glimpse into my experiences in marvelous Denmark, which I visited 
 - 🎑 Cinnamon Birthday Ritual <i>(Kanelsvend)</i>
 - 🏓 Daldøs Game <i>(Daldøs)</i>
 - 🏓 Danish Longball Game <i>(Langbold)</i>
+- 🃏 Call-Ace Whist Card Game <i>(Esmakker Whist)</i>
 - 💃 Sønderhoning Dance <i>(Sønderhoning)</i>
 - 🎙️ Danish Fiddle Music <i>(Spillemandsmusik)</i>
 - 🪕 Musical Instrument: Lur <i>(Lur)</i>

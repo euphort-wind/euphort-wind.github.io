@@ -120,7 +120,7 @@ Hej! Here's a glimpse into my experiences in prosperous Liechtenstein, which I v
 - ⛵ Weidling Boats <i>(Weidlinge)</i>
 - 🛠️ Postage Stamp Production <i>(Liechtensteiner Briefmarke Mache)</i>
 - 🏃🏻 Alpine Skiing Tradition <i>(Alpiner Skilauf)</i>
-- 🏓 Jass Game <i>(Jassen)</i>
+- 🃏 Jass Card Game <i>(Jassen)</i>
 - 🎙️ Yodeling Singing <i>(Jodeln)</i> 
 - 👘 Garb: Liechtensteiner Tracht <i>(Liechtensteiner Tracht)</i>
 - 🧝 Legacy of Alemanni <i>(Alamannen / ᚨᛚᚨᛗᚨᚾᚾᛁᛉ)</i>

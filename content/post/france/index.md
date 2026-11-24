@@ -359,7 +359,7 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🏃🏻 Equitation Tradition <i>(Équitation)</i>
 - 🏃🏻 Parkour Tradition <i>(Parkour)</i>
 - 🏃🏻 Savate Boxing Tradition <i>(Savate)</i>
-- 🏓 French Tarot Game <i>(Tarot Français)</i>
+- 🃏 Belote Card Game <i>(Belote)</i>
 - 💃 Can-Can Dance <i>(Cancan)</i>
 - 💃 Bourrée Dance <i>(Bourrée)</i> 
 - 🎙️ Chanson Music <i>(Chanson Française)</i> 
@@ -383,6 +383,7 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 <u>Occitania - Regional Special:</u> 
 - 🐦‍🔥 Occitan Folklore <i>(Folklore Occitan / Folclòre Occitan)</i>
 - 🏺 Occitan Crosses <i>(Croix Occitanes / Croses Occitanas)</i>
+- 🃏 Manille Card Game <i>(Manille)</i> 
 - 🎑 Chabrot Ritual <i>(Chabrot / Chabròt)</i>
 - 🏰 Heritage of the County of Toulouse <i>(Comté de Toulouse / Comtat de Tolosa)</i>
   - 🦉 Concept: Courtly Love <i>(Amour Courtois / Fin'Amor)</i>

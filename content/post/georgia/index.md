@@ -207,6 +207,7 @@ Hej! Here's a glimpse into my experiences in resplendent Georgia, which I visite
 - 🎨 Khevsurian Wool Embroidery <i>(ხევსურული შალის ქარგულობა)</i>
 - 🏃🏻 Chidaoba Wrestling Tradition <i>(ჩიდაობა)</i>
 - 🏓 Lelo Burti Game <i>(ლელო ბურთი)</i>
+- 🃏 Purti Card Game <i>(ფურთი)</i>
 - 🎑 Supra Ritual <i>(სუფრა)</i>
 - 🎭 Tamadas & Toastmastership <i>(თამადობა და სუფრის გაძღოლა)</i>
 - 💃 Kartuli Dance <i>(ქართული ცეკვა)</i>

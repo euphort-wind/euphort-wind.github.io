@@ -157,6 +157,7 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
 - 🎨 Ryijy Tapestry <i>(Ryijy)</i>
 - 🏓 Pesäpallo Game <i>(Pesäpallo)</i>
 - 🏓 Mölkky Game <i>(Mölkky)</i>
+- 🃏 Paskahousu Card Game <i>(Paskahousu)</i>
 - 🎑 Virvonta Ritual <i>(Virvonta)</i>
 - 🎑 Finnish Sauna Ritual <i>(Saunakulttuuri)</i>
 - 💃 Jenka Dance <i>(Jenka)</i>

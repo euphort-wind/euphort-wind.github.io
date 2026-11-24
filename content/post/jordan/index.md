@@ -116,6 +116,7 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 - 🏺 Jordanian Dallahs <i>(<bdi style="direction: rtl;">دلال القهوة الأردنية</bdi>)</i>
 - 🏘️ Desert Castles <i>(<bdi style="direction: rtl;">قصور الصحراء</bdi>)</i>
 - 🎨 Jordanian Sand-Bottle Art <i>(<bdi style="direction: rtl;">فن الرمل في الزجاجات</bdi>)</i>
+- 🃏 Trex Card Game <i>(<bdi style="direction: rtl;">تركس</bdi>)</i>
 - 🎑 Al-Mansaf Feast Ritual <i>(<bdi style="direction: rtl;">طقوس وليمة المنسف</bdi>)</i>
 - 💃 Dabke Dance <i>(<bdi style="direction: rtl;">دبكة</bdi>)</i>
 - 🪕 Musical Instrument: Mijwiz <i>(<bdi style="direction: rtl;">مجوز</bdi>)</i>

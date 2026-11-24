@@ -421,7 +421,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🏃🏻 Sambo Fighting Tradition <i>(Самбо)</i>
 - 🏓 Gorodki Game <i>(Городки)</i>
 - 🏓 Lapta Game <i>(Лапта)</i>
-- 🏓 Durak Game <i>(Дурак)</i>
+- 🃏 Durak Card Game <i>(Дурак)</i>
 - 🎑 Sit-before-a-Trip Ritual <i>("Посидеть на Дорожку")</i>
 - 💃 Khorovod Dance <i>(Хоровод)</i>
 - 🎙️ Chastushka Songs <i>(Частушки)</i>

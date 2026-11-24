@@ -137,6 +137,7 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 - 🏘️ Pirtis <i>(Pirtis)</i>
 - 🛠️ Latgalian Pottery <i>(Latgales Podniecība)</i>
 - 🏓 Novuss Game <i>(Novuss)</i>
+- 🃏 Zole Card Game <i>(Zolīte)</i>
 - 💃 Gatves Deja <i>(Gatves Deja)</i> 
 - 🎙️ Daina Folk Songs <i>(Dainas)</i> 
 - 🪕 Musical Instrument: Kokle <i>(Kokle)</i> 

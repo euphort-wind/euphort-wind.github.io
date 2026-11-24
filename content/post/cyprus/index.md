@@ -152,6 +152,7 @@ Hej! Here's a glimpse into my experiences in vibrant Cyprus, which I visited in 
 - 🛠️ Phini Red Clay Pottery <i>(Παραδοσιακή Αγγειοπλαστική Τέχνη του Φοινίου)</i>
 - 🎨 Fythkiotika Weaving <i>(Φυθκιώτικα)</i>
 - 🏓 Ziziros Game <i>(Ζίζιρος Παιχνίδι)</i>
+- 🃏 Pilotta Card Game <i>(Πιλόττα)</i>
 - 🎑 Allamata Wedding Ritual <i>(Αλλαμάτα)</i>
 - 🎭 Tsiattistés and Tsiattistá Poetic Duels <i>(Τσιαττιστάς και Τσιαττιστά)</i>
 - 💃 Karsilamades Dance <i>(Καρσιλαμάδες)</i>

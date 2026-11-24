@@ -329,7 +329,7 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🏃🏻 Bodybuilding Tradition <i>(Bodybuilding)</i>
 - 🏓 Mensch-Ärgere-Dich-Nicht Game <i>(Mensch Ärgere Dich Nicht)</i>
 - 🏓 Nine-Pin Bowling <i>(Kegeln)</i> 
-- 🏓 Skat Game <i>(Skat)</i>
+- 🃏 Skat Card Game <i>(Skat)</i>
 - 🎑 Feierabend Ritual <i>(Feierabend)</i>
 - 🎑 Wanderjahre Ritual <i>(Wanderjahre)</i>
 - 🎑 Stammtisch Ritual <i>(Stammtisch)</i>
@@ -364,7 +364,7 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 <br>
 <u>Rhineland-Palatinate - Regional Special:</u>
 - 👑 Title of German Wine Queen <i>(Deutsche Weinkönigin)</i>
-- 🏘️ Seasonal Wine Taverns <i>(Straußwirtschaften )</i>
+- 🏘️ Seasonal Wine Taverns <i>(Straußwirtschaften)</i>
 - 🛠️ Westerwald Pottery <i>(Westerwälder Steinzeug)</i>
 - 👘 Garb: Tugendpfeil <i>(Tugendpfeil)</i>
 - 🏰 Heritage of the Electorate of the Palatinate <i>(Kurfürstentum Pfalz)</i>
@@ -382,8 +382,7 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
   - 🏘️ Bavarian Beer Gardens <i>(Biergarten / Bierkeller)</i>
   - 🛠️ Mittenwald Violin Making <i>(Mittenwalder Geigenbau / Mittenwalder Geignbau)</i>
   - 🛠️ Nymphenburg Porcelain Manufacturing <i>(Porzellanmanufaktur Nymphenburg / Porzellanmanufaktur Nymphenburg)</i>
-  - 🏓 Bavarian Curling <i>(Stockschießen / Eisstocksport)</i>
-  - 🏓 Bavarian Schafkopf <i>(Schafkopf / Schofkopf)</i>
+  - 🃏 Schafkopf Card Game <i>(Schafkopf / Schofkopf)</i>
   - 🎨 Lüftlmalerei Mural Art <i>(Lüftlmalerei / Lüftelmalerei)</i>
   - 🎑 Aperschnalzen Ritual <i>(Aperschnalzen / Apaschnoizn)</i>
   - 🎑 Bavarian Brotzeit Ritual <i>(Brotzeit / Brotzeit)</i>

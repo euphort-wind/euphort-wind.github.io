@@ -149,7 +149,7 @@ Hej! Here's a glimpse into my experiences in enchanting Slovakia, which I visite
 - 🐦‍🔥 Slovak Folklore <i>(Slovenský Folklór)</i>
 - 🛠️ Slovak Wire Crafting <i>(Drotárstvo)</i>
 - 🎨 Modrotlač Indigo Dyeing <i>(Modrotlač)</i>
-- 🏓 Mariáš Game <i>(Mariáš)</i>
+- 🃏 Mariáš Card Game <i>(Mariáš)</i>
 - 💃 Odzemek Dance <i>(Odzemek)</i>
 - 🎙️ Trávnica Songs <i>(Trávnice)</i> 
 - 🪕 Musical Instrument: Fujara <i>(Fujara)</i>

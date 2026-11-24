@@ -236,6 +236,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 🛠️ Bolesławiec Pottery <i>(Ceramika Bolesławiecka)</i>
 - 🎨 Formist Painting <i>(Malarstwo Formistyczne)</i>
 - 🏓 Palant Game <i>(Palant)</i>
+- 🃏 Pan Card Game <i>(Gra Karciana Pan)</i>
 - 💃 Polonaise Dance <i>(Polonez)</i>
 - 💃 Kujawiak Dance <i>(Kujawiak)</i>
 - 💃 Mazur Dance <i>(Mazur)</i>
@@ -250,8 +251,9 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
   - 🦉 Concept: Sarmatism <i>(Sarmatyzm)</i>
   - 🦉 Concept: Golden Liberty <i>(Złota Wolność)</i>
   - 🕯️ Frankism <i>(Frankizm)</i>
-  - 🏺 Gdańsk Cupboards <i>(Szafy Gdańskie)</i>
   - 👑 Title of Szlachcic <i>(Szlachcic)</i>
+  - 🏺 Gdańsk Cupboards <i>(Szafy Gdańskie)</i>
+  - 🃏 Mariasz Card Game <i>(Mariasz)</i>
   - 👘 Garb: Delia & Żupan <i>(Delia i Żupan)</i>
 - 🏰 Heritage of the Duchy of Warsaw <i>(Księstwo Warszawskie / Duché de Varsovie)</i><br>
 <u>Pomerania - Regional Special:</u>
@@ -259,6 +261,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 👲 Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
   - 🐦‍🔥 Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
   - 🎨 Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
+  - 🃏 Baśka Card Game <i>(Baśka / Baszka)</i>
   - 🎑 Kashubian Gwiôzdka Ritual <i>(Kaszubska Gwiazdka / Gwiôzdka)</i>
   - 💃 Koseder Dance <i>(Koseder / Kòséder)</i>
   - 🪕 Musical Instrument: Burczybas  <i>(Burczybas / Mrëczk)</i>

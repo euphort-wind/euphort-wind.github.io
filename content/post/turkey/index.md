@@ -267,6 +267,7 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🏃🏻 Oil Wrestling Tradition <i>(Yağlı Güreş)</i>
 - 🏓 Okey Game <i>(Okey)</i>
 - 🏓 Mangala Game <i>(Mangala)</i>
+- 🃏 Pishti Card Game <i>(Pişti)</i>
 - 🎭 Meddahs & Meddahlık <i>(Meddahlar ve Meddahlık)</i>
 - 🎑 Turkish Hammam Ritual <i>(Türk Hamamı Ritüeli)</i>
 - 💃 Halay Dance <i>(Halay)</i>

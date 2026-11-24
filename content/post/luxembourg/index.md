@@ -118,7 +118,7 @@ Hej! Here's a glimpse into my experiences in elegant Luxembourg, which I visited
 - 👑 Title of Grand Duke <i>(Groussherzog)</i>
 - 🏺 Péckvillercher Whistles <i>(Péckvillercher)</i>
 - 🛠️ Villeroy & Boch Porcelain Manufacturing <i>(Faïencerie de Septfontaines)</i>
-- 🏓 Konter a Matt Game <i>(Konter a Matt)</i>
+- 🃏 Konter a Matt Card Game <i>(Konter a Matt)</i>
 - 🎑 Hämmelsmarsch Ritual <i>(Hämmelsmarsch)</i>
 - 🎑 Echternach Procession Ritual <i>(D'Iechternacher Sprangpressessioun)</i>
 - 🎙️ Haupeschbléiser Horn Playing <i>(Haupeschbléiser)</i>

@@ -193,6 +193,7 @@ Hej! Here's a glimpse into my experiences in magical Norway, which I visited in 
 - 🏃🏻 Nordic Skiing Tradition <i>(Langrenn)</i>
 - 🏃🏻 Telemark Skiing Tradition <i>(Telemarkskjøring)</i>
 - 🏓 Basse Game <i>(Basse)</i>
+- 🃏 Gnav Card Game <i>(Gnav)</i>
 - 🎑 Julebukking Ritual <i>(Julebukking)</i>
 - 💃 Halling Dance <i>(Lausdans)</i>
 - 🪕 Musical Instrument: Hardanger Fiddle <i>(Hardingfele)</i>

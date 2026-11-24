@@ -257,6 +257,7 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🏃🏻 Utility Cycling Tradition <i>(Het Fietsen)</i>
 - 🏃🏻 Iceboating Tradition <i>(IJszeilen)</i>
 - 🏓 Sjoelen Game <i>(Sjoelen)</i>
+- 🃏 Klaverjas Card Game <i>(Klaverjas)</i>
 - 🎑 Haringhappen Ritual <i>(Haringhappen)</i>
 - 🎑 Carbidschieten Ritual <i>(Carbidschieten)</i>
 - 💃 Klompen Dance <i>(Klompendansen)</i>

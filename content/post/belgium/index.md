@@ -196,6 +196,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🎨 Belgian Comics <i>(Bandes Dessinées Belges / Belgische Stripverhalen)</i>
 - 🏃🏻 Classic Cycle Racing Tradition <i>(Classique Cycliste / Wielerklassieker)</i>
 - 🏓 Crossage Game <i>(Crossage / Chole)</i>
+- 🃏 Colour Whist <i>(Whist Belge / Kleurenwiezen)</i>
 - 💃 Cramignon Dance <i>(Cråmignon / Cramignon)</i>
 - 🪕 Musical Instrument: Saxophone <i>(Saxophone / Saxofoon)</i>
 - 🧝 Legacy of Belgae <i>(Belges / Belgae)</i>
@@ -216,7 +217,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
   - 🎨 Bruges Lace <i>(Brugs Bloemwerk)</i>
   - 🎨 Flemish Tapestry <i>(Vlaams Tapijt)</i>
   - 🏃🏻 Vinkensport Tradition <i>(Vinkensport)</i>
-  - 🏃🏻 Horse-Back Shrimp Fishing <i>(Paardenvisserij)</i>
+  - 🏃🏻 Horse-Back Shrimp Fishing Tradition <i>(Paardenvisserij)</i>
   - 🏓 Bolletra Game <i>(Trabol)</i>
   - 💃 Zevenpas Dance <i>(Zevenpas)</i>
   - 🎙️ Flemish Polyphonic Singing <i>(Vlaamse Polyfonie)</i>

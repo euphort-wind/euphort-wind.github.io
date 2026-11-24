@@ -166,7 +166,7 @@ Hej! Here's a glimpse into my experiences in picturesque Hungary, which I visite
 - 🛠️ Zsolnay Porcelain Production <i>(Zsolnay Porcelánmanufaktúra)</i>
 - 🎨 Halas Lace <i>(Halasi Csipke)</i>
 - 🎨 Kalocsa Embroidery <i>(Kalocsai Hímzés)</i>
-- 🏓 Ulti <i>(Rablóulti)</i>
+- 🃏 Ulti Card Game <i>(Rablóulti)</i>
 - 🎑 Táncház Dance Ritual <i>(Táncház)</i>
 - 🎑 Busó-Walking Ritual <i>(Busójárás)</i>
 - 💃 Csárdás Dance <i>(Csárdás)</i>

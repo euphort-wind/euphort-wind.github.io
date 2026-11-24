@@ -177,6 +177,7 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 - 🏛️ Rondocubist Architecture <i>(Rondokubistická Architektura)</i>
 - 🎨 Vamberk Lace <i>(Vamberecká Krajka)</i>
 - 🏓 Football Tennis <i>(Nohejbal)</i>
+- 🃏 Sedma Card Game <i>(Sedma)</i>
 - 🎑 Pomlázka Ritual <i>(Pomlázka)</i>
 - 🎭 Czech Puppetry <i>(České Loutkářství)</i>
 - 💃 Beseda Dance <i>(Česká Beseda)</i>

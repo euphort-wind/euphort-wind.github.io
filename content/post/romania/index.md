@@ -220,6 +220,7 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - 🎨 Bucovina Wax-Resist Egg Painting <i>(Încondeierea Ouălor)</i>
 - 🏃🏻 Trântă Wrestling Tradition <i>(Trântă)</i>
 - 🏓 Oină Game <i>(Oină)</i>
+- 🃏 Romanian Whist Card Game <i>(Whist Românesc)</i>
 - 🎑 Paparuda Ritual <i>(Paparudă)</i>
 - 🎑 Căluș Ritual <i>(Căluș)</i>
 - 💃 Romanian Horă Dance <i>(Horă)</i>
