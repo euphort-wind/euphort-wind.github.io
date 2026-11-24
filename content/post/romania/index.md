@@ -252,8 +252,8 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
   - 🐦‍🔥 Székely Ballads <i>(Balade Secuiești / Székely Balladák)</i>
   - 👑 System of Székely Clans <i>(Clanurile Secuiești / Székely Nemzetségek)</i>
   - 👑 Title of Primor <i>(Primor Secuiesc / Lófő)</i>
-  - 🏺 Székely Gates <i>(Porți Secuiești / Székelykapuk)</i>
-  - 🏺 Kopjafa Wooden Pillars <i>(Stâlpi Funerari / Kopjafák)</i>
+  - ⛩️ Székely Gates <i>(Porți Secuiești / Székelykapuk)</i>
+  - ⛩️ Kopjafa Wooden Pillars <i>(Stâlpi Funerari / Kopjafák)</i>
   - 🏘️ Borvíz Pavilions <i>(Pavilioane de apă Minerală / Borvízpavilonok)</i>
   - 💃 Legényes Dance <i>(Feciorească / Legényes)</i>
   - 🪕 Musical Instrument: Ütőgardon <i>(Gordună / Ütőgardon)</i>

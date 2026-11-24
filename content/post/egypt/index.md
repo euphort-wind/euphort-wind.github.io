@@ -120,7 +120,7 @@ Hej! Here's a glimpse into my experiences in timeless Egypt, which I visited in 
 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Egyptian Folklore <i>(تراث مصري)</i>
-- 🏺 Fanouses <i>(فوانيس)</i>
+- 🏺 Fawanees <i>(فوانيس)</i>
 - ⛵ Falūka Boats <i>(فلايك)</i>
 - 🎨 Henna Body Painting <i>(رسم الحنة)</i>
 - 🎨 Khayamiya Textile <i>(خيّامية)</i>
@@ -153,14 +153,14 @@ Hej! Here's a glimpse into my experiences in timeless Egypt, which I visited in 
   - 📜 Ancient Egyptian Hieroglyphs <i>(الهيروغليفية المصرية / 𓊹𓌃𓏥)</i>
   - 🐦‍🔥 Ancient Egyptian Mythology <i>(أساطير مصرية / 𓌳𓇋𓀁𓊹𓊹𓊹)</i>
   - 👑 Title of Pharaoh <i>(فرعون / 𓉐𓉻)</i>
-  - 🏺 Sarcophaguses <i>(التوابيت المصرية القديمة / 𓍔𓏲)</i>
   - 🏺 Canopic Jars <i>(اوانى كانوبيه / 𓁢𓂀𓆑𓁚)</i>
   - 🏺 Ankhs <i>(مفتاح الحياه / 𓋹)</i>
   - 🏺 Ushabti Figurines <i>(اوشابتى / 𓅱𓈙𓃀𓏏𓏭𓀾)</i>
+  - ⛩️ Sarcophaguses <i>(التوابيت المصرية القديمة / 𓍔𓏲)</i>
   - ⛵ Ancient Egyptian Royal Ships <i>(مراكب الشمس / 𓊛)</i>
   - ⛵ Solar Barques <i>(المراكب الشمسية / 𓂋𓂝 𓏏𓊖)</i>
   - 🏘️ Mastabas <i>(مصطبه / 𓉐𓊽)</i>
-  - 🏘️ Pylons <i>(صرح / 𓈌)</i>
+  - 🏘️ Ancient Egyptian Pylons <i>(صرح / 𓈌)</i>
   - 🏛️ Ancient Egyptian Architecture <i>(العمارة المصرية القديمة / 𓉐)</i>
   - 🛠️ Ancient Egyptian Faience <i>(الفاينس المصري / 𓍿𓎛𓈖𓏏)</i>
   - 🛠️ Papyrus Sheet Making <i>(صناعة ورق البردي / 𓇅)</i>

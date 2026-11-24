@@ -241,7 +241,7 @@ Hej! Here's a glimpse into my experiences in resplendent Georgia, which I visite
 - 🏰 Heritage of the Kingdom of Kakheti-Hereti <i>(კახეთ-ჰერეთის სამეფო)</i>
 - 🏰 Heritage of the Kingdom of Kakheti <i>(კახეთის სამეფო)</i><br>
 <u>Tbilisi-Capital - Regional Special:</u>
-- 🏺 Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i> 
+- ⛩️ Tbilisi Wooden Balconies <i>(თბილისის ხის აივნები)</i> 
 - 🏘️ Tbilisi Sulfur Baths <i>(გოგირდის აბანოები თბილისში)</i>
 - 🎭 Georgian Puppetry <i>(ქართული თოჯინების თეატრი)</i>
 - 💃 Kintouri Dance <i>(კინტაური)</i>

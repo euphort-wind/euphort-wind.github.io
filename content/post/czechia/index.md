@@ -203,7 +203,7 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 <u>South Moravia - Regional Special:</u> 
 - 👲 Culture of Moravians <i>(Moravané / Moraváci)</i>
   - 🐦‍🔥 Legend of the Brno Dragon <i>(Legenda o Brněnském Drakovi)</i>
-  - 🏺 Želetava Stoves <i>(Želetavská Kamna)</i>
+  - ⛩️ Želetava Stoves <i>(Želetavská Kamna)</i>
   - 🎑 Ride of the Kings Ritual <i>(Jízda Králů)</i>
   - 🎑 Zarážení Hory Ritual <i>(Zarážení Hory)</i>
   - 💃 Moravian Verbuňk Dance <i>(Slovácký Verbuňk)</i>

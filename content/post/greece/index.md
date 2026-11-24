@@ -232,7 +232,7 @@ Hej! Here's a glimpse into my experiences in graceful Greece, which I visited in
   - 👑 System of Phratries <i>(Φρατρίαι)</i>
   - 👑 Title of Archon <i>(Ἄρχων)</i>
   - 👑 Title of Tyrant <i>(Τύραννος)</i>
-  - 🏺 Heroons <i>(Ἡρῷα)</i>
+  - ⛩️ Heroons <i>(Ἡρῷα)</i>
   - ⛵ Trireme Boats <i>(Τριήρεις)</i>
   - 🏘️ Ancient Greek Temples <i>(Ναοί)</i>
   - 🏘️ Ancient Greek Gymnasiums <i>(Γυμνάσια)</i>

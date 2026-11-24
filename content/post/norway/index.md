@@ -211,8 +211,8 @@ Hej! Here's a glimpse into my experiences in magical Norway, which I visited in 
   - 👑 Title of Gothi <i>(Gode / ᚴᚢᚦᛁ)</i>
   - 🏺 Mjölnir Amulets <i>(Mjølner / ᛘᛁᛅᛚᚾᛁᛦ)</i>
   - 🏺 Gullgubber <i>(Gullgubbe / ᚴᚢᛚᚴᚢᛒᛅᚱ)</i>
+  - ⛩️ Hǫrgr Altars <i>(Horgar / ᚼᚢᚱᚴᛅᛦ)</i>
   - ⛵ Longships <i>(Langskip / ᛚᛅᚾᚴᛋᚴᛁᛒ)</i>
-  - 🏘️ Hearg Altars <i>(Horgar / ᚼᚢᚱᚴᛅᛦ)</i>
   - 🏘️ Hof Temples <i>(Hovar / ᚼᚢᚠ)</i>
   - 🏘️ Mead Halls <i>(Mjødhaller / ᛘᛁᛅᚦᛅᚱᚼᛅᛚᛁᛦ)</i>
   - 🛠️ Viking Ship Building <i>(Vikingskipsbygging / ᛋᚴᛁᛒ)</i>

@@ -609,7 +609,7 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🛠️ Gotland Sheepskin Rug Production <i>(Gotländska Fårskinnsmattor Tillverkning)</i>
 - 🧝 Legacy of Gutes <i>(Gutar / ᚷᚢᛏᛟᛉ)</i>
     - 🐦‍🔥 Guta Saga <i>(Gutasagan / ᚷᚢᛏᚨ ᛋᚨᚷᚨ)</i>
-    - 🏺 Gotland Picture Stones <i>(Bildstenar / ᛒᛁᛚᛞᚨᛋᛏᚨᛁᚾᚨᛉ)</i>
+    - ⛩️ Gotland Picture Stones <i>(Bildstenar / ᛒᛁᛚᛞᚨᛋᛏᚨᛁᚾᚨᛉ)</i>
     - 🏓 Pärk Game <i>(Pärk / ᛈᚨᚱᚲ)</i>
     - 🏓 Varpa Game <i>(Varpa / ᚹᚨᚱᛈᚨ)</i>
 - ⛰️ Rauk Landforms <i>(Raukar)</i>
@@ -627,8 +627,8 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🏘️ Landshövding Houses <i>(Landshövdingehus)</i>
 - 🧝 Legacy of Geates <i>(Götar / ᚷᚨᚢᛏᚨᛉ)</i>
     - 📜 Elder Futhark Runic Alphabet <i>(Äldre Futhark / ᚠᚢᚦᚨᚱᚲ)</i>
-    - 🏘️ Domarrings <i>(Domarringar / ᛏᛟᛗᚨᚺᚱᛁᛜᚷᚨᛉ)</i>
-    - 🏘️ Stone Ships <i>(Skeppssättningar / ᛋᚲᛁᛈᚨᛋᛏᚨᛁᚾᛟᛉ)</i>
+    - ⛩️ Domarrings <i>(Domarringar / ᛏᛟᛗᚨᚺᚱᛁᛜᚷᚨᛉ)</i>
+    - ⛩️ Stone Ships <i>(Skeppssättningar / ᛋᚲᛁᛈᚨᛋᛏᚨᛁᚾᛟᛉ)</i>
     
 
 <b>🎊 Authentic holidays & celebrations:</b>

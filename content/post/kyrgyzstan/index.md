@@ -145,7 +145,7 @@ Hej! Here's a glimpse into my experiences in majestic Kyrgyzstan, which I visite
 - 🐦‍🔥 Legend of Issyk-Kul & Cholpon <i>(Ысык-Көл жана Чолпон-Ата Уламышы)</i>
 - 🧝 Legacy of Wusun <i>(Усундар / 烏孫)</i>
   - 👑 Title of Gunmo <i>(Гунмо)</i>
-  - 🏺 Issyk-Kul Petroglyph Stones <i>(Ысык-Көлдүн Петроглифтери)</i>
+  - ⛩️ Issyk-Kul Petroglyph Stones <i>(Ысык-Көлдүн Петроглифтери)</i>
   - 🛠️ Wusun Goldsmithing <i>(Усун Зергерчилиги)</i>
 
 

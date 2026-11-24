@@ -142,7 +142,7 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 - 🏰 Heritage of the Nabataean Kingdom <i>(<bdi style="direction: rtl;">المملكة النبطية</bdi> / <bdi style="direction: rtl;">𐢕𐢃𐢋𐢈</bdi>)</i>
   - 🕯️ Nabataean Religion <i>(<bdi style="direction: rtl;">ديانة نبطية</bdi> / <bdi style="direction: rtl;">𐢀𐢍𐢎𐢒</bdi>)</i> 
   - 📜 Nabataean Script <i>(<bdi style="direction: rtl;">الخط النبطي</bdi> / <bdi style="direction: rtl;">𐢀𐢁𐢂𐢃</bdi>)</i> 
-  - 🏺 Nabataean Betyls <i>(<bdi style="direction: rtl;">الأنصاب النبطية المقدسة</bdi> / <bdi style="direction: rtl;">𐢍𐢕𐢊𐢁</bdi>)</i> 
+  - ⛩️ Nabataean Betyls <i>(<bdi style="direction: rtl;">الأنصاب النبطية المقدسة</bdi> / <bdi style="direction: rtl;">𐢍𐢕𐢊𐢁</bdi>)</i> 
   - 🏛️ Nabataean Architecture <i>(<bdi style="direction: rtl;">العمارة النبطية</bdi> / <bdi style="direction: rtl;">𐢁𐢍𐢉𐢍𐢀</bdi>)</i>
   - 🛠️ Nabataean Pottery <i>(<bdi style="direction: rtl;">الفخار النبطي</bdi> / <bdi style="direction: rtl;">𐢊𐢐𐢃</bdi>)</i>
 - 🏰 Heritage of the Emirate of Transjordan <i>(<bdi style="direction: rtl;">إمارة شرق الأردن</bdi>)</i>

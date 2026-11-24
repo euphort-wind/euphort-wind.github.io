@@ -435,7 +435,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🏰 Heritage of the Grand Principality of Moscow <i>(Великое Княжество Московское / Вели́кое Кнꙗ́женїе Моско́вьское)</i>
     - 🐦‍🔥 Bylina Epic Poetry <i>(Былины)</i>
     - 🏺 Painted Kovshes <i>(Расписные Ковши)</i>
-    - 🏺 Russian Stoves <i>(Русские Печи)</i>
+    - ⛩️ Russian Stoves <i>(Русские Печи)</i>
     - 🏘️ Terems <i>(Терема)</i>
     - 🏛️ Russian Wooden Architecture <i>(Древнерусское Деревянное Зодчество)</i>
     - 🎨 Novgorod Icon Painting <i>(Новгородская Иконопись)</i>

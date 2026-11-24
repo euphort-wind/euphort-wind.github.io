@@ -138,7 +138,7 @@ Hej! Here's a glimpse into my experiences in radiant Thailand, which I visited i
 - 🐦‍🔥 Thai Folklore <i>(นิทานพื้นบ้านไทย)</i>
 - 👑 Title of Sangharaja <i>(สังฆราช)</i>
 - 👑 Title of Mophi <i>(หมอผี)</i>
-- 🏺 Lak Mueangs <i>(หลักเมือง)</i>
+- ⛩️ Lak Mueangs <i>(หลักเมือง)</i>
 - 🚗 Thai Cars <i>(Brand: "Thairung")</i>
 - ⛵ Thai Long-Tail Boats <i>(เรือหางยาว)</i>
 - 🏘️ Sala Thai Pavilions <i>(ศาลา)</i> 

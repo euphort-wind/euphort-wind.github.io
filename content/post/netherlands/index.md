@@ -293,8 +293,8 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 👲 Culture of Frisians <i>(Friezen / Frysken)</i>
   - 🦉 Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
   - 🏺 Frisian Chair Clocks <i>(Friese Stoelklokken  / Fryske Stoelklokken)</i>
+  - ⛩️ Klokkenstoels <i>(Klokkenstoelen / Klokkestuollen)</i>
   - ⛵ Skûtsje Boats <i>(Skûtsje / Skûtsjes)</i>
-  - 🏘️ Klokkenstoels <i>(Klokkenstoelen / Klokkestuollen)</i>
   - 🎨 Hindelooper Painting <i>(Hindelooper Schilderkunst / Hylper Skilderkeunst)</i>
   - 🏃🏻 Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
   - 🏃🏻 Fierljeppen Tradition <i>(Polsstokverspringen / Fierljeppen)</i> 

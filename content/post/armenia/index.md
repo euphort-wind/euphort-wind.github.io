@@ -227,8 +227,8 @@ Hej! Here's a glimpse into my experiences in welcoming Armenia, which I visited 
 - 🐦‍🔥 Armenian Mythology <i>(Հայկական Դիցաբանություն)</i>
 - 👑 System of Armenian Kins <i>(Գերդաստան)</i>
 - 👑 Title of Armenian Pontiff <i>(Ամենայն Հայոց Կաթողիկոս)</i>
-- 🏺 Khachkars <i>(Խաչքարեր)</i>
-- 🏺 Pulpulaks <i>(Պուլպուլակներ)</i>
+- ⛩️ Khachkars <i>(Խաչքարեր)</i>
+- ⛩️ Pulpulaks <i>(Պուլպուլակներ)</i>
 - 🚗 Armenian Vans (Brand: "ErAZ")
 - 🏘️ Armenian Churches <i>(Հայկական Եկեղեցիներ)</i>
 - 🏘️ Glkhatun Houses <i>(Գլխատներ)</i>
@@ -247,7 +247,7 @@ Hej! Here's a glimpse into my experiences in welcoming Armenia, which I visited 
   - 🕯️ Urartian Religion <i>(Վանի Թագավորության Կրոն / 𒀭 𒀀𒄷𒆷𒁲)</i>
   - 🐦‍🔥 Urartian Mythology <i>(Ուրարտական ​​Դիցաբանություն / 𒀭)</i>
   - 🏺 Urartian Rhytons <i>(Ուրարտական ​​Ռիտոն / 𒃻𒉌)</i>
-  - 🏺 Vishapakars <i>(Վիշապաքարեր / 𒂍𒁀𒊏)</i>
+  - ⛩️ Vishapakars <i>(Վիշապաքարեր / 𒂍𒁀𒊏)</i>
   - 🏛️ Urartian Architecture <i>(Ուրարտուի Ճարտարապետությունը / 𒂍)</i>
   - 🛠️ Urartian Pottery <i>(Ուրարտական ​​Խեցեղեն / 𒀀𒈠𒉌)</i>
 - 🏰 Heritage of the Kingdom of Greater Armenia <i>(Մեծ Հայք / Βασίλειον τῆς Ἀρμενίας)</i>

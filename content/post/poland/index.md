@@ -230,7 +230,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Polish Folklore <i>(Folklor Polski)</i>
-- 🏺 Kapliczka Shrines <i>(Kapliczki)</i>
+- ⛩️ Kapliczka Shrines <i>(Kapliczki)</i>
 - 🚗 Polish Cars <i>(Brands: "FSO", "Arrinera")</i>
 - 🏘️ Polish Milk Bars <i>(Bary Mleczne)</i>
 - 🛠️ Bolesławiec Pottery <i>(Ceramika Bolesławiecka)</i>
@@ -270,7 +270,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 🏰 Heritage of the Free City of Danzig <i>(Wolne Miasto Gdańsk / Freie Stadt Danzig)</i>
 <br> 
 <u>Silesia - Regional Special:</u>
-- 🏺 Katowice Beboks <i>(Katowickie Beboki / Katowicke Beboki)</i>
+- ⛩️ Katowice Beboks <i>(Katowickie Beboki / Katowicke Beboki)</i>
 - 👲 Culture of Silesians <i>(Ślązacy / Ślůnzoki)</i>
   - 🏘️ Familok Houses <i>(Familoki / Familoki)</i>
   - 🎑 Leading the Bear Ritual <i>(Wodzenie Niedźwiedzia / Wodzynie Bera)</i>

@@ -259,7 +259,6 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🐦‍🔥 Turkic Mythology <i>(Türk Mitolojisi)</i>
 - 🏺 Cezves <i>(Cezveler)</i>
 - 🏺 Tulip-Shaped Tea Glasses <i>(İnce Belli Bardaklar)</i>
-- 🏺 Peshtemals <i>(Peştemallar)</i>
 - 🏘️ Turkish Hammams <i>(Hamamlar)</i>
 - 🛠️ Iznik Pottery <i>(İznik Çinisi)</i>
 - 🎨 Ebru Paper Marbling <i>(Ebru)</i>
@@ -285,9 +284,9 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🏰 Heritage of the Ottoman Empire <i>(Osmanlı İmparatorluğu / <bdi style="direction: rtl;">دولت علیهٔ عثمانیه</bdi>)</i>
   - 🦉 Concept: Circle of Justice <i>(Adalet Çemberi / <bdi style="direction: rtl;">دایرهٔ عدالت</bdi>)</i>
   - 🏺 Kilij Scimitars <i>(Kılıçlar / <bdi style="direction: rtl;">قلیچلر</bdi>)</i>
+  - ⛩️ Ottoman Sabils <i>(Sebiller / <bdi style="direction: rtl;">سبیللر</bdi>)</i>
   - 🏘️ Imarets <i>(İmaretler / <bdi style="direction: rtl;">عمارتلر</bdi>)</i>
   - 🏘️ Bedestens <i>(Bedestenler / <bdi style="direction: rtl;">بدستانلر</bdi>)</i> 
-  - 🏘️ Ottoman Sabils <i>(Sebiller / <bdi style="direction: rtl;">سبیللر</bdi>)</i>
   - 🏛️ Classical Ottoman Architecture <i>(Osmanlı Mimarisi / <bdi style="direction: rtl;">عثمانلی معماریسی</bdi>)</i>
   - 🏛️ New Ottoman Architecture <i>(Neoklasik Türk Üslûbu / <bdi style="direction: rtl;">اولین میلّی معمارلیک آکیمی</bdi>)</i>
   - 🎨 Ottoman Miniature <i>(Osmanlı Minyatürü / <bdi style="direction: rtl;">تصویرِ عثمانی</bdi>)</i>
@@ -301,7 +300,7 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🏘️ Düğmeli Houses <i>(Düğmeli Evler)</i>
 - 🏰 Heritage of the Beylik of Teke <i>(Tekeoğulları Beyliği / <bdi style="direction: rtl;">تكه‌اوغللری بگی‌لکی</bdi>)</i><br>
 <u>Muğla - Regional Special:</u> 
-- 🏺 Muğla Chimneys <i>(Muğla Bacaları)</i>
+- ⛩️ Muğla Chimneys <i>(Muğla Bacaları)</i>
 - ⛵ Bodrum Gulets <i>(Bodrum Guletleri)</i>
 - ⛵ Tirhandils <i>(Tirhandiller)</i>
 - 🛠️ Bozburun Wooden Boatbuilding <i>(Bozburun Ahşap Tekne Yapımı)</i>
@@ -309,7 +308,8 @@ Hej! Here's a glimpse into my experiences in magnificent Türkiye, which I visit
 - 🧝 Legacy of Carians <i>(Karlar / 𐊼𐊥𐊼𐊠)</i>
 - 🧝 Legacy of Lycians <i>(Likyalılar / 𐊗𐊕𐊐𐊎𐊆𐊍𐊆)</i>
 - 🏰 Heritage of the Beylik of Menteşe <i>(Menteşe Beyliği / <bdi style="direction: rtl;">منتثه بگی‌لکی</bdi>)</i><br>
-<u>Denizli - Regional Special:</u> 
+<u>Denizli - Regional Special:</u>
+- 🛠️ Denizli Peshtemal Manufacturing <i>(Denizli Peştemal Üretimi)</i>
 - 🏰 Heritage of the Beylik of Lâdik <i>(Inançoğulları Beyliği / <bdi style="direction: rtl;">لادق بگی‌لکی</bdi>)</i>
 - ⛰️ Pamukkale Travertines <i>(Pamukkale Travertenleri)</i><br>
 <u>İstanbul - Regional Special:</u> 

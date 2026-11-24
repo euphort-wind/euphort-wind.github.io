@@ -129,7 +129,7 @@ Hej! Here's a glimpse into my experiences in hospitable Malta, which I visited i
 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Maltese Folklore <i>(Folklor Malti)</i>
-- 🏺 Maltese Wooden Balconies <i>(Gallariji Tradizzjonali Maltin)</i>
+- ⛩️ Maltese Wooden Balconies <i>(Gallariji Tradizzjonali Maltin)</i>
 - ⛵ Luzzu Boats <i>(Luzzu)</i>
 - 🏘️ Maltese Megalithic Temples <i>(Tempji Megalitiċi)</i>
 - 🏛️ Maltese Baroque Architecture <i>(Arkitettura Barokka f'Malta)</i>

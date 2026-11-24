@@ -331,14 +331,14 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 - 🦉 Concept: Compagnonnage <i>(Compagnonnage)</i>
 - 🐦‍🔥 Legend of Joan of Arc <i>(Légende de Jeanne d'Arc)</i>
 - 🐦‍🔥 French Folklore <i>(Folklore Français)</i>
-- 🏺 Fleur-de-Lis Emblems <i>(Emblèmas de Fleur-de-Lis)</i>
+- 🏺 Fleur-de-Lis Amulets <i>(Emblèmas de Fleur-de-Lis)</i>
+- ⛩️ French Carousels <i>(Carrousel)</i>
 - 🚗 French Cars <i>(Brands: "Peugeot", "Renault", "Citroën", "Bugatti")</i>
 - ⛵ Gabare Boats <i>(Gabarres)</i>
 - 🏘️ Lavoir Wash Houses <i>(Lavoirs)</i> 
 - 🏘️ Château Manor Houses <i>(Châteaux)</i>
 - 🏘️ Pâtisseries <i>(Pâtisseries)</i>
 - 🏘️ Brasseries <i>(Brasseries)</i>
-- 🏘️ French Carousels <i>(Carrousel)</i>
 - 🏛️ Gothic Architecture <i>(Architecture Gothique)</i>
 - 🏛️ Rococo Architecture <i>(Architecture Rococo)</i>
 - 🏛️ Empire Style Architecture <i>(Architecture du Empire)</i>
@@ -394,7 +394,7 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 </br>
 <u>Provence-Alpes-Côte d'Azur - Regional Special:</u>
 - 🏺 Santons of Provence <i>(Santons / Santons)</i>
-- 🏺 Blue Chairs of Nice <i>(Chaise Bleue / Cadiera Bleua)</i>
+- ⛩️ Blue Chairs of Nice <i>(Chaise Bleue / Cadiera Bleua)</i>
 - ⛵ Pointu Boats <i>(Pointus / Barquetas)</i>
 - 🏘️ Borie Huts <i>(Bories / Bories)</i>
 - 🛠️ Marseille Soap Production <i>(Savon de Marseille / Sabon de Marselha)</i>

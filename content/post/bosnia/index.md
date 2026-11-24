@@ -145,11 +145,11 @@ Hej! Here's a glimpse into my experiences in resilient Bosnia and vibrant Herzeg
 - 🏰 Heritage of the Bosnian Banate <i>(Banovina Bosna / Boszniai Bánság)</i>
     - 🕯️ Bosnian Church Christianity <i>(Crkva Bosanska)</i>
     - 📜 Bosančica Script <i>(Bosančica)</i>
-    - 🏺 Stećci <i>(Stećci)</i>
+    - ⛩️ Stećci <i>(Stećci)</i>
 - 🏰 Heritage of the Bosnian Kingdom <i>(Kraljevina Bosna / Краљевина Босна)</i>
 - ⛰️ Karst Poljes <i>(Kraška Polja)</i><br>
 <u>Sarajevo - Regional Special:</u> 
-- 🏺 Sarajevo Roses <i>(Sarajevske Ruže)</i><br>
+- ⛩️ Sarajevo Roses <i>(Sarajevske Ruže)</i><br>
 <u>Herzegovina-Neretva - Regional Special:</u>
 - 🏃🏻 Stari Most Diving Tradition <i>(Skokovi sa Starog Mosta)</i>
 - 🏰 Heritage of the Duchy of Saint Sava <i>(Vojvodstvo Svetog Save)</i><br>

@@ -408,7 +408,7 @@ Hej! Here's a glimpse into my experiences in magical Italy, which I visited in 2
 - 🏰 Heritage of the Kingdom of Italy <i>(Regno d'Italia)</i>
 <br>
 <u>Lazio - Regional Special:</u> 
-- 🏺 Nasoni <i>(Nasoni)</i><br> 
+- ⛩️ Nasoni <i>(Nasoni)</i><br> 
 <u>Tuscany - Regional Special:</u>
 - 🏃🏻 Calcio Storico Fiorentino Tradition <i>(Calcio Storico)</i> 
 - 🎑 Scoppio del Carro Ritual <i>(Scoppio del Carro)</i>
@@ -439,8 +439,8 @@ Hej! Here's a glimpse into my experiences in magical Italy, which I visited in 2
   - 🪕 Musical Instrument: Ciaramedda <i>(Ciaramedda / Ciarameddha)</i>
 - 🏰 Heritage of the Kingdom of Sicily <i>(Regno di Sicilia / Regnu di Sicilia)</i><br> 
 <u>Campania - Regional Special:</u> 
-- 🏺 Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i> 
-- 🏺 Cornicello Amulets <i>(Cornicello / Curniciello)</i> 
+- 🏺 Cornicello Amulets <i>(Cornicello / Curniciello)</i>
+- ⛩️ Casts of Pompeii <i>(Calchi di Pompei / Calche 'e Pumpeje)</i>  
 - 🏘️ Pizza Parlors <i>(Pizzerie)</i> 
 - 🛠️ Capodimonte Porcelain Manufacturing <i>(Porcellana di Capodimonte / Purcellana 'e Capemonte)</i> 
 - 🏓 Strummolo Game <i>(Strummolo / Strummolo)</i> 
@@ -452,7 +452,7 @@ Hej! Here's a glimpse into my experiences in magical Italy, which I visited in 2
 - 🏰 Heritage of the Kingdom of Naples <i>(Regno di Napoli / Regno 'e Napule)</i>
 - 🏰 Heritage of the Kingdom of the Two Sicilies <i>(Regno delle Due Sicilie / Regno d''e Ddoje Sicilie)</i><br> 
 <u>Lombardy - Regional Special:</u>
-- 🏺 Camunian Roses <i>(Rosa Camuna / Roeusa Camuna)</i> 
+- ⛩️ Camunian Rose Rocks <i>(Rosa Camuna / Roeusa Camuna)</i> 
 - 💃 Bergamasca Dance <i>(Bergamasca / Bergamàsca)</i>
 - 🏰 Heritage of the Duchy of Milan <i>(Ducato di Milano / Ducaa de Milan)</i>
 - ⛰️ Navigli of Milan <i>(Navigli / Navili)</i>

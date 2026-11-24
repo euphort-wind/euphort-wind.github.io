@@ -144,7 +144,7 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - 🕯️ Romuva Religion <i>(Romuva)</i>
 - 🐦‍🔥 Lithuanian Mythology <i>(Lietuvių Mitologija)</i>
 - 👑 Title of Kriwe <i>(Krivis)</i>
-- 🏺 Roofed Poles <i>(Stogastulpiai)</i>
+- ⛩️ Roofed Poles <i>(Stogastulpiai)</i>
 - 🛠️ Lithuanian Cross Crafting <i>(Lietuvos Kryždirbystė)</i>
 - 🎨 Sodai Straw Gardens <i>(Šiaudinių Sodų Tradicija)</i>
 - 🏓 Ritinis Game <i>(Ritinis)</i>
