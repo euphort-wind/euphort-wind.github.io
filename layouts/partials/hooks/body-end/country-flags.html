@@ -6,3 +6,94 @@
   document.body.style.fontFamily =
     '"Twemoji Country Flags", roboto, sans-serif';
 </script>
+
+
+<script>
+(() => {
+  const EMOJI = "🌐";
+  const IMAGE = "/images/globe-flag.svg";
+
+  const ignored = new Set([
+    "SCRIPT", "STYLE", "NOSCRIPT",
+    "TEXTAREA", "INPUT", "CODE", "PRE"
+  ]);
+
+  function replaceWorldEmoji(root) {
+    const walker = document.createTreeWalker(
+      root,
+      NodeFilter.SHOW_TEXT,
+      {
+        acceptNode(node) {
+          if (!node.nodeValue.includes(EMOJI)) {
+            return NodeFilter.FILTER_REJECT;
+          }
+
+          let parent = node.parentElement;
+
+          while (parent && parent !== root.parentElement) {
+            if (ignored.has(parent.tagName)) {
+              return NodeFilter.FILTER_REJECT;
+            }
+            parent = parent.parentElement;
+          }
+
+          return NodeFilter.FILTER_ACCEPT;
+        }
+      }
+    );
+
+    const nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+
+    nodes.forEach(node => {
+      const parts = node.nodeValue.split(EMOJI);
+      if (parts.length < 2) return;
+
+      const fragment = document.createDocumentFragment();
+
+      parts.forEach((part, index) => {
+        fragment.appendChild(document.createTextNode(part));
+
+        if (index < parts.length - 1) {
+          const img = document.createElement("img");
+          img.src = IMAGE;
+          img.alt = "";
+          img.className = "world-flag-emoji";
+          img.setAttribute("aria-hidden", "true");
+          fragment.appendChild(img);
+        }
+      });
+
+      node.replaceWith(fragment);
+    });
+  }
+
+  function initialize() {
+    replaceWorldEmoji(document.body);
+
+    const observer = new MutationObserver(mutations => {
+      mutations.forEach(mutation => {
+        mutation.addedNodes.forEach(node => {
+          if (node.nodeType === Node.TEXT_NODE) {
+            const parent = node.parentElement;
+            if (parent) replaceWorldEmoji(parent);
+          } else if (node.nodeType === Node.ELEMENT_NODE) {
+            replaceWorldEmoji(node);
+          }
+        });
+      });
+    });
+
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initialize);
+  } else {
+    initialize();
+  }
+})();
+</script>
