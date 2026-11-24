@@ -59,6 +59,16 @@
           img.src = IMAGE;
           img.alt = "";
           img.className = "world-flag-emoji";
+
+          img.style.cssText = `
+            display: inline-block;
+            height: 1em;
+            width: auto;
+            max-width: none;
+            vertical-align: -0.12em;
+            margin: 0 0.05em;
+          `;
+
           img.setAttribute("aria-hidden", "true");
           fragment.appendChild(img);
         }
