@@ -278,9 +278,9 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - ⏏️ Kronenfest <i>(Sărbătoarea Cununii / Siebenbürger Kronenfest)</i>. Month: June
 - ⏏️ Haferland Week <i>(Săptămâna Haferland / Kulturwoche Haferland)</i>. Month: August <br>
 <u>Covasna - Regional Special:</u> 
-- *️⃣ Székely Freedom Day <i>(Ziua Libertății Secuilor / Székely Szabadság Napja)</i>. Month: March
 - *️⃣ Szeklerland Days <i>(Zilele Ținutului Secuiesc / Székelyföld Napok)</i>. Month: May
-- 🫕 Szekler Sausage Parade <i>(Parada Cârnaților Secuiești / Székely Kolbászparádé)</i>. Month: November<br>
+- *️⃣ Szekler Sausage Parade <i>(Parada Cârnaților Secuiești / Székely Kolbászparádé)</i>. Month: November
+- *️⃣ Székely Freedom Day <i>(Ziua Libertății Secuilor / Székely Szabadság Napja)</i>. Month: March<br>
 <u>Mureș - Regional Special:</u>
 - 🎪 Mureș Valley Festival <i>(Festivalul Văii Mureșului)</i>. Month: July
 - 🎪 Sighișoara Medieval Festival <i>(Festivalul Sighișoara Medievală)</i>. Month: July<br>
