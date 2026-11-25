@@ -148,7 +148,7 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 - 🧝 Legacy of Ancient Latgalians <i>(Latgaļi)</i>
 - 🏰 Heritage of the Livonian Confederation <i>(Livonijas Konfederācija / Terra Mariana)</i><br>
 <u>Kurzeme - Regional Special:</u> 
-- 👲 Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
+- 1️⃣ Culture of Livonians <i>(Lībieši / Līvlizt)</i> 
 
 
 <b>🎊 Authentic holidays & celebrations:</b>
@@ -159,7 +159,7 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 - 🗽 Independence Day of Latvia <i>(Latvijas Republikas Proklamēšanas Diena)</i>. Month: November
 - 🎸 Latvian Song and Dance Festival <i>(Vispārējie Latviešu Dziesmu un Deju Svētki)</i>. Month: June to July<br>
 <u>Kurzeme - Regional Special:</u> 
-- 👲 Livonian Heritage Day <i>(Lībiešu Mantojuma Diena / Līvõd Pierāndõks Pǟva)</i>. Month: March 
+- 1️⃣ Livonian Heritage Day <i>(Lībiešu Mantojuma Diena / Līvõd Pierāndõks Pǟva)</i>. Month: March 
 
 
 <b>💐 National flower: </b> 

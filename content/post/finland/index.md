@@ -165,7 +165,7 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
 - 🎙️ Finnish Runic Singing <i>(Runolaulu)</i>
 - 🪕 Musical Instrument: Kantele <i>(Kantele)</i>
 - 👘 Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
-- 👲 Culture of Sámi <i>(Saamelaiset / Sámit)</i>
+- 2️⃣ Culture of Sámi <i>(Saamelaiset / Sámit)</i>
   - 🕯️ Sámi Shamanism <i>(Saamelainen Muinaisusko / Sámi Osku)</i>
   - 👑 System of Siida <i>(Lapinkylä / Siida)</i>
   - 🏺 Guksi Cups <i>(Kuksat / Guvssat)</i>
@@ -184,7 +184,7 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
 - 🎪 Kalevala Day <i>(Kalevalan Päivä)</i>. Month: February
 - 🏃🏻 Laskiainen <i>(Laskiainen)</i>. Month: January to February
 - 🏃🏻 Wife-Carrying Contest <i>(Eukonkanto)</i>. Month: July 
-- 👲 Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Month: February<br>
+- 2️⃣ Sámi National Day <i>(Saamelaisten Kansallispäivä / Sámi Álbmotbeaivi)</i>. Month: February<br>
 <u>Uusimaa - Regional Special:</u>
 - 🗽 Helsinki Day <i>(Helsinki-Päivä)</i>. Month: June  
 - 🎪 Lux Helsinki <i>(Lux Helsinki)</i>. Month: December to January  
