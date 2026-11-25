@@ -460,7 +460,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - 👘 Garb: Kosovorotka & Russian Court Dress <i>(Косоворотка и Русское Придворное Платье)</i>
 - 🏰 Heritage of the Russian Republic <i>(Российская Республика / Россійская Республика)</i><br>
 <u>Bashkortostan - Regional Special:</u> 
-- 👲 Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
+- ▶️ Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
     - 🐦‍🔥 Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
     - 🐦‍🔥 Legend of Salavat Yulaev <i>(Легенда о Салавате Юлаеве / Салауат Юлаев Тураһында Легенда)</i>
     - 🐦‍🔥 Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
@@ -471,7 +471,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - 👘 Garb: Kashmau <i>(Кашмау / Ҡашмау)</i>
 - ⛰️ Shikhan Chalk Hills <i>(Шиханы / Шихандар)</i><br>
 <u>Kabardino-Balkaria - Regional Special:</u> 
-- 👲 Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
+- 🏧 Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
     - 🦉 Concept: Taulu Namys <i>(Намыс / Таулу Намыс)</i>
     - 🐦‍🔥 Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
     - 🏺 Balkar Bychak Knives <i>(Бичаки / Бычакы)</i>
@@ -540,10 +540,10 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 <u>Sverdlovsk - Regional Special:</u> 
 - 🎸 Ural Music Night <i>(Ночь Музыки)</i>. Month: June<br>
 <u>Bashkortostan - Regional Special:</u> 
-- 👲 Sabantuy <i>(Сабантуй / Һабантуй)</i>. Month: June or July
-- 👲 Bashkir Language Day <i>(День Башкирского Языка / Башҡорт Теле Көнө)</i>. Month: December<br>
+- ▶️ Sabantuy <i>(Сабантуй / Һабантуй)</i>. Month: June or July
+- ▶️ Bashkir Language Day <i>(День Башкирского Языка / Башҡорт Теле Көнө)</i>. Month: December<br>
 <u>Kabardino-Balkaria - Regional Special:</u>
-- 👲 Balkar Day <i>(День Возрождения Балкарского Народа / Малкъар Халкъны Жангырыууну Кюню)</i>. Month: March<br>
+- 🏧 Balkar Day <i>(День Возрождения Балкарского Народа / Малкъар Халкъны Жангырыууну Кюню)</i>. Month: March<br>
 <u>Karachay-Cherkessia - Regional Special:</u>
 - 👲 Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May<br>
 <u>North Ossetia - Regional Special:</u>

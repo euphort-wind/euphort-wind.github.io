@@ -377,7 +377,7 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🎭 Cologne Puppetry <i>(Hänneschen Puppenspiel)</i>
 <br>
 <u>Bavaria - Regional Special:</u>
-- 👲 Culture of Bavarians <i>(Bayern / Boarn)</i>
+- 3️⃣ Culture of Bavarians <i>(Bayern / Boarn)</i>
   - 🐦‍🔥 Bavarian Folklore <i>(Bayerische Folklore / Bairische Volkskultur)</i>
   - 🏘️ Bavarian Beer Gardens <i>(Biergarten / Bierkeller)</i>
   - 🛠️ Mittenwald Violin Making <i>(Mittenwalder Geigenbau / Mittenwalder Geignbau)</i>
@@ -414,8 +414,8 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🎪 Cologne Carnival <i>(Kölner Karneval)</i>. Month: February
 - 🎪 Düsseldorf Carnival <i>(Düsseldorfer Karneval)</i>. Month: February<br>
 <u>Bavaria - Regional Special:</u> 
+- 3️⃣ Oktoberfest <i>(Oktoberfest / D'Wiesn)</i>. Month: September to  October
 - 🫕 Strong Beer Season <i>(Starkbierzeit / Stoakbiazeid)</i>. Month: February
-- 🎪 Oktoberfest <i>(Oktoberfest / D'Wiesn)</i>. Month: September to  October
 - 🎪 Gäubodenvolksfest <i>(Gäubodenvolksfest / Gaibodnvoiksfest)</i>. Month: August
 
 

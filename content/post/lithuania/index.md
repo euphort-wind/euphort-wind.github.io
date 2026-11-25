@@ -158,7 +158,7 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 <u>Kaunas - Regional Special:</u>
 - 🏛️ Kaunas Modernist Architecture <i>(Tarpukario Kauno Architektūra)</i><br>
 <u>Vilnius - Regional Special:</u>
-- 👲 Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
+- 4️⃣ Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
   - 🕯️ Karaism <i>(Karaizmas / Karaj Din)</i>
   - 👑 Title of Karaite Hakham <i>(Karaimų Hachanas / Karaj Ḥakham)</i>
   - 🏘️ Wooden Kenesas <i>(Kinesė / Kieniesalar)</i>

@@ -258,7 +258,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 🏰 Heritage of the Duchy of Warsaw <i>(Księstwo Warszawskie / Duché de Varsovie)</i><br>
 <u>Pomerania - Regional Special:</u>
 - 🛠️ Baltic Amber Crafting <i>(Bursztyniarstwo)</i>
-- 👲 Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
+- 9️⃣ Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
   - 🐦‍🔥 Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
   - 🎨 Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
   - 🃏 Baśka Card Game <i>(Baśka / Baszka)</i>
@@ -271,7 +271,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 <br> 
 <u>Silesia - Regional Special:</u>
 - ⛩️ Katowice Beboks <i>(Katowickie Beboki / Katowicke Beboki)</i>
-- 👲 Culture of Silesians <i>(Ślązacy / Ślůnzoki)</i>
+- 🔟 Culture of Silesians <i>(Ślązacy / Ślůnzoki)</i>
   - 🏘️ Familok Houses <i>(Familoki / Familoki)</i>
   - 🎑 Leading the Bear Ritual <i>(Wodzenie Niedźwiedzia / Wodzynie Bera)</i>
   - 💃 Trojak Dance <i>(Trojak / Trojok)</i>
@@ -287,7 +287,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 🎑 Siuda Baba Ritual <i>(Siuda Baba)</i>
 - 💃 Krakowiak Dance <i>(Krakowiak)</i>
 - 👘 Garb: Krakuska Hat <i>(Czapka Krakowska)</i>
-- 👲 Culture of Gorals <i>(Górale / Górole)</i>
+- 🔢 Culture of Gorals <i>(Górale / Górole)</i>
   - 🏺 Goral Shepherd’s Axes <i>(Ciupagi)</i>
   - 🏛️ Zakopane Architecture <i>(Styl Zakopiański)</i>
   - 🎨 Parzenica Embroidery <i>(Parzenica)</i>
@@ -306,16 +306,16 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 <u>Pomerania - Regional Special:</u>
 - 🎪 Wdzydze Fair <i>(Jarmark Wdzydzki / Wdzëcczi Jarmark)</i>. Month: July
 - 🎪 St. Dominic's Fair <i>(Gdański Jarmark św. Dominika)</i>. Month: July to August
-- 👲 Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March
+- 9️⃣ Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March
 <br> 
 <u>Silesia - Regional Special:</u> 
-- 👲 Silesian Days (Święto Śląska). Month: June to July
+- 🔟 Silesian Days (Święto Śląska). Month: June to July
 - 🎪 Barbórka (Barbórka / Barbůrka). Month: December<br> 
 <u>Lesser Poland - Regional Special:</u> 
 - 🎪 Rękawka (Rękawka). Month: March or April
 - 🎪 Wianki Festival (Wianki). Month: June
-- 👲 Góralski Carnival (Karnawał Góralski). Month: February
-- 👲 Festival of Goral Folklore (Festiwal Folkloru Ziem Górskich). Month: August 
+- 🔢 Góralski Carnival (Karnawał Góralski). Month: February
+- 🔢 Festival of Goral Folklore (Festiwal Folkloru Ziem Górskich). Month: August 
 
 <b>💐 National flower: </b> 
 - <b>Red Poppy <i>(Mak Polny)</i></b><br>

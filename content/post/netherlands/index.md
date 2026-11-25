@@ -290,7 +290,7 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 <u>Utrecht - Regional Special:</u> 
 - 🏰 Heritage of the Prince-Bishopric of Utrecht <i>(Sticht Utrecht / Episcopatus Ultraiectensis)</i><br>
 <u>Friesland - Regional Special:</u> 
-- 👲 Culture of Frisians <i>(Friezen / Frysken)</i>
+- 7️⃣ Culture of Frisians <i>(Friezen / Frysken)</i>
   - 🦉 Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
   - 🏺 Frisian Chair Clocks <i>(Friese Stoelklokken  / Fryske Stoelklokken)</i>
   - ⛩️ Klokkenstoels <i>(Klokkenstoelen / Klokkestuollen)</i>
@@ -322,10 +322,10 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 <u>Utrecht - Regional Special:</u> 
 - 🎸 Utrecht Early Music Festival <i>(Festival Oude Muziek)</i>. Month: August to September<br>
 <u>Friesland - Regional Special:</u> 
-- 🎪 Oerol Festival <i>(Oerol / Oerol)</i>. Month: June
-- 🏃🏻 Skûtsjesilen <i>(Skûtsjesilen / Skûtsjesilen)</i>. Month: July or August
-- 🏃🏻 Elfstedentocht <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February
-- 🏃🏻 Frisian Balloon Festival <i>(Friese Ballonfeesten / Frysk Ballonfestival)</i>. Month: July
+- 7️⃣ Oerol Festival <i>(Oerol / Oerol)</i>. Month: June
+- 7️⃣ Skûtsjesilen <i>(Skûtsjesilen / Skûtsjesilen)</i>. Month: July or August
+- 7️⃣ Elfstedentocht <i>(Elfstedentocht / Alvestêdetocht)</i>. Month: January or February
+- 7️⃣ Frisian Balloon Festival <i>(Friese Ballonfeesten / Frysk Ballonfestival)</i>. Month: July
 
 <b>💐 National flower: </b> 
 - Historically: <b>Tulip <i>(Tulp)</i></b>  

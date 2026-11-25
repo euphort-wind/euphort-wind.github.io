@@ -201,7 +201,7 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 <u>Central Bohemia - Regional Special:</u> 
 - 🛠️ Bohemian Glassware Production <i>(Výroba Českého Skla)</i></br>
 <u>South Moravia - Regional Special:</u> 
-- 👲 Culture of Moravians <i>(Moravané / Moraváci)</i>
+- 8️⃣ Culture of Moravians <i>(Moravané / Moraváci)</i>
   - 🐦‍🔥 Legend of the Brno Dragon <i>(Legenda o Brněnském Drakovi)</i>
   - ⛩️ Želetava Stoves <i>(Želetavská Kamna)</i>
   - 🎑 Ride of the Kings Ritual <i>(Jízda Králů)</i>
@@ -221,7 +221,7 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 <u>Central Bohemia - Regional Special:</u> 
 - 🫕 Mělník Wine Harvest Festival <i>(Mělnické Vinobraní)</i>. Month: September</br>
 <u>South Moravia - Regional Special:</u> 
-- 🎪 Hody <i>(Moravské Hody)</i>. Month: July to September
+- 8️⃣ Hody <i>(Moravské Hody)</i>. Month: July to September
 - 🫕 Burčákové Slavnosti <i>(Burčákové Slavnosti)</i>. Month: September
 - 🎪 Ignis Brunensis <i>(Ignis Brunensis)</i>. Month: May to June
 

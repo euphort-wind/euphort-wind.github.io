@@ -127,7 +127,7 @@ Hej! Here's a glimpse into my experiences in prosperous Liechtenstein, which I v
 - 🏰 Heritage of the County of Vaduz <i>(Grafschaft Vaduz)</i>
 - 🏰 Heritage of the Lordship of Schellenberg <i>(Herrschaft Schellenberg)</i><br>
 <u>Triesenberg - Regional Special:</u> 
-- 👲 Culture of Walser People <i>(Walser)</i>
+- 6️⃣ Culture of Walser People <i>(Walser)</i>
   - 🐦‍🔥 Walser Folklore <i>(Walser-Brauchtum)</i>
   - 🏘️ Walser Houses <i>(Walserhäuser)</i>
   - 🛠️ Walser Woodcarving <i>(Walser-Holzschnitzerei)</i>
@@ -140,7 +140,7 @@ Hej! Here's a glimpse into my experiences in prosperous Liechtenstein, which I v
 - 🎪 Funkensonntag <i>(Funkensonntag)</i>. Month: February or March
 - 🗽 National Day of Liechtenstein <i>(Staatsfeiertag)</i>. Month: August<br>
 <u>Triesenberg - Regional Special:</u> 
-- 👲 Walsertreffen <i>(Walsertreffen)</i>. Month: September
+- 6️⃣ Walsertreffen <i>(Walsertreffen)</i>. Month: September
 
 <b>💐 National flower: </b> 
 - <b>Yellow Lily <i>(Gelbe Lilie)</i></b> 

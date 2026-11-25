@@ -210,7 +210,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🎑 Meyboom Ritual <i>(Meyboom / Meiboom)</i>
 - 🎭 Royal Theatre Toone <i>(Théâtre Royal de Toone / Koninklijk Poppentheater Toone)</i><br>
 <u>Flanders - Regional Special:</u>
-- 👲 Culture of Flemings <i>(Vlamingen)</i>
+- 5️⃣ Culture of Flemings <i>(Vlamingen)</i>
   - 🐦‍🔥 Flemish Folklore <i>(Vlaamse Folklore)</i>
   - 🛠️ Flemish Diamond-Cutting <i>(Vlaamse Diamantbewerking)</i>
   - 🛠️ Flemish Pottery <i>(Vlaams Aardewerk)</i> 
@@ -236,7 +236,7 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🎪 Flower Carpet  <i>(Tapis de Fleurs / Bloementapijt)</i>. Month: August 
 - 🎪 Ommegang of Brussels <i>(Ommegang de Bruxelles / Ommegang van Brussel)</i>. Month: July<br> 
 <u>Flanders - Regional Special:</u> 
-- 👲 Flemish Community Day <i>(Feestdag van de Vlaamse Gemeenschap)</i>. Month: July 
+- 5️⃣ Flemish Community Day <i>(Feestdag van de Vlaamse Gemeenschap)</i>. Month: July 
 - 🎪 Carnival of Aalst <i>(Aalst Carnaval)</i>. Month: February or March
 - 🎪 Kattenstoet <i>(Kattenstoet)</i>. Month: May
 
