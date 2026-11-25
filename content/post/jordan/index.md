@@ -121,7 +121,7 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 - 💃 Dabke Dance <i>(<bdi style="direction: rtl;">دبكة</bdi>)</i>
 - 🪕 Musical Instrument: Mijwiz <i>(<bdi style="direction: rtl;">مجوز</bdi>)</i>
 - 👘 Garb: Dishdashah & Shemagh <i>(<bdi style="direction: rtl;">الدشداشة والشماغ</bdi>)</i>
-- 👲 Culture of Bedouins <i>(<bdi style="direction: rtl;">البدو</bdi>)</i>
+- 🚹 Culture of Bedouins <i>(<bdi style="direction: rtl;">البدو</bdi>)</i>
   - 🦉 Concept: Sharaf <i>(<bdi style="direction: rtl;">شرف</bdi>)</i> 
   - 🦉 Concept: Ird <i>(<bdi style="direction: rtl;">عرض</bdi>)</i>
   - 🐦‍🔥 Nabaṭī Poetry <i>(<bdi style="direction: rtl;">الشعر النبطي</bdi>)</i>
@@ -154,8 +154,8 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 <u>Ma'an - Regional Special:</u> 
 - 🎪 Petra Cultural Festival <i>(<bdi style="direction: rtl;">مهرجان البترا الثقافي</bdi>)</i>. Month: October<br>
 <u>Aqaba - Regional Special:</u> 
-- 👲 Aqaba Traditional Arts Festival <i>(<bdi style="direction: rtl;">مهرجان العقبة للفنون التقليدية</bdi>)</i>. Month: February
-- 👲 Jordan Camel Racing and Nabati Poetry Festival  <i>(<bdi style="direction: rtl;">مهرجان الأردن لسباقات الهجن والشعر النبطي</bdi>)</i>. Month: October
+- 🚹 Aqaba Traditional Arts Festival <i>(<bdi style="direction: rtl;">مهرجان العقبة للفنون التقليدية</bdi>)</i>. Month: February
+- 🚹 Jordan Camel Racing and Nabati Poetry Festival  <i>(<bdi style="direction: rtl;">مهرجان الأردن لسباقات الهجن والشعر النبطي</bdi>)</i>. Month: October
 
 
 

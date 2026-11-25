@@ -482,7 +482,7 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🏰 Heritage of the Princedom of Kabardia <i>(Кабарда / Къэбэрдей Пщыгъуэ)</i>
 <br>
 <u>Karachay-Cherkessia - Regional Special:</u> 
-- 👲 Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
+- 🅿️ Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
     - 🦉 Concept: Circassian Xabze <i>(Хабза / Адыгэ Хабзэ)</i>
     - 🕯️ Circassian Paganism <i>(Черкесская Религия / ТхьэлъэӀу)</i>
     - 🐦‍🔥 Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
@@ -498,11 +498,11 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
     - 💃 Udzh Dance <i>(Танец Удж / Удж)</i>
     - 🪕 Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
     - 👘 Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
-- 👲 Culture of Abazins <i>(Абазины / Абаза)</i>
+- 🛗 Culture of Abazins <i>(Абазины / Абаза)</i>
 - 🏰 Heritage of the Kingdom of Zichia <i>(Зихия / Адзыгъуей)</i>
 - 🏰 Heritage of the Kingdom of Circassia <i>(Черкесия / Адыгэ Хэку)</i><br>
 <u>North Ossetia - Regional Special:</u> 
-- 👲 Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
+- 🈳 Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
     - 🦉 Concept: Ægdau <i>(Агдау / Æгъдау)</i>
     - 🕯️ Assianism <i>(Уасдин / Уацдин)</i>
     - 🐦‍🔥 Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
@@ -521,14 +521,14 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🧝 Legacy of Alans <i>(Аланы / Алантæ)</i>
 - 🏰 Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i><br>
 <u>Leningrad - Regional Special:</u> 
-- 👲 Culture of Izhorians <i>(Ижоры / Ižorat)</i>
-- 👲 Culture of Vepsians <i>(Вепсы / Vepsläižed)</i><br>
+- 🈂️ Culture of Izhorians <i>(Ижоры / Ižorat)</i>
+- 🛂 Culture of Vepsians <i>(Вепсы / Vepsläižed)</i><br>
 <u>St. Petersburg-City - Regional Special:</u> 
-- 👲 Culture of Votians <i>(Водь / Vađđalaizõd)</i><br>
+- 🛃 Culture of Votians <i>(Водь / Vađđalaizõd)</i><br>
 <u>Chelyabinsk - Regional Special:</u> 
 - 🛠️ Kasli Iron Sculpture <i>(Каслинское Литьё)</i>
 - 🛠️ Zlatoust Steel Etching <i>(Златоустовская Гравюра на Стали)</i>
-- 👲 Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i></br>
+- 🛄 Culture of Nağaybäks <i>(Нагайбаки / Нагайбәкләр)</i></br>
 <u>Orenburzhie - Regional Special:</u> 
 - 👘 Garb: Orenburg Shawl <i>(Оренбургский Пуховый Платок)</i><br>
 
@@ -545,18 +545,18 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 <u>Kabardino-Balkaria - Regional Special:</u>
 - 🏧 Balkar Day <i>(День Возрождения Балкарского Народа / Малкъар Халкъны Жангырыууну Кюню)</i>. Month: March<br>
 <u>Karachay-Cherkessia - Regional Special:</u>
-- 👲 Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May<br>
+- 🅿️ Circassian Day <i>(День Черкесов / Адыгэхэм я Махуэ)</i>. Month: May<br>
 <u>North Ossetia - Regional Special:</u>
-- 👲 Rekom Shrine Festival <i>(Праздник Святилища Реком / Рекомы Бæрæгбон)</i>. Month: June
-- 👲 Khetag's Day <i>(День Хетага / Хетæджы Уастырджи)</i>. Month: July
-- 👲 Uacilla Celebration <i>(Праздник Уацилла / Уациллайы Бæрæгбон)</i>. Month: June or July
-- 🫕 Ossetian Beer Festival <i>(Фестиваль Осетинского Пива / Ирон Бæгæны)</i>. Month: September
-- 👲 Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November<br>
+- 🈳 Rekom Shrine Festival <i>(Праздник Святилища Реком / Рекомы Бæрæгбон)</i>. Month: June
+- 🈳 Khetag's Day <i>(День Хетага / Хетæджы Уастырджи)</i>. Month: July
+- 🈳 Uacilla Celebration <i>(Праздник Уацилла / Уациллайы Бæрæгбон)</i>. Month: June or July
+- 🈳 Ossetian Beer Festival <i>(Фестиваль Осетинского Пива / Ирон Бæгæны)</i>. Month: September
+- 🈳 Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November<br>
 <u>St. Petersburg-City - Regional Special:</u>
 - 🎪 Scarlet Sails Festival <i>(Алые Паруса)</i>. Month: June
 - 🎪 White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July<br>
 <u>Leningrad - Regional Special:</u>
-- 👲 Tree of Life: Vepsian Cultural Festival <i>(Древо Жизни / Elon Pu)</i>. Month: June<br>
+- 🛂 Tree of Life: Vepsian Cultural Festival <i>(Древо Жизни / Elon Pu)</i>. Month: June<br>
 <u>Krasnodar - Regional Special:</u>
 - 🫕 Kuban Kvass Festival <i>(Фестиваль Кубанского Кваса)</i>. Month: May
 

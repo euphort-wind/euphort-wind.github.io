@@ -154,7 +154,7 @@ Hej! Here's a glimpse into my experiences in enchanting Slovakia, which I visite
 - 🎙️ Trávnica Songs <i>(Trávnice)</i> 
 - 🪕 Musical Instrument: Fujara <i>(Fujara)</i>
 - 👘 Garb: Slovak Kroj <i>(Slovenský Kroj)</i>
-- 👲 Culture of Rusyns <i>(Rusíni / Русины)</i>
+- 🛅 Culture of Rusyns <i>(Rusíni / Русины)</i>
    - 🏘️ Rusyn Wooden Churches <i>(Rusínske Drevené Chrámy / Русиньскы Деревяны Церкви)</i>
    - 💃 Karčmaročka Dance <i>(Karčmaročka / Карчмарочка)</i>
    - 🎙️ Prostopinije Chant <i>(Prostopinije / Простопѣніє)</i> 
@@ -170,7 +170,7 @@ Hej! Here's a glimpse into my experiences in enchanting Slovakia, which I visite
 - 🎪 Fašiangy <i>(Fašiangy)</i>. Month: January to February
 - 🎪 Jánošík's Days <i>(Jánošíkove Dni)</i>. Month: July
 - 🗽 Day of the Establishment of the Slovak Republic <i>(Deň Vzniku Slovenskej Republiky)</i>. Month: January
-- 👲 Day of Rusyns in Slovakia <i>(Deň Rusínov na Slovensku / День Русинів)</i>. Month: June<br>
+- 🛅 Day of Rusyns in Slovakia <i>(Deň Rusínov na Slovensku / День Русинів)</i>. Month: June<br>
 <u>Banská Bystrica - Regional Special:</u> 
 - 🎪 Detva Folklore Festival <i>(Folklórne Slávnosti pod Poľanou)</i>. Month: July
 - 🎪 Salamander Days <i>(Salamandrové Dni)</i>. Month: September
