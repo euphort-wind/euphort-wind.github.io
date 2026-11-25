@@ -304,9 +304,9 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 🗽 Independence Day of Poland <i>(Narodowe Święto Niepodległości)</i>. Month: November
 - 🗽 Third May Constitution Day <i>(Święto Konstytucji 3 Maja)</i>. Month: May<br>
 <u>Pomerania - Regional Special:</u>
-- 🎪 Wdzydze Fair <i>(Jarmark Wdzydzki / Wdzëcczi Jarmark)</i>. Month: July
-- 🎪 St. Dominic's Fair <i>(Gdański Jarmark św. Dominika)</i>. Month: July to August
+- 9️⃣ Wdzydze Fair <i>(Jarmark Wdzydzki / Wdzëcczi Jarmark)</i>. Month: July
 - 9️⃣ Kashubian Unity Day <i>(Dzień Jedności Kaszubów / Dzéń Jednotë Kaszëbów)</i>. Month: March
+- 🎪 St. Dominic's Fair <i>(Gdański Jarmark św. Dominika)</i>. Month: July to August
 <br> 
 <u>Silesia - Regional Special:</u> 
 - 🔟 Silesian Days (Święto Śląska). Month: June to July
