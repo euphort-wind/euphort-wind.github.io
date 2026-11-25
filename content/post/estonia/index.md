@@ -146,7 +146,7 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 - 🧝 Legacy of Aests <i>(Aestid)</i><br>
 <u>Võru - Regional Special:</u> 
 - 🏘️ Võro Smoke Saunas <i>(Suitsusaun / Savvusann)</i>
-- 👲 Culture of Setos <i>(Setukesed / Setokõsõq)</i>
+- 0️⃣ Culture of Setos <i>(Setukesed / Setokõsõq)</i>
   - 🐦‍🔥 Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
   - 👑 Title of Ülemsootska <i>(Ülemsootska / Ülembsootśka)</i>
   - 💃 Seto Kargus Dance <i>(Setu Kargus / Seto Kargus)</i>
@@ -168,7 +168,7 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 - 🎪 Tartu Student Days <i>(Tartu Tudengipäevad)</i>. Month: April and September
 <br>
 <u>Võru - Regional Special:</u> 
-- 👲 Seto Kingdom Day <i>(Seto Kuningriigi Päev / Seto Kuningriik)</i>. Month: August
+- 0️⃣ Seto Kingdom Day <i>(Seto Kuningriigi Päev / Seto Kuningriik)</i>. Month: August
 - 🎪 Võru Folk Festival <i>(Võru Folkloorifestival  / Võro Folkloorifestival)</i>. Month: July
 
 
