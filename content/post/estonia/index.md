@@ -100,6 +100,7 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 - 🇪🇪 Puuluup (duo). Genre: folk
 - 🌐 Luvwn (DJ). Genre: chillhop
 - 🌐 Vanilla Ninja (band). Genre: pop rock
+- 0️⃣ Zetod (band). Genre: ethno punk
 
 
 <b>🍽️ Local food & drinks: </b>
@@ -120,8 +121,8 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 - 🍰 Tallinn Marzipan <i>(Tallinna Martsipan)</i>
 </br>
 <u>Võru - Regional Special:</u> 
-- 🍲 Seto Cold Soup <i>(Seto Külmsupp / Suulliim)</i>
-- 🧀 Seto Sõir <i>(Seto Sõir / Seto Sõir)</i>
+- 0️⃣🍲 Seto Cold Soup <i>(Seto Külmsupp / Suulliim)</i>
+- 0️⃣🧀 Seto Sõir <i>(Seto Sõir / Seto Sõir)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -147,12 +148,12 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 <u>Võru - Regional Special:</u> 
 - 🏘️ Võro Smoke Saunas <i>(Suitsusaun / Savvusann)</i>
 - 0️⃣ Culture of Setos <i>(Setukesed / Setokõsõq)</i>
-  - 🐦‍🔥 Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
-  - 👑 Title of Ülemsootska <i>(Ülemsootska / Ülembsootśka)</i>
-  - 💃 Seto Kargus Dance <i>(Setu Kargus / Seto Kargus)</i>
-  - 🎙️ Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
-  - 🎙️ Seto Lullaby Singing <i>(Setu Hällilaulud / Seto Hällülaulud)</i>
-  - 👘 Garb: Suur Sõlg and Kaalakõrd <i>(Suur Sõlg ja Kaalakõrd / Suur Sõlg jaq Kaalakõrd)</i>
+  - 0️⃣🐦‍🔥 Epic of Peko <i>(Peko: Setu Eepos / Peko: Seto Eepos)</i>
+  - 0️⃣👑 Title of Ülemsootska <i>(Ülemsootska / Ülembsootśka)</i>
+  - 0️⃣💃 Seto Kargus Dance <i>(Setu Kargus / Seto Kargus)</i>
+  - 0️⃣🎙️ Seto Polyphonic Singing <i>(Setu Leelo / Seto Leelo)</i>
+  - 0️⃣🎙️ Seto Lullaby Singing <i>(Setu Hällilaulud / Seto Hällülaulud)</i>
+  - 0️⃣👘 Garb: Suur Sõlg and Kaalakõrd <i>(Suur Sõlg ja Kaalakõrd / Suur Sõlg jaq Kaalakõrd)</i>
 
 <b>🎊 Authentic holidays & celebrations:</b>
 - 🗽 Independence Day of Estonia <i>(Eesti Iseseisvuspäev)</i>. Month: February
