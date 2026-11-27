@@ -128,25 +128,28 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇷🇴 Akcent (band). Genre: romanian popcorn
-- 🇷🇴 Mario Fresh (singer). Genre: pop
-- 🇷🇴 Giulia Anghelescu (singer). Genre: house
-- 🇷🇴 DJ Project (band). Genre: house
-- 🇷🇴 Alina Eremia (singer). Genre: pop
-- 🇷🇴 Alex Velea (singer). Genre: pop
-- 🇷🇴 Ștefan Costea (rapper). Genre: trap
-- 🇷🇴 Ionuț Cercel (singer). Genre: manele
-- 🇷🇴 Tzancă Uraganu (singer). Genre: manele
-- 🇷🇴 Nicolae Guță (singer). Genre: manele
-- 🌐 Holy Molly (singer). Genre: pop
-- 🌐 Morandi (duo). Genre: eurodance
-- 🌐 INNA (singer). Genre: romanian popcorn
-- 🌐 Edward Maya (DJ). Genre: eurodance
-- 🌐 Minelli (singer). Genre: pop
-- 🌐 Alexandra Stan (singer). Genre: popcorn
-- 🌐 Alis Shuka (singer). Genre: pop
-- 🌐 Petre Inspirescu (DJ). Genre: rominimal
-- 🌐 Alexandra Căpitănescu (singer). Genre: alt-rock
+- 🇷🇴&nbsp; Akcent (band). Genre: romanian popcorn
+- 🇷🇴&nbsp; Mario Fresh (singer). Genre: pop
+- 🇷🇴&nbsp; Giulia Anghelescu (singer). Genre: house
+- 🇷🇴&nbsp; DJ Project (band). Genre: house
+- 🇷🇴&nbsp; Alina Eremia (singer). Genre: pop
+- 🇷🇴&nbsp; Alex Velea (singer). Genre: pop
+- 🇷🇴&nbsp; Ștefan Costea (rapper). Genre: trap
+- 🇷🇴&nbsp; Tzancă Uraganu (singer). Genre: manele
+- 🇷🇴&nbsp; Ionuț Cercel (singer). Genre: manele
+- #️⃣ Romica Puceanu (singer). Genre: lăutărească
+- #️⃣ Nicolae Guță (singer). Genre: manele
+- *️⃣ 4S Street (band). Genre: pop rock
+- ⏏️ Jürgen aus Siebenbürgen (singer). Genre: folk
+- 🌐&nbsp; Holy Molly (singer). Genre: pop
+- 🌐&nbsp; Morandi (duo). Genre: eurodance
+- 🌐&nbsp; INNA (singer). Genre: romanian popcorn
+- 🌐&nbsp; Edward Maya (DJ). Genre: eurodance
+- 🌐&nbsp; Minelli (singer). Genre: pop
+- 🌐&nbsp; Alexandra Stan (singer). Genre: popcorn
+- 🌐&nbsp; Alis Shuka (singer). Genre: pop
+- 🌐&nbsp; Petre Inspirescu (DJ). Genre: rominimal
+- 🌐&nbsp; Alexandra Căpitănescu (singer). Genre: alt-rock
 
 <b>🎚️ Contribution to Electronic Music: </b>
 - Rominimal. Originated: early 2000s
@@ -185,15 +188,16 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - 🥫 Mujdei Sauce <i>(Mujdei)</i>
 - 🫓 Covrigi <i>(Covrigi)</i>
 - 🍶 Țuică <i>(Brand: "Vlad Țepeș")</i>
+- 🥘#️⃣ Shak te Mas <i>(Varză cu Carne Țigănească / Šah taj Maš)</i>
 </br>
 <u>Covasna - Regional Special:</u> 
-- 🥘 Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>
-- 🍰 Székely Kürtőskalács <i>(Cozonac Secuiesc / Székely Kürtőskalács)</i>
-- 🫓 Pâine Secuiască <i>(Pâine Secuiască / Székely Kenyér)</i>
+- 🥘*️⃣ Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>
+- 🍰*️⃣ Székely Kürtőskalács <i>(Cozonac Secuiesc / Székely Kürtőskalács)</i>
+- 🫓*️⃣ Pâine Secuiască <i>(Pâine Secuiască / Székely Kenyér)</i>
 </br>
 <u>Brașov - Regional Special:</u> 
 - 🥘 Brașovence <i>(Clătite Brașovene / Brașovence)</i>
-- 🍰 Transylvanian Saxon Hanklich <i>(Hencleș Săsesc / Hanklich)</i>
+- 🍰⏏️ Transylvanian Saxon Hanklich <i>(Hencleș Săsesc / Hanklich)</i>
 
 
 <b>🎬 Local movies:</b>
