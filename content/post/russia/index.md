@@ -303,24 +303,28 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 
   
 <b>🎧 Local musicians:</b>
-- 🇺🇳 Valery Meladze (singer). Genre: pop
-- 🇺🇳 Zemfira (singer). Genre: indie rock
-- 🇺🇳 Viktor Tsoi (singer). Genre: post punk
-- 🇺🇳 Pavel Smeyan (singer). Genre: rock opera
-- 🇺🇳 Alla Pugacheva (singer). Genre: pop
-- 🇺🇳 Жин-Жин (singer). Genre: house
-- 🇺🇳 Kris Kelmi (singer). Genre: rock
-- 🌐 Dvrst (DJ). Genre: drift phonk
-- 🌐 Øneheart (DJ). Genre: ambient
-- 🌐 Arty (DJ). Genre: progressive house
-- 🌐 Serge Devant (DJ). Genre: melodic house
-- 🌐 Natalie Gioia (singer). Genre: trance
-- 🌐 Russian Village Boys (band). Genre: hardbass
+- 🇺🇳 &nbsp;Valery Meladze (singer). Genre: pop
+- 🇺🇳 &nbsp;Zemfira (singer). Genre: indie rock
+- 🇺🇳 &nbsp;Viktor Tsoi (singer). Genre: post punk
+- 🇺🇳 &nbsp;Pavel Smeyan (singer). Genre: rock opera
+- 🇺🇳 &nbsp;Alla Pugacheva (singer). Genre: pop
+- 🇺🇳 &nbsp;Жин-Жин (singer). Genre: house
+- 🇺🇳 &nbsp;Kris Kelmi (singer). Genre: rock
+- ▶️ Ilgiz Abdurakhmanov (singer). Genre: pop
+- 🏧 Natu Sozaeva (singer). Genre: folk-pop
+- 🅿️ Jrpjej (band). Genre: folk-rock
+- 🈳 Ragon Bal (band). Genre: post-folk 
+- 🌐 &nbsp;Dvrst (DJ). Genre: drift phonk
+- 🌐 &nbsp;Øneheart (DJ). Genre: ambient
+- 🌐 &nbsp;Arty (DJ). Genre: progressive house
+- 🌐 &nbsp;Serge Devant (DJ). Genre: melodic house
+- 🌐 &nbsp;Natalie Gioia (singer). Genre: trance
+- 🌐 &nbsp;Russian Village Boys (band). Genre: hardbass
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Hardbass. Originated: late 1990s
-- Sovietwave. Originated: early 2010s
-- Drift Phonk. Originated: late 2010s
+- 🇺🇳 &nbsp;Hardbass. Originated: late 1990s
+- 🇺🇳 &nbsp;Sovietwave. Originated: early 2010s
+- 🌐 &nbsp;Drift Phonk. Originated: late 2010s
 
 
 <b>🍽️ Local food & drinks: </b>
@@ -348,36 +352,35 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🍶 Baked Milk <i>(Топлёное Молоко)</i> 
 - 🍶 Russian Draft Wheat Beer <i>(Brand: "Sladovar")</i> 
 - 🍶 Russian Vodka <i>(Brands: "Derevenka", "Tsarskaya")</i></br>
-<u>Bashkortostan - Regional Special:</u> 
-- 🥙 Peremech <i>(Беляш / Бәрәмес)</i>
-- 🥙 Bashkir Uchpuchmak <i>(Эчпочмак / Өсбосмаҡ)</i>
-- 🍰 Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i></br>
-<u>Kabardino-Balkaria - Regional Special:</u> 
-- 🥙 Balkar Khychin <i>(Хычин / Хычин)</i>
-    - 🥙 Khychin with Meat <i>(Хычин с Мясом / Эт Хычин)</i>
-    - 🥙 Khychin with Beet Leaves <i>(Хычин с Листьями Свёклы / Чюгюндюр Хычин)</i> 
-    - 🥙 Khychin with Liver <i>(Хычин с Ливером / Ындыр Хычин)</i> 
-- 🥘 Zhalbaur <i>(Жалбаур / Жау Бауур)</i>
-- 🥘 Byshlak Bishirgen <i>(Бышлак Биширген / Бышлакъ Биширген)</i>
-- 🧀 Balkar Cheese <i>(Балкарский Сыр / Бишлакъ)</i></br>
-<u>Karachay-Cherkessia - Regional Special:</u>
-- 🥙 Circassian Khalyuzh <i>(Халюж / Хьалыжъо)</i>
-- 🥘 Circassian Libzhe <i>(Либжа / Либжэ)</i>
-- 🥘 Circassian Lyagur <i>(Лягур / Лягур)</i>
-</br>
-<u>North Ossetia - Regional Special:</u>
-- 🥙 Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
-    - 🥙 Ossetian Pie with Cheese <i>(Осетинский Пирог с Сыром / Уæлибæх)</i>
-    - 🥙 Ossetian Pie with Meat <i>(Осетинский Пирог с Мясом / Фыдджын)</i>
-    - 🥙 Ossetian Pie with Beans <i>(Осетинский Пирог с Фасолью / Хъæдурджын)</i>
-- 🍲 Lyvzha <i>(Лывжа / Лывзæ)</i>
-- 🥘 Ossetian Dzykka <i>(Дзыкка / Дзыкка)</i>
-- 🥫 Tsakhdon Sauce (Цахтон / Цæхдон)
-- 🍶 Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
-</br>
 <u>Moscow-City - Regional Special:</u>
 - 🍶 Raf Coffee <i>(Раф-Кофе)</i>
-- 🥗 Stolychny Salad <i>(Салат Столичный)</i>
+- 🥗 Stolychny Salad <i>(Салат Столичный)</i></br>
+<u>Bashkortostan - Regional Special:</u> 
+- 🥙▶️ Peremech <i>(Беляш / Бәрәмес)</i>
+- 🥙▶️ Bashkir Uchpuchmak <i>(Эчпочмак / Өсбосмаҡ)</i>
+- 🍰▶️ Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i></br>
+<u>Kabardino-Balkaria - Regional Special:</u> 
+- 🥙🏧 Balkar Khychin <i>(Хычин / Хычин)</i>
+    - 🥙🏧 Khychin with Meat <i>(Хычин с Мясом / Эт Хычин)</i>
+    - 🥙🏧 Khychin with Beet Leaves <i>(Хычин с Листьями Свёклы / Чюгюндюр Хычин)</i> 
+    - 🥙🏧 Khychin with Liver <i>(Хычин с Ливером / Ындыр Хычин)</i> 
+- 🥘🏧 Zhalbaur <i>(Жалбаур / Жау Бауур)</i>
+- 🥘🏧 Byshlak Bishirgen <i>(Бышлак Биширген / Бышлакъ Биширген)</i>
+- 🧀🏧 Balkar Cheese <i>(Балкарский Сыр / Бишлакъ)</i></br>
+<u>Karachay-Cherkessia - Regional Special:</u>
+- 🥙🅿️ Circassian Khalyuzh <i>(Халюж / Хьалыжъо)</i>
+- 🥘🅿️ Circassian Libzhe <i>(Либжа / Либжэ)</i>
+- 🥘🅿️ Circassian Lyagur <i>(Лягур / Лягур)</i>
+</br>
+<u>North Ossetia - Regional Special:</u>
+- 🥙🈳 Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
+    - 🥙🈳 Ossetian Pie with Cheese <i>(Осетинский Пирог с Сыром / Уæлибæх)</i>
+    - 🥙🈳 Ossetian Pie with Meat <i>(Осетинский Пирог с Мясом / Фыдджын)</i>
+    - 🥙🈳 Ossetian Pie with Beans <i>(Осетинский Пирог с Фасолью / Хъæдурджын)</i>
+- 🍲🈳 Lyvzha <i>(Лывжа / Лывзæ)</i>
+- 🥘🈳 Ossetian Dzykka <i>(Дзыкка / Дзыкка)</i>
+- 🥫🈳 Tsakhdon Sauce (Цахтон / Цæхдон)
+- 🍶🈳 Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
 
 
 <b>🎬 Local movies:</b>
