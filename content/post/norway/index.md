@@ -132,8 +132,8 @@ Hej! Here's a glimpse into my experiences in magical Norway, which I visited in 
 - 🌐 Aurora (singer). Genre: indie pop
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Russ Music. Originated: mid-2000s
-- Tropical House. Originated: early 2010s
+- 🇳🇴 Russ Music. Originated: mid-2000s
+- 🌐 Tropical House. Originated: early 2010s
 
 
 <b>🍽️ Local food & drinks: </b>

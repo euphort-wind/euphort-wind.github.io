@@ -108,37 +108,37 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 
 
 <b>🎧 Local musicians: </b>
-- 🇧🇪 Stromae (singer). Genre: pop
-- 🇧🇪 Lara Fabian (singer). Genre: pop
-- 🇧🇪 Kate Ryan (singer). Genre: pop
-- 🇧🇪 Lissa Lewis (singer). Genre: pop
-- 🇧🇪 Pommelien Thijs (singer). Genre: pop
-- 🇧🇪 Camille Dhont (singer). Genre: pop
-- 🇧🇪 Will Tura (singer). Genre: pop
-- 🇧🇪 Het Zesde Metaal (band). Genre: indie rock
-- 🇧🇪 Amaryllis Temmerman (singer). Genre: pop
-- 🌐 Dimitri Vegas (DJ). Genre: big room
-- 🌐 Like Mike (DJ). Genre: big room
-- 🌐 XiJaro & Pitch (DJ duo). Genre: uplifting trance
-- 🌐 Sylver (band). Genre: eurodance
-- 🌐 Netsky (DJ). Genre: drum'n'bass
-- 🌐 Eptic (DJ). Genre: bass house
-- 🌐 Danzel (DJ). Genre: electro house
-- 🌐 Basto (DJ). Genre: progressive house
-- 🌐 Lost Frequencies (DJ). Genre: pop
-- 🌐 Charlotte de Witte (DJ). Genre: dark techno
-- 🌐 Essyla (singer). Genre: dance pop
-- 🌐 Technotronic (DJ project). Genre: new beat
-- 🌐 Frank de Wulf (DJ). Genre: belgian techno
-- 🌐 Da Rick (DJ). Genre: jumpstyle
-- 🌐 Lethal MG (DJ). Genre: tekstyle
+- 🇧🇪 &nbsp;Stromae (singer). Genre: pop
+- 🇧🇪 &nbsp;Lara Fabian (singer). Genre: pop
+- 🇧🇪 &nbsp;Kate Ryan (singer). Genre: pop
+- 🇧🇪 &nbsp;Will Tura (singer). Genre: pop
+- 🇧🇪 &nbsp;Pommelien Thijs (singer). Genre: pop
+- 🇧🇪 &nbsp;Camille Dhont (singer). Genre: pop
+- 5️⃣ Lissa Lewis (singer). Genre: pop
+- 5️⃣ Het Zesde Metaal (band). Genre: indie rock
+- 5️⃣ Amaryllis Temmerman (singer). Genre: pop
+- 🌐 &nbsp;Dimitri Vegas (DJ). Genre: big room
+- 🌐 &nbsp;Like Mike (DJ). Genre: big room
+- 🌐 &nbsp;XiJaro & Pitch (DJ duo). Genre: uplifting trance
+- 🌐 &nbsp;Sylver (band). Genre: eurodance
+- 🌐 &nbsp;Netsky (DJ). Genre: drum'n'bass
+- 🌐 &nbsp;Eptic (DJ). Genre: bass house
+- 🌐 &nbsp;Danzel (DJ). Genre: electro house
+- 🌐 &nbsp;Basto (DJ). Genre: progressive house
+- 🌐 &nbsp;Lost Frequencies (DJ). Genre: pop
+- 🌐 &nbsp;Charlotte de Witte (DJ). Genre: dark techno
+- 🌐 &nbsp;Essyla (singer). Genre: dance pop
+- 🌐 &nbsp;Technotronic (DJ project). Genre: new beat
+- 🌐 &nbsp;Frank de Wulf (DJ). Genre: belgian techno
+- 🌐 &nbsp;Da Rick (DJ). Genre: jumpstyle
+- 🌐 &nbsp;Lethal MG (DJ). Genre: tekstyle
 
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- New Beat. Originated: mid-1980s
-- Belgian Techno. Originated: early 1990s
-- Jumpstyle. Originated: late 1990s
-- Tekstyle. Originated: mid-2000s
+- 🇧🇪 Belgian Techno. Originated: early 1990s
+- 🌐 New Beat. Originated: mid-1980s
+- 🌐 Jumpstyle. Originated: late 1990s
+- 🌐 Tekstyle. Originated: mid-2000s
 
 
 <b>🍽️ Local food & drinks: </b>
@@ -167,14 +167,14 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🍰 Belgian Pralines <i>(Pralines Belges / Belgische Pralines)</i>
 </br>
 <u>Flanders - Regional Special:</u> 
-- 🍲 Waterzooi <i>(Waterzooi)</i>
-- 🥘 Shrimp Croquettes <i>(Garnaalkroketten)</i>
-- 🥘 Flemish Stew <i>(Stoofvlees)</i>
-- 🥘 Stoemp <i>(Stoemp)</i>
-- 🥘 Asperges à la Flamande <i>(Vlaamse Asperges)</i>
-- 🥘 Eel in the Green <i>(Paling in 't Groen)</i>
-- 🍰 Mattentaart <i>(Mattentaart)</i>
-- 🍰 Cuberdon <i>(Cuberdon)</i>
+- 🍲5️⃣ Waterzooi <i>(Waterzooi)</i>
+- 🥘5️⃣ Shrimp Croquettes <i>(Garnaalkroketten)</i>
+- 🥘5️⃣ Flemish Stew <i>(Stoofvlees)</i>
+- 🥘5️⃣ Stoemp <i>(Stoemp)</i>
+- 🥘5️⃣ Asperges à la Flamande <i>(Vlaamse Asperges)</i>
+- 🥘5️⃣ Eel in the Green <i>(Paling in 't Groen)</i>
+- 🍰5️⃣ Mattentaart <i>(Mattentaart)</i>
+- 🍰5️⃣ Cuberdon <i>(Cuberdon)</i>
 
 <b>🎬 Local movies:</b>
 - 🕵️ In Bruges <i>(In Bruges)</i>. Year: 2008. Genre: thriller

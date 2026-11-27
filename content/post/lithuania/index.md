@@ -114,7 +114,7 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - 🌐 Lion Ceccah (singer). Genre: art pop
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Slap House. Originated: late 2010s
+- 🌐 Slap House. Originated: late 2010s
 
 <b>🍽️ Local food & drinks: </b>
 - 🥓 Skilandis Sausage <i>(Kindziukas)</i>
@@ -131,7 +131,8 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - 🍶 Lithuanian Lager Beer <i>(Brand: "Kalnapilis")</i>
 </br> 
 <u>Vilnius - Regional Special:</u> 
-- 🥙 Karaite Kibinai <i>(Kibinai / Kybynlar)</i>
+- 🥙4️⃣ Karaite Kibinai <i>(Kibinai / Kybynlar)</i>
+- 🥙4️⃣ Karaite Kiubete <i>(Kiubėtė / Kiubete)</i>
 
 
 <b>🎬 Local movies:</b>
