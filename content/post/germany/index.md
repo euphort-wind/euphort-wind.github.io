@@ -284,9 +284,10 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🥘3️⃣ Leberkäse <i>(Fleischkäse / Lebakaas)</i>
 - 🥘3️⃣ Weißwurst <i>(Weißwurst / Weißwuascht)</i>
 - 🥘3️⃣ Schweinshaxe <i>(Schweinshaxe / Schweinshaxn)</i>
-- 🥘3️⃣ Schweinsbraten with Beer Sauce <i>(Schweinsbraten mit Biersauce / Schweinsbratn mit Biersoß) </i>
+- 🥘3️⃣ Schweinsbraten <i>(Schweinsbraten / Schweinsbratn)</i>
 - 🥘3️⃣ Bavarian Cabbage <i>(Bayrisch Kraut / Bayrischkraut)</i>
 - 🥫3️⃣ Bavarian Sweet Mustard <i>(Bayerischer Süßer Senf / Boarischa Siaßa Semf)</i>
+- 🥫3️⃣ Bavarian Beer Sauce <i>(Biersauce / Biersoß)</i>
 - 🍶3️⃣ Hefeweizen Beer <i>(Brands: "Hofbräu München", "Paulaner", "Erdinger", "Weihenstephaner")</i>
 
 

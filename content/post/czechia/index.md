@@ -110,17 +110,17 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 
 
 <b>🎧 Local musicians: </b>
-- 🇨🇿 SLZA (duo). Genre: pop
-- 🇨🇿 Ewa Farna (singer). Genre: pop rock
-- 🇨🇿 Monika Bagárová (singer). Genre: pop
-- 🇨🇿 Vypsaná FiXa (band). Genre: pop punk
-- 🇨🇿 Michal Hrůza (singer). Genre: pop
-- 🇨🇿 Marie Puttnerová (singer). Genre: folk pop
-- 🇨🇿 Blue Cimbal (band). Genre: pop rock
-- 🇨🇿 Aneta Langerová (singer). Genre: pop 
-- 🌐 Driftmoon (DJ). Genre: uplifting trance
-- 🌐 Daniel Žižka (singer). Genre: pop
-- 🌐 Dan Bárta (singer). Genre: jazz pop
+- 🇨🇿 &nbsp;SLZA (duo). Genre: pop
+- 🇨🇿 &nbsp;Ewa Farna (singer). Genre: pop rock
+- 🇨🇿 &nbsp;Monika Bagárová (singer). Genre: pop
+- 🇨🇿 &nbsp;Vypsaná FiXa (band). Genre: pop punk
+- 🇨🇿 &nbsp;Michal Hrůza (singer). Genre: pop
+- 🇨🇿 &nbsp;Marie Puttnerová (singer). Genre: folk pop
+- 8️⃣ Blue Cimbal (band). Genre: pop rock
+- 8️⃣ Aneta Langerová (singer). Genre: pop 
+- 🌐 &nbsp;Driftmoon (DJ). Genre: uplifting trance
+- 🌐 &nbsp;Daniel Žižka (singer). Genre: pop
+- 🌐 &nbsp;Dan Bárta (singer). Genre: jazz pop
 
 
 <b>🍽️ Local food & drinks: </b>

@@ -141,26 +141,32 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 
 
 <b>🎧 Local musicians: </b>
-- 🇵🇱 Brodka (singer). Genre: pop
-- 🇵🇱 Jula (singer). Genre: pop
-- 🇵🇱 Myslovitz (band). Genre: rock
-- 🇵🇱 Natalia Przybysz (singer). Genre: R&B
-- 🇵🇱 LemON (band). Genre: rock
-- 🇵🇱 Oskar Cyms (singer). Genre: pop
-- 🇵🇱 Justyna Steczkowska (singer). Genre: pop
-- 🇵🇱 Krzikopa (band). Genre: folk
-- 🇵🇱 IGO (singer). Genre: pop
-- 🇵🇱 Patrick the Pan (singer). Genre: indie pop
-- 🇵🇱 Zenek Martyniuk (singer). Genre: disco polo
-- 🇵🇱 SKOLIM (singer). Genre: disco polo
-- 🌐 C-Bool (DJ). Genre: house
-- 🌐 Tom Swoon (DJ). Genre: progressive house
-- 🌐 Alicja (singer). Genre: pop
-- 🌐 WIXAPOL S.A. (DJ band). Genre: wixa
+- 🇵🇱 &nbsp;Brodka (singer). Genre: pop
+- 🇵🇱 &nbsp;Jula (singer). Genre: pop
+- 🇵🇱 &nbsp;Myslovitz (band). Genre: rock
+- 🇵🇱 &nbsp;Natalia Przybysz (singer). Genre: R&B
+- 🇵🇱 &nbsp;LemON (band). Genre: rock
+- 🇵🇱 &nbsp;Oskar Cyms (singer). Genre: pop
+- 🇵🇱 &nbsp;Justyna Steczkowska (singer). Genre: pop
+- 🇵🇱 &nbsp;IGO (singer). Genre: pop
+- 🇵🇱 &nbsp;Patrick the Pan (singer). Genre: indie pop
+- 🇵🇱 &nbsp;Zenek Martyniuk (singer). Genre: disco polo
+- 🇵🇱 &nbsp;SKOLIM (singer). Genre: disco polo
+- 🇵🇱 &nbsp;WIXAPOL S.A. (DJ band). Genre: wixa
+- 9️⃣ Weronika Korthals (singer). Genre: pop rock
+- 9️⃣ Natalia Szroeder (singer). Genre: pop
+- 9️⃣ The Damrockers (band). Genre: folk-rock
+- 🔟 Frele (band). Genre: pop rock
+- 🔟 Krzikopa (band). Genre: folk
+- 🔢 Zakopower (band). Genre: folk-pop
+- 🌐 &nbsp;C-Bool (DJ). Genre: house
+- 🌐 &nbsp;Tom Swoon (DJ). Genre: progressive house
+- 🌐 &nbsp;Alicja (singer). Genre: pop
+
 
 <b>🎚️ Contribution to Electronic Music:</b>
-- Disco Polo. Originated: late 1980s
-- Wixa Music. Originated: early 2000s
+- 🇵🇱 Disco Polo. Originated: late 1980s
+- 🇵🇱 Wixa Music. Originated: early 2000s
 
 
 <b>🍽️ Local food & drinks: </b>
@@ -195,31 +201,32 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 🍶 Polish Nalewka <i>(Brands: "Lubelska Wiśniówka", "Soplica Orzech Laskowy")</i>
 </br>
 <u>Pomerania - Regional Special:</u> 
-- 🥓 Kashubian Pickled  Herring <i>(Śledzie po Kaszubsku / Szledz po Kaszëbskù)</i>
-- 🍰 Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
+- 🥓9️⃣ Kashubian Pickled  Herring <i>(Śledzie po Kaszubsku / Szledz po Kaszëbskù)</i>
+- 🍰9️⃣ Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
 </br>
 <u>Silesia - Regional Special:</u> 
-- 🥓 Krupniok Śląski <i>(Krupniok Śląski / Krupniok)</i>
-- 🥗 Szałot <i>(Szałot / Szałot)</i>
-- 🍲 Wodzianka <i>(Wodzianka / Wodźůnka)</i>
-- 🥘 Silesian Dumplings <i>(Kluski Śląskie / Gůmiklyjzy)</i>
-- 🥘 Silesian Roulade <i>(Rolada Śląska / Rolada)</i>
-- 🥘 Karminadle <i>(Karminadle / Gehaktyz)</i>
-- 🍰 Streuselkuchen <i>(Kołocz Śląski / Kołoc)</i>
-- 🍰 Szpajza <i>(Szpajza / Szpajza)</i>
-- 🍰 Kopalnioki <i>(Kopalnioki / Kopalnioki)</i>
-- 🍰 Makówki <i>(Makówki / Makůwki)</i>
-- 🧀 Hauskyjza <i>(Ser Domowy / Hauskyjza)</i>
+- 🥓🔟 Krupniok Śląski <i>(Krupniok Śląski / Krupniok)</i>
+- 🥗🔟 Szałot <i>(Szałot / Szałot)</i>
+- 🍲🔟 Wodzianka <i>(Wodzianka / Wodźůnka)</i>
+- 🥘🔟 Silesian Dumplings <i>(Kluski Śląskie / Gůmiklyjzy)</i>
+- 🥘🔟 Silesian Roulade <i>(Rolada Śląska / Rolada)</i>
+- 🥘🔟 Karminadle <i>(Karminadle / Gehaktyz)</i>
+- 🍰🔟 Streuselkuchen <i>(Kołocz Śląski / Kołoc)</i>
+- 🍰🔟 Szpajza <i>(Szpajza / Szpajza)</i>
+- 🍰🔟 Kopalnioki <i>(Kopalnioki / Kopalnioki)</i>
+- 🍰🔟 Makówki <i>(Makówki / Makůwki)</i>
+- 🧀🔟 Hauskyjza <i>(Ser Domowy / Hauskyjza)</i>
 </br>
 <u>Lesser Poland - Regional Special:</u> 
 - 🥓 Kraków Sausage <i>(Kiełbasa Krakowska)</i>
 - 🥙 Maczanka Krakowska <i>(Maczanka Krakowska)</i>
-- 🍲 Góral Kwaśnica <i>(Góralska Kwaśnica)</i>
-- 🥘 Góral Moskole <i>(Góralskie Moskole)</i>
-- 🧀 Oscypek <i>(Oscypek)</i>
-- 🧀 Gołka <i>(Gołka)</i>
-- 🧀 Redykołka <i>(Redykołka)</i>
 - 🫓 Obwarzanek Krakowski <i>(Obwarzanek)</i>
+- 🍲🔢 Góral Kwaśnica <i>(Góralska Kwaśnica)</i>
+- 🥘🔢 Góral Moskole <i>(Góralskie Moskole)</i>
+- 🧀🔢 Oscypek <i>(Oscypek)</i>
+- 🧀🔢 Gołka <i>(Gołka)</i>
+- 🧀🔢 Redykołka <i>(Redykołka)</i>
+
 
 
 <b>🎬 Local movies:</b>
@@ -227,6 +234,7 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 🕰️ Forgotten Love <i>(Znachor)</i>. Year: 2023. Genre: history / drama 
 - 🕰️ The Peasants <i>(Chłopi)</i>. Year: 2023. Genre: history / drama 
 - 🥲 Mug <i>(Twarz)</i>. Year: 2018. Genre: drama
+
 
 <b>🪔 Authentic features:</b>
 - 🐦‍🔥 Polish Folklore <i>(Folklor Polski)</i>
