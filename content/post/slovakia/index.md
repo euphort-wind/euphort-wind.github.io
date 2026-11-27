@@ -106,13 +106,14 @@ Hej! Here's a glimpse into my experiences in enchanting Slovakia, which I visite
 
 
 <b>🎧 Local musicians: </b>
-- 🇸🇰 Sara Rikas (singer). Genre: R&B
-- 🇸🇰 Zuzana Smatanová (singer). Genre: pop
-- 🇸🇰 Katarína Máliková (singer). Genre: pop
-- 🇸🇰 Separ (singer). Genre: hip-hop
-- 🇸🇰 Sima (singer). Genre: pop
-- 🌐 Nifra (DJ). Genre: progressive trance
-- 🌐 Adéla (singer). Genre: pop
+- 🇸🇰 &nbsp;Sara Rikas (singer). Genre: R&B
+- 🇸🇰 &nbsp;Zuzana Smatanová (singer). Genre: pop
+- 🇸🇰 &nbsp;Katarína Máliková (singer). Genre: pop
+- 🇸🇰 &nbsp;Separ (singer). Genre: hip-hop
+- 🇸🇰 &nbsp;Sima (singer). Genre: pop
+- 🛅 Štefan Štec (singer). Genre: folk
+- 🌐 &nbsp;Nifra (DJ). Genre: progressive trance
+- 🌐 &nbsp;Adéla (singer). Genre: pop
 
 <b>🍽️ Local food & drinks: </b>
 - 🥗 Liptauer <i>(Liptauer)</i> 
@@ -132,6 +133,7 @@ Hej! Here's a glimpse into my experiences in enchanting Slovakia, which I visite
 - 🧀 Oštiepok <i>(Oštiepok)</i>
 - 🧀 Parenica <i>(Parenica)</i>
 - 🍶 Borovička <i>(Brand: "Spišská")</i>
+- 🛅🍲 Mačanka Soup <i>(Rusínska Mačanka / Мачанка)</i>
 </br>
 <u>Bratislava - Regional Special:</u> 
 - 🧀 Bratislavský Rožok <i>(Bratislavský Rožok)</i>

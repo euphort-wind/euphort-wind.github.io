@@ -154,7 +154,7 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 <b>🎚️ Contribution to Electronic Music: </b>
 - 🇷🇴&nbsp; Modern Manele (Ethnotronica). Originated: early 1990s
 - 🇷🇴&nbsp; Romanian Popcorn. Originated: late 2000s
-- 🌐 Rominimal. Originated: early 2000s
+- 🌐&nbsp; Rominimal. Originated: early 2000s
 
 
 <b>🍽️ Local food & drinks: </b>
