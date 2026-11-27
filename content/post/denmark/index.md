@@ -114,7 +114,7 @@ Hej! Here's a glimpse into my experiences in marvelous Denmark, which I visited 
 - 🌐 MØ (singer). Genre: pop
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Future Rave. Originated: late 2010s
+- 🌐 Future Rave. Originated: late 2010s
 
 <b>🍽️ Local food & drinks: </b>
 - 🥓 Flæskesvær Snack <i>(Flæskesvær)</i>

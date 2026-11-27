@@ -135,7 +135,9 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
 - 🍰 Pulla Bread <i>(Nisu)</i>
 - 🥫 Egg Butter <i>(Munavoi)</i>
 - 🍶 Finnish Lonkero <i>(Brand: "Hartwall Original")</i>
-- 🍶 Finnish Liqueur <i>(Brand: "Minttu")</i><br>
+- 🍶 Finnish Liqueur <i>(Brand: "Minttu")</i>
+- 🥘2️⃣ Sami Bidos <i>(Bidos / Biđos)</i>
+<br>
 <u>Uusimaa - Regional Special:</u>
 - 🍰 Runeberg Torte <i>(Runebergintorttu)</i><br>
 <u>Ostrobothnia - Regional Special:</u>
