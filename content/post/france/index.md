@@ -178,9 +178,9 @@ Hej! Here's a glimpse into my experiences in beautiful France, which I visited i
 
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- French House. Originated: mid-1990s
-- Frenchcore. Originated: mid-1990s
-- Synthwave. Originated: mid-2000s
+- 🌐 French House. Originated: mid-1990s
+- 🌐 Frenchcore. Originated: mid-1990s
+- 🌐 Synthwave. Originated: mid-2000s
 
 
 <b>🍽️ Local food & drinks: </b>

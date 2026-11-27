@@ -150,71 +150,72 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇩🇪 Rammstein (band). Genre: industrial metal
-- 🇩🇪 Tokio Hotel (band). Genre: glam rock
-- 🇩🇪 Die Ärzte (band). Genre: pop punk
-- 🇩🇪 Bakkushan (band). Genre: indie rock
-- 🇩🇪 Johannes Oerding (singer). Genre: pop
-- 🇩🇪 Herbert Grönemeyer (singer). Genre: pop rock
-- 🇩🇪 Max Giesinger (singer). Genre: pop
-- 🇩🇪 Nina Chuba (singer). Genre: pop
-- 🇩🇪 Stefanie Kloß (singer). Genre: pop
-- 🇩🇪 Nena (singer). Genre: europop
-- 🇩🇪 Kyau & Albert (DJ duo). Genre: trance
-- 🇩🇪 Alex C (DJ). Genre: eurodance
-- 🇩🇪 Jasper Forks (DJ). Genre: house
-- 🇩🇪 Ich + Ich (duo). Genre: pop
-- 🇩🇪 Juli (band). Genre: alt-rock
-- 🇩🇪 LaFee (singer). Genre: pop
-- 🇩🇪 Revolverheld (band). Genre: pop rock
-- 🇩🇪 Oimara (singer). Genre: pop rock
-- 🇩🇪 Orange Sector (band). Genre: EBM
-- 🇩🇪 KlangKuenstler (DJ). Genre: schranz
-- 🇩🇪 MilleniumKid (DJ). Genre: synth-pop
-- 🌐 Scorpions (band). Genre: hard rock
-- 🌐 Modern Talking (duo). Genre: europop
-- 🌐 Roger Shah (DJ). Genre: balearic trance
-- 🌐 Scooter (band). Genre: happy hardcore
-- 🌐 ATB (DJ). Genre: progressive house
-- 🌐 Paul van Dyk (DJ). Genre: uplifting trance
-- 🌐 Cosmic Gate (DJ duo). Genre: tech trance
-- 🌐 Marlon Hoffstadt (DJ). Genre: house
-- 🌐 La Bouche (duo). Genre: eurodance
-- 🌐 Cascada (band). Genre: eurodance
-- 🌐 Robin Schulz (DJ). Genre: house
-- 🌐 Schiller (DJ band). Genre: ambient
-- 🌐 Cinema Bizarre (band). Genre: glam rock
-- 🌐 Hans Zimmer (composer). Genre: film score
-- 🌐 Bad Boys Blue (band). Genre: europop
-- 🌐 Timo Maas (DJ). Genre: progressive house
-- 🌐 Boney M (band). Genre: disco
-- 🌐 C. C. Catch (singer). Genre: europop
-- 🌐 Enigma (band). Genre: new age
-- 🌐 Tangerine Dream (band). Genre: kosmische
-- 🌐 Jam & Spoon (DJ duo). Genre: classic trance
-- 🌐 Kai Tracid (DJ). Genre: acid trance
-- 🌐 DJ Dean (DJ). Genre: hard trance
-- 🌐 Fischerspooner (DJ). Genre: electroclash
-- 🌐 Wolfgang Voigt (DJ). Genre: minimal techno
-- 🌐 Porter Ricks (DJ duo). Genre: dub techno
-- 🌐 Jan Jelinek (DJ). Genre: glitch
-- 🌐 Path of Samsara (band). Genre: stoner rock  
+- 🇩🇪 &nbsp;Rammstein (band). Genre: industrial metal
+- 🇩🇪 &nbsp;Tokio Hotel (band). Genre: glam rock
+- 🇩🇪 &nbsp;Die Ärzte (band). Genre: pop punk
+- 🇩🇪 &nbsp;Bakkushan (band). Genre: indie rock
+- 🇩🇪 &nbsp;Johannes Oerding (singer). Genre: pop
+- 🇩🇪 &nbsp;Herbert Grönemeyer (singer). Genre: pop rock
+- 🇩🇪 &nbsp;Max Giesinger (singer). Genre: pop
+- 🇩🇪 &nbsp;Nina Chuba (singer). Genre: pop
+- 🇩🇪 &nbsp;Stefanie Kloß (singer). Genre: pop
+- 🇩🇪 &nbsp;Nena (singer). Genre: europop
+- 🇩🇪 &nbsp;Kyau & Albert (DJ duo). Genre: trance
+- 🇩🇪 &nbsp;Alex C (DJ). Genre: eurodance
+- 🇩🇪 &nbsp;Jasper Forks (DJ). Genre: house
+- 🇩🇪 &nbsp;Ich + Ich (duo). Genre: pop
+- 🇩🇪 &nbsp;Juli (band). Genre: alt-rock
+- 🇩🇪 &nbsp;LaFee (singer). Genre: pop
+- 🇩🇪 &nbsp;Revolverheld (band). Genre: pop rock
+- 🇩🇪 &nbsp;Orange Sector (band). Genre: EBM
+- 🇩🇪 &nbsp;KlangKuenstler (DJ). Genre: schranz
+- 🇩🇪 &nbsp;MilleniumKid (DJ). Genre: synth-pop
+- 3️⃣ Oimara (singer). Genre: pop rock
+- 3️⃣ Claudia Koreck (singer). Genre: pop rock
+- 🌐 &nbsp;Scorpions (band). Genre: hard rock
+- 🌐 &nbsp;Modern Talking (duo). Genre: europop
+- 🌐 &nbsp;Roger Shah (DJ). Genre: balearic trance
+- 🌐 &nbsp;Scooter (band). Genre: happy hardcore
+- 🌐 &nbsp;ATB (DJ). Genre: progressive house
+- 🌐 &nbsp;Paul van Dyk (DJ). Genre: uplifting trance
+- 🌐 &nbsp;Cosmic Gate (DJ duo). Genre: tech trance
+- 🌐 &nbsp;Marlon Hoffstadt (DJ). Genre: house
+- 🌐 &nbsp;La Bouche (duo). Genre: eurodance
+- 🌐 &nbsp;Cascada (band). Genre: eurodance
+- 🌐 &nbsp;Robin Schulz (DJ). Genre: house
+- 🌐 &nbsp;Schiller (DJ band). Genre: ambient
+- 🌐 &nbsp;Cinema Bizarre (band). Genre: glam rock
+- 🌐 &nbsp;Hans Zimmer (composer). Genre: film score
+- 🌐 &nbsp;Bad Boys Blue (band). Genre: europop
+- 🌐 &nbsp;Timo Maas (DJ). Genre: progressive house
+- 🌐 &nbsp;Boney M (band). Genre: disco
+- 🌐 &nbsp;C. C. Catch (singer). Genre: europop
+- 🌐 &nbsp;Enigma (band). Genre: new age
+- 🌐 &nbsp;Tangerine Dream (band). Genre: kosmische
+- 🌐 &nbsp;Jam & Spoon (DJ duo). Genre: classic trance
+- 🌐 &nbsp;Kai Tracid (DJ). Genre: acid trance
+- 🌐 &nbsp;DJ Dean (DJ). Genre: hard trance
+- 🌐 &nbsp;Fischerspooner (DJ). Genre: electroclash
+- 🌐 &nbsp;Wolfgang Voigt (DJ). Genre: minimal techno
+- 🌐 &nbsp;Porter Ricks (DJ duo). Genre: dub techno
+- 🌐 &nbsp;Jan Jelinek (DJ). Genre: glitch
+- 🌐 &nbsp;Path of Samsara (band). Genre: stoner rock  
 
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Kosmische Musik. Originated: early 1970s
-- Electronic Body Music. Originated: early 1980s
-- Classic Trance. Originated: late 1980s
-- Eurodance. Originated: late 1980s
-- Acid Trance. Originated: early 1990s
-- Hard Trance. Originated: early 1990s
-- Glitch. Originated: early 1990s
-- Electroclash. Originated: early 1990s
-- Dub Techno. Originated: early 1990s
-- Minimal Techno. Originated: early 1990s
-- Schranz. Originated: mid-1990s
-- Tech Trance. Originated: mid-1990s
-- Progressive Trance. Originated: early 2000s
+- 🇩🇪 &nbsp;Electroclash. Originated: early 1990s
+- 🇩🇪 &nbsp;Schranz. Originated: mid-1990s
+- 🇩🇪 &nbsp;Electronic Body Music. Originated: early 1980s
+- 🌐 &nbsp;Classic Trance. Originated: late 1980s
+- 🌐 &nbsp;Eurodance. Originated: late 1980s
+- 🌐 &nbsp;Kosmische Musik. Originated: early 1970s
+- 🌐 &nbsp;Acid Trance. Originated: early 1990s
+- 🌐 &nbsp;Hard Trance. Originated: early 1990s
+- 🌐 &nbsp;Glitch. Originated: early 1990s
+- 🌐 &nbsp;Dub Techno. Originated: early 1990s
+- 🌐 &nbsp;Minimal Techno. Originated: early 1990s
+- 🌐 &nbsp;Tech Trance. Originated: mid-1990s
+- 🌐 &nbsp;Progressive Trance. Originated: early 2000s
 
 
 
@@ -276,17 +277,17 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🍶 Kölsch Ale <i>(Brands: "Gaffel Kölsch", "Früh Kölsch")</i>
 </br>
 <u>Bavaria - Regional Special:</u>
-- 🥓 Gelbwurst <i>(Gelbwurst / Gelbwuascht)</i>
-- 🥗 Rettichsalat <i>(Rettichsalat / Radisalat)</i>
-- 🥗 Obatzda <i>(Obatzda / Obazda)</i>
-- 🥗 Kartoffelkäse <i>(Kartoffelkäse / Erdäpfelkäse)</i>
-- 🥘 Leberkäse <i>(Fleischkäse / Lebakaas)</i>
-- 🥘 Weißwurst <i>(Weißwurst / Weißwuascht)</i>
-- 🥘 Schweinshaxe <i>(Schweinshaxe / Schweinshaxn)</i>
-- 🥘 Schweinsbraten with Beer Sauce <i>(Schweinsbraten mit Biersauce / Schweinsbratn mit Biersoß) </i>
-- 🥘 Bavarian Cabbage <i>(Bayrisch Kraut / Bayrischkraut)</i>
-- 🥫 Bavarian Sweet Mustard <i>(Bayerischer Süßer Senf / Boarischa Siaßa Semf)</i>
-- 🍶 Hefeweizen Beer <i>(Brands: "Hofbräu München", "Paulaner", "Erdinger", "Weihenstephaner")</i>
+- 🥓3️⃣ Gelbwurst <i>(Gelbwurst / Gelbwuascht)</i>
+- 🥗3️⃣ Rettichsalat <i>(Rettichsalat / Radisalat)</i>
+- 🥗3️⃣ Obatzda <i>(Obatzda / Obazda)</i>
+- 🥗3️⃣ Kartoffelkäse <i>(Kartoffelkäse / Erdäpfelkäse)</i>
+- 🥘3️⃣ Leberkäse <i>(Fleischkäse / Lebakaas)</i>
+- 🥘3️⃣ Weißwurst <i>(Weißwurst / Weißwuascht)</i>
+- 🥘3️⃣ Schweinshaxe <i>(Schweinshaxe / Schweinshaxn)</i>
+- 🥘3️⃣ Schweinsbraten with Beer Sauce <i>(Schweinsbraten mit Biersauce / Schweinsbratn mit Biersoß) </i>
+- 🥘3️⃣ Bavarian Cabbage <i>(Bayrisch Kraut / Bayrischkraut)</i>
+- 🥫3️⃣ Bavarian Sweet Mustard <i>(Bayerischer Süßer Senf / Boarischa Siaßa Semf)</i>
+- 🍶3️⃣ Hefeweizen Beer <i>(Brands: "Hofbräu München", "Paulaner", "Erdinger", "Weihenstephaner")</i>
 
 
 <b>🎬 Local movies:</b>

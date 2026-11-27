@@ -135,57 +135,57 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇳🇱 André Hazes (singer). Genre: pop
-- 🇳🇱 De Poema's (band). Genre: pop
-- 🇳🇱 Twarres (band). Genre: pop
-- 🇳🇱 Van Dik Hout (band). Genre: pop
-- 🇳🇱 Antoon (singer). Genre: pop
-- 🇳🇱 Maan (singer). Genre: pop
-- 🇳🇱 Volumia! (band). Genre: pop
-- 🇳🇱 Suzan & Freek (duo). Genre: pop
-- 🇳🇱 Kris Kross Amsterdam (DJ band). Genre: house
-- 🌐 Armin van Buuren (DJ). Genre: uplifting trance
-- 🌐 Tiësto (DJ). Genre: house
-- 🌐 Tony Junior (DJ). Genre: bass house
-- 🌐 San Holo (DJ). Genre: future bass
-- 🌐 Ferry Corsten (DJ). Genre: uplifting trance
-- 🌐 Ruben de Ronde (DJ). Genre: trance
-- 🌐 Martin Garrix (DJ). Genre: big room
-- 🌐 Oliver Heldens (DJ). Genre: future house
-- 🌐 HI-LO (DJ). Genre: bass house
-- 🌐 Don Diablo (DJ). Genre: future house
-- 🌐 Hardwell (DJ). Genre: dutch house
-- 🌐 R3hab (DJ). Genre: dutch house
-- 🌐 Fedde le Grand (DJ). Genre: dutch house
-- 🌐 Nicky Romero (DJ). Genre: progressive house 
-- 🌐 Sander van Doorn (DJ). Genre: electro house 
-- 🌐 Eelke Kleijn (DJ). Genre: progressive house
-- 🌐 W&W (DJ duo). Genre: big room
-- 🌐 Vicetone (DJ duo). Genre: dutch house
-- 🌐 Richard Durand (DJ). Genre: trance 
-- 🌐 Dr. Peacock (DJ). Genre: gabber
-- 🌐 Headhunterz (DJ). Genre: hardstyle
-- 🌐 Justin Mylo (DJ). Genre: future bounce
-- 🌐 Bakermat (DJ). Genre: funky house
-- 🌐 Joe Stone (DJ). Genre: deep house 
-- 🌐 Wiwek (DJ). Genre: jungle terror
-- 🌐 Sam Feldt (DJ). Genre: tropical house 
-- 🌐 Sharon den Adel (singer). Genre: trance 
-- 🌐 Kensington (band). Genre: rock
-- 🌐 Rondé (band). Genre: indie pop
-- 🌐 Radical Redemption (DJ). Genre: rawstyle
+- 🇳🇱 &nbsp;André Hazes (singer). Genre: pop
+- 🇳🇱 &nbsp;De Poema's (band). Genre: pop
+- 🇳🇱 &nbsp;Van Dik Hout (band). Genre: pop
+- 🇳🇱 &nbsp;Antoon (singer). Genre: pop
+- 🇳🇱 &nbsp;Maan (singer). Genre: pop
+- 🇳🇱 &nbsp;Volumia! (band). Genre: pop
+- 🇳🇱 &nbsp;Suzan & Freek (duo). Genre: pop
+- 🇳🇱 &nbsp;Kris Kross Amsterdam (DJ band). Genre: house
+- 7️⃣ Twarres (band). Genre: pop
+- 🌐 &nbsp;Armin van Buuren (DJ). Genre: uplifting trance
+- 🌐 &nbsp;Tiësto (DJ). Genre: house
+- 🌐 &nbsp;Tony Junior (DJ). Genre: bass house
+- 🌐 &nbsp;San Holo (DJ). Genre: future bass
+- 🌐 &nbsp;Ferry Corsten (DJ). Genre: uplifting trance
+- 🌐 &nbsp;Ruben de Ronde (DJ). Genre: trance
+- 🌐 &nbsp;Martin Garrix (DJ). Genre: big room
+- 🌐 &nbsp;Oliver Heldens (DJ). Genre: future house
+- 🌐 &nbsp;HI-LO (DJ). Genre: bass house
+- 🌐 &nbsp;Don Diablo (DJ). Genre: future house
+- 🌐 &nbsp;Hardwell (DJ). Genre: dutch house
+- 🌐 &nbsp;R3hab (DJ). Genre: dutch house
+- 🌐 &nbsp;Fedde le Grand (DJ). Genre: dutch house
+- 🌐 &nbsp;Nicky Romero (DJ). Genre: progressive house 
+- 🌐 &nbsp;Sander van Doorn (DJ). Genre: electro house 
+- 🌐 &nbsp;Eelke Kleijn (DJ). Genre: progressive house
+- 🌐 &nbsp;W&W (DJ duo). Genre: big room
+- 🌐 &nbsp;Vicetone (DJ duo). Genre: dutch house
+- 🌐 &nbsp;Richard Durand (DJ). Genre: trance 
+- 🌐 &nbsp;Dr. Peacock (DJ). Genre: gabber
+- 🌐 &nbsp;Headhunterz (DJ). Genre: hardstyle
+- 🌐 &nbsp;Justin Mylo (DJ). Genre: future bounce
+- 🌐 &nbsp;Bakermat (DJ). Genre: funky house
+- 🌐 &nbsp;Joe Stone (DJ). Genre: deep house 
+- 🌐 &nbsp;Wiwek (DJ). Genre: jungle terror
+- 🌐 &nbsp;Sam Feldt (DJ). Genre: tropical house 
+- 🌐 &nbsp;Sharon den Adel (singer). Genre: trance 
+- 🌐 &nbsp;Kensington (band). Genre: rock
+- 🌐 &nbsp;Rondé (band). Genre: indie pop
+- 🌐 &nbsp;Radical Redemption (DJ). Genre: rawstyle
 
 
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Gabber. Originated: early 1990s
-- Hardstyle. Originated: late 1990s
-- Uplifting Trance. Originated: mid-1990s
-- Dutch House. Originated: late 2000s
-- Big Room. Originated: late 2000s
-- Rawstyle. Originated: early 2010s
-- Jungle Terror. Originated: early 2010s
-- Future Bounce. Originated: mid-2010s
+- 🇳🇱 &nbsp;Gabber. Originated: early 1990s
+- 🌐 &nbsp;Hardstyle. Originated: late 1990s
+- 🌐 &nbsp;Uplifting Trance. Originated: mid-1990s
+- 🌐 &nbsp;Dutch House. Originated: late 2000s
+- 🌐 &nbsp;Big Room. Originated: late 2000s
+- 🌐 &nbsp;Rawstyle. Originated: early 2010s
+- 🌐 &nbsp;Jungle Terror. Originated: early 2010s
+- 🌐 &nbsp;Future Bounce. Originated: mid-2010s
 
 
 <b>🍽️ Local food & drinks: </b>
@@ -225,10 +225,10 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🍰 Haagse Bluf <i>(Haagse Bluf)</i>
 - 🧀 Maasdam <i>(Maasdamer)</i></br>
 <u>Friesland - Regional Special:</u>
-- 🍰 Oranjekoek <i>(Oranjekoek / Oranjekoeke)</i>
-- 🍰 Fryske Dúmkes <i>(Fryske Dúmkes / Dúmkes)</i>
-- 🍰 Suikerbrood <i>(Suikerbrood / Sûkerbôle)</i>
-- 🧀 Kanterkaas <i>(Kanterkaas / Kanterkaas)</i>
+- 🍰7️⃣ Oranjekoek <i>(Oranjekoek / Oranjekoeke)</i>
+- 🍰7️⃣ Fryske Dúmkes <i>(Fryske Dúmkes / Dúmkes)</i>
+- 🍰7️⃣ Suikerbrood <i>(Suikerbrood / Sûkerbôle)</i>
+- 🧀7️⃣ Kanterkaas <i>(Kanterkaas / Kanterkaas)</i>
 
 
 
