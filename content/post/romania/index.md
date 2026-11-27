@@ -152,9 +152,9 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - 🌐&nbsp; Alexandra Căpitănescu (singer). Genre: alt-rock
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Rominimal. Originated: early 2000s
-- Romanian Popcorn. Originated: late 2000s
-- Modern Manele (Ethnotronica). Originated: early 1990s
+- 🇷🇴&nbsp; Modern Manele (Ethnotronica). Originated: early 1990s
+- 🇷🇴&nbsp; Romanian Popcorn. Originated: late 2000s
+- 🌐 Rominimal. Originated: early 2000s
 
 
 <b>🍽️ Local food & drinks: </b>
