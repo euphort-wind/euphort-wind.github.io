@@ -96,19 +96,19 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇱🇻 Antra Stafecka (singer). Genre: pop
-- 🇱🇻 Jumprava (band). Genre: pop
-- 🇱🇻 Otra Puse (band). Genre: pop
-- 🇱🇻 Tumsa (band). Genre: rock
-- 🇱🇻 Atvara (singer). Genre: pop
-- 🇱🇻 Tautumeitas (band). Genre: folk pop
-- 🌐 Brainstorm (band). Genre: pop 
-- 🌐 Laima Vaikule (singer). Genre: pop 
+- 🇱🇻  Antra Stafecka (singer). Genre: pop
+- 🇱🇻  Jumprava (band). Genre: pop
+- 🇱🇻  Otra Puse (band). Genre: pop
+- 🇱🇻  Tumsa (band). Genre: rock
+- 🇱🇻  Atvara (singer). Genre: pop
+- 🇱🇻  Tautumeitas (band). Genre: folk pop
+- 1️⃣ Līvlist (ensemble). Genre: folk
+- 🌐  Brainstorm (band). Genre: pop 
+- 🌐  Laima Vaikule (singer). Genre: pop 
 
 
 <b>🍽️ Local food & drinks: </b>
 - 🥙 Speķrauši <i>(Speķrauši)</i>
-- 🥙 Sklandrausis <i>(Sklandrausis)</i>
 - 🥘 Latvian Gray Peas with Bacon <i>(Pelēkie Zirņi)</i>
 - 🥘 Latvian Porridge <i>(Putra)</i>
 - 🍰 Layered Rye Bread <i>(Rupjmaizes Kārtojums)</i>
@@ -119,7 +119,9 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 </br>
 <u>Riga - Regional Special:</u> 
 - 🥓 Riga Smoked Sprats <i>(Rīgas Šprotes)</i>
-
+</br>
+<u>Kurzeme - Regional Special:</u>
+- 🥙1️⃣ Sklandrausis <i>(Sklandrausis / Sūrkak)</i>
 
 <b>🎬 Local movies:</b>
 - 👾 Flow <i>(Straume)</i>. Year: 2024. Genre: animation
