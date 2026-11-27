@@ -96,15 +96,15 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇱🇻  Antra Stafecka (singer). Genre: pop
-- 🇱🇻  Jumprava (band). Genre: pop
-- 🇱🇻  Otra Puse (band). Genre: pop
-- 🇱🇻  Tumsa (band). Genre: rock
-- 🇱🇻  Atvara (singer). Genre: pop
-- 🇱🇻  Tautumeitas (band). Genre: folk pop
+- 🇱🇻 &#8203;Antra Stafecka (singer). Genre: pop
+- 🇱🇻 &#8203;Jumprava (band). Genre: pop
+- 🇱🇻 &#8203;Otra Puse (band). Genre: pop
+- 🇱🇻 &#8203;Tumsa (band). Genre: rock
+- 🇱🇻 &#8203;Atvara (singer). Genre: pop
+- 🇱🇻 &#8203;Tautumeitas (band). Genre: folk pop
 - 1️⃣ Līvlist (ensemble). Genre: folk
-- 🌐  Brainstorm (band). Genre: pop 
-- 🌐  Laima Vaikule (singer). Genre: pop 
+- 🌐 &#8203;Brainstorm (band). Genre: pop 
+- 🌐 &#8203;Laima Vaikule (singer). Genre: pop 
 
 
 <b>🍽️ Local food & drinks: </b>
