@@ -98,9 +98,9 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 - 🇪🇪 Merlyn Uusküla (singer). Genre: pop
 - 🇪🇪 Getter Jaani (singer). Genre: pop
 - 🇪🇪 Puuluup (duo). Genre: folk
+- 0️⃣ Zetod (band). Genre: ethno punk
 - 🌐 Luvwn (DJ). Genre: chillhop
 - 🌐 Vanilla Ninja (band). Genre: pop rock
-<!-- 0️⃣Zetod (band). Genre: ethno punk-->
 
 
 <b>🍽️ Local food & drinks: </b>
@@ -121,8 +121,8 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 - 🍰 Tallinn Marzipan <i>(Tallinna Martsipan)</i>
 </br>
 <u>Võru - Regional Special:</u> 
-- 🍲 Seto Cold Soup <i>(Seto Külmsupp / Suulliim)</i>
-- 🧀 Seto Sõir <i>(Seto Sõir / Seto Sõir)</i>
+- 🍲0️⃣ Seto Cold Soup <i>(Seto Külmsupp / Suulliim)</i>
+- 🧀0️⃣ Seto Sõir <i>(Seto Sõir / Seto Sõir)</i>
 
 
 <b>🎬 Local movies:</b>
