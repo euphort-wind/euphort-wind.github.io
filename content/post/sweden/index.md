@@ -493,8 +493,9 @@ Hej! I’m sharing a glimpse into my life in charming Sweden. I have been living
 - 🌐 Fröken Snusk (project). Genre: epadunk
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Skweee. Originated: late 2000s
-- Epadunk. Originated: early 2020s
+- 🇸🇪 Epadunk. Originated: early 2020s
+- 🌐 Skweee. Originated: late 2000s
+
 
 
 <b>🍽️ Local food & drinks: </b>

@@ -87,25 +87,28 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇫🇮 Portion Boys (band). Genre: pop
-- 🇫🇮 Jenni & Juho (duo). Genre: pop
-- 🇫🇮 Haloo Helsinki! (band). Genre: pop rock
-- 🇫🇮 Jenni Vartiainen (singer). Genre: pop
-- 🇫🇮 Eppu Normaali (band). Genre: rock
-- 🇫🇮 Neljä Ruusua (band). Genre: rock
-- 🇫🇮 Pete Parkkonen (singer). Genre: pop
-- 🌐 HIM (band). Genre: gothic metal
-- 🌐 The Rasmus (band). Genre: alt-rock
-- 🌐 Sunrise Avenue (band). Genre: rock
-- 🌐 Darude (DJ). Genre: progressive trance
-- 🌐 Alma (singer). Genre: pop
-- 🌐 Bomfunk MC's (band). Genre: hip-hop
-- 🌐 Aavepyörä (DJ). Genre: suomisaundi
-- 🌐 Mesak (DJ). Genre: skweee
+- 🇫🇮 &nbsp;Portion Boys (band). Genre: pop
+- 🇫🇮 &nbsp;Jenni & Juho (duo). Genre: pop
+- 🇫🇮 &nbsp;Haloo Helsinki! (band). Genre: pop rock
+- 🇫🇮 &nbsp;Jenni Vartiainen (singer). Genre: pop
+- 🇫🇮 &nbsp;Eppu Normaali (band). Genre: rock
+- 🇫🇮 &nbsp;Neljä Ruusua (band). Genre: rock
+- 🇫🇮 &nbsp;Pete Parkkonen (singer). Genre: pop
+- 2️⃣ Wimme Saari (singer). Genre: electronic yoik
+- 2️⃣ Niko Valkeapää (singer). Genre: yoik
+- 🌐 &nbsp;HIM (band). Genre: gothic metal
+- 🌐 &nbsp;The Rasmus (band). Genre: alt-rock
+- 🌐 &nbsp;Sunrise Avenue (band). Genre: rock
+- 🌐 &nbsp;Darude (DJ). Genre: progressive trance
+- 🌐 &nbsp;Alma (singer). Genre: pop
+- 🌐 &nbsp;Bomfunk MC's (band). Genre: hip-hop
+- 🌐 &nbsp;Aavepyörä (DJ). Genre: suomisaundi
+- 🌐 &nbsp;Mesak (DJ). Genre: skweee
 
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Suomisaundi. Originated: mid-1990s
+- 🇫🇮 &nbsp;Suomisaundi. Originated: mid-1990s
+- 2️⃣ Electronic Yoik. Originated: mid-1990s
 
 
 <b>🍽️ Local food & drinks: </b>

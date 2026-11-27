@@ -93,14 +93,14 @@ Hej! Here's a glimpse into my experiences in cozy Estonia, which I visited in 20
 {{< /spoiler >}}  
 
 <b>🎧 Local musicians: </b>
-- 🇪🇪 &#8203;Laura Põldvere (singer). Genre: pop
-- 🇪🇪 &#8203;Mari-Leen (singer). Genre: eurodance
-- 🇪🇪 &#8203;Merlyn Uusküla (singer). Genre: pop
-- 🇪🇪 &#8203;Getter Jaani (singer). Genre: pop
-- 🇪🇪  Puuluup (duo). Genre: folk
+- 🇪🇪 &nbsp;Laura Põldvere (singer). Genre: pop
+- 🇪🇪 &nbsp;Mari-Leen (singer). Genre: eurodance
+- 🇪🇪 &nbsp;Merlyn Uusküla (singer). Genre: pop
+- 🇪🇪 &nbsp;Getter Jaani (singer). Genre: pop
+- 🇪🇪 &nbsp;Puuluup (duo). Genre: folk
 - 0️⃣ Zetod (band). Genre: ethno punk
-- 🌐 &#8203;Luvwn (DJ). Genre: chillhop
-- 🌐 &#8203;Vanilla Ninja (band). Genre: pop rock
+- 🌐 &nbsp;Luvwn (DJ). Genre: chillhop
+- 🌐 &nbsp;Vanilla Ninja (band). Genre: pop rock
 
 
 <b>🍽️ Local food & drinks: </b>
