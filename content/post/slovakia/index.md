@@ -133,7 +133,7 @@ Hej! Here's a glimpse into my experiences in enchanting Slovakia, which I visite
 - 🧀 Oštiepok <i>(Oštiepok)</i>
 - 🧀 Parenica <i>(Parenica)</i>
 - 🍶 Borovička <i>(Brand: "Spišská")</i>
-- 🛅🍲 Mačanka Soup <i>(Rusínska Mačanka / Мачанка)</i>
+- 🍲🛅 Mačanka Soup <i>(Rusínska Mačanka / Мачанка)</i>
 </br>
 <u>Bratislava - Regional Special:</u> 
 - 🧀 Bratislavský Rožok <i>(Bratislavský Rožok)</i>
