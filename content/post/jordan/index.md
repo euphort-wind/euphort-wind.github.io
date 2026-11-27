@@ -81,13 +81,14 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 {{< /spoiler >}}
 
 <b>🎧 Local musicians: </b>
-- 🇯🇴 47Soul (band). Genre: shamstep
-- 🇯🇴 Aziz Maraka (singer). Genre: pop
-- 🇯🇴 Diana Karazon (singer). Genre: pop
-- 🌐 Ayah Marar (singer). Genre: drum'n'bass
+- 🇯🇴 &nbsp;47Soul (band). Genre: shamstep
+- 🇯🇴 &nbsp;Aziz Maraka (singer). Genre: pop
+- 🇯🇴 &nbsp;Diana Karazon (singer). Genre: pop
+- 🚹 Omar Al-Abdallat (singer). Genre: folk-pop
+- 🌐 &nbsp;Ayah Marar (singer). Genre: drum'n'bass
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- Shamstep. Originated: mid-2010s
+- 🇯🇴 &nbsp;Shamstep. Originated: mid-2010s
 
 
 <b>🍽️ Local food & drinks: </b>
@@ -99,12 +100,12 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 - 🥘 Maqluba <i>(<bdi style="direction: rtl;">مقلوبة</bdi>)</i>
 - 🥘 Qalayet Bandora <i>(<bdi style="direction: rtl;">قلاية بندورة</bdi>)</i>
 - 🥘 Mansaf <i>(<bdi style="direction: rtl;">منسف</bdi>)</i>
-- 🥘 Zarb-Style Lamb <i>(<bdi style="direction: rtl;">زرب</bdi>)</i>
 - 🍰 Warbat <i>(<bdi style="direction: rtl;">وربات</bdi>)</i>
 - 🍰 Knafeh <i>(<bdi style="direction: rtl;">كنافة</bdi>)</i>
 - 🫓 Khubz <i>(<bdi style="direction: rtl;">خبز</bdi>)</i>
 - 🫓 Ka'ak <i>(<bdi style="direction: rtl;">كَعك</bdi>)</i>
 - 🍶 Arabic Tea <i>(<bdi style="direction: rtl;">شاي عربي</bdi>)</i>
+- 🥘🚹 Zarb-Style Lamb <i>(<bdi style="direction: rtl;">زرب</bdi>)</i>
 
 
 <b>🎬 Local movies:</b>

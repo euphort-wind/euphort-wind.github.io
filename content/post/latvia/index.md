@@ -101,7 +101,7 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 - 🇱🇻 &nbsp;Otra Puse (band). Genre: pop
 - 🇱🇻 &nbsp;Tumsa (band). Genre: rock
 - 🇱🇻 &nbsp;Atvara (singer). Genre: pop
-- 🇱🇻 &nbsp;Tautumeitas (band). Genre: folk pop
+- 🇱🇻 &nbsp;Tautumeitas (band). Genre: folk-pop
 - 1️⃣ Līvlist (ensemble). Genre: folk
 - 🌐 &nbsp;Brainstorm (band). Genre: pop 
 - 🌐 &nbsp;Laima Vaikule (singer). Genre: pop 

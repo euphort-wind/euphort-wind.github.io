@@ -115,7 +115,7 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 - 🇨🇿 &nbsp;Monika Bagárová (singer). Genre: pop
 - 🇨🇿 &nbsp;Vypsaná FiXa (band). Genre: pop punk
 - 🇨🇿 &nbsp;Michal Hrůza (singer). Genre: pop
-- 🇨🇿 &nbsp;Marie Puttnerová (singer). Genre: folk pop
+- 🇨🇿 &nbsp;Marie Puttnerová (singer). Genre: folk-pop
 - 8️⃣ Blue Cimbal (band). Genre: pop rock
 - 8️⃣ Aneta Langerová (singer). Genre: pop 
 - 🌐 &nbsp;Driftmoon (DJ). Genre: uplifting trance

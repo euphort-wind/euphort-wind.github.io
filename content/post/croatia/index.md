@@ -105,7 +105,7 @@ Hej! Here's a glimpse into my experiences in enchanting Croatia, which I visited
 - 🇭🇷 Valentino Bošković (band). Genre: pop
 - 🇭🇷 Jelena Rozga (singer). Genre: pop
 - 🇭🇷 Nika Turković (singer). Genre: pop
-- 🇭🇷 LELEK (band). Genre: folk pop
+- 🇭🇷 LELEK (band). Genre: folk-pop
 - 🌐 Baby Lasagna (singer). Genre: pop punk
 - 🌐 Matroda (DJ). Genre: bass house
 - 🌐 Lost Sky (singer). Genre: future bass
