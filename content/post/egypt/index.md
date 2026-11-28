@@ -97,6 +97,7 @@ Hej! Here's a glimpse into my experiences in timeless Egypt, which I visited in 
 - 🍲 Ful Nabet <i>(فول نابت)</i>
 - 🥘 Falafel <i>(طعمية)</i>
 - 🥘 Koshary <i>(كشري)</i>
+- 🥘 Fatteh <i>(فتّة)</i>
 - 🥘 Ful Medames <i>(فول مدمس)</i>
 - 🥘 Koftet el Hati <i>(كفتة الحاتي)</i>
 - 🥘 Koftet Rozz <i>(كفتة رز)</i>
