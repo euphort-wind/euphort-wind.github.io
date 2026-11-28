@@ -135,10 +135,10 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 
 
 <b>🎚️ Contribution to Electronic Music: </b>
-- 🇧🇪 Belgian Techno. Originated: early 1990s
-- 🌐 New Beat. Originated: mid-1980s
-- 🌐 Jumpstyle. Originated: late 1990s
-- 🌐 Tekstyle. Originated: mid-2000s
+- 🇧🇪 &nbsp;Belgian Techno. Originated: early 1990s
+- 🌐 &nbsp; New Beat. Originated: mid-1980s
+- 🌐 &nbsp;Jumpstyle. Originated: late 1990s
+- 🌐 &nbsp;Tekstyle. Originated: mid-2000s
 
 
 <b>🍽️ Local food & drinks: </b>
@@ -167,14 +167,14 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🍰 Belgian Pralines <i>(Pralines Belges / Belgische Pralines)</i>
 </br>
 <u>Flanders - Regional Special:</u> 
-- 🍲5️⃣ Waterzooi <i>(Waterzooi)</i>
-- 🥘5️⃣ Shrimp Croquettes <i>(Garnaalkroketten)</i>
-- 🥘5️⃣ Flemish Stew <i>(Stoofvlees)</i>
-- 🥘5️⃣ Stoemp <i>(Stoemp)</i>
-- 🥘5️⃣ Asperges à la Flamande <i>(Vlaamse Asperges)</i>
-- 🥘5️⃣ Eel in the Green <i>(Paling in 't Groen)</i>
-- 🍰5️⃣ Mattentaart <i>(Mattentaart)</i>
-- 🍰5️⃣ Cuberdon <i>(Cuberdon)</i>
+- 5️⃣🍲 Waterzooi <i>(Waterzooi)</i>
+- 5️⃣🥘 Shrimp Croquettes <i>(Garnaalkroketten)</i>
+- 5️⃣🥘 Flemish Stew <i>(Stoofvlees)</i>
+- 5️⃣🥘 Stoemp <i>(Stoemp)</i>
+- 5️⃣🥘 Asperges à la Flamande <i>(Vlaamse Asperges)</i>
+- 5️⃣🥘 Eel in the Green <i>(Paling in 't Groen)</i>
+- 5️⃣🍰 Mattentaart <i>(Mattentaart)</i>
+- 5️⃣🍰 Cuberdon <i>(Cuberdon)</i>
 
 <b>🎬 Local movies:</b>
 - 🕵️ In Bruges <i>(In Bruges)</i>. Year: 2008. Genre: thriller
@@ -211,17 +211,17 @@ Hej! Here's a glimpse into my experiences in beautiful multifaceted Belgium, whi
 - 🎭 Royal Theatre Toone <i>(Théâtre Royal de Toone / Koninklijk Poppentheater Toone)</i><br>
 <u>Flanders - Regional Special:</u>
 - 5️⃣ Culture of Flemings <i>(Vlamingen)</i>
-  - 🐦‍🔥 Flemish Folklore <i>(Vlaamse Folklore)</i>
-  - 🛠️ Flemish Diamond-Cutting <i>(Vlaamse Diamantbewerking)</i>
-  - 🛠️ Flemish Pottery <i>(Vlaams Aardewerk)</i> 
-  - 🎨 Bruges Lace <i>(Brugs Bloemwerk)</i>
-  - 🎨 Flemish Tapestry <i>(Vlaams Tapijt)</i>
-  - 🏃🏻 Vinkensport Tradition <i>(Vinkensport)</i>
-  - 🏃🏻 Horse-Back Shrimp Fishing Tradition <i>(Paardenvisserij)</i>
-  - 🏓 Bolletra Game <i>(Trabol)</i>
-  - 💃 Zevenpas Dance <i>(Zevenpas)</i>
-  - 🎙️ Flemish Polyphonic Singing <i>(Vlaamse Polyfonie)</i>
-  - 🪕 Musical Instrument: Doedelzak <i>(Doedelzak)</i>
+  - 5️⃣🐦‍🔥 Flemish Folklore <i>(Vlaamse Folklore)</i>
+  - 5️⃣🛠️ Flemish Diamond-Cutting <i>(Vlaamse Diamantbewerking)</i>
+  - 5️⃣🛠️ Flemish Pottery <i>(Vlaams Aardewerk)</i> 
+  - 5️⃣🎨 Bruges Lace <i>(Brugs Bloemwerk)</i>
+  - 5️⃣🎨 Flemish Tapestry <i>(Vlaams Tapijt)</i>
+  - 5️⃣🏃🏻 Vinkensport Tradition <i>(Vinkensport)</i>
+  - 5️⃣🏃🏻 Horse-Back Shrimp Fishing Tradition <i>(Paardenvisserij)</i>
+  - 5️⃣🏓 Bolletra Game <i>(Trabol)</i>
+  - 5️⃣💃 Zevenpas Dance <i>(Zevenpas)</i>
+  - 5️⃣🎙️ Flemish Polyphonic Singing <i>(Vlaamse Polyfonie)</i>
+  - 5️⃣🪕 Musical Instrument: Doedelzak <i>(Doedelzak)</i>
 - 🏰 Heritage of the County of Flanders <i>(Graafschap Vlaanderen / Groafschap Vloandern)</i>
 
 

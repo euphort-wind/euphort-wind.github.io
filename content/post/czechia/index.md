@@ -151,10 +151,10 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 <u>Prague-Capital - Regional Special:</u> 
 - 🥓 Prague Ham <i>(Pražská Šunka)</i></br>
 <u>South Moravia - Regional Special:</u> 
-- 🥘 Moravian Sparrow <i>(Moravský Vrabec)</i>
-- 🥘 Znojemská Pečeně <i>(Znojemská Pečeně)</i>
-- 🍰 Moravian Double-Filled Kolach <i>(Moravský Dvojctihodný Koláč)</i>
-- 🍶 Burčák Young Wine <i>(Burčák)</i>
+- 8️⃣🥘 Moravian Sparrow <i>(Moravský Vrabec)</i>
+- 8️⃣🥘 Znojemská Pečeně <i>(Znojemská Pečeně)</i>
+- 8️⃣🍰 Moravian Double-Filled Kolach <i>(Moravský Dvojctihodný Koláč)</i>
+- 8️⃣🍶 Burčák Young Wine <i>(Burčák)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -202,13 +202,13 @@ Hej! Here's a glimpse into my experiences in legendary Czech Republic, which I v
 - 🛠️ Bohemian Glassware Production <i>(Výroba Českého Skla)</i></br>
 <u>South Moravia - Regional Special:</u> 
 - 8️⃣ Culture of Moravians <i>(Moravané / Moraváci)</i>
-  - 🐦‍🔥 Legend of the Brno Dragon <i>(Legenda o Brněnském Drakovi)</i>
-  - ⛩️ Želetava Stoves <i>(Želetavská Kamna)</i>
-  - 🎑 Ride of the Kings Ritual <i>(Jízda Králů)</i>
-  - 🎑 Zarážení Hory Ritual <i>(Zarážení Hory)</i>
-  - 💃 Moravian Verbuňk Dance <i>(Slovácký Verbuňk)</i>
-  - 💃 Zavádka Dance <i>(Zavádka)</i>
-  - 👘 Garb: Moravský Kroj <i>(Moravské Kroje)</i>
+  - 8️⃣🐦‍🔥 Legend of the Brno Dragon <i>(Legenda o Brněnském Drakovi)</i>
+  - 8️⃣⛩️ Želetava Stoves <i>(Želetavská Kamna)</i>
+  - 8️⃣🎑 Ride of the Kings Ritual <i>(Jízda Králů)</i>
+  - 8️⃣🎑 Zarážení Hory Ritual <i>(Zarážení Hory)</i>
+  - 8️⃣💃 Moravian Verbuňk Dance <i>(Slovácký Verbuňk)</i>
+  - 8️⃣💃 Zavádka Dance <i>(Zavádka)</i>
+  - 8️⃣👘 Garb: Moravský Kroj <i>(Moravské Kroje)</i>
 
 
 <b>🎊 Authentic holidays & celebrations:</b>

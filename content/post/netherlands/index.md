@@ -225,10 +225,10 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🍰 Haagse Bluf <i>(Haagse Bluf)</i>
 - 🧀 Maasdam <i>(Maasdamer)</i></br>
 <u>Friesland - Regional Special:</u>
-- 🍰7️⃣ Oranjekoek <i>(Oranjekoek / Oranjekoeke)</i>
-- 🍰7️⃣ Fryske Dúmkes <i>(Fryske Dúmkes / Dúmkes)</i>
-- 🍰7️⃣ Suikerbrood <i>(Suikerbrood / Sûkerbôle)</i>
-- 🧀7️⃣ Kanterkaas <i>(Kanterkaas / Kanterkaas)</i>
+- 7️⃣🍰 Oranjekoek <i>(Oranjekoek / Oranjekoeke)</i>
+- 7️⃣🍰 Fryske Dúmkes <i>(Fryske Dúmkes / Dúmkes)</i>
+- 7️⃣🍰 Suikerbrood <i>(Suikerbrood / Sûkerbôle)</i>
+- 7️⃣🧀 Kanterkaas <i>(Kanterkaas / Kanterkaas)</i>
 
 
 
@@ -291,17 +291,17 @@ Hej! Here's a glimpse into my experiences in the vibrant Netherlands, which I vi
 - 🏰 Heritage of the Prince-Bishopric of Utrecht <i>(Sticht Utrecht / Episcopatus Ultraiectensis)</i><br>
 <u>Friesland - Regional Special:</u> 
 - 7️⃣ Culture of Frisians <i>(Friezen / Frysken)</i>
-  - 🦉 Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
-  - 🏺 Frisian Chair Clocks <i>(Friese Stoelklokken  / Fryske Stoelklokken)</i>
-  - ⛩️ Klokkenstoels <i>(Klokkenstoelen / Klokkestuollen)</i>
-  - ⛵ Skûtsje Boats <i>(Skûtsje / Skûtsjes)</i>
-  - 🎨 Hindelooper Painting <i>(Hindelooper Schilderkunst / Hylper Skilderkeunst)</i>
-  - 🏃🏻 Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
-  - 🏃🏻 Fierljeppen Tradition <i>(Polsstokverspringen / Fierljeppen)</i> 
-  - 🏓 Frisian Handball <i>(Kaatsen / Keatsen)</i> 
-  - 🏓 Klootschieten <i>(Klootschieten / Klootsjitten)</i> 
-  - 🏓 Frisian Draughts <i>(Fries Dammen / Frysk Damjen)</i> 
-  - 👘 Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
+  - 7️⃣🦉 Concept: Frisian Freedom <i>(Friese Vrijheid / Fryske Frijheid)</i>
+  - 7️⃣🏺 Frisian Chair Clocks <i>(Friese Stoelklokken  / Fryske Stoelklokken)</i>
+  - 7️⃣⛩️ Klokkenstoels <i>(Klokkenstoelen / Klokkestuollen)</i>
+  - 7️⃣⛵ Skûtsje Boats <i>(Skûtsje / Skûtsjes)</i>
+  - 7️⃣🎨 Hindelooper Painting <i>(Hindelooper Schilderkunst / Hylper Skilderkeunst)</i>
+  - 7️⃣🏃🏻 Ice Skating Tradition <i>(Schaatsen / Reedriden)</i> 
+  - 7️⃣🏃🏻 Fierljeppen Tradition <i>(Polsstokverspringen / Fierljeppen)</i> 
+  - 7️⃣🏓 Frisian Handball <i>(Kaatsen / Keatsen)</i> 
+  - 7️⃣🏓 Klootschieten <i>(Klootschieten / Klootsjitten)</i> 
+  - 7️⃣🏓 Frisian Draughts <i>(Fries Dammen / Frysk Damjen)</i> 
+  - 7️⃣👘 Garb: Frisian Oorijzer <i>(Oorijzer / Earizer)</i>
 - 🧝 Legacy of Frisii <i>(Frisii / Frisii)</i>
 - 🏰 Heritage of the Frisian Peasant Republics <i>(Friese Vrijheid / Fryske Frijheid)</i>
 - ⛰️ Frisian Terps <i>(Friese Terpen / Fryske Terpen)</i>

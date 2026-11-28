@@ -121,7 +121,7 @@ Hej! Here's a glimpse into my experiences in magnificent Latvia, which I visited
 - 🥓 Riga Smoked Sprats <i>(Rīgas Šprotes)</i>
 </br>
 <u>Kurzeme - Regional Special:</u>
-- 🥙1️⃣ Sklandrausis <i>(Sklandrausis / Sūrkak)</i>
+- 1️⃣🥙 Sklandrausis <i>(Sklandrausis / Sūrkak)</i>
 
 <b>🎬 Local movies:</b>
 - 👾 Flow <i>(Straume)</i>. Year: 2024. Genre: animation

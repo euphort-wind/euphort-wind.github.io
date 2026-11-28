@@ -188,16 +188,16 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - 🥫 Mujdei Sauce <i>(Mujdei)</i>
 - 🫓 Covrigi <i>(Covrigi)</i>
 - 🍶 Țuică <i>(Brand: "Vlad Țepeș")</i>
-- 🥘#️⃣ Shak te Mas <i>(Varză cu Carne Țigănească / Šah taj Maš)</i>
+- #️⃣🥘 Shak te Mas <i>(Varză cu Carne Țigănească / Šah taj Maš)</i>
 </br>
 <u>Covasna - Regional Special:</u> 
-- 🥘*️⃣ Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>
-- 🍰*️⃣ Székely Kürtőskalács <i>(Cozonac Secuiesc / Székely Kürtőskalács)</i>
-- 🫓*️⃣ Pâine Secuiască <i>(Pâine Secuiască / Székely Kenyér)</i>
+- *️⃣🥘 Erdélyi Rakott Káposzta <i>(Varză Ardelenească / Erdélyi Rakott Káposzta)</i>
+- *️⃣🍰 Székely Kürtőskalács <i>(Cozonac Secuiesc / Székely Kürtőskalács)</i>
+- *️⃣🫓 Pâine Secuiască <i>(Pâine Secuiască / Székely Kenyér)</i>
 </br>
 <u>Brașov - Regional Special:</u> 
 - 🥘 Brașovence <i>(Clătite Brașovene / Brașovence)</i>
-- 🍰⏏️ Transylvanian Saxon Hanklich <i>(Hencleș Săsesc / Hanklich)</i>
+- ⏏️🍰 Transylvanian Saxon Hanklich <i>(Hencleș Săsesc / Hanklich)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -234,17 +234,17 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - 🪕 Musical Instrument: Romanian Nai <i>(Nai)</i>
 - 👘 Garb: Pieptar & Romanian Ie <i>(Pieptar și Ie Românească)</i> 
 - #️⃣ Culture of Romani <i>(Romi / Romane Manuša)</i>
-  - 🦉 Concept: Romanipen <i>(Romanipenul / Romanipen)</i>
-  - 🦉 Concept: Marime <i>(Marime / Mahrime)</i>
-  - 🐦‍🔥 Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
-  - 👑 System of Vitsas <i>(Neamuri Rome / Romane Vitsi)</i>
-  - 👑 Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
-  - 🏘️ Romani Wagons <i>(Căruțe Rome / Vurdona)</i>
-  - 🏘️ Romani Palaces <i>(Palate Rome / Romane Palata)</i>
-  - 🛠️ Kalderash Coppersmithing <i>(Căldărărie Kalderash / Kalderash Sastripe)</i>
-  - 🎭 Drabardi and Fortune-Telling <i>(Drabardi și Prezicerea Viitorului / Drabardi thaj Drabaripen)</i> 
-  - 🎙️ Lăutari & Lăutărească Music <i>(Lăutari și Muzica Lăutărească / Baśavne thaj Lavutărengi muzika)</i> 
-  - 👘 Garb: Romani Dress & Diklo <i>(Portul Romilor și Diklo / Romane Gada thaj Diklo)</i> 
+  - #️⃣🦉 Concept: Romanipen <i>(Romanipenul / Romanipen)</i>
+  - #️⃣🦉 Concept: Marime <i>(Marime / Mahrime)</i>
+  - #️⃣🐦‍🔥 Romani Folklore <i>(Folclorul Romilor / Romano Folkloro)</i>
+  - #️⃣👑 System of Vitsas <i>(Neamuri Rome / Romane Vitsi)</i>
+  - #️⃣👑 Title of Rom Baro <i>(Liderul Romilor / Rom Baro)</i>
+  - #️⃣🏘️ Romani Wagons <i>(Căruțe Rome / Vurdona)</i>
+  - #️⃣🏘️ Romani Palaces <i>(Palate Rome / Romane Palata)</i>
+  - #️⃣🛠️ Kalderash Coppersmithing <i>(Căldărărie Kalderash / Kalderash Sastripe)</i>
+  - #️⃣🎭 Drabardi and Fortune-Telling <i>(Drabardi și Prezicerea Viitorului / Drabardi thaj Drabaripen)</i> 
+  - #️⃣🎙️ Lăutari & Lăutărească Music <i>(Lăutari și Muzica Lăutărească / Baśavne thaj Lavutărengi muzika)</i> 
+  - #️⃣👘 Garb: Romani Dress & Diklo <i>(Portul Romilor și Diklo / Romane Gada thaj Diklo)</i> 
 - 🧝 Legacy of Dacians <i>(Dacii)</i>
 - 🏰 Heritage of the Principality of Wallachia <i>(Țara Românească / Цѣра Рꙋмѫнѣскъ)</i>
 - 🏰 Heritage of the Principality of Transylvania <i>(Principatul Transilvaniei / Erdélyi Fejedelemség)</i>
@@ -253,21 +253,21 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - 🏰 Heritage of the Kingdom of Romania <i>(Regatul României)</i><br>
 <u>Covasna - Regional Special:</u> 
 - *️⃣ Culture of Székelys <i>(Secui / Székelyek)</i>
-  - 🐦‍🔥 Székely Ballads <i>(Balade Secuiești / Székely Balladák)</i>
-  - 👑 System of Székely Clans <i>(Clanurile Secuiești / Székely Nemzetségek)</i>
-  - 👑 Title of Primor <i>(Primor Secuiesc / Lófő)</i>
-  - ⛩️ Székely Gates <i>(Porți Secuiești / Székelykapuk)</i>
-  - ⛩️ Kopjafa Wooden Pillars <i>(Stâlpi Funerari / Kopjafák)</i>
-  - 🏘️ Borvíz Pavilions <i>(Pavilioane de apă Minerală / Borvízpavilonok)</i>
-  - 💃 Legényes Dance <i>(Feciorească / Legényes)</i>
-  - 🪕 Musical Instrument: Ütőgardon <i>(Gordună / Ütőgardon)</i>
-  - 👘 Garb: Székely Hat <i>(Pălărie Secuiască / Székely Kalap)</i>
+  - *️⃣🐦‍🔥 Székely Ballads <i>(Balade Secuiești / Székely Balladák)</i>
+  - *️⃣👑 System of Székely Clans <i>(Clanurile Secuiești / Székely Nemzetségek)</i>
+  - *️⃣👑 Title of Primor <i>(Primor Secuiesc / Lófő)</i>
+  - *️⃣⛩️ Székely Gates <i>(Porți Secuiești / Székelykapuk)</i>
+  - *️⃣⛩️ Kopjafa Wooden Pillars <i>(Stâlpi Funerari / Kopjafák)</i>
+  - *️⃣🏘️ Borvíz Pavilions <i>(Pavilioane de apă Minerală / Borvízpavilonok)</i>
+  - *️⃣💃 Legényes Dance <i>(Feciorească / Legényes)</i>
+  - *️⃣🪕 Musical Instrument: Ütőgardon <i>(Gordună / Ütőgardon)</i>
+  - *️⃣👘 Garb: Székely Hat <i>(Pălărie Secuiască / Székely Kalap)</i>
 - ⛰️ Covasna Mofettes <i>(Mofetele din Covasna / Kovásznai Mofetták)</i><br>
 <u>Brașov - Regional Special:</u> 
 - ⏏️ Culture of Transylvanian Saxons <i>(Sași Transilvăneni / Siweberjer Såksen)</i>
-  - 🏘️ Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Siebenbürger Kirchenburgen)</i>
-  - 💃 Königinnentanz Dance <i>(Dansul Reginelor / Königinnentanz)</i>
-  - 👘 Garb: Transylvanian Saxon Tracht & Heftel <i>(Portul Tradițional Săsesc și Heftel / Siebenbürgische-Sächsische Tracht und Heftel)</i>
+  - ⏏️🏘️ Transylvanian Saxon Fortified Churches <i>(Biserici Fortificate din Transilvania / Siebenbürger Kirchenburgen)</i>
+  - ⏏️💃 Königinnentanz Dance <i>(Dansul Reginelor / Königinnentanz)</i>
+  - ⏏️👘 Garb: Transylvanian Saxon Tracht & Heftel <i>(Portul Tradițional Săsesc și Heftel / Siebenbürgische-Sächsische Tracht und Heftel)</i>
  
 
 <b>🎊 Authentic holidays & celebrations:</b>
@@ -276,15 +276,15 @@ Hej! Here's a glimpse into my experiences in fabulous Romania, which I visited i
 - 🗽 National Day of Romania <i>(Ziua Națională a României)</i>. Month: December
 - 🗽 Day of the Unification of the Romanian Principalities <i>(Ziua Unirii Principatelor Române)</i>. Month: January
 - #️⃣ International Romani Day <i>(Ziua Internațională a Romilor / Maśkarthemutno Rromenqo Dives)</i>. Month: April<br>
+<u>Covasna - Regional Special:</u> 
+- *️⃣ Szeklerland Days <i>(Zilele Ținutului Secuiesc / Székelyföld Napok)</i>. Month: May
+- *️⃣ Székely Freedom Day <i>(Ziua Libertății Secuilor / Székely Szabadság Napja)</i>. Month: March
+- *️⃣ Szekler Sausage Parade <i>(Parada Cârnaților Secuiești / Székely Kolbászparádé)</i>. Month: November<br>
 <u>Brașov - Regional Special:</u> 
 - 🎪 Junii Brașoveni <i>(Junii Brașoveni)</i>. Month: April or May
 - 🫕 Prejmer Pancake Festival <i>(Festivalul Clătitelor)</i>. Month: February to March
 - ⏏️ Kronenfest <i>(Sărbătoarea Cununii / Siebenbürger Kronenfest)</i>. Month: June
-- ⏏️ Haferland Week <i>(Săptămâna Haferland / Kulturwoche Haferland)</i>. Month: August <br>
-<u>Covasna - Regional Special:</u> 
-- *️⃣ Szeklerland Days <i>(Zilele Ținutului Secuiesc / Székelyföld Napok)</i>. Month: May
-- *️⃣ Szekler Sausage Parade <i>(Parada Cârnaților Secuiești / Székely Kolbászparádé)</i>. Month: November
-- *️⃣ Székely Freedom Day <i>(Ziua Libertății Secuilor / Székely Szabadság Napja)</i>. Month: March<br>
+- ⏏️ Haferland Week <i>(Săptămâna Haferland / Kulturwoche Haferland)</i>. Month: August<br>
 <u>Mureș - Regional Special:</u>
 - 🎪 Mureș Valley Festival <i>(Festivalul Văii Mureșului)</i>. Month: July
 - 🎪 Sighișoara Medieval Festival <i>(Festivalul Sighișoara Medievală)</i>. Month: July<br>

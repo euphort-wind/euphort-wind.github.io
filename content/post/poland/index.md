@@ -165,8 +165,8 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 
 
 <b>🎚️ Contribution to Electronic Music:</b>
-- 🇵🇱 Disco Polo. Originated: late 1980s
-- 🇵🇱 Wixa Music. Originated: early 2000s
+- 🇵🇱 &nbsp;Disco Polo. Originated: late 1980s
+- 🇵🇱 &nbsp;Wixa Music. Originated: early 2000s
 
 
 <b>🍽️ Local food & drinks: </b>
@@ -201,31 +201,31 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 🍶 Polish Nalewka <i>(Brands: "Lubelska Wiśniówka", "Soplica Orzech Laskowy")</i>
 </br>
 <u>Pomerania - Regional Special:</u> 
-- 🥓9️⃣ Kashubian Pickled  Herring <i>(Śledzie po Kaszubsku / Szledz po Kaszëbskù)</i>
-- 🍰9️⃣ Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
+- 9️⃣🥓 Kashubian Pickled  Herring <i>(Śledzie po Kaszubsku / Szledz po Kaszëbskù)</i>
+- 9️⃣🍰 Kashubian Ruchanki with Apples <i>(Kaszubskie Ruchanki / Kaszëbsczé Ruchanki)</i>
 </br>
 <u>Silesia - Regional Special:</u> 
-- 🥓🔟 Krupniok Śląski <i>(Krupniok Śląski / Krupniok)</i>
-- 🥗🔟 Szałot <i>(Szałot / Szałot)</i>
-- 🍲🔟 Wodzianka <i>(Wodzianka / Wodźůnka)</i>
-- 🥘🔟 Silesian Dumplings <i>(Kluski Śląskie / Gůmiklyjzy)</i>
-- 🥘🔟 Silesian Roulade <i>(Rolada Śląska / Rolada)</i>
-- 🥘🔟 Karminadle <i>(Karminadle / Gehaktyz)</i>
-- 🍰🔟 Streuselkuchen <i>(Kołocz Śląski / Kołoc)</i>
-- 🍰🔟 Szpajza <i>(Szpajza / Szpajza)</i>
-- 🍰🔟 Kopalnioki <i>(Kopalnioki / Kopalnioki)</i>
-- 🍰🔟 Makówki <i>(Makówki / Makůwki)</i>
-- 🧀🔟 Hauskyjza <i>(Ser Domowy / Hauskyjza)</i>
+- 🔟🥓 Krupniok Śląski <i>(Krupniok Śląski / Krupniok)</i>
+- 🔟🥗 Szałot <i>(Szałot / Szałot)</i>
+- 🔟🍲 Wodzianka <i>(Wodzianka / Wodźůnka)</i>
+- 🔟🥘 Silesian Dumplings <i>(Kluski Śląskie / Gůmiklyjzy)</i>
+- 🔟🥘 Silesian Roulade <i>(Rolada Śląska / Rolada)</i>
+- 🔟🥘 Karminadle <i>(Karminadle / Gehaktyz)</i>
+- 🔟🍰 Streuselkuchen <i>(Kołocz Śląski / Kołoc)</i>
+- 🔟🍰 Szpajza <i>(Szpajza / Szpajza)</i>
+- 🔟🍰 Kopalnioki <i>(Kopalnioki / Kopalnioki)</i>
+- 🔟🍰 Makówki <i>(Makówki / Makůwki)</i>
+- 🔟🧀 Hauskyjza <i>(Ser Domowy / Hauskyjza)</i>
 </br>
 <u>Lesser Poland - Regional Special:</u> 
 - 🥓 Kraków Sausage <i>(Kiełbasa Krakowska)</i>
 - 🥙 Maczanka Krakowska <i>(Maczanka Krakowska)</i>
 - 🫓 Obwarzanek Krakowski <i>(Obwarzanek)</i>
-- 🍲🔢 Góral Kwaśnica <i>(Góralska Kwaśnica)</i>
-- 🥘🔢 Góral Moskole <i>(Góralskie Moskole)</i>
-- 🧀🔢 Oscypek <i>(Oscypek)</i>
-- 🧀🔢 Gołka <i>(Gołka)</i>
-- 🧀🔢 Redykołka <i>(Redykołka)</i>
+- 🔢🍲 Góral Kwaśnica <i>(Góralska Kwaśnica)</i>
+- 🔢🥘 Góral Moskole <i>(Góralskie Moskole)</i>
+- 🔢🧀 Oscypek <i>(Oscypek)</i>
+- 🔢🧀 Gołka <i>(Gołka)</i>
+- 🔢🧀 Redykołka <i>(Redykołka)</i>
 
 
 
@@ -267,12 +267,12 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 <u>Pomerania - Regional Special:</u>
 - 🛠️ Baltic Amber Crafting <i>(Bursztyniarstwo)</i>
 - 9️⃣ Culture of Kashubians <i>(Kaszubi / Kaszëbi)</i>
-  - 🐦‍🔥 Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
-  - 🎨 Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
-  - 🃏 Baśka Card Game <i>(Baśka / Baszka)</i>
-  - 🎑 Kashubian Gwiôzdka Ritual <i>(Kaszubska Gwiazdka / Gwiôzdka)</i>
-  - 💃 Koseder Dance <i>(Koseder / Kòséder)</i>
-  - 🪕 Musical Instrument: Burczybas  <i>(Burczybas / Mrëczk)</i>
+  - 9️⃣🐦‍🔥 Kashubian Mythology <i>(Mitologia Kaszubska / Kaszëbskô Mitologiô)</i>
+  - 9️⃣🎨 Kashubian Embroidery <i>(Haft Kaszubski / Kaszëbsczi Wësziwk)</i>
+  - 9️⃣🃏 Baśka Card Game <i>(Baśka / Baszka)</i>
+  - 9️⃣🎑 Kashubian Gwiôzdka Ritual <i>(Kaszubska Gwiazdka / Gwiôzdka)</i>
+  - 9️⃣💃 Koseder Dance <i>(Koseder / Kòséder)</i>
+  - 9️⃣🪕 Musical Instrument: Burczybas  <i>(Burczybas / Mrëczk)</i>
 - 🧝 Legacy of Pomeranians <i>(Pomorzanie / Pòmòrzónie)</i>
 - 🏰 Heritage of the Duchy of Pomerania <i>(Księstwo Pomorskie / Herzogtum Pommern)</i>
 - 🏰 Heritage of the Free City of Danzig <i>(Wolne Miasto Gdańsk / Freie Stadt Danzig)</i>
@@ -280,10 +280,10 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 <u>Silesia - Regional Special:</u>
 - ⛩️ Katowice Beboks <i>(Katowickie Beboki / Katowicke Beboki)</i>
 - 🔟 Culture of Silesians <i>(Ślązacy / Ślůnzoki)</i>
-  - 🏘️ Familok Houses <i>(Familoki / Familoki)</i>
-  - 🎑 Leading the Bear Ritual <i>(Wodzenie Niedźwiedzia / Wodzynie Bera)</i>
-  - 💃 Trojak Dance <i>(Trojak / Trojok)</i>
-  - 👘 Garb: Strój Rozbarski <i>(Strój Rozbarski / Rozbarske Ôblyczynie)</i>
+  - 🔟🏘️ Familok Houses <i>(Familoki / Familoki)</i>
+  - 🔟🎑 Leading the Bear Ritual <i>(Wodzenie Niedźwiedzia / Wodzynie Bera)</i>
+  - 🔟💃 Trojak Dance <i>(Trojak / Trojok)</i>
+  - 🔟👘 Garb: Strój Rozbarski <i>(Strój Rozbarski / Rozbarske Ôblyczynie)</i>
 - 🧝 Legacy of Ancient Silesians <i>(Ślężanie)</i>
 - 🏰 Heritage of the Duchy of Silesia <i>(Księstwo Śląskie / Ślōnski Firsztyntōm)</i>
 <br> 
@@ -296,11 +296,11 @@ Hej! Here's a glimpse into my experiences in incredible Poland, which I visited 
 - 💃 Krakowiak Dance <i>(Krakowiak)</i>
 - 👘 Garb: Krakuska Hat <i>(Czapka Krakowska)</i>
 - 🔢 Culture of Gorals <i>(Górale / Górole)</i>
-  - 🏺 Goral Shepherd’s Axes <i>(Ciupagi)</i>
-  - 🏛️ Zakopane Architecture <i>(Styl Zakopiański)</i>
-  - 🎨 Parzenica Embroidery <i>(Parzenica)</i>
-  - 💃 Góralski Dance <i>(Taniec Góralski)</i>
-  - 👘 Garb: Goral Hat <i>(Kapelusz Góralski)</i>
+  - 🔢🏺 Goral Shepherd’s Axes <i>(Ciupagi)</i>
+  - 🔢🏛️ Zakopane Architecture <i>(Styl Zakopiański)</i>
+  - 🔢🎨 Parzenica Embroidery <i>(Parzenica)</i>
+  - 🔢💃 Góralski Dance <i>(Taniec Góralski)</i>
+  - 🔢👘 Garb: Goral Hat <i>(Kapelusz Góralski)</i>
 - 🧝 Legacy of Vistulans <i>(Wiślanie)</i>  
 - 🏰 Heritage of the Duchy of Kraków <i>(Księstwo Krakowskie)</i>
 - 🏰 Heritage of the Republic of Cracow <i>(Rzeczpospolita Krakowska)</i>

@@ -356,31 +356,31 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🍶 Raf Coffee <i>(Раф-Кофе)</i>
 - 🥗 Stolychny Salad <i>(Салат Столичный)</i></br>
 <u>Bashkortostan - Regional Special:</u> 
-- 🥙▶️ Peremech <i>(Беляш / Бәрәмес)</i>
-- 🥙▶️ Bashkir Uchpuchmak <i>(Эчпочмак / Өсбосмаҡ)</i>
-- 🍰▶️ Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i></br>
+- ▶️🥙 Peremech <i>(Беляш / Бәрәмес)</i>
+- ▶️🥙 Bashkir Uchpuchmak <i>(Эчпочмак / Өсбосмаҡ)</i>
+- ▶️🍰 Bashkir Honey <i>(Башкирский Мёд / Башҡорт Балы)</i></br>
 <u>Kabardino-Balkaria - Regional Special:</u> 
-- 🥙🏧 Balkar Khychin <i>(Хычин / Хычин)</i>
-    - 🥙🏧 Khychin with Meat <i>(Хычин с Мясом / Эт Хычин)</i>
-    - 🥙🏧 Khychin with Beet Leaves <i>(Хычин с Листьями Свёклы / Чюгюндюр Хычин)</i> 
-    - 🥙🏧 Khychin with Liver <i>(Хычин с Ливером / Ындыр Хычин)</i> 
-- 🥘🏧 Zhalbaur <i>(Жалбаур / Жау Бауур)</i>
-- 🥘🏧 Byshlak Bishirgen <i>(Бышлак Биширген / Бышлакъ Биширген)</i>
-- 🧀🏧 Balkar Cheese <i>(Балкарский Сыр / Бишлакъ)</i></br>
+- 🏧🥙 Balkar Khychin <i>(Хычин / Хычин)</i>
+    - 🏧🥙 Khychin with Meat <i>(Хычин с Мясом / Эт Хычин)</i>
+    - 🏧🥙 Khychin with Beet Leaves <i>(Хычин с Листьями Свёклы / Чюгюндюр Хычин)</i> 
+    - 🏧🥙 Khychin with Liver <i>(Хычин с Ливером / Ындыр Хычин)</i> 
+- 🏧🥘 Zhalbaur <i>(Жалбаур / Жау Бауур)</i>
+- 🏧🥘 Byshlak Bishirgen <i>(Бышлак Биширген / Бышлакъ Биширген)</i>
+- 🏧🧀 Balkar Cheese <i>(Балкарский Сыр / Бишлакъ)</i></br>
 <u>Karachay-Cherkessia - Regional Special:</u>
-- 🥙🅿️ Circassian Khalyuzh <i>(Халюж / Хьалыжъо)</i>
-- 🥘🅿️ Circassian Libzhe <i>(Либжа / Либжэ)</i>
-- 🥘🅿️ Circassian Lyagur <i>(Лягур / Лягур)</i>
+- 🅿️🥙 Circassian Khalyuzh <i>(Халюж / Хьалыжъо)</i>
+- 🅿️🥘 Circassian Libzhe <i>(Либжа / Либжэ)</i>
+- 🅿️🥘 Circassian Lyagur <i>(Лягур / Лягур)</i>
 </br>
 <u>North Ossetia - Regional Special:</u>
-- 🥙🈳 Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
-    - 🥙🈳 Ossetian Pie with Cheese <i>(Осетинский Пирог с Сыром / Уæлибæх)</i>
-    - 🥙🈳 Ossetian Pie with Meat <i>(Осетинский Пирог с Мясом / Фыдджын)</i>
-    - 🥙🈳 Ossetian Pie with Beans <i>(Осетинский Пирог с Фасолью / Хъæдурджын)</i>
-- 🍲🈳 Lyvzha <i>(Лывжа / Лывзæ)</i>
-- 🥘🈳 Ossetian Dzykka <i>(Дзыкка / Дзыкка)</i>
-- 🥫🈳 Tsakhdon Sauce (Цахтон / Цæхдон)
-- 🍶🈳 Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
+- 🈳🥙 Ossetian Pie <i>(Осетинский Пирог / Чъири)</i>
+    - 🈳🥙 Ossetian Pie with Cheese <i>(Осетинский Пирог с Сыром / Уæлибæх)</i>
+    - 🈳🥙 Ossetian Pie with Meat <i>(Осетинский Пирог с Мясом / Фыдджын)</i>
+    - 🈳🥙 Ossetian Pie with Beans <i>(Осетинский Пирог с Фасолью / Хъæдурджын)</i>
+- 🈳🍲 Lyvzha <i>(Лывжа / Лывзæ)</i>
+- 🈳🥘 Ossetian Dzykka <i>(Дзыкка / Дзыкка)</i>
+- 🈳🥫 Tsakhdon Sauce (Цахтон / Цæхдон)
+- 🈳🍶 Ossetian Beer <i>(Осетинское Пиво / Бæгæны)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -464,63 +464,63 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🏰 Heritage of the Russian Republic <i>(Российская Республика / Россійская Республика)</i><br>
 <u>Bashkortostan - Regional Special:</u> 
 - ▶️ Culture of Bashkirs <i>(Башкиры / Башҡорттар)</i>
-    - 🐦‍🔥 Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
-    - 🐦‍🔥 Legend of Salavat Yulaev <i>(Легенда о Салавате Юлаеве / Салауат Юлаев Тураһында Легенда)</i>
-    - 🐦‍🔥 Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
-    - 👑 System of Bashkir Tribes <i>(Башкирские Племена / Башҡорт Ырыуҙары)</i>
-    - 🎭 Sėsėns and Bashkir Poetry <i>(Сэсэны и Башкирская Поэзия / Сәсәндәр һәм Башҡорт Шиғриәте)</i>
-    - 💃 Baiyq Dance <i>(Байык / Байыҡ)</i>
-    - 🪕 Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
-    - 👘 Garb: Kashmau <i>(Кашмау / Ҡашмау)</i>
+    - ▶️🐦‍🔥 Epic of Ural Batyr <i>(Урал-батыр / Урал Батыр)</i>
+    - ▶️🐦‍🔥 Legend of Salavat Yulaev <i>(Легенда о Салавате Юлаеве / Салауат Юлаев Тураһында Легенда)</i>
+    - ▶️🐦‍🔥 Bashkir Folklore <i>(Башкирский Фольклор / Башҡорт Фольклоры)</i>
+    - ▶️👑 System of Bashkir Tribes <i>(Башкирские Племена / Башҡорт Ырыуҙары)</i>
+    - ▶️🎭 Sėsėns and Bashkir Poetry <i>(Сэсэны и Башкирская Поэзия / Сәсәндәр һәм Башҡорт Шиғриәте)</i>
+    - ▶️💃 Baiyq Dance <i>(Байык / Байыҡ)</i>
+    - ▶️🪕 Musical Instrument: Quray <i>(Курай / Ҡурай)</i>
+    - ▶️👘 Garb: Kashmau <i>(Кашмау / Ҡашмау)</i>
 - ⛰️ Shikhan Chalk Hills <i>(Шиханы / Шихандар)</i><br>
 <u>Kabardino-Balkaria - Regional Special:</u> 
 - 🏧 Culture of Balkars <i>(Балкары и Карачаевцы / Малкъарлыла)</i>
-    - 🦉 Concept: Taulu Namys <i>(Намыс / Таулу Намыс)</i>
-    - 🐦‍🔥 Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
-    - 🏺 Balkar Bychak Knives <i>(Бичаки / Бычакы)</i>
-    - 🏘️ Balkar Saklyas <i>(Сакли / Тау Юйле)</i>
-    - 🎭 Zhyrchy and Balkar Poetry <i>(Жырчи и Балкарская Поэзия / Жырчыла эм Балкар Поэзия)</i>
-    - 💃 Tüz Tepseu Dance <i>(Тюз Тепсеу / Тюз Тепсеу)</i>
-    - 🪕 Musical Instrument: Balkar Sybyzgy <i>(Сыбызгы / Сыбызгъы)</i>
+    - 🏧🦉 Concept: Taulu Namys <i>(Намыс / Таулу Намыс)</i>
+    - 🏧🐦‍🔥 Balkar Nart Saga <i>(Нартский Эпос / Нарт Таурухла)</i>
+    - 🏧🏺 Balkar Bychak Knives <i>(Бичаки / Бычакы)</i>
+    - 🏧🏘️ Balkar Saklyas <i>(Сакли / Тау Юйле)</i>
+    - 🏧🎭 Zhyrchy and Balkar Poetry <i>(Жырчи и Балкарская Поэзия / Жырчыла эм Балкар Поэзия)</i>
+    - 🏧💃 Tüz Tepseu Dance <i>(Тюз Тепсеу / Тюз Тепсеу)</i>
+    - 🏧🪕 Musical Instrument: Balkar Sybyzgy <i>(Сыбызгы / Сыбызгъы)</i>
 - 🏰 Heritage of the Princedom of Kabardia <i>(Кабарда / Къэбэрдей Пщыгъуэ)</i>
 <br>
 <u>Karachay-Cherkessia - Regional Special:</u> 
 - 🅿️ Culture of Circassians <i>(Кабардинцы и Черкессы / Адыгэ)</i>
-    - 🦉 Concept: Circassian Xabze <i>(Хабза / Адыгэ Хабзэ)</i>
-    - 🕯️ Circassian Paganism <i>(Черкесская Религия / ТхьэлъэӀу)</i>
-    - 🐦‍🔥 Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
-    - 👑 System of Circassian Tribes <i>(Черкесские Племена / Адыгэ Лъэпкъхэр)</i>
-    - 👑 Title of Pshi <i>(Пши / Пщы)</i>
-    - 👑 Title of Thamaté <i>(Тхьэматэ / Тхьэматэ)</i>
-    - 🏺 Gazyr Bags <i>(Газырницы / Газыр Щхьэхэр)</i>
-    - 🏃🏻 Dzhigitovka Tradition <i>(Джигитовка / Шыгъажэ)</i>
-    - 🎑 Nyseishe Ritual <i>(Нысашэ / Нысэишэ)</i>
-    - 🎑 Azheghafe Ritual <i>(Ажегаф / Ажэгъафэ)</i>
-    - 🎭 Dzheguakos and Circassian Poetry <i>(Джегуаки и Черкесская Поэзия / ДжэгуакӀуэхэр и Адыгэ Усэхэр)</i>
-    - 💃 Kafa Dance <i>(Танец Кафа / Къафэ)</i>
-    - 💃 Udzh Dance <i>(Танец Удж / Удж)</i>
-    - 🪕 Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
-    - 👘 Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
+    - 🅿️🦉 Concept: Circassian Xabze <i>(Хабза / Адыгэ Хабзэ)</i>
+    - 🅿️🕯️ Circassian Paganism <i>(Черкесская Религия / ТхьэлъэӀу)</i>
+    - 🅿️🐦‍🔥 Circassian Nart Saga <i>(Нартский Эпос / Нартхэр)</i>
+    - 🅿️👑 System of Circassian Tribes <i>(Черкесские Племена / Адыгэ Лъэпкъхэр)</i>
+    - 🅿️👑 Title of Pshi <i>(Пши / Пщы)</i>
+    - 🅿️👑 Title of Thamaté <i>(Тхьэматэ / Тхьэматэ)</i>
+    - 🅿️🏺 Gazyr Bags <i>(Газырницы / Газыр Щхьэхэр)</i>
+    - 🅿️🏃🏻 Dzhigitovka Tradition <i>(Джигитовка / Шыгъажэ)</i>
+    - 🅿️🎑 Nyseishe Ritual <i>(Нысашэ / Нысэишэ)</i>
+    - 🅿️🎑 Azheghafe Ritual <i>(Ажегаф / Ажэгъафэ)</i>
+    - 🅿️🎭 Dzheguakos and Circassian Poetry <i>(Джегуаки и Черкесская Поэзия / ДжэгуакӀуэхэр и Адыгэ Усэхэр)</i>
+    - 🅿️💃 Kafa Dance <i>(Танец Кафа / Къафэ)</i>
+    - 🅿️💃 Udzh Dance <i>(Танец Удж / Удж)</i>
+    - 🅿️🪕 Musical Instrument: Pkhachich <i>(Пхачич / Пхъэцӏыч)</i>
+    - 🅿️👘 Garb: Cherkesska & Bashlyk <i>(Черкесска и Башлык / Цейрэ Щхьэрыхъуэн)</i>
 - 🛗 Culture of Abazins <i>(Абазины / Абаза)</i>
 - 🏰 Heritage of the Kingdom of Zichia <i>(Зихия / Адзыгъуей)</i>
 - 🏰 Heritage of the Kingdom of Circassia <i>(Черкесия / Адыгэ Хэку)</i><br>
 <u>North Ossetia - Regional Special:</u> 
 - 🈳 Culture of Ossetians <i>(Осетины / Ирæттæ)</i>
-    - 🦉 Concept: Ægdau <i>(Агдау / Æгъдау)</i>
-    - 🕯️ Assianism <i>(Уасдин / Уацдин)</i>
-    - 🐦‍🔥 Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
-    - 🐦‍🔥 Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
-    - 👑 System of Ossetian Clans <i>(Осетинские Роды / Ирон Æфтаудтæ)</i>
-    - 👑 Title of Dzuary Læg <i>(Дзуары Лаг / Дзуары Лæг)</i>
-    - 🏺 Ossetian Hearth Chains <i>(Рахысы / Рахыстæ)</i>
-    - 🏘️ Ossetian Clan Towers <i>(Осетинские Родовые Башни / Мæсгуытæ)</i>
-    - 🏘️ Ossetian Stone Crypts <i>(Осетинские Склепы / Зæппæдзтæ)</i>
-    - 🎑 Kuvd Ritual <i>(Куывд / Куывд)</i>
-    - 🎑 Horse Consecration Ritual <i>(Посвящение Коня / Бæхфæлдисæн)</i>
-    - 💃 Tsoppai Dance <i>(Цоппай / Цоппай)</i>
-    - 💃 Simd Dance <i>(Симд / Синд)</i>
-    - 💃 Khonga Kaft Dance <i>(Хонга Кафт / Хъонгæ Кафт)</i>
-    - 🪕 Musical Instrument: Kisyn Fændyr <i>(Хисын Фандыр / Хъисын Фæндыр)</i>
+    - 🈳🦉 Concept: Ægdau <i>(Агдау / Æгъдау)</i>
+    - 🈳🕯️ Assianism <i>(Уасдин / Уацдин)</i>
+    - 🈳🐦‍🔥 Ossetian Nart Saga <i>(Нартский Эпос / Нарты Кадджытæ)</i>
+    - 🈳🐦‍🔥 Ossetian Mythology <i>(Осетинская Мифология / Ирон Мифологи)</i>
+    - 🈳👑 System of Ossetian Clans <i>(Осетинские Роды / Ирон Æфтаудтæ)</i>
+    - 🈳👑 Title of Dzuary Læg <i>(Дзуары Лаг / Дзуары Лæг)</i>
+    - 🈳🏺 Ossetian Hearth Chains <i>(Рахысы / Рахыстæ)</i>
+    - 🈳🏘️ Ossetian Clan Towers <i>(Осетинские Родовые Башни / Мæсгуытæ)</i>
+    - 🈳🏘️ Ossetian Stone Crypts <i>(Осетинские Склепы / Зæппæдзтæ)</i>
+    - 🈳🎑 Kuvd Ritual <i>(Куывд / Куывд)</i>
+    - 🈳🎑 Horse Consecration Ritual <i>(Посвящение Коня / Бæхфæлдисæн)</i>
+    - 🈳💃 Tsoppai Dance <i>(Цоппай / Цоппай)</i>
+    - 🈳💃 Simd Dance <i>(Симд / Синд)</i>
+    - 🈳💃 Khonga Kaft Dance <i>(Хонга Кафт / Хъонгæ Кафт)</i>
+    - 🈳🪕 Musical Instrument: Kisyn Fændyr <i>(Хисын Фандыр / Хъисын Фæндыр)</i>
 - 🧝 Legacy of Alans <i>(Аланы / Алантæ)</i>
 - 🏰 Heritage of the Kingdom of Alania <i>(Алания / Ирыстон)</i><br>
 <u>Leningrad - Regional Special:</u> 
@@ -553,8 +553,8 @@ Hej! Below are some notes on what I tasted, saw, and listened to in Russia.
 - 🈳 Rekom Shrine Festival <i>(Праздник Святилища Реком / Рекомы Бæрæгбон)</i>. Month: June
 - 🈳 Khetag's Day <i>(День Хетага / Хетæджы Уастырджи)</i>. Month: July
 - 🈳 Uacilla Celebration <i>(Праздник Уацилла / Уациллайы Бæрæгбон)</i>. Month: June or July
-- 🈳 Ossetian Beer Festival <i>(Фестиваль Осетинского Пива / Ирон Бæгæны)</i>. Month: September
-- 🈳 Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November<br>
+- 🈳 Dzheorguyba <i>(Джеоргуба / Уастырджийы Бонтæ)</i>. Month: November
+- 🈳 Ossetian Beer Festival <i>(Фестиваль Осетинского Пива / Ирон Бæгæны)</i>. Month: September<br>
 <u>St. Petersburg-City - Regional Special:</u>
 - 🎪 Scarlet Sails Festival <i>(Алые Паруса)</i>. Month: June
 - 🎪 White Nights Festival <i>(Белые Ночи Санкт-Петербурга)</i>. Month: June to July<br>

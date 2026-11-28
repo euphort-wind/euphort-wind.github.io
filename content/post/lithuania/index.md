@@ -131,8 +131,8 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - 🍶 Lithuanian Lager Beer <i>(Brand: "Kalnapilis")</i>
 </br> 
 <u>Vilnius - Regional Special:</u> 
-- 🥙4️⃣ Karaite Kibinai <i>(Kibinai / Kybynlar)</i>
-- 🥙4️⃣ Karaite Kiubete <i>(Kiubėtė / Kiubete)</i>
+- 4️⃣🥙 Karaite Kibinai <i>(Kibinai / Kybynlar)</i>
+- 4️⃣🥙 Karaite Kiubete <i>(Kiubėtė / Kiubete)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -160,10 +160,10 @@ Hej! Here's a glimpse into my experiences in majestic Lithuania, which I visited
 - 🏛️ Kaunas Modernist Architecture <i>(Tarpukario Kauno Architektūra)</i><br>
 <u>Vilnius - Regional Special:</u>
 - 4️⃣ Culture of Lithuanian Karaites <i>(Lietuvos Karaimų / Karajlar)</i>
-  - 🕯️ Karaism <i>(Karaizmas / Karaj Din)</i>
-  - 👑 Title of Karaite Hakham <i>(Karaimų Hachanas / Karaj Ḥakham)</i>
-  - 🏘️ Wooden Kenesas <i>(Kinesė / Kieniesalar)</i>
-  - 🏘️ Karaite Three-Window Houses <i>(Karaimų Namai / Karaj Üvleri)</i>
+  - 4️⃣🕯️ Karaism <i>(Karaizmas / Karaj Din)</i>
+  - 4️⃣👑 Title of Karaite Hakham <i>(Karaimų Hachanas / Karaj Ḥakham)</i>
+  - 4️⃣🏘️ Wooden Kenesas <i>(Kinesė / Kieniesalar)</i>
+  - 4️⃣🏘️ Karaite Three-Window Houses <i>(Karaimų Namai / Karaj Üvleri)</i>
 
 
 

@@ -277,18 +277,18 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 - 🍶 Kölsch Ale <i>(Brands: "Gaffel Kölsch", "Früh Kölsch")</i>
 </br>
 <u>Bavaria - Regional Special:</u>
-- 🥓3️⃣ Gelbwurst <i>(Gelbwurst / Gelbwuascht)</i>
-- 🥗3️⃣ Rettichsalat <i>(Rettichsalat / Radisalat)</i>
-- 🥗3️⃣ Obatzda <i>(Obatzda / Obazda)</i>
-- 🥗3️⃣ Kartoffelkäse <i>(Kartoffelkäse / Erdäpfelkäse)</i>
-- 🥘3️⃣ Leberkäse <i>(Fleischkäse / Lebakaas)</i>
-- 🥘3️⃣ Weißwurst <i>(Weißwurst / Weißwuascht)</i>
-- 🥘3️⃣ Schweinshaxe <i>(Schweinshaxe / Schweinshaxn)</i>
-- 🥘3️⃣ Schweinsbraten <i>(Schweinsbraten / Schweinsbratn)</i>
-- 🥘3️⃣ Bavarian Cabbage <i>(Bayrisch Kraut / Bayrischkraut)</i>
-- 🥫3️⃣ Bavarian Sweet Mustard <i>(Bayerischer Süßer Senf / Boarischa Siaßa Semf)</i>
-- 🥫3️⃣ Bavarian Beer Sauce <i>(Biersauce / Biersoß)</i>
-- 🍶3️⃣ Hefeweizen Beer <i>(Brands: "Hofbräu München", "Paulaner", "Erdinger", "Weihenstephaner")</i>
+- 3️⃣🥓 Gelbwurst <i>(Gelbwurst / Gelbwuascht)</i>
+- 3️⃣🥗 Rettichsalat <i>(Rettichsalat / Radisalat)</i>
+- 3️⃣🥗 Obatzda <i>(Obatzda / Obazda)</i>
+- 3️⃣🥗 Kartoffelkäse <i>(Kartoffelkäse / Erdäpfelkäse)</i>
+- 3️⃣🥘 Leberkäse <i>(Fleischkäse / Lebakaas)</i>
+- 3️⃣🥘 Weißwurst <i>(Weißwurst / Weißwuascht)</i>
+- 3️⃣🥘 Schweinshaxe <i>(Schweinshaxe / Schweinshaxn)</i>
+- 3️⃣🥘 Schweinsbraten <i>(Schweinsbraten / Schweinsbratn)</i>
+- 3️⃣🥘 Bavarian Cabbage <i>(Bayrisch Kraut / Bayrischkraut)</i>
+- 3️⃣🥫 Bavarian Sweet Mustard <i>(Bayerischer Süßer Senf / Boarischa Siaßa Semf)</i>
+- 3️⃣🥫 Bavarian Beer Sauce <i>(Biersauce / Biersoß)</i>
+- 3️⃣🍶 Hefeweizen Beer <i>(Brands: "Hofbräu München", "Paulaner", "Erdinger", "Weihenstephaner")</i>
 
 
 <b>🎬 Local movies:</b>
@@ -380,18 +380,18 @@ Hej! Here's a glimpse into my experiences in prosperous Germany, which I visited
 <br>
 <u>Bavaria - Regional Special:</u>
 - 3️⃣ Culture of Bavarians <i>(Bayern / Boarn)</i>
-  - 🐦‍🔥 Bavarian Folklore <i>(Bayerische Folklore / Bairische Volkskultur)</i>
-  - 🏘️ Bavarian Beer Gardens <i>(Biergarten / Bierkeller)</i>
-  - 🛠️ Mittenwald Violin Making <i>(Mittenwalder Geigenbau / Mittenwalder Geignbau)</i>
-  - 🛠️ Nymphenburg Porcelain Manufacturing <i>(Porzellanmanufaktur Nymphenburg / Porzellanmanufaktur Nymphenburg)</i>
-  - 🃏 Schafkopf Card Game <i>(Schafkopf / Schofkopf)</i>
-  - 🎨 Lüftlmalerei Mural Art <i>(Lüftlmalerei / Lüftelmalerei)</i>
-  - 🎑 Aperschnalzen Ritual <i>(Aperschnalzen / Apaschnoizn)</i>
-  - 🎑 Bavarian Brotzeit Ritual <i>(Brotzeit / Brotzeit)</i>
-  - 💃 Schuhplattler Dance <i>(Schuhplattler / Schuhplattler)</i>
-  - 💃 Zwiefacher Dance <i>(Zwiefacher / Zwiefacher)</i>
-  - 🎙️ Gstanzl Singing <i>(Gstanzl / Gestanzel)</i>
-  - 👘 Garb: Lederhosen & Dirndl <i>(Lederhose und Dirndl / Lederhosn un Diandl)</i>
+  - 3️⃣🐦‍🔥 Bavarian Folklore <i>(Bayerische Folklore / Bairische Volkskultur)</i>
+  - 3️⃣🏘️ Bavarian Beer Gardens <i>(Biergarten / Bierkeller)</i>
+  - 3️⃣🛠️ Mittenwald Violin Making <i>(Mittenwalder Geigenbau / Mittenwalder Geignbau)</i>
+  - 3️⃣🛠️ Nymphenburg Porcelain Manufacturing <i>(Porzellanmanufaktur Nymphenburg / Porzellanmanufaktur Nymphenburg)</i>
+  - 3️⃣🃏 Schafkopf Card Game <i>(Schafkopf / Schofkopf)</i>
+  - 3️⃣🎨 Lüftlmalerei Mural Art <i>(Lüftlmalerei / Lüftelmalerei)</i>
+  - 3️⃣🎑 Aperschnalzen Ritual <i>(Aperschnalzen / Apaschnoizn)</i>
+  - 3️⃣🎑 Bavarian Brotzeit Ritual <i>(Brotzeit / Brotzeit)</i>
+  - 3️⃣💃 Schuhplattler Dance <i>(Schuhplattler / Schuhplattler)</i>
+  - 3️⃣💃 Zwiefacher Dance <i>(Zwiefacher / Zwiefacher)</i>
+  - 3️⃣🎙️ Gstanzl Singing <i>(Gstanzl / Gestanzel)</i>
+  - 3️⃣👘 Garb: Lederhosen & Dirndl <i>(Lederhose und Dirndl / Lederhosn un Diandl)</i>
 - 🧝 Legacy of Baiuvarii <i>(Bajuwaren / Bajuwarn)</i>
 - 🏰 Heritage of the Duchy of Bavaria <i>(Herzogtum Bayern / Herzogtum Boarn)</i>
 - 🏰 Heritage of the Electorate of Bavaria <i>(Kurfürstentum Bayern / Kurfürstentum Boarn)</i>

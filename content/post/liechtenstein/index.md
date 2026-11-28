@@ -109,7 +109,7 @@ Hej! Here's a glimpse into my experiences in prosperous Liechtenstein, which I v
 - 🧀 Liechtensteiner Winzer Cheese <i>(Liechtensteiner Winzerkäse)</i>
 - 🍶 Liechtensteiner Lager Beer <i>(Brands: "Liechtensteiner Brauhaus")</i><br>
 <u>Triesenberg - Regional Special:</u> 
-- 🥘6️⃣ Lotschege Chnöpfle <i>(Lotschege Chnöpfle)</i>
+- 6️⃣🥘 Lotschege Chnöpfle <i>(Lotschege Chnöpfle)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -130,10 +130,10 @@ Hej! Here's a glimpse into my experiences in prosperous Liechtenstein, which I v
 - 🏰 Heritage of the Lordship of Schellenberg <i>(Herrschaft Schellenberg)</i><br>
 <u>Triesenberg - Regional Special:</u> 
 - 6️⃣ Culture of Walser People <i>(Walser)</i>
-  - 🐦‍🔥 Walser Folklore <i>(Walser-Brauchtum)</i>
-  - 🏘️ Walser Houses <i>(Walserhäuser)</i>
-  - 🛠️ Walser Woodcarving <i>(Walser-Holzschnitzerei)</i>
-  - 👘 Garb: Walser Tracht <i>(Walser Tracht)</i>
+  - 6️⃣🐦‍🔥 Walser Folklore <i>(Walser-Brauchtum)</i>
+  - 6️⃣🏘️ Walser Houses <i>(Walserhäuser)</i>
+  - 6️⃣🛠️ Walser Woodcarving <i>(Walser-Holzschnitzerei)</i>
+  - 6️⃣👘 Garb: Walser Tracht <i>(Walser Tracht)</i>
 
 
 

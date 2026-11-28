@@ -133,7 +133,7 @@ Hej! Here's a glimpse into my experiences in enchanting Slovakia, which I visite
 - 🧀 Oštiepok <i>(Oštiepok)</i>
 - 🧀 Parenica <i>(Parenica)</i>
 - 🍶 Borovička <i>(Brand: "Spišská")</i>
-- 🍲🛅 Mačanka Soup <i>(Rusínska Mačanka / Мачанка)</i>
+- 🛅🍲 Machanka Soup <i>(Rusínska Mačanka / Мачанка)</i>
 </br>
 <u>Bratislava - Regional Special:</u> 
 - 🧀 Bratislavský Rožok <i>(Bratislavský Rožok)</i>
@@ -157,10 +157,10 @@ Hej! Here's a glimpse into my experiences in enchanting Slovakia, which I visite
 - 🪕 Musical Instrument: Fujara <i>(Fujara)</i>
 - 👘 Garb: Slovak Kroj <i>(Slovenský Kroj)</i>
 - 🛅 Culture of Rusyns <i>(Rusíni / Русины)</i>
-   - 🏘️ Rusyn Wooden Churches <i>(Rusínske Drevené Chrámy / Русиньскы Деревяны Церкви)</i>
-   - 💃 Karčmaročka Dance <i>(Karčmaročka / Карчмарочка)</i>
-   - 🎙️ Prostopinije Chant <i>(Prostopinije / Простопѣніє)</i> 
-   - 👘 Garb: Krywulka <i>(Krywulka / Кривулька)</i> 
+   - 🛅🏘️ Rusyn Wooden Churches <i>(Rusínske Drevené Chrámy / Русиньскы Деревяны Церкви)</i>
+   - 🛅💃 Karčmaročka Dance <i>(Karčmaročka / Карчмарочка)</i>
+   - 🛅🎙️ Prostopinije Chant <i>(Prostopinije / Простопѣніє)</i> 
+   - 🛅👘 Garb: Krywulka <i>(Krywulka / Кривулька)</i> 
 - 🧝 Legacy of Ruthenians <i>(Ruteni)</i>
 - 🏰 Heritage of the Principality of Nitra <i>(Nitrianske Kniežatstvo)</i><br>
 <u>Banská Bystrica - Regional Special:</u> 

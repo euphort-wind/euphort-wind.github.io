@@ -136,7 +136,7 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
 - 🥫 Egg Butter <i>(Munavoi)</i>
 - 🍶 Finnish Lonkero <i>(Brand: "Hartwall Original")</i>
 - 🍶 Finnish Liqueur <i>(Brand: "Minttu")</i>
-- 🥘2️⃣ Sami Bidos <i>(Bidos / Biđos)</i>
+- 2️⃣🥘 Sami Bidos <i>(Bidos / Biđos)</i>
 <br>
 <u>Uusimaa - Regional Special:</u>
 - 🍰 Runeberg Torte <i>(Runebergintorttu)</i><br>
@@ -171,16 +171,16 @@ Hej! Here's a glimpse into my experiences in majestic Finland, which I visited i
 - 🪕 Musical Instrument: Kantele <i>(Kantele)</i>
 - 👘 Garb: Kansallispuku <i>(Suomalainen Kansallispuku)</i>
 - 2️⃣ Culture of Sámi <i>(Saamelaiset / Sámit)</i>
-  - 🕯️ Sámi Shamanism <i>(Saamelainen Muinaisusko / Sámi Osku)</i>
-  - 👑 System of Siida <i>(Lapinkylä / Siida)</i>
-  - 🏺 Guksi Cups <i>(Kuksat / Guvssat)</i>
-  - 🏘️ Lavvu Dwellings <i>(Umpilaavu / Lávvu)</i>
-  - 🎨 Duodji Handicraft <i>(Saamenkäsityö / Duodji)</i>
-  - 🏓 Sáhkku Game <i>(Sáhkku / Sáhkku)</i>
-  - 🏓 Dablo Game <i>(Dablo / Daablodh Prejjesne)</i>
-  - 🎙️ Joik Singing <i>(Joiku / Luohte)</i>
-  - 🪕 Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
-  - 👘 Garb: Beaska & Four Winds Hat <i>(Beaska ja Neljäntuulenlakki / Muoddá ja Čiehgahpir)</i>
+  - 2️⃣🕯️ Sámi Shamanism <i>(Saamelainen Muinaisusko / Sámi Osku)</i>
+  - 2️⃣👑 System of Siida <i>(Lapinkylä / Siida)</i>
+  - 2️⃣🏺 Guksi Cups <i>(Kuksat / Guvssat)</i>
+  - 2️⃣🏘️ Lavvu Dwellings <i>(Umpilaavu / Lávvu)</i>
+  - 2️⃣🎨 Duodji Handicraft <i>(Saamenkäsityö / Duodji)</i>
+  - 2️⃣🏓 Sáhkku Game <i>(Sáhkku / Sáhkku)</i>
+  - 2️⃣🏓 Dablo Game <i>(Dablo / Daablodh Prejjesne)</i>
+  - 2️⃣🎙️ Joik Singing <i>(Joiku / Luohte)</i>
+  - 2️⃣🪕 Musical Instrument: Fadno <i>(Fadno / Fadno)</i>
+  - 2️⃣👘 Garb: Beaska & Four Winds Hat <i>(Beaska ja Neljäntuulenlakki / Muoddá ja Čiehgahpir)</i>
 - 🧝 Legacy of Ancient Finns <i>(Suomalaiset Heimot)</i>
 
 

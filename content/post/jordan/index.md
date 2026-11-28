@@ -105,7 +105,7 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 - 🫓 Khubz <i>(<bdi style="direction: rtl;">خبز</bdi>)</i>
 - 🫓 Ka'ak <i>(<bdi style="direction: rtl;">كَعك</bdi>)</i>
 - 🍶 Arabic Tea <i>(<bdi style="direction: rtl;">شاي عربي</bdi>)</i>
-- 🥘🚹 Zarb-Style Lamb <i>(<bdi style="direction: rtl;">زرب</bdi>)</i>
+- 🚹🥘 Zarb-Style Lamb <i>(<bdi style="direction: rtl;">زرب</bdi>)</i>
 
 
 <b>🎬 Local movies:</b>
@@ -123,17 +123,17 @@ Hej! Here's a glimpse into my experiences in ancient Jordan, which I visited in 
 - 🪕 Musical Instrument: Mijwiz <i>(<bdi style="direction: rtl;">مجوز</bdi>)</i>
 - 👘 Garb: Dishdashah & Shemagh <i>(<bdi style="direction: rtl;">الدشداشة والشماغ</bdi>)</i>
 - 🚹 Culture of Bedouins <i>(<bdi style="direction: rtl;">البدو</bdi>)</i>
-  - 🦉 Concept: Sharaf <i>(<bdi style="direction: rtl;">شرف</bdi>)</i> 
-  - 🦉 Concept: Ird <i>(<bdi style="direction: rtl;">عرض</bdi>)</i>
-  - 🐦‍🔥 Nabaṭī Poetry <i>(<bdi style="direction: rtl;">الشعر النبطي</bdi>)</i>
-  - 👑 Title of Bedouin Sheikh <i>(<bdi style="direction: rtl;">شيخ بدوي</bdi>)</i>
-  - 👑 System of Bedouin Tribes <i>(<bdi style="direction: rtl;">عشائر البدو</bdi>)</i>
-  - 🏺 Bedouin Camel Saddles <i>(<bdi style="direction: rtl;">سروج الجِمال البدوية</bdi>)</i>
-  - 🏘️ Bedouin Tents <i>(<bdi style="direction: rtl;">بيت الشَّعَر</bdi>)</i>
-  - 🎨 Al Sadu Weaving <i>(<bdi style="direction: rtl;">حياكة السدو</bdi>)</i>
-  - 🏃🏻 Camel Racing Tradition <i>(<bdi style="direction: rtl;">سباق الهجن</bdi>)</i> 
-  - 🎭 As-Samer Performance <i>(<bdi style="direction: rtl;">السامر</bdi>)</i> 
-  - 💃 Al-Daha Dance <i>(<bdi style="direction: rtl;">الدَّحّة</bdi>)</i>
+  - 🚹🦉 Concept: Sharaf <i>(<bdi style="direction: rtl;">شرف</bdi>)</i> 
+  - 🚹🦉 Concept: Ird <i>(<bdi style="direction: rtl;">عرض</bdi>)</i>
+  - 🚹🐦‍🔥 Nabaṭī Poetry <i>(<bdi style="direction: rtl;">الشعر النبطي</bdi>)</i>
+  - 🚹👑 Title of Bedouin Sheikh <i>(<bdi style="direction: rtl;">شيخ بدوي</bdi>)</i>
+  - 🚹👑 System of Bedouin Tribes <i>(<bdi style="direction: rtl;">عشائر البدو</bdi>)</i>
+  - 🚹🏺 Bedouin Camel Saddles <i>(<bdi style="direction: rtl;">سروج الجِمال البدوية</bdi>)</i>
+  - 🚹🏘️ Bedouin Tents <i>(<bdi style="direction: rtl;">بيت الشَّعَر</bdi>)</i>
+  - 🚹🎨 Al Sadu Weaving <i>(<bdi style="direction: rtl;">حياكة السدو</bdi>)</i>
+  - 🚹🏃🏻 Camel Racing Tradition <i>(<bdi style="direction: rtl;">سباق الهجن</bdi>)</i> 
+  - 🚹🎭 As-Samer Performance <i>(<bdi style="direction: rtl;">السامر</bdi>)</i> 
+  - 🚹💃 Al-Daha Dance <i>(<bdi style="direction: rtl;">الدَّحّة</bdi>)</i>
 - 🏰 Heritage of Ammon <i>(<bdi style="direction: rtl;">مملكة عمون</bdi> / <bdi style="direction: rtl;">𐤏𐤌𐤍</bdi>)</i>
 - 🏰 Heritage of Moab <i>(<bdi style="direction: rtl;">مملكة موآب</bdi> / <bdi style="direction: rtl;">𐤌𐤀𐤁</bdi>)</i>
 - 🏰 Heritage of Edom <i>(<bdi style="direction: rtl;">مملكة إدوم</bdi> / <bdi style="direction: rtl;">𐤀𐤃𐤌</bdi>)</i> 
